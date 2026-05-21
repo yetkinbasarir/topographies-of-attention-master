@@ -1,74 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>STATE — Topographies of Attention</title>
+    <title>DAİRE — Topographies of Attention</title>
     <link>https://github.com/yetkinbasarir/topographies-of-attention-master</link>
     <description>Curated news digest</description>
     <language>tr</language>
-    <pubDate>Thu, 21 May 2026 13:30:37 +0300</pubDate>
+    <pubDate>Thu, 21 May 2026 23:49:57 +0300</pubDate>
     <item>
-      <title>Avrupa, İran ve Hindistan Gerginlikleri Arttı</title>
-      <link>https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates</link>
-      <description>Avrupalı liderler bölgesel çatışmaların ortasında transatlantik ittifakları tartışırken, EasyJet küresel gerilimler nedeniyle seyahat rezervasyonu zorluklarıyla karşı karşıya. İrlanda'da aşırılık yanlısı söylemler çekiş kazanıyor ve bir Rus jetinin bir RAF uçağıyla neredeyse ıskalaması İngiltere-Rusya ilişkilerini zorluyor. Hindistan'da Batı Bengal, Başbakan Narendra Modi'nin partisinin önemli bir seçim zaferinin ardından siyasi şiddete büründü. Bu çeşitli hikayeler, artan küresel ve bölgesel gerilimleri yansıtıyor.</description>
-      <category>STATE</category>
-      <pubDate>Thu, 21 May 2026 13:27:53 +0300</pubDate>
-      <guid>5706BB68-C942-42CD-961F-F023B97A77BC</guid>
+      <title>Şiddetin Ortasında Küba ve Batı Bengal'de Gerginlikler Artıyor</title>
+      <link>https://www.theguardian.com/world/2026/may/21/cuba-us-attack-raul-castro-indictment</link>
+      <description>Son olaylar hem Küba'da hem de Batı Bengal'de gerginliği artırdı. Küba'da, ABD'nin eski başkan Raúl Castro'ya yönelik cezai suçlamalarının ardından öfke patlak verdi ve vatandaşlar potansiyel askeri saldırılar ve güvenlikleri üzerindeki etkileri konusunda endişelerini dile getirdi. Bu arada, Batı Bengal'de, bir BJP yardımcısının vurulmasının ardından şiddet arttı ve Bharatiya Janata Partisi'nin Trinamol Kongresi'ne karşı seçim zaferinin ardından huzursuzluk nedeniyle yüzlerce tutuklamaya yol açtı. Her iki durum da, vatandaşların siyasi kargaşanın sonuçlarıyla boğuştuğu bir korku ve istikrarsızlık ortamını yansıtıyor.</description>
+      <category>DAİRE · ÇATIŞMA</category>
+      <pubDate>Thu, 21 May 2026 23:46:21 +0300</pubDate>
+      <guid>37822F07-8D08-40D7-BCAB-CB924D16102C</guid>
     </item>
     <item>
-      <title>Birleşik Krallık Siyaseti Göç, Ticaret ve Yasal Gelişmeler Arasında Değişiyor</title>
-      <link>https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates</link>
-      <description>Son haberler, Keir Starmer'ın hükümetini destekleyebilecek net göçte kayda değer bir düşüş de dahil olmak üzere Birleşik Krallık'taki önemli siyasi değişimlerin altını çiziyor. Bu arada, Birleşik Krallık'taki Yeşiller gibi siyasi partiler, Makerfield seçim adayı olarak Chris Kennedy gibi stratejik seçimler yapıyor. Ek olarak, eski bir DOJ savcısına yönelik cezai suçlamalar ve eski Trump müttefiki Roger Stone tarafından Myanmar'ın askeri cuntası için lobicilik iddiaları da dahil olmak üzere önemli yasal gelişmeler var. Amerika Birleşik Devletleri, eski Küba Cumhurbaşkanı Raúl Castro'ya karşı suçlamalarda bulundu. Hindistan'daki siyasi manzara, Narendra Modi'nin Batı Bengal'deki BJP'si için de belirleyici bir zafer gördü ve ülkenin siyasi dinamiklerinde önemli bir değişime işaret etti.</description>
-      <category>STATE</category>
-      <pubDate>Thu, 21 May 2026 13:28:46 +0300</pubDate>
-      <guid>D6978320-75ED-44A7-96D7-774E2922F8B3</guid>
+      <title>ABD Senatosu Buz Finansmanı Tasarısı Tartışmalar Arasında Durdu</title>
+      <link>https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates</link>
+      <description>ABD Senatosu, özellikle Başkan Trump'ın kişisel mülkleriyle ilgili harcamaları savunmasını çevreleyen iç anlaşmazlıklar nedeniyle Göçmenlik ve Gümrük İdaresi (ICE) için 1 milyar dolarlık bir finansman tasarısına devam etmemeye karar verdi. Chuck Schumer ve Hakeem Jeffries de dahil olmak üzere Senato Demokratları, Cumhuriyetçi bütçe planını bozulmuş bir söz olarak nitelendirerek eleştirdi. Bu karar, Cumhuriyetçiler seçmenleri yabancılaştırmaktan korktukları için parti içindeki daha geniş gerilimleri yansıtıyor. Tartışma, göçmenlik finansmanı konusunda devam eden tartışmaları ve Trump'ın harcama önceliklerinin siyasi etkilerini vurguluyor.</description>
+      <category>DAİRE · SİYASET</category>
+      <pubDate>Thu, 21 May 2026 23:47:06 +0300</pubDate>
+      <guid>7345A845-08E5-48ED-8484-D1773A22557F</guid>
     </item>
     <item>
-      <title>Politika Değişimleri, İşsizlik Artışı, Yapay Zeka Dalgalanması, Ticaret Anlaşması</title>
-      <link>https://www.theguardian.com/australia-news/2026/may/21/pauline-hanson-announces-norway-inspired-gas-policy-as-she-decries-25-export-tax-as-economic-vandalism</link>
-      <description>Avustralya'nın Tek Ulus partisi, yeni gaz projelerinde %30 özkaynak elde etmek için açık deniz gaz kar vergisinin kaldırılmasını önererek, Venezuela'dan potansiyel olarak fikirleri ithal ettiği için eleştirilere maruz kalıyor. Bu arada, Avustralya'nın işsizlik oranı beklenmedik bir şekilde %4,5'e yükseldi ve Merkez Bankası'nın faiz artışları konusundaki kararını etkiledi. Ayrı bir gelişmede Nvidia, yapay zeka patlamasının hızlanmasını vurgulayarak Wall Street'in gelir beklentilerini aşıyor. Ek olarak, Birleşik Krallık, altı Körfez ülkesiyle 3,7 milyar sterlinlik bir ticaret anlaşması sağlayarak çeşitli sektörlerdeki İngiliz iş fırsatlarını artırdı.</description>
-      <category>STATE</category>
-      <pubDate>Thu, 21 May 2026 13:28:59 +0300</pubDate>
-      <guid>FDBD937E-DA4F-456E-BB61-A420A4C49B5B</guid>
+      <title>Petrol Piyasaları İran Gerginliklerinin Ortasında Krizle Karşı Karşıya</title>
+      <link>https://www.theguardian.com/world/2026/may/21/oil-markets-nearing-red-zone-as-holiday-season-nears-warns-iea-chief</link>
+      <description>Uluslararası Enerji Ajansı (IEA), özellikle İran'da devam eden kriz ışığında, artan talep, azalan rezervler ve Orta Doğu'dan gelen ihracatın azalması nedeniyle petrol piyasalarının 'kırmızı bölgeye' yaklaştığı konusunda uyardı. IEA başkanı Fatih Birol, enerji şokunu hafifletmek için Hürmüz Boğazı'nın yeniden açılması ihtiyacını vurgulayarak Temmuz ve Ağustos aylarına kadar küresel bir petrol krizi öngörüyor. Bu durum, yaz seyahat sezonu yaklaştıkça arzı daha da bozmakla tehdit eden jeopolitik gerilimlerle daha da karmaşıklaşıyor.</description>
+      <category>DAİRE · EKONOMİ</category>
+      <pubDate>Thu, 21 May 2026 23:47:20 +0300</pubDate>
+      <guid>E7BBDA3D-77E1-430C-BDCE-0D8BD98305B9</guid>
     </item>
     <item>
-      <title>Xi-Putin, Rusya'nın Ukrayna Savaşı Ortasında Bağlar</title>
-      <link>https://www.theguardian.com/news/audio/2026/may/20/are-xi-and-putin-still-best-friends-the-latest</link>
-      <description>Xi Jinping, Vladimir Putin'i Pekin'de ağırlayarak Rusya'nın Ukrayna'daki savaşının ortasında yakın ilişkilerini vurguladı. Bu ziyaret, Xi'nin Donald Trump ile yakın zamanda yaptığı görüşmeyi takip ediyor ve Çin ile değişen Batı ilişkileriyle çakışıyor. Moskova Pekin'e daha fazla bağımlı hale geldikçe, Xi ve Putin arasındaki gelişen dinamikler, özellikle de güç dengesizliği ile ilgili sorular ortaya çıkıyor.</description>
-      <category>STATE</category>
-      <pubDate>Thu, 21 May 2026 13:29:03 +0300</pubDate>
-      <guid>679A7F95-22DC-45AC-8CBD-452A5DDFD229</guid>
+      <title>Grönland'da ABD Konsolosluğu Açılışı Üzerine Protestolar Patlak Verdi</title>
+      <link>https://www.theguardian.com/world/2026/may/21/greenland-trump-us-envoy-jeff-landry-visit</link>
+      <description>Bölgede daha güçlü bir Amerikan varlığını savunan bir ABD elçisinin yorumlarının ardından yüzlerce kişi, Grönland'ın Nuuk kentinde yeni bir ABD konsolosluğunun açılmasını protesto etti. Grönland Başbakanı ve birkaç politikacı olayı boykot ettiklerini açıklarken, göstericiler “ABD'yi durdurun” ve “eve git” gibi sloganlarla hoşnutsuzluklarını dile getirdiler. Protestolar, ABD'nin Kuzey Kutbu'ndaki çıkarları ve yabancı etkiye karşı yerel duygularla ilgili artan gerilimlerin altını çiziyor. Bu olay, özellikle Arktik bölgesi ile ilgili olarak jeopolitik dinamiklerin daha geniş bir bağlamının altını çiziyor.</description>
+      <category>DAİRE · DİPLOMASİ</category>
+      <pubDate>Thu, 21 May 2026 23:47:38 +0300</pubDate>
+      <guid>1C87FE5C-CEA5-4D57-8ADA-4CB8312CC6FC</guid>
     </item>
     <item>
-      <title>DRC'de Ebola Salgını: ABD ve DSÖ'nün Tepkisi Farklı</title>
-      <link>https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health</link>
-      <description>Demokratik Kongo Cumhuriyeti'ndeki Ebola salgını, Bundibugyo varyantının hızla yayılmasıyla daha da kötüleşiyor ve bu da DSÖ'yü deneysel aşıları düşünmeye itiyor. Marco Rubio gibi şahsiyetlerin eleştirileri altında olan ABD, halk sağlığı finansmanında kesintiler nedeniyle tepkiyle karşı karşıya kaldı ve tepkiyi engelledi. Bu arada, İngiltere'deki Lyme hastalığı vakaları arttı ve Kanada'nın plazma bağışı bölgesi güvenlik protokolleri yakın tarihli bir ölümün ardından inceleme altında. Bu raporlardaki farklılık, ABD politikasının Lyme hastalığı ve bağış güvenliği gibi yerel sorunlara karşı küresel sağlık tepkileri üzerindeki etkisinde yatmaktadır.</description>
-      <category>STATE</category>
-      <pubDate>Thu, 21 May 2026 13:29:23 +0300</pubDate>
-      <guid>02E01EBE-282A-4FFD-97DD-7C30CEEF72D9</guid>
+      <title>Ebola Salgını ABD Seyahat Yasağı Tartışmasını Başlattı</title>
+      <link>https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan</link>
+      <description>Demokratik Kongo Cumhuriyeti'nde (DRC) devam eden Ebola salgını, DRC, Uganda ve Güney Sudan'dan gelen bireyler için ABD seyahat yasağı hakkında tartışmalara yol açtı. Afrika CDC de dahil olmak üzere eleştirmenler, bu tür kısıtlamaların halk sağlığı risklerini daha da kötüleştirebileceğini ve küresel sağlıkta daha derin adaletsizlikleri yansıtabileceğini savunuyorlar. Bu arada uzmanlar, ABD'nin azalan halk sağlığı finansmanının, 500'den fazla vaka ve en az 134 şüpheli ölümle sonuçlanan salgınla mücadele çabalarını engellediğini vurguluyor. Dünya Sağlık Örgütü, gecikmeli müdahalesi nedeniyle eleştirilerle karşı karşıya kalırken, DRC'de enfekte olan bir ABD'li doktor tedavi için Almanya'ya tahliye edildi ve bu da salgının ölçeği ve aciliyeti hakkında endişeleri artırdı.</description>
+      <category>DAİRE · SAĞLIK</category>
+      <pubDate>Thu, 21 May 2026 23:47:54 +0300</pubDate>
+      <guid>AA40B883-8AC8-473E-8695-35FFE43C90A4</guid>
     </item>
     <item>
-      <title>Bondi Beach Saldırısından Sonra Adam Suçlandı</title>
-      <link>https://www.theguardian.com/australia-news/2026/may/21/man-charged-with-stealing-camera-equipment-from-bondi-shooting-victim-in-aftermath-of-terror-attack-ntwnfb</link>
-      <description>Danny James Ridley adlı bir adam, Yeni Güney Galler polisi tarafından 15 kişinin hayatına mal olan Bondi plajı terör saldırısının bir kurbanından kamera ekipmanı çaldığı iddiasıyla suçlandı. Olay, 14 Aralık'ta Ridley'in hazır bulunduğu bir Hanuka olayının ardından meydana geldi. Yetkililer, adamın çalınan ekipmanı rehin olduğunu iddia ediyor. Bu dava, trajik olayın ardından devam eden güvenlik endişelerini ve yasal işlemleri vurgulamaktadır.</description>
-      <category>STATE</category>
-      <pubDate>Thu, 21 May 2026 13:29:28 +0300</pubDate>
-      <guid>6361697A-8D0A-4949-916F-2245745A0A83</guid>
+      <title>Trump'ın Düğün Katılımı Acil Sorunların Ortasında Belirsiz</title>
+      <link>https://www.theguardian.com/us-news/2026/may/21/trump-son-wedding-invite</link>
+      <description>Donald Trump, İran ile gerginlikler gibi acil konuları gerekçe göstererek oğlu Donald Trump Jr.'ın düğününe katılma konusundaki belirsizliğini dile getirdi. Daveti kabul etti ancak zamanlamanın onun için zor olduğunu belirtti. Bu durum, Trump önemli ulusal ve uluslararası konularda yol alırken kişisel taahhütleri siyasi sorumluluklarla dengelemenin karmaşıklıklarını vurguluyor.</description>
+      <category>DAİRE · TOPLUM</category>
+      <pubDate>Thu, 21 May 2026 23:48:05 +0300</pubDate>
+      <guid>216F4736-B40A-49CF-8506-E94DC7F2647B</guid>
     </item>
     <item>
-      <title>Kolombiyalı Müzik Efsanesi Totó la Momposina Vefat Etti</title>
-      <link>https://www.theguardian.com/music/2026/may/20/toto-la-momposina-vocalist-and-colombian-music-legend-dies-aged-85</link>
-      <description>Cumbia müziğindeki küresel misyonerlik çabalarıyla kutlanan Kolombiyalı müzik ikonu Totó la Momposina, kalp krizi nedeniyle 85 yaşında öldü. Çocukları tarafından Instagram'da duyurulan o, Kolombiya kültürel ihracatında çok önemli bir figürdü.</description>
-      <category>STATE</category>
-      <pubDate>Thu, 21 May 2026 13:29:32 +0300</pubDate>
-      <guid>CDDE8250-86A5-4177-A4AC-1145A82985E0</guid>
+      <title>Tennessee Valisi, Carruthers için İnfazın Durdurulmasına İzin Verdi</title>
+      <link>https://www.theguardian.com/us-news/2026/may/21/tennessee-execution-tony-carruthers</link>
+      <description>Tennessee Valisi Bill Lee, damar erişim sorunları nedeniyle ölümcül bir enjeksiyon uygulamadaki zorlukların ardından 57 yaşındaki Tony Carruthers için bir yıllık infaz izni verdi. Carruthers'ın hukuk ekibi, zihinsel olarak yetersiz olduğunu ve onu 1994'te hüküm giydiği suçlarla ilişkilendiren somut bir kanıt olmadığını savunuyor. Bu karar, özellikle ruh sağlığı ve kanıt bütünlüğünü içeren davalarla ilgili olarak ölüm cezası ve uygulaması hakkında devam eden tartışmaların ortasında geldi.</description>
+      <category>DAİRE · SUÇ</category>
+      <pubDate>Thu, 21 May 2026 23:48:19 +0300</pubDate>
+      <guid>0710FD92-0365-4B80-B5DE-5A86185A2061</guid>
     </item>
     <item>
-      <title>Bernie Sanders, Michigan İlköğretim Okulu'nda İklim Aktivistini Onaylıyor</title>
-      <link>https://www.theguardian.com/us-news/2026/may/21/bernie-sanders-backs-climate-activist-michigan-race</link>
-      <description>Bernie Sanders, bir Michigan kongre bölgesinde Demokrat adaylığı için iklim aktivisti ve Sunrise Hareketi'nin kurucu ortağı Will Lawrence'ı onayladı. Yapay zeka veri merkezlerine karşı savunması ve Yeşil Yeni Anlaşma'yı desteklemesi ile tanınan Lawrence, büyük veri merkezlerinin bulunduğu salıncak bir bölgede çalışıyor. Kampanyası, ekonomik ve ırksal adalet sorunlarının yanı sıra iklim değişikliğini ele almaya odaklandığını vurguluyor.</description>
-      <category>STATE</category>
-      <pubDate>Thu, 21 May 2026 13:29:37 +0300</pubDate>
-      <guid>174B1C4F-6CC2-4A68-A67E-1FE0E113D976</guid>
+      <title>Lupita Nyong'o Sağcı Eleştirilerin Ortasında Rolü Savunuyor</title>
+      <link>https://www.theguardian.com/film/2026/may/21/lupita-nyongo-responds-rightwing-odyssey-criticism</link>
+      <description>Lupita Nyong'o, Elon Musk da dahil olmak üzere sağcı şahsiyetlerin, Christopher Nolan'ın yaklaşan The Odyssey uyarlamasında Troy'lu Helen rolüyle ilgili eleştirilerine değindi ve filmin çeşitli oyuncu kadrosunu dünyanın bir yansıması olarak vurguladı. Temmuz ayında gösterime girmesi planlanan film, Matt Damon ve Zendaya'nın da dahil olduğu yıldızlarla dolu bir kadroya sahip. Bu tartışma, özellikle klasik edebiyatın uyarlamalarında Hollywood'daki temsil hakkında devam eden tartışmaları vurgulamaktadır. Bu arada, İtalya'dan gelen diğer haberler, polisin yerel bir müzik yasağı nedeniyle Mick Jagger'ın katıldığı bir partiyi durdurduğunu ve bir Jamaikalı milletvekilinin parlamentoda Jamaikaca konuşma girişiminin, farklı bağlamlarda kültürel gerilimleri sergileyen dil ve sömürge sonrası kimlik hakkında bir tartışmaya yol açtığını bildirdi.</description>
+      <category>DAİRE · KÜLTÜR</category>
+      <pubDate>Thu, 21 May 2026 23:48:31 +0300</pubDate>
+      <guid>A9027E5E-647F-4F24-ACB8-4C3605FAEBE3</guid>
+    </item>
+    <item>
+      <title>Bir Günde Rekor 274 Dağcı Zirvesi Everest</title>
+      <link>https://www.theguardian.com/world/2026/may/21/record-climbers-summit-everest-from-nepalese-side-in-single-day</link>
+      <description>Açık hava koşullarından yararlanarak tek bir günde Nepal tarafından Everest Dağı'nın zirvesine tek bir günde rekor 274 dağcı başarıyla ulaştı. Bu başarı, her zamanki rotadaki buz düşüşleriyle ilgili endişeler nedeniyle gecikmiş bir bahar tırmanış sezonundan sonra geldi. Nepal Sefer Operatörleri Birliği'nden Rishi Ram Bhandari, dağcıların fırsatı yakalamasına izin veren elverişli havayı vurgulayarak rekor kıran tırmanışı doğruladı.</description>
+      <category>DAİRE · SPOR</category>
+      <pubDate>Thu, 21 May 2026 23:48:36 +0300</pubDate>
+      <guid>DC11F95B-D76D-4B8F-80E0-F0487E7E95AA</guid>
+    </item>
+    <item>
+      <title>El Niño Nedeniyle Daha Hafif Kasırga Sezonu Tahmin Ediliyor</title>
+      <link>https://www.theguardian.com/us-news/2026/may/21/hurricane-season-2026-noaa</link>
+      <description>Federal bilim insanları, gelişen El Niño hava durumuna atfedilen sekiz ila on dört adlandırılmış fırtınayı öngörerek 2026'da daha ılıman bir Atlantik kasırga sezonu öngördüler. Bu tahmin, ABD'nin Trump yönetiminin personel kesintileri nedeniyle fırtınalara hazırlıksız olduğu konusundaki endişelerin ortasında geldi. İlgili bir bağlamda, Kolombiya, ABD'nin siyasi dinamiklerinden, özellikle de ülkeyi madencilik ve fracking gibi daha çevreye zararlı uygulamalara yönlendirebilecek Trumpizm mirasından etkilenen iklim politikasında zorluklarla karşı karşıyadır.</description>
+      <category>DAİRE · İKLİM</category>
+      <pubDate>Thu, 21 May 2026 23:48:44 +0300</pubDate>
+      <guid>3AF16ECD-8651-4DE6-9A7B-C062B3589FF3</guid>
     </item>
   </channel>
 </rss>
