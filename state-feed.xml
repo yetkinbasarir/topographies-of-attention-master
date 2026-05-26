@@ -1,202 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>DAİRE — Topographies of Attention</title>
-    <link>https://github.com/yetkinbasarir/topographies-of-attention-master</link>
-    <description>Curated news digest</description>
-    <language>tr</language>
-    <pubDate>Tue, 26 May 2026 15:29:23 +0300</pubDate>
-    <item>
-      <title>Papa Leo ve Yapay Zeka</title>
-      <link>https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html</link>
-      <description>Papa Leo, yapay zeka konusundaki endişelerini dile getiren 42.300 kelimelik bir genelge yayımladı. Bu belge, Katolik Kilisesi'nin liderinin yapay zekanın yanlış kullanımı veya aşırı kullanımına dair tartışmalara güçlü bir müdahalesini temsil ediyor. Leo XIV, bu modern dünya sorununu, yüzyıllardır papalık iletişiminin bir parçası olan genelge formatında ele aldı. Papa, yapay zeka liderlerine teknolojinin olası tehlikelerini göz önünde bulundurarak yavaşlamaları çağrısında bulundu. Yanında, önde gelen bir yapay zeka şirketinin kurucularından biri de bulunuyordu. İlk Amerikalı papa olan Leo, mektubunda teknolojik değişimlerin merkezine insanlara olan özeni koyma çağrısında bulundu.</description>
-      <category>DAİRE · PAPA LEO VE YAPAY ZEKA</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>2E29AEF3-B7E4-4399-BB7E-C3C4C7A19936</guid>
-    </item>
-    <item>
-      <title>İsrail-Hizbullah Çatışmaları</title>
-      <link>https://www.nytimes.com/2026/05/25/world/middleeast/netanyahu-israel-hezbollah-lebanon.html</link>
-      <description>İsrail Başbakanı Netanyahu, İsrail'in Lübnan'daki Hizbullah hedeflerine yönelik saldırılarını artırmayı planladığını açıkladı. Bu açıklamanın ardından, İsrail ordusu son 24 saat içinde 70'ten fazla Hizbullah noktasını vurduğunu bildirdi. Öte yandan, Hizbullah lideri, Lübnan hükümetinin İsrail ile doğrudan görüşmeler yapmasını eleştirerek Lübnan halkını sokaklara çıkmaya çağırdı. Çatışmanın geleceği büyük ölçüde dış güçlerin kararlarına bağlı. ABD ve İran arasında olası bir barış anlaşması, İsrail ile Hizbullah arasındaki çatışmayı yatıştırabilir. Ancak bu, esas olarak ABD, İran ve İsrail'in alacağı kararlara bağlı olacak.</description>
-      <category>DAİRE · İSRAİL-HİZBULLAH ÇATIŞMALARI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>8DDA4E16-2DE1-4B1D-9928-3B028FFDCF63</guid>
-    </item>
-    <item>
-      <title>Ukrayna Savaşı</title>
-      <link>https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html</link>
-      <description>Ukrayna'daki savaş, hem cephede hem de küresel düzeyde çeşitli dinamiklerle şekilleniyor. Drone teknolojisi ve diplomasi, Ukrayna ve İran'daki çatışmalar arasında benzerlikler gösteriyor, bu da gelecekteki savaşlar için bir model sunuyor. Cephe hattındaki Kostiantynivka şehri, neredeyse tamamen yıkılmış durumda. Kurtarma ekipleri, geride kalan az sayıdaki sivili tahliye etmek için hayatlarını riske atıyor. Öte yandan, Ukrayna'da tartışmalı bir figür olan Andriy Melnyk, Kiev yakınlarında yeniden defnedilerek devlet töreniyle onurlandırıldı. Melnyk, Nazi işbirlikçisi olarak eleştirilirken, Sovyet karşıtı direniş lideri olarak da yüceltiliyor. Kiev, Rusya'nın Oreshnik orta menzilli balistik füzesini üçüncü kez kullanmasıyla pazar sabahı saatlerce süren bir saldırıya maruz kaldı. Başkentteki binalar sarsıldı ve halk tedirgin bir bekleyişe geçti.</description>
-      <category>DAİRE · UKRAYNA SAVAŞI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>302A2163-DE25-4F8D-8989-2E7C901F4BC0</guid>
-    </item>
-    <item>
-      <title>Küba Enerji Krizi</title>
-      <link>https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html</link>
-      <description>ABD'nin uyguladığı petrol ambargosu nedeniyle milyonlarca Kübalı, yemek pişirmek için gaz bulamıyor. Santiago de Cuba'da, devrim hareketinin doğduğu bu bölgede, apartman sakinleri çareyi kömür ve odun ateşinde buluyor. Enerji krizinin etkisiyle, halk temel ihtiyaçlarını karşılamak için geleneksel yöntemlere dönmek zorunda kalıyor.</description>
-      <category>DAİRE · KÜBA ENERJİ KRİZİ</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>FF793EFD-13DA-4702-93E1-6C89B60FC680</guid>
-    </item>
-    <item>
-      <title>Manipur Etnik Çatışmaları</title>
-      <link>https://www.nytimes.com/2026/05/26/world/asia/india-manipur-violence-ethnic-conflict.html</link>
-      <description>Manipur'da üç yıl önce yaşanan isyanların ardından eyalet hala kaos içinde. Son çatışmalar öncesinde bile, dikenli teller ve silahlı kontrol noktaları bölgeye giriş çıkışı zorlaştırıyordu. Times muhabirleri, bu engeller nedeniyle bölgede hareket etmekte güçlük çekti. Eyaletteki şiddet ve bölünmeler, günlük yaşamın bir parçası haline gelmiş durumda.</description>
-      <category>DAİRE · MANİPUR ETNİK ÇATIŞMALARI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>AE7DEFAF-83DD-44F1-893E-3A71E6903B3C</guid>
-    </item>
-    <item>
-      <title>Ebola Salgını</title>
-      <link>https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html</link>
-      <description>Kongo'da aylardır hızla yayılan Ebola virüsü, yetkililerin müdahale çabalarını geride bırakmış durumda. Salgının merkezi olan şehirde, virüsün yayılımı karşısında alınan önlemler ancak şimdi şekillenmeye başlıyor. Bu durum, dünya genelinde salgınlara karşı hazırlıklı olunması gerektiğini bir kez daha hatırlatıyor. Hantavirüs ve Ebola gibi hastalıklar, salgınların kaçınılmaz olduğunu ve küresel iş birliğinin önemini vurguluyor. Gelecekteki pandemileri önlemek için uluslararası düzeyde etkili stratejiler geliştirilmesi şart.</description>
-      <category>DAİRE · EBOLA SALGINI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>9C9952D2-AAFC-49FA-AF2F-42F616127671</guid>
-    </item>
-    <item>
-      <title>İngiltere Sıcak Hava Dalgası</title>
-      <link>https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html</link>
-      <description>İngiltere'de Mayıs ayında sıcaklık rekoru kırılabilir. Meteorologlar, bazı bölgelerde sıcaklıkların 35 dereceye kadar çıkabileceği uyarısında bulundu. Bu durum, Mayıs ayı için kaydedilen en yüksek sıcaklık seviyesine ulaşılabileceğini gösteriyor.</description>
-      <category>DAİRE · İNGİLTERE SICAK HAVA DALGASI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>C10EF3CD-7144-40F3-986A-7CCE126806D4</guid>
-    </item>
-    <item>
-      <title>Kamboçya Siyasi Gelişmeleri</title>
-      <link>https://www.nytimes.com/2026/05/25/world/asia/cambodia-pardon-kem-sokha.html</link>
-      <description>Kamboçya'da muhalefetin önde gelen isimlerinden Kem Sokha, ülkenin lideri tarafından affedildi. Bu adım, Batılı ülkelerle gerilen ilişkileri düzeltme çabası olarak değerlendiriliyor.</description>
-      <category>DAİRE · KAMBOÇYA SİYASİ GELİŞMELERİ</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>EF383A29-C729-40F1-A08E-F8B0134AA4B8</guid>
-    </item>
-    <item>
-      <title>Laos Mağara Kurtarma Operasyonu</title>
-      <link>https://www.nytimes.com/2026/05/26/world/asia/laos-cave-rescue.html</link>
-      <description>Laos'ta altın ararken sel sularının bastığı bir mağarada mahsur kalan yedi kişiyi kurtarma çalışmaları sürüyor. Grup, neredeyse bir haftadır mağarada sıkışmış durumda. 2018'de Tayland'da bir genç futbol takımının kurtarılmasına katılan dalgıçlar da bu operasyona destek veriyor. Kurtarma ekipleri, zorlu koşullara rağmen mahsur kalan kişilere ulaşmak için yoğun çaba harcıyor.</description>
-      <category>DAİRE · LAOS MAĞARA KURTARMA OPERASYONU</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>3C4182D1-C3E3-48B7-9E6D-57D4E6F2D833</guid>
-    </item>
-    <item>
-      <title>Dominik Cumhuriyeti'nde Haitili Göçmenler</title>
-      <link>https://www.nytimes.com/2026/05/26/world/americas/dominican-republic-haiti-hospital-deportations.html</link>
-      <description>Dominik Cumhuriyeti'nde Haitili göçmen kadınlar, sınır dışı edilme korkusuyla hastanelerde doğum yapmaktan kaçınıyor. Ülkede göçmenleri hastanelerde gözaltına almak için görevlendirilen göçmenlik ajanları nedeniyle, Haitili anneler denetimsiz ve sağlıksız ortamlarda doğum yapmak zorunda kalıyor. Bu durum, hem annelerin hem de bebeklerin sağlıklarını ciddi şekilde tehlikeye atıyor.</description>
-      <category>DAİRE · DOMİNİK CUMHURİYETİ'NDE HAİTİLİ GÖÇMENLER</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>6A3F997E-A328-4BA6-8EDF-0D500DE060DD</guid>
-    </item>
-    <item>
-      <title>Zambiya'da HIV İlaç Dağıtımı</title>
-      <link>https://www.nytimes.com/2026/05/26/health/lenacapavir-hiv-zambia.html</link>
-      <description>Lenacapavir adlı güçlü bir HIV ilacı, Zambiya'ya ulaştı. Bu ilaç, yılda iki kez yapılan enjeksiyonlarla HIV enfeksiyonuna karşı koruma sağlıyor. Ancak, Amerikan yardımlarındaki kesintiler nedeniyle sağlık sistemi zayıflamış olan ülkede, ilacın gerçekten ihtiyacı olan kişilere ulaşıp ulaşamayacağı belirsizliğini koruyor. Sağlık altyapısındaki bu zayıflık, ilacın etkin dağıtımını ve erişimini zorlaştırabilir.</description>
-      <category>DAİRE · ZAMBİYA'DA HIV İLAÇ DAĞITIMI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>C891C98E-3BB1-4627-A05E-59F33B6C9337</guid>
-    </item>
-    <item>
-      <title>Pakistan Tren Saldırısı</title>
-      <link>https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html</link>
-      <description>Pakistan'da bir trenin raydan çıkmasına neden olan bombalı saldırıda en az 14 kişi hayatını kaybetti. Patlamanın şiddeti o kadar büyüktü ki, çevredeki birçok bina zarar gördü ve 24 kilometre uzaklıktaki bir yerleşim sakini patlamanın etkisiyle uykusundan uyandı. Saldırının sorumluluğunu bir ayrılıkçı grup üstlendi.</description>
-      <category>DAİRE · PAKİSTAN TREN SALDIRISI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>A77557C3-887F-4BC1-AF6E-E30FD827955B</guid>
-    </item>
-    <item>
-      <title>Cannes Film Festivali</title>
-      <link>https://www.nytimes.com/2026/05/24/world/cannes-festival-fjord-iran-deal.html</link>
-      <description>Cannes Film Festivali, her yıl Hollywood'un kutladığı yapımları belirlemede giderek daha etkili bir rol oynuyor. Festivalin gösterişli ve biraz da nostaljik atmosferi, Oscar yarışında öne çıkan filmlerin ilk kez sahneye çıktığı yer olarak dikkat çekiyor. Fransa'nın bu prestijli etkinliği, sinema dünyasında önemli bir referans noktası haline gelmiş durumda.</description>
-      <category>DAİRE · CANNES FİLM FESTİVALİ</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>9B737860-C38B-4241-A62A-8CC81C77F119</guid>
-    </item>
-    <item>
-      <title>İngiltere Konut Krizi</title>
-      <link>https://www.nytimes.com/2026/05/24/world/europe/london-guardianships-rent-cost-of-living.html</link>
-      <description>Londra'da kira fiyatlarının hızla artması, kent sakinlerini boş kalan barlar, ofisler ve karakollar gibi binalara yönlendiriyor. Eskiden marjinal bir çözüm olarak görülen bu uygulama, konut piyasasının daralmasıyla birlikte daha fazla kişi tarafından benimseniyor. Bu yöntemle, boş binalarda yaşayan bireyler, hem uygun fiyatlı konaklama sağlıyor hem de binaların korunmasına katkıda bulunuyor.</description>
-      <category>DAİRE · İNGİLTERE KONUT KRİZİ</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>671B47CB-CA4B-45BF-931C-1EAA43A9CAFD</guid>
-    </item>
-    <item>
-      <title>Madagaskar Kutsal Ağaçlar</title>
-      <link>https://www.nytimes.com/2026/05/25/world/africa/baobab-tree-dying-madagascar-africa.html</link>
-      <description>Madagaskar'da bulunan yüzyıllık bir baobab ağacı yavaş yavaş ölüyor. Bu kutsal ağacın ölümü, bölgedeki hassas ekosistemin bozulduğuna işaret ediyor. Ormanın derinliklerinde yer alan bu ağaç, yalnızca doğal güzelliğiyle değil, aynı zamanda ekosistem üzerindeki etkisiyle de dikkat çekiyor. Baobabın yok oluşu, çevresel dengenin giderek daha kırılgan hale geldiğini gösteriyor.</description>
-      <category>DAİRE · MADAGASKAR KUTSAL AĞAÇLAR</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>A0C3948A-A7E0-4AB2-A6B8-9BBC804CD2FD</guid>
-    </item>
-    <item>
-      <title>FIFA-Fox Yayın Hakları Anlaşması</title>
-      <link>https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html</link>
-      <description>FIFA ile Fox arasında yapılan anlaşma, Fox'un Dünya Kupası yayın haklarını yüz milyonlarca dolar indirimle elde etmesine olanak sağladı. Bu karar, iki taraf arasında olası bir davayı önlemek amacıyla alındı ve Fox için büyük bir kazanç anlamına geldi. Anlaşma, Dünya Kupası yayın haklarının değerini önemli ölçüde düşürdü ve Fox'a büyük bir mali avantaj sağladı.</description>
-      <category>DAİRE · FIFA-FOX YAYIN HAKLARI ANLAŞMASI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>721DF9BB-E861-44F0-887B-3BD06D459AC5</guid>
-    </item>
-    <item>
-      <title>Alberta Referandumu ve Brexit</title>
-      <link>https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html</link>
-      <description>Kanada Başbakanı, Alberta'nın Kanada'dan ayrılması için yapılan referandumun tehlikeli bir blöf olduğunu belirtti. Başbakan, İngiltere'nin Avrupa Birliği'nden ayrılma kararı aldığı dönemde İngiltere Merkez Bankası'nın başkanlığını yapmıştı. Alberta referandumunun, tıpkı Brexit gibi istenmeyen sonuçlar doğurabileceği konusunda uyardı. Bu tür ayrılık girişimlerinin geri tepebileceğini ve beklenmedik sorunlara yol açabileceğini ifade etti.</description>
-      <category>DAİRE · ALBERTA REFERANDUMU VE BREXİT</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>8D4ECECF-9E6C-40EA-B23F-EA4AA47791A8</guid>
-    </item>
-    <item>
-      <title>İsrail İç Şiddet Olayları</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/israel-herzog-violence.html</link>
-      <description>İsrail Cumhurbaşkanı Isaac Herzog, Batı Şeria'daki yerleşimci saldırılarını ve mahkumlara yönelik kötü muameleleri sert bir dille eleştirdi. Herzog, yaptığı konuşmada, bu tür şiddet olaylarının kabul edilemez olduğunu vurguladı. Cumhurbaşkanının genellikle sembolik olan rolüne rağmen, bu açıklamaları İsrail'deki iç şiddet olaylarına karşı ciddi bir uyarı niteliği taşıyor. Herzog'un bu çıkışı, ülkedeki gerilimi azaltma çabalarına katkı sağlamayı hedefliyor.</description>
-      <category>DAİRE · İSRAİL İÇ ŞİDDET OLAYLARI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>0BFB0D2B-F5F0-48BD-B54C-2A4630A7D953</guid>
-    </item>
-    <item>
-      <title>Küresel Yapay Zeka Güvenliği</title>
-      <link>https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html</link>
-      <description>Birleşik Krallık hükümetine bağlı A.I. Güvenlik Enstitüsü, OpenAI ve Google'dan uzmanların katılımıyla yapay zekanın ortaya çıkan risklerini incelemek için çalışmalar yürütüyor. Enstitü, yapay zekanın potansiyel tehlikelerini tespit etme konusunda diğer ülkelere de model teşkil ediyor. Bu girişim, küresel çapta yapay zekanın güvenliğini sağlama çabalarına önemli bir katkı sunuyor.</description>
-      <category>DAİRE · KÜRESEL YAPAY ZEKA GÜVENLİĞİ</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>D47EEB26-FE2C-4581-89BB-42B1B355AFD0</guid>
-    </item>
-    <item>
-      <title>Tayland'da Rus Topluluğu</title>
-      <link>https://www.nytimes.com/2026/05/26/world/asia/russians-phuket-thailand.html</link>
-      <description>Rusya'nın Ukrayna'yı işgalinin ardından binlerce Rus, Tayland'ın Phuket adasında bir topluluk oluşturdu. Bu yeni yerleşim, savaşın etkilerinden kaçan Ruslar için bir sığınak haline geldi. Ancak, bu topluluğun üzerinde geçici bir hava hakim. Adada kurulan bu Rus yerleşimi, belirsizlikler ve geleceğe dair kaygılarla şekilleniyor. Topluluğun kalıcılığına dair soru işaretleri, buradaki yaşamın sürdürülebilirliği konusunda endişeler yaratıyor.</description>
-      <category>DAİRE · TAYLAND'DA RUS TOPLULUĞU</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>10E924A7-3271-415D-8859-B355A4C492B9</guid>
-    </item>
-    <item>
-      <title>İran-ABD Nükleer Anlaşma Görüşmeleri</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/rubio-iran-nuclear.html</link>
-      <description>ABD Dışişleri Bakanı, İran'ın Hürmüz Boğazı'nı açması halinde nükleer program görüşmelerine başlamaya hazır olduklarını belirtti. Bu gelişme, savaşla ilgili ortaya çıkan bir anlaşmanın parçası olarak değerlendiriliyor. Öte yandan, İsrail Başbakanı, ABD Başkanı Trump ile İran'ın nükleer silah edinmesini engelleme konusunda mutabık kaldıklarını açıkladı. Analistler, olası bir anlaşmanın İran'ın nükleer ve füze kapasitesini önemli ölçüde azaltmayacağından endişe ediyor.</description>
-      <category>DAİRE · İRAN-ABD NÜKLEER ANLAŞMA GÖRÜŞMELERİ</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>FA48552E-4191-4CC6-BE48-A8E283ED42F6</guid>
-    </item>
-    <item>
-      <title>Koral Resif Koruma Çalışmaları</title>
-      <link>https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html</link>
-      <description>Pasifik Okyanusu'ndaki Mercan Üçgeni'nde tahrip olmuş bir bölgede, bir koruma grubu yapay resif inşa etmeye çalışıyor. Bu girişim, bombalar ve iklim değişikliği nedeniyle zarar gören mercan resiflerini canlandırmayı hedefliyor. Çalışmada beton kalıplar kullanılarak, doğal resiflerin yeniden oluşması ve deniz ekosisteminin eski sağlığına kavuşması amaçlanıyor.</description>
-      <category>DAİRE · KORAL RESİF KORUMA ÇALIŞMALARI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>53388E47-0979-41F7-BEB3-561F527B3F31</guid>
-    </item>
-    <item>
-      <title>ABD Otomotiv Endüstrisi ve Kanada</title>
-      <link>https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html</link>
-      <description>Detroit merkezli otomobil üreticileri, Kanada ve Amerika Birleşik Devletleri arasında açık ticaretin öncüsü olmuş ve her iki ülkeye de fayda sağlamıştı. Ancak, Başkan Trump'ın başlattığı ticaret savaşı, bu otomobil üreticilerinin Kanada'daki geleceğini belirsiz bir duruma soktu.</description>
-      <category>DAİRE · ABD OTOMOTİV ENDÜSTRİSİ VE KANADA</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>018FDC83-E84B-4A79-9AD7-68323E8FFC26</guid>
-    </item>
-    <item>
-      <title>Chelsea Çiçek Fuarı Tartışmaları</title>
-      <link>https://www.nytimes.com/2026/05/26/world/europe/chelsea-flower-show-gnomes-uk.html</link>
-      <description>Chelsea Çiçek Fuarı'nda, bahçe cücelerine yönelik geçici yasağın kaldırılmasıyla birlikte, katılımcılar arasında bu sevimli figürlerin bahçecilikteki yeri üzerine tartışmalar yaşandı. Prestijli etkinlikte, ziyaretçiler ödüllü çiçekleri satın almak için yarışırken, İngiliz bahçeciliğine özgü bu &quot;iyi çılgınlık&quot; unsuru dikkat çekti. Bahçe cücelerinin fuardaki varlığı, geleneksel ve yenilikçi yaklaşımlar arasında bir denge arayışını simgeledi.</description>
-      <category>DAİRE · CHELSEA ÇİÇEK FUARI TARTIŞMALARI</category>
-      <pubDate>Tue, 26 May 2026 13:50:24 +0300</pubDate>
-      <guid>85CAC85F-7062-4407-AD16-3E5246CD840E</guid>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:toa="https://topographies.io/rss">
+    <channel>
+        <title>İnsan Hakları Gelişmeleri</title>
+        <description>Dünya genelinde insan hakları mücadeleleri ve ihlalleri dikkat çekiyor. Botsvana'da eşcinsel hakları için verilen mücadele, Venezuela'da mahkumların kötü muamele iddialarına karşı protestoları ve Kanada'nın mülteci politikası tartışma yaratıyor. İran'da internet kesintisinin sona ermesi, dijital haklar açısından ne anlama geliyor?</description>
+        <language>tr</language>
+        <lastBuildDate>Wed, 27 May 2026 00:50:31 +0300</lastBuildDate>
+        <toa:packetTitle>İnsan Hakları Gelişmeleri</toa:packetTitle>
+        <toa:packetSpot>Dünya genelinde insan hakları mücadeleleri ve ihlalleri dikkat çekiyor. Botsvana'da eşcinsel hakları için verilen mücadele, Venezuela'da mahkumların kötü muamele iddialarına karşı protestoları ve Kanada'nın mülteci politikası tartışma yaratıyor. İran'da internet kesintisinin sona ermesi, dijital haklar açısından ne anlama geliyor?</toa:packetSpot>
+        <toa:sessionID>doc_2026_05_26_001</toa:sessionID>
+        <toa:publishedAt>2026-05-26T21:50:31Z</toa:publishedAt>
+<item>
+    <title>Botsvana'da eşcinsel evliliği yasallaştırmak isteyen çiftin mücadelesi</title>
+    <description>Bonolo Selelo ve Tsholofelo Kumile, evlenme haklarını elde etmek için mahkemeye gidiyor ancak kilise gruplarının sert muhalefetiyle karşılaşıyorlar. Selelo, Gaborone Onur etkinliğinde Kumile'yi gördüğünde onun çekiciliğinden etkilenmişti. İkili sohbet etmeye başladı ve Kumile, etkinlikteki tarot falı hakkında endişelerini dile getirdiğinde, Selelo ona sarılmayı teklif etti. Fal olumlu çıktı ama Kumile sarılmayı yine de aldı ve saatlerce konuştular. Bu, 1 Ekim 2023'teydi. İki ay sonra birlikte yaşamaya başladılar. 2024 Paskalya tatilinde bir yürüyüş sırasında Selelo, Kumile'ye evlenme teklif etti. Bir yıl sonra, evlenme niyetlerini kaydettirmek için yerel bir hükümet ofisine gittiklerinde bunun yasal olmadığını öğrendiler.</description>
+    <link>https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court</link>
+    <guid isPermaLink="false">atom_002</guid>
+    <pubDate>Mon, 25 May 2026 07:00:15 +0300</pubDate>
+    <category>İnsan Hakları</category>
+    <toa:group>Eşcinsel hakları Botsvana</toa:group>
+    <toa:newsValue>5</toa:newsValue>
+    <toa:atomID>atom_002</toa:atomID>
+</item>
+<item>
+    <title>Venezuela'da mahkumlar kötü muamele iddialarını protesto için hapishane çatısına çıktı</title>
+    <description>Venezuela'nın Barinas hapishanesindeki mahkumlar, iddia edilen kötü muameleleri protesto etmek için hapishane çatısına çıkarak yatakları ateşe verdi. Mahkumlar, barışçıl bir protesto sırasında hapishane personelinin ateş açtığını ve bazı kişilerin yaralandığını öne sürdü. Mahkumlar, hapishane müdürünün görevden alınmasını talep ederek, &quot;Adalet istiyoruz. Gardiyanlar ve müdürler bize ateş ediyor,&quot; dedi. Bu ifadeler, yerel bir STK olan Venezuelan Observatory of Prisons tarafından paylaşılan bir videoda yer aldı.</description>
+    <link>https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses</link>
+    <guid isPermaLink="false">atom_007</guid>
+    <pubDate>Mon, 25 May 2026 09:20:46 +0300</pubDate>
+    <category>İnsan Hakları</category>
+    <toa:group>Venezuela hapishane protestoları</toa:group>
+    <toa:newsValue>4</toa:newsValue>
+    <toa:atomID>atom_007</toa:atomID>
+</item>
+<item>
+    <title>Kanada, mültecileri ICE'e teslim ediyor: Sınırda reddedilenler ABD'de gözaltında</title>
+    <description>Kanada, sığınma kurallarını sıkılaştırırken, aileleriyle buluşmak isteyen mülteciler sınırda reddedildikten sonra ABD'de gözaltına alınıyor. Her geçen gün ABD'deki gözaltı süresi uzadıkça, Markens Appolon hayalini kurduğu hayatın elinden kayıp gittiğini hissediyor. 25 yaşındaki Appolon, üniversitedeki ekonomi eğitimini altüst eden çete şiddetinden kaçmak için Haiti'den ayrıldı ve Montreal'deki ailesine katılmayı planlıyordu.</description>
+    <link>https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention</link>
+    <guid isPermaLink="false">atom_008</guid>
+    <pubDate>Sat, 23 May 2026 14:00:28 +0300</pubDate>
+    <category>İnsan Hakları</category>
+    <toa:group>Kanada ABD mülteci politikası</toa:group>
+    <toa:newsValue>6</toa:newsValue>
+    <toa:atomID>atom_008</toa:atomID>
+</item>
+<item>
+    <title>İran'da 88 günlük internet kesintisi sona eriyor</title>
+    <description>İran'ın küresel internete erişimi, 88 günlük rekor bir kesintinin ardından Salı günü yavaş yavaş yeniden başladı. Bu kesinti, binlerce İranlının işini kaybetmesine neden olmuş ve İran güvenlik güçlerinin geniş çaplı bir baskı uygulamasına zemin hazırlamıştı. İnternetin yeniden açılması, &quot;ülkenin siber alanını yönlendirme özel karargahı&quot; adlı birimin yetkisini sorgulayan geçici bir idari mahkeme kararına rağmen gerçekleşti. Bu birim, bir hafta önce Cumhurbaşkanı Masoud Pezeshkian tarafından kurulmuştu.</description>
+    <link>https://www.theguardian.com/world/2026/may/26/iran-internet-blackout</link>
+    <guid isPermaLink="false">atom_028</guid>
+    <pubDate>Tue, 26 May 2026 17:28:53 +0300</pubDate>
+    <category>İnsan Hakları</category>
+    <toa:group>İran internet kesintisi</toa:group>
+    <toa:newsValue>6</toa:newsValue>
+    <toa:atomID>atom_028</toa:atomID>
+</item>
+    </channel>
 </rss>
