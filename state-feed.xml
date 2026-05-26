@@ -1,57 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:toa="https://topographies.io/rss">
     <channel>
-        <title>İnsan ve Hakları</title>
-        <description>Dünya genelinde insan hakları mücadeleleri ve ihlalleri dikkat çekiyor. Botsvana'da eşcinsel hakları için verilen mücadele, Venezuela'da mahkumların kötü muamele iddialarına karşı protestoları ve Kanada'nın mülteci politikası tartışma yaratıyor. İran'da internet kesintisinin sona ermesi, dijital haklar açısından ne anlama geliyor?</description>
+        <title>Dünya ve Savaş</title>
+        <description>Savaşın farklı yüzleri dünya gündeminde yerini koruyor. Açlık, çatışmaların bir silahı haline gelirken, Ortadoğu'da ABD ve İran arasındaki gerilim tırmanıyor. Bu gelişmeler, küresel barış ve güvenlik için ne anlama geliyor?</description>
         <language>tr</language>
-        <lastBuildDate>Wed, 27 May 2026 00:55:17 +0300</lastBuildDate>
-        <toa:packetTitle>İnsan ve Hakları</toa:packetTitle>
-        <toa:packetSpot>Dünya genelinde insan hakları mücadeleleri ve ihlalleri dikkat çekiyor. Botsvana'da eşcinsel hakları için verilen mücadele, Venezuela'da mahkumların kötü muamele iddialarına karşı protestoları ve Kanada'nın mülteci politikası tartışma yaratıyor. İran'da internet kesintisinin sona ermesi, dijital haklar açısından ne anlama geliyor?</toa:packetSpot>
+        <lastBuildDate>Wed, 27 May 2026 01:24:20 +0300</lastBuildDate>
+        <toa:packetTitle>Dünya ve Savaş</toa:packetTitle>
+        <toa:packetSpot>Savaşın farklı yüzleri dünya gündeminde yerini koruyor. Açlık, çatışmaların bir silahı haline gelirken, Ortadoğu'da ABD ve İran arasındaki gerilim tırmanıyor. Bu gelişmeler, küresel barış ve güvenlik için ne anlama geliyor?</toa:packetSpot>
         <toa:sessionID>doc_2026_05_26_001</toa:sessionID>
-        <toa:publishedAt>2026-05-26T21:55:17Z</toa:publishedAt>
+        <toa:publishedAt>2026-05-26T22:24:20Z</toa:publishedAt>
 <item>
-    <title>Botsvana'da eşcinsel evliliği yasallaştırmak isteyen çiftin mücadelesi</title>
-    <description>Bonolo Selelo ve Tsholofelo Kumile, evlenme haklarını elde etmek için mahkemeye gidiyor ancak kilise gruplarının sert muhalefetiyle karşılaşıyorlar. Selelo, Gaborone Onur etkinliğinde Kumile'yi gördüğünde onun çekiciliğinden etkilenmişti. İkili sohbet etmeye başladı ve Kumile, etkinlikteki tarot falı hakkında endişelerini dile getirdiğinde, Selelo ona sarılmayı teklif etti. Fal olumlu çıktı ama Kumile sarılmayı yine de aldı ve saatlerce konuştular. Bu, 1 Ekim 2023'teydi. İki ay sonra birlikte yaşamaya başladılar. 2024 Paskalya tatilinde bir yürüyüş sırasında Selelo, Kumile'ye evlenme teklif etti. Bir yıl sonra, evlenme niyetlerini kaydettirmek için yerel bir hükümet ofisine gittiklerinde bunun yasal olmadığını öğrendiler.</description>
-    <link>https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court</link>
-    <guid isPermaLink="false">atom_002</guid>
-    <pubDate>Mon, 25 May 2026 07:00:15 +0300</pubDate>
-    <category>İnsan Hakları</category>
-    <toa:group>Eşcinsel hakları Botsvana</toa:group>
-    <toa:newsValue>5</toa:newsValue>
-    <toa:atomID>atom_002</toa:atomID>
-</item>
-<item>
-    <title>Venezuela'da mahkumlar kötü muamele iddialarını protesto için hapishane çatısına çıktı</title>
-    <description>Venezuela'nın Barinas hapishanesindeki mahkumlar, iddia edilen kötü muameleleri protesto etmek için hapishane çatısına çıkarak yatakları ateşe verdi. Mahkumlar, barışçıl bir protesto sırasında hapishane personelinin ateş açtığını ve bazı kişilerin yaralandığını öne sürdü. Mahkumlar, hapishane müdürünün görevden alınmasını talep ederek, &quot;Adalet istiyoruz. Gardiyanlar ve müdürler bize ateş ediyor,&quot; dedi. Bu ifadeler, yerel bir STK olan Venezuelan Observatory of Prisons tarafından paylaşılan bir videoda yer aldı.</description>
-    <link>https://www.theguardian.com/world/2026/may/25/venezuela-inmates-occupy-prison-roof-protest-alleged-abuses</link>
-    <guid isPermaLink="false">atom_007</guid>
-    <pubDate>Mon, 25 May 2026 09:20:46 +0300</pubDate>
-    <category>İnsan Hakları</category>
-    <toa:group>Venezuela hapishane protestoları</toa:group>
-    <toa:newsValue>4</toa:newsValue>
-    <toa:atomID>atom_007</toa:atomID>
-</item>
-<item>
-    <title>Kanada, mültecileri ICE'e teslim ediyor: Sınırda reddedilenler ABD'de gözaltında</title>
-    <description>Kanada, sığınma kurallarını sıkılaştırırken, aileleriyle buluşmak isteyen mülteciler sınırda reddedildikten sonra ABD'de gözaltına alınıyor. Her geçen gün ABD'deki gözaltı süresi uzadıkça, Markens Appolon hayalini kurduğu hayatın elinden kayıp gittiğini hissediyor. 25 yaşındaki Appolon, üniversitedeki ekonomi eğitimini altüst eden çete şiddetinden kaçmak için Haiti'den ayrıldı ve Montreal'deki ailesine katılmayı planlıyordu.</description>
-    <link>https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention</link>
-    <guid isPermaLink="false">atom_008</guid>
-    <pubDate>Sat, 23 May 2026 14:00:28 +0300</pubDate>
-    <category>İnsan Hakları</category>
-    <toa:group>Kanada ABD mülteci politikası</toa:group>
+    <title>Açlık, savaşta silah olarak giderek daha fazla kullanılıyor</title>
+    <description>2018'den bu yana pazarlar, tarım alanları ve gıda dağıtım sistemlerine yönelik 20.000'den fazla saldırı kaydedildi. Açlık, savaşta giderek daha fazla bir silah olarak kullanılıyor. Son sekiz yılda &quot;gıda ile ilgili şiddet&quot; olaylarının 20.000'den fazla olduğu belirlendi. Saldırılar arasında ailelerin günlük alışveriş yaptığı pazarlara yönelik 1.261 saldırı ve gıda dağıtım sistemlerinin hedef alındığı ve çalışanların öldürüldüğü 863 olay bulunuyor.</description>
+    <link>https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges</link>
+    <guid isPermaLink="false">atom_004</guid>
+    <pubDate>Sun, 24 May 2026 09:00:49 +0300</pubDate>
+    <category>Güvenlik</category>
+    <toa:group>Savaşta açlık kullanımı</toa:group>
     <toa:newsValue>6</toa:newsValue>
-    <toa:atomID>atom_008</toa:atomID>
+    <toa:atomID>atom_004</toa:atomID>
 </item>
 <item>
-    <title>İran'da 88 günlük internet kesintisi sona eriyor</title>
-    <description>İran'ın küresel internete erişimi, 88 günlük rekor bir kesintinin ardından Salı günü yavaş yavaş yeniden başladı. Bu kesinti, binlerce İranlının işini kaybetmesine neden olmuş ve İran güvenlik güçlerinin geniş çaplı bir baskı uygulamasına zemin hazırlamıştı. İnternetin yeniden açılması, &quot;ülkenin siber alanını yönlendirme özel karargahı&quot; adlı birimin yetkisini sorgulayan geçici bir idari mahkeme kararına rağmen gerçekleşti. Bu birim, bir hafta önce Cumhurbaşkanı Masoud Pezeshkian tarafından kurulmuştu.</description>
-    <link>https://www.theguardian.com/world/2026/may/26/iran-internet-blackout</link>
-    <guid isPermaLink="false">atom_028</guid>
-    <pubDate>Tue, 26 May 2026 17:28:53 +0300</pubDate>
-    <category>İnsan Hakları</category>
-    <toa:group>İran internet kesintisi</toa:group>
+    <title>ABD'nin Tayvan'a silah satışları İran savaşı nedeniyle 'durduruldu', diyor geçici donanma şefi</title>
+    <description>Washington'un geçici donanma sekreteri Hung Cao'ya göre, ABD'nin İran operasyonları için yeterli mühimmata sahip olmasını sağlamak amacıyla Tayvan'a yapılan silah satışları 'durduruldu'. Bu, Donald Trump'ın ABD'nin Tayvan'a desteği konusunda şüphe uyandıran açıklamalarının ardından Taipei için son darbe oldu. Perşembe günü bir kongre oturumunda, Trump'ın onayını bekleyen 14 milyar dolarlık silah paketi hakkında sorulan soruya Hung Cao, &quot;Şu anda Epic Fury (İran savaşı) için ihtiyacımız olan mühimmata sahip olduğumuzdan emin olmak amacıyla bir duraklama yapıyoruz - ki elimizde bolca var,&quot; dedi.</description>
+    <link>https://www.theguardian.com/world/2026/may/22/us-arms-sales-taiwan-pause-iran-war-says-acting-navy-chief</link>
+    <guid isPermaLink="false">atom_014</guid>
+    <pubDate>Fri, 22 May 2026 12:08:29 +0300</pubDate>
+    <category>Diplomasi</category>
+    <toa:group>ABD İran silah satışı</toa:group>
     <toa:newsValue>6</toa:newsValue>
-    <toa:atomID>atom_028</toa:atomID>
+    <toa:atomID>atom_014</toa:atomID>
+</item>
+<item>
+    <title>Ortadoğu krizi: İran, ABD'nin ateşkesi ihlal ettiğini söyledi</title>
+    <description>ABD ordusu, Pazartesi günü mayın döşemeye çalışan tekneler ve füze fırlatma alanları gibi hedeflere saldırılar düzenlediğini açıkladı. İran, ABD'nin ateşkesten bu yana ilk saldırılarına rağmen barış görüşmelerine devam ediyor. İran'ın dini lideri Mojtaba Hamaney, Telegram kanalında Körfez ülkelerinin artık ABD üsleri için kalkan olmayacağını ve ABD'nin bölgede güvenli bir sığınağı kalmayacağını belirtti. Bu açıklama, ABD'nin İran'a yönelik gece saldırılarının ardından geldi. Saldırılar, İran'ın üst düzey müzakerecisi ve dışişleri bakanının Katar'da savaşın sona erdirilmesi için potansiyel bir anlaşma üzerine Katar başbakanıyla görüşmelerde bulunduğu sırada gerçekleşti.</description>
+    <link>https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks</link>
+    <guid isPermaLink="false">atom_026</guid>
+    <pubDate>Tue, 26 May 2026 22:42:26 +0300</pubDate>
+    <category>Diplomasi</category>
+    <toa:group>Ortadoğu ABD İran gerilimi</toa:group>
+    <toa:newsValue>7</toa:newsValue>
+    <toa:atomID>atom_026</toa:atomID>
+</item>
+<item>
+    <title>İran, ateşkesten bu yana ilk ABD saldırılarına rağmen barış görüşmelerinde kalıyor</title>
+    <description>Tahran, 'kesin ihlal' olarak nitelendirdiği saldırıyı kınadı ancak belirli bir misilleme açıklamadı. Görüşmelerin kritik bir aşamaya yaklaştığı belirtiliyor. 8 Nisan'daki ateşkesten bu yana Washington'un ilk askeri eylemi olan İran hedeflerine yönelik ABD bombalamalarına rağmen, İran ve ABD arasındaki önerilen barış anlaşması Salı günü masada kalmaya devam etti. İran Dışişleri Bakanlığı, Hürmüz Boğazı'nda füze rampaları ve yeni mayın döşeme girişimlerini hedef alan ABD saldırısını 'kötü niyetli bir eylem' ve 'ateşkesin kesin ihlali' olarak nitelendirdi ve saldırının yanıtsız kalmayacağını belirtti. Ancak Pakistan ve Katar'ın ortak arabuluculuğunda devam eden görüşmelerden çekilmedi.</description>
+    <link>https://www.theguardian.com/world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz</link>
+    <guid isPermaLink="false">atom_027</guid>
+    <pubDate>Tue, 26 May 2026 20:06:34 +0300</pubDate>
+    <category>Diplomasi</category>
+    <toa:group>Ortadoğu ABD İran gerilimi</toa:group>
+    <toa:newsValue>7</toa:newsValue>
+    <toa:atomID>atom_027</toa:atomID>
+</item>
+<item>
+    <title>ABD, İran'daki füze sitelerini ve mayın döşeyen gemileri vurdu</title>
+    <description>İranlı müzakereciler, ülkenin nükleer programı ve dondurulmuş varlıklara erişim konularını görüşmek üzere Pazartesi günü Katar'a gitti. ABD, yedi haftalık ateşkesi test etmek amacıyla güney İran'da saldırılar düzenledi. Her iki taraf da yakın zamanda bir barış anlaşması umudunu azaltırken, Tahran'dan müzakereciler Katar'da yeni görüşmelere başladı. ABD Merkez Komutanlığı (Centcom), füze fırlatma siteleri ve mayın döşemeye çalışan teknelerin hedef alındığını belirtti, ancak bu saldırıların İran ile ateşkesin sona erdiği anlamına gelmediğini vurguladı.</description>
+    <link>https://www.theguardian.com/world/2026/may/26/us-strikes-iran-missile-sites-vessels-trump-peace-deal-elusive</link>
+    <guid isPermaLink="false">atom_030</guid>
+    <pubDate>Tue, 26 May 2026 06:28:18 +0300</pubDate>
+    <category>Diplomasi</category>
+    <toa:group>Ortadoğu ABD İran gerilimi</toa:group>
+    <toa:newsValue>6</toa:newsValue>
+    <toa:atomID>atom_030</toa:atomID>
 </item>
     </channel>
 </rss>
