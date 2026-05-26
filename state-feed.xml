@@ -1,68 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:toa="https://topographies.io/rss">
     <channel>
-        <title>Dünya ve Savaş</title>
-        <description>Savaşın farklı yüzleri dünya gündeminde yerini koruyor. Açlık, çatışmaların bir silahı haline gelirken, Ortadoğu'da ABD ve İran arasındaki gerilim tırmanıyor. Bu gelişmeler, küresel barış ve güvenlik için ne anlama geliyor?</description>
+        <title>Kongo'da Ebola Krizi</title>
+        <description>Demokratik Kongo Cumhuriyeti'nde Ebola salgını, sağlık sistemini zorluyor. Artan vaka sayıları ve sağlık çalışanlarına yönelik saldırılar, uluslararası müdahaleyi zorunlu kılıyor. Beyaz Saray'ın mülteci politikası da bu krizden etkileniyor.</description>
         <language>tr</language>
-        <lastBuildDate>Wed, 27 May 2026 01:25:44 +0300</lastBuildDate>
-        <toa:packetTitle>Dünya ve Savaş</toa:packetTitle>
-        <toa:packetSpot>Savaşın farklı yüzleri dünya gündeminde yerini koruyor. Açlık, çatışmaların bir silahı haline gelirken, Ortadoğu'da ABD ve İran arasındaki gerilim tırmanıyor. Bu gelişmeler, küresel barış ve güvenlik için ne anlama geliyor?</toa:packetSpot>
+        <lastBuildDate>Wed, 27 May 2026 02:00:53 +0300</lastBuildDate>
+        <toa:packetTitle>Kongo'da Ebola Krizi</toa:packetTitle>
+        <toa:packetSpot>Demokratik Kongo Cumhuriyeti'nde Ebola salgını, sağlık sistemini zorluyor. Artan vaka sayıları ve sağlık çalışanlarına yönelik saldırılar, uluslararası müdahaleyi zorunlu kılıyor. Beyaz Saray'ın mülteci politikası da bu krizden etkileniyor.</toa:packetSpot>
         <toa:sessionID>doc_2026_05_26_001</toa:sessionID>
-        <toa:publishedAt>2026-05-26T22:25:44Z</toa:publishedAt>
+        <toa:publishedAt>2026-05-26T23:00:53Z</toa:publishedAt>
 <item>
-    <title>Açlık, savaşta silah olarak giderek daha fazla kullanılıyor</title>
-    <description>2018'den bu yana pazarlar, tarım alanları ve gıda dağıtım sistemlerine yönelik 20.000'den fazla saldırı kaydedildi. Açlık, savaşta giderek daha fazla bir silah olarak kullanılıyor. Son sekiz yılda &quot;gıda ile ilgili şiddet&quot; olaylarının 20.000'den fazla olduğu belirlendi. Saldırılar arasında ailelerin günlük alışveriş yaptığı pazarlara yönelik 1.261 saldırı ve gıda dağıtım sistemlerinin hedef alındığı ve çalışanların öldürüldüğü 863 olay bulunuyor.</description>
-    <link>https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges</link>
-    <guid isPermaLink="false">atom_004</guid>
-    <pubDate>Sun, 24 May 2026 09:00:49 +0300</pubDate>
-    <category>Güvenlik</category>
-    <toa:group>Savaşta açlık kullanımı</toa:group>
-    <toa:newsValue>6</toa:newsValue>
-    <toa:atomID>atom_004</toa:atomID>
+    <title>DSÖ: Kongo'daki Ebola salgını müdahaleleri aşıyor</title>
+    <description>Dünya Sağlık Örgütü (DSÖ) Genel Direktörü, komşu ülkeleri acil önlem almaya çağırdı. DSÖ, Ebola salgınının müdahale çabalarını aştığını ve Demokratik Kongo Cumhuriyeti'ne (DKC) komşu ülkelerin hastalık açısından yüksek risk altında olduğunu belirtti. DSÖ Genel Direktörü Dr. Tedros Adhanom Ghebreyesus, &quot;Operasyonlarımızı acilen genişletiyoruz, ancak şu anda salgın bizi aşıyor,&quot; dedi ve komşu ülkeleri acil önlem almaya çağırdı.</description>
+    <link>https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who</link>
+    <guid isPermaLink="false">atom_001</guid>
+    <pubDate>Mon, 25 May 2026 20:00:30 +0300</pubDate>
+    <category>Sağlık</category>
+    <toa:group>Ebola salgını DRC</toa:group>
+    <toa:newsValue>8</toa:newsValue>
+    <toa:atomID>atom_001</toa:atomID>
 </item>
 <item>
-    <title>ABD'nin Tayvan'a silah satışları İran savaşı nedeniyle 'durduruldu', diyor geçici donanma şefi</title>
-    <description>Washington'un geçici donanma sekreteri Hung Cao'ya göre, ABD'nin İran operasyonları için yeterli mühimmata sahip olmasını sağlamak amacıyla Tayvan'a yapılan silah satışları 'durduruldu'. Bu, Donald Trump'ın ABD'nin Tayvan'a desteği konusunda şüphe uyandıran açıklamalarının ardından Taipei için son darbe oldu. Perşembe günü bir kongre oturumunda, Trump'ın onayını bekleyen 14 milyar dolarlık silah paketi hakkında sorulan soruya Hung Cao, &quot;Şu anda Epic Fury (İran savaşı) için ihtiyacımız olan mühimmata sahip olduğumuzdan emin olmak amacıyla bir duraklama yapıyoruz - ki elimizde bolca var,&quot; dedi.</description>
-    <link>https://www.theguardian.com/world/2026/may/22/us-arms-sales-taiwan-pause-iran-war-says-acting-navy-chief</link>
-    <guid isPermaLink="false">atom_014</guid>
-    <pubDate>Fri, 22 May 2026 12:08:29 +0300</pubDate>
-    <category>Diplomasi</category>
-    <toa:group>ABD İran silah satışı</toa:group>
-    <toa:newsValue>6</toa:newsValue>
-    <toa:atomID>atom_014</toa:atomID>
-</item>
-<item>
-    <title>Ortadoğu krizi: İran, ABD'nin ateşkesi ihlal ettiğini söyledi</title>
-    <description>ABD ordusu, Pazartesi günü mayın döşemeye çalışan tekneler ve füze fırlatma alanları gibi hedeflere saldırılar düzenlediğini açıkladı. İran, ABD'nin ateşkesten bu yana ilk saldırılarına rağmen barış görüşmelerine devam ediyor. İran'ın dini lideri Mojtaba Hamaney, Telegram kanalında Körfez ülkelerinin artık ABD üsleri için kalkan olmayacağını ve ABD'nin bölgede güvenli bir sığınağı kalmayacağını belirtti. Bu açıklama, ABD'nin İran'a yönelik gece saldırılarının ardından geldi. Saldırılar, İran'ın üst düzey müzakerecisi ve dışişleri bakanının Katar'da savaşın sona erdirilmesi için potansiyel bir anlaşma üzerine Katar başbakanıyla görüşmelerde bulunduğu sırada gerçekleşti.</description>
-    <link>https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks</link>
-    <guid isPermaLink="false">atom_026</guid>
-    <pubDate>Tue, 26 May 2026 22:42:26 +0300</pubDate>
-    <category>Diplomasi</category>
-    <toa:group>Ortadoğu ABD İran gerilimi</toa:group>
+    <title>Kongo'da şüpheli Ebola vakaları 900'ü geçti, sağlık çalışanları saldırı ve kıtlıkla karşı karşıya</title>
+    <description>Dünya Sağlık Örgütü, salgının ülke için 'çok yüksek' risk taşıdığını belirtirken, hastalığın küresel yayılma riskinin düşük olduğunu ifade etti. Demokratik Kongo Cumhuriyeti yetkilileri, ülkenin doğusunda devam eden salgında şüpheli Ebola vakalarının 900'ü aştığını açıkladı. DRC İletişim Bakanlığı, Pazar günü X platformunda yaptığı paylaşımda 904 şüpheli vaka ve 119 şüpheli ölüm olduğunu belirtti.</description>
+    <link>https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks</link>
+    <guid isPermaLink="false">atom_003</guid>
+    <pubDate>Sun, 24 May 2026 22:07:33 +0300</pubDate>
+    <category>Sağlık</category>
+    <toa:group>Ebola salgını DRC</toa:group>
     <toa:newsValue>7</toa:newsValue>
-    <toa:atomID>atom_026</toa:atomID>
+    <toa:atomID>atom_003</toa:atomID>
 </item>
 <item>
-    <title>İran, ateşkesten bu yana ilk ABD saldırılarına rağmen barış görüşmelerinde kalıyor</title>
-    <description>Tahran, 'kesin ihlal' olarak nitelendirdiği saldırıyı kınadı ancak belirli bir misilleme açıklamadı. Görüşmelerin kritik bir aşamaya yaklaştığı belirtiliyor. 8 Nisan'daki ateşkesten bu yana Washington'un ilk askeri eylemi olan İran hedeflerine yönelik ABD bombalamalarına rağmen, İran ve ABD arasındaki önerilen barış anlaşması Salı günü masada kalmaya devam etti. İran Dışişleri Bakanlığı, Hürmüz Boğazı'nda füze rampaları ve yeni mayın döşeme girişimlerini hedef alan ABD saldırısını 'kötü niyetli bir eylem' ve 'ateşkesin kesin ihlali' olarak nitelendirdi ve saldırının yanıtsız kalmayacağını belirtti. Ancak Pakistan ve Katar'ın ortak arabuluculuğunda devam eden görüşmelerden çekilmedi.</description>
-    <link>https://www.theguardian.com/world/2026/may/26/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz</link>
-    <guid isPermaLink="false">atom_027</guid>
-    <pubDate>Tue, 26 May 2026 20:06:34 +0300</pubDate>
-    <category>Diplomasi</category>
-    <toa:group>Ortadoğu ABD İran gerilimi</toa:group>
-    <toa:newsValue>7</toa:newsValue>
-    <toa:atomID>atom_027</toa:atomID>
-</item>
-<item>
-    <title>ABD, İran'daki füze sitelerini ve mayın döşeyen gemileri vurdu</title>
-    <description>İranlı müzakereciler, ülkenin nükleer programı ve dondurulmuş varlıklara erişim konularını görüşmek üzere Pazartesi günü Katar'a gitti. ABD, yedi haftalık ateşkesi test etmek amacıyla güney İran'da saldırılar düzenledi. Her iki taraf da yakın zamanda bir barış anlaşması umudunu azaltırken, Tahran'dan müzakereciler Katar'da yeni görüşmelere başladı. ABD Merkez Komutanlığı (Centcom), füze fırlatma siteleri ve mayın döşemeye çalışan teknelerin hedef alındığını belirtti, ancak bu saldırıların İran ile ateşkesin sona erdiği anlamına gelmediğini vurguladı.</description>
-    <link>https://www.theguardian.com/world/2026/may/26/us-strikes-iran-missile-sites-vessels-trump-peace-deal-elusive</link>
-    <guid isPermaLink="false">atom_030</guid>
-    <pubDate>Tue, 26 May 2026 06:28:18 +0300</pubDate>
-    <category>Diplomasi</category>
-    <toa:group>Ortadoğu ABD İran gerilimi</toa:group>
+    <title>Beyaz Saray, Ebola salgını nedeniyle DKC'ye mülteci gönderimini durdurdu</title>
+    <description>Trump yönetimi, Demokratik Kongo Cumhuriyeti'nde (DKC) hızla yayılan Ebola salgını nedeniyle mültecilerin bu ülkeye gönderilmesini geçici olarak durduracak. Ancak uzmanlar, bu adımın hastalığın yayılmasını önlemeyeceğini belirtiyor. En az bir kadın, yetkililerin onu DKC'nin başkenti Kinşasa'ya göndermesi ve şimdi Ebola seyahat yasağı nedeniyle geri getirmeyeceklerini söylemesi üzerine belirsizlik içinde kaldı. Bu durum, bir hakimin kadının geri getirilmesi yönündeki kararına rağmen yaşanıyor.</description>
+    <link>https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola</link>
+    <guid isPermaLink="false">atom_005</guid>
+    <pubDate>Sat, 23 May 2026 17:33:05 +0300</pubDate>
+    <category>Sağlık</category>
+    <toa:group>Ebola salgını DRC</toa:group>
     <toa:newsValue>6</toa:newsValue>
-    <toa:atomID>atom_030</toa:atomID>
+    <toa:atomID>atom_005</toa:atomID>
 </item>
     </channel>
 </rss>
