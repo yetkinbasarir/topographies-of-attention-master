@@ -1,46 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:toa="https://topographies.io/rss">
     <channel>
-        <title>Kongo'da Ebola Krizi</title>
-        <description>Demokratik Kongo Cumhuriyeti'nde Ebola salgını, sağlık sistemini zorluyor. Artan vaka sayıları ve sağlık çalışanlarına yönelik saldırılar, uluslararası müdahaleyi zorunlu kılıyor. Beyaz Saray'ın mülteci politikası da bu krizden etkileniyor.</description>
+        <title>Gündem İklim</title>
+        <description>İklim krizi, dünya genelinde acil eylem gerektiriyor. BM'nin iklim krizi kararı, siyasi ivmenin arttığını gösterirken, Avrupa'da sıcak hava dalgaları can kayıplarına yol açıyor. Çin'deki sel felaketleri ve Hindistan'daki kimyasal protestoları da çevresel tehditlerin ciddiyetini gözler önüne seriyor.</description>
         <language>tr</language>
-        <lastBuildDate>Wed, 27 May 2026 02:03:07 +0300</lastBuildDate>
-        <toa:packetTitle>Kongo'da Ebola Krizi</toa:packetTitle>
-        <toa:packetSpot>Demokratik Kongo Cumhuriyeti'nde Ebola salgını, sağlık sistemini zorluyor. Artan vaka sayıları ve sağlık çalışanlarına yönelik saldırılar, uluslararası müdahaleyi zorunlu kılıyor. Beyaz Saray'ın mülteci politikası da bu krizden etkileniyor.</toa:packetSpot>
+        <lastBuildDate>Wed, 27 May 2026 02:42:34 +0300</lastBuildDate>
+        <toa:packetTitle>Gündem İklim</toa:packetTitle>
+        <toa:packetSpot>İklim krizi, dünya genelinde acil eylem gerektiriyor. BM'nin iklim krizi kararı, siyasi ivmenin arttığını gösterirken, Avrupa'da sıcak hava dalgaları can kayıplarına yol açıyor. Çin'deki sel felaketleri ve Hindistan'daki kimyasal protestoları da çevresel tehditlerin ciddiyetini gözler önüne seriyor.</toa:packetSpot>
         <toa:sessionID>doc_2026_05_26_001</toa:sessionID>
-        <toa:publishedAt>2026-05-26T23:03:07Z</toa:publishedAt>
+        <toa:publishedAt>2026-05-26T23:42:34Z</toa:publishedAt>
 <item>
-    <title>DSÖ: Kongo'daki Ebola salgını müdahaleleri aşıyor</title>
-    <description>Dünya Sağlık Örgütü (DSÖ) Genel Direktörü, komşu ülkeleri acil önlem almaya çağırdı. DSÖ, Ebola salgınının müdahale çabalarını aştığını ve Demokratik Kongo Cumhuriyeti'ne (DKC) komşu ülkelerin hastalık açısından yüksek risk altında olduğunu belirtti. DSÖ Genel Direktörü Dr. Tedros Adhanom Ghebreyesus, &quot;Operasyonlarımızı acilen genişletiyoruz, ancak şu anda salgın bizi aşıyor,&quot; dedi ve komşu ülkeleri acil önlem almaya çağırdı.</description>
-    <link>https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who</link>
-    <guid isPermaLink="false">atom_001</guid>
-    <pubDate>Mon, 25 May 2026 20:00:30 +0300</pubDate>
-    <category>Sağlık</category>
-    <toa:group>Ebola salgını DRC</toa:group>
-    <toa:newsValue>8</toa:newsValue>
-    <toa:atomID>atom_001</toa:atomID>
-</item>
-<item>
-    <title>Kongo'da şüpheli Ebola vakaları 900'ü geçti, sağlık çalışanları saldırı ve kıtlıkla karşı karşıya</title>
-    <description>Dünya Sağlık Örgütü, salgının ülke için 'çok yüksek' risk taşıdığını belirtirken, hastalığın küresel yayılma riskinin düşük olduğunu ifade etti. Demokratik Kongo Cumhuriyeti yetkilileri, ülkenin doğusunda devam eden salgında şüpheli Ebola vakalarının 900'ü aştığını açıkladı. DRC İletişim Bakanlığı, Pazar günü X platformunda yaptığı paylaşımda 904 şüpheli vaka ve 119 şüpheli ölüm olduğunu belirtti.</description>
-    <link>https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks</link>
-    <guid isPermaLink="false">atom_003</guid>
-    <pubDate>Sun, 24 May 2026 22:07:33 +0300</pubDate>
-    <category>Sağlık</category>
-    <toa:group>Ebola salgını DRC</toa:group>
+    <title>BM'nin iklim krizi oylaması siyasi ivmenin arttığını gösteriyor</title>
+    <description>141 ülkenin desteklediği karar, iklim diplomasisi ve dava çabalarını iyileştirebilecek 'yeni bir dönem' olarak nitelendirildi. BM Genel Kurulu'nun çarşamba günü tarihi bir iklim krizi kararı lehine ezici bir çoğunlukla oy kullanmasının ardından, Pasifik adası Vanuatu'nun başbakanı sonucu iklim eyleminde 'yeni bir dönem'in başlangıcı olarak değerlendirdi. Jotham Napat, &quot;Şimdi hepimizin önündeki görev, yasal netliği anlamlı eyleme, daha güçlü iş birliğine ve mevcut ve gelecek nesiller için daha büyük korumaya dönüştürmektir,&quot; dedi.</description>
+    <link>https://www.theguardian.com/environment/2026/may/22/un-climate-crisis-vote-shows-political-momentum-growing-experts</link>
+    <guid isPermaLink="false">atom_013</guid>
+    <pubDate>Fri, 22 May 2026 13:27:07 +0300</pubDate>
+    <category>Çevre</category>
+    <toa:group>BM iklim krizi kararı</toa:group>
     <toa:newsValue>7</toa:newsValue>
-    <toa:atomID>atom_003</toa:atomID>
+    <toa:atomID>atom_013</toa:atomID>
 </item>
 <item>
-    <title>Beyaz Saray, Ebola salgını nedeniyle DKC'ye mülteci gönderimini durdurdu</title>
-    <description>Trump yönetimi, Demokratik Kongo Cumhuriyeti'nde (DKC) hızla yayılan Ebola salgını nedeniyle mültecilerin bu ülkeye gönderilmesini geçici olarak durduracak. Ancak uzmanlar, bu adımın hastalığın yayılmasını önlemeyeceğini belirtiyor. En az bir kadın, yetkililerin onu DKC'nin başkenti Kinşasa'ya göndermesi ve şimdi Ebola seyahat yasağı nedeniyle geri getirmeyeceklerini söylemesi üzerine belirsizlik içinde kaldı. Bu durum, bir hakimin kadının geri getirilmesi yönündeki kararına rağmen yaşanıyor.</description>
-    <link>https://www.theguardian.com/world/2026/may/23/white-house-pauses-detainee-removal-drc-ebola</link>
-    <guid isPermaLink="false">atom_005</guid>
-    <pubDate>Sat, 23 May 2026 17:33:05 +0300</pubDate>
-    <category>Sağlık</category>
-    <toa:group>Ebola salgını DRC</toa:group>
-    <toa:newsValue>6</toa:newsValue>
-    <toa:atomID>atom_005</toa:atomID>
+    <title>Çin'de şiddetli yağışlar sel ve toprak kaymalarına yol açtı</title>
+    <description>Güney ve orta Çin'de etkili olan yoğun ve uzun süreli yağışlar, ani sel, toprak kayması ve su baskını uyarılarına neden oldu. Yağışlar, Bengal Körfezi, Güney Çin Denizi ve Pasifik Okyanusu'ndan gelen yağış bantlarının birleşmesiyle oluştu ve salı günü doğuya doğru ilerledi. Düşük rüzgar hızları nedeniyle günlük ve saatlik yağış miktarları yüksek kaydedildi; Hunan'da yerel olarak 75mm, Anhui'de 85mm ve Hainan adasında 95mm yağış ölçüldü. Sel nedeniyle 12 kişi hayatını kaybetti, yüzlerce kişi tahliye edildi. Ulaşımda büyük aksaklıklar, elektrik kesintileri, okul ve işyeri kapanmaları yaşandı. Sosyal medyada su altında kalan araçlar ve sel sularında balık tutan insanlar görüldü.</description>
+    <link>https://www.theguardian.com/environment/2026/may/22/slow-moving-bands-heavy-rain-flooding-landslides-china</link>
+    <guid isPermaLink="false">atom_015</guid>
+    <pubDate>Fri, 22 May 2026 11:04:33 +0300</pubDate>
+    <category>Çevre</category>
+    <toa:group>Çin sel felaketi</toa:group>
+    <toa:newsValue>5</toa:newsValue>
+    <toa:atomID>atom_015</toa:atomID>
+</item>
+<item>
+    <title>Fransa'da Mayıs ayında sıcak hava dalgası nedeniyle yedi kişi hayatını kaybetti</title>
+    <description>Batı Avrupa'yı etkisi altına alan aşırı sıcaklar, İngiltere ve İrlanda'da da Mayıs ayı rekorlarının kırılmasına neden oldu. Fransa'da, erken yaz sıcakları nedeniyle yedi kişi yaşamını yitirdi. Ülkede Pazartesi ve Salı günleri Mayıs ayının en sıcak günleri kaydedildi. Météo France, sıcak hava dalgasının hafta boyunca sürebileceğini ve bazı bölgelerde sıcaklıkların 39 dereceye ulaşabileceğini öngörüyor.</description>
+    <link>https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures</link>
+    <guid isPermaLink="false">atom_022</guid>
+    <pubDate>Tue, 26 May 2026 20:29:12 +0300</pubDate>
+    <category>Çevre</category>
+    <toa:group>Avrupa sıcak hava dalgası</toa:group>
+    <toa:newsValue>5</toa:newsValue>
+    <toa:atomID>atom_022</toa:atomID>
+</item>
+<item>
+    <title>Hindistan'da 'sonsuz kimyasallar' protestosu: Skandal fabrikayı Hint şirketi aldı</title>
+    <description>Guardian'ın, eski Miteni tesisinin Hint şirketi tarafından satın alındığını ortaya çıkarmasının ardından, Pfas düzenlemelerinin eksikliği parlamentoda gündeme getirildi. Kanserle bağlantılı Pfas kimyasallarının üretimine yönelik protestolar, çevre skandalı nedeniyle kapatılan İtalyan fabrikasının Hint şirketi tarafından kısmen yeniden inşa edildiğinin ortaya çıkmasıyla Hindistan genelinde yayıldı. Geçen yılın sonunda, Guardian, Vicenza'daki eski Miteni tesisinin Hint şirketi Laxmi Organic Industries tarafından satın alındığını açıklamıştı. Fabrika, Pfas üretiyordu ve 2018'de İtalya'nın en kötü çevre kirliliği skandallarından biriyle bağlantılı olarak kapatılmıştı.</description>
+    <link>https://www.theguardian.com/environment/2026/may/26/india-pfas-production-forever-chemicals-protests-italian-factory</link>
+    <guid isPermaLink="false">atom_031</guid>
+    <pubDate>Tue, 26 May 2026 07:00:45 +0300</pubDate>
+    <category>Çevre</category>
+    <toa:group>Hindistan kimyasal protestoları</toa:group>
+    <toa:newsValue>5</toa:newsValue>
+    <toa:atomID>atom_031</toa:atomID>
 </item>
     </channel>
 </rss>
