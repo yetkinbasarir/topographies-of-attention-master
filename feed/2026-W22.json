@@ -43,6 +43,48 @@
       "publishedAt" : "2026-05-27T23:08:09Z",
       "sessionID" : "session_2026_05_28_0FE53C",
       "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Çevre",
+          "descriptionTR" : "Kalıcı 'ısı kubbesi' nedeniyle Fransa'da hava kalitesi düşüyor. Bu durum, özellikle Ile-de-France ve Rhône-Alpes gibi bölgelerde ozon kirliliği olaylarına yol açıyor ve bu kirliliğin önümüzdeki günlerde devam etmesi ve yayılması bekleniyor.",
+          "group" : "Avrupa'da iklim değişikliği etkileri",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.lemonde.fr\/planete\/live\/2026\/05\/27\/en-direct-canicule-17-departements-en-alerte-orange-39-en-vigilance-jaune-pour-jeudi_6693854_3244.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T18:54:29Z",
+          "titleTR" : "Fransa'da sıcak hava dalgası: 17 bölge turuncu, 39 bölge sarı alarmda"
+        },
+        {
+          "atomID" : "atom_003",
+          "category" : "Hukuk",
+          "descriptionTR" : "Eski Fransa Cumhurbaşkanı Nicolas Sarkozy'nin avukatları, Çarşamba günü boyunca süren duruşmada yolsuzluk, suç örgütü üyeliği ve yasa dışı kampanya finansmanı suçlamalarını çürütmeye çalıştı. Mahkemenin kararı 30 Kasım'da açıklanacak.",
+          "group" : "Fransa'da siyasi yolsuzluk davaları",
+          "id" : "atom_003",
+          "link" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/27\/cette-affaire-a-commence-dans-le-mensonge-elle-doit-finir-dans-la-verite-au-proces-en-appel-du-financement-libyen-les-derniers-mots-de-nicolas-sarkozy_6694264_3224.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:32:21Z",
+          "titleTR" : "Sarkozy'nin Libya finansmanı davasında son sözleri: \"Bu dava yalanla başladı, gerçekle bitmeli\""
+        },
+        {
+          "atomID" : "atom_005",
+          "category" : "Politika",
+          "descriptionTR" : "\"Simplifier!\" adlı kitapta, eski üst düzey bürokratlar Bertrand Mabille ve Michel de Rosen, idari basitleştirmeyi Cumhurbaşkanı'nın önceliği yapmayı öneriyor. Elysee Sarayı'na aday olan veya olmayı düşünen birçok kişiyle görüşerek reform önerilerini topladılar.",
+          "group" : "Fransa'da idari reform önerileri",
+          "id" : "atom_005",
+          "link" : "https:\/\/www.lemonde.fr\/politique\/article\/2026\/05\/27\/faire-de-la-simplification-administrative-la-mere-de-toutes-les-reformes-le-projet-de-deux-anciens-hauts-fonctionnaires_6694255_823448.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-05-27T18:17:49Z",
+          "titleTR" : "İki eski bürokrattan idari basitleştirme önerisi"
+        }
+      ],
+      "packetSpot" : "Fransa'da yaşanan sıcak hava dalgası, siyasi yolsuzluk davaları ve idari reform önerileri gündemi meşgul ediyor. İklim değişikliğinin etkileri, Sarkozy'nin davası ve bürokratların reform önerileri dikkat çekiyor. Bu gelişmeler, Fransa'nın farklı alanlarda karşılaştığı zorlukları gözler önüne seriyor.",
+      "packetTitle" : "Fransa'da Sıcak Gelişmeler",
+      "publishedAt" : "2026-05-27T23:09:17Z",
+      "sessionID" : "session_2026_05_28_0FE53C",
+      "slot" : 2
     }
   ],
   "week" : "2026-W22"
