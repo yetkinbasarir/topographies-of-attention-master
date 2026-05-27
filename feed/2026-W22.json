@@ -129,6 +129,92 @@
       "publishedAt" : "2026-05-27T01:39:25Z",
       "sessionID" : "session_2026_05_27_2A9F31",
       "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Sağlık",
+          "descriptionTR" : "Bazı uzmanlar Beyaz Saray'ın yaklaşımını eleştiriyor ve Amerikalıların ülkeye dönmesine izin verilmemesinin tedavi çabalarını zedelediğini söylüyor. Trump yönetimi, Ebola salgınından etkilenen Amerikalılar için Kenya'da bir karantina ve tedavi merkezi inşa ediyor, onları eve getirmek yerine. Beyaz Saray, Çarşamba günü yaptığı açıklamada, ABD'nin Demokratik Kongo Cumhuriyeti'ndeki Ebola maruziyeti sonrası Amerikalıların karantinaya alınması için Kenya'da bir tesis kurduğunu doğruladı.",
+          "group" : "Ebola salgını ve uluslararası tepkiler",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/may\/27\/trump-administration-ebola-quarantine-kenya",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T18:00:41Z",
+          "titleTR" : "ABD, Ebola salgını nedeniyle Kenya'da Amerikalılar için karantina merkezi kuruyor"
+        },
+        {
+          "atomID" : "atom_002",
+          "category" : "Sağlık",
+          "descriptionTR" : "Tedros Adhanom Ghebreyesus, \"hastalık ve çatışmanın felaketle sonuçlanan çarpışması\" konusunda uyarıda bulundu. Uganda, DRC ile sınırını kapattı.\nDünya Sağlık Örgütü Başkanı, Demokratik Kongo Cumhuriyeti'nin doğusunda Ebola salgınıyla mücadeleye yardımcı olmak için acil ateşkes çağrısında bulundu. Uganda, salgının yayılmasını önlemek amacıyla komşusuyla olan sınırını kapattı.\nTedros Adhanom Ghebreyesus, sosyal medyada bölgenin \"hastalık ve çatışmanın felaketle çarpışması\" içinde olduğunu belirtti ve Ituri eyaletindeki Ebola salgınının müdahale hızını aştığını söyledi. Tedros, bu hafta DRC'ye gideceğini açıkladı.",
+          "group" : "Ebola salgını ve uluslararası tepkiler",
+          "id" : "atom_002",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/27\/who-chief-tedros-calls-for-drc-ceasefire-ebola",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T15:51:54Z",
+          "titleTR" : "DSÖ Başkanı, Ebola salgını için DRC'de ateşkes çağrısı yaptı"
+        },
+        {
+          "atomID" : "atom_003",
+          "category" : "Sağlık",
+          "descriptionTR" : "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü, komşu ülkeleri acil önlem almaya çağırdı. DSÖ, Ebola salgınının müdahale çabalarını aştığını ve Demokratik Kongo Cumhuriyeti'ne (DKC) komşu ülkelerin hastalık açısından yüksek risk altında olduğunu belirtti. DSÖ Genel Direktörü Dr. Tedros Adhanom Ghebreyesus, \"Operasyonlarımızı acilen genişletiyoruz, ancak şu anda salgın bizi aşıyor,\" dedi ve komşu ülkeleri acil önlem almaya çağırdı.",
+          "group" : "Ebola salgını ve uluslararası tepkiler",
+          "id" : "atom_003",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/25\/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-25T17:00:30Z",
+          "titleTR" : "DSÖ: Ebola'nın yayılması müdahale çabalarını aşıyor"
+        },
+        {
+          "atomID" : "atom_005",
+          "category" : "Sağlık",
+          "descriptionTR" : "Dünya Sağlık Örgütü, salgının ülke için 'çok yüksek' risk oluşturduğunu belirtirken, hastalığın küresel yayılma riskinin düşük olduğunu ifade etti. Demokratik Kongo Cumhuriyeti yetkilileri, ülkenin doğusunda devam eden salgında şüpheli Ebola vakalarının 900'ü aştığını açıkladı. DRC İletişim Bakanlığı, Pazar günü X platformunda yaptığı bir paylaşımda, 904 şüpheli vaka ve 119 şüpheli ölüm olduğunu belirtti.",
+          "group" : "Ebola salgını ve uluslararası tepkiler",
+          "id" : "atom_005",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/24\/suspected-ebola-cases-congo-health-workers-attacks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-24T19:07:33Z",
+          "titleTR" : "Kongo'da şüpheli Ebola vakaları 900'ü geçti, sağlık çalışanları saldırılar ve kıtlıklarla karşı karşıya"
+        },
+        {
+          "atomID" : "atom_006",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Kanada, ABD savunma firmalarına bağımlılığı azaltmak amacıyla İsveçli Saab firmasından erken uyarı uçakları satın alacak. Başbakan Mark Carney, Çarşamba günü yaptığı açıklamada, Kanada'nın Saab'ın GlobalEye modelini tercih edeceğini duyurdu. Boeing'in E-7 Wedgetail uçağı da seçenekler arasındaydı ancak gecikmeler ve maliyet aşımları nedeniyle tercih edilmedi.",
+          "group" : "Kanada'nın savunma stratejisi",
+          "id" : "atom_006",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/27\/canada-sweden-saab-globaleye-aircraft",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T15:58:14Z",
+          "titleTR" : "Kanada, askeri uçak filosunu İsveç'ten alacak"
+        },
+        {
+          "atomID" : "atom_011",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Video görüntüleri, dalgıçların suyla çevrili bir kayada oturan grubu bulduğunu gösteriyor. Kurtarma ekipleri, Laos'ta sel sularıyla dolu, uzak bir mağarada bir haftadır mahsur kalan yedi kişiden beşine ulaştı. Kurtarma dalgıçlarının sosyal medyada paylaştığı video, beş adamın karanlık bir mağara odasında çamurlu suyla çevrili bir kayalıkta birlikte çömeldiğini gösteriyor. Kurtarma ekibinden biri, \"Ağlamaya gerek yok,\" diyerek çarşamba günü mağaraya giren adamlara moral verdi. İki kişi ise hâlâ kayıp.",
+          "group" : "Laos'ta mağara kurtarma operasyonu",
+          "id" : "atom_011",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/27\/five-villagers-found-alive-in-laos-cave-as-search-continues-for-two-missing",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T13:44:48Z",
+          "titleTR" : "Laos'ta mağarada mahsur kalan beş köylü sağ bulundu, iki kişi hâlâ kayıp"
+        },
+        {
+          "atomID" : "atom_015",
+          "category" : "Güvenlik",
+          "descriptionTR" : "2018'de Tayland'daki genç futbol takımının kurtarılmasında görev alan dalgıçlar, Laos'un merkezindeki bir mağarada beş gündür mahsur kalan yedi kişiyi kurtarma çalışmalarına katıldı. Xaysomboun bölgesindeki mağaraya vahşi yaşam avı ve altın arayışı için giren grup, yoğun yağışların yol açtığı toprak kaymaları nedeniyle içeride kaldı.",
+          "group" : "Laos'ta mağara kurtarma operasyonu",
+          "id" : "atom_015",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/25\/laos-flooded-cave-thai-rescuers",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-25T14:24:26Z",
+          "titleTR" : "Taylandlı kurtarma ekipleri, Laos'ta mağarada mahsur kalanları kurtarma çalışmalarına katıldı"
+        }
+      ],
+      "packetSpot" : "Ebola salgını, küresel sağlık sistemini zorluyor. Dünya Sağlık Örgütü'nün çağrıları ve uluslararası müdahaleler dikkat çekiyor. Güvenlik alanında ise Kanada'nın savunma stratejisi ve Laos'taki kurtarma operasyonları öne çıkıyor.",
+      "packetTitle" : "Güncel Sağlık ve Güvenlik Gelişmeleri",
+      "publishedAt" : "2026-05-27T20:33:36Z",
+      "sessionID" : "session_2026_05_27_529BCA",
+      "slot" : 3
     }
   ],
   "week" : "2026-W22"
