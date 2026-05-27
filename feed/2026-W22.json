@@ -451,6 +451,103 @@
       "publishedAt" : "2026-05-27T21:41:14Z",
       "sessionID" : "session_2026_05_28_82AB1F",
       "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Başkan Trump, ABD siyasetinin popüler olmayan savaş stratejisini etkilemeyeceğini ve uzun sürebilecek barış görüşmelerine açık olduğunu söyledi. Ayrıca, İran'ın Hürmüz Boğazı'nı kontrol edemeyeceğini belirtti.",
+          "group" : "ABD-İran ilişkileri",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.nytimes.com\/live\/2026\/05\/27\/world\/iran-war-trump-deal",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:36:57Z",
+          "titleTR" : "Trump: Ara Seçim Baskısını Umursamıyorum, İran Hürmüz Boğazı'nı Kontrol Edemez"
+        },
+        {
+          "atomID" : "atom_003",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Lübnan'da pek az kişi, İsrail ve Hizbullah arasındaki çatışmaların güneyde yoğunlaşmasıyla birlikte, daha geniş çaplı savaşı sona erdirmeye yönelik diplomatik çabaların ülkeye barış getireceğine inanıyor.",
+          "group" : "Orta Doğu çatışmaları",
+          "id" : "atom_003",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/middleeast\/lebaon-war-deal-iran-us.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T20:44:51Z",
+          "titleTR" : "Lübnanlılar Uzun Süreli Savaşa Hazır, ABD ve İran Anlaşsa Bile"
+        },
+        {
+          "atomID" : "atom_004",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Moskova, cephede ve müzakere masasında tıkanmışken, Kiev'e yönelik büyük saldırılar ve daha fazlasının geleceğine dair uyarılar yapıyor.",
+          "group" : "Rusya-Ukrayna gerilimi",
+          "id" : "atom_004",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/europe\/russia-ukraine-kyiv-attacks.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T15:54:26Z",
+          "titleTR" : "Rusya Daha Sert Vurabilir mi? En Azından Ukrayna'nın Böyle Düşünmesini İstiyor."
+        },
+        {
+          "atomID" : "atom_017",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Eski ABD Başkanı Donald Trump, stratejik öneme sahip bir boğaz konusunda ABD'nin müttefiki olan Umman'ı tehdit etti. Ancak daha sonra Umman'ın durumunun iyi olacağını belirtti.",
+          "group" : "ABD-İran ilişkileri",
+          "id" : "atom_017",
+          "link" : "https:\/\/www.nytimes.com\/live\/2026\/05\/27\/world\/iran-war-trump-deal\/oman-threat",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T20:36:54Z",
+          "titleTR" : "Trump, ABD müttefiki Umman'ı boğaz konusunda tehdit etti, sonra 'Onlar iyi olacak' dedi"
+        },
+        {
+          "atomID" : "atom_020",
+          "category" : "Güvenlik",
+          "descriptionTR" : "İsrail ordusu, güneydeki iki şehir için geniş kapsamlı tahliye emirleri verdi ve bu, daha fazla hava saldırısının yolda olduğuna işaret ediyor.",
+          "group" : "Orta Doğu çatışmaları",
+          "id" : "atom_020",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/middleeast\/israel-hezbollah-lebanon.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T16:22:31Z",
+          "titleTR" : "İsrail, Lübnan'daki Gerilimi Tırmandırıyor: Tahliye Emri Verildi"
+        },
+        {
+          "atomID" : "atom_024",
+          "category" : "Güvenlik",
+          "descriptionTR" : "İsrail, İran destekli militan grup Hizbullah'a karşı ölümcül askeri harekâtını son günlerde yoğunlaştırarak Lübnan genelinde hedeflere saldırıyor.",
+          "group" : "Orta Doğu çatışmaları",
+          "id" : "atom_024",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/middleeast\/lebanon-israel-hezbollah-military-campaign.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T14:31:44Z",
+          "titleTR" : "İsrail Savaş Uçakları Güney Lübnan Üzerinde Dolaşırken Halk Endişeyle İzliyor"
+        },
+        {
+          "atomID" : "atom_035",
+          "category" : "Güvenlik",
+          "descriptionTR" : "İran destekli militan grup Hizbullah, İsrail askerlerine yönelik roket ve drone saldırılarını sürdürüyor. Bu tırmanış, diplomatik çabaları karmaşıklaştırma tehdidi taşıyor.",
+          "group" : "Orta Doğu çatışmaları",
+          "id" : "atom_035",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/middleeast\/israel-strikes-escalation-lebanon.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-26T15:55:06Z",
+          "titleTR" : "İsrail, Lübnan'a Yönelik Saldırısını Artırırken ABD İran Barış Anlaşması İçin Bastırıyor"
+        },
+        {
+          "atomID" : "atom_045",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Drone teknolojisi ve diplomasi gibi unsurlar, savaşların hem cephede hem de küresel ittifaklarda nasıl kesiştiğini gösteriyor ve gelecekteki çatışmalar için bir model sunuyor.",
+          "group" : "Ukrayna ve İran savaşları",
+          "id" : "atom_045",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/middleeast\/iran-ukraine-wars-similarities.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-26T20:29:16Z",
+          "titleTR" : "Ukrayna ve İran'daki Savaşlar Beklenenden Daha Benzer"
+        }
+      ],
+      "packetSpot" : "Dünya genelinde çatışmalar ve diplomasi, küresel dengeleri nasıl etkiliyor? Orta Doğu'dan ABD-İran ilişkilerine, Rusya-Ukrayna geriliminden Çin'in stratejik hamlelerine kadar geniş bir perspektif sunuyoruz. Bu paket, dünya sahnesindeki önemli gelişmeleri ve diplomatik çabaları mercek altına alıyor.",
+      "packetTitle" : "Dünya Çatışmaları ve Diplomasi",
+      "publishedAt" : "2026-05-27T21:42:48Z",
+      "sessionID" : "session_2026_05_28_82AB1F",
+      "slot" : 7
     }
   ],
   "week" : "2026-W22"
