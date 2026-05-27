@@ -751,6 +751,48 @@
       "publishedAt" : "2026-05-27T22:14:36Z",
       "sessionID" : "session_2026_05_28_82AB1F",
       "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_021",
+          "category" : "Çevre",
+          "descriptionTR" : "Altın ararken mahsur kalan beş kişi, bir hafta sonra dar ve çamurlu bir odada sağ bulundu. İki kişi ise hâlâ kayıp.",
+          "group" : "Doğal afetlerde kurtarma operasyonları",
+          "id" : "atom_021",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/asia\/five-rescued-laos-cave.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-05-27T19:40:47Z",
+          "titleTR" : "Laos'ta Sel Basan Mağarada Mahsur Kalan Beş Kişi Sağ Bulundu"
+        },
+        {
+          "atomID" : "atom_031",
+          "category" : "Çevre",
+          "descriptionTR" : "Britanya ve Fransa'daki yetkililer, beklenmedik bir zamanda yaşanan \"eşi görülmemiş\" sıcaklıkların devam edebileceği konusunda uyardı. İklim değişikliği, sıcak hava dalgalarını daha sık ve daha şiddetli hale getirdi.",
+          "group" : "Avrupa'da iklim değişikliği etkileri",
+          "id" : "atom_031",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/europe\/europe-heatwave-uk-spain-france.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-26T21:33:51Z",
+          "titleTR" : "İngiltere, İspanya ve Fransa'da Bahar Sıcaklık Rekorları Kırılıyor"
+        },
+        {
+          "atomID" : "atom_038",
+          "category" : "Çevre",
+          "descriptionTR" : "Altın ararken mağarada mahsur kalan grup neredeyse bir haftadır kurtarılmayı bekliyor. 2018'de Tayland'daki genç futbol takımının kurtarılmasında görev alan dalgıçlar da operasyona katıldı.",
+          "group" : "Doğal afetlerde kurtarma operasyonları",
+          "id" : "atom_038",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/asia\/laos-cave-rescue.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-05-26T19:09:58Z",
+          "titleTR" : "Laos'ta Kurtarma Ekipleri Sular Altında Kalan Mağarada Mahsur Kalan 7 Kişiye Ulaşmaya Çalışıyor"
+        }
+      ],
+      "packetSpot" : "İklim değişikliği, dünya genelinde etkilerini hissettiriyor. Avrupa'da sıcaklık rekorları kırılırken, doğal afetler kurtarma operasyonlarını zorlaştırıyor. Bu paket, iklim değişikliğinin güncel etkilerini ve sonuçlarını ele alıyor.",
+      "packetTitle" : "iklim",
+      "publishedAt" : "2026-05-27T22:15:12Z",
+      "sessionID" : "session_2026_05_28_82AB1F",
+      "slot" : 11
     }
   ],
   "week" : "2026-W22"
