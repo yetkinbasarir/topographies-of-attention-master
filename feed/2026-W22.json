@@ -290,6 +290,114 @@
       "publishedAt" : "2026-05-27T21:08:24Z",
       "sessionID" : "session_2026_05_28_345E04",
       "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Başkan Trump, ABD siyasetinin popüler olmayan savaş stratejisini etkilemeyeceğini ve uzun sürebilecek barış görüşmelerine açık olduğunu söyledi. Ayrıca, İran'ın Hürmüz Boğazı'nı kontrol etmesine izin vermeyeceğini belirtti.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.nytimes.com\/live\/2026\/05\/27\/world\/iran-war-trump-deal",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:36:57Z",
+          "titleTR" : "Trump: İran Savaşı'nda İç Siyaset Baskısı Umurumda Değil"
+        },
+        {
+          "atomID" : "atom_011",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Para, görüşmelerde bir engel haline geldi. İran, anlamlı müzakerelerin başlaması için fonların serbest bırakılmasının şart olduğunu belirtiyor.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_011",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/middleeast\/iran-frozen-funds-trump-deal.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:03:14Z",
+          "titleTR" : "İran, Trump'la Anlaşma İçin Milyarlarca Dolarının Serbest Bırakılmasını İstiyor"
+        },
+        {
+          "atomID" : "atom_017",
+          "category" : "Diplomasi",
+          "descriptionTR" : "",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_017",
+          "link" : "https:\/\/www.nytimes.com\/live\/2026\/05\/27\/world\/iran-war-trump-deal\/oman-threat",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:36:54Z",
+          "titleTR" : "Trump, ABD müttefiki Umman'ı boğaz konusunda tehdit etti, sonra 'Onlar iyi olacak' dedi"
+        },
+        {
+          "atomID" : "atom_018",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Başkan Trump, bir barış anlaşması umudunu koruduğunu ancak yüksek petrol fiyatlarının kendisini zorlamayacağını belirtti.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_018",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/middleeast\/trump-iran-peace-talks.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:26:52Z",
+          "titleTR" : "Trump, İran Anlaşması İçin Siyasi Baskı Hissetmediğini Söyledi"
+        },
+        {
+          "atomID" : "atom_019",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Beyaz Saray, Hürmüz Boğazı'nın yeniden açılması için şartları detaylandıran bu haberi \"tamamen uydurma\" olarak nitelendirerek hemen reddetti.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_019",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/middleeast\/iran-unofficial-deal-strait.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T17:27:03Z",
+          "titleTR" : "İran Devlet Medyasına Göre ABD ile 'Gayriresmi' Anlaşmanın Detayları"
+        },
+        {
+          "atomID" : "atom_028",
+          "category" : "Diplomasi",
+          "descriptionTR" : "ABD güçlerinin İran'daki askeri noktaları vurmasının ardından tehditler geldi. Dışişleri Bakanı Marco Rubio, salı günü yaptığı açıklamada savaşı bitirmek için müzakerelerin sürdüğünü belirtti.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_028",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/middleeast\/iran-threats-strikes-us-ceasefire.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-26T20:58:54Z",
+          "titleTR" : "İran, Diplomatik Anlaşma Çabaları Sürerken ABD'ye Yeniden Saldırı Tehdidinde Bulundu"
+        },
+        {
+          "atomID" : "atom_030",
+          "category" : "Diplomasi",
+          "descriptionTR" : "İki ABD yetkilisine göre, İran Amerikan gemilerine yakın bölgelerde insansız hava araçları uçurdu, Hürmüz Boğazı'na mayın döşemek için sürat tekneleri gönderdi ve bazı füze sahalarındaki faaliyetlerini artırdı.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_030",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/middleeast\/us-iran-strikes.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-26T19:03:49Z",
+          "titleTR" : "ABD, Son Saldırılardan Önce İran Tehditlerini Gözlemledi"
+        },
+        {
+          "atomID" : "atom_034",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Başkan Trump'ın İran'la savaşı sona erdirme önerisi, en tartışmalı konuların ele alınmasını ertelemeyi içeriyor — bu taktik Gazze'de karışık sonuçlar vermişti.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_034",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/middleeast\/trump-middle-east-peace-deals.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-26T13:57:30Z",
+          "titleTR" : "Trump'ın İran Önerisi, Tamamlanmamış Gazze Anlaşmasını Hatırlatıyor"
+        },
+        {
+          "atomID" : "atom_048",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Askeri yetkililere göre, saldırılar ABD gemi ve uçaklarını tehdit eden büyük bir İran limanı yakınlarındaki füze sitelerini hedef aldı.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_048",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/25\/world\/middleeast\/us-iran-strikes.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-26T10:36:58Z",
+          "titleTR" : "ABD, Güney İran'da Yeniden Saldırı Düzenledi"
+        }
+      ],
+      "packetSpot" : "Küresel diplomasi sahnesinde tansiyon yükseliyor. ABD-İran gerilimi ve Orta Doğu'daki çatışmalar, uluslararası ilişkilerde yeni dinamikler yaratıyor. Bu paket, dünya genelindeki diplomatik gelişmeleri ve etkilerini ele alıyor.",
+      "packetTitle" : "Küresel Diplomasi",
+      "publishedAt" : "2026-05-27T21:22:05Z",
+      "sessionID" : "session_2026_05_28_A0115B",
+      "slot" : 5
     }
   ],
   "week" : "2026-W22"
