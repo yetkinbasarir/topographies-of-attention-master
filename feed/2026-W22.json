@@ -76,6 +76,59 @@
       "publishedAt" : "2026-05-27T01:24:40Z",
       "sessionID" : "doc_2026_05_26_001",
       "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_013",
+          "category" : "Çevre",
+          "descriptionTR" : "141 ülkenin desteklediği karar, iklim diplomasisi ve dava çabalarını iyileştirebilecek 'yeni bir dönem' olarak nitelendirildi. BM Genel Kurulu'nun çarşamba günü tarihi bir iklim krizi kararı lehine ezici bir çoğunlukla oy kullanmasının ardından, Pasifik adası Vanuatu'nun başbakanı sonucu iklim eyleminde 'yeni bir dönem'in başlangıcı olarak değerlendirdi. Jotham Napat, \"Şimdi hepimizin önündeki görev, yasal netliği anlamlı eyleme, daha güçlü iş birliğine ve mevcut ve gelecek nesiller için daha büyük korumaya dönüştürmektir,\" dedi.",
+          "group" : "BM iklim krizi kararı",
+          "id" : "atom_013",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/may\/22\/un-climate-crisis-vote-shows-political-momentum-growing-experts",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-22T10:27:07Z",
+          "titleTR" : "BM'nin iklim krizi oylaması siyasi ivmenin arttığını gösteriyor"
+        },
+        {
+          "atomID" : "atom_015",
+          "category" : "Çevre",
+          "descriptionTR" : "Güney ve orta Çin'de etkili olan yoğun ve uzun süreli yağışlar, ani sel, toprak kayması ve su baskını uyarılarına neden oldu. Yağışlar, Bengal Körfezi, Güney Çin Denizi ve Pasifik Okyanusu'ndan gelen yağış bantlarının birleşmesiyle oluştu ve salı günü doğuya doğru ilerledi. Düşük rüzgar hızları nedeniyle günlük ve saatlik yağış miktarları yüksek kaydedildi; Hunan'da yerel olarak 75mm, Anhui'de 85mm ve Hainan adasında 95mm yağış ölçüldü. Sel nedeniyle 12 kişi hayatını kaybetti, yüzlerce kişi tahliye edildi. Ulaşımda büyük aksaklıklar, elektrik kesintileri, okul ve işyeri kapanmaları yaşandı. Sosyal medyada su altında kalan araçlar ve sel sularında balık tutan insanlar görüldü.",
+          "group" : "Çin sel felaketi",
+          "id" : "atom_015",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/may\/22\/slow-moving-bands-heavy-rain-flooding-landslides-china",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-22T08:04:33Z",
+          "titleTR" : "Çin'de şiddetli yağışlar sel ve toprak kaymalarına yol açtı"
+        },
+        {
+          "atomID" : "atom_022",
+          "category" : "Çevre",
+          "descriptionTR" : "Batı Avrupa'yı etkisi altına alan aşırı sıcaklar, İngiltere ve İrlanda'da da Mayıs ayı rekorlarının kırılmasına neden oldu. Fransa'da, erken yaz sıcakları nedeniyle yedi kişi yaşamını yitirdi. Ülkede Pazartesi ve Salı günleri Mayıs ayının en sıcak günleri kaydedildi. Météo France, sıcak hava dalgasının hafta boyunca sürebileceğini ve bazı bölgelerde sıcaklıkların 39 dereceye ulaşabileceğini öngörüyor.",
+          "group" : "Avrupa sıcak hava dalgası",
+          "id" : "atom_022",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/26\/deaths-france-linked-record-high-temperatures",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T17:29:12Z",
+          "titleTR" : "Fransa'da Mayıs ayında sıcak hava dalgası nedeniyle yedi kişi hayatını kaybetti"
+        },
+        {
+          "atomID" : "atom_031",
+          "category" : "Çevre",
+          "descriptionTR" : "Guardian'ın, eski Miteni tesisinin Hint şirketi tarafından satın alındığını ortaya çıkarmasının ardından, Pfas düzenlemelerinin eksikliği parlamentoda gündeme getirildi. Kanserle bağlantılı Pfas kimyasallarının üretimine yönelik protestolar, çevre skandalı nedeniyle kapatılan İtalyan fabrikasının Hint şirketi tarafından kısmen yeniden inşa edildiğinin ortaya çıkmasıyla Hindistan genelinde yayıldı. Geçen yılın sonunda, Guardian, Vicenza'daki eski Miteni tesisinin Hint şirketi Laxmi Organic Industries tarafından satın alındığını açıklamıştı. Fabrika, Pfas üretiyordu ve 2018'de İtalya'nın en kötü çevre kirliliği skandallarından biriyle bağlantılı olarak kapatılmıştı.",
+          "group" : "Hindistan kimyasal protestoları",
+          "id" : "atom_031",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/may\/26\/india-pfas-production-forever-chemicals-protests-italian-factory",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T04:00:45Z",
+          "titleTR" : "Hindistan'da 'sonsuz kimyasallar' protestosu: Skandal fabrikayı Hint şirketi aldı"
+        }
+      ],
+      "packetSpot" : "İklim krizi, dünya genelinde acil eylem gerektiriyor. BM'nin iklim krizi kararı, siyasi ivmenin arttığını gösterirken, Avrupa'da sıcak hava dalgaları can kayıplarına yol açıyor. Çin'deki sel felaketleri ve Hindistan'daki kimyasal protestoları da çevresel tehditlerin ciddiyetini gözler önüne seriyor.",
+      "packetTitle" : "Gündem İklim",
+      "publishedAt" : "2026-05-27T01:39:25Z",
+      "sessionID" : "session_2026_05_27_2A9F31",
+      "slot" : 2
     }
   ],
   "week" : "2026-W22"
