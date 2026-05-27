@@ -2,7 +2,48 @@
   "label" : "25–31 MAYIS",
   "publishedAt" : "2026-05-27T01:24:40Z",
   "slots" : [
-
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Çevre",
+          "descriptionTR" : "Kalıcı 'ısı kubbesi' nedeniyle Fransa'da hava kalitesi düşüyor. Bu durum, özellikle Ile-de-France ve Rhône-Alpes gibi bölgelerde ozon kirliliği olaylarına yol açıyor ve bu kirliliğin önümüzdeki günlerde devam etmesi ve yayılması bekleniyor.",
+          "group" : "Avrupa'da iklim değişikliği etkileri",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.lemonde.fr\/planete\/live\/2026\/05\/27\/en-direct-canicule-17-departements-en-alerte-orange-39-en-vigilance-jaune-pour-jeudi_6693854_3244.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T18:54:29Z",
+          "titleTR" : "Fransa'da sıcak hava dalgası: 17 bölge turuncu, 39 bölge sarı alarmda"
+        },
+        {
+          "atomID" : "atom_008",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Salı akşamı, Grenoble'un hassas bir mahallesinde bir uyuşturucu satış noktasının yakınında gerçekleşen silahlı saldırıda bir kişi öldü, dört kişi yaralandı. Kurbanlar, 24 ile 33 yaşları arasında ve hepsinin kabarık sabıka kayıtları bulunuyor.",
+          "group" : "Fransa'da suç ve güvenlik sorunları",
+          "id" : "atom_008",
+          "link" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/27\/a-grenoble-dix-personnes-ont-ete-tuees-par-balles-en-six-mois-la-ville-et-sa-banlieue-vivent-des-guerres-de-territoires-exacerbees-assure-le-procureur_6694262_3224.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T20:00:37Z",
+          "titleTR" : "Grenoble'de Altı Ayda On Kişi Silahla Öldürüldü: \"Şehir ve Banliyöleri Yoğun Bölge Savaşları Yaşıyor\""
+        },
+        {
+          "atomID" : "atom_013",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Nisan sonundan bu yana Nantes'ın farklı bölgelerinde üç genç silahla vurularak öldürüldü. Şehirdeki sosyalist belediye başkanı Johanna Rolland, devletten 'yeterli' bir yanıt bekliyor. Üzgün ve endişeli olan halk, yeni trajedilerden korkuyor.",
+          "group" : "Fransa'da suç ve güvenlik sorunları",
+          "id" : "atom_013",
+          "link" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/27\/narcotrafic-a-nantes-un-troisieme-mort-par-balles-en-moins-d-un-mois_6694257_3224.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T18:57:16Z",
+          "titleTR" : "Nantes'ta uyuşturucu bağlantılı üçüncü cinayet"
+        }
+      ],
+      "packetSpot" : "Fransa'da sıcak hava dalgası ve suç oranlarındaki artış, ülkenin güvenlik ve çevre sorunlarına dikkat çekiyor. İklim değişikliği ve güvenlik sorunları, Fransa'nın karşı karşıya olduğu zorlukları gözler önüne seriyor. Bu gelişmeler, Avrupa'nın geleceği için önemli ipuçları sunuyor.",
+      "packetTitle" : "Fransa'da Çevre ve Güvenlik Sorunları",
+      "publishedAt" : "2026-05-27T23:06:36Z",
+      "sessionID" : "session_2026_05_28_0FE53C",
+      "slot" : 1
+    }
   ],
   "week" : "2026-W22"
 }
