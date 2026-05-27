@@ -1,0 +1,82 @@
+{
+  "label" : "25–31 MAYIS",
+  "publishedAt" : "2026-05-27T01:24:40Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Sağlık",
+          "descriptionTR" : "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü, komşu ülkeleri acil önlem almaya çağırdı. DSÖ, Ebola salgınının müdahale çabalarını aştığını ve Demokratik Kongo Cumhuriyeti'ne (DKC) komşu ülkelerin hastalık açısından yüksek risk altında olduğunu belirtti. DSÖ Genel Direktörü Dr. Tedros Adhanom Ghebreyesus, \"Operasyonlarımızı acilen genişletiyoruz, ancak şu anda salgın bizi aşıyor,\" dedi ve komşu ülkeleri acil önlem almaya çağırdı.",
+          "group" : "Ebola salgını DRC",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/25\/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who",
+          "newsValue" : 8,
+          "publishedAt" : "2026-05-25T17:00:30Z",
+          "titleTR" : "DSÖ: Kongo'daki Ebola salgını müdahaleleri aşıyor"
+        },
+        {
+          "atomID" : "atom_002",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Bonolo Selelo ve Tsholofelo Kumile, evlenme haklarını elde etmek için mahkemeye gidiyor ancak kilise gruplarının sert muhalefetiyle karşılaşıyorlar. Selelo, Gaborone Onur etkinliğinde Kumile'yi gördüğünde onun çekiciliğinden etkilenmişti. İkili sohbet etmeye başladı ve Kumile, etkinlikteki tarot falı hakkında endişelerini dile getirdiğinde, Selelo ona sarılmayı teklif etti. Fal olumlu çıktı ama Kumile sarılmayı yine de aldı ve saatlerce konuştular. Bu, 1 Ekim 2023'teydi. İki ay sonra birlikte yaşamaya başladılar. 2024 Paskalya tatilinde bir yürüyüş sırasında Selelo, Kumile'ye evlenme teklif etti. Bir yıl sonra, evlenme niyetlerini kaydettirmek için yerel bir hükümet ofisine gittiklerinde bunun yasal olmadığını öğrendiler.",
+          "group" : "Eşcinsel hakları Botsvana",
+          "id" : "atom_002",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/25\/same-sex-marriage-botswana-couple-court",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-25T04:00:15Z",
+          "titleTR" : "Botsvana'da eşcinsel evliliği yasallaştırmak isteyen çiftin mücadelesi"
+        },
+        {
+          "atomID" : "atom_003",
+          "category" : "Sağlık",
+          "descriptionTR" : "Dünya Sağlık Örgütü, salgının ülke için 'çok yüksek' risk taşıdığını belirtirken, hastalığın küresel yayılma riskinin düşük olduğunu ifade etti. Demokratik Kongo Cumhuriyeti yetkilileri, ülkenin doğusunda devam eden salgında şüpheli Ebola vakalarının 900'ü aştığını açıkladı. DRC İletişim Bakanlığı, Pazar günü X platformunda yaptığı paylaşımda 904 şüpheli vaka ve 119 şüpheli ölüm olduğunu belirtti.",
+          "group" : "Ebola salgını DRC",
+          "id" : "atom_003",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/24\/suspected-ebola-cases-congo-health-workers-attacks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-24T19:07:33Z",
+          "titleTR" : "Kongo'da şüpheli Ebola vakaları 900'ü geçti, sağlık çalışanları saldırı ve kıtlıkla karşı karşıya"
+        },
+        {
+          "atomID" : "atom_005",
+          "category" : "Sağlık",
+          "descriptionTR" : "Trump yönetimi, Demokratik Kongo Cumhuriyeti'nde (DKC) hızla yayılan Ebola salgını nedeniyle mültecilerin bu ülkeye gönderilmesini geçici olarak durduracak. Ancak uzmanlar, bu adımın hastalığın yayılmasını önlemeyeceğini belirtiyor. En az bir kadın, yetkililerin onu DKC'nin başkenti Kinşasa'ya göndermesi ve şimdi Ebola seyahat yasağı nedeniyle geri getirmeyeceklerini söylemesi üzerine belirsizlik içinde kaldı. Bu durum, bir hakimin kadının geri getirilmesi yönündeki kararına rağmen yaşanıyor.",
+          "group" : "Ebola salgını DRC",
+          "id" : "atom_005",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/23\/white-house-pauses-detainee-removal-drc-ebola",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-23T14:33:05Z",
+          "titleTR" : "Beyaz Saray, Ebola salgını nedeniyle DKC'ye mülteci gönderimini durdurdu"
+        },
+        {
+          "atomID" : "atom_026",
+          "category" : "Diplomasi",
+          "descriptionTR" : "ABD ordusu, Pazartesi günü mayın döşemeye çalışan tekneler ve füze fırlatma alanları gibi hedeflere saldırılar düzenlediğini açıkladı. İran, ABD'nin ateşkesten bu yana ilk saldırılarına rağmen barış görüşmelerine devam ediyor. İran'ın dini lideri Mojtaba Hamaney, Telegram kanalında Körfez ülkelerinin artık ABD üsleri için kalkan olmayacağını ve ABD'nin bölgede güvenli bir sığınağı kalmayacağını belirtti. Bu açıklama, ABD'nin İran'a yönelik gece saldırılarının ardından geldi. Saldırılar, İran'ın üst düzey müzakerecisi ve dışişleri bakanının Katar'da savaşın sona erdirilmesi için potansiyel bir anlaşma üzerine Katar başbakanıyla görüşmelerde bulunduğu sırada gerçekleşti.",
+          "group" : "Ortadoğu ABD İran gerilimi",
+          "id" : "atom_026",
+          "link" : "https:\/\/www.theguardian.com\/world\/live\/2026\/may\/26\/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-26T19:42:26Z",
+          "titleTR" : "Ortadoğu krizi: İran, ABD'nin ateşkesi ihlal ettiğini söyledi"
+        },
+        {
+          "atomID" : "atom_027",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Tahran, 'kesin ihlal' olarak nitelendirdiği saldırıyı kınadı ancak belirli bir misilleme açıklamadı. Görüşmelerin kritik bir aşamaya yaklaştığı belirtiliyor. 8 Nisan'daki ateşkesten bu yana Washington'un ilk askeri eylemi olan İran hedeflerine yönelik ABD bombalamalarına rağmen, İran ve ABD arasındaki önerilen barış anlaşması Salı günü masada kalmaya devam etti. İran Dışişleri Bakanlığı, Hürmüz Boğazı'nda füze rampaları ve yeni mayın döşeme girişimlerini hedef alan ABD saldırısını 'kötü niyetli bir eylem' ve 'ateşkesin kesin ihlali' olarak nitelendirdi ve saldırının yanıtsız kalmayacağını belirtti. Ancak Pakistan ve Katar'ın ortak arabuluculuğunda devam eden görüşmelerden çekilmedi.",
+          "group" : "Ortadoğu ABD İran gerilimi",
+          "id" : "atom_027",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/26\/iran-peace-deal-talks-us-bombing-ceasefire-strait-hormuz",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-26T17:06:34Z",
+          "titleTR" : "İran, ateşkesten bu yana ilk ABD saldırılarına rağmen barış görüşmelerinde kalıyor"
+        }
+      ],
+      "packetSpot" : "Bu hafta dünya gündeminde sağlık, diplomasi ve insan hakları öne çıkıyor. Kongo'daki Ebola salgını, İran-ABD gerilimi ve Botsvana'daki eşcinsel hakları mücadelesi dikkat çekiyor. Küresel gelişmelerin nabzını tutuyoruz.",
+      "packetTitle" : "Bu Hafta Dünya",
+      "publishedAt" : "2026-05-27T01:24:40Z",
+      "sessionID" : "doc_2026_05_26_001",
+      "slot" : 1
+    }
+  ],
+  "week" : "2026-W22"
+}
