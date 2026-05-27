@@ -85,6 +85,48 @@
       "publishedAt" : "2026-05-27T23:48:56Z",
       "sessionID" : "session_2026_05_28_05CB5B",
       "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "",
+          "descriptionTR" : "Ordu, Zahrani Nehri'nin güneyindeki bölgelerin artık \"savaş alanı\" olduğunu belirterek Hizbullah'ı yeni saldırılarla tehdit ediyor.",
+          "group" : "A",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T20:26:03Z",
+          "titleTR" : "İsrail, Güney Lübnan'ın geniş bölgeleri için tahliye emri verdi"
+        },
+        {
+          "atomID" : "atom_002",
+          "category" : "",
+          "descriptionTR" : "ABD Başkanı, İran'ın bir anlaşmaya varmak istediğine inandığını ancak şartlar üzerinde henüz bir anlaşma sağlanamadığını belirtti.",
+          "group" : "A",
+          "id" : "atom_002",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T17:37:33Z",
+          "titleTR" : "Trump: ABD, İran anlaşmasından henüz memnun değil"
+        },
+        {
+          "atomID" : "atom_016",
+          "category" : "",
+          "descriptionTR" : "Saldırılar, İranlı ve Katarlı müzakerecilerin Doha'da barış görüşmeleri yaptığı sırada gerçekleşti.",
+          "group" : "A",
+          "id" : "atom_016",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T15:15:29Z",
+          "titleTR" : "İran, ABD saldırılarını ateşkesin 'ağır ihlali' olarak kınadı"
+        }
+      ],
+      "packetSpot" : "Orta Doğu'da artan gerginlikler ve diplomatik çabalar dünya gündeminde. İsrail'in Güney Lübnan'daki tahliye emirleri ve İran-ABD ilişkilerindeki belirsizlikler dikkat çekiyor. Bu gelişmeler, bölgedeki siyasi ve insani durumu daha da karmaşık hale getiriyor.",
+      "packetTitle" : "Orta Doğu'da Gerginlik ve Diplomasi",
+      "publishedAt" : "2026-05-27T23:49:45Z",
+      "sessionID" : "session_2026_05_28_05CB5B",
+      "slot" : 3
     }
   ],
   "week" : "2026-W22"
