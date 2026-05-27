@@ -2,7 +2,301 @@
   "label" : "25–31 MAYIS",
   "publishedAt" : "2026-05-27T01:24:40Z",
   "slots" : [
-
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "",
+          "descriptionTR" : "Ordu, Zahrani Nehri'nin güneyindeki bölgelerin artık \"savaş alanı\" olduğunu belirterek Hizbullah'ı yeni saldırılarla tehdit ediyor.",
+          "group" : "A",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T20:26:03Z",
+          "titleTR" : "İsrail, Güney Lübnan'ın geniş bölgeleri için tahliye emri verdi"
+        },
+        {
+          "atomID" : "atom_002",
+          "category" : "",
+          "descriptionTR" : "ABD Başkanı, İran'ın bir anlaşmaya varmak istediğine inandığını ancak şartlar üzerinde henüz bir anlaşma sağlanamadığını belirtti.",
+          "group" : "A",
+          "id" : "atom_002",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T17:37:33Z",
+          "titleTR" : "Trump: ABD, İran anlaşmasından henüz memnun değil"
+        },
+        {
+          "atomID" : "atom_003",
+          "category" : "",
+          "descriptionTR" : "Eski ABD first lady'si, CBS News'e Joe Biden'ın Donald Trump'a karşı performansının kendisini korkuttuğunu anlattı.",
+          "group" : "A",
+          "id" : "atom_003",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T21:06:19Z",
+          "titleTR" : "Jill Biden, eşinin 2024 tartışmasında 'inme geçirdiğini' sandığını söyledi"
+        },
+        {
+          "atomID" : "atom_004",
+          "category" : "",
+          "descriptionTR" : "Tedros Adhanom Ghebreyesus, Kongo Demokratik Cumhuriyeti'ndeki çatışmaların hastalığın yayılmasını durdurma çabalarını engellediğini belirtti.",
+          "group" : "A",
+          "id" : "atom_004",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T18:50:50Z",
+          "titleTR" : "DSÖ: Ebola salgını ve çatışmalar Kongo Demokratik Cumhuriyeti'nde felakete yol açabilir"
+        },
+        {
+          "atomID" : "atom_005",
+          "category" : "",
+          "descriptionTR" : "Geçen yıl ketamin dağıtımı sonucu ölüme sebebiyet vermekle ilgili suçunu kabul eden Kenneth Iwamasa, \"eylemlerimden sonsuza dek pişman olacağım\" dedi.",
+          "group" : "A",
+          "id" : "atom_005",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T20:09:33Z",
+          "titleTR" : "Matthew Perry'nin asistanı ketamin ölümünden 41 ay hapis cezası aldı"
+        },
+        {
+          "atomID" : "atom_006",
+          "category" : "",
+          "descriptionTR" : "Kurtarma ekipleri, kayıp olan iki köylüyü daha arama çalışmalarının sürdüğünü belirtiyor.",
+          "group" : "A",
+          "id" : "atom_006",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T11:52:46Z",
+          "titleTR" : "Laos'ta sel basan mağarada bir hafta mahsur kalan beş kişi sağ bulundu"
+        },
+        {
+          "atomID" : "atom_007",
+          "category" : "",
+          "descriptionTR" : "Hamas, Muhammed Odeh'in eşi ve iki çocuğuyla birlikte bir konut binasına yapılan saldırıda öldüğünü açıkladı.",
+          "group" : "A",
+          "id" : "atom_007",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T13:15:26Z",
+          "titleTR" : "Gazze'deki İsrail saldırısında Hamas'ın askeri kanadının yeni lideri öldü"
+        },
+        {
+          "atomID" : "atom_008",
+          "category" : "",
+          "descriptionTR" : "Klette, 2024'te Berlin'deki bir dairede yakalandı ve geçen yıl yargılandı.",
+          "group" : "A",
+          "id" : "atom_008",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T12:42:43Z",
+          "titleTR" : "30 yıl kaçak yaşayan kadın, silahlı soygunlardan hapse girdi"
+        },
+        {
+          "atomID" : "atom_009",
+          "category" : "",
+          "descriptionTR" : "Washington, Longview'deki bir kağıt fabrikasında tank patlaması sonucu dokuz kişi yaralandı, dokuz kişi ise kayboldu.",
+          "group" : "A",
+          "id" : "atom_009",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T03:02:27Z",
+          "titleTR" : "ABD'deki kağıt fabrikasında patlama: Bir ölü, dokuz kayıp"
+        },
+        {
+          "atomID" : "atom_010",
+          "category" : "",
+          "descriptionTR" : "İtalya Yüksek Mahkemesi, bir turistin yalnızca 7 avroluk şişe suyu teklif edilmesinin tüketici haklarını ihlal ettiği iddiasını reddetti.",
+          "group" : "A",
+          "id" : "atom_010",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T12:25:31Z",
+          "titleTR" : "Turiste musluk suyu vermeyen otel yasal davrandı"
+        },
+        {
+          "atomID" : "atom_011",
+          "category" : "",
+          "descriptionTR" : "Batı Afrika ülkesi, transatlantik köle ticaretinin ana kapılarından biriydi.",
+          "group" : "A",
+          "id" : "atom_011",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T13:17:41Z",
+          "titleTR" : "Gana, Papa'nın kölelikte Katolik Kilisesi'nin rolü için özrünü memnuniyetle karşıladı"
+        },
+        {
+          "atomID" : "atom_012",
+          "category" : "",
+          "descriptionTR" : "Ken Paxton'ın zaferi, Kasım ayındaki ara seçimlerde yakından izlenecek bir yarışın zeminini hazırlıyor.",
+          "group" : "A",
+          "id" : "atom_012",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/clypprglrlyo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T11:53:06Z",
+          "titleTR" : "Trump destekli aday, Teksas ön seçimlerinde kıdemli senatörü yendi"
+        },
+        {
+          "atomID" : "atom_013",
+          "category" : "",
+          "descriptionTR" : "Aktivist ve eski polis memuru Dong Guangping, Kore sularına ulaşmadan önce denizde saatler geçirdi.",
+          "group" : "A",
+          "id" : "atom_013",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T11:12:33Z",
+          "titleTR" : "Güney Kore, Çin'den lastik botla kaçan muhalifi gözaltına aldı"
+        },
+        {
+          "atomID" : "atom_014",
+          "category" : "",
+          "descriptionTR" : "YouTuber'ın, Kim Soo-hyun'un kariyerini bitiren bir skandalı körükleyen asılsız iddialarda bulunduğu öne sürülüyor.",
+          "group" : "A",
+          "id" : "atom_014",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T02:54:19Z",
+          "titleTR" : "YouTuber, Koreli aktörü karalamak için yapay zeka kullandığı iddiasıyla tutuklandı"
+        },
+        {
+          "atomID" : "atom_015",
+          "category" : "",
+          "descriptionTR" : "NASA, Ay'da kalıcı bir üs kurma planları kapsamında zıplayan dronlar ve gezici araçlar göndermeyi planlıyor.",
+          "group" : "A",
+          "id" : "atom_015",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T20:25:50Z",
+          "titleTR" : "NASA, Ay'da kalıcı üs kurma planlarını açıkladı"
+        },
+        {
+          "atomID" : "atom_016",
+          "category" : "",
+          "descriptionTR" : "Saldırılar, İranlı ve Katarlı müzakerecilerin Doha'da barış görüşmeleri yaptığı sırada gerçekleşti.",
+          "group" : "A",
+          "id" : "atom_016",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T15:15:29Z",
+          "titleTR" : "İran, ABD saldırılarını ateşkesin 'ağır ihlali' olarak kınadı"
+        },
+        {
+          "atomID" : "atom_017",
+          "category" : "",
+          "descriptionTR" : "Son dönemdeki protestolar, yabancı düşmanlığı kaynaklı şiddetin yeniden alevlenebileceği korkularını artırmıştı.",
+          "group" : "A",
+          "id" : "atom_017",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T16:14:34Z",
+          "titleTR" : "Göçmen karşıtı protestolar nedeniyle Gana vatandaşları Güney Afrika'dan tahliye edildi"
+        },
+        {
+          "atomID" : "atom_018",
+          "category" : "",
+          "descriptionTR" : "BBC'den Ros Atkins ve BBC Verify, başkanın binlerce paylaşımını detaylı bir şekilde inceledi.",
+          "group" : "A",
+          "id" : "atom_018",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cpvp30gpd0ko?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T23:21:41Z",
+          "titleTR" : "Trump'ın binlerce paylaşımını inceledik: İşte bulduklarımız"
+        },
+        {
+          "atomID" : "atom_019",
+          "category" : "",
+          "descriptionTR" : "Meksikalı influencer El Temach'ın kız kardeşi, BBC'ye kardeşini artık tanıyamadığını söylüyor.",
+          "group" : "A",
+          "id" : "atom_019",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cjwppxwxpg1o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T23:14:30Z",
+          "titleTR" : "Kardeşim liberal Hollywood oyuncusuyken nasıl manosphere 'mesihi' oldu?"
+        },
+        {
+          "atomID" : "atom_020",
+          "category" : "",
+          "descriptionTR" : "ABD'de garsonlar %20'nin altında bahşiş alınca kızarken, bahşiş oranları başka yerlerde de artıyor.",
+          "group" : "A",
+          "id" : "atom_020",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cj6p0wrkpj8o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T23:14:43Z",
+          "titleTR" : "ABD'nin 'kontrolden çıkan' bahşiş kültürü yurtdışına mı yayılıyor?"
+        },
+        {
+          "atomID" : "atom_021",
+          "category" : "",
+          "descriptionTR" : "Müzik efsanesi, 20. solo albümü The Boys of Dungeon Lane için \"hafıza şarkıları\" sunmak üzerine konuştu ve yeni Beatles biyografileriyle neden ilgilendiğini anlattı.",
+          "group" : "A",
+          "id" : "atom_021",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/ce8pjg6jp38o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T23:13:45Z",
+          "titleTR" : "Paul McCartney, Paul Mescal ile gitar çalmak üzerine: 'O benden daha iyi biliyordu!'"
+        },
+        {
+          "atomID" : "atom_022",
+          "category" : "",
+          "descriptionTR" : "BBC, Çin'in elektrikli araç fabrikalarını ziyaret etti ve bu fabrikaların küresel otomotiv endüstrisini şekillendiren ekosistemlere hakim olduğunu gözlemledi.",
+          "group" : "A",
+          "id" : "atom_022",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4g8vg72z43o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T22:00:38Z",
+          "titleTR" : "Dünya otomobil üreticileri Çin'le rekabette zorlanıyor"
+        },
+        {
+          "atomID" : "atom_023",
+          "category" : "",
+          "descriptionTR" : "Laos'ta kurtarma ekipleri, bir haftadır sular altında kalan bir mağarada mahsur kalan beş köylüyü sağ olarak buldu.",
+          "group" : "A",
+          "id" : "atom_023",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cewpqy948ero?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T17:07:37Z",
+          "titleTR" : "İzle: Laos'ta kurtarıcılar mağarada mahsur kalan beş kişiyi buldu"
+        },
+        {
+          "atomID" : "atom_024",
+          "category" : "",
+          "descriptionTR" : "Bu devasa yapı, ABD Bağımsızlık Bildirgesi'nin 250. yıl dönümü kutlamaları kapsamında bir kafes dövüşüne ev sahipliği yapacak.",
+          "group" : "A",
+          "id" : "atom_024",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cz7253q4g4jo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T23:14:19Z",
+          "titleTR" : "Beyaz Saray'da UFC arenası inşaatı başladı"
+        },
+        {
+          "atomID" : "atom_025",
+          "category" : "",
+          "descriptionTR" : "Hugh Schofield, Batı Avrupa'yı etkisi altına alan sıcak hava dalgasının Paris'te Mayıs ayı ortalamalarının üzerinde sıcaklıklara neden olduğunu bildiriyor.",
+          "group" : "A",
+          "id" : "atom_025",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cy522zrkr7lo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T16:46:58Z",
+          "titleTR" : "Batı Avrupa'yı vuran sıcak hava dalgası Paris'i kavuruyor"
+        },
+        {
+          "atomID" : "atom_026",
+          "category" : "",
+          "descriptionTR" : "Xiaogan'da köprü çökmek üzereyken araçtaki sürücü ve yolcular kaçmayı başardı.",
+          "group" : "A",
+          "id" : "atom_026",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cdjppm1rpn7o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T09:12:57Z",
+          "titleTR" : "İzle: Çin'de köprü çöktü, araba nehre kapıldı"
+        }
+      ],
+      "packetSpot" : "Bu hafta dünya gündeminde dikkat çeken olaylar arasında Orta Doğu'daki gerilimler, Trump'ın İran anlaşmasına dair açıklamaları ve Kongo'daki sağlık krizleri yer alıyor. Ayrıca, NASA'nın Ay'da kalıcı üs kurma planları ve Güney Kore'de yaşanan siyasi gelişmeler de öne çıkıyor. Küresel perspektiften önemli gelişmeleri derledik.",
+      "packetTitle" : "Dünyada Bu Hafta",
+      "publishedAt" : "2026-05-27T23:58:09Z",
+      "sessionID" : "session_2026_05_28_05CB5B",
+      "slot" : 1
+    }
   ],
   "week" : "2026-W22"
 }
