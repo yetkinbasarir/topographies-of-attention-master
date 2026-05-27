@@ -645,6 +645,70 @@
       "publishedAt" : "2026-05-27T21:57:28Z",
       "sessionID" : "session_2026_05_28_82AB1F",
       "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Başkan Trump, ABD siyasetinin popüler olmayan savaş stratejisini etkilemeyeceğini ve uzun sürebilecek barış görüşmelerine açık olduğunu söyledi. Ayrıca, İran'ın Hürmüz Boğazı'nı kontrol edemeyeceğini belirtti.",
+          "group" : "ABD-İran ilişkileri",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.nytimes.com\/live\/2026\/05\/27\/world\/iran-war-trump-deal",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:36:57Z",
+          "titleTR" : "Trump: Ara Seçim Baskısını Umursamıyorum, İran Hürmüz Boğazı'nı Kontrol Edemez"
+        },
+        {
+          "atomID" : "atom_011",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Para, görüşmelerde bir engel haline geldi. İran, anlamlı müzakerelerin başlaması için bu fonların serbest bırakılmasını şart koşuyor.",
+          "group" : "ABD-İran ilişkileri",
+          "id" : "atom_011",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/middleeast\/iran-frozen-funds-trump-deal.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T20:03:14Z",
+          "titleTR" : "İran, Trump ile Anlaşma İçin Milyarlarca Dolarının Serbest Bırakılmasını İstiyor"
+        },
+        {
+          "atomID" : "atom_017",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Eski ABD Başkanı Donald Trump, stratejik öneme sahip bir boğaz konusunda ABD'nin müttefiki olan Umman'ı tehdit etti. Ancak daha sonra Umman'ın durumunun iyi olacağını belirtti.",
+          "group" : "ABD-İran ilişkileri",
+          "id" : "atom_017",
+          "link" : "https:\/\/www.nytimes.com\/live\/2026\/05\/27\/world\/iran-war-trump-deal\/oman-threat",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T20:36:54Z",
+          "titleTR" : "Trump, ABD müttefiki Umman'ı boğaz konusunda tehdit etti, sonra 'Onlar iyi olacak' dedi"
+        },
+        {
+          "atomID" : "atom_018",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Başkan Trump, bir barış anlaşması umudunu dile getirdi ancak yüksek petrol fiyatlarının kendisini zorlamayacağını belirtti.",
+          "group" : "ABD-İran ilişkileri",
+          "id" : "atom_018",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/middleeast\/trump-iran-peace-talks.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T20:26:52Z",
+          "titleTR" : "Trump, İran Anlaşması İçin Siyasi Baskı Hissetmediğini Söyledi"
+        },
+        {
+          "atomID" : "atom_028",
+          "category" : "Diplomasi",
+          "descriptionTR" : "ABD güçlerinin İran'daki askeri noktaları hedef almasının ardından bu uyarılar geldi. Dışişleri Bakanı Marco Rubio, salı günü yaptığı açıklamada savaşı sonlandırmak için müzakerelerin devam ettiğini belirtti.",
+          "group" : "ABD-İran ilişkileri",
+          "id" : "atom_028",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/middleeast\/iran-threats-strikes-us-ceasefire.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-26T20:58:54Z",
+          "titleTR" : "İran, Diplomatik Anlaşma Çabaları Sürerken ABD'yi Yeniden Vurmakla Tehdit Etti"
+        }
+      ],
+      "packetSpot" : "ABD ve İran arasındaki diplomatik ilişkilerde tansiyon yükseliyor. Trump yönetiminin İran'a yönelik açıklamaları ve İran'ın karşı hamleleri, Hürmüz Boğazı'ndan ekonomik yaptırımlara kadar geniş bir yelpazede etkisini gösteriyor. Bu pakette, iki ülke arasındaki gerilimin son gelişmelerini ele alıyoruz.",
+      "packetTitle" : "ABD-İran İlişkilerinde Gerginlik",
+      "publishedAt" : "2026-05-27T22:13:59Z",
+      "sessionID" : "session_2026_05_28_82AB1F",
+      "slot" : 9
     }
   ],
   "week" : "2026-W22"
