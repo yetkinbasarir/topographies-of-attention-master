@@ -69,54 +69,65 @@
     {
       "items" : [
         {
-          "atomID" : "atom_013",
-          "category" : "Çevre",
-          "descriptionTR" : "141 ülkenin desteklediği karar, iklim diplomasisi ve dava çabalarını iyileştirebilecek 'yeni bir dönem' olarak nitelendirildi. BM Genel Kurulu'nun çarşamba günü tarihi bir iklim krizi kararı lehine ezici bir çoğunlukla oy kullanmasının ardından, Pasifik adası Vanuatu'nun başbakanı sonucu iklim eyleminde 'yeni bir dönem'in başlangıcı olarak değerlendirdi. Jotham Napat, \"Şimdi hepimizin önündeki görev, yasal netliği anlamlı eyleme, daha güçlü iş birliğine ve mevcut ve gelecek nesiller için daha büyük korumaya dönüştürmektir,\" dedi.",
-          "group" : "BM iklim krizi kararı",
-          "id" : "atom_013",
-          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/may\/22\/un-climate-crisis-vote-shows-political-momentum-growing-experts",
-          "newsValue" : 7,
-          "publishedAt" : "2026-05-22T10:27:07Z",
-          "titleTR" : "BM'nin iklim krizi oylaması siyasi ivmenin arttığını gösteriyor"
+          "atomID" : "atom_005",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Hükümet, neredeyse tamamen kesilen internet erişimini yeniden sağlıyor. Ancak herkes bu imkâna sahip değil ve erişimi olanlar da bunun ne kadar süreceğini merak ediyor.",
+          "group" : "İran'da internet kısıtlamaları",
+          "id" : "atom_005",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/europe\/iran-internet.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T14:03:42Z",
+          "titleTR" : "88 Günlük Sansürden Sonra İranlılar Yeniden İnternete Kavuşuyor"
         },
         {
-          "atomID" : "atom_015",
-          "category" : "Çevre",
-          "descriptionTR" : "Güney ve orta Çin'de etkili olan yoğun ve uzun süreli yağışlar, ani sel, toprak kayması ve su baskını uyarılarına neden oldu. Yağışlar, Bengal Körfezi, Güney Çin Denizi ve Pasifik Okyanusu'ndan gelen yağış bantlarının birleşmesiyle oluştu ve salı günü doğuya doğru ilerledi. Düşük rüzgar hızları nedeniyle günlük ve saatlik yağış miktarları yüksek kaydedildi; Hunan'da yerel olarak 75mm, Anhui'de 85mm ve Hainan adasında 95mm yağış ölçüldü. Sel nedeniyle 12 kişi hayatını kaybetti, yüzlerce kişi tahliye edildi. Ulaşımda büyük aksaklıklar, elektrik kesintileri, okul ve işyeri kapanmaları yaşandı. Sosyal medyada su altında kalan araçlar ve sel sularında balık tutan insanlar görüldü.",
-          "group" : "Çin sel felaketi",
-          "id" : "atom_015",
-          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/may\/22\/slow-moving-bands-heavy-rain-flooding-landslides-china",
+          "atomID" : "atom_016",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Güney Afrika'da artan göçmen karşıtı protestolar, birçok Afrikalı liderin sert tepkisini çekiyor.",
+          "group" : "Afrika'da göçmen krizi",
+          "id" : "atom_016",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/africa\/south-africa-ghana-immigration-protests.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-05-22T08:04:33Z",
-          "titleTR" : "Çin'de şiddetli yağışlar sel ve toprak kaymalarına yol açtı"
+          "publishedAt" : "2026-05-27T20:43:53Z",
+          "titleTR" : "Gana, Güney Afrika'dan Yüzlerce Vatandaşını Neden Tahliye Ediyor?"
         },
         {
-          "atomID" : "atom_022",
-          "category" : "Çevre",
-          "descriptionTR" : "Batı Avrupa'yı etkisi altına alan aşırı sıcaklar, İngiltere ve İrlanda'da da Mayıs ayı rekorlarının kırılmasına neden oldu. Fransa'da, erken yaz sıcakları nedeniyle yedi kişi yaşamını yitirdi. Ülkede Pazartesi ve Salı günleri Mayıs ayının en sıcak günleri kaydedildi. Météo France, sıcak hava dalgasının hafta boyunca sürebileceğini ve bazı bölgelerde sıcaklıkların 39 dereceye ulaşabileceğini öngörüyor.",
-          "group" : "Avrupa sıcak hava dalgası",
-          "id" : "atom_022",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/26\/deaths-france-linked-record-high-temperatures",
+          "atomID" : "atom_033",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Çevrimiçi trafiği izleyen kuruluşlar, Salı günü İranlıların hükümetin uyguladığı kesintinin ardından yeniden küresel internete bağlandığını doğruladı.",
+          "group" : "İran'da internet kısıtlamaları",
+          "id" : "atom_033",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/middleeast\/iran-internet-blackout-lifting.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-05-26T17:29:12Z",
-          "titleTR" : "Fransa'da Mayıs ayında sıcak hava dalgası nedeniyle yedi kişi hayatını kaybetti"
+          "publishedAt" : "2026-05-26T19:19:16Z",
+          "titleTR" : "İran, Aylardır Süren İnternet Kısıtlamasını Kaldırmaya Başladı"
         },
         {
-          "atomID" : "atom_031",
-          "category" : "Çevre",
-          "descriptionTR" : "Guardian'ın, eski Miteni tesisinin Hint şirketi tarafından satın alındığını ortaya çıkarmasının ardından, Pfas düzenlemelerinin eksikliği parlamentoda gündeme getirildi. Kanserle bağlantılı Pfas kimyasallarının üretimine yönelik protestolar, çevre skandalı nedeniyle kapatılan İtalyan fabrikasının Hint şirketi tarafından kısmen yeniden inşa edildiğinin ortaya çıkmasıyla Hindistan genelinde yayıldı. Geçen yılın sonunda, Guardian, Vicenza'daki eski Miteni tesisinin Hint şirketi Laxmi Organic Industries tarafından satın alındığını açıklamıştı. Fabrika, Pfas üretiyordu ve 2018'de İtalya'nın en kötü çevre kirliliği skandallarından biriyle bağlantılı olarak kapatılmıştı.",
-          "group" : "Hindistan kimyasal protestoları",
-          "id" : "atom_031",
-          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/may\/26\/india-pfas-production-forever-chemicals-protests-italian-factory",
+          "atomID" : "atom_036",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "68 yaşındaki Dong Guangping, daha önce en az üç kez Çin'den kaçtı ancak her seferinde geri gönderildi. Arkadaşları bu sefer farklı olabileceğini umuyor.",
+          "group" : "Çin'den kaçış hikayeleri",
+          "id" : "atom_036",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/asia\/china-dissident-dong-guangping-south-korea.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-05-26T04:00:45Z",
-          "titleTR" : "Hindistan'da 'sonsuz kimyasallar' protestosu: Skandal fabrikayı Hint şirketi aldı"
+          "publishedAt" : "2026-05-26T21:28:21Z",
+          "titleTR" : "Çinli Muhalif Lastik Botla Güney Kore'ye Kaçtı"
+        },
+        {
+          "atomID" : "atom_041",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Dominik Cumhuriyeti'nin hastanelerde göçmenleri gözaltına almak için görevliler göndermeye başlaması üzerine, Haitili kadınlar denetimsiz ve sağlıksız ortamlarda doğum yapıyor.",
+          "group" : "Haiti göçmen krizi",
+          "id" : "atom_041",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/americas\/dominican-republic-haiti-hospital-deportations.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T14:38:17Z",
+          "titleTR" : "Sınır Dışı Tehdidi Haitili Anneleri Riskli Doğumlara Zorluyor"
         }
       ],
-      "packetSpot" : "İklim krizi, dünya genelinde acil eylem gerektiriyor. BM'nin iklim krizi kararı, siyasi ivmenin arttığını gösterirken, Avrupa'da sıcak hava dalgaları can kayıplarına yol açıyor. Çin'deki sel felaketleri ve Hindistan'daki kimyasal protestoları da çevresel tehditlerin ciddiyetini gözler önüne seriyor.",
-      "packetTitle" : "Gündem İklim",
-      "publishedAt" : "2026-05-27T01:39:25Z",
-      "sessionID" : "session_2026_05_27_2A9F31",
+      "packetSpot" : "Bu paket, İran'da internet kısıtlamalarının kaldırılmasından Afrika'daki göçmen krizine kadar geniş bir yelpazede insan hakları meselelerini ele alıyor. Küresel ölçekte insan hakları ihlalleri ve bu ihlallerin bireyler üzerindeki etkileri hakkında bilgi veriyor. İnsan hakları, evrensel bir değer olarak her zaman dikkatle izlenmesi gereken bir konu.",
+      "packetTitle" : "İran ve İnsan Hakları",
+      "publishedAt" : "2026-05-27T21:56:02Z",
+      "sessionID" : "session_2026_05_28_82AB1F",
       "slot" : 2
     },
     {
