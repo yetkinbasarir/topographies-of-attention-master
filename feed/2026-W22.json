@@ -5,43 +5,65 @@
     {
       "items" : [
         {
-          "atomID" : "atom_009",
-          "category" : "Kültür",
-          "descriptionTR" : "Santiago Rivera, 1980'lerde 'yanık' cheesecake'i icat eden kişi olarak biliniyor, ancak bu tatlının türevlerini pek sevmiyor. Yıllar sonra mutfağını çocuklarına devretmeye hazırlanıyor.",
-          "group" : "Gastronomi ve kültürel miras",
-          "id" : "atom_009",
-          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/europe\/basque-cheesecake-inventor-rivera-spain.html",
-          "newsValue" : 3,
-          "publishedAt" : "2026-05-27T09:08:04Z",
-          "titleTR" : "San Sebastian Cheesecake'in Mucidi Emekli Oluyor: Sırrı Çikolatayı Tercih Etmesi"
+          "atomID" : "atom_005",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Hükümet, neredeyse tamamen kesilen internet erişimini yeniden sağlıyor. Ancak herkes bu imkâna sahip değil ve erişimi olanlar da bunun ne kadar süreceğini merak ediyor.",
+          "group" : "İran'da internet kısıtlamaları",
+          "id" : "atom_005",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/europe\/iran-internet.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T14:03:42Z",
+          "titleTR" : "88 Günlük Sansürden Sonra İranlılar Yeniden İnternete Kavuşuyor"
         },
         {
-          "atomID" : "atom_014",
-          "category" : "Kültür",
-          "descriptionTR" : "Hindistan ve Çin arasında sıkışmış bir ülke olan Nepal'de, benzersiz bir saat dilimi, ulusal kimliğin tekil bir ifadesi olarak öne çıkıyor.",
-          "group" : "Kültürel kimlik ve zaman",
-          "id" : "atom_014",
-          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/asia\/nepal-time-15-minutes.html",
-          "newsValue" : 3,
-          "publishedAt" : "2026-05-27T04:01:12Z",
-          "titleTR" : "Nepal'de Zaman Her Yerden 15 Dakika Farklı"
+          "atomID" : "atom_016",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Güney Afrika'da artan göçmen karşıtı protestolar, birçok Afrikalı liderin sert tepkisini çekiyor.",
+          "group" : "Afrika'da göçmen krizi",
+          "id" : "atom_016",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/27\/world\/africa\/south-africa-ghana-immigration-protests.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-27T20:43:53Z",
+          "titleTR" : "Gana, Güney Afrika'dan Yüzlerce Vatandaşını Neden Tahliye Ediyor?"
         },
         {
-          "atomID" : "atom_039",
-          "category" : "Kültür",
-          "descriptionTR" : "Prestijli bahçe fuarında katılımcılar ödüllü çiçekleri satın almak için yarışırken, bahçe cücelerine yönelik yasağın geçici olarak kaldırılmasıyla birlikte eğlencenin rolü tartışıldı.",
-          "group" : "Kültürel etkinlikler ve tartışmalar",
-          "id" : "atom_039",
-          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/europe\/chelsea-flower-show-gnomes-uk.html",
-          "newsValue" : 3,
-          "publishedAt" : "2026-05-26T14:09:02Z",
-          "titleTR" : "Chelsea Çiçek Fuarı'nda Cüce Tartışması ve 'İyi Bir İngiliz Çılgınlığı'"
+          "atomID" : "atom_033",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Çevrimiçi trafiği izleyen kuruluşlar, Salı günü İranlıların hükümetin uyguladığı kesintinin ardından yeniden küresel internete bağlandığını doğruladı.",
+          "group" : "İran'da internet kısıtlamaları",
+          "id" : "atom_033",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/middleeast\/iran-internet-blackout-lifting.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T19:19:16Z",
+          "titleTR" : "İran, Aylardır Süren İnternet Kısıtlamasını Kaldırmaya Başladı"
+        },
+        {
+          "atomID" : "atom_036",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "68 yaşındaki Dong Guangping, daha önce en az üç kez Çin'den kaçtı ancak her seferinde geri gönderildi. Arkadaşları bu sefer farklı olabileceğini umuyor.",
+          "group" : "Çin'den kaçış hikayeleri",
+          "id" : "atom_036",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/asia\/china-dissident-dong-guangping-south-korea.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T21:28:21Z",
+          "titleTR" : "Çinli Muhalif Lastik Botla Güney Kore'ye Kaçtı"
+        },
+        {
+          "atomID" : "atom_041",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Dominik Cumhuriyeti'nin hastanelerde göçmenleri gözaltına almak için görevliler göndermeye başlaması üzerine, Haitili kadınlar denetimsiz ve sağlıksız ortamlarda doğum yapıyor.",
+          "group" : "Haiti göçmen krizi",
+          "id" : "atom_041",
+          "link" : "https:\/\/www.nytimes.com\/2026\/05\/26\/world\/americas\/dominican-republic-haiti-hospital-deportations.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-05-26T14:38:17Z",
+          "titleTR" : "Sınır Dışı Tehdidi Haitili Anneleri Riskli Doğumlara Zorluyor"
         }
       ],
-      "packetSpot" : "Sanat ve kültür, toplumların kimliğini ve mirasını şekillendirir. Bu pakette, gastronomiden kültürel etkinliklere kadar geniş bir yelpazede kültürel gelişmeleri keşfedeceğiz. Kültürün günlük yaşantımızdaki etkilerini anlamak için bu haberleri kaçırmayın.",
-      "packetTitle" : "Kültürel Miras ve Etkinlikler",
-      "publishedAt" : "2026-05-27T21:23:09Z",
-      "sessionID" : "session_2026_05_28_A0115B",
+      "packetSpot" : "Bu paket, İran'da internet kısıtlamalarının kaldırılmasından Afrika'daki göçmen krizine kadar geniş bir yelpazede insan hakları meselelerini ele alıyor. Küresel ölçekte insan hakları ihlalleri ve bu ihlallerin bireyler üzerindeki etkileri hakkında bilgi veriyor. İnsan hakları, evrensel bir değer olarak her zaman dikkatle izlenmesi gereken bir konu.",
+      "packetTitle" : "İran ve İnsan Hakları",
+      "publishedAt" : "2026-05-27T21:55:33Z",
+      "sessionID" : "session_2026_05_28_82AB1F",
       "slot" : 1
     },
     {
