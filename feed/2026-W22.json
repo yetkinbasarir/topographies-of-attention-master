@@ -215,6 +215,81 @@
       "publishedAt" : "2026-05-27T20:33:36Z",
       "sessionID" : "session_2026_05_27_529BCA",
       "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Ordu, Zahrani Nehri'nin güneyindeki bölgelerin artık \"çatışma bölgeleri\" olduğunu belirterek Hizbullah'a yeni saldırılarla tehditte bulundu.",
+          "group" : "İsrail-Lübnan gerilimi",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:26:03Z",
+          "titleTR" : "İsrail, Güney Lübnan'da geniş çaplı tahliye emri verdi"
+        },
+        {
+          "atomID" : "atom_003",
+          "category" : "Diplomasi",
+          "descriptionTR" : "ABD Başkanı, İran'ın bir anlaşmaya varmak istediğine inandığını ancak şartlar üzerinde henüz bir anlaşma sağlanamadığını belirtti.",
+          "group" : "İran nükleer müzakereleri",
+          "id" : "atom_003",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T17:37:33Z",
+          "titleTR" : "Trump: ABD, İran anlaşmasından henüz memnun değil"
+        },
+        {
+          "atomID" : "atom_005",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Hamas, Mohammed Odeh'in eşi ve iki çocuğuyla birlikte bir konut binasına düzenlenen saldırıda hayatını kaybettiğini açıkladı.",
+          "group" : "İsrail-Gazze çatışmaları",
+          "id" : "atom_005",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-05-27T13:15:26Z",
+          "titleTR" : "İsrail'in Gazze'deki saldırısında Hamas'ın askeri kanadının yeni lideri öldü"
+        },
+        {
+          "atomID" : "atom_014",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Saldırılar, İranlı ve Katarlı müzakerecilerin Doha'da barış görüşmeleri yaptığı sırada gerçekleşti.",
+          "group" : "ABD-İran gerilimi",
+          "id" : "atom_014",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-26T15:15:29Z",
+          "titleTR" : "İran, ABD saldırılarını ateşkesin 'ağır ihlali' olarak kınadı"
+        },
+        {
+          "atomID" : "atom_018",
+          "category" : "Güvenlik",
+          "descriptionTR" : "GCHQ'nun direktörü Anne Keast-Butler, ilk halka açık konuşmasında İngiltere'nin karşı karşıya olduğu tehditleri anlattı.",
+          "group" : "Ukrayna-Rusya savaşı",
+          "id" : "atom_018",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-05-27T15:59:57Z",
+          "titleTR" : "GCHQ: Ukrayna savaşında yaklaşık 500 bin Rus askeri öldü"
+        },
+        {
+          "atomID" : "atom_019",
+          "category" : "Diplomasi",
+          "descriptionTR" : "ABD'nin Rusya ve Ukrayna ile üçlü görüşmelerden çekilmesiyle, AB bu süreçte yer alabilecek potansiyel adaylar arıyor.",
+          "group" : "Ukrayna barış müzakereleri",
+          "id" : "atom_019",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-26T23:15:47Z",
+          "titleTR" : "AB, Ukrayna'daki savaşı sonlandırmak için Rusya ile arabulucu bulabilir mi?"
+        }
+      ],
+      "packetSpot" : "İsrail ve Gazze'deki gerilim nereye varacak? ABD ve İran arasında nükleer anlaşma mümkün mü? Ukrayna'da barış umudu var mı? Güvenlik ve diplomasi dünyasında son gelişmeler.",
+      "packetTitle" : "Küresel Güvenlik ve Diplomasi Gündemi",
+      "publishedAt" : "2026-05-27T21:08:24Z",
+      "sessionID" : "session_2026_05_28_345E04",
+      "slot" : 4
     }
   ],
   "week" : "2026-W22"
