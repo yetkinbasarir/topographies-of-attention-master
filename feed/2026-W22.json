@@ -1,0 +1,195 @@
+{
+  "label" : "25–31 MAYIS",
+  "publishedAt" : "2026-05-28T22:47:15Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "EAFD4CD5-5520-463A-B274-891B2EB66537",
+          "category" : "Güvenlik",
+          "descriptionTR" : "En az beş çocuğun öldüğü bildirilen saldırının, bir Hamas komutanını hedef aldığı anlaşılıyor.",
+          "group" : "",
+          "id" : "EAFD4CD5-5520-463A-B274-891B2EB66537",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "Gazze'deki hastaneler: İsrail saldırısında ölenler var, hedef Hamas liderleri"
+        },
+        {
+          "atomID" : "11A04CCF-E478-420E-925F-CEF5318B6941",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Hamas, Muhammed Odeh'in eşi ve iki çocuğuyla birlikte bir konut binasına yapılan saldırıda öldüğünü açıkladı.",
+          "group" : "",
+          "id" : "11A04CCF-E478-420E-925F-CEF5318B6941",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "İsrail'in Gazze'deki saldırısında Hamas'ın askeri kanadının yeni lideri öldü"
+        }
+      ],
+      "packetSpot" : "İsrail ve Filistin arasındaki çatışmalar, Gazze'deki sivil kayıplar ve Hamas liderlerine yönelik saldırılarla yeniden alevlendi. Bu gelişmeler, bölgedeki gerginliği artırırken uluslararası toplumun dikkatini çekiyor. Çatışmaların insani ve siyasi sonuçları üzerine derinlemesine bir bakış sunuyoruz.",
+      "packetTitle" : "İsrail ve Filistin Çatışmaları",
+      "publishedAt" : "2026-05-28T22:47:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "3F4AC1A8-EBED-4CD5-A43A-4B0E0DA9C8BD",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Son dönemdeki karşılıklı saldırılara rağmen, taraflar topyekûn bir çatışmaya dönmek istemiyor gibi görünüyor.",
+          "group" : "",
+          "id" : "3F4AC1A8-EBED-4CD5-A43A-4B0E0DA9C8BD",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "ABD ve İran barışa mı yakın yoksa savaşa mı sürükleniyor?"
+        },
+        {
+          "atomID" : "563E7A04-9443-42B3-85D3-B1D7F332C5B8",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Bu çatışmalar, ABD ile İran arasındaki kırılgan ateşkes ve üç aydır süren savaşı sona erdirmek için yapılan uzun müzakereler sırasında yaşanıyor.",
+          "group" : "",
+          "id" : "563E7A04-9443-42B3-85D3-B1D7F332C5B8",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "İran, ABD üssünü hedef aldığını açıkladı"
+        },
+        {
+          "atomID" : "E07388C7-675B-47CC-BF6B-23FA34BE0AD4",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Donald Trump'ın onayına bağlı olarak uzatılmış bir ateşkes haberi, Perşembe günü küresel petrol fiyatlarının düşmesine neden oldu.",
+          "group" : "",
+          "id" : "E07388C7-675B-47CC-BF6B-23FA34BE0AD4",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "ABD-İran görüşmelerinde ilerleme haberi sonrası petrol fiyatları düştü"
+        }
+      ],
+      "packetSpot" : "ABD ve İran arasındaki diplomatik ve askeri gerilimler dünya gündeminde. İki ülke arasındaki müzakereler, bölgesel ve küresel dengeleri etkileyebilir. Bu paket, son gelişmeleri ve olası senaryoları ele alıyor.",
+      "packetTitle" : "ABD ve İran Müzakereleri",
+      "publishedAt" : "2026-05-28T22:47:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "A9785DC8-7E6C-4D73-91BE-76258326185F",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Son dönemdeki karşılıklı saldırılara rağmen, taraflar topyekûn bir çatışmaya dönmek istemiyor gibi görünüyor.",
+          "group" : "",
+          "id" : "A9785DC8-7E6C-4D73-91BE-76258326185F",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "ABD ve İran barışa mı yakın yoksa savaşa mı sürükleniyor?"
+        },
+        {
+          "atomID" : "85F58D92-F1F7-4409-9ADC-EC8DF86150D3",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Bu çatışmalar, ABD ile İran arasındaki kırılgan ateşkes ve üç aydır süren savaşı sona erdirmek için yapılan uzun müzakereler sırasında yaşanıyor.",
+          "group" : "",
+          "id" : "85F58D92-F1F7-4409-9ADC-EC8DF86150D3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "İran, ABD üssünü hedef aldığını açıkladı"
+        },
+        {
+          "atomID" : "33EFE352-76A8-4692-9487-16C16DA3FE67",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Donald Trump'ın onayına bağlı olarak uzatılmış bir ateşkes haberi, Perşembe günü küresel petrol fiyatlarının düşmesine neden oldu.",
+          "group" : "",
+          "id" : "33EFE352-76A8-4692-9487-16C16DA3FE67",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "ABD-İran görüşmelerinde ilerleme haberi sonrası petrol fiyatları düştü"
+        }
+      ],
+      "packetSpot" : "Rusya'nın uluslararası ilişkilerdeki rolü ve etkisi, dünya gündeminde önemli bir yer tutuyor. Bu paket, Rusya'nın diplomatik ve güvenlik alanındaki gelişmelerini ele alıyor. Küresel dengeleri etkileyen bu gelişmeler, dikkatle takip edilmeli.",
+      "packetTitle" : "Rusya'nın Küresel Etkisi",
+      "publishedAt" : "2026-05-28T22:47:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "1BEF52BE-FCCA-4498-8219-1CAD97D0997B",
+          "category" : "Hukuk",
+          "descriptionTR" : "Polis, operasyonun ünlü Sicilyalı mafya lideri Matteo Messina Denaro'nun ağını hedef aldığını belirtti.",
+          "group" : "",
+          "id" : "1BEF52BE-FCCA-4498-8219-1CAD97D0997B",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "İtalya, ölen mafya babasının milyonlarına el koydu: Villalar, arabalar ve nakit"
+        },
+        {
+          "atomID" : "43CFC7BB-22F3-43D6-B353-1ACC307281A8",
+          "category" : "Hukuk",
+          "descriptionTR" : "İtalya Yüksek Mahkemesi, bir turistin yalnızca 7 avroluk şişe suyu teklif edilmesinin tüketici haklarını ihlal ettiği iddiasını reddetti.",
+          "group" : "",
+          "id" : "43CFC7BB-22F3-43D6-B353-1ACC307281A8",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "İtalyan mahkemesi: Musluk suyu vermeyen otel yasal davrandı"
+        }
+      ],
+      "packetSpot" : "İtalya'da mafya ile mücadele ve hukukun üstünlüğü gündemde. Ölen bir mafya babasının mal varlığına el konulması, ülkenin organize suçla mücadelesinde önemli bir adım olarak görülüyor. Ayrıca, İtalya'da tüketici hakları konusundaki yasal kararlar da dikkat çekiyor.",
+      "packetTitle" : "İtalya'da Mafya ve Hukuk",
+      "publishedAt" : "2026-05-28T22:47:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "1B1ADFB7-5044-4DE9-9EBC-DFBC0D61A22D",
+          "category" : "Çevre",
+          "descriptionTR" : "Fransız öğrenciler kavurucu sıcaklarda sınavlarına girerken, İtalya'da kırmızı alarm verildi.",
+          "group" : "",
+          "id" : "1B1ADFB7-5044-4DE9-9EBC-DFBC0D61A22D",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "Portekiz, Mayıs ayı sıcaklık rekorunu kırdı; Avrupa sıcak hava dalgasıyla kavruluyor"
+        },
+        {
+          "atomID" : "0A4C91AB-6B85-4F34-979E-770055262970",
+          "category" : "Çevre",
+          "descriptionTR" : "Avrupa Komisyonu, Çin merkezli çevrimiçi perakendecinin platformunda satılan bebek oyuncakları ve hatalı şarj cihazları gibi ürünlerin risklerini göz ardı ettiğini belirtti.",
+          "group" : "",
+          "id" : "0A4C91AB-6B85-4F34-979E-770055262970",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "AB, Temu'ya yasadışı ürün satışından dolayı 200 milyon euro ceza kesti"
+        },
+        {
+          "atomID" : "351B31E4-455F-409E-8AC6-5AFF5F974FCD",
+          "category" : "Çevre",
+          "descriptionTR" : "Hugh Schofield, Batı Avrupa'nın üzerine çöken sıcak hava dalgasının Paris'te Mayıs ayı ortalamasının üzerinde sıcaklıklara neden olduğunu bildiriyor.",
+          "group" : "",
+          "id" : "351B31E4-455F-409E-8AC6-5AFF5F974FCD",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:47:15Z",
+          "titleTR" : "Batı Avrupa'da sıcak hava dalgası: Paris kavruluyor"
+        }
+      ],
+      "packetSpot" : "Almanya'nın iç ve dış politikadaki rolü, Avrupa'nın geleceğini şekillendiriyor. Avrupa'nın sıcak hava dalgası ve ticaret düzenlemeleri",
+      "packetTitle" : "Almanya'nın Etkisi",
+      "publishedAt" : "2026-05-28T22:47:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    }
+  ],
+  "week" : "2026-W22"
+}
