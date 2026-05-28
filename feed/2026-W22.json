@@ -1,0 +1,111 @@
+{
+  "label" : "25–31 MAYIS",
+  "publishedAt" : "2026-05-28T23:02:44Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "C49ACB04-CA4C-4556-AB55-6ED13D5EB452",
+          "category" : "Çevre",
+          "descriptionTR" : "Fransız öğrenciler kavurucu sıcaklarda sınavlarına girerken, İtalya'da kırmızı alarm verildi.",
+          "group" : "",
+          "id" : "C49ACB04-CA4C-4556-AB55-6ED13D5EB452",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T23:02:44Z",
+          "titleTR" : "Portekiz, Mayıs ayı sıcaklık rekorunu kırdı; Avrupa sıcak hava dalgasıyla kavruluyor"
+        },
+        {
+          "atomID" : "0CBD7F05-A3EE-46F8-850B-509DA183C833",
+          "category" : "Çevre",
+          "descriptionTR" : "Savunma alanlarındaki kirliliğe odaklanan 2 milyar Avustralya dolarlık dava, hükümetin açtığı en büyük dava olma özelliğini taşıyor.",
+          "group" : "",
+          "id" : "0CBD7F05-A3EE-46F8-850B-509DA183C833",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T23:02:44Z",
+          "titleTR" : "Avustralya, 'sonsuz kimyasallar' nedeniyle ABD'li 3M'e dava açtı"
+        },
+        {
+          "atomID" : "74BDCFB5-2F62-4FED-B14F-025FB4942CB5",
+          "category" : "Çevre",
+          "descriptionTR" : "Hugh Schofield, Batı Avrupa'nın üzerine çöken sıcak hava dalgasının Paris'te Mayıs ayı ortalamasının üzerinde sıcaklıklara neden olduğunu bildiriyor.",
+          "group" : "",
+          "id" : "74BDCFB5-2F62-4FED-B14F-025FB4942CB5",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T23:02:44Z",
+          "titleTR" : "Batı Avrupa'da sıcak hava dalgası: Paris kavruluyor"
+        }
+      ],
+      "packetSpot" : "İklim değişikliği, dünya genelinde etkilerini hissettiriyor. Avrupa'da sıcak hava dalgaları rekor sıcaklıklara yol açarken, kimyasal kirlilik davaları çevresel sorunların boyutunu gözler önüne seriyor. Bu paket, iklim krizinin farklı yüzlerini ele alıyor.",
+      "packetTitle" : "İklim Krizinin Yüzleri",
+      "publishedAt" : "2026-05-28T23:02:44Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "F2BBF604-CB3A-4C59-8BAD-4B810CBE8EF0",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Avrupa Komisyonu, Çin merkezli çevrimiçi perakendecinin platformunda satılan bebek oyuncakları ve hatalı şarj cihazları gibi ürünlerin risklerini göz ardı ettiğini belirtti.",
+          "group" : "",
+          "id" : "F2BBF604-CB3A-4C59-8BAD-4B810CBE8EF0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T23:02:44Z",
+          "titleTR" : "AB, Temu'ya yasadışı ürün satışından dolayı 200 milyon euro ceza kesti"
+        },
+        {
+          "atomID" : "57305F6E-617B-4326-B794-2DF6D782629B",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Donald Trump'ın onayına bağlı olarak uzatılmış bir ateşkes haberi, Perşembe günü küresel petrol fiyatlarının düşmesine neden oldu.",
+          "group" : "",
+          "id" : "57305F6E-617B-4326-B794-2DF6D782629B",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T23:02:44Z",
+          "titleTR" : "ABD-İran görüşmelerinde ilerleme haberi sonrası petrol fiyatları düştü"
+        }
+      ],
+      "packetSpot" : "Avrupa Birliği'nin yasadışı ürün satışına karşı aldığı önlemler ve ABD-İran ilişkilerindeki ilerlemelerin petrol fiyatlarına etkisi dikkat çekiyor. Ekonomik dinamikler, uluslararası ticaret ve enerji piyasalarını şekillendirmeye devam ediyor.",
+      "packetTitle" : "Küresel Ekonomi Gelişmeleri",
+      "publishedAt" : "2026-05-28T23:02:44Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "A5C9DF3C-3FD2-437B-B8E8-7274ADAB21B6",
+          "category" : "Kültür",
+          "descriptionTR" : "Santiago Rivera, 1980'lerde \"yanık\" cheesecake'i icat eden kişi olarak biliniyor, ancak bu tatlının türevlerini pek sevmiyor. Yıllar sonra, mutfağını çocuklarına devretmeye hazırlanıyor.",
+          "group" : "",
+          "id" : "A5C9DF3C-3FD2-437B-B8E8-7274ADAB21B6",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T23:02:44Z",
+          "titleTR" : "Bask Cheesecake'inin Mucidi Emekli Olmayı Planlıyor: Sırrı Çikolatayı Tercih Etmesi"
+        },
+        {
+          "atomID" : "E59B9091-8CFE-42AF-976D-834DB839A699",
+          "category" : "Kültür",
+          "descriptionTR" : "Hindistan ve Çin arasında sıkışmış Nepal'de, benzersiz bir zaman dilimi, ülkenin kendine özgü ulusal kimliğinin sadece bir ifadesi.",
+          "group" : "",
+          "id" : "E59B9091-8CFE-42AF-976D-834DB839A699",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T23:02:44Z",
+          "titleTR" : "Nepal'in Eşsiz Zaman Dilimi: Her Yerden 15 Dakika Farklı"
+        }
+      ],
+      "packetSpot" : "Kültürel miras ve etkinlikler, toplumların kimliğini ve tarihini yansıtır. Bu paket, Bask cheesecake'inin mucidinin emeklilik planlarından, Nepal'in eşsiz zaman dilimine ve İngiltere'deki Chelsea Çiçek Fuarı'na kadar çeşitli kültürel konuları ele alıyor. Kültürel zenginliklerin korunması ve kutlanması, küresel bir önem taşır.",
+      "packetTitle" : "Kültürel Miras ve Etkinlikler",
+      "publishedAt" : "2026-05-28T23:02:44Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    }
+  ],
+  "week" : "2026-W22"
+}
