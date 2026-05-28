@@ -1,6 +1,6 @@
 {
   "label" : "25–31 MAYIS",
-  "publishedAt" : "2026-05-28T23:02:44Z",
+  "publishedAt" : "2026-05-28T23:03:47Z",
   "slots" : [
     {
       "items" : [
@@ -12,7 +12,7 @@
           "id" : "C49ACB04-CA4C-4556-AB55-6ED13D5EB452",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T23:02:44Z",
+          "publishedAt" : "2026-05-28T23:03:47Z",
           "titleTR" : "Portekiz, Mayıs ayı sıcaklık rekorunu kırdı; Avrupa sıcak hava dalgasıyla kavruluyor"
         },
         {
@@ -23,7 +23,7 @@
           "id" : "0CBD7F05-A3EE-46F8-850B-509DA183C833",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T23:02:44Z",
+          "publishedAt" : "2026-05-28T23:03:47Z",
           "titleTR" : "Avustralya, 'sonsuz kimyasallar' nedeniyle ABD'li 3M'e dava açtı"
         },
         {
@@ -34,13 +34,13 @@
           "id" : "74BDCFB5-2F62-4FED-B14F-025FB4942CB5",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T23:02:44Z",
+          "publishedAt" : "2026-05-28T23:03:47Z",
           "titleTR" : "Batı Avrupa'da sıcak hava dalgası: Paris kavruluyor"
         }
       ],
       "packetSpot" : "İklim değişikliği, dünya genelinde etkilerini hissettiriyor. Avrupa'da sıcak hava dalgaları rekor sıcaklıklara yol açarken, kimyasal kirlilik davaları çevresel sorunların boyutunu gözler önüne seriyor. Bu paket, iklim krizinin farklı yüzlerini ele alıyor.",
       "packetTitle" : "İklim Krizinin Yüzleri",
-      "publishedAt" : "2026-05-28T23:02:44Z",
+      "publishedAt" : "2026-05-28T23:03:47Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
@@ -54,7 +54,7 @@
           "id" : "F2BBF604-CB3A-4C59-8BAD-4B810CBE8EF0",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T23:02:44Z",
+          "publishedAt" : "2026-05-28T23:03:47Z",
           "titleTR" : "AB, Temu'ya yasadışı ürün satışından dolayı 200 milyon euro ceza kesti"
         },
         {
@@ -65,13 +65,13 @@
           "id" : "57305F6E-617B-4326-B794-2DF6D782629B",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T23:02:44Z",
+          "publishedAt" : "2026-05-28T23:03:47Z",
           "titleTR" : "ABD-İran görüşmelerinde ilerleme haberi sonrası petrol fiyatları düştü"
         }
       ],
       "packetSpot" : "Avrupa Birliği'nin yasadışı ürün satışına karşı aldığı önlemler ve ABD-İran ilişkilerindeki ilerlemelerin petrol fiyatlarına etkisi dikkat çekiyor. Ekonomik dinamikler, uluslararası ticaret ve enerji piyasalarını şekillendirmeye devam ediyor.",
       "packetTitle" : "Küresel Ekonomi Gelişmeleri",
-      "publishedAt" : "2026-05-28T23:02:44Z",
+      "publishedAt" : "2026-05-28T23:03:47Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
@@ -85,7 +85,7 @@
           "id" : "A5C9DF3C-3FD2-437B-B8E8-7274ADAB21B6",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T23:02:44Z",
+          "publishedAt" : "2026-05-28T23:03:47Z",
           "titleTR" : "Bask Cheesecake'inin Mucidi Emekli Olmayı Planlıyor: Sırrı Çikolatayı Tercih Etmesi"
         },
         {
@@ -96,13 +96,13 @@
           "id" : "E59B9091-8CFE-42AF-976D-834DB839A699",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T23:02:44Z",
+          "publishedAt" : "2026-05-28T23:03:47Z",
           "titleTR" : "Nepal'in Eşsiz Zaman Dilimi: Her Yerden 15 Dakika Farklı"
         }
       ],
       "packetSpot" : "Kültürel miras ve etkinlikler, toplumların kimliğini ve tarihini yansıtır. Bu paket, Bask cheesecake'inin mucidinin emeklilik planlarından, Nepal'in eşsiz zaman dilimine ve İngiltere'deki Chelsea Çiçek Fuarı'na kadar çeşitli kültürel konuları ele alıyor. Kültürel zenginliklerin korunması ve kutlanması, küresel bir önem taşır.",
       "packetTitle" : "Kültürel Miras ve Etkinlikler",
-      "publishedAt" : "2026-05-28T23:02:44Z",
+      "publishedAt" : "2026-05-28T23:03:47Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     }
