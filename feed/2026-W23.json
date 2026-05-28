@@ -1,0 +1,122 @@
+{
+  "label" : "25–31 MAYIS",
+  "publishedAt" : "2026-05-28T21:59:02Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "81FEED88-644B-4AF2-BCAE-A91A3585F3C0",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Avrupa Komisyonu, Çin merkezli çevrimiçi perakendecinin platformunda satılan bebek oyuncakları ve hatalı şarj cihazları gibi ürünlerin risklerini göz ardı ettiğini belirtti.",
+          "group" : "",
+          "id" : "81FEED88-644B-4AF2-BCAE-A91A3585F3C0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:59:02Z",
+          "titleTR" : "AB, Temu'ya yasadışı ürün satışından dolayı 200 milyon euro ceza kesti"
+        },
+        {
+          "atomID" : "6003C6CA-5112-49E3-80CA-E19BFA5D5F75",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Donald Trump'ın onayına bağlı olarak uzatılmış bir ateşkes haberi, Perşembe günü küresel petrol fiyatlarının düşmesine neden oldu.",
+          "group" : "",
+          "id" : "6003C6CA-5112-49E3-80CA-E19BFA5D5F75",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:59:02Z",
+          "titleTR" : "ABD-İran görüşmelerinde ilerleme haberi sonrası petrol fiyatları düştü"
+        }
+      ],
+      "packetSpot" : "Bu paket, dünya ekonomisinde yaşanan önemli gelişmeleri ele alıyor. Avrupa Birliği'nin ticaret düzenlemeleri ve ABD-İran ilişkilerinin petrol fiyatlarına etkisi gibi konular, küresel ticaret ve enerji piyasalarını nasıl şekillendirdiğini gösteriyor. Ekonomik dinamiklerin uluslararası ilişkiler üzerindeki etkilerini keşfedin.",
+      "packetTitle" : "Küresel Ekonomik Gelişmeler",
+      "publishedAt" : "2026-05-28T21:59:02Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "1F39F549-BB84-4E81-818E-C34C1EF80017",
+          "category" : "Güvenlik",
+          "descriptionTR" : "En az beş çocuğun öldüğü bildirilen saldırının, bir Hamas komutanını hedef aldığı anlaşılıyor.",
+          "group" : "",
+          "id" : "1F39F549-BB84-4E81-818E-C34C1EF80017",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:59:02Z",
+          "titleTR" : "Gazze'deki hastaneler: İsrail saldırısında ölenler var, hedef Hamas liderleri"
+        },
+        {
+          "atomID" : "DE5DDFB2-9660-46C0-904F-43264C78EB8A",
+          "category" : "Güvenlik",
+          "descriptionTR" : "İsrail ve Hizbullah'ın geçen ayki ateşkesi ihlal etmekle birbirlerini suçlamalarına rağmen, Beyrut şimdiye kadar büyük ölçüde çatışmalardan uzak kalmıştı.",
+          "group" : "",
+          "id" : "DE5DDFB2-9660-46C0-904F-43264C78EB8A",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:59:02Z",
+          "titleTR" : "İsrail'den Beyrut'a 'hedefli saldırı'"
+        },
+        {
+          "atomID" : "B37A0BDF-CBFE-4F3D-8A44-CCC9EC034676",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Hamas, Muhammed Odeh'in eşi ve iki çocuğuyla birlikte bir konut binasına yapılan saldırıda öldüğünü açıkladı.",
+          "group" : "",
+          "id" : "B37A0BDF-CBFE-4F3D-8A44-CCC9EC034676",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:59:02Z",
+          "titleTR" : "İsrail'in Gazze'deki saldırısında Hamas'ın askeri kanadının yeni lideri öldü"
+        }
+      ],
+      "packetSpot" : "İsrail ve Filistin arasında artan çatışmalar, bölgedeki tansiyonu yükseltiyor. Gazze'deki saldırılar ve Beyrut'a yönelik hedefli operasyonlar, Ortadoğu'da yeni bir gerilim dalgasını tetikliyor. Bu gelişmeler, uluslararası toplumun dikkatini yeniden bölgeye çekiyor.",
+      "packetTitle" : "Ortadoğu'da Gerilim Tırmanıyor",
+      "publishedAt" : "2026-05-28T21:59:02Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "2915CB33-05D5-488E-BE41-70F9AFDF0CE1",
+          "category" : "Kültür",
+          "descriptionTR" : "Meksikalı influencer El Temach'in kız kardeşi, BBC'ye artık onu tanıyamadığını söylüyor.",
+          "group" : "",
+          "id" : "2915CB33-05D5-488E-BE41-70F9AFDF0CE1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:59:02Z",
+          "titleTR" : "Kardeşim nasıl liberal Hollywood oyuncusundan manosfer 'mesihi'ne dönüştü"
+        },
+        {
+          "atomID" : "3A93C5C5-D37A-49AB-BFF4-16A57EAE1FA9",
+          "category" : "Kültür",
+          "descriptionTR" : "ABD'de garsonlar %20'nin altında bahşiş alınca kızıyor; bahşişler başka yerlerde de artışta.",
+          "group" : "",
+          "id" : "3A93C5C5-D37A-49AB-BFF4-16A57EAE1FA9",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:59:02Z",
+          "titleTR" : "ABD'deki bahşiş kültürü yurtdışına mı yayılıyor?"
+        },
+        {
+          "atomID" : "43126436-CAF8-4EAC-9131-4569763F2BD4",
+          "category" : "Kültür",
+          "descriptionTR" : "Müzik efsanesi, 20. solo albümü The Boys of Dungeon Lane için \"hafıza şarkıları\" sunmak üzerine konuşuyor ve yeni Beatles biyografileriyle neden ilgilendiğini anlatıyor.",
+          "group" : "",
+          "id" : "43126436-CAF8-4EAC-9131-4569763F2BD4",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:59:02Z",
+          "titleTR" : "Paul McCartney, Paul Mescal ile gitar çalmak üzerine: 'O benden daha iyi biliyordu!'"
+        }
+      ],
+      "packetSpot" : "Kültür, sosyal medya ve sanat dünyasında dikkat çekici gelişmeler yaşanıyor. Sosyal medya fenomenlerinin etkisi ve küresel bahşiş kültürünün yayılması, toplumsal dinamikleri yeniden şekillendiriyor. Paul McCartney'nin müzik dünyasındaki deneyimleri ise sanatın evrenselliğini bir kez daha gözler önüne seriyor.",
+      "packetTitle" : "Kültürel Dönüşümler ve Etkileri",
+      "publishedAt" : "2026-05-28T21:59:02Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    }
+  ],
+  "week" : "2026-W23"
+}
