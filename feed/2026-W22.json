@@ -1,0 +1,164 @@
+{
+  "label" : "25–31 MAYIS",
+  "publishedAt" : "2026-05-28T22:31:27Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "A11BC594-078C-41C2-A491-5DA84B0CB61F",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Son dönemdeki karşılıklı saldırılara rağmen, taraflar topyekûn bir çatışmaya dönmek istemiyor gibi görünüyor.",
+          "group" : "",
+          "id" : "A11BC594-078C-41C2-A491-5DA84B0CB61F",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "ABD ve İran barışa mı yakın yoksa savaşa mı sürükleniyor?"
+        },
+        {
+          "atomID" : "D66A95F9-7C85-421D-A651-145D7E711511",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Bu çatışmalar, ABD ile İran arasındaki kırılgan ateşkes ve üç aydır süren savaşı sona erdirmek için yapılan uzun müzakereler sırasında yaşanıyor.",
+          "group" : "",
+          "id" : "D66A95F9-7C85-421D-A651-145D7E711511",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "İran, ABD üssünü hedef aldığını açıkladı"
+        },
+        {
+          "atomID" : "A36AEF80-4E56-4023-BFA1-B490CD4D9AF0",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Donald Trump'ın onayına bağlı olarak uzatılmış bir ateşkes haberi, Perşembe günü küresel petrol fiyatlarının düşmesine neden oldu.",
+          "group" : "",
+          "id" : "A36AEF80-4E56-4023-BFA1-B490CD4D9AF0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "ABD-İran görüşmelerinde ilerleme haberi sonrası petrol fiyatları düştü"
+        }
+      ],
+      "packetSpot" : "ABD ve İran arasındaki gerilim, dünya gündemini meşgul etmeye devam ediyor. İki ülke arasındaki diplomatik ve askeri gelişmeler, bölgesel ve küresel güvenlik dengelerini etkileyebilir. Bu paket, son gelişmeler ışığında ABD-İran ilişkilerindeki durumu ele alıyor.",
+      "packetTitle" : "ABD ve İran İlişkileri",
+      "publishedAt" : "2026-05-28T22:31:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "A9CD1C3F-A4E6-413A-99E4-34B4A9F599F8",
+          "category" : "Güvenlik",
+          "descriptionTR" : "En az beş çocuğun öldüğü bildirilen saldırının, bir Hamas komutanını hedef aldığı anlaşılıyor.",
+          "group" : "",
+          "id" : "A9CD1C3F-A4E6-413A-99E4-34B4A9F599F8",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "Gazze'deki hastaneler: İsrail saldırısında ölenler var, hedef Hamas liderleri"
+        },
+        {
+          "atomID" : "D6AF6621-34E3-4A0C-9863-99994DCB86DD",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Hamas, Muhammed Odeh'in eşi ve iki çocuğuyla birlikte bir konut binasına yapılan saldırıda öldüğünü açıkladı.",
+          "group" : "",
+          "id" : "D6AF6621-34E3-4A0C-9863-99994DCB86DD",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "İsrail'in Gazze'deki saldırısında Hamas'ın askeri kanadının yeni lideri öldü"
+        }
+      ],
+      "packetSpot" : "İsrail ve Filistin arasındaki gerilim, Gazze'deki son saldırılarla yeniden tırmanıyor. İsrail'in hedef aldığı Hamas liderleri ve sivil kayıplar, bölgedeki durumu daha da karmaşık hale getiriyor. Bu gelişmeler, uluslararası toplumun dikkatini bir kez daha bu uzun süredir devam eden çatışmaya çekiyor.",
+      "packetTitle" : "İsrail ve Filistin Çatışmaları",
+      "publishedAt" : "2026-05-28T22:31:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "EE3AECAC-00AE-41F7-9581-DE618A0575F5",
+          "category" : "Çevre",
+          "descriptionTR" : "Fransız öğrenciler kavurucu sıcaklarda sınavlarına girerken, İtalya'da kırmızı alarm verildi.",
+          "group" : "",
+          "id" : "EE3AECAC-00AE-41F7-9581-DE618A0575F5",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "Portekiz, Mayıs ayı sıcaklık rekorunu kırdı; Avrupa sıcak hava dalgasıyla kavruluyor"
+        },
+        {
+          "atomID" : "113BAC46-6855-420B-A205-4A5E8597A8A3",
+          "category" : "Çevre",
+          "descriptionTR" : "Savunma alanlarındaki kirliliğe odaklanan 2 milyar Avustralya dolarlık dava, hükümetin açtığı en büyük dava olma özelliğini taşıyor.",
+          "group" : "",
+          "id" : "113BAC46-6855-420B-A205-4A5E8597A8A3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "Avustralya, 'sonsuz kimyasallar' nedeniyle ABD'li 3M'e dava açtı"
+        },
+        {
+          "atomID" : "1511BA84-338B-47AE-9A0F-A3669A1FFE6E",
+          "category" : "Çevre",
+          "descriptionTR" : "Hugh Schofield, Batı Avrupa'nın üzerine çöken sıcak hava dalgasının Paris'te Mayıs ayı ortalamasının üzerinde sıcaklıklara neden olduğunu bildiriyor.",
+          "group" : "",
+          "id" : "1511BA84-338B-47AE-9A0F-A3669A1FFE6E",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "Batı Avrupa'da sıcak hava dalgası: Paris kavruluyor"
+        }
+      ],
+      "packetSpot" : "İklim değişikliği, dünya genelinde sıcak hava dalgaları ve çevresel sorunlarla kendini hissettiriyor. Avrupa'da rekor sıcaklıklar yaşanırken, kimyasal kirlilik davaları çevresel adalet arayışını gündeme taşıyor. Bu paket, iklim krizinin etkilerini ve çözüm arayışlarını ele alıyor.",
+      "packetTitle" : "İklim Krizi ve Etkileri",
+      "publishedAt" : "2026-05-28T22:31:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "22288A32-7745-4F08-AC4A-CDF5028E90B7",
+          "category" : "Kültür",
+          "descriptionTR" : "Meksikalı influencer El Temach'in kız kardeşi, BBC'ye artık onu tanıyamadığını söylüyor.",
+          "group" : "",
+          "id" : "22288A32-7745-4F08-AC4A-CDF5028E90B7",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "Kardeşim nasıl liberal Hollywood oyuncusundan manosfer 'mesihi'ne dönüştü"
+        },
+        {
+          "atomID" : "0D3A8216-CFD0-4EB1-8E36-9B270323D155",
+          "category" : "Kültür",
+          "descriptionTR" : "ABD'de garsonlar %20'nin altında bahşiş alınca kızıyor; bahşişler başka yerlerde de artışta.",
+          "group" : "",
+          "id" : "0D3A8216-CFD0-4EB1-8E36-9B270323D155",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "ABD'deki bahşiş kültürü yurtdışına mı yayılıyor?"
+        },
+        {
+          "atomID" : "0C1BFD05-0282-4E08-B496-54C67E2DBE70",
+          "category" : "Kültür",
+          "descriptionTR" : "Müzik efsanesi, 20. solo albümü The Boys of Dungeon Lane için \"hafıza şarkıları\" sunmak üzerine konuşuyor ve yeni Beatles biyografileriyle neden ilgilendiğini anlatıyor.",
+          "group" : "",
+          "id" : "0C1BFD05-0282-4E08-B496-54C67E2DBE70",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T22:31:27Z",
+          "titleTR" : "Paul McCartney, Paul Mescal ile gitar çalmak üzerine: 'O benden daha iyi biliyordu!'"
+        }
+      ],
+      "packetSpot" : "Sanat ve kültür dünyasında dikkat çeken gelişmeler var. Paul McCartney'nin müzik üzerine düşünceleri ve sosyal medya fenomenlerinin hikayeleri bu pakette. Küresel bahşiş kültürü üzerine de ilginç bir bakış sunuyoruz.",
+      "packetTitle" : "Sanat Dünyasından Haberler",
+      "publishedAt" : "2026-05-28T22:31:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    }
+  ],
+  "week" : "2026-W22"
+}
