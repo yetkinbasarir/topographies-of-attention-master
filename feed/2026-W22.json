@@ -1,101 +1,121 @@
 {
   "label" : "25–31 MAYIS",
-  "publishedAt" : "2026-05-27T01:24:40Z",
+  "publishedAt" : "2026-05-28T21:54:05Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "atom_002",
-          "category" : "Güvenlik",
-          "descriptionTR" : "Birçok Lübnanlı Müslümanların büyük bayramı Kurban Bayramı'nı kutlamaya çalışırken, İsrail ordusu bu bölgede bulunan tüm sakinlere Zahrani'nin kuzey kıyısına tahliye çağrısı yaptı. İsrail ordusunun Arapça sözcüsü, ordunun Hizbullah'a karşı \"çok büyük bir güçle\" harekete geçeceğini belirtti.",
-          "group" : "Ortadoğu çatışmaları",
-          "id" : "atom_002",
-          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/05\/27\/en-direct-guerre-au-moyen-orient-l-armee-israelienne-declare-que-toute-la-zone-au-sud-du-fleuve-du-zahrani-au-liban-est-une-zone-de-combat_6691823_3210.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-05-27T19:55:10Z",
-          "titleTR" : "Ortadoğu'da savaş: İsrail ordusu Zahrani Nehri'nin güneyini \"savaş bölgesi\" ilan etti"
+          "atomID" : "81FEED88-644B-4AF2-BCAE-A91A3585F3C0",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Avrupa Komisyonu, Çin merkezli çevrimiçi perakendecinin platformunda satılan bebek oyuncakları ve hatalı şarj cihazları gibi ürünlerin risklerini göz ardı ettiğini belirtti.",
+          "group" : "",
+          "id" : "81FEED88-644B-4AF2-BCAE-A91A3585F3C0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:54:05Z",
+          "titleTR" : "AB, Temu'ya yasadışı ürün satışından dolayı 200 milyon euro ceza kesti"
         },
         {
-          "atomID" : "atom_016",
-          "category" : "Güvenlik",
-          "descriptionTR" : "Kremlin'in lideri Putin'in geldiği KGB'nin halefi olan Federal Güvenlik Servisi, askeri tercihler ve siyasi kararlar üzerindeki etkisini sürekli artırıyor. İnternetin engellenmesi, okullarda propaganda ve yargılamalarla Rus toplumunun her alanına nüfuz ediyor.",
-          "group" : "Rusya'da FSB'nin artan etkisi",
-          "id" : "atom_016",
-          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/05\/27\/derriere-la-guerre-de-vladimir-poutine-le-role-croissant-du-fsb-l-agence-de-renseignement-russe_6694149_3210.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-05-27T04:00:13Z",
-          "titleTR" : "Vladimir Putin'in savaşında FSB'nin artan rolü"
+          "atomID" : "6003C6CA-5112-49E3-80CA-E19BFA5D5F75",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Donald Trump'ın onayına bağlı olarak uzatılmış bir ateşkes haberi, Perşembe günü küresel petrol fiyatlarının düşmesine neden oldu.",
+          "group" : "",
+          "id" : "6003C6CA-5112-49E3-80CA-E19BFA5D5F75",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:54:05Z",
+          "titleTR" : "ABD-İran görüşmelerinde ilerleme haberi sonrası petrol fiyatları düştü"
         }
       ],
-      "packetSpot" : "Ortadoğu'da savaşın yeni cepheleri açılıyor mu? İsrail'in savaş bölgesi ilanı ve Rusya'nın artan etkisi, bölgedeki güvenlik dengelerini nasıl şekillendiriyor? Bu gelişmelerin küresel etkileri neler olabilir?",
-      "packetTitle" : "Ortadoğu'da Güvenlik Dinamikleri",
-      "publishedAt" : "2026-05-28T00:33:43Z",
-      "sessionID" : "session_2026_05_28_94B917",
+      "packetSpot" : "Bu paket, dünya ekonomisinde yaşanan önemli gelişmeleri ele alıyor. Avrupa Birliği'nin ticaret düzenlemeleri ve ABD-İran ilişkilerinin petrol fiyatlarına etkisi gibi konular, küresel ticaret ve enerji piyasalarını nasıl şekillendirdiğini gösteriyor. Ekonomik dinamiklerin uluslararası ilişkiler üzerindeki etkilerini keşfedin.",
+      "packetTitle" : "Küresel Ekonomik Gelişmeler",
+      "publishedAt" : "2026-05-28T21:54:05Z",
+      "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
       "items" : [
         {
-          "atomID" : "atom_001",
-          "category" : "Çevre",
-          "descriptionTR" : "Süregelen 'ısı kubbesi' nedeniyle Fransa'da hava kalitesi düşüyor, bu da Ile-de-France ve Rhône-Alpes gibi bölgelerde ozon kirliliği olaylarına yol açıyor. 39 diğer bölge ise sarı alarmda.",
-          "group" : "Avrupa'da iklim değişikliği etkileri",
-          "id" : "atom_001",
-          "link" : "https:\/\/www.lemonde.fr\/planete\/live\/2026\/05\/28\/en-direct-canicule-paris-les-hauts-de-seine-la-seine-saint-denis-et-le-val-de-marne-font-rejoindre-jeudi-les-13-departements-de-l-ouest-deja-en-alerte-orange_6693854_3244.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-05-27T23:59:13Z",
-          "titleTR" : "Aşırı sıcaklar: Paris ve çevresi de turuncu alarmda"
-        },
-        {
-          "atomID" : "atom_003",
-          "category" : "Hukuk",
-          "descriptionTR" : "Eski Fransa Cumhurbaşkanı Nicolas Sarkozy'nin avukatları, Çarşamba günü boyunca yolsuzluk, suç örgütü üyeliği ve yasa dışı kampanya finansmanı suçlamalarını çürütmeye çalıştı. Mahkeme kararı 30 Kasım'da açıklanacak.",
-          "group" : "Sarkozy'nin yargı süreci",
-          "id" : "atom_003",
-          "link" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/27\/cette-affaire-a-commence-dans-le-mensonge-elle-doit-finir-dans-la-verite-au-proces-en-appel-du-financement-libyen-les-derniers-mots-de-nicolas-sarkozy_6694264_3224.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-05-27T20:32:21Z",
-          "titleTR" : "Sarkozy'nin Libya finansmanı davasında son sözleri: \"Bu dava yalanla başladı, gerçekle bitmeli\""
-        },
-        {
-          "atomID" : "atom_005",
-          "category" : "Politika",
-          "descriptionTR" : "\"Simplifier!\" adlı kitapta, iş dünyası liderleri ve eski üst düzey bürokratlar Bertrand Mabille ve Michel de Rosen, idari basitleştirmenin bir sonraki Cumhurbaşkanı'nın \"önceliği\" olması gerektiğini savunuyor. Elysee Sarayı'na resmi ya da potansiyel aday olan birkaç kişiye danışarak reform önerilerini sundular.",
-          "group" : "Fransa'da idari reform önerileri",
-          "id" : "atom_005",
-          "link" : "https:\/\/www.lemonde.fr\/politique\/article\/2026\/05\/27\/faire-de-la-simplification-administrative-la-mere-de-toutes-les-reformes-le-projet-de-deux-anciens-hauts-fonctionnaires_6694255_823448.html",
-          "newsValue" : 4,
-          "publishedAt" : "2026-05-27T18:17:49Z",
-          "titleTR" : "İki eski üst düzey bürokrat, idari basitleştirmeyi \"tüm reformların anası\" yapmayı öneriyor"
-        },
-        {
-          "atomID" : "atom_008",
+          "atomID" : "1F39F549-BB84-4E81-818E-C34C1EF80017",
           "category" : "Güvenlik",
-          "descriptionTR" : "Salı akşamı, Grenoble'un hassas bir mahallesinde bir uyuşturucu satış noktasının yakınında gerçekleşen silahlı saldırıda bir kişi öldü, dört kişi yaralandı. Kurbanlar, 24 ile 33 yaşları arasında, hepsi kabarık sabıka kayıtlarına sahip erkeklerdi.",
-          "group" : "Fransa'da şehir içi şiddet olayları",
-          "id" : "atom_008",
-          "link" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/27\/a-grenoble-dix-personnes-ont-ete-tuees-par-balles-en-six-mois-la-ville-et-sa-banlieue-vivent-des-guerres-de-territoires-exacerbees-assure-le-procureur_6694262_3224.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-05-27T20:00:37Z",
-          "titleTR" : "Grenoble'de altı ayda on kişi silahla öldürüldü: \"Şehir ve banliyösü şiddetli bir bölge savaşı yaşıyor\" diyor savcı"
+          "descriptionTR" : "En az beş çocuğun öldüğü bildirilen saldırının, bir Hamas komutanını hedef aldığı anlaşılıyor.",
+          "group" : "",
+          "id" : "1F39F549-BB84-4E81-818E-C34C1EF80017",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:54:05Z",
+          "titleTR" : "Gazze'deki hastaneler: İsrail saldırısında ölenler var, hedef Hamas liderleri"
         },
         {
-          "atomID" : "atom_011",
+          "atomID" : "DE5DDFB2-9660-46C0-904F-43264C78EB8A",
           "category" : "Güvenlik",
-          "descriptionTR" : "Paris Saint-Germain ile Arsenal arasında oynanacak Avrupa futbol şampiyonası finali, sokaklara birçok taraftar çekecek. Ancak Paris Emniyeti, Roland-Garros tenis turnuvası gibi diğer etkinliklerin de etkisiyle güvenlik önlemlerini artırdı. Paris'te 8 bin olmak üzere toplamda 22 bin polis ve jandarma görev yapacak.",
-          "group" : "Fransa'da spor etkinlikleri güvenliği",
-          "id" : "atom_011",
-          "link" : "https:\/\/www.lemonde.fr\/football\/article\/2026\/05\/27\/finale-de-la-ligue-des-champions-22-000-policiers-et-gendarmes-mobilises-en-france-dont-8-000-a-paris-annonce-laurent-nunez_6694266_1616938.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-05-27T20:49:34Z",
-          "titleTR" : "Şampiyonlar Ligi finali için Fransa'da 22 bin polis görevde"
+          "descriptionTR" : "İsrail ve Hizbullah'ın geçen ayki ateşkesi ihlal etmekle birbirlerini suçlamalarına rağmen, Beyrut şimdiye kadar büyük ölçüde çatışmalardan uzak kalmıştı.",
+          "group" : "",
+          "id" : "DE5DDFB2-9660-46C0-904F-43264C78EB8A",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:54:05Z",
+          "titleTR" : "İsrail'den Beyrut'a 'hedefli saldırı'"
+        },
+        {
+          "atomID" : "B37A0BDF-CBFE-4F3D-8A44-CCC9EC034676",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Hamas, Muhammed Odeh'in eşi ve iki çocuğuyla birlikte bir konut binasına yapılan saldırıda öldüğünü açıkladı.",
+          "group" : "",
+          "id" : "B37A0BDF-CBFE-4F3D-8A44-CCC9EC034676",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:54:05Z",
+          "titleTR" : "İsrail'in Gazze'deki saldırısında Hamas'ın askeri kanadının yeni lideri öldü"
         }
       ],
-      "packetSpot" : "Paris'te neler oluyor? İklim değişikliği, siyasi davalar ve güvenlik önlemleriyle dolu bir şehirde gündem nasıl şekilleniyor?",
-      "packetTitle" : "Paris'te Gündem",
-      "publishedAt" : "2026-05-28T00:34:34Z",
-      "sessionID" : "session_2026_05_28_8F1947",
+      "packetSpot" : "İsrail ve Filistin arasında artan çatışmalar, bölgedeki tansiyonu yükseltiyor. Gazze'deki saldırılar ve Beyrut'a yönelik hedefli operasyonlar, Ortadoğu'da yeni bir gerilim dalgasını tetikliyor. Bu gelişmeler, uluslararası toplumun dikkatini yeniden bölgeye çekiyor.",
+      "packetTitle" : "Ortadoğu'da Gerilim Tırmanıyor",
+      "publishedAt" : "2026-05-28T21:54:05Z",
+      "sessionID" : "publish-draft",
       "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "2915CB33-05D5-488E-BE41-70F9AFDF0CE1",
+          "category" : "Kültür",
+          "descriptionTR" : "Meksikalı influencer El Temach'in kız kardeşi, BBC'ye artık onu tanıyamadığını söylüyor.",
+          "group" : "",
+          "id" : "2915CB33-05D5-488E-BE41-70F9AFDF0CE1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:54:05Z",
+          "titleTR" : "Kardeşim nasıl liberal Hollywood oyuncusundan manosfer 'mesihi'ne dönüştü"
+        },
+        {
+          "atomID" : "3A93C5C5-D37A-49AB-BFF4-16A57EAE1FA9",
+          "category" : "Kültür",
+          "descriptionTR" : "ABD'de garsonlar %20'nin altında bahşiş alınca kızıyor; bahşişler başka yerlerde de artışta.",
+          "group" : "",
+          "id" : "3A93C5C5-D37A-49AB-BFF4-16A57EAE1FA9",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:54:05Z",
+          "titleTR" : "ABD'deki bahşiş kültürü yurtdışına mı yayılıyor?"
+        },
+        {
+          "atomID" : "43126436-CAF8-4EAC-9131-4569763F2BD4",
+          "category" : "Kültür",
+          "descriptionTR" : "Müzik efsanesi, 20. solo albümü The Boys of Dungeon Lane için \"hafıza şarkıları\" sunmak üzerine konuşuyor ve yeni Beatles biyografileriyle neden ilgilendiğini anlatıyor.",
+          "group" : "",
+          "id" : "43126436-CAF8-4EAC-9131-4569763F2BD4",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-28T21:54:05Z",
+          "titleTR" : "Paul McCartney, Paul Mescal ile gitar çalmak üzerine: 'O benden daha iyi biliyordu!'"
+        }
+      ],
+      "packetSpot" : "Kültür, sosyal medya ve sanat dünyasında dikkat çekici gelişmeler yaşanıyor. Sosyal medya fenomenlerinin etkisi ve küresel bahşiş kültürünün yayılması, toplumsal dinamikleri yeniden şekillendiriyor. Paul McCartney'nin müzik dünyasındaki deneyimleri ise sanatın evrenselliğini bir kez daha gözler önüne seriyor.",
+      "packetTitle" : "Kültürel Dönüşümler ve Etkileri",
+      "publishedAt" : "2026-05-28T21:54:05Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
     }
   ],
   "week" : "2026-W22"
