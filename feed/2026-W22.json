@@ -239,6 +239,70 @@
       "publishedAt" : "2026-05-28T00:18:32Z",
       "sessionID" : "session_2026_05_28_6AA355",
       "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_001",
+          "category" : "Çevre",
+          "descriptionTR" : "Süregelen 'ısı kubbesi' nedeniyle Fransa'da hava kalitesi düşüyor, bu da Ile-de-France ve Rhône-Alpes gibi bölgelerde ozon kirliliği olaylarına yol açıyor. 39 diğer bölge ise sarı alarmda.",
+          "group" : "Avrupa'da iklim değişikliği etkileri",
+          "id" : "atom_001",
+          "link" : "https:\/\/www.lemonde.fr\/planete\/live\/2026\/05\/28\/en-direct-canicule-paris-les-hauts-de-seine-la-seine-saint-denis-et-le-val-de-marne-font-rejoindre-jeudi-les-13-departements-de-l-ouest-deja-en-alerte-orange_6693854_3244.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T23:59:13Z",
+          "titleTR" : "Aşırı sıcaklar: Paris ve çevresi de turuncu alarmda"
+        },
+        {
+          "atomID" : "atom_003",
+          "category" : "Hukuk",
+          "descriptionTR" : "Eski Fransa Cumhurbaşkanı Nicolas Sarkozy'nin avukatları, Çarşamba günü boyunca yolsuzluk, suç örgütü üyeliği ve yasa dışı kampanya finansmanı suçlamalarını çürütmeye çalıştı. Mahkeme kararı 30 Kasım'da açıklanacak.",
+          "group" : "Sarkozy'nin yargı süreci",
+          "id" : "atom_003",
+          "link" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/27\/cette-affaire-a-commence-dans-le-mensonge-elle-doit-finir-dans-la-verite-au-proces-en-appel-du-financement-libyen-les-derniers-mots-de-nicolas-sarkozy_6694264_3224.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T20:32:21Z",
+          "titleTR" : "Sarkozy'nin Libya finansmanı davasında son sözleri: \"Bu dava yalanla başladı, gerçekle bitmeli\""
+        },
+        {
+          "atomID" : "atom_005",
+          "category" : "Politika",
+          "descriptionTR" : "\"Simplifier!\" adlı kitapta, iş dünyası liderleri ve eski üst düzey bürokratlar Bertrand Mabille ve Michel de Rosen, idari basitleştirmenin bir sonraki Cumhurbaşkanı'nın \"önceliği\" olması gerektiğini savunuyor. Elysee Sarayı'na resmi ya da potansiyel aday olan birkaç kişiye danışarak reform önerilerini sundular.",
+          "group" : "Fransa'da idari reform önerileri",
+          "id" : "atom_005",
+          "link" : "https:\/\/www.lemonde.fr\/politique\/article\/2026\/05\/27\/faire-de-la-simplification-administrative-la-mere-de-toutes-les-reformes-le-projet-de-deux-anciens-hauts-fonctionnaires_6694255_823448.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-05-27T18:17:49Z",
+          "titleTR" : "İki eski üst düzey bürokrat, idari basitleştirmeyi \"tüm reformların anası\" yapmayı öneriyor"
+        },
+        {
+          "atomID" : "atom_008",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Salı akşamı, Grenoble'un hassas bir mahallesinde bir uyuşturucu satış noktasının yakınında gerçekleşen silahlı saldırıda bir kişi öldü, dört kişi yaralandı. Kurbanlar, 24 ile 33 yaşları arasında, hepsi kabarık sabıka kayıtlarına sahip erkeklerdi.",
+          "group" : "Fransa'da şehir içi şiddet olayları",
+          "id" : "atom_008",
+          "link" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/27\/a-grenoble-dix-personnes-ont-ete-tuees-par-balles-en-six-mois-la-ville-et-sa-banlieue-vivent-des-guerres-de-territoires-exacerbees-assure-le-procureur_6694262_3224.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T20:00:37Z",
+          "titleTR" : "Grenoble'de altı ayda on kişi silahla öldürüldü: \"Şehir ve banliyösü şiddetli bir bölge savaşı yaşıyor\" diyor savcı"
+        },
+        {
+          "atomID" : "atom_011",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Paris Saint-Germain ile Arsenal arasında oynanacak Avrupa futbol şampiyonası finali, sokaklara birçok taraftar çekecek. Ancak Paris Emniyeti, Roland-Garros tenis turnuvası gibi diğer etkinliklerin de etkisiyle güvenlik önlemlerini artırdı. Paris'te 8 bin olmak üzere toplamda 22 bin polis ve jandarma görev yapacak.",
+          "group" : "Fransa'da spor etkinlikleri güvenliği",
+          "id" : "atom_011",
+          "link" : "https:\/\/www.lemonde.fr\/football\/article\/2026\/05\/27\/finale-de-la-ligue-des-champions-22-000-policiers-et-gendarmes-mobilises-en-france-dont-8-000-a-paris-annonce-laurent-nunez_6694266_1616938.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-05-27T20:49:34Z",
+          "titleTR" : "Şampiyonlar Ligi finali için Fransa'da 22 bin polis görevde"
+        }
+      ],
+      "packetSpot" : "Fransa'da neler oluyor? İklim değişikliği, şehir içi şiddet ve idari reformlar gündemde. Sarkozy'nin davası ve spor etkinlikleri güvenliği de dikkat çekiyor.",
+      "packetTitle" : "Fransa'dan Güncel Gelişmeler",
+      "publishedAt" : "2026-05-28T00:26:17Z",
+      "sessionID" : "session_2026_05_28_661122",
+      "slot" : 3
     }
   ],
   "week" : "2026-W22"
