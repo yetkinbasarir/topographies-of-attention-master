@@ -303,6 +303,37 @@
       "publishedAt" : "2026-05-28T00:26:17Z",
       "sessionID" : "session_2026_05_28_661122",
       "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "atom_002",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Birçok Lübnanlı Müslümanların büyük bayramı Kurban Bayramı'nı kutlamaya çalışırken, İsrail ordusu bu bölgede bulunan tüm sakinlere Zahrani'nin kuzey kıyısına tahliye çağrısı yaptı. İsrail ordusunun Arapça sözcüsü, ordunun Hizbullah'a karşı \"çok büyük bir güçle\" harekete geçeceğini belirtti.",
+          "group" : "Ortadoğu çatışmaları",
+          "id" : "atom_002",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/05\/27\/en-direct-guerre-au-moyen-orient-l-armee-israelienne-declare-que-toute-la-zone-au-sud-du-fleuve-du-zahrani-au-liban-est-une-zone-de-combat_6691823_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-05-27T19:55:10Z",
+          "titleTR" : "Ortadoğu'da savaş: İsrail ordusu Zahrani Nehri'nin güneyini \"savaş bölgesi\" ilan etti"
+        },
+        {
+          "atomID" : "atom_016",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Kremlin'in lideri Putin'in geldiği KGB'nin halefi olan Federal Güvenlik Servisi, askeri tercihler ve siyasi kararlar üzerindeki etkisini sürekli artırıyor. İnternetin engellenmesi, okullarda propaganda ve yargılamalarla Rus toplumunun her alanına nüfuz ediyor.",
+          "group" : "Rusya'da FSB'nin artan etkisi",
+          "id" : "atom_016",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/05\/27\/derriere-la-guerre-de-vladimir-poutine-le-role-croissant-du-fsb-l-agence-de-renseignement-russe_6694149_3210.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-05-27T04:00:13Z",
+          "titleTR" : "Vladimir Putin'in savaşında FSB'nin artan rolü"
+        }
+      ],
+      "packetSpot" : "Ortadoğu'da savaşın yeni cepheleri açılıyor mu? İsrail'in savaş bölgesi ilanı ve Rusya'nın artan etkisi, bölgedeki güvenlik dengelerini nasıl şekillendiriyor? Bu gelişmelerin küresel etkileri neler olabilir?",
+      "packetTitle" : "Ortadoğu'da Güvenlik Dinamikleri",
+      "publishedAt" : "2026-05-28T00:33:29Z",
+      "sessionID" : "session_2026_05_28_94B917",
+      "slot" : 4
     }
   ],
   "week" : "2026-W22"
