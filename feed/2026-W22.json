@@ -1,6 +1,6 @@
 {
   "label" : "25–31 MAYIS",
-  "publishedAt" : "2026-05-28T22:31:27Z",
+  "publishedAt" : "2026-05-28T22:32:02Z",
   "slots" : [
     {
       "items" : [
@@ -12,7 +12,7 @@
           "id" : "A11BC594-078C-41C2-A491-5DA84B0CB61F",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "ABD ve İran barışa mı yakın yoksa savaşa mı sürükleniyor?"
         },
         {
@@ -23,7 +23,7 @@
           "id" : "D66A95F9-7C85-421D-A651-145D7E711511",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "İran, ABD üssünü hedef aldığını açıkladı"
         },
         {
@@ -34,13 +34,13 @@
           "id" : "A36AEF80-4E56-4023-BFA1-B490CD4D9AF0",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "ABD-İran görüşmelerinde ilerleme haberi sonrası petrol fiyatları düştü"
         }
       ],
       "packetSpot" : "ABD ve İran arasındaki gerilim, dünya gündemini meşgul etmeye devam ediyor. İki ülke arasındaki diplomatik ve askeri gelişmeler, bölgesel ve küresel güvenlik dengelerini etkileyebilir. Bu paket, son gelişmeler ışığında ABD-İran ilişkilerindeki durumu ele alıyor.",
       "packetTitle" : "ABD ve İran İlişkileri",
-      "publishedAt" : "2026-05-28T22:31:27Z",
+      "publishedAt" : "2026-05-28T22:32:02Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
@@ -54,7 +54,7 @@
           "id" : "A9CD1C3F-A4E6-413A-99E4-34B4A9F599F8",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "Gazze'deki hastaneler: İsrail saldırısında ölenler var, hedef Hamas liderleri"
         },
         {
@@ -65,13 +65,13 @@
           "id" : "D6AF6621-34E3-4A0C-9863-99994DCB86DD",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "İsrail'in Gazze'deki saldırısında Hamas'ın askeri kanadının yeni lideri öldü"
         }
       ],
       "packetSpot" : "İsrail ve Filistin arasındaki gerilim, Gazze'deki son saldırılarla yeniden tırmanıyor. İsrail'in hedef aldığı Hamas liderleri ve sivil kayıplar, bölgedeki durumu daha da karmaşık hale getiriyor. Bu gelişmeler, uluslararası toplumun dikkatini bir kez daha bu uzun süredir devam eden çatışmaya çekiyor.",
       "packetTitle" : "İsrail ve Filistin Çatışmaları",
-      "publishedAt" : "2026-05-28T22:31:27Z",
+      "publishedAt" : "2026-05-28T22:32:02Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
@@ -85,7 +85,7 @@
           "id" : "EE3AECAC-00AE-41F7-9581-DE618A0575F5",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "Portekiz, Mayıs ayı sıcaklık rekorunu kırdı; Avrupa sıcak hava dalgasıyla kavruluyor"
         },
         {
@@ -96,7 +96,7 @@
           "id" : "113BAC46-6855-420B-A205-4A5E8597A8A3",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "Avustralya, 'sonsuz kimyasallar' nedeniyle ABD'li 3M'e dava açtı"
         },
         {
@@ -107,13 +107,13 @@
           "id" : "1511BA84-338B-47AE-9A0F-A3669A1FFE6E",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "Batı Avrupa'da sıcak hava dalgası: Paris kavruluyor"
         }
       ],
       "packetSpot" : "İklim değişikliği, dünya genelinde sıcak hava dalgaları ve çevresel sorunlarla kendini hissettiriyor. Avrupa'da rekor sıcaklıklar yaşanırken, kimyasal kirlilik davaları çevresel adalet arayışını gündeme taşıyor. Bu paket, iklim krizinin etkilerini ve çözüm arayışlarını ele alıyor.",
       "packetTitle" : "İklim Krizi ve Etkileri",
-      "publishedAt" : "2026-05-28T22:31:27Z",
+      "publishedAt" : "2026-05-28T22:32:02Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
@@ -127,7 +127,7 @@
           "id" : "22288A32-7745-4F08-AC4A-CDF5028E90B7",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "Kardeşim nasıl liberal Hollywood oyuncusundan manosfer 'mesihi'ne dönüştü"
         },
         {
@@ -138,7 +138,7 @@
           "id" : "0D3A8216-CFD0-4EB1-8E36-9B270323D155",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "ABD'deki bahşiş kültürü yurtdışına mı yayılıyor?"
         },
         {
@@ -149,13 +149,13 @@
           "id" : "0C1BFD05-0282-4E08-B496-54C67E2DBE70",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-28T22:31:27Z",
+          "publishedAt" : "2026-05-28T22:32:02Z",
           "titleTR" : "Paul McCartney, Paul Mescal ile gitar çalmak üzerine: 'O benden daha iyi biliyordu!'"
         }
       ],
       "packetSpot" : "Sanat ve kültür dünyasında dikkat çeken gelişmeler var. Paul McCartney'nin müzik üzerine düşünceleri ve sosyal medya fenomenlerinin hikayeleri bu pakette. Küresel bahşiş kültürü üzerine de ilginç bir bakış sunuyoruz.",
       "packetTitle" : "Sanat Dünyasından Haberler",
-      "publishedAt" : "2026-05-28T22:31:27Z",
+      "publishedAt" : "2026-05-28T22:32:02Z",
       "sessionID" : "publish-draft",
       "slot" : 4
     }
