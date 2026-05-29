@@ -1,0 +1,49 @@
+{
+  "label" : "25–31 MAYIS",
+  "publishedAt" : "2026-05-29T11:53:58Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "E5F12C66-C3F7-4E00-B875-48EC01B94B9E",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Küresel ekonomi Hürmüz Boğazı krizine odaklanmışken, bölgede başka bir denizcilik krizi kapıda: Somali korsanlarının geri dönüşü.",
+          "group" : "",
+          "id" : "E5F12C66-C3F7-4E00-B875-48EC01B94B9E",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-29T11:53:58Z",
+          "titleTR" : "Somali korsanlarının geri dönüşü denizcilik sektörünü tehdit ediyor"
+        },
+        {
+          "atomID" : "0209440D-895F-48C1-A187-E4624D6D2D95",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Kadın, Lübnan'dan çocuklarıyla birlikte Avustralya'ya döndükten sekiz ay sonra tutuklandı.",
+          "group" : "",
+          "id" : "0209440D-895F-48C1-A187-E4624D6D2D95",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-29T11:53:58Z",
+          "titleTR" : "Avustralyalı kadın, IŞİD'e katılmak için Suriye'ye gitmekle suçlanıyor"
+        },
+        {
+          "atomID" : "8CF9B6F8-1BD2-40B1-BCCA-4CFB11DC5773",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Romanya yetkilileri, Ukrayna'ya yönelik gece saldırısının parçası olan bir Rus drone'unun Romanya'nın doğusunda bir apartmana çarptığını ve iki kişinin yaralandığını bildirdi.",
+          "group" : "",
+          "id" : "8CF9B6F8-1BD2-40B1-BCCA-4CFB11DC5773",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-29T11:53:58Z",
+          "titleTR" : "Rusya'nın Ukrayna'ya saldırısı sırasında düşen drone Romanya'da iki kişiyi yaraladı"
+        }
+      ],
+      "packetSpot" : "Güvenlik, küresel istikrarın temel taşlarından biri. Bu pakette, Rusya-Ukrayna çatışmasının yankılarından deniz güvenliğine kadar geniş bir yelpazede gelişmeleri ele alıyoruz. Her biri, dünya genelinde güvenlik algısını şekillendiren önemli olaylar.",
+      "packetTitle" : "Güvenlik Tehditleri ve Çatışmalar",
+      "publishedAt" : "2026-05-29T11:53:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    }
+  ],
+  "week" : "2026-W23"
+}
