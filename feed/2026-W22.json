@@ -1,0 +1,49 @@
+{
+  "label" : "25–31 MAYIS",
+  "publishedAt" : "2026-05-30T18:44:03Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/05\/30\/au-liban-des-refugies-palestiniens-fuient-le-sud-toute-ma-vie-je-n-ai-connu-que-des-deplacements_6695264_3210.html",
+          "category" : "Sağlık",
+          "descriptionTR" : "İsrail ordusunun bombardımanların habercisi olan tahliye emirleri, ilk kez Sur bölgesindeki üç Filistin kampını da kapsıyor. 27 Mayıs Çarşamba günü verilen bu emirler ertesi gün yenilendi ve binlerce Filistinli mülteciyi evlerini terk etmeye zorladı.",
+          "group" : "",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/05\/30\/au-liban-des-refugies-palestiniens-fuient-le-sud-toute-ma-vie-je-n-ai-connu-que-des-deplacements_6695264_3210.html",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-30T18:44:03Z",
+          "titleTR" : "Lübnan'da Filistinli mülteciler güneyden kaçıyor: \"Hayatım boyunca sadece yer değiştirdim\""
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/30\/ebola-nous-surmonterons-cette-situation-ensemble-dit-le-chef-de-l-oms-en-visite-dans-l-epicentre-de-l-epidemie_6695282_3224.html",
+          "category" : "Sağlık",
+          "descriptionTR" : "Dünya Sağlık Örgütü, cumartesi günü yaptığı açıklamada, danışma gruplarının Demokratik Kongo Cumhuriyeti'ndeki yeni salgına neden olan Bundibugyo türüne karşı potansiyel olarak etkili birkaç aşı ve tedavi için klinik denemeler önerdiğini duyurdu.",
+          "group" : "",
+          "id" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/30\/ebola-nous-surmonterons-cette-situation-ensemble-dit-le-chef-de-l-oms-en-visite-dans-l-epicentre-de-l-epidemie_6695282_3224.html",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-30T18:44:03Z",
+          "titleTR" : "DSÖ Başkanı: \"Bu durumu birlikte aşacağız\""
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/05\/30\/en-direct-guerre-en-ukraine-washington-promet-de-poursuivre-son-soutien-a-la-defense-ukrainienne-mais-veut-que-les-ukrainiens-puissent-se-defendre-eux-memes_6693162_3210.html",
+          "category" : "Sağlık",
+          "descriptionTR" : "Volodimir Zelenski, Rus saldırılarının yoğunlaşmasıyla birlikte Donald Trump'tan Kiev'e daha fazla Patriot hava savunma sistemi füzesi sağlamasını istedi.",
+          "group" : "",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/05\/30\/en-direct-guerre-en-ukraine-washington-promet-de-poursuivre-son-soutien-a-la-defense-ukrainienne-mais-veut-que-les-ukrainiens-puissent-se-defendre-eux-memes_6693162_3210.html",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-30T18:44:03Z",
+          "titleTR" : "ABD, Ukrayna'nın savunmasına desteği sürdürecek ancak \"kendi kendilerini savunabilmelerini\" istiyor"
+        }
+      ],
+      "packetSpot" : "Bu paket, dünya genelinde yaşanan önemli gelişmeleri ve krizleri ele alıyor. Mülteci krizinden iklim değişikliğine, diplomatik ilişkilerden sağlık sorunlarına kadar geniş bir yelpazede bilgi sunuyor. Küresel perspektifle, yerel dillerdeki olayları anlamlandırmayı hedefliyoruz.",
+      "packetTitle" : "Küresel Krizler ve Çözümler",
+      "publishedAt" : "2026-05-30T18:44:03Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    }
+  ],
+  "week" : "2026-W22"
+}
