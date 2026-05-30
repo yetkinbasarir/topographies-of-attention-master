@@ -1,6 +1,6 @@
 {
   "label" : "25–31 MAYIS",
-  "publishedAt" : "2026-05-30T18:47:48Z",
+  "publishedAt" : "2026-05-30T18:48:25Z",
   "slots" : [
     {
       "items" : [
@@ -12,7 +12,7 @@
           "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/05\/30\/au-liban-des-refugies-palestiniens-fuient-le-sud-toute-ma-vie-je-n-ai-connu-que-des-deplacements_6695264_3210.html",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-30T18:47:48Z",
+          "publishedAt" : "2026-05-30T18:48:25Z",
           "titleTR" : "Lübnan'da Filistinli mülteciler güneyden kaçıyor: \"Hayatım boyunca sadece yer değiştirdim\""
         },
         {
@@ -23,7 +23,7 @@
           "id" : "https:\/\/www.lemonde.fr\/societe\/article\/2026\/05\/30\/ebola-nous-surmonterons-cette-situation-ensemble-dit-le-chef-de-l-oms-en-visite-dans-l-epicentre-de-l-epidemie_6695282_3224.html",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-30T18:47:48Z",
+          "publishedAt" : "2026-05-30T18:48:25Z",
           "titleTR" : "DSÖ Başkanı: \"Bu durumu birlikte aşacağız\""
         },
         {
@@ -34,13 +34,13 @@
           "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/05\/30\/en-direct-guerre-en-ukraine-washington-promet-de-poursuivre-son-soutien-a-la-defense-ukrainienne-mais-veut-que-les-ukrainiens-puissent-se-defendre-eux-memes_6693162_3210.html",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-30T18:47:48Z",
+          "publishedAt" : "2026-05-30T18:48:25Z",
           "titleTR" : "ABD, Ukrayna'nın savunmasına desteği sürdürecek ancak \"kendi kendilerini savunabilmelerini\" istiyor"
         }
       ],
       "packetSpot" : "Bu paket, dünya genelinde yaşanan önemli gelişmeleri ve krizleri ele alıyor. Mülteci krizinden iklim değişikliğine, diplomatik ilişkilerden sağlık sorunlarına kadar geniş bir yelpazede bilgi sunuyor. Küresel perspektifle, yerel dillerdeki olayları anlamlandırmayı hedefliyoruz.",
       "packetTitle" : "Küresel Krizler ve Çözümler",
-      "publishedAt" : "2026-05-30T18:47:48Z",
+      "publishedAt" : "2026-05-30T18:48:25Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
@@ -54,7 +54,7 @@
           "id" : "https:\/\/www.lemonde.fr\/sport\/live\/2026\/05\/30\/en-direct-psg-arsenal-suivez-la-finale-de-la-ligue-des-champions_6695252_3242.html",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-30T18:47:48Z",
+          "publishedAt" : "2026-05-30T18:48:25Z",
           "titleTR" : "PSG-Arsenal maçı penaltılara gidiyor: Uzatmalarda eşitlik bozulmadı"
         },
         {
@@ -65,13 +65,13 @@
           "id" : "https:\/\/www.lemonde.fr\/sport\/article\/2026\/05\/30\/roland-garros-2026-diane-parry-qualifiee-pour-la-deuxieme-semaine-redonne-le-sourire-aux-bleues_6695278_3242.html",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-30T18:47:48Z",
+          "publishedAt" : "2026-05-30T18:48:25Z",
           "titleTR" : "Roland-Garros 2026: Diane Parry, ikinci haftaya kalarak Fransızlara moral verdi"
         }
       ],
       "packetSpot" : "Spor dünyasında dikkat çeken gelişmeler bu pakette. Futbol ve tenis sahalarından heyecan verici haberler. Küresel spor etkinliklerinin nabzını tutuyoruz.",
       "packetTitle" : "Spor Arenasında Son Durumlar",
-      "publishedAt" : "2026-05-30T18:47:48Z",
+      "publishedAt" : "2026-05-30T18:48:25Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
@@ -85,13 +85,13 @@
           "id" : "https:\/\/www.lemonde.fr\/planete\/live\/2026\/05\/30\/en-direct-canicule-meteo-france-prevoit-la-fin-de-l-episode-dimanche-a-6-heures-du-matin_6693854_3244.html",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-30T18:47:48Z",
+          "publishedAt" : "2026-05-30T18:48:25Z",
           "titleTR" : "Canicule sona eriyor: Météo-France pazar sabahı serinlik bekliyor"
         }
       ],
       "packetSpot" : "İklim değişikliği, dünya genelinde etkilerini hissettirmeye devam ediyor. Avrupa'da yaşanan sıcak hava dalgaları, bu değişimin en somut örneklerinden biri. Bu paket, iklim değişikliğinin etkilerini ve gelecekte bizi nelerin beklediğini ele alıyor.",
       "packetTitle" : "Çevre",
-      "publishedAt" : "2026-05-30T18:47:48Z",
+      "publishedAt" : "2026-05-30T18:48:25Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     }
