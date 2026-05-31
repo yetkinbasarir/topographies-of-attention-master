@@ -1,389 +1,1585 @@
 {
   "label" : "25–31 MAYIS",
-  "publishedAt" : "2026-05-31T01:35:56Z",
+  "publishedAt" : "2026-05-31T18:25:37Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5y8wjvd1ypo#0",
-          "category" : "Güvenlik",
-          "descriptionTR" : "Aukus askeri paktı kapsamında geliştirilen teknoloji, denizaltı kablolarını korumayı ve deniz savunmasını güçlendirmeyi hedefliyor.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/south-koreas-matchmaking-boom-is-turning-inequality-into-compatibility\/",
+          "category" : "Toplum",
+          "descriptionTR" : "Güney Kore’nin demografik krizi, daha derin bir sorunu görünür kılıyor: sınıf, cinsiyet, eğitim, barınma ve aile geçmişinin, kimin evlenebilir sayıldığını nasıl şekillendirdiğini.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5y8wjvd1ypo#0",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/south-koreas-matchmaking-boom-is-turning-inequality-into-compatibility\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "ABD, İngiltere ve Avustralya su altı drone teknolojisi geliştirecek"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Güney Kore’de Eş Bulma Patlaması, Eşitsizliği Uyum Meselesine Dönüştürüyor"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3d27x5vnnvo#0",
-          "category" : "Güvenlik",
-          "descriptionTR" : "Yerel yetkililer, West'in diğer konserlerinin iptal edilmesinin bu kararda etkili olduğunu belirtti.",
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642065\/",
+          "category" : "Toplum",
+          "descriptionTR" : "Konsey, yabancı sakinlerin yaşam koşullarını iyileştirmeyi ve yerli Japonlarla uyumlu bir birlikte yaşamı teşvik etmeyi amaçlıyor.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3d27x5vnnvo#0",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642065\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "İtalya, Kanye West ve Travis Scott konserlerini güvenlik endişeleri nedeniyle yasakladı"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cn4pn4ex0ymo#1",
-          "category" : "Güvenlik",
-          "descriptionTR" : "20 Mayıs'ta altın aramak için dar tünellere giren yedi köylüden ikisi hâlâ kayıp.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cn4pn4ex0ymo#1",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Laos'taki su basmış mağaradan dört kişi daha kurtarıldı"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5ye34k7yejo#1",
-          "category" : "Güvenlik",
-          "descriptionTR" : "ABD Savunma Bakanı, Singapur'daki bir Asya güvenlik zirvesinde ABD'nin taahhütleri ve yeni silah anlaşmaları hakkında sorgulandı.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5ye34k7yejo#1",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "ABD Asya'daki müttefiklerinden savunmalarını güçlendirmelerini bekliyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cdjp0n7rn41o#2",
-          "category" : "Güvenlik",
-          "descriptionTR" : "BBC Verify, işgal altındaki Ukrayna'da mühimmat, yakıt ve gıda taşıyan Rus kamyonlarına yönelik saldırıların videolarını inceledi.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cdjp0n7rn41o#2",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Ukrayna, Rus birliklerine ikmal yapan konvoylara yapay zeka dronlarıyla saldırıyor"
-        },
-        {
-          "atomID" : "9C0753AB-4BF6-530F-8601-4D2DC9BDBF02",
-          "category" : "Güvenlik",
-          "descriptionTR" : "Romanya'da Cuma sabahı erken saatlerde Rus yapımı bir drone, bir apartmana çarparak yangına neden oldu. Olayda iki kişi yaralandı. Saldırının ardından insanlar evlerini kontrol etmek için geri dönmeye başladı. Romanyalı yetkililer olayla ilgili bilgi verirken, şehirde korku hakim.",
-          "group" : "",
-          "id" : "9C0753AB-4BF6-530F-8601-4D2DC9BDBF02",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Romanya'da Rus yapımı drone saldırısı: Yangın ve yaralılar var"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Göç arttıkça Kawasaki’nin yabancılar konseyi kapsayıcılığa giden yolu gösteriyor"
         }
       ],
-      "packetSpot" : "Dron teknolojisi güvenlikte nasıl devrim yaratıyor? ABD, İngiltere ve Avustralya'nın yeni hamlesi ne anlama geliyor?",
-      "packetTitle" : "Dronların Güvenlikteki Yükselen Rolü",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Güney Kore'de evlilik neden bir sorun haline geldi? Kawasaki'de göçmenler nasıl bir araya geliyor?",
+      "packetTitle" : "Asya'da Toplumsal Uyumun Yeni Yüzü",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c99ldxykz4zo#0",
-          "category" : "Sağlık",
-          "descriptionTR" : "Tıbbi yardım kuruluşu, Dünya Sağlık Örgütü başkanının virüs salgınından en çok etkilenen bölgeyi ziyaret ettiği sırada bu açıklamayı yaptı.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/anti-war-orthodox-priest-arrested-in-kazakhstan-to-face-forced-psychiatric-treatment\/",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Kazakistan’da, Moskova’ya bağlı olmayan bir Ortodoks kilisesi kurmaya çalıştıktan sonra uyuşturucuyla bağlantılı suçlamalarla gözaltına alınan hieromonk Iakov Vorontsov’un, Sovyet dönemini hatırlatan zorunlu psikolojik tedaviyle karşı karşıya olduğu bildiriliyor.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c99ldxykz4zo#0",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/anti-war-orthodox-priest-arrested-in-kazakhstan-to-face-forced-psychiatric-treatment\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "MSF: Kongo'da Ebola'nın Yayılması Endişe Verici"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Kazakistan’da savaş karşıtı Ortodoks rahip, zorunlu psikiyatrik tedaviyle karşı karşıya"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9q39dx778zo#2",
-          "category" : "Sağlık",
-          "descriptionTR" : "Modern tarihteki her başkan - bu hafta Donald Trump da dahil - yıllık sağlık kontrolünden geçiyor. Ancak bu kontroller sağlık kadar mesaj verme amacı da taşıyor.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/rethinking-the-absolute-bar-on-scheduled-caste-status-in-india\/",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Kast tanınmasını dine bağlayan yasa, gidermeyi amaçladığı ayrımcılıkla hâlâ karşı karşıya kalanları dışarıda bırakma riski taşıyor.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9q39dx778zo#2",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/rethinking-the-absolute-bar-on-scheduled-caste-status-in-india\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Trump'ın doktoru: Sağlığı mükemmel - Peki, ABD başkanlarının sağlık kontrolleri bir PR çalışması mı?"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hindistan’da Planlanmış Kast Statüsüne Yönelik ‘Mutlak Yasak’ Yeniden Düşünülüyor"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/taiwans-democratic-blind-spot-statelessness-and-legal-exclusion\/",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Tayvan’daki vatansız ve belgesiz nüfus, on binlerle ifade ediliyor; bu kişiler sağlık hizmetleri, yasal oturum hakkı ve bazı durumlarda eğitim gibi temel haklara erişemiyor.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/taiwans-democratic-blind-spot-statelessness-and-legal-exclusion\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Tayvan’ın Demokratik Kör Noktası: Vatansızlık ve Hukuki Dışlanma"
+        },
+        {
+          "atomID" : "article-71040795",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Eyalet halk sağlığı müdürü Aminullah Şerif, 22 kişinin öldüğünü ve yaklaşık 36 kişinin yaralandığını söyledi. Şerif, kazanın sürücünün uyuyakalmasının ardından kamyonun bir hendeğe düşmesiyle meydana geldiğini belirtti.",
+          "group" : "",
+          "id" : "article-71040795",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Doğu Afganistan’da geri dönen mültecileri taşıyan kamyon devrildi, 22 kişi öldü"
+        },
+        {
+          "atomID" : "article-71040528",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Ateşkesin yürürlüğe girmesinden bu yana Gazze’de 900’den fazla kişi öldürüldü; Gazze Sağlık Bakanlığı’na göre bunların onlarcası sarı çizgiye yakın ya da onun ötesinde öldürüldü.",
+          "group" : "",
+          "id" : "article-71040528",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "İsrailli askerler, Gazze’den nadir tanıklıklar paylaşıyor; ateşkese rağmen süren öldürmeleri anlatıyor"
+        },
+        {
+          "atomID" : "98AA3F7F-67A1-5AD0-B55A-53A26FC33E1D",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Afrika Hastalık Kontrol ve Önleme Merkezi, Kongo ve Uganda’da doğrulanmış Ebola vakalarının 263’e, ölümlerin 43’e yükseldiğini, 1.100’den fazla şüpheli vakanın da incelendiğini açıkladı. Salgının nadir görülen Bundibugyo türünden kaynaklandığı belirtilirken, Kongo’da 17 Mayıs’ta ilan edilen küresel sağlık acil durumunun ardından doğudaki Ituri eyaletinde yeni bir tedavi merkezi açıldı; DSÖ Genel Direktörü Tedros Adhanom Ghebreyesus da müdahaleyi hızlandırmak için bölgeye gitti. Yetkililer, bu tür için onaylı aşı ya da tedavi bulunmadığını, güvenli defin, erken izolasyon ve palyatif bakımın kritik olduğunu vurgularken, son salgında 220’den fazla kişinin yaşamını yitirdiğinden şüphelenildiği de aktarıldı.",
+          "group" : "",
+          "id" : "98AA3F7F-67A1-5AD0-B55A-53A26FC33E1D",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Kongo ve Uganda’da Ebola vakaları 263’e, ölümler 43’e çıktı"
         }
       ],
-      "packetSpot" : "Ebola salgını Kongo'da kontrol altına alınabilecek mi? Uluslararası sağlık örgütleri hangi önlemleri alıyor?",
-      "packetTitle" : "Ebola'nın Kongo'daki Tehlikeli Yükselişi",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Kazakistan'daki rahibin zorunlu tedavisi ne anlama geliyor? Hindistan'da kast sistemine yönelik yasak neden tartışılıyor? Tayvan'da vatansızlık sorunu nasıl çözülüyor?",
+      "packetTitle" : "Küresel İnsan Hakları İhlalleri ve Görmezden Gelinen Gerçekler",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cvgzy64j9l1o#0",
-          "category" : "Kültür",
-          "descriptionTR" : "Yönetmen George Lucas'ın eski eşi olan film editörü, orijinal uzay üçlemesinin arkasındaki önemli yaratıcı güç olarak geniş çapta tanınıyordu.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/why-southeast-asias-just-energy-transition-partnerships-have-stalled\/",
+          "category" : "Enerji",
+          "descriptionTR" : "Yüksek beklentilere ve milyarlarca dolarlık finansman taahhütlerine rağmen, bu mekanizma alıcı ülkelerin siyasi ve ekonomik gerçeklerine yeterince dikkat etmedi.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cvgzy64j9l1o#0",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/why-southeast-asias-just-energy-transition-partnerships-have-stalled\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Oscar ödüllü Star Wars editörü Marcia Lucas 80 yaşında hayatını kaybetti"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Güneydoğu Asya’nın Adil Enerji Dönüşümü Ortaklıkları Neden Tıkandı"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy02j1n87wlo#1",
-          "category" : "Kültür",
-          "descriptionTR" : "Young MC, Poison solisti Bret Michaels ve country şarkıcısı Martina McBride, etkinliğin siyasi olabileceği endişesiyle çekincelerini dile getirdi.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/transporting-oil-to-china-by-rail-will-not-solve-irans-export-headache\/",
+          "category" : "Enerji",
+          "descriptionTR" : "Karadan uzanan bu güzergâh Tahran için sınırlı bir can simidi sunsa da, deniz yoluyla yapılan petrol ticaretinin yerini tutamaz.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy02j1n87wlo#1",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/transporting-oil-to-china-by-rail-will-not-solve-irans-export-headache\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Trump, US Freedom 250 konserinden çekilen sanatçılara yüklendi, kendisi katılmayı düşünüyor"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Petrolü Demiryoluyla Çin’e Taşımak İran’ın İhracat Sıkıntısını Çözmeyecek"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1m215npjp2o#1",
-          "category" : "Kültür",
-          "descriptionTR" : "Eser, ziyaretçilerin üzerinde üç kez dönerek şans getirdiğine inandığı bir gelenekle özdeşleşmiş durumda.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/nepal-india-and-the-paradox-of-hydro-hegemony\/",
+          "category" : "Enerji",
+          "descriptionTR" : "Nepal’in hidroelektrik vizyonu, hem başlıca alıcı hem de tek geçiş güzergâhı olarak Hindistan’a dayanıyor. Bu da Hindistan’a, Nepal’in hedefleri üzerinde muazzam bir güç veriyor.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1m215npjp2o#1",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/nepal-india-and-the-paradox-of-hydro-hegemony\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "İtalya, turistlerin aşındırdığı boğa mozaiğindeki şans getiren testisleri yeniledi"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/clypz87rqy1o#2",
-          "category" : "Kültür",
-          "descriptionTR" : "Elle Kennedy'nin buz hokeyi aşk romanı, Amazon Prime uyarlamasıyla izleyicilerden tam not aldı.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/clypz87rqy1o#2",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Kadınların kaleminden erkekler: Off Campus gibi buz hokeyi aşkları TV'nin yeni gözdesi oldu"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/c9we0ln71llo#3",
-          "category" : "Kültür",
-          "descriptionTR" : "BBC, yıllarca yeraltında çalıştıktan sonra sanatlarını kutlamak için ülkenin dört bir yanından dövme sanatçılarının toplandığı Seul'de.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/c9we0ln71llo#3",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Güney Kore'de Dövme Sanatçıları Nasıl Yasal Oldu?"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Nepal, Hindistan ve hidro-hegemonya paradoksu"
         }
       ],
-      "packetSpot" : "Dövme sanatçıları Güney Kore'de nasıl yasal hale geldi? İtalya'da boğa mozaiği neden yenilendi? Yeni TV dizileri hangi aşk hikayelerini anlatıyor?",
-      "packetTitle" : "Kültürün Dönüşen Yüzleri: Sanat, Miras ve Medya",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Güneydoğu Asya'nın enerji dönüşümü neden duraksadı? İran'ın petrol ihracatı Çin'e nasıl ulaşacak? Nepal ve Hindistan arasındaki hidro-hegemonya ne anlama geliyor?",
+      "packetTitle" : "Asya'da Enerji Geçişinin Zorlukları ve Çatışmalar",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/czx2zndk7elo#0",
-          "category" : "Politika",
-          "descriptionTR" : "Ekvador lideri Daniel Noboa, pazar günkü seçim öncesinde sağcı bir başkan adayıyla görüştükten sonra tarifeleri iptal etme teklifi sundu.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/the-manus-fallout-highlights-structural-problems-in-chinas-industrial-policy-ecosystem\/",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Çin yabancı yatırımı memnuniyetle karşılamak istiyor, ancak kırmızı çizgileri değişiyor. Bu da birçok şirket için cazip bir teklif değil.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/czx2zndk7elo#0",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/the-manus-fallout-highlights-structural-problems-in-chinas-industrial-policy-ecosystem\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Ekvador'un Kolombiya seçimlerine müdahale ettiği iddiası"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Manus Krizi, Çin’in sanayi politikası ekosistemindeki yapısal sorunları gözler önüne seriyor"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1w21gn340xo#1",
-          "category" : "Politika",
-          "descriptionTR" : "Meslektaşları ve akrabalarına yönelik yolsuzluk soruşturmaları, İspanya Başbakanı'nı siyasi hayatta kalma mücadelesine sürükledi.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/the-strategic-corridor-turning-singapore-into-chinas-indispensable-partner\/",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Yeni Uluslararası Kara-Deniz Ticaret Koridoru, Pekin için stratejik bir tedarik hattı olarak öne çıkıyor; Singapur ise bu hattın tasarımına katkı sundu.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1w21gn340xo#1",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/the-strategic-corridor-turning-singapore-into-chinas-indispensable-partner\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "İspanya Başbakanı Sánchez, skandalların gölgesinde koltuğunu korumaya çalışıyor"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Singapur’u Çin’in Vazgeçilmez Ortağına Dönüştüren Stratejik Koridor"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cddpl33v247o#2",
-          "category" : "Politika",
-          "descriptionTR" : "Gizemli KGB ajanlığından savaş dönemi liderliğine, Putin'in imajını ve kendisini nasıl defalarca yeniden şekillendirdiği.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/tajikistans-taxman-comes-for-the-e-wallet\/",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Dijital transferlerin kayıt dışı işletmeleri gizlediğinden şüphelenen yeni bir vergi, nakit sıkıntısı çeken hükümetin erişebildiği her şeyi vergilendirme yönündeki uzun süredir süregelen alışkanlığını genişletiyor.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cddpl33v247o#2",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/tajikistans-taxman-comes-for-the-e-wallet\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Putin'in İmaj Ustası Olma Yolculuğu"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Tacikistan’ın vergi memuru e-cüzdana da uzanıyor"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/pakistan-and-the-economics-of-diplomacy\/",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Khurram Husain, Pakistan’ın son dönemde elde ettiği diplomatik kazanımların anlamlı bir ekonomik ilerlemeye dönüşüp dönüşmediğini değerlendirmek üzere sunucu Tushar Shetty’ye katılıyor.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/pakistan-and-the-economics-of-diplomacy\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Pakistan ve diplomasinin ekonomisi"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/why-pakistans-economic-resilience-demands-deep-structural-reform\/",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Yapısal zayıflıkları örtmek için süresiz biçimde işçi dövizlerine dayanmak, ne sürdürülebilir ne de uzun vadeli dayanıklılık açısından doğru bir yaklaşım.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/why-pakistans-economic-resilience-demands-deep-structural-reform\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Pakistan’ın ekonomik dayanıklılığı neden derin yapısal reform gerektiriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.scmp.com\/week-asia\/health-environment\/article\/3355347\/why-grab-and-gojek-drivers-fear-balis-no-go-zones?utm_source=rss_feed",
+          "category" : "Ekonomi",
+          "descriptionTR" : "“Sana gelemem” denildi Katie Williams’a; Grab sürücüsü, Canggu’da yaptığı yolculuk talebini kabul ettikten saniyeler sonra. “Sana gelemem. Benimle buluşman gerekiyor.” Otuzlu yaşlarının ortasındaki Avustralyalı turist Williams, uygulama üzerinden yaşlı anne babasının Bali’nin sıcak güneşinde çok uzağa yürümekte zorlandığını anlattı. Sürücünün yanıtı netti: “Çok tehlikeli. Gelemem.” İki iptalin daha ardından sonunda geri adım attı ve yerel bir sürücüye ilk ücretin iki katını ödedi...",
+          "group" : "",
+          "id" : "https:\/\/www.scmp.com\/week-asia\/health-environment\/article\/3355347\/why-grab-and-gojek-drivers-fear-balis-no-go-zones?utm_source=rss_feed",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Grab ve Gojek sürücüleri neden Bali’nin ‘girilmeyen bölgeleri’nden korkuyor"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642053\/",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Ormanların değerindeki düşüş onları bir yük haline getirdi; ancak bir grup, karbon kredilerinin bu gidişatı tersine çevirebileceğini ve aynı zamanda gezegene de yardımcı olabileceğini umuyor.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642053\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Karbon finansmanı, Japonya’nın zor durumdaki ormancılık sektörüne nasıl destek olabilir"
+        },
+        {
+          "atomID" : "1E4DD141-D2B1-5762-A2D0-A109146F9720",
+          "category" : "Ekonomi",
+          "descriptionTR" : "ABD’nin nadir toprak elementleri ve enerji alanındaki Çin rekabetinde, kısa vadeli hamlelerden çok uzun vadeli dayanıklılık ve sabır gerektiren bir strateji izlediği vurgulanıyor. Nadir toprak projelerinin siyasi dönemler boyunca istikrarlı bağlılık istediği, bunun ABD’nin henüz tam aşamadığı bir sınav olduğu belirtilirken; Trump dönemindeki yaklaşımın da doğrudan çatışma yerine küresel ekonomiyi ABD’nin uzun vadeli gücünü destekleyecek biçimde sessizce yeniden şekillendirmeyi hedefleyen uzun oyun olarak okunabileceği ifade ediliyor.",
+          "group" : "",
+          "id" : "1E4DD141-D2B1-5762-A2D0-A109146F9720",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "ABD’nin Çin’e karşı nadir toprak ve enerji stratejisinde uzun oyun"
+        },
+        {
+          "atomID" : "A30D24DC-1A07-5FC1-A462-934096FBEECF",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Malta’da cumartesi günü yapılan parlamento seçiminde ilk sonuçlar, İşçi Partisi’nin jeopolitik ve ekonomik istikrarsızlık kaygılarının gölgesinde tarihi dördüncü dönemini güvence altına aldığını gösterdi. Güney Akdeniz’deki ada ülkesinde katılım oranı yüzde 87,4 olarak kaydedildi; bu oran 2022 seçimlerine göre hafif bir artışa işaret etti.",
+          "group" : "",
+          "id" : "A30D24DC-1A07-5FC1-A462-934096FBEECF",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Malta’da İşçi Partisi dördüncü kez iktidara gidiyor"
+        },
+        {
+          "atomID" : "11F14189-0EE2-5181-AB31-D43928AB92B4",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Çin’de ortaöğretim meslek okullarından mezun olan yaklaşık 4 milyon çocuk için staj zorunlu tutuluyor. Ancak bazı stajların tehlikeli koşullar içerdiği, hatta ölüme yol açabildiği belirtiliyor. Haberde, bu uygulamanın çocuk işçiliğini nasıl mümkün kıldığına dikkat çekiliyor.",
+          "group" : "",
+          "id" : "11F14189-0EE2-5181-AB31-D43928AB92B4",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Çin’de zorunlu stajlar çocuk işçiliği tartışmasını büyütüyor"
+        },
+        {
+          "atomID" : "85B73410-F7F1-52FD-B42C-43FB5115C8EE",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Hong Kong’da farklı alanlarda öne çıkan gelişmeler gündemde: PolyU İşletme Fakültesi, DBA programının 30. yılını 400’den fazla akademi ve iş dünyası liderinin katıldığı bir akşam yemeğiyle kutladı; etkinliğe Hong Kong Mali Sekreteri Paul Chan onur konuğu olarak katıldı. Aynı dönemde kentte Hongkong Post’un artan mali açıkları için 4,6 milyar Hong Kong doları aktarılması tartışılırken, kanser vakaları ve ölüm oranlarına ilişkin sağlık değerlendirmeleri, ana karalı öğrencilerin yüksek kira ve iş kaygısıyla yaşadığı baskılar, Mid-Levels’teki şüpheli yangında bir kadının ölümü ve Tai Po’daki ölümcül yangından etkilenenlere yönelik tazminat ve hukuki destek adımları da öne çıktı. Öte yandan MiniMax’in ana karada listelemeye hazırlanması, Hong Kong’un yeni offshore yuan fonu seçeneğini değerlendirmesi, öğrenci yurdu piyasasında daha büyük işlemlerin hız kazanması ve daha fazla Hong Konglunun Orta Asya ile İspanya gibi alternatif rotalara yönelmesi de kentteki ekonomik ve toplumsal değişimin işaretleri olarak dikkat çekiyor.",
+          "group" : "",
+          "id" : "85B73410-F7F1-52FD-B42C-43FB5115C8EE",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hong Kong’da eğitim, ekonomi, sağlık ve toplumsal gündem öne çıktı"
+        },
+        {
+          "atomID" : "EE7B0DFC-FE52-5143-95AB-3A27277FA35F",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Çin’de resmi imalat satın alma yöneticileri endeksi mayısta nisandaki 50,3 seviyesinden 50’ye gerileyerek fabrika faaliyetlerinde yavaşlamaya işaret etti. Aynı dönemde yayımlanan bir rapor, Çin’in nükleer füze silolarının yakınında, genişleyen hareketli füze fırlatıcı filosu ve hava savunma bataryaları için kullanılabilecek 80’den fazla fırlatma rampası inşa ettiğini ortaya koydu.",
+          "group" : "",
+          "id" : "EE7B0DFC-FE52-5143-95AB-3A27277FA35F",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Çin’de fabrika faaliyeti yavaşladı, füze siloları yakınında yeni rampalar inşa ediliyor"
+        },
+        {
+          "atomID" : "96BAB83C-014C-5977-AF26-6ACE557AE87D",
+          "category" : "Ekonomi",
+          "descriptionTR" : "Hiroshima hibakusha grubunun başkanı Mimaki görevinden ayrılırken, yerine grubun başkan yardımcısı ve eski Hiroshima Barış Anıtı Müzesi müdürü 86 yaşındaki Hiroshi Harada’nın geçeceği bildirildi. Öte yandan, baskı altındaki Nidec’in şirket alımlarını askıya alacağı ve dış uzmanlardan oluşan bir kurulun, performans hedeflerini tutturma baskısını usulsüzlüklerin arkasındaki etkenlerden biri olarak değerlendirdiği aktarıldı.",
+          "group" : "",
+          "id" : "96BAB83C-014C-5977-AF26-6ACE557AE87D",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hiroshima hibakusha grubunda görev değişimi, Nidec alımları askıya alıyor"
         }
       ],
-      "packetSpot" : "Putin'in imaj stratejisi ne kadar etkili? Sánchez skandalları nasıl aşacak?",
-      "packetTitle" : "Liderlerin İmaj ve Güç Mücadelesi",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Çin'in sanayi politikaları nereye gidiyor? Pakistan'ın ekonomik reformları ne kadar derinleşecek?",
+      "packetTitle" : "Asya Ekonomilerinde Yapısal Dönüşüm ve Stratejik Hamleler",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 4
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c0r2d40r91qo#0",
-          "category" : "Diplomasi",
-          "descriptionTR" : "ABD Başkanı, danışmanlarıyla bir araya geldi. Yetkililer, ABD ve İran'ın bir anlaşma çerçevesi üzerinde uzlaştığını doğruladı.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/why-china-never-captured-the-indian-imagination\/",
+          "category" : "Kültür",
+          "descriptionTR" : "Gelenekleri, normları, dili, yemekleri ve müzikleri farklı. Siyasete, fikirlere ve dine yaklaşımları da kökten farklı.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c0r2d40r91qo#0",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/why-china-never-captured-the-indian-imagination\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Trump'ın İran kararı toplantısından anlaşma çıkmadı"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Çin Neden Hindistan’ın Hayal Gücünü Hiç Ele Geçiremedi"
+        },
+        {
+          "atomID" : "https:\/\/www.scmp.com\/news\/world\/europe\/article\/3355487\/italy-bans-kanye-west-concert-over-security-concerns?utm_source=rss_feed",
+          "category" : "Kültür",
+          "descriptionTR" : "Yetkililer, ABD’li rapçi Kanye West’in 18 Temmuz’da kuzey İtalya’daki Reggio Emilia kentinde sahne alması planlanan konserinin kamu güvenliği gerekçesiyle yasaklandığını söyledi. Eyalet valisi Salvatore Angieri, kararın yerel Yahudi cemaati de dahil olmak üzere çeşitli kurumların talepleri üzerine alındığını belirtti. Cuma akşamı yayımlanan açıklamaya göre, bu kurumlar rapçinin Pulse of Gaia Festivali kapsamında sahneye çıkmasına ilişkin “çekincelerini” dile getirmişti. Bir başka konser de...",
+          "group" : "",
+          "id" : "https:\/\/www.scmp.com\/news\/world\/europe\/article\/3355487\/italy-bans-kanye-west-concert-over-security-concerns?utm_source=rss_feed",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "İtalya, güvenlik endişeleri nedeniyle Kanye West konserini yasakladı"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cx21k1dkygno#2",
+          "category" : "Kültür",
+          "descriptionTR" : "Taiwan Travelogue, Mandarin Çincesinden çevrilerek bu prestijli ödülü kazanan ilk roman oldu.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cx21k1dkygno#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Yemek üzerine bu roman bu yıl Booker Ödülü’nü nasıl kazandı?"
+        },
+        {
+          "atomID" : "article-71040875",
+          "category" : "Kültür",
+          "descriptionTR" : "Tiffany Trump, eşiyle birlikte Agra’da sıkı güvenlik önlemleri altında Tac Mahal’i ziyaret ederek yapının tarihini ve güzelliğini inceledi.",
+          "group" : "",
+          "id" : "article-71040875",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Donald Trump’ın kızı Tac Mahal’i ziyaret etti"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642063\/",
+          "category" : "Kültür",
+          "descriptionTR" : "22 yaşındaki Kitamura, Belçika Ulusal Orkestrası eşliğinde Rus besteci Sergey Prokofyev’in Senfoni-Konçerto’su ve başka eserler seslendirdi.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642063\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Japon çellist Kitamura, Brüksel yarışmasında beşinci oldu"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642039\/",
+          "category" : "Kültür",
+          "descriptionTR" : "“Gyotaku” ya da balık baskısı, 19. yüzyılda Japonya’daki balıkçıların avlarını tam olarak belgelemek için geliştirdiği bir yöntem olarak ortaya çıktı.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642039\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Balık baskıları, yakalamadan tuvale uzanarak güzel sanata dönüştü"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642004\/",
+          "category" : "Kültür",
+          "descriptionTR" : "Carl Hirschmann ve eski Champagne mahzen ustası Régis Camus, Avrupa ile Japonya arasında köprü kuran bir sake üretmek için şarap dünyasından tekniklere yaslanıyor.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642004\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Sake’ye şampanya ruhu katan Fransızlar"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642005\/",
+          "category" : "Kültür",
+          "descriptionTR" : "Diğer bazı fermente gıdaların aksine, \"nattō\" yapmak, sürecin merkezindeki bakterilerin ürettiği ısıyı ve yoğuşmayı dışarı atabilme becerisi gerektiriyor.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642005\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Japonya’nın meşhur yapışkan soya fasulyesinden azıcık bile yeter"
+        },
+        {
+          "atomID" : "4B2E5586-C12E-57F2-9277-B05F70DB7F5F",
+          "category" : "Kültür",
+          "descriptionTR" : "Güney Kore ile Japonya arasındaki Dokdo\/Takeshima anlaşmazlığı, yapay zeka üretimi K-pop şarkıları üzerinden dijital milliyetçiliğe dönüşürken; Güney Kore’de Yeoju Seramik Festivali de ülkenin çömlekçilik mirasını tanıtmak için düzenlenen etkinlikte çekiliş ödülü olarak Çin yapımı seramik ürünler dağıtılması nedeniyle özür dilemek zorunda kaldı. Sosyal medyada tepki çeken olayda, bir kazanan küçük ay küresinin üzerinde “Made in China” etiketi gördüğünü söyleyerek şaşkınlığını dile getirdi.",
+          "group" : "",
+          "id" : "4B2E5586-C12E-57F2-9277-B05F70DB7F5F",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Dokdo gerilimi ve Yeoju Festivali'nde Çin yapımı ödül tepkisi"
         }
       ],
-      "packetSpot" : "Trump'ın İran kararının perde arkasında ne var? Anlaşma neden sağlanamadı?",
-      "packetTitle" : "Trump ve İran: Diplomatik Çıkmazın Derinlikleri",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Kültür çatışmaları sanatı nasıl etkiliyor? Asya'dan Avrupa'ya uzanan bu etkiler neler?",
+      "packetTitle" : "Sanat ve Kültürde Asya-Avrupa Etkileşimleri",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 5
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5yedendprko#1",
-          "category" : "İnsan Hakları",
-          "descriptionTR" : "Gana'nın yeni yasasına göre eşcinsel, lezbiyen veya transgender olarak tanımlanan kişilere yönelik eylemler hapis cezasıyla cezalandırılacak.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/where-does-bangladeshs-once-dominant-awami-league-stand-today\/",
+          "category" : "Politika",
+          "descriptionTR" : "Bangladeş siyasetinin bir dönem temel dayanaklarından biri olan eski iktidar partisi, bugün kamusal siyasi hayattan büyük ölçüde silinmiş durumda. Ancak liderleri meydan okumayı sürdürüyor.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5yedendprko#1",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/where-does-bangladeshs-once-dominant-awami-league-stand-today\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Gana Parlamentosu anti-LGBTQ+ yasasını kabul etti"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Bir zamanlar baskın olan Bangladeş Awami Ligi bugün nerede duruyor?"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/there-is-more-than-one-cockroach-in-narendra-modis-kitchen\/",
+          "category" : "Politika",
+          "descriptionTR" : "Hamamböceği Janta Partisi’nin ortaya çıkışı, Modi hükümeti içindeki ve ona yönelik hoşnutsuzluğun göründüğünden çok daha derin olabileceğine işaret ediyor.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/there-is-more-than-one-cockroach-in-narendra-modis-kitchen\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Narendra Modi’nin Mutfağında Birden Fazla Hamamböceği Var"
+        },
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/?t=1780241508",
+          "category" : "Politika",
+          "descriptionTR" : "50 milyondan fazla Etiyopyalı oy kullanmak üzere kayıtlı; seçmen kitlesinin önemli bir bölümünü gençler ve kadınlar oluşturuyor.",
+          "group" : "",
+          "id" : "https:\/\/www.aljazeera.com\/?t=1780241508",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Etiyopya seçimleri: Partiler, ittifaklar ve adaylar"
+        },
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/?t=1779756980",
+          "category" : "Politika",
+          "descriptionTR" : "California Demokratların kalesi sayılıyor; ancak eyaletteki açık ön seçim sistemi sayesinde Cumhuriyetçiler bir üst tura çıkma konusunda önde görünüyor.",
+          "group" : "",
+          "id" : "https:\/\/www.aljazeera.com\/?t=1779756980",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Demokratlar California valilik yarışında dışarıda kalabilir mi?"
+        },
+        {
+          "atomID" : "https:\/\/www.scmp.com\/news\/world\/africa\/article\/3355466\/nigerias-opposition-divided-incumbent-tinubu-eyes-second-term?utm_source=rss_feed",
+          "category" : "Politika",
+          "descriptionTR" : "Nijeryalı siyasetçi Peter Obi, Batı Afrika ülkesinde ocak ayında yapılacak seçimlerde cumhurbaşkanlığına aday olacak; bu da görevdeki Bola Tinubu’ya karşı muhalefetin bir kez daha parçalı kalacağı anlamına geliyor. 2023’te Tinubu’nun kıl payı kazandığı seçimde üçüncü olan Obi, cumartesi gecesi Nigeria Democratic Congress partisinin adayı olarak onaylandı. Kabul konuşmasında güvensizlikle mücadele etme, sağlık sigortası kapsamını iki katına çıkarma ve “okullara, öğretmenlere, teknolojiye ve...” büyük yatırımlar yapma sözü verdi.",
+          "group" : "",
+          "id" : "https:\/\/www.scmp.com\/news\/world\/africa\/article\/3355466\/nigerias-opposition-divided-incumbent-tinubu-eyes-second-term?utm_source=rss_feed",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Nijerya’da muhalefet bölünmüş durumda, görevdeki Tinubu ikinci dönem için gözünü dikti"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642067\/",
+          "category" : "Politika",
+          "descriptionTR" : "Başkanın ve onun sosyal medya megafonunun desteklediği adaylar, Cumhuriyetçi önseçimlerde hâlâ ezici zaferler kazanıyor.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642067\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Trump kaybederken MAGA Cumhuriyetçileri neden kazanmaya devam ediyor?"
+        },
+        {
+          "atomID" : "48FD8AEA-6EC2-52D7-BF5F-AFA871DA439B",
+          "category" : "Politika",
+          "descriptionTR" : "Filipinler’de eski Devlet Başkanı Rodrigo Duterte’nin, uyuşturucuyla mücadele operasyonları sırasında en az 76 kişinin ölümüyle bağlantılı insanlığa karşı suçlamalar kapsamında üç ayrı suçtan yargılanmasına 30 Kasım’da başlanacağı açıklandı. Öte yandan Venezuela’da eski muhalefet adayı Edmundo González, ocakta Nicolás Maduro’yu deviren ABD askeri müdahalesinin ardından geçici Devlet Başkanı Delcy Rodríguez’in yönetiminin beşinci ayına yaklaşılırken başkanlık seçimleri yapılması çağrısında bulundu.",
+          "group" : "",
+          "id" : "48FD8AEA-6EC2-52D7-BF5F-AFA871DA439B",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Duterte’nin yargı tarihi açıklandı, González Venezuela’da seçim çağrısı yaptı"
+        },
+        {
+          "atomID" : "99FB0D2E-3C86-5946-A45D-8F73AD6C2C45",
+          "category" : "Politika",
+          "descriptionTR" : "Kamboçya’da eski muhalefet lideri Kem Sokha’ya kraliyet affı verildi. Karar, hükümetin çevrim içi dolandırıcılık merkezlerindeki artış ve organize suçla mücadeledeki rolü nedeniyle daha yakından incelendiği bir dönemde geldi. The Diplomat’a göre bu adım, Hun Sen yönetiminin dış baskıyı hissetmeye başladığına işaret ederken, dolandırıcılıkla mücadele söylemi de bu baskının etkisini yansıtıyor.",
+          "group" : "",
+          "id" : "99FB0D2E-3C86-5946-A45D-8F73AD6C2C45",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Kamboçya’da Kem Sokha’ya kraliyet affı"
+        },
+        {
+          "atomID" : "895B3212-5B33-53D6-AECE-A3734EA69D2C",
+          "category" : "Politika",
+          "descriptionTR" : "Çin liderinin olası ziyaretiyle ilgili söylentiler sürerken Kuzey Kore’nin kısa menzilli balistik füzeler fırlatması, Pyongyang’ın diplomatik takvimden bağımsız biçimde kendi askeri modernizasyon çizgisini sürdürdüğünü gösterdi. The Diplomat’ın değerlendirmesine göre, 1970’lerdeki Çin ile bugünkü Kuzey Kore arasında bazı kurumsal benzerlikler bulunsa da, iki ülkeyi bire bir karşılaştırmak yanıltıcı olabilir.",
+          "group" : "",
+          "id" : "895B3212-5B33-53D6-AECE-A3734EA69D2C",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Kuzey Kore, olası Çin ziyareti söylentileri sürerken füze fırlattı"
+        },
+        {
+          "atomID" : "255B2774-1388-5BD7-9488-443DCF4E4A70",
+          "category" : "Politika",
+          "descriptionTR" : "Twisha Sharma’nın 12 Mayıs’taki ölümü, cinayet ve intihar iddialarının karşı karşıya geldiği bir tartışmayı tetikleyerek medyada geniş yankı uyandırdı. Olayla bağlantılı olarak kayınvalidenin gözaltına alındığı bildirildi.",
+          "group" : "",
+          "id" : "255B2774-1388-5BD7-9488-443DCF4E4A70",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hint gelin Twisha Sharma’nın ölümü sonrası kayınvalide gözaltına alındı"
+        },
+        {
+          "atomID" : "56BF8A74-B8C6-5E93-944D-DC3C4E3E4531",
+          "category" : "Politika",
+          "descriptionTR" : "Yoon’un azledilmesinin ardından iktidardaki PPP’nin uzun süredir dayandığı tabanda desteğini yitirme riskiyle karşı karşıya olduğu belirtiliyor. Aynı süreçte Güney Kore-ABD ittifakında OPCON devri, ayrılma planı değil; 70 yıllık çerçeveye gerekli güncellemeleri zorunlu kılan yenilenmiş bir taahhüt olarak tanımlanıyor.",
+          "group" : "",
+          "id" : "56BF8A74-B8C6-5E93-944D-DC3C4E3E4531",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Yoon’un azli sonrası Güney Kore muhafazakârları yön arıyor"
+        },
+        {
+          "atomID" : "DF9672F9-2D00-5005-9051-AB11C54B464B",
+          "category" : "Politika",
+          "descriptionTR" : "Japonya’da üç muhalefet partisinin, mevcut Diet oturumunun 17 Temmuz’da sona ermesi beklenirken yeni bir ittifaka ilişkin planlarını temmuz ortasına kadar netleştirmeyi hedeflediği bildirildi. Öte yandan BJP’nin, yeni hükümete yönelik temaslar kapsamında Nepal iktidar partisi heyetini ağırlayacağı; bu ziyaretin de Dışişleri Bakanlığı Müsteşarı Vikram Misri’nin Katmandu programının iptal edilmesinden günler sonra gerçekleşmesinin dikkat çektiği aktarıldı.",
+          "group" : "",
+          "id" : "DF9672F9-2D00-5005-9051-AB11C54B464B",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Japon muhalefetinde ittifak arayışı, Nepal iktidar partisi heyetinin BJP temaslarıyla eşzamanlı gündemde"
+        },
+        {
+          "atomID" : "69784574-AA77-5331-9D36-FF30A27A9D2D",
+          "category" : "Politika",
+          "descriptionTR" : "Trump’ın doktoru, ABD Başkanı’nın ‘mükemmel sağlıkta’ olduğunu ve görev yapmaya ‘tamamen uygun’ bulunduğunu açıkladı. Trump’ın kendi ifadesiyle altı aylık sağlık kontrolü olarak yapılan muayene, ikinci dönemine dönüşünden bu yana kamuya açıklanan dördüncü tıbbi kontrol oldu. Öte yandan Trump, Vatikan’daki görüşme nedeniyle Papa XIV. Leo’ya yüklenirken, X’te daha önce Mr. Johnson tarafından paylaşılan ve Chicago belediye başkanının Vatikan’da Katolik Kilisesi’nin başıyla yaptığı görüşmeyi gösteren ekran görüntülerini paylaşarak belediye başkanını da ‘işe yaramaz’ diye niteledi.",
+          "group" : "",
+          "id" : "69784574-AA77-5331-9D36-FF30A27A9D2D",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Trump’ın doktoru sağlık durumunu ‘mükemmel’ ilan etti, Vatikan görüşmesi sonrası Papa XIV. Leo ve Chicago belediye başkanını hedef aldı"
+        },
+        {
+          "atomID" : "692F65BF-8DA3-5A7A-8605-E8D78C3BE202",
+          "category" : "Politika",
+          "descriptionTR" : "Japonya Savunma Bakanı Shinjiro Koizumi, Shangri-La Diyaloğu’nda Tokyo’nun militarist geçmişini yeniden canlandırdığı yönündeki Çin suçlamalarını reddederken, Çin’i askeri şeffaflıktan yoksun olmakla ve hızla silahlanmakla eleştirdi. Koizumi, Japonya’nın statükoyu kuvvet ya da zorlamayla tek taraflı değiştirme girişimlerine karşı olduğunu, savunma stratejisindeki değişikliklerin ülkeye daha işbirlikçi bir rol kazandıracağını söyledi; bu çıkışın Doğu ve Güney Çin denizlerindeki Pekin faaliyetlerine ve Tayvan çevresinde olası bir krize işaret ettiği değerlendirildi. Aynı zamanda analizlerde, Çin’in hem gelişmiş hem de gelişmekte olan ekonomileri sarsan çift yönlü ekonomik etkisine ve günümüz Çin söyleminin 1980’lerdeki “Japonya paniği”yle kurduğu paralellere dikkat çekildi.",
+          "group" : "",
+          "id" : "692F65BF-8DA3-5A7A-8605-E8D78C3BE202",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Japonya, Çin’in ‘yeni militarizm’ suçlamasını reddetti"
+        },
+        {
+          "atomID" : "324D69D5-F06B-50CB-840C-964316E2AA0D",
+          "category" : "Politika",
+          "descriptionTR" : "Tibet hareketinin, uzun süredir Dalay Lama’nın kişisel ahlaki otoritesine dayanan yapısının, onun sonrası dönemde Merkezi Tibet Yönetimi’nin daha fazla sorumluluk üstlenmesini gerektireceği değerlendiriliyor. Öte yandan Sri Lanka’da sekiz kutsal mekânın baş rahibi ya da koruyucusu, bir çocuğa cinsel saldırı ve tecavüz suçlamalarıyla tutuklandı ve şu anda kefaletle serbest bulunuyor.",
+          "group" : "",
+          "id" : "324D69D5-F06B-50CB-840C-964316E2AA0D",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Tibet hareketinin kurumsal geleceği ve Sri Lanka’da kutsal mekân başrahibine suçlama"
+        },
+        {
+          "atomID" : "D0D811F4-FD27-50D8-BE95-6A93CDAE61BA",
+          "category" : "Politika",
+          "descriptionTR" : "Paris Saint-Germain’in Şampiyonlar Ligi şampiyonluğunun ardından Paris başta olmak üzere Fransa’nın çeşitli kentlerinde gece boyunca süren kutlamalar şiddet olaylarına dönüştü. Fransız yetkililer, taraftarların yangınlar çıkardığını ve dükkânları tahrip ettiğini, Paris’te küçük bir grubun bir polis karakoluna baskın yapmaya çalıştığını bildirdi; gözaltı sayısı için 400’ün üzerinde ve 780’e kadar çıkan farklı değerlendirmeler aktarılırken, yaralı polis sayısı da 57 ile iki yüzü bulan yaralılar arasında değişen bilgilerle verildi. Pazar günü ise durumun büyük ölçüde kontrol altına alındığı belirtildi.",
+          "group" : "",
+          "id" : "D0D811F4-FD27-50D8-BE95-6A93CDAE61BA",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "PSG zaferi sonrası Fransa’da kutlamalar şiddete dönüştü"
+        },
+        {
+          "atomID" : "8377E5F4-EAF3-5DB1-B46F-649678B3AC36",
+          "category" : "Politika",
+          "descriptionTR" : "Kolombiyalı seçmenler, büyük olasılıkla cumhurbaşkanlığı seçimlerinin ilk turu niteliğindeki oylamada sandık başına giderek ülkenin yönünü belirleyecek. Sandıkta, mevcut hükümetin reformlarını genişletmeyi vadeden solcu senatör Ivan Cepeda, güvenlikte sert operasyon sözü veren bağımsız bir iş insanı ve ülkenin ilk kadın lideri olmayı hedefleyen sağcı bir senatör yarışıyor. Anketlerde önde görünen 63 yaşındaki Cepeda’nın Haziran’daki ikinci tura kalmamak için gereken yüzde 50 eşiğini aşması beklenmiyor; oylama, anayasanın “toplam barış” stratejisinin silahlı gruplarla çatışmayı sona erdirmekte başarısız olmasının ardından ikinci bir döneme izin vermediği bir dönemde yapılıyor.",
+          "group" : "",
+          "id" : "8377E5F4-EAF3-5DB1-B46F-649678B3AC36",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Kolombiya kritik seçimde barış, reform ve güvenlik arasında oy kullanıyor"
         }
       ],
-      "packetSpot" : "Gana'da insan hakları nasıl etkileniyor? Yeni yasa ne anlama geliyor?",
-      "packetTitle" : "Gana'da LGBTQ+ Haklarına Darbe",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Seçimler dünya genelinde neyi değiştirecek? Liderler ve partiler nasıl konumlanıyor?",
+      "packetTitle" : "Küresel Seçim Rüzgarı: Değişim ve İttifaklar",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 6
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/czj2ldllgwgo#1",
-          "category" : "Hukuk",
-          "descriptionTR" : "Bu ifade, ABD'nin en üst düzey savcısının Başkan Donald Trump tarafından görevden alınmasından yaklaşık bir ay sonra geldi.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/a-textbook-debate-why-russian-historians-told-kyrgyz-historians-to-ditch-the-term-colonialism\/",
+          "category" : "Tarih",
+          "descriptionTR" : "Meşruiyet tarihe bağlanıyorsa, o tarihin tam olarak nasıl yorumlandığı, tarihçilerle dolu konferans salonlarının çok ötesinde önem taşır.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/czj2ldllgwgo#1",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/a-textbook-debate-why-russian-historians-told-kyrgyz-historians-to-ditch-the-term-colonialism\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Eski ABD adalet bakanı, Epstein dosyalarının ele alınmasını savundu"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Bir Ders Kitabı Tartışması: Rus Tarihçiler Kırgız Tarihçilere Neden ‘Sömürgecilik’ Terimini Bırakmalarını Söyledi"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/ce9p5e1jg72o#2",
-          "category" : "Hukuk",
-          "descriptionTR" : "Güney Afrika'da Madlanga Komisyonu, Brezilya popo kaldırma ameliyatı rüşvet iddiaları ve başarısız uyuşturucu baskınları hakkında ifadeler dinliyor.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/reweaving-the-ruins-of-the-american-secret-war\/",
+          "category" : "Tarih",
+          "descriptionTR" : "Barış verilmez; barış, bizi yok etmek için tasarlanmış parçaların içinden yoğrulur, geri alınır ve yeniden kurulur.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/ce9p5e1jg72o#2",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/reweaving-the-ruins-of-the-american-secret-war\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Sevgiliden gelen 'hediyeler' ve başarısız kokain baskınları: Güney Afrika'da polis soruşturması"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Amerikan Gizli Savaşının Harabelerini Yeniden Dokumak"
         }
       ],
-      "packetSpot" : "Epstein dosyaları neden tartışılıyor? Güney Afrika'da polis hangi suçlamalarla karşı karşıya?",
-      "packetTitle" : "Adaletin Gölgesinde: Epstein ve Güney Afrika Soruşturmaları",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Rus ve Kırgız tarihçileri arasında hangi terimler tartışma yaratıyor? Amerika'nın gizli savaşları nasıl yeniden değerlendiriliyor?",
+      "packetTitle" : "Tarihi Yeniden Yazma Çabaları",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 7
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c794g80lw74o#2",
-          "category" : "Çevre",
-          "descriptionTR" : "Çiftçiler, hektar başına binlerce farenin mahsulleri yok ettiğini ve evlere girdiğini bildiriyor.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/understanding-cambodias-scam-economy-with-jacob-sims\/",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Dolandırıcılık ekonomisi, siber dolandırıcılığı insan kaçakçılığı ve kara para aklamayla birleştiren, siyasi koruma altında büyüyen sanayileşmiş bir sistemdir.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c794g80lw74o#2",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/understanding-cambodias-scam-economy-with-jacob-sims\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Avustralyalı çiftçiler fare istilasıyla mücadele ediyor"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Jacob Sims ile Kamboçya’nın dolandırıcılık ekonomisini anlamak"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/chinas-new-type-054b-frigate-joins-liaoning-carrier-group-for-first-time-in-western-pacific\/",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Japonya, PLAN uçak gemisi taarruz grubunun parçası olarak ilk kez bir Jiangkai III sınıfı fırkateynin konuşlandırıldığını doğruladı; bu gelişme, Çin’in açık denizlerdeki deniz gücü entegrasyonunu hızlandırdığını gösteriyor.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/chinas-new-type-054b-frigate-joins-liaoning-carrier-group-for-first-time-in-western-pacific\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Çin’in yeni Tip 054B fırkateyni, Liaoning uçak gemisi grubuna Batı Pasifik’te ilk kez katıldı"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/who-are-asias-top-arms-exporters\/",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Asya, halihazırda tam teşekküllü iki silah ihracatı gücüne ev sahipliği yapıyor; ancak daha birçok ülke dünyanın en büyük savunma ihracatçıları arasına girmeyi umuyor.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/who-are-asias-top-arms-exporters\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Asya’nın önde gelen silah ihracatçıları kimler?"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/the-new-narco-sea-routes-how-iuu-fishing-networks-are-fueling-drug-trafficking-across-the-indo-pacific\/",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Yasadışı balıkçılığa karışan aynı ağlar, ulusötesi uyuşturucu kaçakçılığı için lojistik damarlar hâline geliyor. Bu, Hint-Pasifik güvenliği açısından giderek büyüyen bir sorun.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/the-new-narco-sea-routes-how-iuu-fishing-networks-are-fueling-drug-trafficking-across-the-indo-pacific\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Yeni Narko-Deniz Rotaları: Kaçak, Bildirilmemiş ve Düzenlenmemiş Balıkçılık Ağları Hint-Pasifik’te Uyuşturucu Kaçakçılığını Nasıl Besliyor?"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/how-mizo-rebels-hoodwinked-indian-and-pakistani-intelligence-agencies\/",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Zoramthanga, otobiyografisinde MNF isyancılarının nasıl birden fazla Pakistan pasaportu temin ettiğini ve Yeni Delhi’deki bir güvenli evden nasıl kaçtıklarını anlatıyor.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/how-mizo-rebels-hoodwinked-indian-and-pakistani-intelligence-agencies\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Mizo isyancılar Hint ve Pakistan istihbaratını nasıl aldattı?"
+        },
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/?t=1779616169",
+          "category" : "Güvenlik",
+          "descriptionTR" : "2025’te Brezilya’nın en ölümcül polis baskınında 120 kişi öldü; olay, delillerin usulsüz biçimde ele alınması ve cezasızlık örüntüsünü ortaya çıkardı.",
+          "group" : "",
+          "id" : "https:\/\/www.aljazeera.com\/?t=1779616169",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Rio’nun Bitmeyen Savaşı"
+        },
+        {
+          "atomID" : "https:\/\/www.scmp.com\/news\/asia\/australasia\/article\/3355437\/new-zealand-tells-us-it-lacks-billions-under-couch-raise-defence-spending?utm_source=rss_feed",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Maliye Bakanı Nicola Willis, Yeni Zelanda’nın savunma harcamalarını ABD’nin bekleyebileceği seviyelere çıkarmak için yeterli mali alanı olmadığını söyledi. ABD Savunma Bakanı Pete Hegseth, cumartesi günü Singapur’da düzenlenen bir Asya güvenlik forumunda delegelere, Yeni Zelanda’nın savunma harcamalarını ekonominin yüzde 2’sine çıkarma hedefinin yeterli olmadığını ve bunun “bedavacılığa” örnek teşkil ettiğini söyledi. Hegseth, ülkelerin yüzde 3,5’e kadar uzanan bir hedefi amaçlaması gerektiğini ima etti. Willis, bunun “son derece zorlayıcı” olacağını söyledi...",
+          "group" : "",
+          "id" : "https:\/\/www.scmp.com\/news\/asia\/australasia\/article\/3355437\/new-zealand-tells-us-it-lacks-billions-under-couch-raise-defence-spending?utm_source=rss_feed",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Yeni Zelanda, savunma harcamalarını artırmak için ABD’ye ‘koltuğun altındaki milyarlarca doları’ olmadığını söylüyor"
+        },
+        {
+          "atomID" : "article-71043911",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Son saldırıyla birlikte, AFP’nin derlemesine göre, Trump yönetiminin eylülde başlattığı operasyonun ardından öldürülenlerin toplam sayısı 200’ü aştı.",
+          "group" : "",
+          "id" : "article-71043911",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "ABD, ‘narko’ teknesine düzenlenen saldırıda üç kişinin öldüğünü açıkladı"
+        },
+        {
+          "atomID" : "article-71041185",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Otobüste, yakındaki Pécs Spor Okulu’nun aerobik bölümünden 19 genç sporcu ile üç antrenör, altı veli ve sürücü dahil 28 kişi bulunuyordu.",
+          "group" : "",
+          "id" : "article-71041185",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Macaristan’da genç sporcuları taşıyan otobüs kaza yaptı; sürücü öldü, 23 kişi yaralandı"
+        },
+        {
+          "atomID" : "article-71040516",
+          "category" : "Güvenlik",
+          "descriptionTR" : "ABD Savunma Bakanı Pete Hegseth, Çin’in tarihsel ölçekteki askeri yığınağı ve bölge içinde ve ötesinde askeri faaliyetlerini genişletmesi karşısında haklı bir alarm bulunduğunu söyledi.",
+          "group" : "",
+          "id" : "article-71040516",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Pentagon şefi, Çin’in askeri yığınağı konusunda ‘alarm’ vererek müttefikleri savunma harcamalarını artırmaya çağırdı"
+        },
+        {
+          "atomID" : "F8CD2D1F-A31B-545C-A2F4-05EF78608767",
+          "category" : "Güvenlik",
+          "descriptionTR" : "İsrail ordusu, güney Lübnan’da Nabatiye kenti yakınlarındaki Beaufort Kalesi’nin bulunduğu stratejik dağlık noktayı ele geçirdiğini açıkladı. Haçlılar döneminde inşa edilen ve yaklaşık 900 yıllık olduğu belirtilen kale ile birlikte stratejik bir sırt hattının alındığı, bunun son çeyrek yüzyıldaki en derin kara harekâtı olduğu ifade edildi. Bölgedeki ilerleyişin, günler süren hava saldırıları ve yakın köylerde İsrail askerleri ile Hizbullah militanları arasındaki yoğun çatışmaların ardından geldiği, İsrail’in kara operasyonunu genişlettiği ve Başbakan Netanyahu’nun Hizbullah’ı hedef almak için ilerleyişin derinleştirilmesi talimatı verdiği aktarıldı.",
+          "group" : "",
+          "id" : "F8CD2D1F-A31B-545C-A2F4-05EF78608767",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "İsrail ordusu, Lübnan’daki Beaufort Kalesi’ni ele geçirdi"
+        },
+        {
+          "atomID" : "AAD4AB3A-A113-5AEE-8BA8-84F14AF77F72",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Laos’ta ani selin bastığı bir mağarada altın aramak için dar tünellere giren yedi köylüden dördü, yaklaşık 10 gün sonra kurtarıldı. Kurtarma ekipleri son iki kayıp kişiyi aramayı sürdürürken, kurtarılanların operasyon ekiplerine yol gösterdiği bildirildi; gruptan iki kişinin ise hâlâ kayıp olduğu belirtiliyor.",
+          "group" : "",
+          "id" : "AAD4AB3A-A113-5AEE-8BA8-84F14AF77F72",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Laos’taki sel basan mağarada 4 kişi kurtarıldı, 2 kişi aranıyor"
+        },
+        {
+          "atomID" : "C9DDF802-2DBD-5180-A6FA-0E576E3159F8",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Japonya ile Filipinler’in, Devlet Başkanı Ferdinand Marcos Jr.’ın bu hafta ilerleyen günlerde Tokyo’ya yapacağı ziyaret sırasında istihbarat paylaşımına zemin hazırlayacak Genel Askerî Bilgi Güvenliği Anlaşması’nı (GSOMIA) gündeme alması bekleniyor. Görüşmelerde ayrıca Japonya Kara Öz Savunma Kuvvetleri’ne ait Type-88 karadan gemiye güdümlü füzelerin ihracatının da değerlendirilmesi öngörülüyor.",
+          "group" : "",
+          "id" : "C9DDF802-2DBD-5180-A6FA-0E576E3159F8",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Japonya ve Filipinler istihbarat paylaşımı ve füze ihracatını görüşecek"
+        },
+        {
+          "atomID" : "25A0104B-81C8-5C6D-A8A6-CD8D0D232FE7",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Mayıs 2025 Hindistan-Pakistan krizinin ardından yapılan değerlendirmeler, Güney Asya’da stratejik bir fren mekanizması olmadan çok alanlı ve temassız harp kabiliyetlerine yönelimin kriz istikrarını zayıflattığını ortaya koyuyor. ABD Savaş Bakanı Pete Hegseth de Trump’ın ateşkes iddiasına destek verirken, hem Hindistan’ın hem Pakistan’ın birbirini güvenlik kaygıları penceresinden görmeyi sürdüreceğini söyledi.",
+          "group" : "",
+          "id" : "25A0104B-81C8-5C6D-A8A6-CD8D0D232FE7",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hindistan-Pakistan krizinde sınırlı savaşın zemini zayıflıyor"
+        },
+        {
+          "atomID" : "B8C0CC11-79C2-5AB9-8B45-A992DBBC52F6",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Malezya Savunma Bakanı Mohamed Khaled Nordin, Singapur’daki Shangri-La Diyaloğu’nda Norveç’in Kuala Lumpur ile yaptığı füze anlaşmasını iptal etmesine uluslararası toplumun verdiği “fazlasıyla sönük” tepkiyi eleştirerek, küresel kuralların büyük güçlerin iradesine tabi olup olmadığını sorguladı. Khaled, Oslo’nun kararına yönelik “sağır edici sessizliğin” bazı ülkelerin denetimin dışında olduğu mesajını verdiğini söyledi; öte yandan Endonezya da Cumhurbaşkanının görevden ayrılmasına bahis açan tartışmalı tahmin piyasası Polymarket’e erişimi engelleyerek, Güneydoğu Asya’da platformu yasaklayan ikinci ülke oldu.",
+          "group" : "",
+          "id" : "B8C0CC11-79C2-5AB9-8B45-A992DBBC52F6",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Malezya Norveç’in füze anlaşması iptaline tepki gösterdi, Endonezya Polymarket’i yasakladı"
+        },
+        {
+          "atomID" : "CEF4284D-44B0-5C33-8712-E0F2C7460EEA",
+          "category" : "Güvenlik",
+          "descriptionTR" : "İsrail’in Lübnan’ın güneyine yönelik saldırıları Sur kentinde geniş yıkıma yol açarken, İsrail güçlerinin Litani Nehri’nin kuzeyine geçerek Beaufort Kalesi’ni ele geçirdiği ve fiilî askerî denetim alanını Zahrani Nehri yönüne doğru genişlettiği bildirildi. Lübnan Başbakanı Nevaf Selam, saldırıların ardından ülkenin \"tehlikeli\" bir tırmanışla karşı karşıya olduğunu söyleyerek hızlı ve gerçek bir ateşkes çağrısı yaptı.",
+          "group" : "",
+          "id" : "CEF4284D-44B0-5C33-8712-E0F2C7460EEA",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "İsrail’in Lübnan saldırıları Sur’u vurdu, güçler Litani’nin kuzeyine geçti"
+        },
+        {
+          "atomID" : "8D228963-C0AF-5FB9-BE7B-57F7626811B6",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Merkez Laos’taki bir mağarada ani sel nedeniyle mahsur kalan iki kişiyi kurtarmak için ekipler zamana karşı yarışıyor. Kurtarma çalışmaları şiddetli yağışlar ve ekipman arızaları nedeniyle zorlaşırken, daha önce kurtarılan erkeklerin mağara sistemi hakkında verdiği bilgilerin önemli kabul edildiği ve kalan iki kişi için arama planının hazırlanmasında kullanıldığı bildirildi.",
+          "group" : "",
+          "id" : "8D228963-C0AF-5FB9-BE7B-57F7626811B6",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Laos mağarasında mahsur kalan iki kişi için arama sürüyor"
+        },
+        {
+          "atomID" : "F3B1E55E-5872-5CFD-83F1-33F6F9C7651F",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Newark Liberty Uluslararası Havalimanı’ndan İspanya’nın Palma de Mallorca kentine giden United Airlines seferi, uçuş sırasında ortaya çıkan olası bir güvenlik tehdidi nedeniyle yarı yoldan geri döndü. Yerel saatle yaklaşık 18.00’de havalanan Boeing 767 tipi uçak, New York ve New Jersey Liman İdaresi’ne göre saat 21.37’de yeniden Newark’a indi; uçakta 190 yolcu ve 12 mürettebat bulunuyordu. Havayolu şirketi ve hava trafik kontrolü kayıtlarına göre güvenlik görevlileri inceleme yapmak üzere...",
+          "group" : "",
+          "id" : "F3B1E55E-5872-5CFD-83F1-33F6F9C7651F",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "United Airlines uçağı güvenlik tehdidi şüphesiyle Newark’a döndü"
+        },
+        {
+          "atomID" : "76E601ED-BC2C-5CA0-B70A-5C0429A3E17A",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Doğu Çin’in Zhejiang eyaletine bağlı Hangzhou’da Wang soyadlı bir kadın, 23 Mayıs gecesi arkadaşıyla Fuxing Köprüsü’nün bisiklet şeridinde elektrikli bisikletle ilerlerken boynuna aniden olta misinası dolandığını, olayın çok hızlı geliştiği için bisikleti durduramadığını anlattı. Aynı dönemde Çin anakarasında geniş yankı uyandıran başka bir haberde ise yine Wang soyadlı bir kadın, 2020’de Jiangsu eyaletinin Suzhou kentindeki Meixi Kozmetik Cerrahi Kliniği’nde geçirdiği başarısız çift göz kapağı ameliyatı sonrası gözlerini kapatarak uyuyamadığını ve sürekli ağladığını, klinikle yaşadığı hukuki anlaşmazlığı paylaştı.",
+          "group" : "",
+          "id" : "76E601ED-BC2C-5CA0-B70A-5C0429A3E17A",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Çin’de Wang adlı kadınların yaşadığı iki ayrı olay gündem oldu"
+        },
+        {
+          "atomID" : "ECAAF691-7554-579A-8163-AD0BA74EF8F3",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Hindistan’da bir yandan Çin’in Arunachal Pradesh ve Tawang üzerindeki iddialarına karşı Yeni Delhi’nin sınır bölgesini ulusal kimliğin parçası olarak güçlendirme çabaları öne çıkarken, diğer yandan Madhya Pradesh’teki tartışmalı Bhojshala kompleksine ilişkin yüksek mahkeme kararı yeni bir gerilim başlığı yarattı. Kompleksin Hindu tanrıçası Saraswati’ye adanmış bir tapınak ile ortaçağ döneminden bir Sufi azizle ilişkilendirilen camiyi aynı alanda barındırdığı belirtilirken, Ladakh’ta beş yeni ilçe kurulmasının da huzursuz bölgedeki Budist-Müslüman dayanışmasını zayıflatabileceği yönünde endişeler dile getiriliyor.",
+          "group" : "",
+          "id" : "ECAAF691-7554-579A-8163-AD0BA74EF8F3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hindistan’da tartışmalı bölgeler ve kutsal alanlar üzerinden egemenlik ve kimlik gerilimi"
+        },
+        {
+          "atomID" : "4E352AD7-8B1F-5BAD-956F-10E93A87534A",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Myanmar’ın Shan eyaletinde, Namhkam ilçesine bağlı Kaungtup köyünde maden için kullanılan patlayıcıların depolandığı belirtilen bir binada pazar günü meydana gelen patlamada en az 46 kişi öldü, yaklaşık 70 kişi yaralandı. Yerel medya ve bağımsız kaynaklar, Çin sınırına yaklaşık 3 kilometre mesafedeki bölgenin Ta’ang Ulusal Kurtuluş Ordusu’nun kontrolünde olduğunu aktarırken, aynı gün Myanmar’ın Rakhine eyaletindeki Htan Shauk Khan’da sivillerin ölümüne ilişkin suçlamalar ve bölge sakinlerinin hava saldırıları ile topçu ateşine işaret ettiği de bildirildi.",
+          "group" : "",
+          "id" : "4E352AD7-8B1F-5BAD-956F-10E93A87534A",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Myanmar’ın kuzeydoğusundaki patlayıcı deposu patladı: en az 46 ölü, 70 yaralı"
+        },
+        {
+          "atomID" : "268B3788-73BD-539D-915C-D3180B6BDCFE",
+          "category" : "Güvenlik",
+          "descriptionTR" : "El Cezire’nin araştırmasına göre Gazze savaşı sırasında en az 51 ülke ve bölgeden İsrail’e askeri amaçlı mal sevkiyatı sürdü. Aynı süreçte uydu görüntüleri, İsrail’in Gazze’nin güneyindeki kontrolünü genişletmesiyle bölgede oluşan yıkımı ortaya koydu; görüntülerin, Netanyahu’nun orduya Gazze’nin yüzde 70’ini işgal etme talimatı vermesinin ardından sahadaki değişimi yansıttığı aktarıldı.",
+          "group" : "",
+          "id" : "268B3788-73BD-539D-915C-D3180B6BDCFE",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Gazze savaşında İsrail’e 51 ülkeden silah sevkiyatı ve güneyde yıkım"
+        },
+        {
+          "atomID" : "B9026331-E25C-5BB5-AA3B-1AF51034C383",
+          "category" : "Güvenlik",
+          "descriptionTR" : "ABD Donanması’nın Çin’le filonun büyüklüğü ve deniz gücü yarışında geri kalmamak için gemi tasarım ve inşasında Güney Kore ve Japonya gibi müttefiklere yönelme seçeneğini değerlendirdiği, bunun için gelecek mali yıl bütçesinde 1,85 milyar dolar ayrıldığı bildirildi. Aynı çerçevede ABD, Avustralya ve Britanya ile Aukus kapsamında su altı drone teknolojisi geliştirirken, revize edilen savunma anlaşması uyarınca Avustralya’ya yalnızca kullanılmış nükleer denizaltı gönderme planı da gündemde. Washington’un Filipinler, Güney Kore ve Hindistan’la yürüttüğü temaslar ise ekonomik güvenlik, nükleer tahrikli denizaltı talebi ve Hint Okyanusu’nda güç dengesi gibi başlıklarda Asya’daki güvenlik ve denge arayışını öne çıkarıyor.",
+          "group" : "",
+          "id" : "B9026331-E25C-5BB5-AA3B-1AF51034C383",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "ABD, Çin’le deniz rekabetinde Asya müttefiklerine daha fazla yaslanıyor"
+        },
+        {
+          "atomID" : "EF491B9F-1F9F-5DA6-A05B-34D44701A4DB",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Ukrayna, son aylarda Rusya’nın petrol ve gaz tesislerine yönelik saldırılarını artırdığını, enerji sektörünün Moskova’nın dört yılı aşkın süredir devam eden işgalini hem finanse ettiğini hem de doğrudan beslediğini savunuyor. Kiev, Rus enerji hedeflerini vurduğunu ve Kremlin’in işgali altındaki nükleer santrali hedef almadığını belirtirken, Rusya’nın da uzun menzilli balistik füzelerle Ukrayna’nın elektrik şebekesine zarar verdiği ve kentleri ağır biçimde vurduğu aktarılıyor; Kiev ise daha fazla saldırı bekliyor.",
+          "group" : "",
+          "id" : "EF491B9F-1F9F-5DA6-A05B-34D44701A4DB",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Ukrayna, Rus enerji tesislerini vurduğunu açıkladı"
         }
       ],
-      "packetSpot" : "Avustralya'daki fare istilası nasıl kontrol altına alınacak? Çiftçiler hangi önlemleri alıyor?",
-      "packetTitle" : "Avustralya'da Fare İstilası: Çiftçilerin Zorlu Mücadelesi",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Çin'in askeri genişlemesi bölgeyi nasıl etkiliyor? ABD'nin Asya müttefikleriyle deniz rekabeti nereye evriliyor? Hint-Pasifik'te yeni güvenlik dinamikleri ne anlama geliyor?",
+      "packetTitle" : "Asya-Pasifik'te Güvenlik Dalgaları: Askeri Yığınak ve Stratejik Hamleler",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 8
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1l2y7j7454o#2",
-          "category" : "Teknoloji",
-          "descriptionTR" : "Markanın ilk elektrikli aracı, Ferrari'nin köklerini terk ettiği yönündeki eleştirilerle karşılaştı.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/what-the-trump-xi-summit-means-for-africa\/",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Bu yumuşama, dünyaya stratejik açıdan verimli biçimde değerlendirilebilecek bir miktar zaman kazandırmış olabilir. Peki Afrika ülkeleri buna nasıl karşılık verebilir?",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1l2y7j7454o#2",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/what-the-trump-xi-summit-means-for-africa\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Ferrari'nin İlk Elektrikli Aracı Luce, Eleştiri Oklarının Hedefinde"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Trump-Xi Zirvesi Afrika İçin Ne Anlama Geliyor"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/more-than-trade-modis-visit-to-sweden-and-norway\/",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Modi’nin İskandinavya turu, Hindistan’ın Arktik alandaki meşruiyetini güçlendirmeye dönük bilinçli bir stratejinin ilk hamlesi olarak da okunabilir. Ancak önünde büyük bir engel var: Rusya.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/more-than-trade-modis-visit-to-sweden-and-norway\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Ticaretin Ötesinde: Modi’nin İsveç ve Norveç Ziyareti"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/entry-into-the-kyrgyz-republic-is-closed-us-professor-denied-entry-to-kyrgyzstan\/",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Orta Asya üzerine tanınmış bir araştırmacı ve USC profesörü Steve Swerdlow, 16 öğrenciden oluşan bir gruba Kırgızistan’a liderlik ederken ülkeye alınmadı ve sınır dışı edildi.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/entry-into-the-kyrgyz-republic-is-closed-us-professor-denied-entry-to-kyrgyzstan\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "“Kırgız Cumhuriyeti’ne giriş kapalı”: ABD’li profesörün Kırgızistan’a girişi reddedildi"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/indias-multialignment-test-everything-everywhere-all-at-once\/",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Birden fazla cephe, kriz ve stratejik tartışmanın aynı anda kesişmesi, bunu Hindistan’ın çoklu hizalanma stratejisi için belki de en belirleyici sınav haline getiriyor.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/indias-multialignment-test-everything-everywhere-all-at-once\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hindistan’ın Çoklu Hizalanma Sınavı: Her Şey, Her Yerde, Aynı Anda"
+        },
+        {
+          "atomID" : "https:\/\/www.scmp.com\/week-asia\/opinion\/article\/3355340\/where-southeast-asians-really-want-live-work-and-travel?utm_source=rss_feed",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Kitle iletişim araçları, Güneydoğu Asya’yı hem bölge sakinleri hem de ziyaretçiler için çoğu zaman egzotikleştirilmiş olsa da heyecan verici, macera dolu ve kültürel açıdan zengin bir bölge olarak sunuyor. ISEAS – Yusof Ishak Enstitüsü’nün State of Southeast Asia 2026 anketinin, katılımcıların “yer değiştirme tercihleri ve seyahat seçimleri”ne dayanan son bölümü, bölge ülkelerinin “yumuşak gücü”ne dair zaten bol olan kanıtlara bir yenisini ekliyor. Amerikalı siyaset bilimci Joseph Nye’ın 1990’da ortaya attığı bir terim olan yumuşak güç, geniş ölçüde...",
+          "group" : "",
+          "id" : "https:\/\/www.scmp.com\/week-asia\/opinion\/article\/3355340\/where-southeast-asians-really-want-live-work-and-travel?utm_source=rss_feed",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Güneydoğu Asyalılar gerçekten nerede yaşamak, çalışmak ve seyahat etmek istiyor"
+        },
+        {
+          "atomID" : "article-71044625",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Nepalli Kongre ve Nepal Komünist Partisi’nden milletvekilleri, Başbakan’ın Nepal’in Hindistan topraklarının tam olarak neresine girdiğini açıklamasını talep etti ve sözlerinin tutanaklardan çıkarılmasını istedi.",
+          "group" : "",
+          "id" : "article-71044625",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Nepal de Hindistan toprağına da girmiş durumda, dedi Başbakan Balendra Shah"
+        },
+        {
+          "atomID" : "article-71041072",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Hindistan-Avustralya savunma ilişkisi, Hint-Pasifik bölgesinde güvenlik işbirliğine artan odaklanma nedeniyle son yıllarda daha büyük bir stratejik önem kazandı.",
+          "group" : "",
+          "id" : "article-71041072",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Savunma bakanlığı yetkilisi Singapur’da Avustralya, AB ve Hollanda’dan yetkililerle görüştü"
+        },
+        {
+          "atomID" : "article-71040321",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Birleşmiş Milletler Barış Gücü Günü her yıl 29 Mayıs’ta anılıyor. Hindistan, 1948’den bu yana 50’den fazla BM barış gücü misyonuna yaklaşık üç lakh asker sevk etmiş, en büyük asker katkısı sağlayan ülkeler arasında yer alıyor.",
+          "group" : "",
+          "id" : "article-71040321",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Uluslararası Barış Gücü Günü: Hindistan, BM barış gücüne sarsılmaz bağlılığını vurguluyor"
+        },
+        {
+          "atomID" : "114F6420-22A2-5C00-A392-FD9EC6229508",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Singapur Dışişleri Bakanı, iki ülke arasındaki ilişkilerin 50. yıldönümüne denk gelen Kuzey Kore çalışma ziyaretini tamamladı. Ziyaretin, Çin ve Güney Kore’yi de kapsayan bir turun parçası olduğu belirtilirken, Pyongyang’ın yeni “iki devlet” politikası çerçevesinde spor diplomasisinin de Koreler arası değil, devletler arası temaslar olarak yeniden tanımlandığı vurgulanıyor.",
+          "group" : "",
+          "id" : "114F6420-22A2-5C00-A392-FD9EC6229508",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Singapur Dışişleri Bakanı Kuzey Kore ziyaretini tamamladı"
+        },
+        {
+          "atomID" : "49B4B045-9616-54DA-A0DF-B89828D236BF",
+          "category" : "Diplomasi",
+          "descriptionTR" : "İsrail ordusu Güney Lübnan’daki yedi köy için tahliye emri verirken, birliklerin Lübnan’ın daha derinlerine ilerlediği bildirildi. Aynı süreçte Washington’da altı kişilik bir Lübnan askeri heyeti, onlarca yıl sonra iki taraf arasında yapılan ilk doğrudan askeri görüşmeler kapsamında İsrailli askeri yetkililerle bir araya geldi. Pentagon şefi Pete Hegseth ise ABD’nin İran’la savaşı yeniden başlatmaya yetecekten fazla silah stokuna sahip olduğunu söyledi.",
+          "group" : "",
+          "id" : "49B4B045-9616-54DA-A0DF-B89828D236BF",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "İsrail ordusu Güney Lübnan’da tahliye emri verdi, Pentagon’da İsrail-Lübnan askeri görüşmeleri başladı"
+        },
+        {
+          "atomID" : "7EF1E22E-8FE2-52FF-B02D-A0CB4AB2CA8C",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Rusya, Yerevan’ın Avrupa Birliği ile giderek güçlenen ilişkileri ve yaklaşan kritik oylama nedeniyle artan gerilimler arasında Ermenistan’daki büyükelçisini geri çağırdı. Haberde, ilişkilerdeki bu gerilimin son dönemde belirginleştiği ve Moskova’nın diplomatik düzeyde karşılık verdiği aktarıldı.",
+          "group" : "",
+          "id" : "7EF1E22E-8FE2-52FF-B02D-A0CB4AB2CA8C",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Rusya, Ermenistan’daki büyükelçisini AB yakınlaşması gerilimiyle geri çağırdı"
+        },
+        {
+          "atomID" : "E8E103AD-DEA2-59C8-8B6E-0383C75B405A",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Singapur’daki Shangri-La Diyaloğu’nda ABD Savunma Bakanı Pete Hegseth, Washington’un Asya’daki müttefiklerine desteğinin süreceğini vurgularken ülkelerden savunmalarını güçlendirmelerini ve daha fazla sorumluluk üstlenmelerini istedi. Hegseth’in önerdiği GSYH’nin yüzde 3,5’i düzeyindeki savunma harcamasının Singapur dışındaki çoğu Asean ülkesi için karşılanabilir olmadığı değerlendirilirken, Filipinler Savunma Bakanı Gilberto Teodoro Jr. da müttefiklerle yapılan son askerî tatbikatları savunup Güney Çin Denizi’ndeki gerilimlerden Çin’in ‘yayılmacılığını’ sorumlu tuttu.",
+          "group" : "",
+          "id" : "E8E103AD-DEA2-59C8-8B6E-0383C75B405A",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Shangri-La Diyaloğu’nda savunma harcamaları ve ABD taahhüdü öne çıktı"
+        },
+        {
+          "atomID" : "86CF0DED-4EDD-52BE-9A17-4CD1C6006CED",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Quad, Çin-ABD ilişkilerindeki değişimle birlikte Hint-Pasifik’te yeniden tanımlanırken Hindistan ABD’nin stratejik dişlisi, Pakistan taktik ortak, NATO Atlantik ittifakının dayanağı olarak konumlanıyor. Avustralya ise istikrarın yalnızca askerî caydırıcılıkla değil, ticaret akışları, enerji arzı, kritik teknolojiler ve ekonomik egemenliğin korunmasıyla da bağlantılı olduğuna dikkat çekiyor. Bu çerçevede Hint Okyanusu odaklı yeni gözetim girişimi güvenlik açısından olumlu görülürken, tüm ülkelerin katılımını çekmek için demokratik bilgi paylaşımı kültürünü desteklemesi gerektiği vurgulanıyor; ayrıca dışişleri bakanları toplantısının da gösterdiği gibi Quad’ın, kamuya dönük liderler buluşmaları olmasa bile Çin’in davranışlarına birlikte karşı koymak için hâlâ hayati bir mekanizma olduğu belirtiliyor.",
+          "group" : "",
+          "id" : "86CF0DED-4EDD-52BE-9A17-4CD1C6006CED",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Quad, Hint-Pasifik’te yeni güvenlik ve ekonomi ekseninde yeniden şekilleniyor"
+        },
+        {
+          "atomID" : "3FF601AC-2A54-5DBF-BD4E-7EE8A5AB6743",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Pekin’deki Putin-Xi zirvesinde Çin ve Rusya, Batı öncülüğündeki düzene karşı daha çok kutuplu sistem arayışını yineledi; görüşmede 20 anlaşma imzalanırken uzun süredir beklenen Sibirya’nın Gücü-1 boru hattı anlaşması çıkmadı. Aynı dönemde Çin’in Pakistan’la ilişkisini altyapı merkezli modelden daha ticari ve iş dünyası odaklı B2B konferanslarıyla yeniden çerçevelemeye çalıştığı, İslamabad’ın da Xi’nin küresel vizyonunu desteklediği aktarıldı. Bölgesel cephede ise Filipinler, Güney Çin Denizi’nde davranış kuralları önündeki en büyük engelin Pekin olduğunu söylerken Hindistan, Vietnam’la BrahMos füze tedarik anlaşması imzaladı ve Endonezya ile benzer bir anlaşmanın son aşamaya geldiğini açıkladı. Öte yandan Hürmüz Boğazı’ndaki gerilim küresel enerji ve deniz yolları açısından riskleri artırırken, Çin donanmasının Tayvan Boğazı çevresindeki baskıyı sürdürdüğü bildirildi.",
+          "group" : "",
+          "id" : "3FF601AC-2A54-5DBF-BD4E-7EE8A5AB6743",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Pekin’de zirve, Güney Çin Denizi ve enerji hatlarında gerilim"
+        },
+        {
+          "atomID" : "BA7CCBBD-A50B-58AB-AE24-F7C11FD4DF47",
+          "category" : "Diplomasi",
+          "descriptionTR" : "İsrail saldırılarının ardından İran’da South Pars tesisinde gaz üretiminin bir kısmı yeniden başlatılırken, internet erişimi de kısmen geri geldi; ancak veri merkezlerinin tamamı hâlâ çevrimiçi değil ve protokoller büyük ölçüde kısıtlı kalıyor. Bu sırada ABD’de Trump’ın, İran’la varıldığı belirtilen çerçeve anlaşma için Beyaz Saray’da üst düzey danışmanlarıyla ‘nihai karar’ görüşmeleri yaptığı bildirildi; resmi bir anlaşma açıklanmış değil. Kaynaklara göre taslak, üç aylık savaşta ateşkesi 60 gün daha uzatmayı ve İran’ın nükleer programına ilişkin yeni bir müzakere turunu başlatmayı öngörüyor; Trump ise İran’ın nükleer silaha sahip olmamayı kabul ettiğini söylüyor. Anlaşmanın değişmesi halinde savaşın resmen bitmesi ve Hürmüz Boğazı deniz yolunun yeniden açılmasının gecikebileceği belirtiliyor.",
+          "group" : "",
+          "id" : "BA7CCBBD-A50B-58AB-AE24-F7C11FD4DF47",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "İran’da üretim kısmen başladı, Trump anlaşma için nihai kararı görüşüyor"
+        },
+        {
+          "atomID" : "E5FE7435-C167-5C5A-80A1-435003CE5C3B",
+          "category" : "Diplomasi",
+          "descriptionTR" : "Britanya Dışişleri Bakanı Yvette Cooper’ın bu hafta Çin’de mevkidaşı Wang Yi ve Devlet Başkan Yardımcısı Han Zheng ile görüşmesi bekleniyor. Görüşmelerde Hürmüz Boğazı, Rusya-Ukrayna savaşı ve Afrika’daki Ebola salgını öne çıkarken, Cooper’ın güneydeki teknoloji merkezi Shenzhen’e de gitmesi planlanıyor; bu ziyaret, yılın başındaki zirvenin ardından Londra-Pekin hattında yumuşama işareti olarak değerlendiriliyor. Öte yandan Pekin’in, RightsCon 2026’nın mayısta Zambiya’da yapılmasını planlayan ev sahibi hükümete baskı yaparak dünyanın en büyük insan hakları buluşmalarından birinin iptal edilmesini sağladığı bildiriliyor. Avrupa açısından ise Çin’le ekonomik ilişkilerdeki güvenlik kırılganlıklarını azaltmanın, stratejik olarak olumlu bir anlatı içinde ele alınması gerektiği vurgulanıyor.",
+          "group" : "",
+          "id" : "E5FE7435-C167-5C5A-80A1-435003CE5C3B",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Britanya-Çin yakınlaşması sürerken Pekin’in RightsCon baskısı gündemde"
+        },
+        {
+          "atomID" : "1815AD3A-5479-5326-AF98-761E0C268420",
+          "category" : "Diplomasi",
+          "descriptionTR" : "İngiltere Dışişleri Bakanı Cooper’ın, küresel sorunları ele almak üzere Hindistan ve Çin’e ziyaret gerçekleştireceği bildirildi. Program kapsamında perşembe günü Dışişleri Bakanı S. Jaishankar ile ikili görüşmeler yapması, ardından iş dünyası ve akademi çevreleriyle temaslarda bulunması planlanıyor. Öte yandan aynı dosyada yer alan değerlendirmelerde, tamamen kapanmış bir Çin’in ABD için yeni bir politika yanıtı gerektirdiği ve Washington’un Çin’den çıkaracağı dersleri abartarak Hindistan’la ilişkisini zedeleme riski taşıdığı vurgulanıyor.",
+          "group" : "",
+          "id" : "1815AD3A-5479-5326-AF98-761E0C268420",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "İngiltere Dışişleri Bakanı Cooper Hindistan ve Çin’i ziyaret edecek"
         }
       ],
-      "packetSpot" : "Ferrari'nin yeni elektrikli aracı Luce, neden eleştiriliyor? Çin'den gelen tepkiler ne anlama geliyor?",
-      "packetTitle" : "Ferrari'nin Elektrikli Geleceği Tartışma Yaratıyor",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Hindistan'ın çoklu hizalanma politikası ne getiriyor? Çin ve Rusya'nın bölgedeki etkisi nasıl şekilleniyor?",
+      "packetTitle" : "Asya'da Güç Dengesi Arayışları",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 9
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cx2164ldp0ko#3",
-          "category" : "Spor",
-          "descriptionTR" : "New York ve New Jersey, taraftarların bilet satışları ve koltuk yerleri konusunda \"yanıltıldığı\" iddiaları üzerine FIFA'yı mercek altına aldı.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/theresa-sabonis-helf-on-central-asias-thirsty-future-industries\/",
+          "category" : "Çevre",
+          "descriptionTR" : "“[Kazakistan ve Özbekistan’ın] henüz yeni nesil sanayilerin su ihtiyacını nasıl karşılayacaklarıyla boğuştuğuna dair bir kanıt görmüyorum.”",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/cx2164ldp0ko#3",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/theresa-sabonis-helf-on-central-asias-thirsty-future-industries\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "FIFA, Dünya Kupası bilet fiyatları nedeniyle neden soruşturuluyor?"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Theresa Sabonis-Helf, Orta Asya’nın susuz gelecekteki sanayileri üzerine"
+        },
+        {
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/keralas-climate-plan-speaks-the-language-of-justice-but-erases-caste\/",
+          "category" : "Çevre",
+          "descriptionTR" : "Dalit ve Adivasi topluluklarının kırılganlığı, tarihsel olarak topraklarından edilme ve tehlikeye açık yamaçlar ile nehir kıyılarına zorla yerleştirilmeleri üzerinden üretilmiştir.",
+          "group" : "",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/keralas-climate-plan-speaks-the-language-of-justice-but-erases-caste\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Kerala’nın iklim planı adalet dilini konuşuyor — ama kastı siliyor"
+        },
+        {
+          "atomID" : "F0F4AE8B-FDB1-5808-BAD1-4B24133909AB",
+          "category" : "Çevre",
+          "descriptionTR" : "Benin’in ekonomik başkenti Cotonou’da Çinli şirketler, limanın kapsamlı yenilenmesinden ticaret merkezinin ana yollarının asfaltlanmasına kadar uzanan projelerde öne çıkıyor. Cotonou Özerk Limanı’nda China Harbour Engineering Company, denizden arazi kazanımını ve 100 bin tonluk iki genel amaçlı rıhtımın inşasını içeren Terminal 5 projesini ilerletirken, belediye düzeyindeki yenilemelerin ötesinde Çin’in ülkedeki ekonomik büyümede başrol oynayacağı vurgulanıyor.",
+          "group" : "",
+          "id" : "F0F4AE8B-FDB1-5808-BAD1-4B24133909AB",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Çin, Benin’de liman ve altyapı projeleriyle etkisini artırıyor"
+        },
+        {
+          "atomID" : "C75AB42A-9CE8-5C93-A525-49EE05BD023C",
+          "category" : "Çevre",
+          "descriptionTR" : "Hong Kong International School (HKIS), karbon emisyonlarını sistem optimizasyonu yoluyla azaltıp yenilenebilir enerji üreterek kampüsünü sürdürülebilirlik açısından yaşayan bir laboratuvara dönüştürüyor. Okulun uzun süredir öncelik verdiği yeşil yaklaşım, öğrencilerin fikirleri eyleme dönüştüren ve net sıfır hedeflerini somutlaştıran gerçek dünya uygulamalarını yakından öğrenmesine de imkân sağlıyor.",
+          "group" : "",
+          "id" : "C75AB42A-9CE8-5C93-A525-49EE05BD023C",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "HKIS kampüsü yeşil dönüşümle yaşayan laboratuvara dönüştü"
         }
       ],
-      "packetSpot" : "FIFA neden bilet fiyatları yüzünden soruşturma altında? New York ve New Jersey'de neler oluyor?",
-      "packetTitle" : "FIFA'nın Bilet Fiyatları Krizi",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Orta Asya'nın su krizi nasıl sanayiyi etkiliyor? Çin'in Afrika'daki projeleri çevreye nasıl yön veriyor?",
+      "packetTitle" : "Küresel İklim ve Kalkınma Mücadelesi",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 10
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/c4g8xy2n2zdo#3",
-          "category" : "Eğitim",
-          "descriptionTR" : "14 yaşındaki Shrey Parikh, 90 saniyelik hızlı tur eşitlik bozma bölümünde 32 kelimeyi doğru heceleyerek bu yılki yarışmayı kazandı.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/andhra-pradesh-is-poised-to-emerge-as-a-strong-indian-defense-hub\/",
+          "category" : "Savunma",
+          "descriptionTR" : "Hindistan’ın güneyindeki bu eyalette son dönemde birkaç stratejik havacılık ve savunma projesi başlatıldı.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/c4g8xy2n2zdo#3",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/andhra-pradesh-is-poised-to-emerge-as-a-strong-indian-defense-hub\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Amerikalılar Ulusal Heceleme Yarışması'nın kazanan kelimelerini heceleyebilir mi?"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Andhra Pradesh, Hindistan’ın güçlü bir savunma merkezi olarak öne çıkmaya hazırlanıyor"
         }
       ],
-      "packetSpot" : "Shrey Parikh'in zaferi ne anlama geliyor? Heceleme yarışmaları neden bu kadar popüler?",
-      "packetTitle" : "Heceleme Yarışmalarının Büyüsü",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "Andhra Pradesh neden Hindistan'ın savunma merkezi oluyor? Bölgenin stratejik önemi ne?",
+      "packetTitle" : "Hindistan'ın Yeni Savunma Üssü: Andhra Pradesh",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 11
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cg4pd3n30w6o#3",
-          "category" : "Bilim",
-          "descriptionTR" : "Bilim muhabiri Pallab Ghosh, patlamanın uzay keşfi için neden bir gerileme olduğunu açıklıyor.",
+          "atomID" : "https:\/\/thediplomat.com\/2026\/05\/malaysia-puts-tiktok-on-notice-over-offensive-posts-about-countrys-king\/",
+          "category" : "Diğer",
+          "descriptionTR" : "“Sultan Ibrahim Ismail” adını taşıyan bir hesabın, monarşiyi karalayan yapay zekâ üretimi videolar ve manipüle edilmiş görüntüler yayımladığı öne sürüldü.",
           "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/cg4pd3n30w6o#3",
+          "id" : "https:\/\/thediplomat.com\/2026\/05\/malaysia-puts-tiktok-on-notice-over-offensive-posts-about-countrys-king\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-05-31T01:35:56Z",
-          "titleTR" : "Blue Origin roket kazası NASA'nın Ay misyonunu nasıl etkiler?"
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Malezya, ülkenin kralına dair ‘hakaret içeren’ paylaşımlar nedeniyle TikTok’u uyardı"
         }
       ],
-      "packetSpot" : "Blue Origin'in roket kazası NASA'nın Ay planlarını nasıl değiştiriyor?",
-      "packetTitle" : "Uzay Yarışında Beklenmedik Engeller",
-      "publishedAt" : "2026-05-31T01:35:56Z",
+      "packetSpot" : "TikTok'ta krala yönelik paylaşımlar neden tepki çekti? Malezya'nın uyarısı ne anlama geliyor?",
+      "packetTitle" : "Malezya'da Dijital İfade Özgürlüğü Tartışması",
+      "publishedAt" : "2026-05-31T18:25:37Z",
       "sessionID" : "publish-draft",
       "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/?t=1780217224",
+          "category" : "Spor",
+          "descriptionTR" : "Dünya Kupası heyeti, Güney Afrika’nın 11 gün sonra açılış maçında karşılaşacağı Meksika için oyuncuların vize beklemesi nedeniyle gecikti.",
+          "group" : "",
+          "id" : "https:\/\/www.aljazeera.com\/?t=1780217224",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Güney Afrika’nın 2026 Dünya Kupası yolculuğu, Meksika vizesi krizi nedeniyle ertelendi"
+        },
+        {
+          "atomID" : "article-71042521",
+          "category" : "Spor",
+          "descriptionTR" : "Oyunculuktan teknik direktörlüğe geçen Guardiola, kulüp tarihinin en başarılı dönemlerinden birini yaşattıktan sonra Manchester City’den ayrılıyor.",
+          "group" : "",
+          "id" : "article-71042521",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Pep Guardiola | Dimdik Duran Teknik Direktör"
+        },
+        {
+          "atomID" : "018A34AC-FD31-5414-80ED-91300F0FB69E",
+          "category" : "Spor",
+          "descriptionTR" : "Almanya, 2014’teki şampiyonluğunun ardından son iki Dünya Kupası’nda grup aşamasında elenmiş olsa da Julian Nagelsmann yönetiminde daha güçlü bir ekip görüntüsü veriyor. 2026 Dünya Kupası ön izlemesinde takımın grup durumu, kadro yapısı ve izlenecek oyuncular öne çıkarken, Fas cephesinde ise ülkenin etkili bir stratejiyle futbol gücüne dönüşmesi ve turnuva öncesinde yaşanan bazı sarsıntılar dikkat çekiyor.",
+          "group" : "",
+          "id" : "018A34AC-FD31-5414-80ED-91300F0FB69E",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "2026 Dünya Kupası ön izlemesi: Almanya ve Fas"
+        },
+        {
+          "atomID" : "58AB1509-DAD9-5C48-86BA-33C3FE9FB9E6",
+          "category" : "Spor",
+          "descriptionTR" : "Loh Kean Yew, Singapur Badminton Açık erkekler tekler finalinde Alex Lanier’e yenilerek şampiyonluğu kaçırdı; buna rağmen turnuva tarihinde bu finale çıkan ilk Singapurlu oldu. Fransa Açık’ta ise dört kez şampiyon Iga Swiatek, son 16 turunda Ukraynalı Marta Kostyuk’a set vermeden elendi; bu sonuç, Coco Gauff’un elenmesinden bir gün sonra geldi.",
+          "group" : "",
+          "id" : "58AB1509-DAD9-5C48-86BA-33C3FE9FB9E6",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Loh Kean Yew finali kaybetti, Swiatek Fransa Açık’tan elendi"
+        }
+      ],
+      "packetSpot" : "Güney Afrika'nın vize krizi Dünya Kupası hazırlıklarını nasıl etkiliyor? Almanya ve Fas'ın şampiyona hedefleri neler?",
+      "packetTitle" : "2026 Dünya Kupası'na Doğru: Engel ve Beklentiler",
+      "publishedAt" : "2026-05-31T18:25:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.scmp.com\/opinion\/world-opinion\/article\/3355072\/spacex-global-dominance-may-not-be-written-stars?utm_source=rss_feed",
+          "category" : "Teknoloji",
+          "descriptionTR" : "SpaceX etrafındaki heyecan, şirketin halka arzı için hedeflenen 1,8 trilyon ABD doları değerleme ve umut vadeden Starship roket geliştirme sürecinin de etkisiyle, tanıdık bir iddiayı yeniden gündeme taşıdı: SpaceX’in uzay pazarına hükmetme yolunda olduğu. Ticari açıdan bakıldığında bu görüş anlaşılır. SpaceX, herkesten daha fazla uzay fırlatması gerçekleştiriyor ve bunu çok rekabetçi maliyetlerle yapıyor; Starlink uydu internet şirketi güçlü bir iç talep yaratıyor ve şirket, başka hiçbir özel...",
+          "group" : "",
+          "id" : "https:\/\/www.scmp.com\/opinion\/world-opinion\/article\/3355072\/spacex-global-dominance-may-not-be-written-stars?utm_source=rss_feed",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "SpaceX için küresel üstünlük yıldızlarda yazılı olmayabilir"
+        },
+        {
+          "atomID" : "https:\/\/www.scmp.com\/tech\/tech-trends\/article\/3355360\/how-decade-long-bet-photonics-handed-chinese-venture-capital-firm-ai-windfall?utm_source=rss_feed",
+          "category" : "Teknoloji",
+          "descriptionTR" : "Yapay zekâ, mevcut veri merkezlerinin fiziksel sınırlarını zorladıkça, bilim insanları ve yatırımcılar bir sonraki bilişim cephesi için evrenin nihai hız sınırına, yani ışığa yöneliyor. Devlet destekli Çin Bilimler Akademisi’nden (CAS) doğan girişim sermayesi şirketi CAS Star’ın kurucusu Mi Lei için fotonik alanına yönelik küresel ilginin birdenbire artması, şaşırtıcı olmaktan çok gecikmiş bir teyit niteliğinde. Bu, onun on yılı aşkın süredir finansman sağlayarak desteklemeye çalıştığı bir tezdi. “Yeni...",
+          "group" : "",
+          "id" : "https:\/\/www.scmp.com\/tech\/tech-trends\/article\/3355360\/how-decade-long-bet-photonics-handed-chinese-venture-capital-firm-ai-windfall?utm_source=rss_feed",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Fotonik üzerine on yıllık bir bahis, bu Çinli girişim sermayesi şirketine yapay zekâda büyük kazanç getirdi"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1l2y7j7454o#0",
+          "category" : "Teknoloji",
+          "descriptionTR" : "Markanın ilk elektrikli aracı sert biçimde eleştirildi; bazıları bunun Ferrari’nin köklerinden uzaklaştığını söylüyor.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1l2y7j7454o#0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Ferrari, Luce ile Çinli elektrikli araçlara meydan okumak istedi — ardından tepkiler başladı"
+        },
+        {
+          "atomID" : "article-71044254",
+          "category" : "Teknoloji",
+          "descriptionTR" : "Her yıl burada düzenlenen ve girişimcilik ile teknoloji alanında etkili bir konferans olan Latitude59 da, gelecek yıl kendi çatısı altında Hindistan’da bir ağ kurma etkinliği düzenlemeye sıcak bakıyor.",
+          "group" : "",
+          "id" : "article-71044254",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Estonyalı girişimler, Hindistan’la ortaklık kurmaya ve dev pazarına açılmaya istekli"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642054\/",
+          "category" : "Teknoloji",
+          "descriptionTR" : "Yapay zekâ altyapısını hızla kurma yarışı, bilgisayar sunucularından depolama bileşenlerine, ağ ekipmanlarından eski nesil çiplere kadar her şeye yönelik talebi artırdı.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642054\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "90’ların teknoloji yıldızları yeniden doğuyor: Nokia, Dell ve Cisco yapay zekâ ile yükselişte"
+        },
+        {
+          "atomID" : "85823BAD-CD07-53CD-9885-21096FF21EC3",
+          "category" : "Teknoloji",
+          "descriptionTR" : "Kazakistan’ın askeri modernizasyonu, büyük güç rekabetinin arttığı bir dönemde ülkenin stratejik uyum arayışı olarak öne çıkıyor. Aynı zamanda fintech ekosisteminde, Batı’daki finansal sistemlerden farklı olarak, bir hizmet askıya alındıktan sonra ne olduğuna odaklanan yaklaşım dikkat çekiyor; farkın, \"engelleme hakkı\"ndan çok askıya alma sonrası süreçte yattığı belirtiliyor.",
+          "group" : "",
+          "id" : "85823BAD-CD07-53CD-9885-21096FF21EC3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Kazakistan’da askeri modernizasyon ve fintech farkı"
+        },
+        {
+          "atomID" : "CF14E735-7B17-5717-A87F-003F886E74D3",
+          "category" : "Teknoloji",
+          "descriptionTR" : "Çin’deki elektrikli araç fabrikalarını inceleyen BBC, ülkenin otomotiv ekosistemlerinde küresel rekabette öne geçtiğini aktarırken; South China Morning Post, Çin’in yerli üretim WS-10 turbofan motorunun 20. yılında PLA’nın modern hava gücünün omurgası olmaya devam ettiğini yazıyor. Taihang kod adlı motor ailesi, J-10C ve J-11B gibi dördüncü nesil savaş uçaklarına güç vererek Çin’in savunma sanayisindeki yerli kapasitesini de öne çıkarıyor.",
+          "group" : "",
+          "id" : "CF14E735-7B17-5717-A87F-003F886E74D3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Çin, otomotiv ve savunmada yerli üretimle güç kazanıyor"
+        },
+        {
+          "atomID" : "60CF19BA-DFFF-5DF5-ABCE-A219F259D70D",
+          "category" : "Teknoloji",
+          "descriptionTR" : "Hong Kong Çin Üniversitesi’nde elektronik mühendisliği son sınıf öğrencisi Liu Runjie, Çin-ABD gençlik dostluk programı kapsamında katıldığı deniz yolculuğu ve yemek teslimatı uygulaması deneyimlerini Çin Devlet Başkanı Xi Jinping’e aktardıktan sonra Xi’den mektup aldı. Liu, Çinli ve Amerikalı gençler arasındaki kalıpları kırıp mesafeleri kapatmaya yardımcı olan bu ufuk açıcı geziye katılan 20 gençten biri olduğunu söyledi.",
+          "group" : "",
+          "id" : "60CF19BA-DFFF-5DF5-ABCE-A219F259D70D",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Xi’den mektup alan Hong Konglu öğrenci gençlik programını anlattı"
+        },
+        {
+          "atomID" : "0F015269-DA01-545A-A1A9-98F1EE61F8F1",
+          "category" : "Teknoloji",
+          "descriptionTR" : "HK Express, Tayfun Jangmi’nin Japonya’nın güneydeki adalarına yaklaşması üzerine pazartesi ve salı günleri Hong Kong ile Okinawa arasındaki altı seferi iptal etti. Havayolu, etkilenen yolculara uçuş değişiklikleri için bilgi verildiğini ve alternatif seyahat düzenlemeleri yapabilmeleri amacıyla destek sağlandığını açıkladı; özel bilet düzenlemelerinin de yürürlükte olduğu belirtildi.",
+          "group" : "",
+          "id" : "0F015269-DA01-545A-A1A9-98F1EE61F8F1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "HK Express, tayfun nedeniyle Hong Kong-Okinawa arasında 6 uçuşu iptal etti"
+        },
+        {
+          "atomID" : "E30CB733-DE87-5E2F-BDE1-4C7C879EC5EB",
+          "category" : "Teknoloji",
+          "descriptionTR" : "ChatGPT’nin sahneye çıkmasıyla birlikte Silikon Vadisi’ndeki yapay zekâ şirketleri, müşterileri çekmek için son derece düşük fiyatlar uyguladı. Delphi Labs’tan Kevin Simback’in “sübvansiyonlu zekâ” diye tanımladığı bu dönemde faturayı fiilen yatırımcılar üstlenirken, şimdi yapay zekâ giderek pahalılaşıyor ve şirketler kabaran maliyetlerin bu teknolojiye yönelik hevesi aşıp aşmadığını yeniden değerlendirmeye başlıyor.",
+          "group" : "",
+          "id" : "E30CB733-DE87-5E2F-BDE1-4C7C879EC5EB",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Şirketler yapay zekâda düşük fiyat döneminin ardından artan maliyetleri sorguluyor"
+        }
+      ],
+      "packetSpot" : "Yapay zekâ yatırımları hangi ülkeleri öne çıkarıyor? Teknoloji devleri arasında yeni bir yarış mı başlıyor?",
+      "packetTitle" : "Yapay Zekâ ve Küresel Teknoloji Rekabeti",
+      "publishedAt" : "2026-05-31T18:25:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.scmp.com\/opinion\/asia-opinion\/article\/3354977\/east-asias-population-challenge-isnt-just-about-raising-birth-rates?utm_source=rss_feed",
+          "category" : "Eğitim",
+          "descriptionTR" : "Doğu Asya genelinde toplumlar daha zengin, daha sağlıklı ve daha eğitimli hale gelirken, giderek daha az insan aile kurup çocuk yetiştirebileceğini ya da buna istek duyduğunu düşünüyor. Düşük doğurganlık, özellikle toplam doğurganlık oranının (TFR) kadın başına bir doğumun altına düştüğü ve 2,1’lik yenilenme düzeyinin oldukça gerisinde kaldığı Doğu Asya’daki yüksek gelirli toplumları zorluyor. Pek çok ülke bu eğilimi tersine çevirmek için ciddi kaynak ve çaba harcamış olsa da sonuçlar bir ölçüde hayal kırıklığı yarattı. Bu eşleşme...",
+          "group" : "",
+          "id" : "https:\/\/www.scmp.com\/opinion\/asia-opinion\/article\/3354977\/east-asias-population-challenge-isnt-just-about-raising-birth-rates?utm_source=rss_feed",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Doğu Asya’nın nüfus sorunu yalnızca doğum oranlarını artırmakla ilgili değil"
+        },
+        {
+          "atomID" : "article-71040500",
+          "category" : "Eğitim",
+          "descriptionTR" : "Parikh, 90 saniyede 35 kelimenin 32’sini doğru heceleyerek 2024’te kırılan önceki heceleme düellosu rekorunu geride bıraktı; bu yılki dokuz finalistin beşi Hint kökenliydi.",
+          "group" : "",
+          "id" : "article-71040500",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hint asıllı Amerikalı Shrey Parikh, Scripps Ulusal Heceleme Yarışması’nı kazandı"
+        },
+        {
+          "atomID" : "D8FF69A4-9F90-5FA1-8816-D1CF6CB06CB3",
+          "category" : "Eğitim",
+          "descriptionTR" : "Bağımsızlığın ardından Hindistan Postası, pullar, kartpostallar ve mektupları ülkenin nüfusunu saymak için birer araca dönüştürdü. Aynı döneme dair bir başka anlatı ise Hindistan komünistlerinin yükselişten eyalet yönetimlerine uzanan etkisinin, bugün etkili kalma mücadelesine dönüşen seyrini hatırlatıyor.",
+          "group" : "",
+          "id" : "D8FF69A4-9F90-5FA1-8816-D1CF6CB06CB3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Hindistan’da pullar ve kartpostallar nüfus sayımının aracı oldu"
+        }
+      ],
+      "packetSpot" : "Doğu Asya'nın nüfus sorununa nasıl çözüm aranıyor? Hindistan'da eğitim ve nüfus sayımı nasıl birleşti?",
+      "packetTitle" : "Nüfus ve Eğitimde Yeni Yaklaşımlar",
+      "publishedAt" : "2026-05-31T18:25:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c172yyvp55do#2",
+          "category" : "Sağlık",
+          "descriptionTR" : "Sıcaklıklar zirveye çıkarken, Delhi’nin kayıt dışı işçileri artan sağlık risklerine rağmen çalışmayı sürdürüyor.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c172yyvp55do#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Delhi’nin yoksulları için güvenlikten önce hayatta kalma"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642059\/",
+          "category" : "Sağlık",
+          "descriptionTR" : "Birçok ülke, sigara paketlerinde kararmış bir akciğer gibi, sigara kullanımının yol açtığı sağlık risklerine ilişkin uyarı görselleri bulunmasını zorunlu kılıyor.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642059\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Uzmanlar, Japonya’ya tütün paketlerinde görsel uyarılar kullanma çağrısı yapıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642061\/",
+          "category" : "Sağlık",
+          "descriptionTR" : "Bakanlık, ilgili bir yönetmelikte yapılacak değişiklikle CBN’yi İlaçlar ve Tıbbi Cihazlar Yasası kapsamında belirlenmiş bir ilaç olarak düzenleyecek.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642061\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Japonya, hazirandan itibaren kenevir bileşeni CBN’yi yasaklayacak"
+        }
+      ],
+      "packetSpot" : "Japonya'nın yeni sağlık politikaları neler getiriyor? Tütün ve kenevirdeki değişiklikler ne anlama geliyor?",
+      "packetTitle" : "Japonya'nın Sağlık Politikalarında Dönüşüm",
+      "publishedAt" : "2026-05-31T18:25:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "article-71043692",
+          "category" : "Göç",
+          "descriptionTR" : "Sözcü, vize süresini aşanları ya da vatandaşları kamu yardımlarından yoğun biçimde yararlanan ülkelerden gelenleri, etkilenebilecek gruplar arasında gösterdi.",
+          "group" : "",
+          "id" : "article-71043692",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Yeşil kart başvurusu için tüm göçmenlerin ABD’den ayrılması gerekmeyecek: Haber"
+        }
+      ],
+      "packetSpot" : "Göçmenler için yeni düzenleme ne anlama geliyor? ABD'de kalmak mümkün mü?",
+      "packetTitle" : "ABD'de Yeşil Kart Başvurularında Yeni Dönem",
+      "publishedAt" : "2026-05-31T18:25:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "article-71040575",
+          "category" : "Hukuk",
+          "descriptionTR" : "Davacılara temsil eden gruplar, ortak bir açıklamada kararı hayal kırıklığı yaratan bir gelişme olarak nitelendirdi ve “bu iğrenç ve apaçık yasa dışı yasaya karşı mücadele etmeyi sürdüreceğiz” dedi.",
+          "group" : "",
+          "id" : "article-71040575",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Mahkeme, Teksas’ın göçmenleri tutuklamaya yönelik yasayı uygulamasının önünü açtı"
+        },
+        {
+          "atomID" : "A251EB42-C2B6-5449-92FD-937B86BDC789",
+          "category" : "Hukuk",
+          "descriptionTR" : "Japon mahkemesi, Kuzey Kore’nin 1960’ların başında yürüttüğü geri gönderme kampanyası nedeniyle tazminat ödemesi gerektiğine hükmetti. Karar, Japonya’dan ayrılmaya propaganda ile teşvik edilen 90 binden fazla etnik Korelinin çoğunun hâlâ Kuzey Kore’de mahsur olduğuna işaret ederken, Tokyo’da düzenlenen mitingde de onlarca yıl önce kaçırılan Japonların tamamının geri getirilmesi istendi. Yakınları, kaçırılanların bir an önce, mümkünse ebeveynleri hayattayken dönmesini umduklarını söylerken, Başbakan Takaichi de geçen ekim ayında göreve gelmesinden bu yana sorunu çözmek için Kuzey Kore ile zirve talebini yineledi.",
+          "group" : "",
+          "id" : "A251EB42-C2B6-5449-92FD-937B86BDC789",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Japon mahkemesinden Kuzey Kore’nin geri gönderme kampanyasına tazminat kararı"
+        },
+        {
+          "atomID" : "CD96C02E-5E32-50A0-90C0-9942ABFD488C",
+          "category" : "Hukuk",
+          "descriptionTR" : "Vietnam’da iki ayrı gelişme öne çıktı: Ülke, şimdiye kadarki en büyük yolsuzluk skandalının planlayıcısı olmakla suçlanan ve müebbet hapis cezası alan gayrimenkul geliştiricisi Truong My Lan’a ait lüks otomobil ile Hermès çantalarını 1 milyon doların üzerinde bir bedelle açık artırmaya çıkardı. Öte yandan Vietnam, son Ulusal Meclis seçimleri ve Komünist Parti Kongresi dolayısıyla yürütülen af programı kapsamında yabancı uyruklular da dahil yaklaşık 10 bin mahkûmu serbest bırakacağını açıkladı.",
+          "group" : "",
+          "id" : "CD96C02E-5E32-50A0-90C0-9942ABFD488C",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Vietnam’da Truong My Lan’ın eşyaları açık artırmada, yaklaşık 10 bin mahkûma af"
+        },
+        {
+          "atomID" : "C561250D-97BA-5C4B-9868-352D4AC8DFF4",
+          "category" : "Hukuk",
+          "descriptionTR" : "Güney Kore’de dövme yapma hakkının uzun yıllar yalnızca lisanslı doktorlara tanınması, yasağı delenler için ağır para cezası ve hapis riskini gündeme getirirken; Starbucks Kore’nin bir katliam yıldönümüne denk gelen kampanyası da ülkenin otoriter geçmişiyle yüzleşme tartışmasını yeniden alevlendirdi. Öte yandan Endonezya’nın aşırı muhafazakâr Açe eyaleti, ceza yöntemi olarak kırbaçlamayı sürdürüyor; bu uygulama Güneydoğu Asya’da yalnızca bu eyalete özgü değil.",
+          "group" : "",
+          "id" : "C561250D-97BA-5C4B-9868-352D4AC8DFF4",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Güney Kore’de dövme yasağı tartışması, Açe’de kırbaç cezası"
+        },
+        {
+          "atomID" : "9F80DAD7-F4A6-5570-BDCF-C7B1CF8ECC96",
+          "category" : "Hukuk",
+          "descriptionTR" : "Sri Lanka, Uluslararası Para Fonu’nun 2,9 milyar dolarlık kurtarma kredisinden 695 milyon dolarlık taksidi serbest bırakmasının ardından akaryakıt fiyatlarını yüzde 6 artırdı. Aynı gün, ülkenin önde gelen keşişlerinden Hemarathana, çocuklara yönelik cinsel istismar iddiası üzerine görevden uzaklaştırıldı; bu karar, Sri Lanka’nın Buda’nın doğumunu, aydınlanmasını ve vefatını anan Vesak kutlamaları sırasında alındı.",
+          "group" : "",
+          "id" : "9F80DAD7-F4A6-5570-BDCF-C7B1CF8ECC96",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Sri Lanka’da akaryakıta zam ve önde gelen keşişe uzaklaştırma"
+        },
+        {
+          "atomID" : "86E22922-E395-54A4-93C6-FCB3F8CE883B",
+          "category" : "Hukuk",
+          "descriptionTR" : "Washington eyaletine bağlı Longview’deki Nippon Dynawave Packaging Company’de meydana gelen kimyasal sızıntının ardından kurtarma ekipleri kayıp dokuz kişinin cansız bedenine ulaştı ve ölü sayısı 11’e yükseldi. Öte yandan Kanada’da Kenneth Law’ın, en az 40 ülkeye 1.200’den fazla paket gönderdiğinden şüpheleniliyor; bunların yaklaşık 160’ının Kanada’daki adreslere gönderildiği, Law’ın ise kendi yaşamına son veren 100’den fazla kişiye ölümcül maddeler sattığını kabul ettiği bildirildi.",
+          "group" : "",
+          "id" : "86E22922-E395-54A4-93C6-FCB3F8CE883B",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "ABD’de kimyasal sızıntıda ölü sayısı 11’e çıktı; Kanada’da ölümcül madde satışı davası"
+        }
+      ],
+      "packetSpot" : "Teksas'ta göçmen yasası ne anlama geliyor? Japonya ve Kuzey Kore arasındaki tazminat kararı neyi değiştirecek?",
+      "packetTitle" : "Küresel Hukuk Mücadeleleri: Göçmen Yasaları ve Uluslararası Tazminatlar",
+      "publishedAt" : "2026-05-31T18:25:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/article\/642062\/",
+          "category" : "Bilim",
+          "descriptionTR" : "Sözde “biyolojik bilgisayar”ların her biri, kan bağışlarından elde edilen kök hücrelerden yetiştirilen yaklaşık 200 bin canlı insan beyin hücresi içeriyor.",
+          "group" : "",
+          "id" : "https:\/\/www.japantimes.co.jp\/article\/642062\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "Avustralyalı araştırmacılar beyin hücrelerine Doom oynamayı öğretiyor"
+        },
+        {
+          "atomID" : "F35BF6CF-DB80-56F7-B224-0FA9E7E2E3E5",
+          "category" : "Bilim",
+          "descriptionTR" : "Yeni gizliliği kaldırılan ABD hükümeti UFO dosyaları, Pekin merkezli tanımlanamayan anomali olguları (UAP) araştırmacısı Zhang Nan’ın dikkatini çekti. Zhang, özellikle 2020’de Florida’da gökyüzüne dönük bir ABD askeri kızılötesi sensörü tarafından kaydedilen ve “NAG UAP 1 Jun 20” etiketiyle yer alan yaklaşık beş dakikalık videoda, uzun süre havada asılı kalan hızlı hareket eden insan biçimli bir nesne gördüğünü söyledi.",
+          "group" : "",
+          "id" : "F35BF6CF-DB80-56F7-B224-0FA9E7E2E3E5",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T18:25:37Z",
+          "titleTR" : "ABD’nin gizliliği kaldırılan UFO dosyalarındaki insan biçimli nesne Çinli araştırmacının ilgisini çekti"
+        }
+      ],
+      "packetSpot" : "Beyin hücreleri oyun oynayabilir mi? UFO'lar bilim dünyasında nasıl bir etki yaratıyor?",
+      "packetTitle" : "Bilim Dünyasında Sınırları Zorlayan Araştırmalar",
+      "publishedAt" : "2026-05-31T18:25:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
     }
   ],
   "week" : "2026-W22"
