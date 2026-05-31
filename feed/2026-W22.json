@@ -1,0 +1,390 @@
+{
+  "label" : "25–31 MAYIS",
+  "publishedAt" : "2026-05-31T01:33:12Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5y8wjvd1ypo#0",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Aukus askeri paktı kapsamında geliştirilen teknoloji, denizaltı kablolarını korumayı ve deniz savunmasını güçlendirmeyi hedefliyor.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5y8wjvd1ypo#0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "ABD, İngiltere ve Avustralya su altı drone teknolojisi geliştirecek"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3d27x5vnnvo#0",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Yerel yetkililer, West'in diğer konserlerinin iptal edilmesinin bu kararda etkili olduğunu belirtti.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3d27x5vnnvo#0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "İtalya, Kanye West ve Travis Scott konserlerini güvenlik endişeleri nedeniyle yasakladı"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cn4pn4ex0ymo#1",
+          "category" : "Güvenlik",
+          "descriptionTR" : "20 Mayıs'ta altın aramak için dar tünellere giren yedi köylüden ikisi hâlâ kayıp.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cn4pn4ex0ymo#1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Laos'taki su basmış mağaradan dört kişi daha kurtarıldı"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5ye34k7yejo#1",
+          "category" : "Güvenlik",
+          "descriptionTR" : "ABD Savunma Bakanı, Singapur'daki bir Asya güvenlik zirvesinde ABD'nin taahhütleri ve yeni silah anlaşmaları hakkında sorgulandı.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5ye34k7yejo#1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "ABD Asya'daki müttefiklerinden savunmalarını güçlendirmelerini bekliyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cdjp0n7rn41o#2",
+          "category" : "Güvenlik",
+          "descriptionTR" : "BBC Verify, işgal altındaki Ukrayna'da mühimmat, yakıt ve gıda taşıyan Rus kamyonlarına yönelik saldırıların videolarını inceledi.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cdjp0n7rn41o#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Ukrayna, Rus birliklerine ikmal yapan konvoylara yapay zeka dronlarıyla saldırıyor"
+        },
+        {
+          "atomID" : "9C0753AB-4BF6-530F-8601-4D2DC9BDBF02",
+          "category" : "Güvenlik",
+          "descriptionTR" : "Romanya'da Cuma sabahı erken saatlerde Rus yapımı bir drone, bir apartmana çarparak yangına neden oldu. Olayda iki kişi yaralandı. Saldırının ardından insanlar evlerini kontrol etmek için geri dönmeye başladı. Romanyalı yetkililer olayla ilgili bilgi verirken, şehirde korku hakim.",
+          "group" : "",
+          "id" : "9C0753AB-4BF6-530F-8601-4D2DC9BDBF02",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Romanya'da Rus yapımı drone saldırısı: Yangın ve yaralılar var"
+        }
+      ],
+      "packetSpot" : "Dron teknolojisi güvenlikte nasıl devrim yaratıyor? ABD, İngiltere ve Avustralya'nın yeni hamlesi ne anlama geliyor?",
+      "packetTitle" : "Dronların Güvenlikteki Yükselen Rolü",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c99ldxykz4zo#0",
+          "category" : "Sağlık",
+          "descriptionTR" : "Tıbbi yardım kuruluşu, Dünya Sağlık Örgütü başkanının virüs salgınından en çok etkilenen bölgeyi ziyaret ettiği sırada bu açıklamayı yaptı.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c99ldxykz4zo#0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "MSF: Kongo'da Ebola'nın Yayılması Endişe Verici"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9q39dx778zo#2",
+          "category" : "Sağlık",
+          "descriptionTR" : "Modern tarihteki her başkan - bu hafta Donald Trump da dahil - yıllık sağlık kontrolünden geçiyor. Ancak bu kontroller sağlık kadar mesaj verme amacı da taşıyor.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9q39dx778zo#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Trump'ın doktoru: Sağlığı mükemmel - Peki, ABD başkanlarının sağlık kontrolleri bir PR çalışması mı?"
+        }
+      ],
+      "packetSpot" : "Ebola salgını Kongo'da kontrol altına alınabilecek mi? Uluslararası sağlık örgütleri hangi önlemleri alıyor?",
+      "packetTitle" : "Ebola'nın Kongo'daki Tehlikeli Yükselişi",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cvgzy64j9l1o#0",
+          "category" : "Kültür",
+          "descriptionTR" : "Yönetmen George Lucas'ın eski eşi olan film editörü, orijinal uzay üçlemesinin arkasındaki önemli yaratıcı güç olarak geniş çapta tanınıyordu.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cvgzy64j9l1o#0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Oscar ödüllü Star Wars editörü Marcia Lucas 80 yaşında hayatını kaybetti"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy02j1n87wlo#1",
+          "category" : "Kültür",
+          "descriptionTR" : "Young MC, Poison solisti Bret Michaels ve country şarkıcısı Martina McBride, etkinliğin siyasi olabileceği endişesiyle çekincelerini dile getirdi.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy02j1n87wlo#1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Trump, US Freedom 250 konserinden çekilen sanatçılara yüklendi, kendisi katılmayı düşünüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1m215npjp2o#1",
+          "category" : "Kültür",
+          "descriptionTR" : "Eser, ziyaretçilerin üzerinde üç kez dönerek şans getirdiğine inandığı bir gelenekle özdeşleşmiş durumda.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1m215npjp2o#1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "İtalya, turistlerin aşındırdığı boğa mozaiğindeki şans getiren testisleri yeniledi"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/clypz87rqy1o#2",
+          "category" : "Kültür",
+          "descriptionTR" : "Elle Kennedy'nin buz hokeyi aşk romanı, Amazon Prime uyarlamasıyla izleyicilerden tam not aldı.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/clypz87rqy1o#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Kadınların kaleminden erkekler: Off Campus gibi buz hokeyi aşkları TV'nin yeni gözdesi oldu"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/c9we0ln71llo#3",
+          "category" : "Kültür",
+          "descriptionTR" : "BBC, yıllarca yeraltında çalıştıktan sonra sanatlarını kutlamak için ülkenin dört bir yanından dövme sanatçılarının toplandığı Seul'de.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/c9we0ln71llo#3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Güney Kore'de Dövme Sanatçıları Nasıl Yasal Oldu?"
+        }
+      ],
+      "packetSpot" : "Dövme sanatçıları Güney Kore'de nasıl yasal hale geldi? İtalya'da boğa mozaiği neden yenilendi? Yeni TV dizileri hangi aşk hikayelerini anlatıyor?",
+      "packetTitle" : "Kültürün Dönüşen Yüzleri: Sanat, Miras ve Medya",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/czx2zndk7elo#0",
+          "category" : "Politika",
+          "descriptionTR" : "Ekvador lideri Daniel Noboa, pazar günkü seçim öncesinde sağcı bir başkan adayıyla görüştükten sonra tarifeleri iptal etme teklifi sundu.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/czx2zndk7elo#0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Ekvador'un Kolombiya seçimlerine müdahale ettiği iddiası"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1w21gn340xo#1",
+          "category" : "Politika",
+          "descriptionTR" : "Meslektaşları ve akrabalarına yönelik yolsuzluk soruşturmaları, İspanya Başbakanı'nı siyasi hayatta kalma mücadelesine sürükledi.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1w21gn340xo#1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "İspanya Başbakanı Sánchez, skandalların gölgesinde koltuğunu korumaya çalışıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cddpl33v247o#2",
+          "category" : "Politika",
+          "descriptionTR" : "Gizemli KGB ajanlığından savaş dönemi liderliğine, Putin'in imajını ve kendisini nasıl defalarca yeniden şekillendirdiği.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cddpl33v247o#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Putin'in İmaj Ustası Olma Yolculuğu"
+        }
+      ],
+      "packetSpot" : "Putin'in imaj stratejisi ne kadar etkili? Sánchez skandalları nasıl aşacak?",
+      "packetTitle" : "Liderlerin İmaj ve Güç Mücadelesi",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c0r2d40r91qo#0",
+          "category" : "Diplomasi",
+          "descriptionTR" : "ABD Başkanı, danışmanlarıyla bir araya geldi. Yetkililer, ABD ve İran'ın bir anlaşma çerçevesi üzerinde uzlaştığını doğruladı.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c0r2d40r91qo#0",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Trump'ın İran kararı toplantısından anlaşma çıkmadı"
+        }
+      ],
+      "packetSpot" : "Trump'ın İran kararının perde arkasında ne var? Anlaşma neden sağlanamadı?",
+      "packetTitle" : "Trump ve İran: Diplomatik Çıkmazın Derinlikleri",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5yedendprko#1",
+          "category" : "İnsan Hakları",
+          "descriptionTR" : "Gana'nın yeni yasasına göre eşcinsel, lezbiyen veya transgender olarak tanımlanan kişilere yönelik eylemler hapis cezasıyla cezalandırılacak.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5yedendprko#1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Gana Parlamentosu anti-LGBTQ+ yasasını kabul etti"
+        }
+      ],
+      "packetSpot" : "Gana'da insan hakları nasıl etkileniyor? Yeni yasa ne anlama geliyor?",
+      "packetTitle" : "Gana'da LGBTQ+ Haklarına Darbe",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/czj2ldllgwgo#1",
+          "category" : "Hukuk",
+          "descriptionTR" : "Bu ifade, ABD'nin en üst düzey savcısının Başkan Donald Trump tarafından görevden alınmasından yaklaşık bir ay sonra geldi.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/czj2ldllgwgo#1",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Eski ABD adalet bakanı, Epstein dosyalarının ele alınmasını savundu"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/ce9p5e1jg72o#2",
+          "category" : "Hukuk",
+          "descriptionTR" : "Güney Afrika'da Madlanga Komisyonu, Brezilya popo kaldırma ameliyatı rüşvet iddiaları ve başarısız uyuşturucu baskınları hakkında ifadeler dinliyor.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/ce9p5e1jg72o#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Sevgiliden gelen 'hediyeler' ve başarısız kokain baskınları: Güney Afrika'da polis soruşturması"
+        }
+      ],
+      "packetSpot" : "Epstein dosyaları neden tartışılıyor? Güney Afrika'da polis hangi suçlamalarla karşı karşıya?",
+      "packetTitle" : "Adaletin Gölgesinde: Epstein ve Güney Afrika Soruşturmaları",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c794g80lw74o#2",
+          "category" : "Çevre",
+          "descriptionTR" : "Çiftçiler, hektar başına binlerce farenin mahsulleri yok ettiğini ve evlere girdiğini bildiriyor.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c794g80lw74o#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Avustralyalı çiftçiler fare istilasıyla mücadele ediyor"
+        }
+      ],
+      "packetSpot" : "Avustralya'daki fare istilası nasıl kontrol altına alınacak? Çiftçiler hangi önlemleri alıyor?",
+      "packetTitle" : "Avustralya'da Fare İstilası: Çiftçilerin Zorlu Mücadelesi",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1l2y7j7454o#2",
+          "category" : "Teknoloji",
+          "descriptionTR" : "Markanın ilk elektrikli aracı, Ferrari'nin köklerini terk ettiği yönündeki eleştirilerle karşılaştı.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1l2y7j7454o#2",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Ferrari'nin İlk Elektrikli Aracı Luce, Eleştiri Oklarının Hedefinde"
+        }
+      ],
+      "packetSpot" : "Ferrari'nin yeni elektrikli aracı Luce, neden eleştiriliyor? Çin'den gelen tepkiler ne anlama geliyor?",
+      "packetTitle" : "Ferrari'nin Elektrikli Geleceği Tartışma Yaratıyor",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cx2164ldp0ko#3",
+          "category" : "Spor",
+          "descriptionTR" : "New York ve New Jersey, taraftarların bilet satışları ve koltuk yerleri konusunda \"yanıltıldığı\" iddiaları üzerine FIFA'yı mercek altına aldı.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cx2164ldp0ko#3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "FIFA, Dünya Kupası bilet fiyatları nedeniyle neden soruşturuluyor?"
+        }
+      ],
+      "packetSpot" : "FIFA neden bilet fiyatları yüzünden soruşturma altında? New York ve New Jersey'de neler oluyor?",
+      "packetTitle" : "FIFA'nın Bilet Fiyatları Krizi",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/c4g8xy2n2zdo#3",
+          "category" : "Eğitim",
+          "descriptionTR" : "14 yaşındaki Shrey Parikh, 90 saniyelik hızlı tur eşitlik bozma bölümünde 32 kelimeyi doğru heceleyerek bu yılki yarışmayı kazandı.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/c4g8xy2n2zdo#3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Amerikalılar Ulusal Heceleme Yarışması'nın kazanan kelimelerini heceleyebilir mi?"
+        }
+      ],
+      "packetSpot" : "Shrey Parikh'in zaferi ne anlama geliyor? Heceleme yarışmaları neden bu kadar popüler?",
+      "packetTitle" : "Heceleme Yarışmalarının Büyüsü",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cg4pd3n30w6o#3",
+          "category" : "Bilim",
+          "descriptionTR" : "Bilim muhabiri Pallab Ghosh, patlamanın uzay keşfi için neden bir gerileme olduğunu açıklıyor.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cg4pd3n30w6o#3",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-05-31T01:33:12Z",
+          "titleTR" : "Blue Origin roket kazası NASA'nın Ay misyonunu nasıl etkiler?"
+        }
+      ],
+      "packetSpot" : "Blue Origin'in roket kazası NASA'nın Ay planlarını nasıl değiştiriyor?",
+      "packetTitle" : "Uzay Yarışında Beklenmedik Engeller",
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    }
+  ],
+  "week" : "2026-W22"
+}
