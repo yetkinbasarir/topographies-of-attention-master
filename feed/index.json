@@ -1,7 +1,14 @@
 {
-  "currentWeek" : "2026-W23",
+  "currentWeek" : "2026-W22",
   "feedVersion" : "1.0",
   "weeks" : [
+    {
+      "label" : "25–31 MAYIS",
+      "packetCount" : 12,
+      "publishedAt" : "2026-05-31T01:33:12Z",
+      "url" : "feed\/2026-W22.json",
+      "week" : "2026-W22"
+    },
     {
       "label" : "25–31 MAYIS",
       "packetCount" : 14,
