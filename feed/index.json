@@ -1,7 +1,14 @@
 {
-  "currentWeek" : "2026-W24",
+  "currentWeek" : "2026-W25",
   "feedVersion" : "1.0",
   "weeks" : [
+    {
+      "label" : "1–7 HAZIRAN",
+      "packetCount" : 4,
+      "publishedAt" : "2026-06-01T13:10:16Z",
+      "url" : "feed\/2026-W25.json",
+      "week" : "2026-W25"
+    },
     {
       "label" : "1–7 HAZIRAN",
       "packetCount" : 16,
