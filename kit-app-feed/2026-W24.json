@@ -1,0 +1,935 @@
+{
+  "books" : [
+    {
+      "author" : "Claire Vaye Watkins",
+      "captured_at" : "2026-06-03T23:41:06Z",
+      "confidence" : "high",
+      "description" : "Amerikalı yazar Claire Vaye Watkins kitabında kahramanlarının kişisel geçmişiyle bölgenin tarihini iç içe geçirerek Vahşi Batının mitlerini yeniden kuruyor; çölde havai fişek toplayan yaşlı adamlar, hayalet kasabaların zamanla film setlerine dönüştüğü Nevada coğrafyası, kaybolan turistler, Las Vegas’ın ışıltısına kapılan liseli gençler, çöldeki randevuevi sakinleri, hepsi bu mitin bir parçası haline geliyor. Çölde bulduğu adrese yazdığı mektuplarla yalnızlığını azaltmaya çalışan bir adam, kendini terk eden erkeğin eşyalarını saklayarak yas tutan genç bir kadın, çöldeki randevuevinin kırılgan dengesini varlığıyla altüst eden genç bir İtalyan, ölümden kurtardığı genç kız yüzünden münzevi hayatında ince bir yarık açılan bir adam, annelerinin intiharını atlatamayan iki kız kardeş. Üstlerinde geçmişin ağırlığını taşıyan bu insanlar, inatçılıkları, şansları ve az da olsa umutlarıyla hayatlarına tutunmaya çalışıyorlar. Nevada, her bir kelimenin yerini bulduğu, taze soluklu, diken diken, enfes bir kitap.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Claire Vaye Watkins",
+          "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/"
+        },
+        "description" : {
+          "evidence_text" : "Amerikalı yazar Claire Vaye Watkins kitabında kahramanlarının kişisel geçmişiyle bölgenin tarihini iç içe geçirerek Vahşi Batının mitlerini yeniden kuruyor...",
+          "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/"
+        },
+        "title" : {
+          "evidence_text" : "Nevada – Yüz Yayınları ... Amerikalı yazar Claire Vaye Watkins kitabında kahramanlarının kişisel geçmişiyle bölgenin tarihini iç içe geçirerek Vahşi Batının mitlerini yeniden kuruyor...",
+          "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Zeynep Baransel",
+          "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/"
+        }
+      },
+      "publisher_id" : "yuz",
+      "publisher_name" : "Yüz",
+      "publisher_url" : "https://www.yuzkitap.com.tr/",
+      "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/",
+      "title" : "Nevada",
+      "translator" : "Zeynep Baransel",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Lucy Ellmann",
+      "captured_at" : "2026-06-03T23:40:08Z",
+      "confidence" : "high",
+      "description" : "Amerika Birleşik Devletleri’nde peş peşe turtalar yapan Ohio’lu bir ev hanımı gerçeklik ve anlamsız bir bilgi fırtınası arasındaki boşlukları doldurmaya çalışırken bir yandan da çocukları, merhum anne babası, Afrika filleri, “mutlu çiftlerin” yatak alışkanlıkları, Kitle İmha Silahları ve bir tahtalı güvercin yavrusunun nasıl yumurtadan çıkacağı hakkında endişelenir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "sayfa yazar bilgisi ve yazar hakkında metin",
+          "source_url" : "https://www.yediyayinlari.com/kitap/ordekler-newburyport/"
+        },
+        "description" : {
+          "evidence_text" : "sayfa ürün açıklaması",
+          "source_url" : "https://www.yediyayinlari.com/kitap/ordekler-newburyport/"
+        },
+        "title" : {
+          "evidence_text" : "sayfa başlığı ve ürün açıklaması",
+          "source_url" : "https://www.yediyayinlari.com/kitap/ordekler-newburyport/"
+        },
+        "translator" : {
+          "evidence_text" : "sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.yediyayinlari.com/kitap/ordekler-newburyport/"
+        }
+      },
+      "publisher_id" : "yedi",
+      "publisher_name" : "Yedi",
+      "publisher_url" : "https://www.yediyayinlari.com/",
+      "source_url" : "https://www.yediyayinlari.com/kitap/ordekler-newburyport/",
+      "title" : "Ördekler, Newburyport",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Bilgehan Tuğrul",
+      "captured_at" : "2026-06-03T23:39:59Z",
+      "confidence" : "high",
+      "description" : "2025 Yaşar Nabi Nayır Şiir Ödülüne değer görülen Bilgehan Tuğrul'un şiir kitabı. İstanbul doğumlu, Marmara Üniversitesi Güzel Sanatlar Fakültesi Film Tasarımı ve Yönetimi öğrencisi. Şiirleri Varlık ve çeşitli dergilerde yayımlandı.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa metni: Bilgehan Tuğrul",
+          "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa metni: 2025 Yaşar Nabi Nayır Şiir Ödülüne değer görülen Bilgehan Tuğrul, 2003'te İstanbul'da doğdu... Şiirleri Varlık, kitaplık, Dark Poets Club, Buzdokuz, mahalle mektebi, Lacivert, petroleus, süt, pulsar, sakin yurt, yelkensiz, şiir poetik, Lahitteki Baykuş, aşkar, banliyü.org'ta yayımlandı.",
+          "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: Aşk Şiirlerinin Unutulmaz Yönetmeni - Kitaplar - Varlık Yayınları",
+          "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni"
+        }
+      },
+      "publisher_id" : "varlik",
+      "publisher_name" : "Varlık",
+      "publisher_url" : "https://www.varlik.com.tr/",
+      "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni",
+      "title" : "Aşk Şiirlerinin Unutulmaz Yönetmeni",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Hamish Scott",
+      "captured_at" : "2026-06-03T23:39:16Z",
+      "confidence" : "high",
+      "description" : "VakıfBank Kültür Yayınları’nın yedi cilt hâlinde Türkçeye kazandırdığı, The Oxford Handbook of Early Modern European History, 1350-1750 serisinin bu yedinci ve son cildi, erken modern Avrupa’nın dünya ile girdiği askerî ve diplomatik rekabetleri ele alıyor. Kitap, 14. yüzyıl sonlarından 19. yüzyıl başlarına uzanan dönemi; askerî dönüşümlerin, deniz aşırı rekabetlerin, diplomatik dil, üslup ve kurumların, mali değişim ve dönüşümlerin ve büyük silahlı mücadelelerin birlikte şekillendirdiği tarihsel bir laboratuvar olarak değerlendiriyor. Uluslararası Rekabetler, erken modern Avrupa’yı tek bir merkezin hikâyesi olarak sunmuyor. Aksine, savaş meydanlarından tersanelere, sınır bölgelerinden başkentlerdeki elçilik muhitlerine kadar uzanan çok katmanlı bir rekabet alanı tanımlıyor. Kara savaşlarının ve silah teknolojilerinin dönüşümü, deniz gücünün yükselişi, Osmanlı İmparatorluğu’nun bu rekabetler içinde kurucu ve tayin edici konumu, devletlerarası güç dengesi fikrinin geçirdiği evrim ve diplomasinin dâhili siyasetten ayrı bir pratik olarak ortaya çıkışı, bu cildin ana eksenlerini teşkil etmekte.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Hamish Scott",
+          "source_url" : "https://www.vbky.com.tr/kitap/erken-modern-avrupa-tarihi-uluslararasi-rekabetler-cilt-7"
+        },
+        "description" : {
+          "evidence_text" : "Arka Kapak Yazısı: VakıfBank Kültür Yayınları’nın yedi cilt hâlinde Türkçeye kazandırdığı, The Oxford Handbook of Early Modern European History, 1350-1750 serisinin bu yedinci ve son cildi, erken modern Avrupa’nın dünya ile girdiği askerî ve diplomatik rekabetleri ele alıyor. Kitap, 14. yüzyıl sonlarından 19. yüzyıl başlarına uzanan dönemi; askerî dönüşümlerin, deniz aşırı rekabetlerin, diplomatik dil, üslup ve kurumların, mali değişim ve dönüşümlerin ve büyük silahlı mücadelelerin birlikte şekillendirdiği tarihsel bir laboratuvar olarak değerlendiriyor. Uluslararası Rekabetler, erken modern Avrupa’yı tek bir merkezin hikâyesi olarak sunmuyor. Aksine, savaş meydanlarından tersanelere, sınır bölgelerinden başkentlerdeki elçilik muhitlerine kadar uzanan çok katmanlı bir rekabet alanı tanımlıyor. Kara savaşlarının ve silah teknolojilerinin dönüşümü, deniz gücünün yükselişi, Osmanlı İmparatorluğu’nun bu rekabetler içinde kurucu ve tayin edici konumu, devletlerarası güç dengesi fikrinin geçirdiği evrim ve diplomasinin dâhili siyasetten ayrı bir pratik olarak ortaya çıkışı, bu cildin ana eksenlerini teşkil etmekte.",
+          "source_url" : "https://www.vbky.com.tr/kitap/erken-modern-avrupa-tarihi-uluslararasi-rekabetler-cilt-7"
+        },
+        "title" : {
+          "evidence_text" : "Erken Modern Avrupa Tarihi Uluslararası Rekabetler (Cilt 7) - Ve benzersiz kitaplar Ana içeriğe atla Kitap Özetleri PAYLAŞ FACEBOOK TWITTER WHATSAPP E-POSTA İLE PAYLAŞ KİTAP ÖNİZLEMESİ Erken Modern Avrupa Tarihi Uluslararası Rekabetler (Cilt 7) Kategori: Tarih Yazar: Hamish Scott Arka Kapak Yazısı: VakıfBank Kültür Yayınları’nın yedi cilt hâlinde Türkçeye kazandırdığı, The Oxford Handbook of Early Modern European History, 1350-1750 serisinin bu yedinci ve son cildi, erken modern Avrupa’nın dünya ile girdiği askerî ve diplomatik rekabetleri ele alıyor. Kitap, 14. yüzyıl sonlarından 19. yüzyıl başlarına uzanan dönemi; askerî dönüşümlerin, deniz aşırı rekabetlerin, diplomatik dil, üslup ve kurumların, mali değişim ve dönüşümlerin ve büyük silahlı mücadelelerin birlikte şekillendirdiği tarihsel bir laboratuvar olarak değerlendiriyor. Uluslararası Rekabetler, erken modern Avrupa’yı tek bir merkezin hikâyesi olarak sunmuyor. Aksine, savaş meydanlarından tersanelere, sınır bölgelerinden başkentlerdeki elçilik muhitlerine kadar uzanan çok katmanlı bir rekabet alanı tanımlıyor. Kara savaşlarının ve silah teknolojilerinin dönüşümü, deniz gücünün yükselişi, Osmanlı İmparatorluğu’nun bu rekabetler içinde kurucu ve tayin edici konumu, devletlerarası güç dengesi fikrinin geçirdiği evrim ve diplomasinin dâhili siyasetten ayrı bir pratik olarak ortaya çıkışı, bu cildin ana eksenlerini teşkil etmekte. Hem serinin hem de özellikle bu cildin iddiası, Avrupa tarihinin, kendi içine kapalı, tekil ve benzersiz bir gelişim çizgisinde değil, daimî temas, rekabet, uyarlanma ve yeniden tanımlanma sür",
+          "source_url" : "https://www.vbky.com.tr/kitap/erken-modern-avrupa-tarihi-uluslararasi-rekabetler-cilt-7"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Sinan Çakır",
+          "source_url" : "https://www.vbky.com.tr/kitap/erken-modern-avrupa-tarihi-uluslararasi-rekabetler-cilt-7"
+        }
+      },
+      "publisher_id" : "vakifbank-kultur-yayinlari",
+      "publisher_name" : "VakıfBank Kültür Yayınları",
+      "publisher_url" : "https://www.vbky.com.tr/",
+      "source_url" : "https://www.vbky.com.tr/kitap/erken-modern-avrupa-tarihi-uluslararasi-rekabetler-cilt-7",
+      "title" : "Erken Modern Avrupa Tarihi Uluslararası Rekabetler (Cilt 7)",
+      "translator" : "Sinan Çakır",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Funda Uçuk Er",
+      "captured_at" : "2026-06-03T23:38:57Z",
+      "confidence" : "high",
+      "description" : "Funda Uçuk Er’den sırlarla örülü bir aile romanı. Psikolog Zeynep’in eline geçen gizemli bir günlük, geçmişe ve kendi iç dünyasına yolculuğun başlangıcıdır. Aşk, kayıp, inanç ve teslimiyet iç içe geçer; geçmişin izleri bugünün yaralarına dokunur. \"Tesadüf\" sandığımız karşılaşmaların ardındaki derin anlam açığa çıkar. Huşu Ağacı’nın devam kitabı olarak karakterlerin içsel yolculuğunu derinleştirir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa metni: Funda Uçuk Er’den sırlarla örülü bir aile romanı",
+          "source_url" : "https://timas.com.tr/asude-bahce-9786050849943"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa metni: \"Funda Uçuk Er’den sırlarla örülü bir aile romanı...\" ile başlayan tanıtım",
+          "source_url" : "https://timas.com.tr/asude-bahce-9786050849943"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: Asude Bahçe - Timaş Yayınları",
+          "source_url" : "https://timas.com.tr/asude-bahce-9786050849943"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://timas.com.tr/asude-bahce-9786050849943"
+        }
+      },
+      "publisher_id" : "timas",
+      "publisher_name" : "Timaş",
+      "publisher_url" : "https://www.timas.com.tr/",
+      "source_url" : "https://timas.com.tr/asude-bahce-9786050849943",
+      "title" : "Asude Bahçe",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Hiroko Oyamada",
+      "captured_at" : "2026-06-03T23:38:11Z",
+      "confidence" : "high",
+      "description" : "Günümüz Japon edebiyatının öne çıkan kalemlerinden Hiroko Oyamada, dünya çapında dikkat çekmesini sağlayan kısa romanı Fabrika’da çalışma yaşamının boğuculuğunu ele alıyor ve kanıksanmış bazı kuralların, ilişkilerin, statülerin gerçekte ne kadar anlamsız, hatta absürd olduğunu üç ana karakterin izinde gözler önüne seriyor. İşyeri, doğası gereği çalışanları kendi tekinsiz, kasvetli yaşam alanına hapsederken hayatlara el koyup kendi döngüsüne katıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar adı sayfa içeriğinde: Hiroko Oyamada",
+          "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa açıklama metni",
+          "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve künye başlığı: Fabrika",
+          "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika"
+        },
+        "translator" : {
+          "evidence_text" : "Çeviren Hüseyin Can Erkin",
+          "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika"
+        }
+      },
+      "publisher_id" : "siren",
+      "publisher_name" : "Siren",
+      "publisher_url" : "https://www.sirenyayinlari.com/",
+      "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika",
+      "title" : "Fabrika",
+      "translator" : "Hüseyin Can Erkin",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "",
+      "captured_at" : "2026-06-03T23:36:56Z",
+      "confidence" : "medium",
+      "description" : "Rozali Benliyan ve Milli Operet Kumpanyası kitabı, 275 sayfa uzunluğunda, Türkçe dilinde ve 22x22 cm boyutlarındadır. Kitap, Paros Dergisi tarafından yayımlanmıştır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfada yazar bilgisi bulunmamaktadır",
+          "source_url" : "https://paros.com.tr/urun/245-rozali-benliyan-ve-milli-operet-kumpanyasi"
+        },
+        "description" : {
+          "evidence_text" : "Ürün sayfasındaki açıklama metni",
+          "source_url" : "https://paros.com.tr/urun/245-rozali-benliyan-ve-milli-operet-kumpanyasi"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün sayfası başlığı",
+          "source_url" : "https://paros.com.tr/urun/245-rozali-benliyan-ve-milli-operet-kumpanyasi"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://paros.com.tr/urun/245-rozali-benliyan-ve-milli-operet-kumpanyasi"
+        }
+      },
+      "publisher_id" : "paros",
+      "publisher_name" : "Paros",
+      "publisher_url" : "https://paros.com.tr/",
+      "source_url" : "https://paros.com.tr/urun/245-rozali-benliyan-ve-milli-operet-kumpanyasi",
+      "title" : "Rozali Benliyan ve Milli Operet Kumpanyası",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Mustafa Demirtaş",
+      "captured_at" : "2026-06-03T23:36:28Z",
+      "confidence" : "medium",
+      "description" : "Bu kitap, göçmenliğe dair düşünme biçimlerimizi demokratikleştirmekle işe başlıyor. Dostluk, göçmenlik tecrübesine sonradan eklenmiş bir kavramsal çerçeve değil; göçmenlik de dostluğu anlama ve yorumlamanın bir pratiği. Kitap, göçmenlerin gözünde dostluğun anlamını ve siyasetini sorguluyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Mustafa Demirtaş",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/47339494"
+        },
+        "description" : {
+          "evidence_text" : "Bu kitap, göçmenliğe dair düşünme biçimlerimizi demokratikleştirmekle işe başlıyor. Şimdi dostluk, göçmenlik tecrübesine sonradan eklenmiş bir kavramsal çerçeve değil sadece. Göçmenlik de dostluğu anlama ve yorumlamanın bir pratiği.",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/47339494"
+        },
+        "title" : {
+          "evidence_text" : "Tatlı Hayatın Kıyısında | OTONOM YAYINCILIK ... Yazar: Mustafa Demirtaş 96 sayfa – 13,5 x 19,5 cm ISBN 978-605-7872-62-3 ... Bu kitap, göçmenliğe dair düşünme biçimlerimizi demokratikleştirmekle işe başlıyor. Şimdi dostluk, göçmenlik tecrübesine sonradan eklenmiş bir kavramsal çerçeve değil sadece. Göçmenlik de dostluğu anlama ve yorumlamanın bir pratiği.",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/47339494"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/47339494"
+        }
+      },
+      "publisher_id" : "otonom",
+      "publisher_name" : "Otonom",
+      "publisher_url" : "https://www.otonomyayincilik.com/",
+      "source_url" : "https://www.shopier.com/OtonomYayincilik/47339494",
+      "title" : "Tatlı Hayatın Kıyısında",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Emre Aracı",
+      "captured_at" : "2026-06-03T23:35:56Z",
+      "confidence" : "high",
+      "description" : "Hatıralarımın Şehri Edinburgh, müzik tarihçisi, besteci ve orkestra şefi Emre Aracı’nın bir şehre duyulan sevginin nasıl bir kader, bir estetik pusula ve bir hayat yolculuğuna dönüşebileceğini anlattığı edebî bir hatıra kitabıdır. Kitap, coğrafyadan çok hafızaya, seyahatten çok iç yolculuğa, şehir tarihinden çok ruh coğrafyasına odaklanır. İskoçya’nın tarihî başkenti Edinburgh, geniş bir kültür atlasının merkezinde yaşayan bir varlık gibi anlatılır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Hatıralarımın Şehri Edinburgh, müzik tarihçisi, besteci ve orkestra şefi Emre Aracı’nın bir şehre duyulan sevginin nasıl bir kader, bir estetik pusula ve bir hayat yolculuğuna dönüşebileceğini anlattığı edebî bir hatıra kitabıdır.",
+          "source_url" : "https://www.oglak.com/kitap/3688/Oglak-Edebiyat/Hatiralarimin-Sehri-Edinburgh/"
+        },
+        "description" : {
+          "evidence_text" : "Hatıralarımın Şehri Edinburgh, müzik tarihçisi, besteci ve orkestra şefi Emre Aracı’nın bir şehre duyulan sevginin nasıl bir kader, bir estetik pusula ve bir hayat yolculuğuna dönüşebileceğini anlattığı edebî bir hatıra kitabıdır. Bu eser, coğrafyadan çok hafızaya, seyahatten çok iç yolculuğa, şehir tarihinden çok ruh coğrafyasına odaklanır. Sekiz buçuk yaşında Edinburgh Kalesi’nin burçlarından sisler içindeki şehre bakan bir çocuğun ilk hayretiyle başlayan anlatı, yıllar sonra Edinburgh Üniversitesi Müzik Fakültesi’nde geçirilen sekiz yıllık eğitimin kazandırdığı derinlik ve aidiyetle genişler; tren pencerelerinden görülen manzaralar, taşlara sinmiş tarih, müzik, edebiyat ve kişisel hatıralarla örülerek ilerler. İskoçya’nın tarihî başkenti burada yalnızca bir şehir değil, Tevfik Fikret’ten Sir Walter Scott’a, Robert Louis Stevenson’dan J. M. Barrie’ye uzanan geniş bir kültür atlasının merkezinde duran, yaşayan bir varlık gibidir. Kendi hayatının dönemeçleriyle Avrupa kültür tarihinin kesiştiği bu yolculukta, şehirler kadar kitaplar, besteler, tablolar ve hatıralar da konuşur. Bu kitap, bir şehri sevmeyi, geçmişi bugüne taşımayı ve estetiği bir hayat biçimi olarak sürdürmeyi amaçlayanlar için yazılmıştır; zamanın hızına direnerek yürüyen bir ruhun, bir şehirle kurduğu derin ve kalıcı dostluğun kaydıdır.",
+          "source_url" : "https://www.oglak.com/kitap/3688/Oglak-Edebiyat/Hatiralarimin-Sehri-Edinburgh/"
+        },
+        "title" : {
+          "evidence_text" : "Hatıralarımın Şehri Edinburgh, müzik tarihçisi, besteci ve orkestra şefi Emre Aracı’nın bir şehre duyulan sevginin nasıl bir kader, bir estetik pusula ve bir hayat yolculuğuna dönüşebileceğini anlattığı edebî bir hatıra kitabıdır.",
+          "source_url" : "https://www.oglak.com/kitap/3688/Oglak-Edebiyat/Hatiralarimin-Sehri-Edinburgh/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://www.oglak.com/kitap/3688/Oglak-Edebiyat/Hatiralarimin-Sehri-Edinburgh/"
+        }
+      },
+      "publisher_id" : "oglak",
+      "publisher_name" : "Oğlak",
+      "publisher_url" : "https://www.oglak.com/",
+      "source_url" : "https://www.oglak.com/kitap/3688/Oglak-Edebiyat/Hatiralarimin-Sehri-Edinburgh/",
+      "title" : "Hatıralarımın Şehri Edinburgh",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Eser Kuru",
+      "captured_at" : "2026-06-03T23:35:39Z",
+      "confidence" : "high",
+      "description" : "“Bir yeri eksik olan, dünyayı oradan sızan ışıkla görür.” Uzaktan Baktım Halimize ilişkilerdeki incelikli çatlakların, sessizce bastırılan arzuların, insan ilişkilerinde hemen görülmeyen ayrıntıların izini süren bir öykü kitabı. Engelli bir kadının arzu ve görünürlük arasındaki mücadelesinden intiharı bir hizmet olarak sunan distopik bir danışmanlığa uzanan öyküler… Terk edilmiş balkonlarda, sahil kasabalarında ve yüksek apartman dairelerinde varlıkla yokluk arasında salınan karakterler… Eser Kuru’nun Olasılıklar Kıyısı’ndan sonraki ikinci kitabı, bastırılmış olanın, eksik kalanın, görmezden gelinenin panoramasını sunuyor. İncelikli olduğu kadar sert, kırılgan olduğu kadar dirençli bir dille.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Eser Kuru’nun Olasılıklar Kıyısı’ndan sonraki ikinci kitabı",
+          "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize"
+        },
+        "description" : {
+          "evidence_text" : "Sayfadaki resmi açıklama paragrafı",
+          "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize"
+        },
+        "title" : {
+          "evidence_text" : "Uzaktan Baktım Halimize ilişkilerdeki incelikli çatlakların, sessizce bastırılan arzuların, insan ilişkilerinde hemen görülmeyen ayrıntıların izini süren bir öykü kitabı.",
+          "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize"
+        }
+      },
+      "publisher_id" : "notos",
+      "publisher_name" : "Notos",
+      "publisher_url" : "https://www.notoskitap.com/",
+      "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize",
+      "title" : "Uzaktan Baktım Halimize",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "M. Emre Battal",
+      "captured_at" : "2026-06-03T23:35:29Z",
+      "confidence" : "high",
+      "description" : "Bu kitap bir “zırh çıkarma rehberi.” Masal gibi başlayan ve ilerledikçe her okuyanı kendine ayna tuttuğu bir sokağa çıkaran bu hikaye sadece çocuklar için değil, büyümüş ama içindeki bazı yerleri ona biçilen kalıba sıkışmış kalanlara yazılmış bir metin. En çok da cinsiyet fark etmeksizin “güçlü ol”, “belli etme”, “idare et”, “sus” diyenlere… Ve elbette bir de erkeklere. “Elalem ne der?” alaşımından yapılmış o görünmez zırh... O zırhı hepimiz bir yerlerden tanıyoruz. “Erkek” olmanın yanlış öğretilmiş versiyonunu usulca söken bu hikâyede M. Emre Battal, bağırmadan, suçlamadan ama hiç de yumuşatmadan derdini ortaya koyuyor. Arel Talu’nun çizgileriyle Battal’ın kelimeleri mizahı bir kalkan gibi kullanarak zırhın altındaki çıplak gerçekliği bir düş dünyasında yeniden kuruyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar adı metin içinde: M. Emre Battal",
+          "source_url" : "https://www.notabene.com.tr/urun/zirhini-hurdaciya-veren-prens"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması metni",
+          "source_url" : "https://www.notabene.com.tr/urun/zirhini-hurdaciya-veren-prens"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün bilgisi: Zırhını Hurdacıya Veren Prens",
+          "source_url" : "https://www.notabene.com.tr/urun/zirhini-hurdaciya-veren-prens"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi sayfada yok",
+          "source_url" : "https://www.notabene.com.tr/urun/zirhini-hurdaciya-veren-prens"
+        }
+      },
+      "publisher_id" : "notabene",
+      "publisher_name" : "Notabene",
+      "publisher_url" : "https://www.notabene.com.tr/",
+      "source_url" : "https://www.notabene.com.tr/urun/zirhini-hurdaciya-veren-prens",
+      "title" : "Zırhını Hurdacıya Veren Prens",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Renata Salecl",
+      "captured_at" : "2026-06-03T23:34:38Z",
+      "confidence" : "high",
+      "description" : "Toplumsal sarsıntılar karşısında bile kabuğundan sıyrılamayan, başkalarıyla kader ortağı olduğunu unutmuş insan, hissizliğe gömüldüğü kış uykusundan uyanıp başkalarıyla empati kurarak demokrasiyi baştan filizlendirebilir mi? Neoliberalizm kıskacında, iyisiyle kötüsüyle yaşadığı her şeyin tek sorumlusu ilan edilen birey, mükemmeliyetçilik beklentisi ile yetersizlik hisleri arasında sıkışmış durumda. “Her koyun kendi bacağından asılır” şiarıyla girdiği yarışta bir yandan kendini pazarlarken diğer yandan başkalarının celladına dönüşüyor. Ne var ki içini kemiren o “yeri doldurulabilir olma” hissinden kurtulamıyor. Renata Salecl acımasızlığı huy edinmiş, kabalığın meziyet sayıldığı günümüz dünyasını masaya yatırıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Kabalık Çağı, Renata Salecl, Metis Yayınları",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37550"
+        },
+        "description" : {
+          "evidence_text" : "Toplumsal sarsıntılar karşısında bile kabuğundan sıyrılamayan, başkalarıyla kader ortağı olduğunu unutmuş insan, hissizliğe gömüldüğü kış uykusundan uyanıp başkalarıyla empati kurarak demokrasiyi baştan filizlendirebilir mi? Neoliberalizm kıskacında, iyisiyle kötüsüyle yaşadığı her şeyin tek sorumlusu ilan edilen birey, mükemmeliyetçilik beklentisi ile yetersizlik hisleri arasında sıkışmış durumda. “Her koyun kendi bacağından asılır” şiarıyla girdiği yarışta bir yandan kendini pazarlarken diğer yandan başkalarının celladına dönüşüyor. Ne var ki içini kemiren o “yeri doldurulabilir olma” hissinden kurtulamıyor. Renata Salecl acımasızlığı huy edinmiş, kabalığın meziyet sayıldığı günümüz dünyasını masaya yatırıyor;",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37550"
+        },
+        "title" : {
+          "evidence_text" : "Kabalık Çağı, Renata Salecl, Metis Yayınları",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37550"
+        },
+        "translator" : {
+          "evidence_text" : "Çeviri: Bülent Kale",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37550"
+        }
+      },
+      "publisher_id" : "metis",
+      "publisher_name" : "Metis",
+      "publisher_url" : "https://www.metiskitap.com/",
+      "source_url" : "https://www.metiskitap.com/catalog/book/37550",
+      "title" : "Kabalık Çağı",
+      "translator" : "Bülent Kale",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "C. Nadia SEREMETAKİS",
+      "captured_at" : "2026-06-03T23:34:08Z",
+      "confidence" : "high",
+      "description" : "Tarihsel değişimler deneyim dünyamızda neye denk düşer? Duyuların Hafızası, algının, duyunun ve deneyimin kültürel ve tarihsel düzenlenişini yiyeceklerin serüveninden yas törenlerine, sinemanın algısal düzenlenişinden ulus kimliğinin bedensel inşasına kadar geniş bir yelpazede analiz ediyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Duyuların Hafızası: Modernlikte Maddi Kültür Olarak Algı ve Hafıza C. Nadia SEREMETAKİS",
+          "source_url" : "https://www.liverayayinevi.com/tr/urun/duyularin-hafizasi-modernlikte-maddi-kultur-olarak-algi-ve-hafiza"
+        },
+        "description" : {
+          "evidence_text" : "C. Nadia Seremetakis tam da bu teşhisten yola çıkan yazıları bir araya getirdiği Duyuların Hafızası ’nda, yiyeceklerin serüveninden yas törenlerine, sinemanın algısal düzenlenişinden ulus kimliğinin bedensel inşasına uzanan geniş bir yelpazede algının, duyunun, duyumun –kısacası deneyimin– kültürel ve tarihsel düzenlenişini analiz ediyor.",
+          "source_url" : "https://www.liverayayinevi.com/tr/urun/duyularin-hafizasi-modernlikte-maddi-kultur-olarak-algi-ve-hafiza"
+        },
+        "title" : {
+          "evidence_text" : "Duyuların Hafızası: Modernlikte Maddi Kültür Olarak Algı ve Hafıza C. Nadia SEREMETAKİS ... C. Nadia Seremetakis tam da bu teşhisten yola çıkan yazıları bir araya getirdiği Duyuların Hafızası ’nda, yiyeceklerin serüveninden yas törenlerine, sinemanın algısal düzenlenişinden ulus kimliğinin bedensel inşasına uzanan geniş bir yelpazede algının, duyunun, duyumun –kısacası deneyimin– kültürel ve tarihsel düzenlenişini analiz ediyor.",
+          "source_url" : "https://www.liverayayinevi.com/tr/urun/duyularin-hafizasi-modernlikte-maddi-kultur-olarak-algi-ve-hafiza"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Zeynep Demirkol",
+          "source_url" : "https://www.liverayayinevi.com/tr/urun/duyularin-hafizasi-modernlikte-maddi-kultur-olarak-algi-ve-hafiza"
+        }
+      },
+      "publisher_id" : "livera",
+      "publisher_name" : "Livera",
+      "publisher_url" : "https://www.liverayayinevi.com/",
+      "source_url" : "https://www.liverayayinevi.com/tr/urun/duyularin-hafizasi-modernlikte-maddi-kultur-olarak-algi-ve-hafiza",
+      "title" : "Duyuların Hafızası: Modernlikte Maddi Kültür Olarak Algı ve Hafıza",
+      "translator" : "Zeynep Demirkol",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Katharina Linnepe",
+      "captured_at" : "2026-06-03T23:33:46Z",
+      "confidence" : "high",
+      "description" : "İmkânsız Vaka, patriyarkayı terapi koltuğuna yatırarak psikopatik, narsisistik ve makyavelist eğilimler sergileyen bir hasta olarak analiz eden, bu düzenin günlük hayatımıza ve ilişkilerimize sinsi taktiklerle yerleştiğini ortaya koyan, kolektif bir sağaltım çağrısı yapan özgün bir çalışma.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "YAZARLAR: KATHARINA LINNEPE Katharina Linnepe, moderatör, konuşmacı, gazeteci ve feminist koç.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe"
+        },
+        "description" : {
+          "evidence_text" : "İmkânsız Vakaİflah Olmaz Erkeklik Terapi OdasındaKatharina Linnepe Patriyarka terapiye ikna olsaydı, teşhisi ne olurdu? Katharina Linnepe, bu çarpıcı ve özgün metinde patriyarkayı terapi koltuğuna yatırarak onu psikopatik, narsisistik ve makyavelist eğilimler sergileyen bir “hasta” olarak analiz ediyor. Seans ilerledikçe, patriyarkanın gündelik hayatımıza, ilişkilerimize ve hatta kendi iç sesimize nasıl sinsi taktiklerle yerleştiği ifşa oluyor. Tam da bu noktada Linnepe, okuru pasif bir gözlemci olmaktan çıkarıp ezber bozan bir soru soruyor: Günlük hayatta boğuştuğumuz o tükenmişlik, suçluluk ve yetersizlik hissi... Ya tüm bunlar sandığımız kadar kişisel değilse? Ya hepsi kusursuz işleyen bu hasta düzenin üzerimizde bıraktığı izlerse? İmkânsız Vaka, sosyolojiden psikolojiye, popüler kültürden dijital dünyaya uzanan geniş bir alanı incelerken sadece teşhis koymuyor, bu düzeni nasıl içselleştirdiğimizi sorgulatarak kolektifbir sağaltım çağrısı yapıyor. Çünkü bu terapide değişmesi gereken tek şey “hasta” değil.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe"
+        },
+        "title" : {
+          "evidence_text" : "İmkânsız Vakaİflah Olmaz Erkeklik Terapi OdasındaKatharina Linnepe Patriyarka terapiye ikna olsaydı, teşhisi ne olurdu? Katharina Linnepe, bu çarpıcı ve özgün metinde patriyarkayı terapi koltuğuna yatırarak onu psikopatik, narsisistik ve makyavelist eğilimler sergileyen bir “hasta” olarak analiz ediyor. Seans ilerledikçe, patriyarkanın gündelik hayatımıza, ilişkilerimize ve hatta kendi iç sesimize nasıl sinsi taktiklerle yerleştiği ifşa oluyor. Tam da bu noktada Linnepe, okuru pasif bir gözlemci olmaktan çıkarıp ezber bozan bir soru soruyor: Günlük hayatta boğuştuğumuz o tükenmişlik, suçluluk ve yetersizlik hissi... Ya tüm bunlar sandığımız kadar kişisel değilse? Ya hepsi kusursuz işleyen bu hasta düzenin üzerimizde bıraktığı izlerse? İmkânsız Vaka, sosyolojiden psikolojiye, popüler kültürden dijital dünyaya uzanan geniş bir alanı incelerken sadece teşhis koymuyor, bu düzeni nasıl içselleştirdiğimizi sorgulatarak kolektifbir sağaltım çağrısı yapıyor. Çünkü bu terapide değişmesi gereken tek şey “hasta” değil.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe"
+        },
+        "translator" : {
+          "evidence_text" : "",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe"
+        }
+      },
+      "publisher_id" : "kolektif",
+      "publisher_name" : "Kolektif",
+      "publisher_url" : "https://www.kolektifkitap.com/",
+      "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe",
+      "title" : "İmkânsız Vaka",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Yiğit Aydın",
+      "captured_at" : "2026-06-03T23:33:18Z",
+      "confidence" : "high",
+      "description" : "Sanat tarihinin en büyük dehaları aynı zamanda kendi dönemlerinin en büyük baş belaları olabilir mi? Kusursuzluğun peşinden koşarken ruhlarını tutkulara, saplantılara ve deliliğe teslim eden sanatçıların gerçek yüzleriyle tanışmaya hazır mısınız? Uzun yıllar sanat tarihi üzerine dersler veren Yiğit Aydın, Baş Belaları ve Başyapıtları’nda sizi müzelerin parıltılı salonlarından çıkarıp, sanatçıların kaotik ve çalkantılı atölyelerine götürüyor. Tarihin gördüğü en zeki fakat bir o kadar da istikrarsız insanlardan Leonardo da Vinci’nin bitmek bilmez merakına, huysuz dâhi Michelangelo’nun melekleri taştan azat edişine ve ustalarının yeteneklerini bir sünger gibi emen Raffaello’nun gerçek yüzüne tanıklık edeceksiniz.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "YİĞİT AYDIN BAŞ BELALARI VE BAŞYAPITLARI",
+          "source_url" : "https://kronikkitap.com/kitap/bas-belalari-ve-basyapitlari/"
+        },
+        "description" : {
+          "evidence_text" : "Kitap açıklaması sayfada görünür metin olarak mevcut.",
+          "source_url" : "https://kronikkitap.com/kitap/bas-belalari-ve-basyapitlari/"
+        },
+        "title" : {
+          "evidence_text" : "Kitap · Baş Belaları Ve Başyapıtları ANA SAYFA HAKKIMIZDA KİTAPLAR YENİ KİTAPLAR TARİH ASYA TARİHİ ANI-BİYOGRAFİ ANTİK ÇAĞ AVRUPA TARİHİ DİNLER TARİHİ DÜNYA TARİHİ GİZLİ TEŞKİLATLAR HAÇLI SEFERLERİ TARİHİ İKİNCİ DÜNYA SAVAŞI TARİHİ KISA TARİH KLASİKLER MİTOLOJİ OSMANLI TARİHİ ORTADOĞU TARİHİ OSPREY RESİMLİ TARiH DİZİSİ SELÇUKLU TARİHİ TÜRKİYE TARİHİ FAHİR ARMAOĞLU KİTAPLIĞI HALİL İNALCIK KİTAPLIĞI İLBER ORTAYLI KİTAPLIĞI TARIK ZAFER TUNAYA KİTAPLIĞI EDEBİYAT ROMAN TARİHİ ROMAN PSİKOLOJİ DOĞAN CÜCELOĞLU KİTAPLIĞI DÜŞÜNCE POPÜLER BİLİM İŞ DÜNYASI AİLE KİŞİSEL GELİŞİM SAĞLIK SANAT GEZİ-SEYAHAT YEMEK DAKİKALAR İÇİNDE KRONIK BOOKS SESLİ KİTAP 2026 KİTAPLARI 2025 KİTAPLARI 2024 KİTAPLARI 2023 KİTAPLARI 2022 KİTAPLARI 2021 KİTAPLARI ÇOCUK 4+ YAŞ 5+ YAŞ 6+ YAŞ 7+ YAŞ 8+ YAŞ 9+ YAŞ 10+ YAŞ 11+ YAŞ 12+ YAŞ İLK GENÇ YAZARLAR KATALOG İLETİŞİM KİTABIN KAPAK GÖRSELİNİ İNDİR YİĞİT AYDIN BAŞ BELALARI VE BAŞYAPITLARI SANAT TARİHİNİN EN BÜYÜK DEHALARI AYNI ZAMANDA KENDİ DÖNEMLERİNİN EN BÜYÜK BAŞ BELALARI OLABİLİR Mİ?",
+          "source_url" : "https://kronikkitap.com/kitap/bas-belalari-ve-basyapitlari/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://kronikkitap.com/kitap/bas-belalari-ve-basyapitlari/"
+        }
+      },
+      "publisher_id" : "kronik",
+      "publisher_name" : "Kronik",
+      "publisher_url" : "https://www.kronikkitap.com/",
+      "source_url" : "https://kronikkitap.com/kitap/bas-belalari-ve-basyapitlari/",
+      "title" : "Baş Belaları Ve Başyapıtları",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Sait Faik Abasıyanık",
+      "captured_at" : "2026-06-03T23:33:02Z",
+      "confidence" : "medium",
+      "description" : null,
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "detected_labels Yazar",
+          "source_url" : "https://www.kirmizikedi.com/hist-hist-sait-faik-in-kitap-siz-metinleri-klasik-p-7415"
+        },
+        "description" : {
+          "evidence_text" : "json_ld description alanı boş",
+          "source_url" : "https://www.kirmizikedi.com/hist-hist-sait-faik-in-kitap-siz-metinleri-klasik-p-7415"
+        },
+        "title" : {
+          "evidence_text" : "page_title ve headings",
+          "source_url" : "https://www.kirmizikedi.com/hist-hist-sait-faik-in-kitap-siz-metinleri-klasik-p-7415"
+        },
+        "translator" : {
+          "evidence_text" : "sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.kirmizikedi.com/hist-hist-sait-faik-in-kitap-siz-metinleri-klasik-p-7415"
+        }
+      },
+      "publisher_id" : "kirmizi-kedi",
+      "publisher_name" : "Kırmızı Kedi",
+      "publisher_url" : "https://www.kirmizikedi.com/",
+      "source_url" : "https://www.kirmizikedi.com/hist-hist-sait-faik-in-kitap-siz-metinleri-klasik-p-7415",
+      "title" : "Hişt Hişt!.... – Sait Faik’in “Kitap”sız Metinleri – KLASİK",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "James Taynion",
+      "captured_at" : "2026-06-03T23:31:42Z",
+      "confidence" : "high",
+      "description" : "“Göl Kenarındaki Hoş Ev’in dramını, gizemini ve cazibesini sevgi ile zulüm, dostluk ve ihanet arasındaki gerilim oluşturuyor. Bu hikâyeyi 2022’nin en muhteşem çizgi romanlarından biri yapan da tam olarak bu.” —Polygon “Fazlasıyla tatmin eden bir devam cildi... Bugüne kadar yayımlanan en iyi Black Label serilerinden biri.” —ComicBook.com “Bir şaheser... Tynion, Bueno ve Bellaire gerçekten çok özel bir şey yaratıyor ve ilk panelden beri çizgilerini hiç bozmadılar.” —AIPT ARKADAŞLARINIZI NE KADAR İYİ TANIYORSUNUZ? Bir grup genç arkadaş lüks, tenha bir göl evinde buluşurken dünyada gizemli bir felaket başlayalı birkaç gün oldu. (Yoksa daha mı fazla?) Ama neyse ki hepsinin ortak arkadaşı Walter, bilgeliği ve onlara olan derin sevgisiyle hepsini korumaya geldi. (Amacı gerçekten bu mu?) Korkularını, sorularını ve çözemedikleri şüphelerini bir kenara bırakırlarsa hepsi bu tehlikeli ve sinir bozucu durumdan sağ çıkabilecek. (Ama öyle olmayacak.) Gizem dolu popüler korku hikâyesinin ikinci cildinde Göl Kenarındaki Hoş Ev’in karakterleri, Walter’ın hayatlarını değiştiren seyahat davetini kabul ettikten sonra yaşadıkları felaketle ilgili gerçeğe biraz daha yaklaşıyorlar. Bu gerçek ise kalplerindeki son ümit kırıntılarını yok edecek. Çizgi roman sektörünün prestijli Eisner töreninde iki ödül kazandıktan sonra korku ustası James Tynion IV (Batman, Something Is Killing the Children, The Department of Truth) ve senelerdir beraber çalıştığı çizer ortağı Álvaro Martínez Bueno (Detective Comics, Justice League Dark), kozmik korku efsanelerini şok edici bir sonla bitiriyorlar. Ancak Hoş Ev’in kapılarını daha da ürkütücü bir gelecek için açık bırakmayı ihmal etmiyorlar. Göl Kenarındaki Hoş Ev #7-12’nin bir araya getirilmiş halidir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa içeriği ve detected_labels: Yazar James Taynion",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa açıklama alanı",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld name alanı: Göl Kenarındaki Hoş Ev 2 - Karakarga Yayınları",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/"
+        }
+      },
+      "publisher_id" : "karakarga",
+      "publisher_name" : "Karakarga",
+      "publisher_url" : "https://www.karakarga.com/",
+      "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/",
+      "title" : "Göl Kenarındaki Hoş Ev 2",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Will Heinrich",
+      "captured_at" : "2026-06-03T23:31:13Z",
+      "confidence" : "high",
+      "description" : "Joseph Malderoyce çok genç yaşta resme başlar ama Mondrian’ın resimleriyle tanışınca asla onun kadar iyi bir ressam olamayacağını anlayıp vazgeçer. Tüberküloza takıntılı şekilde merak duyan, felsefi görüşlü biridir Joseph. Ailesinden yüklü bir miras kalınca, çalıştığı hukuk firmasından istifa eder ve ülkenin en kuzeyinde küçük bir kasabaya yerleşir. Orman kenarındaki evinde münzevi bir hayat sürerken bir sabah verandasında uyuyan, fena halde dövülmüş bir çocuk bulur. Kimsesiz ve yardıma muhtaç olduğu anlaşılan Abel, böylece Joseph’ın hayatına girer ve çok geçmeden onun en yakını olur. Ama ilişkileri ilerledikçe, şeytani bir zekâya sahip Abel’ın davranışları tuhaflaşmaya başlar. Sonunda Joseph, evinde kendi eliyle beslediği bu sorunla yüzleşmek zorunda kalır. Son derece titizlikle işlenmiş, tüyler ürpertici bu çağdaş roman, insan ruhunun kötücül doğasını ve karanlık köşelerini keşfe çıkıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Kralın Laneti Will Heinrich",
+          "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/"
+        },
+        "description" : {
+          "evidence_text" : "Joseph Malderoyce çok genç yaşta resme başlar ama Mondrian’ın resimleriyle tanışınca asla onun kadar iyi bir ressam olamayacağını anlayıp vazgeçer. Tüberküloza takıntılı şekilde merak duyan, felsefi görüşlü biridir Joseph. Ailesinden yüklü bir miras kalınca, çalıştığı hukuk firmasından istifa eder ve ülkenin en kuzeyinde küçük bir kasabaya yerleşir. Orman kenarındaki evinde münzevi bir hayat sürerken bir sabah verandasında uyuyan, fena halde dövülmüş bir çocuk bulur. Kimsesiz ve yardıma muhtaç olduğu anlaşılan Abel, böylece Joseph’ın hayatına girer ve çok geçmeden onun en yakını olur. Ama ilişkileri ilerledikçe, şeytani bir zekâya sahip Abel’ın davranışları tuhaflaşmaya başlar. Sonunda Joseph, evinde kendi eliyle beslediği bu sorunla yüzleşmek zorunda kalır. Son derece titizlikle işlenmiş, tüyler ürpertici bu çağdaş roman, insan ruhunun kötücül doğasını ve karanlık köşelerini keşfe çıkıyor.",
+          "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/"
+        },
+        "title" : {
+          "evidence_text" : "Kralın Laneti - Jaguar Kitap Kralın Laneti Will Heinrich Joseph Malderoyce çok genç yaşta resme başlar ama Mondrian’ın resimleriyle tanışınca asla onun kadar iyi bir ressam olamayacağını anlayıp vazgeçer. Tüberküloza takıntılı şekilde merak duyan, felsefi görüşlü biridir Joseph. Ailesinden yüklü bir miras kalınca, çalıştığı hukuk firmasından istifa eder ve ülkenin en kuzeyinde küçük bir kasabaya yerleşir. Orman kenarındaki evinde münzevi bir hayat sürerken bir sabah verandasında uyuyan, fena halde dövülmüş bir çocuk bulur. Kimsesiz ve yardıma muhtaç olduğu anlaşılan Abel, böylece Joseph’ın hayatına girer ve çok geçmeden onun en yakını olur. Ama ilişkileri ilerledikçe, şeytani bir zekâya sahip Abel’ın davranışları tuhaflaşmaya başlar. Sonunda Joseph, evinde kendi eliyle beslediği bu sorunla yüzleşmek zorunda kalır. Son derece titizlikle işlenmiş, tüyler ürpertici bu çağdaş roman, insan ruhunun kötücül doğasını ve karanlık köşelerini keşfe çıkıyor. Olayların sadece karakterler arasında değil, aynı zamanda gizliden gizliye okurla karakterlerin arasında da geçtiği kitaplardan olan Kralın Laneti , Zeynep Enez’in çevirisiyle…",
+          "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/"
+        },
+        "translator" : {
+          "evidence_text" : "Zeynep Enez’in çevirisiyle",
+          "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/"
+        }
+      },
+      "publisher_id" : "jaguar",
+      "publisher_name" : "Jaguar",
+      "publisher_url" : "https://www.jaguarkitap.com/",
+      "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/",
+      "title" : "Kralın Laneti",
+      "translator" : "Zeynep Enez",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Emrah Serbes",
+      "captured_at" : "2026-06-03T23:29:55Z",
+      "confidence" : "high",
+      "description" : "Kendini anlatmaya ihtiyaç duymadığı gibi artık “anlatılmaya” da ihtiyacı olmayan bir karakter Behzat Ç. Yıllar önce bir telsiz cızırtısıyla başlayan macerası ise artık 20 yaşında. Ve bizi bu macerayla tanıştıran Her Temas İz Bırakır, Son Hafriyat, Çekiç ve Gül şimdi bir arada.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld'den: Behzat Ç. - Emrah Serbes",
+          "source_url" : "https://iletisim.com.tr/kitap/behzat-c-20-yil-ozel-baski/10950"
+        },
+        "description" : {
+          "evidence_text" : "Yeni çıkanlar RSS sayfasından alınan açıklama metni",
+          "source_url" : "https://iletisim.com.tr/rss/yeni-cikanlar"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld'den: Behzat Ç. - Emrah Serbes | İletişim Yayınları",
+          "source_url" : "https://iletisim.com.tr/kitap/behzat-c-20-yil-ozel-baski/10950"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://iletisim.com.tr/kitap/behzat-c-20-yil-ozel-baski/10950"
+        }
+      },
+      "publisher_id" : "iletisim",
+      "publisher_name" : "İletişim",
+      "publisher_url" : "https://www.iletisim.com.tr/",
+      "source_url" : "https://iletisim.com.tr/kitap/behzat-c-20-yil-ozel-baski/10950",
+      "title" : "Behzat Ç.",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Prof. Dr. Ahmet Karacalar",
+      "captured_at" : "2026-06-03T23:29:36Z",
+      "confidence" : "high",
+      "description" : "Lipödem, sıklıkla obezite ile karışan bir sendromdur. Lipödem, beslenmeden kaynaklanmaz. Bu nedenle diyetlerden fazla etkilenmez ve lipödem tedavisi için özel bir diyet yoktur. Çoğunlukla gözden kaçırılan fakat giderek artan bu sağlık sorunu, Batı toplumunda kadın nüfusunun yüzde 10’unu etkiler. Alışılmışın dışında bir bakış açısından konuyu ele alan bu kitap, özellikle evrimsel geçmişimizin lipödeme nasıl katkıda bulunduğunu, “en uygun olanın yaşaması” evrimsel kuramı ile nasıl açıklanabileceğini, evrimsel ilkelerin nasıl lipödeme uygulanabileceği ile ilgileniyor. İlk lipödem olguları, Anadolu’da gerçekleşmiş olan tarım devrimi ile yakından ilişkilidir. Ancak tarım devrimi insanın evriminde bir uyumsuzluğa neden oldu. Modern hastalıkların evrimsel kökenleri tam da buradadır. Bu saptamalar önemli bir sağlık sorununun çözümüne de kapıyı aralıyor. Lipödemin tedavisinde avcı-toplayıcı yaşam tarzının ve diyetinin modern bir uyarlanmasını savunan ve sunan Prof. Dr. Ahmet Karacalar yine de bu tedavi yönteminin yanında “hastalık yoktur, hasta vardır,” ilkesine sadık kalarak kendi tedavi yöntemini hasta odaklı kılıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar etiketi: Prof. Dr. Ahmet Karacalar Hazırlayan: Özcan Özen",
+          "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması metni",
+          "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün açıklaması",
+          "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/"
+        }
+      },
+      "publisher_id" : "h2o",
+      "publisher_name" : "H2O",
+      "publisher_url" : "https://www.h2okitap.com/",
+      "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/",
+      "title" : "Lipödem Sendromu",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Alice Oswald",
+      "captured_at" : "2026-06-03T23:28:58Z",
+      "confidence" : "high",
+      "description" : "Alice Oswald’a 2013 Warwick Yazı Ödülü’nü kazandıran Abide: Bir İlyada Kazısı, yenilikçi yaklaşımı ve şaşırtıcı hayal gücüyle dikkat çeken bir İlyada “çeviri”si. Şimdiye kadarki çevirilerden farkı, destanın hikâyesini değil atmosferini çevirmesi: Matthew Arnold’dan bugüne hemen herkesin yaptığı gibi İlyada’nın “asalet”ini övmüyor, eski çağ eleştirmenleri gibi destanın “enargeia”sını övüyor, tanrılar yeryüzüne kılık değiştirerek değil de kendileri olarak geldiğinde tanık olunan göz alıcı, dayanılmaz gerçekliği. Yapıyı değil de tapılanı hatırlamak için mabedin çatısını söküp alırcasına, şiirin enargeia’sına tekrar kavuşabilmek için, anlatıyı bir kenara bırakıp askerlerin biyografilerine ve ölümlerine odaklanıyor. Abide: Bir İlyada Kazısı’nda şair ozanın yerine geçip yas törenini yönetiyor, savaşta yitirdikleri yiğitlere ağıt yakan kadınlara yol gösteriyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Author: Alice Oswald Category: Yeni Kitaplar",
+          "source_url" : "https://www.harfa.com.tr/kitap/abide/"
+        },
+        "description" : {
+          "evidence_text" : "Description İngilizceden çeviren Nazım Dikbaş 12.04.2021, Şiir, 88 sf, ISBN 9786057492944 Bir sözlü mezarlık: Troya Savaşı’nda yitirilenler için dikilmiş bir abide. Alice Oswald’a 2013 Warwick Yazı Ödülü’nü kazandıran Abide: Bir İlyada Kazısı, yenilikçi yaklaşımı ve şaşırtıcı hayal gücüyle dikkat çeken bir İlyada “çeviri”si. Şimdiye kadarki çevirilerden farkı, destanın hikâyesini değil atmosferini çevirmesi: Matthew Arnold’dan bugüne hemen herkesin yaptığı gibi İlyada’nın “asalet”ini övmüyor, eski çağ eleştirmenleri gibi destanın “enargeia”sını övüyor, tanrılar yeryüzüne kılık değiştirerek değil de kendileri olarak geldiğinde tanık olunan göz alıcı, dayanılmaz gerçekliği. Yapıyı değil de tapılanı hatırlamak için mabedin çatısını söküp alırcasına, şiirin enargeia’sına tekrar kavuşabilmek için, anlatıyı bir kenara bırakıp askerlerin biyografilerine ve ölümlerine odaklanıyor.Abide: Bir İlyada Kazısı’nda şair ozanın yerine geçip yas törenini yönetiyor, savaşta yitirdikleri yiğitlere ağıt yakan kadınlara yol gösteriyor.",
+          "source_url" : "https://www.harfa.com.tr/kitap/abide/"
+        },
+        "title" : {
+          "evidence_text" : "Abide - Harfa.com.tr 0 Items - ₺ 0.00 0 Sepette ürün yok. ₺ 80.00 Abide Alice Oswald’a 2013 Warwick Yazı Ödülü’nü kazandıran Abide: Bir İlyada Kazısı, yenilikçi yaklaşımı ve şaşırtıcı hayal gücüyle dikkat çeken bir İlyada “çeviri”si. Şimdiye kadarki çevirilerden farkı, destanın hikâyesini değil atmosferini çevirmesi: Matthew Arnold’dan bugüne hemen herkesin yaptığı gibi İlyada’nın “asalet”ini övmüyor, eski çağ eleştirmenleri gibi destanın “enargeia”sını övüyor,",
+          "source_url" : "https://www.harfa.com.tr/kitap/abide/"
+        },
+        "translator" : {
+          "evidence_text" : "İngilizceden çeviren Nazım Dikbaş",
+          "source_url" : "https://www.harfa.com.tr/kitap/abide/"
+        }
+      },
+      "publisher_id" : "harfa",
+      "publisher_name" : "Harfa",
+      "publisher_url" : "https://harfa.com.tr/",
+      "source_url" : "https://www.harfa.com.tr/kitap/abide/",
+      "title" : "Abide",
+      "translator" : "Nazım Dikbaş",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Kübra Yeter, Zeynep Hakgüder Yılmaz",
+      "captured_at" : "2026-06-03T23:28:40Z",
+      "confidence" : "high",
+      "description" : "Güneş hiçbir yerde yoktu. Oysa saat tıkır tıkır işliyordu… Neredeydi Güneş? Neden doğmamıştı? Peki, soruların cevabı kimdeydi? Anni ve arkadaşları için bu, büyük bir maceranın başlangıcıydı… Dört kafadar, Güneş’i bulmak için çıktıkları bu cesur yolculukta bir yandan el ele vermenin gücünü bir yandan da sorumluluk almanın dönüştürücü etkisini keşfediyor. Kitap, doğayı sevmeyi, sorunlar karşısında birlikte çözüm üretmenin gücünü çocuklara umut dolu bir hikâyeyle anlatıyor. Güneşi geri getirmek mümkün mü? Haydi, düş bu hikâyenin peşine… Güneşeee!",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa içeriğinde yazar bilgisi",
+          "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa içeriğindeki ürün açıklaması",
+          "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün sayfası içeriği",
+          "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi sayfada yok",
+          "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese"
+        }
+      },
+      "publisher_id" : "ginko",
+      "publisher_name" : "Ginko",
+      "publisher_url" : "https://www.ginkokitap.com/",
+      "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese",
+      "title" : "Düş Peşime Güneşe",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Şermin Yaşar",
+      "captured_at" : "2026-06-03T23:27:03Z",
+      "confidence" : "high",
+      "description" : "Selime Teyze’nin hikâyesi, çocuklarının dünyasında yer bulamayan ve onların gözünde yok gibi var olmayı reddeden bir annenin hikâyesi. Selime, bir şeylerle meşgul olmak, zamanın kolay geçmesini istemektedir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Altı Harfli Bir Tatlı - Şermin Yaşar | Doğan Kitap",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli"
+        },
+        "description" : {
+          "evidence_text" : "“Ben istiyorum ki meşguliyetim olsun. Elimde bir işim olsun. Bekleyecek bir şeylerim olsun... Telefonun başında çocukların aramasını bekleyeyim, pencerenin kenarında çocukların, torunların bana uğramasını bekleyeyim, ağaç yapraklansın diye bekleyeyim, salatalıklar çiçek açsın diye bekleyeyim, domates kızarsın diye bekleyeyim. Öyle şeyler... Zaman kolay geçsin istiyorum ben. Başka derdim yok. Ölüm kapımı çalana kadar bir şeyler oyalasın işte beni.” Selime Teyze’nin hikâyesi, çocuklarının dünyasında yer bulamayan ve onların gözünde yok gibi var olmayı reddeden bir annenin hikâyesi.",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli"
+        },
+        "title" : {
+          "evidence_text" : "Altı Harfli Bir Tatlı - Şermin Yaşar | Doğan Kitap",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli"
+        },
+        "translator" : {
+          "evidence_text" : "Orijinal Dili: Türkçe",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli"
+        }
+      },
+      "publisher_id" : "dogan-kitap",
+      "publisher_name" : "Doğan Kitap",
+      "publisher_url" : "https://www.dogankitap.com.tr/",
+      "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli",
+      "title" : "Altı Harfli Bir Tatlı",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "İclal Ayşe Küçükkırca (Derleyen), Handan Cağlayan (Derleyen)",
+      "captured_at" : "2026-06-03T23:26:39Z",
+      "confidence" : "high",
+      "description" : "2000’li yılların başları, Türkiye’de kadın hareketi açısından pek çok yönüyle önemli bir aşamaya işaret ediyordu. Bağımsız feministlerden, sosyalist feministlere, Kürt kadınlardan dindar ve Kemalist kadınlar ile sosyalist gruplar içindeki kadınlara uzanan geniş yelpazedeki kadın grupları, örgütleri, inisiyatifleri, 1980’li ve 90’lı yıllar boyunca kayda değer bir bilgi, deneyim, eylem ve örgüt gücü biriktirmişlerdi. Bağımsız kadın hareketinin canlılığı, toplum örgütleri, siyasi partiler ve sendikalar gibi karma örgütlerdeki kadınları da etkilemiş; onlar da bulundukları örgütlerde, kadınlarla ilgili gündemler oluşturmaya başlamıştı. LGBTİ+ oluşumlar da söz konusu dinamizm içinde yerini almıştı. Devam eden baskı ortamı, 2010’lu yıllar boyunca geliştirilen platformların, koalisyon tarzı iş yapma deneyiminin büyük ölçüde kesintiye uğramasına yol açtı. Kadın örgütleri, grupları, insiyatifleri kendi içine kapandı, aralarındaki iletişim zayıfladı. Bununla birlikte kadın hareketi tamamen bastırılamadı. Aksine halen ülkenin en güçlü toplumsal hareketlerinden biri olmaya devam ediyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Kadınlar Birbirlerine Doğru Yürüyor 2000’ler Türkiye’sinde Kadın Hareketleri İclal Ayşe Küçükkırca (Derleyen) , Handan Cağlayan (Derleyen)",
+          "source_url" : "https://www.dipnotkitap.com/kitap/kadinlar-birbirlerine-dogru-yuruyor/462"
+        },
+        "description" : {
+          "evidence_text" : "2000’li yılların başları, Türkiye’de kadın hareketi açısından pek çok yönüyle önemli bir aşamaya işaret ediyordu. Bağımsız feministlerden, sosyalist feministlere, Kürt kadınlardan dindar ve Kemalist kadınlar ile sosyalist gruplar içindeki kadınlara uzanan geniş yelpazedeki kadın grupları, örgütleri, inisiyatifleri, 1980’li ve 90’lı yıllar boyunca kayda değer bir bilgi, deneyim, eylem ve örgüt gücü biriktirmişlerdi. Bağımsız kadın hareketinin canlılığı, toplum örgütleri, siyasi partiler ve sendikalar gibi karma örgütlerdeki kadınları da etkilemiş; onlar da bulundukları örgütlerde, kadınlarla ilgili gündemler oluşturmaya başlamıştı. LGBTİ+ oluşumlar da söz konusu dinamizm içinde yerini almıştı. Devam eden baskı ortamı, 2010’lu yıllar boyunca geliştirilen platformların, koalisyon tarzı iş yapma deneyiminin büyük ölçüde kesintiye uğramasına yol açtı. Kadın örgütleri, grupları, insiyatifleri kendi içine kapandı, aralarındaki iletişim zayıfladı. Bununla birlikte kadın hareketi tamamen bastırılamadı. Aksine halen ülkenin en güçlü t",
+          "source_url" : "https://www.dipnotkitap.com/kitap/kadinlar-birbirlerine-dogru-yuruyor/462"
+        },
+        "title" : {
+          "evidence_text" : "Kadınlar Birbirlerine Doğru Yürüyor 2000’ler Türkiye’sinde Kadın Hareketleri İclal Ayşe Küçükkırca (Derleyen) , Handan Cağlayan (Derleyen) 2000’li yılların başları, Türkiye’de kadın hareketi açısından pek çok yönüyle önemli bir aşamaya işaret ediyordu.",
+          "source_url" : "https://www.dipnotkitap.com/kitap/kadinlar-birbirlerine-dogru-yuruyor/462"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://www.dipnotkitap.com/kitap/kadinlar-birbirlerine-dogru-yuruyor/462"
+        }
+      },
+      "publisher_id" : "dipnot",
+      "publisher_name" : "Dipnot",
+      "publisher_url" : "https://www.dipnotkitap.com/",
+      "source_url" : "https://www.dipnotkitap.com/kitap/kadinlar-birbirlerine-dogru-yuruyor/462",
+      "title" : "Kadınlar Birbirlerine Doğru Yürüyor 2000’ler Türkiye’sinde Kadın Hareketleri",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Maurizio Gribaudi, Michèle Riot-Sarcey",
+      "captured_at" : "2026-06-03T23:24:44Z",
+      "confidence" : "high",
+      "description" : "Maurizio Gribaudi ve Michèle Riot-Sarcey tarafından kaleme alınmış 1848: Unutulmuş Devrim, Fransa’nın siyasi tarihinde genellikle gölgede kalmış ancak büyük toplumsal dönüşümlere zemin hazırlayan bir dönemi mercek altına alıyor. Kitap, 1848 Şubat Devrimi’ni ve ardından gelen kanlı Haziran ayaklanmasını tüm boyutlarıyla ele alıyor, halkın eşitlik, adalet ve demokratik haklar arayışını gözler önüne seriyor. Dönemin tanıklarının mektuplarına, günlüklerine, gazetelere ve resmi belgelere yer vererek devrimi toplumsal yapıyı yeniden şekillendiren bir süreç olarak sunuyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazarlar: Maurizio Gribaudi Michèle Riot-Sarcey",
+          "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/"
+        },
+        "description" : {
+          "evidence_text" : "Kitabın resmi açıklama metninden sadeleştirilmiş özet",
+          "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/"
+        },
+        "title" : {
+          "evidence_text" : "Maurizio Gribaudi ve Michèle Riot-Sarcey tarafından kaleme alınmış 1848: Unutulmuş Devrim, Fransa’nın siyasi tarihinde genellikle gölgede kalmış ancak büyük toplumsal dönüşümlere zemin hazırlayan bir dönemi mercek altına alıyor. 1848 Şubat Devrimi’ni ve ardından gelen kanlı Haziran ayaklanmasını tüm boyutlarıyla ele alan kitap, yalnızca bir rejim değişikliğini değil, bir halkın eşitlik, adalet ve demokratik haklar arayışını da gözler önüne seriyor. Eser, köklü monarşinin çöküşünü, halk hareketlerinin doğuşunu ve yeni bir Cumhuriyet’in sancılı başlangıcını anlatırken dönemin tanıklarının mektuplarına, günlüklere, gazetelere ve resmi belgelere yer veriyor. Bu ifadeler, çeşitli bakış açılarıyla, hem devrimin seyrini hem de halkın ve işçi sınıfının yaşadığı zorlukları ve mücadelesini bugüne taşıyor ve anlamamıza olanak tanıyor. Zenginleştirilmiş tanık ifadeleri, dönemin toplumsal yapısına dair çarpıcı detaylar ve titiz tarihsel analizlerle Gribaudi ve Riot-Sarcey’nin çalışması, devrimi yalnızca tarihsel bir olay olarak değil, toplumsal yapıyı yeniden şekillendiren bir süreç olarak sunarak, eşitlik ve özgürlük mücadelesinin bugüne kadar sürüp gelen etkilerini gözler önüne seriyor.",
+          "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/"
+        }
+      },
+      "publisher_id" : "ayrinti",
+      "publisher_name" : "Ayrıntı",
+      "publisher_url" : "https://www.ayrintiyayinlari.com.tr/",
+      "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/",
+      "title" : "1848 Unutulmuş Devrim",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Mîran Ebraham",
+      "captured_at" : "2026-06-03T23:24:24Z",
+      "confidence" : "high",
+      "description" : "\"Nîştimanê Sara\" çîroka girêdana bi axê ve ye. Axa ku kurd, cihû, êzdî, xiristiyan bi hev re dijîn lê dîn ew ji hev parçe kirine û bûye sedema zilm, zordarî û êşên giran. Roman ligel ku trajediya cihûyên Kurdistanê û pabendiya wan a bi vê axê/welatî re radixîne ber çavan, rola kurdan a di vê zilmê de jî paşguh nake û xwîner vedixwîne bo pirsiyarkir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa içeriğinde yazar adı",
+          "source_url" : "https://www.avestakitap.com/nistimane-sara"
+        },
+        "description" : {
+          "evidence_text" : "Ürün sayfasındaki açıklama metni",
+          "source_url" : "https://www.avestakitap.com/nistimane-sara"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün sayfası içeriği",
+          "source_url" : "https://www.avestakitap.com/nistimane-sara"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Mihemed Tahir Orhan",
+          "source_url" : "https://www.avestakitap.com/nistimane-sara"
+        }
+      },
+      "publisher_id" : "avesta",
+      "publisher_name" : "Avesta",
+      "publisher_url" : "https://www.avestakitap.com/",
+      "source_url" : "https://www.avestakitap.com/nistimane-sara",
+      "title" : "NÎŞTIMANÊ SARA",
+      "translator" : "Mihemed Tahir Orhan",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "İnci Aydın",
+      "captured_at" : "2026-06-03T23:23:50Z",
+      "confidence" : "high",
+      "description" : "Aras Yayıncılık, sanat tarihçisi İnci Aydın’ın uzun yıllara yayılan titiz araştırmalarının ürünü olan Renklerin Diyojen’i Ressam Agop Arad kitabını okurla buluşturuyor. Eser, ressam, gazeteci ve yazar Agop Arad’ın (1913–1990) yaşamını ve sanatını, dönemin kültürel ve entelektüel atmosferiyle birlikte ele alarak 1940’lar Türkiyesine çok katmanlı bir bakış sunuyor. Kitapta, dönemin önemli edebiyat ve sanatçılarıyla Agop Arad’ın ilişkileri ve ortak üretimleri ayrıntılı biçimde inceleniyor. Sanatçının toplumcu gerçekçi sanat anlayışı bağlamında İstanbul’un gündelik yaşamını resmetmesi anlatılıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Renklerin Diyojeni: Ressam Agop Arad – Aras Yayıncılık ... Aras Yayıncılık, sanat tarihçisi İnci Aydın’ın uzun yıllara yayılan titiz araştırmalarının ürünü olan Renklerin Diyojen’i Ressam Agop Arad kitabını okurla buluşturuyor!",
+          "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/"
+        },
+        "description" : {
+          "evidence_text" : "Aras Yayıncılık, sanat tarihçisi İnci Aydın’ın uzun yıllara yayılan titiz araştırmalarının ürünü olan Renklerin Diyojen’i Ressam Agop Arad kitabını okurla buluşturuyor! Eser ressam, gazeteci ve yazar Agop Arad’ın (1913–1990) yaşamını ve sanatını, dönemin kültürel ve entelektüel atmosferiyle birlikte ele alarak 1940’lar Türkiyesine çok katmanlı bir bakış sunuyor. Aydın’ın doktora yıllarında filizlenen merakı, Beyazıt Devlet Kütüphanesi’nin gazete arşivlerinden özel koleksiyonlara uzanan kapsamlı bir araştırmaya dönüşüyor. Kitapta, Sait Faik Abasıyanık’tan Orhan Veli Kanık’a, Sabahattin Ali’den Yaşar Kemal’e; Fikret Adil, Melih Cevdet Anday, İlhan Selçuk ve Bedri Rahmi Eyüboğlu gibi dönemin önde gelen isimleriyle Agop Arad’ın kesişen yolları, dostlukları ve ortak üretimleri ayrıntılı biçimde inceleniyor. Yeniler Grubu’nun manifestosundan Babıâli’nin gazetecilik ortamına, Paris’teki sanat çevrelerinden İstanbul’un gündelik yaşamına uzanan anlatı, 1940 kuşağının kültürel haritasını yeniden kuruyor. Yazar Yervant Gobelyan’ın “Renklerin Diyojen’i” olarak adlandırdığı Agop Arad, yalın çizgileri ve güçlü renk kullanımıyla İstanbul’un sıradan insanlarını resmin merkezine taşır. Balıkçılar, seyyar satıcılar, ayakkabı boyacıları ve gündelik hayatın görünmez emekçileri, Arad’ın tuvalinde dikkatle ve içtenlikle yer bulur. Kitap, sanatçının bu yaklaşımını toplumcu gerçekçi sanat anlayışı bağlamında değerlendirerek dönemin estetik ve düşünsel iklimine ışık tutuyor.",
+          "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/"
+        },
+        "title" : {
+          "evidence_text" : "Renklerin Diyojeni: Ressam Agop Arad – Aras Yayıncılık Türkçe English ... Aras Yayıncılık, sanat tarihçisi İnci Aydın’ın uzun yıllara yayılan titiz araştırmalarının ürünü olan Renklerin Diyojen’i Ressam Agop Arad kitabını okurla buluşturuyor! Eser ressam, gazeteci ve yazar Agop Arad’ın (1913–1990) yaşamını ve sanatını, dönemin kültürel ve entelektüel atmosferiyle birlikte ele alarak 1940’lar Türkiyesine çok katmanlı bir bakış sunuyor.",
+          "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/"
+        }
+      },
+      "publisher_id" : "aras",
+      "publisher_name" : "Aras",
+      "publisher_url" : "https://www.arasyayincilik.com/",
+      "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/",
+      "title" : "Renklerin Diyojeni: Ressam Agop Arad",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Virginia Evans",
+      "captured_at" : "2026-06-03T23:23:29Z",
+      "confidence" : "high",
+      "description" : "KULAKTAN KULAĞA, DİLDEN DİLE, KALPTEN KALBE YAYILAN, HAYATA KARŞI KAZANILAN EDEBİ BİR ZAFER! 26 Haftadır #1 New York Times Çoksatanı. 2026 PEN/Hemingway En İyi Roman Ödüllü. 2026 Women’s Prize En İyi Roman Finalisti. 3 Dalda Goodreads Okur Ödülleri Finalisti (500.000 oy 4.5 rating). 2026 IndiesChoiceAwards Yılın En İyi Romanı (3.000 bağımsız kitabevinin seçimiyle). VIRGINIA EVANS’IN KALEMİNDEN MUHABBET. Sybil her sabah yazı masasının başına geçiyor ve mektuplar yazıyor. Erkek kardeşine, en yakın arkadaşına, bahçecilik kulübünün üyelerine, en sevdiği derse katılmasına izin vermeyen üniversite dekanına, favori yazarlarına, editörlere, ajanslara… Bir de O’na… Yazdıklarını bir türlü gönderemediğine... Dünyaya tutunmanın yolunu mektuplarda bulan Sybil Van Antwerp onu seven herkesi otuz yıldır kendinden uzakta tutuyor. Ancak inziva sona ermek üzere. Geçmişten gelen mektuplar, onu hayatının en acı dolu dönemiyle yüzleştirecek. Sybil artık o mektubu göndermek zorunda. Yoluna devam edebilmek için önce kendini affetmeli, sonra tüm dünyaya gerçekleri anlatmalı.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve ürün detay sayfası",
+          "source_url" : "https://www.aprilyayincilik.com/muhabbet-virginia-evans"
+        },
+        "description" : {
+          "evidence_text" : "Ürün detay sayfasındaki açıklama metni",
+          "source_url" : "https://www.aprilyayincilik.com/muhabbet-virginia-evans"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün detay sayfası",
+          "source_url" : "https://www.aprilyayincilik.com/muhabbet-virginia-evans"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Ergin Kaptan",
+          "source_url" : "https://www.aprilyayincilik.com/muhabbet-virginia-evans"
+        }
+      },
+      "publisher_id" : "april",
+      "publisher_name" : "April",
+      "publisher_url" : "https://www.aprilyayincilik.com/",
+      "source_url" : "https://www.aprilyayincilik.com/muhabbet-virginia-evans",
+      "title" : "Muhabbet",
+      "translator" : "Ergin Kaptan",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Michelle Heard",
+      "captured_at" : "2026-06-03T23:23:00Z",
+      "confidence" : "high",
+      "description" : "Hayalimdeki işe başladığımda, her şeyin yoluna gireceğini sanmıştım. Babamın bakım masrafları, geçim derdi hepsi geride kalacaktı. Ama çok geçmeden buranın gerçek yüzüyle tanıştım. İmkânsız talepler, bitmek bilmeyen tehditler, sessiz çığlıklar… Burası benim cehennemimdi. Ama cehennemin tam ortasında, herkesin korktuğu o adam bana elini uzattı. İrlanda mafyasının soğuk, acımasız ve ölüm kadar karanlık lideri Liam Byrne. Keskin bakışlarının, tehditkâr duruşunun ardında hiç bilmediğim bir sıcaklık vardı. Onun yanında yeniden nefes alabildiğimi hissediyordum. Artık güvendeydim. Ama bu karanlık dünyanın hâkimi, gerçekten sevebilir miydi? Yoksa ben, imkânsız bir hayale inanan zavallı bir kız mıydım?",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Michelle Heard",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264674/s/gunahkarin-gucu-2-michelle-heard-kitabi-366784-9786258667349/category/335/"
+        },
+        "description" : {
+          "evidence_text" : "description: Hayalimdeki işe başladığımda, her şeyin yoluna gireceğini sanmıştım. Babamın bakım masrafları, geçim derdi... Hepsi geride kalacaktı. Ama çok geçmeden buranın gerçek yüzüyle tanıştım. İmkânsız talepler, bitmek bilmeyen tehditler, sessiz çığlıklar… Burası benim cehennemimdi. Ama cehennemin tam ortasında, herkesin korktuğu o adam bana elini uzattı. İrlanda mafyasının soğuk, acımasız ve ölüm kadar karanlık lideri Liam Byrne. Ama keskin bakışlarının, tehditkâr duruşunun ardında hiç bilmediğim bir sıcaklık vardı. Onun yanında yeniden nefes alabildiğimi hissediyordum. Artık güvendeydim. Ama bu karanlık dünyanın hâkimi, gerçekten sevebilir miydi? Yoksa ben, imkânsız bir hayale inanan zavallı bir kız mıydım?",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264674/s/gunahkarin-gucu-2-michelle-heard-kitabi-366784-9786258667349/category/335/"
+        },
+        "title" : {
+          "evidence_text" : "Günahkârın Gücü 2 - Michelle Heard Artemis Yayınları ... Hayalimdeki işe başladığımda, her şeyin yoluna gireceğini sanmıştım. Babamın bakım masrafları, geçim derdi... Hepsi geride kalacaktı. Ama çok geçmeden buranın gerçek yüzüyle tanıştım. İmkânsız talepler, bitmek bilmeyen tehditler, sessiz çığlıklar… Burası benim cehennemimdi. Ama cehennemin tam ortasında, herkesin korktuğu o adam bana elini uzattı. İrlanda mafyasının soğuk, acımasız ve ölüm kadar karanlık lideri Liam Byrne. Ama keskin bakışlarının, tehditkâr duruşunun ardında hiç bilmediğim bir sıcaklık vardı. Onun yanında yeniden nefes alabildiğimi hissediyordum. Artık güvendeydim. Ama bu karanlık dünyanın hâkimi, gerçekten sevebilir miydi? Yoksa ben, imkânsız bir hayale inanan zavallı bir kız mıydım?",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264674/s/gunahkarin-gucu-2-michelle-heard-kitabi-366784-9786258667349/category/335/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Gülce Arman",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264674/s/gunahkarin-gucu-2-michelle-heard-kitabi-366784-9786258667349/category/335/"
+        }
+      },
+      "publisher_id" : "alfa",
+      "publisher_name" : "Alfa",
+      "publisher_url" : "https://www.alfakitap.com/",
+      "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264674/s/gunahkarin-gucu-2-michelle-heard-kitabi-366784-9786258667349/category/335/",
+      "title" : "Günahkârın Gücü 2",
+      "translator" : "Gülce Arman",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Robin George Collingwood",
+      "captured_at" : "2026-06-03T23:22:43Z",
+      "confidence" : "high",
+      "description" : "Bir Otobiyografi, Collingwood'un kişisel entelektüel vasiyetidir. Geleneksel anı geleneğini reddeder ve zihnin geçmişle sürdürdüğü diyalogu anlatır. Felsefenin amacına dair derin düşünceler içerir ve entelektüellerin zamanlarının krizleriyle yüzleşmesi için güçlü bir çağrıdır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Robin George Collingwood Başlık: Bir Otobiyografi",
+          "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/"
+        },
+        "description" : {
+          "evidence_text" : "Bir Otobiyografi, oluşum hâlindeki bir zihnin geçmişin hayaletleriyle sürdürdüğü amansız diyaloğun sürükleyici öyküsüdür. Collingwood, zamanının hâkim “realist” felsefesinin yalnızca akademik bir hata değil, bir nesli silahsızlandırarak onu faşizmin irrasyonel güçlerine karşı savunmasız bırakan tehlikeli bir yanılsama olduğunu tutkuyla savunur.",
+          "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/"
+        },
+        "title" : {
+          "evidence_text" : "Bir Otobiyografi - Akademim Yayınları İçeriğe atla ... Collingwood bu son derece kişisel entelektüel vasiyetinde, tarihler ve olayların sıralandığı alışılmış anı geleneğini reddeder. Bir Otobiyografi, oluşum hâlindeki bir zihnin geçmişin hayaletleriyle sürdürdüğü amansız diyaloğun sürükleyici öyküsüdür.",
+          "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/"
+        },
+        "translator" : {
+          "evidence_text" : "M. Murtaza Özeren",
+          "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/"
+        }
+      },
+      "publisher_id" : "akademim",
+      "publisher_name" : "Akademim",
+      "publisher_url" : "https://akademimkitapligi.com/",
+      "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/",
+      "title" : "Bir Otobiyografi",
+      "translator" : "M. Murtaza Özeren",
+      "vitrin_rank" : 1
+    }
+  ],
+  "generated_at" : "2026-06-04T12:11:11Z"
+}
