@@ -1,143 +1,271 @@
 {
   "label" : "25–31 MAYIS",
-  "publishedAt" : "2026-06-05T20:57:39Z",
+  "publishedAt" : "2026-06-05T22:09:42Z",
   "slots" : [
     {
       "items" : [
         {
+          "atomID" : "https:\/\/ocula.com\/magazine\/art-news\/olivia-rodrigo-album-artwork-chloe-wise\/",
+          "category" : "Culture",
+          "descriptionTR" : "Wise, Drivers License şarkıcısının \"eğlenceli, özgür ama saygısız kadınlığının\" kendi sanatsal pratiğiyle uyumlu olduğunu düşünüyor ve Rodrigo'nun üçüncü stüdyo albümü için sınırlı sayıda bir kapak tasarladı.",
+          "group" : "",
+          "id" : "https:\/\/ocula.com\/magazine\/art-news\/olivia-rodrigo-album-artwork-chloe-wise\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/olivia-rodrigo-album-artwork-chloe-wise\/"
+            }
+          ],
+          "titleTR" : "Pop Art: Chloe Wise, Olivia Rodrigo Albüm Kapağını Tanıttı"
+        },
+        {
           "atomID" : "https:\/\/ocula.com\/magazine\/spotlight\/5-artists-exhibitions-london-gallery-weekend-2026\/",
           "category" : "Culture",
-          "descriptionTR" : "More than 120 galleries are taking part in London Gallery Weekend between 5–7 June. Five artists select the must‑see exhibitions opening in the capital this month.",
+          "descriptionTR" : "5-7 Haziran tarihleri arasında Londra Galeri Haftası'na 120'den fazla galeri katılıyor. Beş sanatçı, bu ay başkentte açılacak kaçırılmaması gereken sergileri seçti.",
           "group" : "",
           "id" : "https:\/\/ocula.com\/magazine\/spotlight\/5-artists-exhibitions-london-gallery-weekend-2026\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "5 Artists Pick the Exhibitions Not to Miss During London Gallery Weekend"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/spotlight\/5-artists-exhibitions-london-gallery-weekend-2026\/"
+            }
+          ],
+          "titleTR" : "5 Sanatçı Londra Galeri Haftası'nda Kaçırılmaması Gereken Sergileri Seçti"
         },
         {
           "atomID" : "https:\/\/ocula.com\/magazine\/art-news\/julio-le-parc-dies-at-97\/",
           "category" : "Culture",
-          "descriptionTR" : "The Argentinian artist—whose work goes on show at London’s Tate Modern next week—experimented with light, movement, reflection and colour to create immersive environments that paved the way for today’s interactive installations.",
+          "descriptionTR" : "Arjantinli sanatçı—eserleri gelecek hafta Londra'nın Tate Modern'inde sergilenecek—ışık, hareket, yansıma ve renk ile deneyler yaparak günümüzün etkileşimli yerleştirmelerine öncülük eden sürükleyici ortamlar yarattı.",
           "group" : "",
           "id" : "https:\/\/ocula.com\/magazine\/art-news\/julio-le-parc-dies-at-97\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Julio Le Parc, Grandfather of Interactive Art, Dies at 97"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/julio-le-parc-dies-at-97\/"
+            }
+          ],
+          "titleTR" : "Etkileşimli Sanatın Büyükbabası Julio Le Parc 97 Yaşında Hayatını Kaybetti"
+        },
+        {
+          "atomID" : "https:\/\/ocula.com\/magazine\/art-news\/tai-body-theatre-taishin-arts-awards\/",
+          "category" : "Culture",
+          "descriptionTR" : "TAI Body Theatre'nin ödüllü dans eseri, koreografi ve ayak sesleri ritmiyle emek, göç ve yaşanmış tarihleri bir araya getirdi.",
+          "group" : "",
+          "id" : "https:\/\/ocula.com\/magazine\/art-news\/tai-body-theatre-taishin-arts-awards\/",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/tai-body-theatre-taishin-arts-awards\/"
+            }
+          ],
+          "titleTR" : "Kültürel Silinmeye Karşı Çıkan Yerli Kolektif, Tayvan'ın En Büyük Sanat Ödülünü Kazandı"
         },
         {
           "atomID" : "https:\/\/www.artforum.com\/?p=1234751851",
           "category" : "Culture",
-          "descriptionTR" : "The Crystal Bridges Museum of American Art in Bentonville, Arkansas is unveiling its newly renovated facilities to the public on June 6th and 7th after undergoing a $150 million expansion project. The updated layout was developed by Safdie Architects, the same firm that designed the first iteration of the museum in 2012. These expansions will […]",
+          "descriptionTR" : "Bentonville, Arkansas'taki Crystal Bridges Amerikan Sanat Müzesi, 6 ve 7 Haziran'da halka açılacak olan 150 milyon dolarlık genişleme projesinin ardından yenilenen tesislerini tanıtıyor. Güncellenen tasarım, müzenin 2012'deki ilk versiyonunu da tasarlayan Safdie Architects tarafından geliştirildi.",
           "group" : "",
           "id" : "https:\/\/www.artforum.com\/?p=1234751851",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Crystal Bridges To Open $150 Million, 100,000 Square Foot Expansion"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/crystal-bridges-to-open-expansion-1234751851\/"
+            }
+          ],
+          "titleTR" : "Crystal Bridges, 150 Milyon Dolarlık, 100.000 Metrekarelik Genişlemeyi Açıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.artforum.com\/?p=1234751788",
+          "category" : "Culture",
+          "descriptionTR" : "Perşembe günü, Miami Beach'teki Bass Sanat Müzesi, Fransız küratör ve şu anda Porto, Portekiz'deki Serralves Çağdaş Sanat Müzesi'nin direktörü olan Philippe Vergne'nin, bu yılın Ekim ayında sanat direktörü ve baş küratör olarak kuruma katılacağını duyurdu.",
+          "group" : "",
+          "id" : "https:\/\/www.artforum.com\/?p=1234751788",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/miamis-bass-museum-appoints-philippe-vergne-as-director-1234751788\/"
+            }
+          ],
+          "titleTR" : "Miami'nin Bass Müzesi Philippe Vergne'yi Sanat Direktörü ve Baş Küratör Olarak Atadı"
         },
         {
           "atomID" : "https:\/\/www.artforum.com\/?p=1234751757",
           "category" : "Culture",
-          "descriptionTR" : "Iranian-French filmmaker and author Marjane Satrapi, whose graphic novel series and film Persepolis, introduced the Western world to the precarity of everyday life in the wake of the Islamic Revolution, died on June 3. She was fifty-six. Her death was announced by French president Emmanuel Macron. Satrapi’s family and close friends in a statement to […]",
+          "descriptionTR" : "İranlı-Fransız film yapımcısı ve yazar Marjane Satrapi, grafik roman serisi ve filmi Persepolis ile Batı dünyasına İslam Devrimi sonrası günlük yaşamın belirsizliğini tanıttı. 3 Haziran'da 56 yaşında hayatını kaybetti. Ölümü, Fransa Cumhurbaşkanı Emmanuel Macron tarafından duyuruldu.",
           "group" : "",
           "id" : "https:\/\/www.artforum.com\/?p=1234751757",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Marjane Satrapi, Author of “Persepolis,” Dies at 56"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/marjane-satrapi-author-of-persepolis-dead-at-56-1234751757\/"
+            }
+          ],
+          "titleTR" : "“Persepolis”in Yazarı Marjane Satrapi 56 Yaşında Hayatını Kaybetti"
         },
         {
-          "atomID" : "https:\/\/www.artforum.com\/?p=1234751753",
+          "atomID" : "https:\/\/www.artforum.com\/?p=1234751627",
           "category" : "Culture",
-          "descriptionTR" : "On Thursday, the nonprofit organization Artists & Mothers named the 2026 recipients of its annual $25,000 childcare grants. Artists & Mothers, which was founded in 2024 in response to the increasingly difficult challenges faced by artists who are also new parents, offers grants providing nine months of child care aid to New York-based artists with […]",
+          "descriptionTR" : "São Paulo'nun galerilerinde sanatçılar, Brezilya'nın modernist ve queer tarihlerini canlandırarak ekranlara, fotokopi makinelerine ve neonlara yöneliyor.",
           "group" : "",
-          "id" : "https:\/\/www.artforum.com\/?p=1234751753",
+          "id" : "https:\/\/www.artforum.com\/?p=1234751627",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Artists & Mothers Organization Announces 2026 Childcare Grant Recipients"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/columns\/a-city-tattooed-with-neons-around-sao-paulo-1234751627\/"
+            }
+          ],
+          "titleTR" : "“Neonlarla Dövmeli Bir Şehir”: São Paulo'da Lygia Pape Queer İtiraflarla Buluşuyor"
         },
         {
-          "atomID" : "https:\/\/www.artforum.com\/?p=1234751745",
+          "atomID" : "C78EB305-D4D7-548C-BFFD-BA0960EF70F5",
           "category" : "Culture",
-          "descriptionTR" : "Bangkok-born architect and designer Kulapat Yantrasast has been appointed artistic director of the Second Bukhara Biennial, set to take place in the Uzbek city from September 3 to November 27, 2027. Yantrasast is the founder and creative director of the Los Angeles-based WHY Architecture, whose recent endeavors include the ILMI Science Discovery & Innovation Center […]",
+          "descriptionTR" : "Galerie Neu, Berlin'de ⁂ New York'un High Line küratörü Cecilia Alemani, Taipei Bienali'ne liderlik edecek ⁂ Cecilia Alemani, 2027 Taipei Bienali'ni Küratörlüğünü Üstlenecek",
           "group" : "",
-          "id" : "https:\/\/www.artforum.com\/?p=1234751745",
+          "id" : "C78EB305-D4D7-548C-BFFD-BA0960EF70F5",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Kulapat Yantrasast Named Artistic Director of 2027 Bukhara Biennial"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mousse Magazine",
+              "url" : "https:\/\/www.moussemagazine.it\/magazine\/counter-city-galerie-neu-berlin-2026"
+            },
+            {
+              "originalLanguage" : "tr",
+              "sourceName" : "Ocula Magazine, Artforum",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/cecilia-alemani-to-curate-2027-taipei-biennial\/"
+            }
+          ],
+          "titleTR" : "“Karşı Şehir” Berlin'de Galerie Neu'de ⁂ Cecilia Alemani, New York'un High Line Küratörü, Taipei Bienali'ne Liderlik Edecek ⁂ Cecilia Alemani, 2027 Taipei Bienali'ni Küratörlüğünü Üstlenecek"
         },
         {
           "atomID" : "3B76A44E-D079-58E3-932C-5472C961B54D",
           "category" : "Culture",
-          "descriptionTR" : "Nu assis au collier (1917) is among 48 works to be auctioned later this month, including seven Picasso pieces and a Degas sculpture. Total sales for the collection, which belonged to British billionaire Joe Lewis, are expected to raise more than £150 million. ⁂ Chief executive Marc Glimcher said the gallery will return to its roots in a “model correction”. ⁂ Pace Gallery has dropped fifty artists from its roster of 135 and eliminated fifty of its 250 staff, the New York Times reported late last night. Artnews reported that the Times story ran before Pace had notified staff of the layoffs and that management planned to address the issue at a town hall slated for […]",
+          "descriptionTR" : "Nu assis au collier (1917), bu ayın ilerleyen günlerinde açık artırmaya çıkacak 48 eser arasında yer alıyor ve yedi Picasso parçası ile bir Degas heykelini içeriyor. İngiliz milyarder Joe Lewis'e ait olan koleksiyonun toplam satışlarının 150 milyon sterlinden fazla getirmesi bekleniyor. ⁂ İcra kurulu başkanı Marc Glimcher, galerinin \"model düzeltmesi\" ile köklerine döneceğini söyledi. ⁂ Pace Gallery, 135 sanatçısından ellisini kadrosundan çıkardı ve 250 çalışanından ellisini işten çıkardı, New York Times dün gece geç saatlerde bildirdi. Artnews, Times haberinin Pace'in işten çıkarmalar hakkında personeli bilgilendirmeden önce yayınlandığını ve yönetimin konuyu ele almak için bir toplantı planladığını bildirdi.",
           "group" : "",
           "id" : "3B76A44E-D079-58E3-932C-5472C961B54D",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Modigliani Nude That Scandalised Paris Leads Sotheby’s Lewis Collection Sale ⁂ Pace Cuts 50 Artists, Challenges ‘Broken’ Mega-Gallery Model ⁂ Citing “Unfixable” Gallery Model, Pace Makes Deep Cuts to Artist Roster, Staff"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/modigliani-nude-sothebys-lewis-sale\/"
+            },
+            {
+              "originalLanguage" : "tr",
+              "sourceName" : "Ocula Magazine, Artforum",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/pace-cuts-50-artists-mega-gallery\/"
+            }
+          ],
+          "titleTR" : "Paris'i Skandal Yaratan Modigliani Nü'sü Sotheby’s Lewis Koleksiyonu Satışına Liderlik Ediyor ⁂ Pace 50 Sanatçıyı Kesiyor, 'Bozuk' Mega-Galeri Modeline Meydan Okuyor ⁂ “Düzeltilemez” Galeri Modelini Gerekçe Göstererek Pace, Sanatçı Kadrosunda ve Personelde Derin Kesintiler Yapıyor"
         },
         {
-          "atomID" : "1257A1C3-9D8D-5294-963A-BD145D81D9A8",
+          "atomID" : "3B38F34B-C99C-560F-B421-D4AFCEF6ECBD",
           "category" : "Culture",
-          "descriptionTR" : "On Thursday, the Bass Museum of Art in Miami Beach announced that Philippe Vergne, the French curator and current director of the Serralves Museum of Contemporary Art in Porto, Portugal, will join the institution as its artistic director and chief curator in October of this year.  In this newly created position, the longtime arts executive […] ⁂ A statement released today, backed by more than 100 exhibitors, claims that the biennale has failed to acknowledge a letter sent on 20 May formally requesting that artists’ names are removed from voting materials for the Visitor’s Lions awards. ⁂ The Italian curator will make her Asia debut at one of the region’s longest‑running contemporary art events. ⁂ The Taipei Fine Arts Museum (TFAM) has appointed Cecilia Alemani curator of the Fifteenth Taipei Biennial, to take place in 2027. The Milan-born Alemani has gained a reputation for elevating the work of marginalized artists, particularly women. She is a veteran curator of biennials, having previously organized the Twelfth SITE Santa Fe International in 2025 […]",
+          "descriptionTR" : "Bu yılki Serpentine pavyon mimarları, binanın kullanıcılarını mekanda özgürce ifade etmeye teşvik ediyor, ancak üzerine inşa edildiği İngiliz pastoral tarihinin daha karanlık bir tarafı var. ⁂ Bangkok doğumlu mimar ve tasarımcı Kulapat Yantrasast, 3 Eylül - 27 Kasım 2027 tarihleri arasında Özbek şehri Bukhara'da gerçekleşecek olan İkinci Bukhara Bienali'nin sanat direktörü olarak atandı. Yantrasast, Los Angeles merkezli WHY Architecture'ın kurucusu ve yaratıcı direktörüdür, son girişimleri arasında ILMI Bilim Keşif ve İnovasyon Merkezi bulunmaktadır.",
           "group" : "",
-          "id" : "1257A1C3-9D8D-5294-963A-BD145D81D9A8",
+          "id" : "3B38F34B-C99C-560F-B421-D4AFCEF6ECBD",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Miami’s Bass Museum Appoints Philippe Vergne as Artistic Director and Chief Curator ⁂ Venice Biennale Artists Consider Legal Action Over Awards Inclusion ⁂ Cecilia Alemani, Curator of New York’s High Line, to Lead Taipei Biennial ⁂ Cecilia Alemani to Curate 2027 Taipei Biennial"
-        },
-        {
-          "atomID" : "3581B7B5-D1EA-534E-8D1E-698791C5FA6A",
-          "category" : "Culture",
-          "descriptionTR" : "The New School in New York has laid off sixty-eight staffers and nineteen full-time faculty members, more than half of them tenured, the Chronicle of Higher Education reports. The cuts were telegraphed earlier this year and come as the university reckons with a $60 million budget deficit spurred in part by declining enrollment. The dip […] ⁂ This year’s Serpentine pavilion architects encourage the building’s users to freely express themselves within the space, yet there is a darker side to the English pastoral history it is built upon. ⁂ “Architecture must be thought of as a system of representation”—Beatriz Colomina If architecture is understood as a representational system, the metropolis emerges as one of its most pervasive expressions. As a form of representation shaped by the societies that construct it, the built environment embeds and consolidates their underlying social structures. In a Western context,\n“Architecture must be thought of as a system of representation” —Beatriz Colomina\nIf architecture is understood as a representational system, the metropolis emerges as one of its most pervasive expressions. As a form of representation shaped by the societies that construct it, the built environment embeds and consolidates their underlying social structures. In a Western context, where these structures are organized through systems of patriarchal power and control, the city becomes a primary site where gendered power relations are materially inscribed and spatially reproduced.\nIt is within this critical framework that the group exhibition Counter City situates itself. At a moment marked by the resurgence of far-right politics, of intensified violence within the public arena that further displaces already marginalized communities, the stakes of this spatial order are increasingly visible. Bringing together artists across generations, the exhibition presents practices that expose, unsettle and reconfigure these conditions. Informed by intersectional feminist thought—attentive to gender non-conformity, sexuality, race, and class—it proposes a provisional genealogy.\nWhat binds these positions is a shared impulse to reclaim space, to ‘counter’ the city as it is given, and to imagine it otherwise. Through acts of appropriation and disruption, the works presented construct a ‘counter city’: a space-time of subversion that contests the logics of capital accumulation, hierarchical planning, and patriarchal normativity that define the Western metropolis. Echoing the radical French group the Situationist International’s “dérive”—a mode of accelerated, playful, movement through urban space intended to fracture the linear logic of the capitalist city— they take hold of its streets with a sharp, satirical bite, working both within and against its structures.\nAt the centre of the exhibition stands Deeskalationstraining (Shark Lock) (2007) by German and Cologne-based artist Cosima von Bonin. Through sculpture, textiles, sound, video, and performance, von Bonin probes and destabilises social conventions. Here, a metallic structure—part gate, part enclosure—frames a shark pool. The gate hangs open. The shark, an absent yet palpable emblem of predatory force, haunts the space, looming over the surrounding works. The structure remains conspicuously incomplete, creating a division that remains suspended, unresolved. The work May & June 1 + Smoke (CvB & Michel Würthle) (2008-2010) shifts register, as a solitary streetlamp— leaning, anthropomorphised—idly smokes a cigarette, its neon plume drifting into the surrounding space, introducing a note of languid defiance and quiet absurdity that subtly reclaims the urban environment.\nA series of photographs by British London-based artist Sophy Rickett whose wider practice includes photography, video installation and text, inhabits the very structure of urban space. Titled Pissing Women (1995), the series presents herself and friends urinating, standing up in public sites of power across London, from Vauxhall Bridge and the MI5 building to Old Street, the symbolic core of the capitalist city. The gesture is blunt and exacting —a reclamation of public space, a defiance of institutional power, and a reversal of gendered codes of public behavior.\nCorporate space comes under sharper scrutiny in Future Man! (1987), a photographic series by American artist and designer Pippa Garner. Working across sculpture, drawing, and performance, Garner’s practice is marked by subversive, often humorous critiques of gender norms, consumer culture, and mass production. Here, she inhabits and distorts the figure of the corporate subject where tailored suits are surgically modified, exaggerated, and worn in staged encounters. Produced in the early stages of her transition, the series reflect on traditional binary codes of corporate masculinity, which are here not simply represented but warped from within.\nThis logic of appropriation and reversal is found in the work of British-Pakistani artist, writer and political dominatrix Reba Maybury. Across painting, sculpture, and performance, her practice centres on sex work and its embedded power structures. In the series of paintings From Paris with Love (2022), Reba Maybury turns to 19th-century Paris, revisiting Henri de Toulouse-Lautrec’s Medical Examination (1894), where partially naked sex workers—central to the emerging capitalist city—are lined up for inspection. Using paint-by-numbers kits, she delegates the act of reproduction to her submissives. Through this calculated infantilisation, authorship and power are reversed, reframing Lautrec’s voyeuristic, violent staging of women’s oppression through the lens of contemporary sex work.\nThe city’s contours are represented and toyed with in a watercolour drawing titled Greetings from Frankfurt (2018) by German, Frankfurt and Brussels-based artist Jana Euler whose practice comprises painting and sculpture through which she explores representation and identity in a digital and image-saturated era. Here, the looming erect building of the European Central Bank in Frankfurt—a phallic emblem of capitalism—dominates the frame, while a cast of figures circulates around it in ambiguous, unruly play, unsettling the authority the structure seeks to impose.   A similar engagement with the architecture of the city as a site of power runs through the work of American artist, satirist and political activist Anita Steckel. Through painting, photomontage, collage and sculpture, Steckel’s work mobilizes erotic imagery to confront power relations based on gender, sexuality and race. As a member of the Fight Censorship Group—alongside artists such as Judith Bernstein, Juanita McNeely, and Joan Semmel—she championed the liberation of sexual representation. The works shown here from the 1970s cast the city—specifically New York, where she lived and worked—as a charged terrain in which power and violence are actively confronted, opposed and subverted through the assertion of her identity as a Jewish woman.\nThis fraught urban landscape is also inhabited in the work of London-based artist Lena Tutunjian. Working across installation and video, her practice probes the conditions of contemporary capitalism. In the video work she_stays_underground (2017), the city of London becomes a libidinal space, a network of circulation where gendered bodies are continuously coded and consumed. Filming across the city’s underground system, Tutunjian exposes how the visual economy of the metropolis scripts desire, embedding gender bias within its surfaces and flows.\nThis cinematic intervention in urban space continues in the work of Swedish and Berlin-based artist Klara Lidén, whose practice spans installation, sculpture and video, which she mobilizes to engage the city’s architectural fabric as a structure of control and exclusion. In the video work titled Verdebelvedere Exit (2024) presented here, she wedges her body through the walls of various buildings sites across the city of New York. The gesture is subtle yet forceful, as the queer body interrupts and punctures the rigid surfaces of the urban environment, momentarily short-circuiting its logic from within.\nA similarly insurgent use of the camera drives the filmic work of Canadian artist and filmmaker G. B. Jones. A key figure of the queercore movement of the 1980s and ’90s, Jones works across drawing, zines, photography, and film to centre queer subjectivities in defiance of dominant normative culture. Her films extend this ethos through raw, abrasive narratives of desire and rebellion, in which protagonists seize the city —most often Toronto, where she lives and works— occupying and disrupting its spaces as an act of refusal.\nThe city re-emerges as a site of tension, recast as a constructed scene in the work of London- based British artists Hannah Quinlan & Rosie Hastings. Working across painting, drawing, video, performance, and installation, the duo engages with queer identity through the politics of public space. Using the traditionally monumental medium of fresco, The Conquest (2023) stages a scene of public violence, and collective mobilization. Here, public space becomes a site not only of conflict, but of resistance.\nAcross a wide range of media and strategies, the artists in this exhibition approach the city as a contested site, one in which power and control — the key instruments of patriarchy —are exerted, negotiated and resisted. At its core lies a struggle over gendered power dynamics, inscribed, performed, and enforced through the structures and surfaces of the urban environment.\nIn tracing these fault lines, the works do not simply expose such dynamics but actively push against them, prying open spaces of interruption, refusal, and reconfiguration. In doing so, alternative modes of inhabiting space begin to take shape; at once embodied, incisive and satirical. Together, they offer tools to understand, navigate and reimagine the shifting, charged terrain of the Western metropolis.\nat Galerie Neu, Berlin until July 4, 2026",
-          "group" : "",
-          "id" : "3581B7B5-D1EA-534E-8D1E-698791C5FA6A",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "New York’s New School Slashes Staff, Tenured Faculty ⁂ Lanza Atelier’s 2026 Serpentine Pavilion Invites Play, But at What Cost? ⁂ “Counter City” at Galerie Neu, Berlin"
-        },
-        {
-          "atomID" : "21855492-A1BF-5970-B925-BA7600B45A90",
-          "category" : "Culture",
-          "descriptionTR" : "Wise feels the Drivers License singer’s “fun, free, but irreverent femininity” harmonises with her own artistic practice and has created a limited‑edition cover for Rodrigo’s third studio album. ⁂ Across São Paulo’s galleries, artists turn to screens, Xeroxes, and neons, breathing life into Brazil’s modernist and queer histories.",
-          "group" : "",
-          "id" : "21855492-A1BF-5970-B925-BA7600B45A90",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Pop Art: Chloe Wise Reveals Olivia Rodrigo Album Artwork ⁂ “A City Tattooed with Neons”: In São Paulo, Lygia Pape Meets Queer Confessions"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/opinion\/atelier-lanza-2026-serpentine-pavilion-play-review\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/kulapat-yantrasast-artistic-director-2027-bukhara-biennial-1234751745\/"
+            }
+          ],
+          "titleTR" : "Lanza Atelier'in 2026 Serpentine Pavyonu Oyun Oynamaya Davet Ediyor, Ama Ne Pahasına? ⁂ Kulapat Yantrasast 2027 Bukhara Bienali'nin Sanat Direktörü Olarak Atandı"
         }
       ],
-      "packetSpot" : "What exhibitions should you not miss in London? How is the art world reshaping itself with new leadership and expansions?",
-      "packetTitle" : "Art World's Shifting Landscapes: Leadership, Expansions, and Tributes",
-      "publishedAt" : "2026-06-05T20:57:39Z",
+      "packetSpot" : "Sanat dünyası etkili figürlerini nasıl onurlandırıyor? Müzeler ve galerilerdeki küresel değişimler nelerdir?",
+      "packetTitle" : "Kültürel Bir Değişim: Sanatın Gelişen Manzarası ve Mirası",
+      "publishedAt" : "2026-06-05T22:09:42Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/ocula.com\/magazine\/art-news\/tai-body-theatre-taishin-arts-awards\/",
+          "atomID" : "https:\/\/ocula.com\/magazine\/art-news\/venice-biennale-artists-legal-action-awards\/",
           "category" : "Diğer",
-          "descriptionTR" : "TAI Body Theatre’s winning dance work brought together ideas of labour, migration and lived histories through choreography and stomping rhythm.",
+          "descriptionTR" : "Bugün yayımlanan ve 100'den fazla katılımcı tarafından desteklenen bir açıklama, bienalin 20 Mayıs'ta sanatçıların isimlerinin Ziyaretçi Aslanları ödülleri oylama materyallerinden çıkarılmasını resmen talep eden bir mektubu dikkate almadığını iddia ediyor.",
           "group" : "",
-          "id" : "https:\/\/ocula.com\/magazine\/art-news\/tai-body-theatre-taishin-arts-awards\/",
+          "id" : "https:\/\/ocula.com\/magazine\/art-news\/venice-biennale-artists-legal-action-awards\/",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Indigenous Collective Confronting Cultural Erasure Wins Taiwan’s Top Art Prize"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/venice-biennale-artists-legal-action-awards\/"
+            }
+          ],
+          "titleTR" : "Venedik Bienali Sanatçıları Ödüller Dahil Edilme Konusunda Yasal İşlem Düşünüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.artforum.com\/?p=1234751753",
+          "category" : "Diğer",
+          "descriptionTR" : "Perşembe günü, kar amacı gütmeyen kuruluş Artists & Mothers, yıllık 25.000 dolarlık çocuk bakımı hibelerinin 2026 alıcılarını açıkladı. 2024 yılında, yeni ebeveyn olan sanatçıların karşılaştığı giderek zorlaşan zorluklara yanıt olarak kurulan Artists & Mothers, New York merkezli sanatçılara dokuz aylık çocuk bakımı yardımı sağlayan hibeler sunuyor.",
+          "group" : "",
+          "id" : "https:\/\/www.artforum.com\/?p=1234751753",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/artists-and-mothers-announces-2026-grant-recipients-1234751753\/"
+            }
+          ],
+          "titleTR" : "Artists & Mothers Kuruluşu 2026 Çocuk Bakımı Hibesi Alıcılarını Açıkladı"
         }
       ],
-      "packetSpot" : "What does the TAI Body Theatre's victory signify for indigenous art? How is Taiwan addressing cultural erasure?",
-      "packetTitle" : "Indigenous Art Triumphs in Taiwan",
-      "publishedAt" : "2026-06-05T20:57:39Z",
+      "packetSpot" : "Venedik Bienali sanatçıları neden yasal işlem düşünüyor? New York'ta sanatçı annelere hangi destekler sunuluyor?",
+      "packetTitle" : "Adalet ve Destek Arayan Sanatçılar",
+      "publishedAt" : "2026-06-05T22:09:42Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
@@ -146,40 +274,81 @@
         {
           "atomID" : "https:\/\/www.artforum.com\/?p=1234751857",
           "category" : "Science",
-          "descriptionTR" : "The mystery of the central Stonehenge altar stone—a 6 ton, approximately 16-foot-long micaceous sandstone megalith—has posed a tantalizing question to researchers and amateur history buffs for decades: how did such a colossal rock come to rest at the center of the most famous prehistoric monument in England? A new study published on Thursday in the […]",
+          "descriptionTR" : "Merkezi Stonehenge sunak taşının gizemi—6 ton ağırlığında, yaklaşık 16 fit uzunluğunda mikalı kumtaşı bir megalit—araştırmacılar ve amatör tarih meraklıları için onlarca yıldır kışkırtıcı bir soru oluşturuyor: Bu devasa kaya, İngiltere'nin en ünlü tarih öncesi anıtının merkezine nasıl yerleşti? Perşembe günü yayınlanan yeni bir çalışma, […]",
           "group" : "",
           "id" : "https:\/\/www.artforum.com\/?p=1234751857",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Mysterious Stonehenge Altar Could Have Traveled Via Glacier, New Study Finds"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/stonehenge-altar-could-have-traveled-via-glacier-1234751857\/"
+            }
+          ],
+          "titleTR" : "Gizemli Stonehenge Sunak Taşı Buzul Yoluyla Taşınmış Olabilir, Yeni Çalışma Ortaya Koyuyor"
         }
       ],
-      "packetSpot" : "Did ancient glaciers transport the Stonehenge altar? What does the new study reveal about its origins?",
-      "packetTitle" : "Unraveling Stonehenge's Glacial Mysteries",
-      "publishedAt" : "2026-06-05T20:57:39Z",
+      "packetSpot" : "Stonehenge'in taşlarını buzullar taşımış olabilir mi? Yeni çalışma, kökenleri hakkında ne ortaya koyuyor?",
+      "packetTitle" : "Stonehenge'in Kadim Gizemlerini Çözmek",
+      "publishedAt" : "2026-06-05T22:09:42Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.artforum.com\/?p=1234751825",
+          "category" : "Education",
+          "descriptionTR" : "Chronicle of Higher Education'a göre, New York'taki The New School, altmış sekiz personel ve on dokuz tam zamanlı öğretim üyesini işten çıkardı, bunların yarısından fazlası kadroda olan öğretim üyeleri. Bu kesintiler, üniversitenin kısmen azalan kayıtlar nedeniyle oluşan 60 milyon dolarlık bütçe açığı ile başa çıkmaya çalışması nedeniyle bu yılın başlarında duyurulmuştu.",
+          "group" : "",
+          "id" : "https:\/\/www.artforum.com\/?p=1234751825",
+          "link" : "",
+          "newsValue" : 0,
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/new-york-new-school-slashes-staff-tenured-faculty-1234751825\/"
+            }
+          ],
+          "titleTR" : "New York'taki The New School Personel ve Kadrolu Öğretim Üyelerini Azaltıyor"
+        }
+      ],
+      "packetSpot" : "The New School neden öğretim kadrosunu azaltıyor? Bu durum New York'taki öğrencileri nasıl etkileyecek?",
+      "packetTitle" : "New York'ta Akademik Değişim",
+      "publishedAt" : "2026-06-05T22:09:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.artforum.com\/?p=1234751574",
           "category" : "Environment",
-          "descriptionTR" : "\"One hopes that the tech barons expanding their empires into Reno understand that the city and its environs are not a blank slate\"",
+          "descriptionTR" : "\"Teknoloji baronlarının imparatorluklarını Reno'ya genişletirken, şehrin ve çevresinin boş bir sayfa olmadığını anlamalarını umuyoruz.\"",
           "group" : "",
           "id" : "https:\/\/www.artforum.com\/?p=1234751574",
           "link" : "",
           "newsValue" : 0,
-          "publishedAt" : "2026-06-05T20:57:39Z",
-          "titleTR" : "Art, Land, Money, Data: Ecology Alarms Go Off in Reno"
+          "publishedAt" : "2026-06-05T22:09:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/columns\/ecology-alarms-go-off-in-reno-1234751574\/"
+            }
+          ],
+          "titleTR" : "Sanat, Arazi, Para, Veri: Reno'da Ekolojik Alarmlar Çalıyor"
         }
       ],
-      "packetSpot" : "Why are ecology alarms ringing in Reno? How are tech barons involved?",
-      "packetTitle" : "Reno's Ecological Wake-Up Call",
-      "publishedAt" : "2026-06-05T20:57:39Z",
+      "packetSpot" : "Teknoloji baronları Reno'da neden ekolojik alarmları tetikliyor? Bunun çevreye etkisi nedir?",
+      "packetTitle" : "Reno'da Ekolojik Alarm: Teknoloji Baronları Göz Hapsinde",
+      "publishedAt" : "2026-06-05T22:09:42Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 5
     }
   ],
   "week" : "2026-W22"
