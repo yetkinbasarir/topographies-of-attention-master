@@ -1,0 +1,926 @@
+{
+  "label" : "1–7 HAZIRAN",
+  "publishedAt" : "2026-06-06T20:59:22Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+          "category" : "Human Rights",
+          "descriptionTR" : "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family\nAn African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this week as governments across the continent met in Ghana.\nThe draft African charter on family, sovereignty and values, seen by the Guardian, asserts that African values and culture are under attack from “foreign ideologies” and urges states to withdraw from any agreements that do not align with the principles of the charter, including the 2003 Maputo protocol, which promotes gender equality and protects the reproductive and health rights of women and girls.",
+          "group" : "African rights backlash",
+          "id" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+          "link" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights"
+            }
+          ],
+          "titleTR" : "‘Family values’ African charter condemned by rights groups as regressive and dangerous"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis",
+          "category" : "Human Rights",
+          "descriptionTR" : "Country is shaken by the brutal murders of two girls, aged 14 and 17, whose bodies were discovered just days apart\nArgentina has reacted with fury after the bodies of two murdered teenage girls were found just two days apart. The latest killings underscore the South American country’s enduring femicide crisis despite years of feminist campaigning, and have prompted alarm over the decision to cut support for victims of gender-based violence under the far-right administration of Javier Milei.\nPolice found the remains of Agostina Vega, 14, on Saturday, in a field on the outskirts of the city of Córdoba. She had been fatally strangled and her body had been dismembered, according to local media reports.",
+          "group" : "Argentina femicide crisis",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis"
+            }
+          ],
+          "titleTR" : "Outrage in Argentina after two teen girls murdered as femicide crisis endures"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/07\/ice-jail-new-jersey-delaney-hall",
+          "category" : "Human Rights",
+          "descriptionTR" : "As detainees go on hunger strike over conditions at Delaney Hall, relatives describe concern for loved ones’ wellbeing\nIn mid-May, Elder Guerra was showering inside the Delaney Hall immigration detention facility when he slipped and fell.\nGuerra, a Guatemalan immigrant, has been locked up in the New Jersey jail for nearly five months. He was arrested by federal Immigration and Customs Enforcement (ICE) officials in Newark in January while helping a friend move his snowed-in car. Officers had approached and asked a few questions, according to a relative who spoke with the Guardian.",
+          "group" : "ICE detention conditions",
+          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/07\/ice-jail-new-jersey-delaney-hall",
+          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/07\/ice-jail-new-jersey-delaney-hall",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/07\/ice-jail-new-jersey-delaney-hall"
+            }
+          ],
+          "titleTR" : "‘It’s like they’re kidnapped there’: families tell of distress over ‘inhumane’ ICE jail"
+        }
+      ],
+      "packetSpot" : "How are African charters challenging human rights? What drives Argentina's femicide crisis? What is happening inside ICE detention centers?",
+      "packetTitle" : "Global Struggles for Justice and Equality",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+          "category" : "Health",
+          "descriptionTR" : "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers\nFormer top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and treatment centre in Kenya, as the union for workers with the US Centers for Disease Control and Prevention (CDC) calls for Americans exposed to Ebola to be brought home for treatment.\nSoon after the US revealed it was setting up a field hospital in Kenya for the Ebola quarantine and treatment of Americans, the Kenyan high court blocked the order – but the Kenyan and US governments moved forward anyway, with the first American responders reportedly landing at the Laikipia airbase on Saturday.",
+          "group" : "Ebola outbreak response",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya"
+            }
+          ],
+          "titleTR" : "Experts criticise plan for American-only Ebola quarantine centre in Kenya"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
+          "category" : "Health",
+          "descriptionTR" : "Government department says man was in the water around Michaelmas Island, near Albany, when he was bitten by a suspected 4.5-metre shark\n\t•\tGet our breaking news email, free app or daily news podcast\nA male diver aged in his 30s has died after being bitten by a shark in Western Australia.\nThe state’s police force confirmed on Saturday afternoon that the 35-year-old man had died, after being treated by paramedics at the scene for more than two hours.",
+          "group" : "Australia shark attack",
+          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
+          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast"
+            }
+          ],
+          "titleTR" : "Man dies after shark attack off Western Australia coast near Albany"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/second-flesh-eating-screwworm-infection-texas",
+          "category" : "Health",
+          "descriptionTR" : "Governor issues disaster declaration as agencies move to stop spread of parasite, including release of sterile flies\nA second case of the flesh-eating screwworm fly has been confirmed in Texas by the US Department of Agriculture (USDA), days after an initial case in a one-year-old calf set off an aggressive response to stop the spread of the parasite in the dominant cattle-producing state.\nTexas’s governor, Greg Abbott, said on Friday that state officials were working with the federal government to slow the spread of the fly and the infestations caused by larvae that feed on the living flesh of warm-blooded animals and humans.",
+          "group" : "Texas screwworm outbreak",
+          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/second-flesh-eating-screwworm-infection-texas",
+          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/second-flesh-eating-screwworm-infection-texas",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/second-flesh-eating-screwworm-infection-texas"
+            }
+          ],
+          "titleTR" : "Second flesh-eating screwworm infection reported in cattle in Texas"
+        }
+      ],
+      "packetSpot" : "How is Kenya responding to the US's Ebola quarantine plans? What are the implications of the screwworm outbreak in Texas?",
+      "packetTitle" : "US Health Policies Stirring Global and Local Reactions",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+          "category" : "Security",
+          "descriptionTR" : "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired\nFierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Mogadishu, damaging property and forcing some civilians to flee.\nIn the runup to the fighting, which started on Wednesday afternoon, opposition leaders embedded with militias set up positions in their clan strongholds the city.",
+          "group" : "Somalia political violence",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire"
+            }
+          ],
+          "titleTR" : "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
+          "category" : "Security",
+          "descriptionTR" : "The seven-month-old, Sam Fahd Abu Haikal, was in his mother’s arms when soldiers fired on family in Hebron\nIsraeli troops killed a seven-month-old Palestinian baby in the occupied West Bank and injured his parents after opening fire on the family’s car, despite it having complied with an order to stop.\nSoldiers opened fire on Friday on a car carrying the infant and his parents in the Tel Rumeida area of Hebron. The seven-month-old, Sam Fahd Abu Haikal, was critically injured, evacuated in critical condition to a hospital, where he later died.",
+          "group" : "West Bank civilian killing",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank"
+            }
+          ],
+          "titleTR" : "Palestinian baby shot dead by Israeli troops in occupied West Bank"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
+          "category" : "Security",
+          "descriptionTR" : "Iran attacks American bases in Gulf states after Washington shoots down drones and strikes Iranian radar sites\nBahrain has said Iran fired ballistic missiles and drones at it and Kuwait, hours after the US and Iran exchanged strikes over the Gulf, the latest in a series of flare-ups that threatened to break the fragile ceasefire.\nAir raid sirens rang out on Saturday in Bahrain and people were told to move to a safe location and await further instructions. Kuwait’s military said it was intercepting drones and missiles launched at the country.",
+          "group" : "Iran regional escalation",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire"
+            }
+          ],
+          "titleTR" : "Kuwait and Bahrain targeted by Iran after exchange of fire with US"
+        },
+        {
+          "atomID" : "395C34F1-0776-5023-B845-A91B21D813F0",
+          "category" : "Security",
+          "descriptionTR" : "US health officials say modelling from the Centers for Disease Control and Prevention suggests the Ebola outbreak in central Africa could follow a dangerous trajectory and, in a worst-case scenario, reach a scale comparable to the 2014-2016 west Africa epidemic. The CDC published scenarios ranging from 10,000 cases to more than 20,000, while the earlier outbreak recorded more than 28,000 cases and killed more than 11,000 people. The response in the Democratic Republic of the Congo is also being hampered by rebel attacks in North Kivu, where more than 30 people have been killed in recent days and three Ebola patients reportedly fled clinics.",
+          "group" : "A",
+          "id" : "395C34F1-0776-5023-B845-A91B21D813F0",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/04\/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response"
+            }
+          ],
+          "titleTR" : "CDC: Central Africa Ebola outbreak could rival 2014 epidemic as rebel attacks hinder response"
+        },
+        {
+          "atomID" : "970689B1-1F68-5D26-A63C-EA03D644635E",
+          "category" : "Security",
+          "descriptionTR" : "Israel ordered residents to leave nine villages in southern Lebanon before carrying out strikes that killed six people on Friday, a day after Hezbollah rejected a ceasefire agreement between Israel and Lebanon. Thousands fled, including families from Anqoun, where at least 2,500 displaced people were already sheltering, and roads toward Sidon were reported choked with cars as people sought safety.",
+          "group" : "A",
+          "id" : "970689B1-1F68-5D26-A63C-EA03D644635E",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/israel-strikes-southern-lebanon-evacuations-nine-villages",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/israel-strikes-southern-lebanon-evacuations-nine-villages"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end"
+            }
+          ],
+          "titleTR" : "Israel orders evacuations in nine southern Lebanon villages before strikes kill six"
+        }
+      ],
+      "packetSpot" : "What triggers the clashes in Mogadishu? How are regional conflicts in the Middle East evolving? Are security threats in Africa on the rise?",
+      "packetTitle" : "Escalating Tensions in the Middle East and Africa",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/canada-walmart-first-union-deal",
+          "category" : "Economy",
+          "descriptionTR" : "Union says collective agreement is just the start of a broader fight to unionize major employers across the country\nCanadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers are calling a “historic and powerful step”.\nBut the union says the deal with a corporation long hostile to organized labour is only an opening salvo in a broader fight to unionize major employers across the country.",
+          "group" : "Canada labor organizing",
+          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/canada-walmart-first-union-deal",
+          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/canada-walmart-first-union-deal",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/canada-walmart-first-union-deal"
+            }
+          ],
+          "titleTR" : "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+          "category" : "Economy",
+          "descriptionTR" : "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages\nNothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviation leaders will converge in Brazil this weekend for the Iata AGM, the annual global airline summit, with the industry still, for the most part, looking resolutely skyward.\nThe oil tankers may still be stuck behind the strait of Hormuz as the conflict between the US, Israel and Iran flickers on, but for now, airlines continue to defy dire warnings of impending shortages which had stoked fears of a summer of chaos for European holidaymakers.",
+          "group" : "Global aviation fuel",
+          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit"
+            }
+          ],
+          "titleTR" : "Aviation industry looks skywards as leaders fly in for Rio summit"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/us-china-trump-trade-war",
+          "category" : "Economy",
+          "descriptionTR" : "A long trade war looms. Trump’s scattershot protectionism, chaotic tariffs and belligerence against our natural allies guarantees that US trade policy will remain a hot mess\nWe are in for a long trade war.\nIn the months since “Liberation Day” last year, when Donald Trump let loose a volley of tariffs against imports from everywhere, countries have rushed to build new relationships in the hope of maybe circumventing the US to protect the global trading system.",
+          "group" : "US China trade war",
+          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/us-china-trump-trade-war",
+          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/us-china-trump-trade-war",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/us-china-trump-trade-war"
+            }
+          ],
+          "titleTR" : "On China, Trump picked the right battle but the wrong strategy"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag",
+          "category" : "Economy",
+          "descriptionTR" : "The Middle East is Japan’s main source of crude oil, from which naphtha is extracted and used to make items including printing ink and plastics\nTakeaways, supermarkets, and bakeries in Japan are running out of plastic bags, trays and food service gloves amid widening shortages of the key plastic ingredient, naphtha, due to the Middle East crisis.\nThe food sector accounts for nearly one-third of Japan’s annual plastic use of more than 8m tonnes, and price rises and shortages are hitting hard across the industry and beyond. Some outlets have begun offering perks to customers who bring their own bags, plates or containers.",
+          "group" : "Middle East supply shocks",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag"
+            }
+          ],
+          "titleTR" : "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes",
+          "category" : "Economy",
+          "descriptionTR" : "Most economists believe the chronic undersupply of homes will eventually push prices higher once interest rates ease and the tax changes are priced in\n\t•\tGet our breaking news email, free app or daily news podcast\nThe government’s property tax changes have become one of the defining political issues of Labor’s second term, drawing fierce criticism from opponents who argue they represent an “assault on aspiration” that will destroy home values.\nIn the three weeks after the negative gearing and capital gains tax changes were revealed in the 12 May budget, housing data has begun to show how they may affect Australia’s property market. Here’s what the data shows, and what could happen next.",
+          "group" : "Australian housing policy",
+          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes",
+          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes"
+            }
+          ],
+          "titleTR" : "Australian housing was already cooling before the budget – but how cold it gets depends on two key factors"
+        }
+      ],
+      "packetSpot" : "Will Walmart's union deal set a precedent for others? How are global tensions impacting trade and resources?",
+      "packetTitle" : "Global Economic Shifts and Labor Movements",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family",
+          "category" : "Diplomacy",
+          "descriptionTR" : "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’\nThe United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members of the Castro family, in Washington’s latest ramping up of pressure on its communist-led neighbour.\nAmong those targeted were the son and a grandson of former president Raúl Castro, who no longer holds an official position but remains a key figure on decisions about the future of the island.",
+          "group" : "Cuba sanctions pressure",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family"
+            }
+          ],
+          "titleTR" : "US imposes new sanctions on Cuban president and Castro family members"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Ukrainian leader will attend UK meeting along with French president and German chancellor\nKeir Starmer will host Volodymyr Zelenskyy, Emmanuel Macron and Friedrich Merz for talks in Downing Street on Sunday to discuss support for Ukraine.\nThe Ukrainian leader will visit the UK with the French president and German chancellor after a week of heightened hostilities and Vladimir Putin’s rejection of his proposal of face-to-face talks on Moscow’s war.",
+          "group" : "Ukraine peace talks",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks"
+            }
+          ],
+          "titleTR" : "Starmer to host Zelenskyy and EU leaders for Ukraine talks"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/russia-putin-armenia-election",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Relationship between Vladimir Putin and traditional ally has slowly unravelled under current PM Nikol Pashinyan\nThe bottling line at the Abovyan cognac factory in Armenia is running at full tilt.\nWomen in white coats and hairnets work the conveyor with practised speed – labelling, stacking, loading pallets – racing to fill a truck.",
+          "group" : "Armenia Russia pressure",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/russia-putin-armenia-election",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/russia-putin-armenia-election",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/russia-putin-armenia-election"
+            }
+          ],
+          "titleTR" : "Armenia heads to polls amid Russian pressure and threat of ‘Ukrainian scenario’"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe",
+          "category" : "Diplomacy",
+          "descriptionTR" : "US embassy in Sarajevo made threat after European states refused to back its preferred High Representative candidate\nA deepening US-European rift over the future of Bosnia and Herzegovina has broken open with a dispute over a top administrative post, leading to a US threat to “reconsider” its role in international peacekeeping.\nThe American embassy in Sarajevo issued the threat after European states refused to back the US preferred candidate to become the new High Representative for the international community. At a meeting this week in Sarajevo of the Peace Implementation Council (PIC) – a multinational group tasked with overseeing the implementation of the 1995 Dayton peace agreement – Washington supported an Italian diplomat, Antonio Zanardi Landi, while the UK, France, Germany and most European states backed France’s envoy to the Western Balkans, René Troccaz.",
+          "group" : "Bosnia peacekeeping dispute",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe"
+            }
+          ],
+          "titleTR" : "US threatens to reconsider role in Bosnia and Herzegovina amid rift with Europe"
+        }
+      ],
+      "packetSpot" : "What new sanctions are the US imposing on Cuba? Why is Starmer hosting Zelenskyy and EU leaders? Could Armenia face a 'Ukrainian scenario'?",
+      "packetTitle" : "Diplomatic Tensions and Talks: A Global Perspective",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal",
+          "category" : "Environment",
+          "descriptionTR" : "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to aquariums in Spain or across US\nCanada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales, ending a saga that has captivated the public and angered animal rights groups.\nThe federal fisheries ministry announced this week that all of Marineland’s belugas would be shipped to either Spain or one of four locations in the US, ending whale captivity in Canada.",
+          "group" : "Marine animal relocation",
+          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal"
+            }
+          ],
+          "titleTR" : "Canada endorses embattled marine park’s plan to relocate 30 beluga whales"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan",
+          "category" : "Environment",
+          "descriptionTR" : "More than 1 million people advised to evacuate homes amid 80mph winds and heavy rain\nTyphoon Jangmi (also known as Typhoon No 6) moved northwards over the course of this week. From Okinawa to mainland Japan, prolonged and heavy rainfall led to landslide warnings and the flooding of rivers, with Japan issuing level 4 warnings for some rivers, signalling a risk of overflowing. This level is high enough for municipalities to issue evacuation orders. Three-hourly rainfall totals on Wednesday reached 105mm in Chiyoda, Tokyo, which was a record high for the month. Sustained wind speeds of 80mph (130kph) were recorded on Monday – making it a category 1 typhoon – bringing damage and disruption to businesses, transport, infrastructure and the environment.\nBy Wednesday, 23 people had been injured, 17 of whom were in Okinawa. The typhoon damaged 57 homes and led to 60,000 homes losing electricity. In addition to this, 1.52 million people were advised to evacuate by authorities. The typhoon damaged the exterior wall of Himeji Castle, a Unesco world heritage site in western Japan. The maximum recorded wind speed at Himeji was 56mph, according to the Japan Meteorological Agency. The typhoon has now weakened into a tropical depression and has moved eastwards, away from the islands.",
+          "group" : "Japan typhoon damage",
+          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan"
+            }
+          ],
+          "titleTR" : "Typhoon Jangmi sweeps northwards leaving 23 injured in Japan"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
+          "category" : "Environment",
+          "descriptionTR" : "Webcams showed snow blanketing the ground in some areas. In others, it was patchy or nonexistent\n\t•\tGet our breaking news email, free app or daily news podcast\nAustralia’s snow season has officially begun, with resorts predicting a good season despite climactic threats and the cost-of-living crisis.\nBetween 20cm and 40cm of snow fell across the Victorian and New South Wales alps before the long weekend, with the falls bolstered by snowmakers.",
+          "group" : "Australia snow season",
+          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
+          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears"
+            }
+          ],
+          "titleTR" : "Australian snow season begins amid El Niño fears"
+        }
+      ],
+      "packetSpot" : "What drives Canada's bold plan for beluga whales? How is Japan coping with Typhoon Jangmi's aftermath? Will Australia's snow season withstand El Niño's impact?",
+      "packetTitle" : "Nature's Challenges Across Continents",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb",
+          "category" : "Politics",
+          "descriptionTR" : "Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former detainees\n\t•\tFollow our Australia news live blog for latest updates\n\t•\tGet our breaking news email, free app or daily news podcast\nThe Nauruan government has issued a rare statement insisting it is a “friendly” and “welcoming” country after a whistleblower alleged “serious threats of physical violence” were made against a group of non-citizens removed there by the Albanese government.\nThe unexpected defence, sent shortly after midday on Thursday, was mounted hours after the independent MP Andrew Wilkie used his three-minute constituency statement to read claims from an anonymous whistleblower familiar with the arrangements of the secretive $2.5bn deal between Australia and Nauru.",
+          "group" : "Australia deportation deal",
+          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb",
+          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb"
+            }
+          ],
+          "titleTR" : "Nauru issues rare statement after whistleblower alleges violent threats against Australia’s non-citizens"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth",
+          "category" : "Politics",
+          "descriptionTR" : "Polish, Spanish and French populists focus on clips of teenager’s dying moments and accuse UK of descending ‘into depths of the earth’\n\t•\tUK politics live – latest updates\nPolish far-right politicians have claimed that the murder of Henry Nowak symbolises “Britain’s descent into the depths of the earth” as populists from France, Spain and Japan focused on harrowing clips of his dying moments.\nDespite pleas from Nowak’s family for people not to exploit the killing for political gain and to focus on cutting knife crime, their comments have focused on race and immigration.",
+          "group" : "European far right rhetoric",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth"
+            }
+          ],
+          "titleTR" : "Europe’s far right exploit Henry Nowak murder in UK with populist rhetoric on race"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/jacinta-allan-leadership-spill-rumours-victorian-labor-election",
+          "category" : "Politics",
+          "descriptionTR" : "Just months from the Victorian election, the premier’s performance has left some MPs wondering if it’s too late for Labor to change leaders\n\t•\tGet our breaking news email, free app or daily news podcast\nJacinta Allan faced three major tests this week. The way she handled them has left some of her colleagues speculating about a possible leadership change just months out from the Victorian election.\nThe first came on Monday, as the premier responded to a parliamentary inquiry that six months ago recommended sweeping reforms to Victoria’s integrity laws.",
+          "group" : "Victorian Labor leadership",
+          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/jacinta-allan-leadership-spill-rumours-victorian-labor-election",
+          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/jacinta-allan-leadership-spill-rumours-victorian-labor-election",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/jacinta-allan-leadership-spill-rumours-victorian-labor-election"
+            }
+          ],
+          "titleTR" : "Regrettable references and claims of ‘rigged’ election laws: why this week has reignited Jacinta Allan spill rumours"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
+          "category" : "Politics",
+          "descriptionTR" : "Conditions that led to bloody prewar protests have been made worse, commentators say\nIran is already preparing for the perilous transition from wartime unity to a fractious peace marked by hyperinflation, a 10% contraction in the economy, power cuts and calls for a triumphalist government to end its unprecedented hunting down of dissent.\nWith peace not yet secured, the debates within the regime about Iran’s future are only just starting to emerge but its rulers are clearly thinking about how after surviving the war, they can survive the peace.",
+          "group" : "Iran regional escalation",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace"
+            }
+          ],
+          "titleTR" : "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/graham-platner-main-senate-physical-intimidation-allegations",
+          "category" : "Politics",
+          "descriptionTR" : "Democrat denies reports of physical intimidation towards women, saying his past has been ‘weaponized’\nThe Democratic US Senate candidate Graham Platner on Friday predicted that Maine’s voters would support him four days later in his party primary despite a string of controversies – including recent negative headlines about his treatment of women that he said had been “weaponized”.\nIn a 25-minute speech before supporters in Bar Harbor, the oyster farmer and US marine combat veteran addressed the controversies about his personal conduct, which escalated on Thursday with a New York Times report in which three former romantic partners described disturbing behavior, including being physically intimidated by him.",
+          "group" : "Maine Senate controversy",
+          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/graham-platner-main-senate-physical-intimidation-allegations",
+          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/graham-platner-main-senate-physical-intimidation-allegations",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/graham-platner-main-senate-physical-intimidation-allegations"
+            }
+          ],
+          "titleTR" : "Despite new allegations, Maine’s Platner predicts voters will send him to Senate"
+        }
+      ],
+      "packetSpot" : "What political tensions are brewing across continents? How are leaders responding to allegations and rhetoric?",
+      "packetTitle" : "Global Political Tensions: From Nauru to Europe",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb",
+          "category" : "Diğer",
+          "descriptionTR" : "Dr David Jackson gave ‘effectively an unlimited supply for a drug binge’ to one addict, inquest finds\n\t•\tGet our breaking news email, free app or daily news podcast\nA former medical practitioner who was the subject of multiple red flags played a direct role in the deaths of two patients through grossly irresponsible drug prescribing, a coroner has found.\nNicholas Brown, Matthew Winwood, Toni Wiki and Belinda Kemp, who were all drug dependent, died in Tasmania between September 2016 and August 2017.\nIn Australia, the Opioid Treatment Line is at 1800 642 428 or call the National Alcohol and Other Drug Hotline on 1800 250 015. In the UK, Action on Addiction is available on 0300 330 0659. In the US, call or text SAMHSA’s National Helpline on 988",
+          "group" : "A",
+          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb",
+          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb"
+            }
+          ],
+          "titleTR" : "Doctor’s ‘grossly irresponsible prescribing’ played direct role in two deaths, Tasmanian coroner finds"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun",
+          "category" : "Diğer",
+          "descriptionTR" : "Climbing support team rescue Hillary Dawa Sherpa almost a week on from when he was last seen\nA Nepali guide who was believed to have died on Mount Everest has been found crawling to base camp a week after going missing – and after his funeral rites had begun.\nDawa Sherpa, also known as Hillary Dawa Sherpa after the famous climber Edmund Hillary, was last seen on 29 May but did not reach base camp with other climbing groups.",
+          "group" : "A",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun"
+            }
+          ],
+          "titleTR" : "Missing Sherpa guide found alive on Everest after funeral rites had begun"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/06\/stevie-nicks-donates-ucs-medical-school",
+          "category" : "Diğer",
+          "descriptionTR" : "Musician donated to USC to help create endowed chair to recognize Dr Joseph Sugerman, who treated her for years\nLegendary singer-songwriter Stevie Nicks has given $3m to the University of Southern California’s medical school to recognize the physician who has helped care for her voice throughout much of her career.\nThe major donation supports the creation of an endowed chair in otolaryngology at USC’s Keck School of Medicine in honor of Dr Joseph Sugerman, an ear, nose and throat specialist from Beverly Hills who has treated the singer – along with other performers and patients – for many years.",
+          "group" : "A",
+          "id" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/06\/stevie-nicks-donates-ucs-medical-school",
+          "link" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/06\/stevie-nicks-donates-ucs-medical-school",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/06\/stevie-nicks-donates-ucs-medical-school"
+            }
+          ],
+          "titleTR" : "Stevie Nicks donates $3m to medical school to recognize her voice doctor"
+        }
+      ],
+      "packetSpot" : "How did a doctor's actions lead to tragedy in Tasmania? Why was a Sherpa guide presumed dead on Everest? What prompted Stevie Nicks to make a generous donation to a medical school?",
+      "packetTitle" : "Unforeseen Outcomes: From Medical Mishaps to Miraculous Rescues",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/pope-leo-xiv-spain-tour-madrid-catholic-church",
+          "category" : "Culture",
+          "descriptionTR" : "Pontiff to make marginalised a focus of first papal visit since 2011 including meeting with migrants in the Canaries\nPope Leo has urged political leaders to seek unity, rather than divide their populations for political gain, and said they must fight for peace, in the opening speech of his tour in Spain.\nThe pope has made the marginalised a focus of his visit – his first tour of an EU country, apart from Italy – including meeting homeless people in Madrid and migrants in the Canary Islands. The pope, who has clashed with the US president, Donald Trump, over his immigration policies and war with Iran, said his visit was aimed at setting an example of respecting “every human being”.",
+          "group" : "Pope Spain tour",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/pope-leo-xiv-spain-tour-madrid-catholic-church",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/pope-leo-xiv-spain-tour-madrid-catholic-church",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/pope-leo-xiv-spain-tour-madrid-catholic-church"
+            }
+          ],
+          "titleTR" : "Pope Leo calls for leaders to reject polarisation as he begins Spanish tour"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
+          "category" : "Culture",
+          "descriptionTR" : "Rare albino buffalo spared due to security concerns over unusual level of public interest in 700kg animal\nA rare albino buffalo in Bangladesh nicknamed “Donald Trump” for its distinctive blond tuft has been spared from Eid al-Adha sacrifice after a last-minute government intervention, according to a home ministry official.\nThe nearly 700kg (1,543lb) animal had already been sold for ritual slaughter when authorities stepped in, citing security concerns after a surge of public interest before Thursday’s festival.",
+          "group" : "Bangladesh buffalo story",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice"
+            }
+          ],
+          "titleTR" : "Blond Bangladeshi buffalo nicknamed ‘Donald Trump’ saved from Eid sacrifice"
+        }
+      ],
+      "packetSpot" : "How are global figures influencing cultural narratives? What does a buffalo named after a political leader reveal about societal perceptions?",
+      "packetTitle" : "Cultural Reflections on Leadership and Identity",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/news\/2026\/jun\/06\/andrew-tate-moscow-alleged-victims-uk-question-delay-extradition",
+          "category" : "Law",
+          "descriptionTR" : "Lawyer for British women attacks ‘extraordinary spectacle’ of Tate’s arrival in Moscow\nBritish women who have accused Andrew Tate of rape, assault and coercive control have questioned why the self-professed misogynistic influencer has appeared in Russia as UK authorities continue to hold off on seeking his extradition.\nTate admires Vladimir Putin and amplifies Kremlin propaganda online. He arrived in the same week that Russian authorities welcomed US rightwing figures at an annual conference described as Russia’s answer to Davos.",
+          "group" : "Andrew Tate extradition",
+          "id" : "https:\/\/www.theguardian.com\/news\/2026\/jun\/06\/andrew-tate-moscow-alleged-victims-uk-question-delay-extradition",
+          "link" : "https:\/\/www.theguardian.com\/news\/2026\/jun\/06\/andrew-tate-moscow-alleged-victims-uk-question-delay-extradition",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/news\/2026\/jun\/06\/andrew-tate-moscow-alleged-victims-uk-question-delay-extradition"
+            }
+          ],
+          "titleTR" : "Women accusing Andrew Tate criticise UK extradition delay as influencer appears in Russia"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/06\/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
+          "category" : "Law",
+          "descriptionTR" : "Eighteen-year-old man arrested after car collides with cyclist Anthony Canty, who died in hospital four days later\nA lottery winner has died after a suspected hit-and-run in Essex, police said.\nOfficers were called to the collision between a cyclist and a black Ford Ka in Tiptree at 6.30am on 21 May. The cyclist, a man in his 30s, was taken to hospital where he died four days later, Essex police said.",
+          "group" : "Essex hit-and-run",
+          "id" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/06\/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
+          "link" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/06\/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/06\/euromillions-winner-dies-after-suspected-hit-and-run-in-essex"
+            }
+          ],
+          "titleTR" : "EuroMillions winner dies after suspected hit-and-run in Essex"
+        }
+      ],
+      "packetSpot" : "Why is Andrew Tate's extradition from the UK delayed? What are the implications of his appearance in Russia?",
+      "packetTitle" : "Cross-Border Legal Challenges: From UK to Russia",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/02\/cricket-canada-suspension",
+          "category" : "Sports",
+          "descriptionTR" : "ICC’s decision comes amid growing concerns the team is being influenced by members of a notorious gang in India\nCricket’s international governing body has suspended Canada over what it described as “serious breaches of its membership obligations”, dealing the latest blow to an organization that critics say has become a “laughing stock” within the sport.\nThe suspension also comes amid growing concerns that one of Canada’s fastest-growing sports is being influenced by members of a notorious gang that operates with impunity from an Indian prison cell.",
+          "group" : "Canada cricket corruption",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/02\/cricket-canada-suspension",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/02\/cricket-canada-suspension",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/02\/cricket-canada-suspension"
+            }
+          ],
+          "titleTR" : "Cricket Canada suspended over allegations of gang-linked corruption"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life",
+          "category" : "Sports",
+          "descriptionTR" : "•\tJoint-chair of relegated club to tackle ‘false allegations’\n\t•\t‘I am not the person the media has decided to paint me as’\nThe former pornography baron David Sullivan has announced his resignation as a joint-chair and director of West Ham with immediate effect.\nSullivan and his legal representatives said in a statement that the 77-year-old billionaire was stepping down to apply his “full energy and attention” to fighting what he described as “false allegations” concerning his personal conduct, due to be aired as part of a joint investigation by BBC Panorama and the Times on Monday.",
+          "group" : "West Ham ownership scandal",
+          "id" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life",
+          "link" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life"
+            }
+          ],
+          "titleTR" : "David Sullivan steps down at West Ham to fight claims about private life"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
+          "category" : "Sports",
+          "descriptionTR" : "Sullivan hoped football would legitimise him but claims about historical conduct have led to his resignation from West Ham\n• Sullivan steps down at West Ham to fight claims about private life\nWhen David Sullivan was growing up in a council house in Cardiff, he dreamed of becoming a professional footballer. Short and squat, he would never be a player, but later in life the fortune he built through the pornography industry and the property world gave him a route into the sport. The only problem, Sullivan discovered, was finding a club willing to roll out the welcome carpet for him and his business partners, David and Ralph Gold.\nThey were fans of West Ham United and bought a stake in the east London club in 1991, only to find entry to the boardroom closed. “We had no contact with the board,” the late David Gold wrote in his autobiography. “They simply did not want David Sullivan and the Golds at their football club.”",
+          "group" : "West Ham ownership scandal",
+          "id" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
+          "link" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football"
+            }
+          ],
+          "titleTR" : "David Sullivan: how did the pornographer rise so high in modern football?"
+        }
+      ],
+      "packetSpot" : "What led to Cricket Canada's suspension? Why is David Sullivan stepping down at West Ham? Explore the controversies shaking the sports world.",
+      "packetTitle" : "Scandals and Controversies in Sports Leadership",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
+          "category" : "Transport",
+          "descriptionTR" : "Truck was carrying Afghan families returning Pakistan when it overturned, official says\nA truck overturned in eastern Afghanistan on Saturday, killing 18 people on board including 10 children, a provincial official told Agence France-Presse.\nDeadly traffic crashes are common in Afghanistan, due in part to poor roads after decades of conflict, dangerous driving and a lack of regulation.",
+          "group" : "Afghanistan road deaths",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children"
+            }
+          ],
+          "titleTR" : "Eighteen people killed in Afghanistan truck crash, including 10 children"
+        }
+      ],
+      "packetSpot" : "What led to the tragic truck crash in Afghanistan? How are local communities affected?",
+      "packetTitle" : "Tragedy on Afghanistan's Roads",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
+          "category" : "Education",
+          "descriptionTR" : "New digital marking system is aimed at reducing human errors but many students say it has resulted in wrong grades\nA national outcry has erupted in India after more than 400,000 students requested copies of their answer sheets amid mounting complaints of errors in the marking of the country’s most important school-leaving examinations.\nWithin days of the grade 12 exam results being issued, students began reporting marking discrepancies they linked to a new digital marking system.",
+          "group" : "India exam marking",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams"
+            }
+          ],
+          "titleTR" : "Exam fail: Indian students complain en masse about marking errors in key final exams"
+        }
+      ],
+      "packetSpot" : "Why are Indian students protesting against their exam results? What errors are causing a national outcry?",
+      "packetTitle" : "India's Exam Grading Controversy",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/06\/ministers-may-curb-misinformation-musk-x-liz-kendall",
+          "category" : "Technology",
+          "descriptionTR" : "Technology secretary Liz Kendall says she is ‘very concerned’ about role of social media but will not be ‘bullied off’ X\nThe government is considering fresh action to halt the spread of misinformation during public crises, Liz Kendall has said, insisting she will not be “bullied off” Elon Musk’s X.\nThe technology secretary was speaking after rioting broke out in Southampton over the police response to the fatal stabbing of Henry Nowak, a case about which Musk has repeatedly posted.",
+          "group" : "Misinformation and unrest",
+          "id" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/06\/ministers-may-curb-misinformation-musk-x-liz-kendall",
+          "link" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/06\/ministers-may-curb-misinformation-musk-x-liz-kendall",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/06\/ministers-may-curb-misinformation-musk-x-liz-kendall"
+            }
+          ],
+          "titleTR" : "Ministers may try to curb spread of misinformation during social unrest"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/stratos-datacenter-utah-suit",
+          "category" : "Technology",
+          "descriptionTR" : "Plan backed by Shark Tank’s Kevin O’Leary had footprint reduced but concerns remain over its health impacts\nUtah residents have teamed up with a progressive non-profit organization to sue over an under-development AI datacenter backed by celebrity investor Kevin O’Leary, claiming the planned Stratos project facility “irrevocably” cuts off citizens’ rights by not allowing sufficient public input.\nFiled by the Alliance for a Better Utah and five unnamed residents of the Box Elder county area where the center is being developed, the lawsuit comes as Shark Tank co-host O’Leary agreed to scale back the physical footprint for the project.",
+          "group" : "AI datacenter lawsuit",
+          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/stratos-datacenter-utah-suit",
+          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/stratos-datacenter-utah-suit",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/stratos-datacenter-utah-suit"
+            }
+          ],
+          "titleTR" : "Suit filed against controversial planned Stratos datacenter project in Utah"
+        }
+      ],
+      "packetSpot" : "How are governments addressing misinformation during crises? Why is a datacenter project sparking legal battles in Utah?",
+      "packetTitle" : "Tech's Twin Challenges: Misinformation and Infrastructure",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/media\/2026\/jun\/06\/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
+          "category" : "Media",
+          "descriptionTR" : "Former figures at regulator voice disquiet after series of provocative interviews by recently departed chair\nRegulators are not generally known for courting controversy. When the day job involves making delicate, legally fraught decisions, they tend to be a circumspect bunch.\nHowever, since stepping down as chair of Ofcom, one of Britain’s most scrutinised watchdogs, the Conservative peer Michael Grade has been doing his best to buck that stereotype. “I’m free of the shackles,” he recently said.",
+          "group" : "Media regulation debate",
+          "id" : "https:\/\/www.theguardian.com\/media\/2026\/jun\/06\/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
+          "link" : "https:\/\/www.theguardian.com\/media\/2026\/jun\/06\/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T20:59:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/media\/2026\/jun\/06\/michael-grade-ofcom-watchdog-impartiality-rules-gb-news"
+            }
+          ],
+          "titleTR" : "‘Free of the shackles’: Michael Grade’s GB News defence raises concerns over relaxing of Ofcom rules"
+        }
+      ],
+      "packetSpot" : "Are Ofcom's rules too restrictive? What changes are Michael Grade advocating for GB News?",
+      "packetTitle" : "Britain's Media Regulation Debate",
+      "publishedAt" : "2026-06-06T20:59:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    }
+  ],
+  "week" : "2026-W24"
+}
