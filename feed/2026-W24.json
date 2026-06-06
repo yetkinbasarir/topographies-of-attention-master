@@ -1,925 +1,991 @@
 {
   "label" : "1–7 HAZIRAN",
-  "publishedAt" : "2026-06-06T20:59:22Z",
+  "publishedAt" : "2026-06-06T23:17:44Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
-          "category" : "Human Rights",
-          "descriptionTR" : "Taslak anlaşma, cinsel ve üreme sağlığı haklarının Afrika ailesi için varoluşsal bir tehdit olduğunu iddia ediyor\nAfrika'da uzun süredir devam eden uluslararası insan hakları yükümlülüklerini reddeden bir Afrika anlaşması, bu hafta Gana'da kıta genelindeki hükümetlerin bir araya gelmesiyle politika olmaya bir adım daha yaklaştı.\nThe Guardian tarafından görülen aile, egemenlik ve değerler üzerine taslak Afrika sözleşmesi, Afrika değerleri ve kültürünün \"yabancı ideolojiler\" tarafından saldırıya uğradığını iddia ediyor ve devletleri, kadın ve kız çocuklarının cinsiyet eşitliğini teşvik eden ve üreme ve sağlık haklarını koruyan 2003 Maputo protokolü de dahil olmak üzere, sözleşmenin ilkeleriyle uyumlu olmayan herhangi bir anlaşmadan çekilmeye çağırıyor.",
-          "group" : "African rights backlash",
-          "id" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
-          "link" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "category" : "Economy",
+          "descriptionTR" : "Venezuela'nın başkentinde tahsil edilecek bir borcunuz mu var? Dr. Diablo ve çatal taşıyan ekibi, insanları borçlarını ödemeye zorlamak için kamuya açık aşağılamayı kullanıyor.",
+          "group" : "Venezuela debt collection",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html"
             }
           ],
-          "titleTR" : "Hak grupları tarafından gerici ve tehlikeli olarak kınanan 'aile değerleri' Afrika sözleşmesi"
+          "titleTR" : "Venezuela'da Borç Tahsildarı Şeytan"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis",
-          "category" : "Human Rights",
-          "descriptionTR" : "Ülkede, cesetleri sadece birkaç gün arayla bulunan 14 ve 17 yaşındaki iki kızın vahşice öldürülmesi şok etkisi yarattı\nArjantin, iki genç kızın cesetlerinin sadece iki gün arayla bulunmasının ardından öfkeyle tepki verdi. Son cinayetler, Güney Amerika ülkesinin yıllardır feminist kampanyalara rağmen devam eden kadın cinayeti krizini gözler önüne sererken, aşırı sağcı Javier Milei yönetimi altında cinsiyete dayalı şiddet mağdurlarına yönelik desteğin kesilmesi kararıyla ilgili endişeleri artırdı.\nPolis, 14 yaşındaki Agostina Vega'nın kalıntılarını Cumartesi günü Córdoba şehrinin eteklerindeki bir tarlada buldu. Yerel medya raporlarına göre, boğularak öldürülmüş ve cesedi parçalanmıştı.",
-          "group" : "Argentina femicide crisis",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis"
-            }
-          ],
-          "titleTR" : "Arjantin'de iki genç kızın öldürülmesi kadın cinayeti krizi sürerken öfke yarattı"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/07\/ice-jail-new-jersey-delaney-hall",
-          "category" : "Human Rights",
-          "descriptionTR" : "Delaney Hall'daki koşullar nedeniyle tutuklular açlık grevine giderken, aileler sevdiklerinin refahı konusunda endişelerini dile getiriyor\nMayıs ortasında, Elder Guerra, Delaney Hall göçmen gözaltı merkezinde duş alırken kayıp düştü.\nGuatemalalı bir göçmen olan Guerra, New Jersey hapishanesinde neredeyse beş aydır tutuklu. Ocak ayında Newark'ta karla kaplı arabasını taşımaya çalışan bir arkadaşına yardım ederken federal Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) yetkilileri tarafından tutuklandı. The Guardian'a konuşan bir akrabasına göre, görevliler yaklaşıp birkaç soru sormuşlar.",
-          "group" : "ICE detention conditions",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/07\/ice-jail-new-jersey-delaney-hall",
-          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/07\/ice-jail-new-jersey-delaney-hall",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
+          "category" : "Economy",
+          "descriptionTR" : "Trump yönetiminin Küba üzerindeki ekonomik baskıyı artırma çabaları işe yarıyor gibi görünüyor, zira daha fazla uluslararası firma adadan ayrılacaklarını açıkladı.",
+          "group" : "Trump Cuba pressure",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/07\/ice-jail-new-jersey-delaney-hall"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html"
             }
           ],
-          "titleTR" : "Aileler 'insanlık dışı' ICE hapishanesi nedeniyle yaşadıkları sıkıntıyı anlatıyor: 'Orada kaçırılmış gibiler'"
+          "titleTR" : "Trump'ın Küba Ekonomisi Üzerindeki Kuralları Sertleştirmesiyle Otel Zincirleri Çekiliyor"
         }
       ],
-      "packetSpot" : "Afrika sözleşmeleri insan haklarına nasıl meydan okuyor? Arjantin'deki kadın cinayeti krizinin ardındaki nedenler neler? ICE gözaltı merkezlerinde neler oluyor?",
-      "packetTitle" : "Adalet ve Eşitlik İçin Küresel Mücadeleler",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Venezuela borç tahsilat sorunlarıyla nasıl başa çıkıyor? Trump'ın politikaları Küba ekonomisini nasıl etkiliyor?",
+      "packetTitle" : "Latin Amerika'da Ekonomik Gerilimler",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
-          "category" : "Health",
-          "descriptionTR" : "Plan, CDC personelinin tedavi için ABD'ye getirilmesi ve tüm sağlık çalışanlarına destek sağlanması politikasından ayrılıyor\nEski üst düzey ABD yetkilileri ve diğer uzmanlar, Trump yönetimini Kenya'da bir Ebola karantina ve tedavi merkezi kurma planlarından vazgeçmeye çağırıyor. ABD Hastalık Kontrol ve Önleme Merkezleri (CDC) çalışanları sendikası ise Ebola'ya maruz kalan Amerikalıların tedavi için eve getirilmesini istiyor.\nABD'nin Kenya'da Amerikalılar için bir Ebola karantina ve tedavi sahra hastanesi kurduğunu açıklamasının hemen ardından, Kenya yüksek mahkemesi emri engelledi – ancak Kenya ve ABD hükümetleri yine de ilerledi ve ilk Amerikalı müdahale ekiplerinin Cumartesi günü Laikipia hava üssüne indiği bildirildi.",
-          "group" : "Ebola outbreak response",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Leo, İspanya'ya Cumartesi günü bir haftalık ziyaret için geldi. Bu süre zarfında göçmenlerle bir araya gelecek ve İspanya'nın aşırı sağ partisi Vox'tan eleştiri alabilir.",
+          "group" : "Pope Leo Spain visit",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html"
+            }
+          ],
+          "titleTR" : "Papa Leo, Trump ve Yapay Zeka ile Mücadele Ettikten Sonra İspanya'da Yeni Çatışmalara Hazırlanıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Xi Jinping Pyongyang'ı ziyaret ederken, Rusya ile ittifakı Çin'e olan bağımlılığını azaltan güçlenmiş bir Kuzey Kore diktatörüyle karşı karşıya.",
+          "group" : "Xi North Korea visit",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html"
             }
           ],
-          "titleTR" : "Uzmanlar, Kenya'da sadece Amerikalılara yönelik Ebola karantina merkezi planını eleştiriyor"
+          "titleTR" : "Çin Lideri Xi Jinping Kuzey Kore'ye Giderken Bilinmesi Gerekenler"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
-          "category" : "Health",
-          "descriptionTR" : "Hükümet departmanı, adamın Albany yakınlarındaki Michaelmas Adası çevresinde, 4,5 metrelik olduğu tahmin edilen bir köpekbalığı tarafından ısırıldığını açıkladı\nBatı Avustralya'da 30'lu yaşlarında bir erkek dalgıç, bir köpekbalığı tarafından ısırıldıktan sonra hayatını kaybetti.\nEyalet polis gücü, 35 yaşındaki adamın olay yerinde iki saatten fazla süreyle sağlık görevlileri tarafından tedavi edildikten sonra Cumartesi öğleden sonra öldüğünü doğruladı.",
-          "group" : "Australia shark attack",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
-          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
-          "newsValue" : 4,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast"
-            }
-          ],
-          "titleTR" : "Batı Avustralya kıyılarında köpekbalığı saldırısına uğrayan adam hayatını kaybetti"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/second-flesh-eating-screwworm-infection-texas",
-          "category" : "Health",
-          "descriptionTR" : "Vali, parazitin yayılmasını durdurmak için steril sineklerin salınması da dahil olmak üzere ajansların harekete geçmesiyle birlikte felaket ilanı yaptı\nABD Tarım Bakanlığı (USDA), Teksas'ta ikinci bir et yiyen screwworm sineği vakasını doğruladı; bir yaşındaki bir buzağıda ilk vakanın görülmesinin ardından parazitin yayılmasını durdurmak için agresif bir yanıt başlatıldı.\nTeksas Valisi Greg Abbott, Cuma günü eyalet yetkililerinin, sıcak kanlı hayvanların ve insanların yaşayan dokularıyla beslenen larvaların neden olduğu sinek ve enfestasyonların yayılmasını yavaşlatmak için federal hükümetle birlikte çalıştığını söyledi.",
-          "group" : "Texas screwworm outbreak",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/second-flesh-eating-screwworm-infection-texas",
-          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/second-flesh-eating-screwworm-infection-texas",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/australia\/new-zealand-taiwan-china-travel-ban.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Yeni Zelanda dışişleri bakanı, milletvekillerinin yıllardır sorunsuz bir şekilde Tayvan'ı ziyaret ettiğini belirterek, bir yıllık seyahat yasağını duyduğunda \"şaşırdığını\" söyledi.",
+          "group" : "China Taiwan tensions",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/australia\/new-zealand-taiwan-china-travel-ban.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/australia\/new-zealand-taiwan-china-travel-ban.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/second-flesh-eating-screwworm-infection-texas"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/australia\/new-zealand-taiwan-china-travel-ban.html"
             }
           ],
-          "titleTR" : "Teksas'ta ikinci et yiyen screwworm enfeksiyonu bildirildi"
+          "titleTR" : "Tayvan Ziyareti Sonrası Dört Yeni Zelanda Milletvekiline Çin'den Seyahat Yasağı"
         }
       ],
-      "packetSpot" : "ABD'nin Ebola karantina planlarına Kenya nasıl tepki veriyor? Teksas'taki screwworm salgınının sonuçları neler?",
-      "packetTitle" : "ABD Sağlık Politikaları Küresel ve Yerel Tepkileri Tetikliyor",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Papa Leo'yu İspanya'da hangi zorluklar bekliyor? Xi Jinping'in ziyareti Çin-Kuzey Kore ilişkilerini nasıl şekillendirecek? Yeni Zelandalı milletvekilleri neden Çin'den seyahat yasağı aldı?",
+      "packetTitle" : "Diplomatik Kavşaklar: Küresel Liderler Hareket Halinde",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html",
           "category" : "Security",
-          "descriptionTR" : "Başkanın görev süresi dolmasına rağmen görevde kalma kararı üzerine Perşembe günü yapılacak protestolar öncesinde şiddet olayları patlak verdi. Somali'nin başkenti Mogadişu'da hükümet askerleri ile muhalefetle bağlantılı milisler arasında şiddetli çatışmalar yaşandı, bu da mülklerin zarar görmesine ve bazı sivillerin kaçmasına neden oldu. Çarşamba öğleden sonra başlayan çatışmalar öncesinde, milislerle birlikte hareket eden muhalefet liderleri, şehirdeki kendi klan bölgelerinde mevziler kurdu.",
-          "group" : "Somalia political violence",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire"
-            }
-          ],
-          "titleTR" : "Somali askerleri ve muhalefetle bağlantılı milisler Mogadişu'da çatışırken siviller kaçıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
-          "category" : "Security",
-          "descriptionTR" : "Yedi aylık Sam Fahd Abu Haikal, annesinin kollarındayken askerler Hebron'da ailesine ateş açtı. İsrail askerleri, işgal altındaki Batı Şeria'da yedi aylık bir Filistinli bebeği öldürdü ve ailenin aracına ateş açarak ebeveynlerini yaraladı, araç durma emrine uymasına rağmen. Askerler, Cuma günü Hebron'un Tel Rumeida bölgesinde bebeği ve ebeveynlerini taşıyan araca ateş açtı. Yedi aylık Sam Fahd Abu Haikal ağır yaralandı, kritik durumda hastaneye kaldırıldı ve burada hayatını kaybetti.",
+          "descriptionTR" : "İsrail ordusu, bir askerin İsrail birliklerinin \"üzerine hızla gelen bir aracı\" fark etmesi üzerine ateş açtığını söyledi. Araçta bulunan bebeğin büyükannesi ise bu iddiayı reddetti.",
           "group" : "West Bank civilian killing",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html"
             }
           ],
-          "titleTR" : "İsrail askerleri işgal altındaki Batı Şeria'da Filistinli bebeği öldürdü"
+          "titleTR" : "İsrail Ordusu Batı Şeria'da Araca Ateş Açtı, Bebek Öldü, Filistinli Yetkililer Söylüyor"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
           "category" : "Security",
-          "descriptionTR" : "Washington'un insansız hava araçlarını düşürmesi ve İran radar sitelerine saldırmasının ardından İran, Körfez ülkelerindeki Amerikan üslerine saldırdı. Bahreyn, İran'ın balistik füzeler ve insansız hava araçlarıyla kendisine ve Kuveyt'e saldırdığını söyledi, bu olay ABD ve İran'ın Körfez üzerindeki karşılıklı saldırılarından saatler sonra gerçekleşti ve kırılgan ateşkesi tehdit eden bir dizi gerginliğin sonuncusu oldu. Cumartesi günü Bahreyn'de hava saldırısı sirenleri çaldı ve halka güvenli bir yere gitmeleri ve daha fazla talimat beklemeleri söylendi. Kuveyt ordusu, ülkeye fırlatılan insansız hava araçları ve füzeleri engellediğini açıkladı.",
-          "group" : "Iran regional escalation",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire",
-          "newsValue" : 9,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "descriptionTR" : "The Times tarafından toplanan videolar, İsrail ordusunun Lübnan'daki yerleşim bölgeleri üzerinde son derece zararlı olabilecek bir mühimmat kullandığını gösteriyor.",
+          "group" : "Lebanon phosphorus evidence",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-says-iran-radar-sites-struck-and-drones-intercepted-in-latest-threat-to-fragile-ceasefire"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html"
             }
           ],
-          "titleTR" : "Kuveyt ve Bahreyn, ABD ile çatışmanın ardından İran tarafından hedef alındı"
+          "titleTR" : "Görsel Kanıtlar, İsrail'in Lübnan'da Beyaz Fosfor Kullanımını Nasıl Gösteriyor?"
         },
         {
-          "atomID" : "395C34F1-0776-5023-B845-A91B21D813F0",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
           "category" : "Security",
-          "descriptionTR" : "ABD sağlık yetkilileri, Hastalık Kontrol ve Önleme Merkezleri'nden (CDC) yapılan modellemelerin, Orta Afrika'daki Ebola salgınının tehlikeli bir yörünge izleyebileceğini ve en kötü senaryoda 2014-2016 Batı Afrika salgınına benzer bir ölçeğe ulaşabileceğini öne sürdüğünü belirtti. CDC, 10.000 vakadan 20.000'den fazla vakaya kadar senaryolar yayınladı, önceki salgında ise 28.000'den fazla vaka kaydedilmiş ve 11.000'den fazla kişi hayatını kaybetmişti. Demokratik Kongo Cumhuriyeti'ndeki müdahale, son günlerde 30'dan fazla kişinin öldüğü ve üç Ebola hastasının kliniklerden kaçtığı bildirilen Kuzey Kivu'daki isyancı saldırılarıyla da engelleniyor.",
-          "group" : "A",
-          "id" : "395C34F1-0776-5023-B845-A91B21D813F0",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+          "descriptionTR" : "Cihatçılar, kentsel alanlara yönelik saldırılarını neredeyse üç katına çıkardı. Analistler, uzayan bir çıkmazın çok daha fazla sivil ölüme yol açabileceğinden korkuyor.",
+          "group" : "Mali rebel offensive",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html"
+            }
+          ],
+          "titleTR" : "Mali'de Çatışma Tırmanıyor, İsyancı İttifak Önemli Şehirleri Ele Geçirdi"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/pentagon-sees-growing-espionage-threat-from-israel.html",
+          "category" : "Security",
+          "descriptionTR" : "Savunma Bakanlığı, karşı istihbarat tehdit değerlendirmesini en yüksek seviyeye çıkardı ve İsrail'in İran ile yapılan Amerikan müzakerelerini dinlediğine inanılıyor.",
+          "group" : "Israel espionage threat",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/pentagon-sees-growing-espionage-threat-from-israel.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/pentagon-sees-growing-espionage-threat-from-israel.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/pentagon-sees-growing-espionage-threat-from-israel.html"
+            }
+          ],
+          "titleTR" : "Trump'ın Savunma Bakanlığı, İsrail'den Gelen Casusluk Tehdidinin Arttığını Görüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "category" : "Security",
+          "descriptionTR" : "57 yaşındaki Dawa Sherpa, dağda en son görüldükten neredeyse bir hafta sonra, Perşembe günü canlı bulundu. Eşi, daha erken bulunması için daha fazla şey yapılabileceğini söylüyor.",
+          "group" : "Everest rescue dispute",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html"
+            }
+          ],
+          "titleTR" : "Bir Şerpa Everest'te 6 Gün Yalnız Hayatta Kaldı. Ailesi Terk Edildiğini Söylüyor."
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "category" : "Security",
+          "descriptionTR" : "İtalya Savunma Bakanı Guido Crosetto, Avrupa ülkelerinin yeni bir ortak savunma sistemi kurması ve kendi güvenlikleri için daha fazla sorumluluk alması gerektiğini söyledi.",
+          "group" : "European defense buildup",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html"
+            }
+          ],
+          "titleTR" : "İtalya, Avrupa'nın Kendini Savunması İçin Yeni Bir Askeri İttifaka İhtiyacı Olduğunu Söylüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "category" : "Security",
+          "descriptionTR" : "The New York Times, Trump yönetimi tarafından Karayipler ve Doğu Pasifik'te gerçekleştirilen tekne çarpmalarının ve ölüm oranlarının sayısını araştırıyor. The Times'ın ulusal güvenlik muhabiri Eric Schmitt, bu sayıların ne anlama geldiğini açıklıyor.",
+          "group" : "U.S. boat strikes",
+          "id" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "link" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html"
+            }
+          ],
+          "titleTR" : "ABD Tekne Çarpmalarından Kaynaklanan Artan Ölüm Oranını İzlemek"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "category" : "Security",
+          "descriptionTR" : "Silahlı gruplar, rakip politikacılara sadık gruplar olarak çatıştı. Sakinler, bunun yıllardır görülen en kötü çatışma olduğunu söyledi.",
+          "group" : "Mogadishu fighting",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html"
+            }
+          ],
+          "titleTR" : "Somali'nin Başkenti Mogadişu'da Çatışmalar: Ne Oluyor ve Neden Önemli?"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "category" : "Security",
+          "descriptionTR" : "Lübnanlı militan grubun saldırıları İsraillileri hazırlıksız yakaladı ve siyasi ve askeri liderlerini çözümler bulmaya zorladı.",
+          "group" : "Hezbollah drone defenses",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html"
+            }
+          ],
+          "titleTR" : "Hizbullah'ın Fiber Optik Dronları İsrail Savunmasındaki Çatlakları Ortaya Çıkarıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "category" : "Security",
+          "descriptionTR" : "Avrupa'da, cesaretlenen Rusya'dan gelen tehditler konusunda endişeler artarken, İrlanda hükümeti, tarafsızlık geleneğini yansıtan askeri açıklarını kapatmak için çalıştığını söylüyor.",
+          "group" : "Ireland defense buildup",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html"
+            }
+          ],
+          "titleTR" : "Avrupa Savunmasında Zayıf Halka Olarak Görülen İrlanda Güçlenmeye Çalışıyor"
+        },
+        {
+          "atomID" : "7965F27D-FC8C-5AD9-9DC9-3388F39DF29F",
+          "category" : "Security",
+          "descriptionTR" : "ABD aracılığıyla imzalanan ateşkes anlaşmasından günler sonra İsrail'in düzenlediği bir saldırıda üç Lübnan askeri öldü. Ateşkes umutları azalırken İsrail ile Hizbullah arasındaki çatışmalar devam etti. Anlaşma, İran destekli Hizbullah'ın önce ateş etmeyi bırakmasını gerektiriyor, ancak grup bu şartları sanal bir teslimiyet olarak reddetti ve İsrail saldırısının devam edeceğini söyledi. İsrail, Hizbullah'a karşı yürüttüğü kampanyada Lübnan'ı işgal etmiş ve ülkenin bazı bölgelerini kontrol altına almıştı.",
+          "group" : "Lebanon truce collapse",
+          "id" : "7965F27D-FC8C-5AD9-9DC9-3388F39DF29F",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/04\/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response"
-            }
-          ],
-          "titleTR" : "CDC: Orta Afrika'daki Ebola salgını, isyancı saldırıları müdahaleyi engellediği için 2014 salgınına rakip olabilir"
-        },
-        {
-          "atomID" : "970689B1-1F68-5D26-A63C-EA03D644635E",
-          "category" : "Security",
-          "descriptionTR" : "İsrail, Lübnan ile İsrail arasındaki ateşkes anlaşmasını Hizbullah'ın reddetmesinin ardından Cuma günü altı kişiyi öldüren saldırılar gerçekleştirmeden önce güney Lübnan'daki dokuz köydeki sakinlerin tahliye edilmesini emretti. Binlerce kişi kaçtı, aralarında en az 2.500 yerinden edilmiş kişinin zaten barındığı Anqoun'dan aileler de vardı ve Sidon'a giden yolların araçlarla dolu olduğu bildirildi.",
-          "group" : "A",
-          "id" : "970689B1-1F68-5D26-A63C-EA03D644635E",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/israel-strikes-southern-lebanon-evacuations-nine-villages",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/israel-strikes-southern-lebanon-evacuations-nine-villages"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/lebanon-cease-fire-israel-hezbollah.html"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/lebanon-israel-ceasefire-hezbollah-strikes.html"
             }
           ],
-          "titleTR" : "İsrail, altı kişiyi öldüren saldırılar öncesinde güney Lübnan'daki dokuz köyde tahliyeler emretti"
+          "titleTR" : "İsrail Saldırısı Ateşkeste Üç Lübnan Askerini Öldürdü"
         }
       ],
-      "packetSpot" : "Mogadişu'daki çatışmaları ne tetikliyor? Ortadoğu'daki bölgesel çatışmalar nasıl gelişiyor? Afrika'da güvenlik tehditleri artıyor mu?",
-      "packetTitle" : "Ortadoğu ve Afrika'da Tırmanan Gerginlikler",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "İsrail'in Lübnan ve Batı Şeria'daki askeri eylemlerinin sonuçları neler? Avrupa, değişen savunma ihtiyaçlarına nasıl yanıt veriyor? İsrail ve ABD'yi içeren artan casusluk endişelerini keşfedin.",
+      "packetTitle" : "Orta Doğu Gerginlikleri ve Küresel Savunma Değişimleri",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/canada-walmart-first-union-deal",
-          "category" : "Economy",
-          "descriptionTR" : "Sendika, toplu sözleşmenin ülke genelinde büyük işverenleri sendikalaştırma mücadelesinin sadece başlangıcı olduğunu söylüyor\nKanadalı depo işçileri, Walmart ile ilk kez bir toplu sözleşme imzaladı; bu, işçi örgütleyicilerinin \"tarihi ve güçlü bir adım\" olarak nitelendirdiği bir gelişme.\nAncak sendika, uzun süredir örgütlü iş gücüne karşı olan bir şirketle yapılan bu anlaşmanın, ülke genelinde büyük işverenleri sendikalaştırma mücadelesinde sadece bir başlangıç olduğunu belirtiyor.",
-          "group" : "Canada labor organizing",
-          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/canada-walmart-first-union-deal",
-          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/canada-walmart-first-union-deal",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
+          "category" : "Politics",
+          "descriptionTR" : "Hamamböceği Janta Partisi bir şaka olarak başladı, ancak hızla birçok Hintlinin sistemle ilgili hayal kırıklığını ifade etme yolu haline geldi.",
+          "group" : "India Gen-Z protest",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/canada-walmart-first-union-deal"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html"
             }
           ],
-          "titleTR" : "Tarihi: Kanadalı depo işçileri Walmart ile ilk kez sendika anlaşması imzaladı"
+          "titleTR" : "Viral Z Kuşağı Protesto Hareketi Hindistan'ın Başkentine Binlerce Kişiyi Çekiyor"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-          "category" : "Economy",
-          "descriptionTR" : "Hürmüz Boğazı'nın arkasında sıkışmış petrol tankerleri olabilir, ancak Brezilya'da Iata AGM'nin düzenlenmesi yaklaşan kıtlık uyarılarına meydan okuyor\nBir katılımcının dediği gibi, herkesin Rio de Janeiro'ya uçması kadar jet yakıtı krizi hiçbir şey söylemez. Havacılık liderleri, yıllık küresel havayolu zirvesi olan Iata AGM için bu hafta sonu Brezilya'da bir araya gelecek ve sektör, çoğunlukla kararlı bir şekilde gökyüzüne bakmaya devam ediyor.\nABD, İsrail ve İran arasındaki çatışma sürerken petrol tankerleri Hürmüz Boğazı'nın arkasında sıkışmış olabilir, ancak şimdilik havayolları, Avrupa tatilcileri için kaotik bir yaz korkularını körükleyen yaklaşan kıtlık uyarılarına meydan okumaya devam ediyor.",
-          "group" : "Global aviation fuel",
-          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
-          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "category" : "Politics",
+          "descriptionTR" : "İki adam, Senegal'deki siyasi eski muhafızları yenerek başkan ve başbakan oldu. Şimdi ise birbirleriyle mücadele ediyorlar.",
+          "group" : "Senegal power struggle",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html"
+            }
+          ],
+          "titleTR" : "Bir Başkan, Başbakanı ve Senegal'i Bölen Acı Çatışma"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
+          "category" : "Politics",
+          "descriptionTR" : "Ermenistan Başbakanı Nikol Paşinyan, ülkesinin savaş ve barış, otokrasi ve demokrasi, boyun eğme ve bağımsızlık konularını tartıştığı bir dönemde yeniden seçilmek istiyor.",
+          "group" : "Armenia election pressure",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html"
+            }
+          ],
+          "titleTR" : "Trump Tarafından Desteklenen, Putin Tarafından Karşı Çıkılan ve Siyasi Hayatı İçin Mücadele Eden Lider"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html",
+          "category" : "Politics",
+          "descriptionTR" : "Kremlin ve istihbarat teşkilatlarıyla bağlantılı gruplar, etkilerini kaybetme korkusuyla ülkenin başbakanını itibarsızlaştırmaya çalıştı.",
+          "group" : "Russia Armenia disinformation",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html"
+            }
+          ],
+          "titleTR" : "Rusya, Seçim Öncesi Ermenistan'ı Dezenformasyonla Dolduruyor"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
+          "category" : "Politics",
+          "descriptionTR" : "İsrail'in Haredim topluluğu, son haftalarda askeri hizmete karşı protestolarını artırarak ulusal seçimler öncesinde büyüyen bölünmeleri vurguladı.",
+          "group" : "Israeli draft protests",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html"
+            }
+          ],
+          "titleTR" : "Ultra-Ortodoks İsyanı, Askerlik Celbi Üzerine İsraillileri Şaşırttı"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Trump bu hafta, Kolombiya ve ABD'nin çifte vatandaşı olan sağcı aday Abelardo De La Espriella'yı Kolombiya'nın başkanlık ikinci turunda destekledi.",
+          "group" : "Colombia runoff endorsement",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html"
+            }
+          ],
+          "titleTR" : "ABD Vatandaşı Abelardo De La Espriella Kolombiya'nın Başkanı Olabilir mi?"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Trump tarafından desteklenen bir başkan adayı, bazı Kolombiyalılar tarafından sevilen milli takımın sarı futbol formasını sahiplenmekle suçlandı.",
+          "group" : "Colombia election symbolism",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html"
+            }
+          ],
+          "titleTR" : "Kolombiya'nın Sarı Dünya Kupası Forması, Birlik Sembolünden Siyasi Bir Mesaja Dönüşüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/south-korea-seoul-mayor-elections.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Lee Jae Myung'un Demokrat Partisi, etkisini pekiştirmeyi ve siyasi ivmesini artırmayı umuyordu.",
+          "group" : "South Korea local elections",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/south-korea-seoul-mayor-elections.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/south-korea-seoul-mayor-elections.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/south-korea-seoul-mayor-elections.html"
             }
           ],
-          "titleTR" : "Havacılık sektörü Rio zirvesi için liderler gelirken gökyüzüne bakıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/us-china-trump-trade-war",
-          "category" : "Economy",
-          "descriptionTR" : "Uzun bir ticaret savaşı ufukta. Trump'ın dağınık korumacılığı, kaotik tarifeleri ve doğal müttefiklerimize karşı saldırgan tavrı, ABD ticaret politikasının karmaşık bir durumda kalacağını garanti ediyor\nUzun bir ticaret savaşı bizi bekliyor.\nGeçen yıl \"Kurtuluş Günü\"nden bu yana, Donald Trump her yerden gelen ithalata karşı bir dizi tarife uyguladığından beri, ülkeler, ABD'yi atlatmanın bir yolunu bulmak ve küresel ticaret sistemini korumak umuduyla yeni ilişkiler kurmaya çalışıyor.",
-          "group" : "US China trade war",
-          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/us-china-trump-trade-war",
-          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/us-china-trump-trade-war",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/06\/us-china-trump-trade-war"
-            }
-          ],
-          "titleTR" : "Çin konusunda Trump doğru savaşı seçti ama yanlış stratejiyi izledi"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag",
-          "category" : "Economy",
-          "descriptionTR" : "Orta Doğu, Japonya'nın baskı mürekkebi ve plastikler gibi ürünlerin yapımında kullanılan naftanın çıkarıldığı ham petrolün ana kaynağıdır\nJaponya'daki paket servisler, süpermarketler ve fırınlar, Orta Doğu krizinden kaynaklanan genişleyen nafta sıkıntısı nedeniyle plastik poşet, tepsi ve gıda hizmeti eldiveni sıkıntısı yaşıyor.\nGıda sektörü, Japonya'nın yıllık 8 milyon tondan fazla plastik kullanımının neredeyse üçte birini oluşturuyor ve fiyat artışları ve kıtlıklar, sektör ve ötesinde sert bir şekilde etkiliyor. Bazı mağazalar, kendi poşet, tabak veya kaplarını getiren müşterilere avantajlar sunmaya başladı.",
-          "group" : "Middle East supply shocks",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag"
-            }
-          ],
-          "titleTR" : "Japonya, İran savaşı kaynaklı nafta sıkıntısı kötüleştikçe plastik poşet, tepsi ve eldiven sıkıntısı yaşıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes",
-          "category" : "Economy",
-          "descriptionTR" : "Çoğu ekonomist, konut arzındaki kronik yetersizliğin, faiz oranları düştüğünde ve vergi değişiklikleri fiyatlandığında nihayetinde fiyatları yükselteceğine inanıyor\nHükümetin emlak vergisi değişiklikleri, İşçi Partisi'nin ikinci döneminin tanımlayıcı siyasi meselelerinden biri haline geldi ve muhaliflerden, bu değişikliklerin \"isteklerin saldırıya uğraması\" anlamına geldiğini ve ev değerlerini yok edeceğini iddia eden sert eleştiriler aldı.\n12 Mayıs bütçesinde negatif dişli ve sermaye kazancı vergisi değişikliklerinin açıklanmasından sonraki üç hafta içinde, konut verileri, Avustralya'nın emlak piyasasını nasıl etkileyebileceğini göstermeye başladı. İşte verilerin gösterdikleri ve bundan sonra neler olabileceği.",
-          "group" : "Australian housing policy",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes",
-          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes"
-            }
-          ],
-          "titleTR" : "Avustralya'da konut piyasası bütçeden önce zaten soğuyordu – ama ne kadar soğuyacağı iki ana faktöre bağlı"
+          "titleTR" : "Güney Kore'nin İktidardaki Demokrat Partisi Yerel Seçimleri Süpürdü Ancak Seul Belediye Başkanlığı Yarışında Geriledi"
         }
       ],
-      "packetSpot" : "Walmart'ın sendika anlaşması diğerleri için bir emsal teşkil edecek mi? Küresel gerilimler ticaret ve kaynakları nasıl etkiliyor?",
-      "packetTitle" : "Küresel Ekonomik Değişimler ve İşçi Hareketleri",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Hindistan'daki Z Kuşağı protestosunu ne tetikliyor? Senegal'in liderliğini şekillendiren siyasi çatışma nasıl gelişiyor? Ermenistan neden bir dezenformasyon savaşının ortasında? Bir ABD vatandaşı Kolombiya'nın başkanı olabilir mi?",
+      "packetTitle" : "Küresel Siyasi Güç Değişimleri ve Gerilimler",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 4
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family",
-          "category" : "Diplomacy",
-          "descriptionTR" : "ABD Dışişleri Bakanı Marco Rubio, listelenen kuruluşlara hizmet sağlayan herkesin 'kendilerinin de yaptırım riski altında olduğunu' söyledi.\nAmerika Birleşik Devletleri, komşusu olan komünist yönetimli Küba'ya yönelik baskısını artırarak, Küba Cumhurbaşkanı ve bazı yakın aile üyeleri ile Castro ailesinden bazı kişilere yönelik yeni ekonomik yaptırımlar açıkladı.\nHedef alınanlar arasında, artık resmi bir pozisyonu olmayan ancak adanın geleceği hakkında kararlar üzerinde önemli bir figür olmaya devam eden eski cumhurbaşkanı Raúl Castro'nun oğlu ve torunu da bulunuyor.",
-          "group" : "Cuba sanctions pressure",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html",
+          "category" : "Health",
+          "descriptionTR" : "Çin, ölümcül virüsü durdurmak için iyi bir konumda ve ABD'nin geri çekilmesiyle oluşan boşluğu doldurabilir.",
+          "group" : "Ebola response in East Africa",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html"
+            }
+          ],
+          "titleTR" : "Ebola Doğu Afrika'da Yayılırken Çin Harekete Geçecek mi?"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
+          "category" : "Health",
+          "descriptionTR" : "Nisan ayından beri Hindistan'ı vuran şiddetli sıcak hava dalgaları, ülkenin birçok temel çalışanını zor kararlar almaya zorluyor.",
+          "group" : "Delhi heat workers",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html"
             }
           ],
-          "titleTR" : "ABD, Küba Cumhurbaşkanı ve Castro ailesi üyelerine yeni yaptırımlar uyguluyor"
+          "titleTR" : "Delhi'nin Sert Sıcaklarında Çalışanlar Sağlık ve Ücret Arasında Seçim Yapmak Zorunda"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Ukrayna lideri, Fransa Cumhurbaşkanı ve Almanya Şansölyesi ile birlikte İngiltere'deki toplantıya katılacak.\nKeir Starmer, Ukrayna'ya destek konusunu görüşmek üzere Pazar günü Başbakanlık Konutu'nda Volodymyr Zelenskyy, Emmanuel Macron ve Friedrich Merz'i ağırlayacak.\nUkrayna lideri, Vladimir Putin'in Moskova'nın savaşı üzerine yüz yüze görüşme teklifini reddetmesinin ardından, artan düşmanlıkların yaşandığı bir haftanın ardından Fransa Cumhurbaşkanı ve Almanya Şansölyesi ile birlikte İngiltere'yi ziyaret edecek.",
-          "group" : "Ukraine peace talks",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "category" : "Health",
+          "descriptionTR" : "Veliaht Prenses Mette-Marit'in durumunun kötüleştiği haberi, kraliyet ailesini derin bir krize sürükleyen bir dizi skandalın ortasında geldi.",
+          "group" : "Norway royal illness",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html"
             }
           ],
-          "titleTR" : "Starmer, Ukrayna görüşmeleri için Zelenskyy ve AB liderlerini ağırlayacak"
+          "titleTR" : "Norveç Veliaht Prensesi Mette-Marit Akciğer Nakli Listesine Alındı"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/russia-putin-armenia-election",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Vladimir Putin ile geleneksel müttefiki arasındaki ilişki, mevcut Başbakan Nikol Paşinyan döneminde yavaş yavaş çözülüyor.\nErmenistan'daki Abovyan konyak fabrikasında şişeleme hattı tam kapasite çalışıyor.\nBeyaz önlük ve bone giymiş kadınlar, etiketleme, istifleme, palet yükleme işlemlerini hızlı bir şekilde yaparak bir kamyonu doldurmak için yarışıyorlar.",
-          "group" : "Armenia Russia pressure",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/russia-putin-armenia-election",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/russia-putin-armenia-election",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
+          "category" : "Health",
+          "descriptionTR" : "Yeni araştırmalara göre, ışık kirliliği bitkilerin daha uzun ve güçlü polen yaymasına neden oluyor.",
+          "group" : "Urban light pollution",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/russia-putin-armenia-election"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html"
             }
           ],
-          "titleTR" : "Ermenistan, Rus baskısı ve 'Ukrayna senaryosu' tehdidi altında sandığa gidiyor"
+          "titleTR" : "Kentsel Işık Kirliliği Alerjileri Kötüleştiriyor Olabilir"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe",
-          "category" : "Diplomacy",
-          "descriptionTR" : "ABD'nin Saraybosna Büyükelçiliği, Avrupa devletlerinin tercih ettiği Yüksek Temsilci adayını desteklemeyi reddetmesinin ardından tehditte bulundu.\nBosna-Hersek'in geleceği konusunda derinleşen ABD-Avrupa anlaşmazlığı, üst düzey bir idari pozisyon üzerindeki anlaşmazlıkla ortaya çıktı ve ABD'nin uluslararası barışı koruma rolünü 'yeniden değerlendirme' tehdidine yol açtı.\nSaraybosna'da bu hafta yapılan Barış Uygulama Konseyi toplantısında, Washington, İtalyan diplomat Antonio Zanardi Landi'yi desteklerken, İngiltere, Fransa, Almanya ve çoğu Avrupa devleti, Batı Balkanlar'a Fransa'nın elçisi René Troccaz'ı destekledi.",
-          "group" : "Bosnia peacekeeping dispute",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "32CD4E44-48FF-5344-9158-F59C7E950771",
+          "category" : "Health",
+          "descriptionTR" : "Demokratik Kongo Cumhuriyeti'nde uzak bir tepe kasabasında, altın madenciliği Ebola'nın yayılmasına yardımcı oluyor ve yardım kuruluşları, salgını kontrol altına almaya çalışan sağlık çalışanlarını desteklemek için yarışıyor. Virüsün en az 84 kişiyi öldürdüğü biliniyor, ancak gerçek sayı çok daha yüksek olabilir. Madencilik topluluğundaki keder, güvensizlik ve inkar, hastaları tedavi etme ve ölüleri gömme çabalarını karmaşıklaştırıyor, ancak 2014-2016 salgınından bu yana müdahale koordinasyonu ve aşı geliştirme iyileşti.",
+          "group" : "Congo Ebola mining",
+          "id" : "32CD4E44-48FF-5344-9158-F59C7E950771",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/africa\/congo-ebola-gold-mine.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/us-threatens-to-reconsider-role-in-bosnia-and-herzegovina-amid-rift-with-europe"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/africa\/congo-ebola-gold-mine.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/05\/17\/world\/africa\/what-to-know-ebola-africa.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/video\/world\/africa\/100000010936243\/how-ebola-spreads-through-gold-mining.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/video\/world\/africa\/100000010942478\/ebola-congo-mistrust-grief.html"
             }
           ],
-          "titleTR" : "ABD, Avrupa ile yaşanan anlaşmazlık nedeniyle Bosna-Hersek'teki rolünü yeniden değerlendirme tehdidinde bulundu"
+          "titleTR" : "Altın Madenciliği Kongo'da Ebola Salgınına Yakıt Sağlıyor"
         }
       ],
-      "packetSpot" : "ABD'nin Küba'ya hangi yeni yaptırımları uyguladığı, Starmer'ın Zelenskyy ve AB liderlerini neden ağırladığı, Ermenistan'ın 'Ukrayna senaryosu' ile karşı karşıya kalıp kalmayacağı.",
-      "packetTitle" : "Diplomatik Gerilimler ve Görüşmeler: Küresel Bir Perspektif",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Ebola salgını uluslararası tepkileri nasıl etkiliyor? Çin, Doğu Afrika'daki sağlık krizinde nasıl bir rol oynayabilir?",
+      "packetTitle" : "Ebola'nın Küresel Sağlık Dinamiklerine Etkisi",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 5
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal",
-          "category" : "Environment",
-          "descriptionTR" : "Marineland'in 2025'te ötanazi tehdidinde bulunduğu beyaz balinalar, İspanya veya ABD'deki akvaryumlara taşınacak\nKanada ve zor durumdaki bir deniz parkı, 30 beyaz balinanın geleceği konusunda kamuoyunu etkileyen ve hayvan hakları gruplarını kızdıran bir hikayeyi sona erdiren geçici bir anlaşmaya vardı.\nKanada Federal Balıkçılık Bakanlığı bu hafta, Marineland'in tüm beyaz balinalarının İspanya'ya veya ABD'deki dört yerden birine gönderileceğini ve Kanada'da balina esaretinin sona ereceğini duyurdu.",
-          "group" : "Marine animal relocation",
-          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal",
-          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal",
-          "newsValue" : 3,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "category" : "Diğer",
+          "descriptionTR" : "Bir federal yargıç, C.I.A. çalışanı David Rush'ın tutuklu kalması gerektiğine karar verdi. ABD yetkilileri, Bay Rush'ın milyonlarca dolarlık federal fonu kendisine aktardığını söylüyor.",
+          "group" : "",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html"
             }
           ],
-          "titleTR" : "Kanada, zor durumdaki deniz parkının 30 beyaz balinayı taşıma planını onayladı"
+          "titleTR" : "C.I.A. Görevlisi Altın Külçelerle Yakalandı, Sahte Casus Programı Yarattığı İddia Edildi"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan",
-          "category" : "Environment",
-          "descriptionTR" : "80 mil\/saat hızındaki rüzgarlar ve şiddetli yağmur nedeniyle 1 milyondan fazla kişiye evlerini tahliye etmeleri tavsiye edildi\nTayfun Jangmi (Tayfun No 6) bu hafta boyunca kuzeye doğru ilerledi. Okinawa'dan Japonya anakarasına kadar süren ve şiddetli yağış, toprak kayması uyarılarına ve nehirlerin taşmasına yol açtı. Japonya, bazı nehirler için taşma riski anlamına gelen seviye 4 uyarıları yayımladı. Bu seviye, belediyelerin tahliye emirleri vermesi için yeterince yüksek. Çarşamba günü Chiyoda, Tokyo'da üç saatlik yağış toplamı 105 mm'ye ulaştı ve bu, ay için rekor bir yükseklikti. Pazartesi günü kaydedilen sürekli rüzgar hızları 80 mil\/saat (130 km\/s) idi ve bu, onu kategori 1 tayfun yaparak iş yerlerine, ulaşım, altyapı ve çevreye zarar ve kesinti getirdi.\nÇarşamba günü itibarıyla 23 kişi yaralanmıştı, bunların 17'si Okinawa'daydı. Tayfun 57 eve zarar verdi ve 60.000 evin elektriğini kaybetmesine neden oldu. Buna ek olarak, yetkililer 1,52 milyon kişiye tahliye edilmeleri tavsiyesinde bulundu. Tayfun, batı Japonya'da bir Unesco dünya mirası olan Himeji Kalesi'nin dış duvarına zarar verdi. Japonya Meteoroloji Ajansı'na göre Himeji'de kaydedilen maksimum rüzgar hızı 56 mil\/saat idi. Tayfun şimdi zayıflayarak tropikal bir depresyona dönüştü ve adalardan uzaklaşarak doğuya doğru hareket etti.",
-          "group" : "Japan typhoon damage",
-          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan",
-          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html",
+          "category" : "Diğer",
+          "descriptionTR" : "Katılımlarına dair aylardır süren belirsizliğin ardından, İranlı oyuncular Dünya Kupası'nın başlamasına sadece günler kala ABD vizelerini aldı.",
+          "group" : "",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html"
             }
           ],
-          "titleTR" : "Tayfun Jangmi Japonya'da kuzeye doğru ilerleyerek 23 kişinin yaralanmasına neden oldu"
+          "titleTR" : "İran Futbol Takımı Dünya Kupası İçin ABD'ye Kabul Edildi, Ancak Birçok Personel Reddedildi"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
-          "category" : "Environment",
-          "descriptionTR" : "Web kameraları bazı bölgelerde zeminin karla kaplı olduğunu gösterdi. Diğer yerlerde ise kar yama yama veya hiç yoktu\nAvustralya'nın kar sezonu resmen başladı ve tatil köyleri iklim tehditlerine ve yaşam maliyeti krizine rağmen iyi bir sezon öngörüyor.\nUzun hafta sonu öncesinde Victoria ve Yeni Güney Galler Alpleri'nde 20 cm ile 40 cm arasında kar yağdı ve bu kar yağdırıcılar tarafından desteklendi.",
-          "group" : "Australia snow season",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
-          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
-          "newsValue" : 3,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
+          "category" : "Diğer",
+          "descriptionTR" : "On sekiz Cumhuriyetçi milletvekili partilerinden ayrılarak Demokratlara katıldı ve başkanın dış politika gündemine bir darbe daha vurdu.",
+          "group" : "",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html"
             }
           ],
-          "titleTR" : "Avustralya'nın kar sezonu El Niño endişeleri arasında başladı"
+          "titleTR" : "Temsilciler Meclisi, Cumhuriyetçi Liderlere Karşı Ukrayna Yardımını Onayladı"
+        },
+        {
+          "atomID" : "482BCA01-19C6-5942-8B43-7BC23753E504",
+          "category" : "Diğer",
+          "descriptionTR" : "Ukrayna, St. Petersburg'a uzun menzilli bir drone saldırısı düzenledi, bu birkaç gün içindeki ikinci saldırı oldu. Bu saldırı, Başkan Vladimir Putin'in şehirdeki ekonomik forumda konuşmasından sadece saatler sonra gerçekleşti. Forum, Rusya'nın savaşı durdurup durdurmaması gerektiğini tartışan iş ve siyasi elitleri bir araya getirdi, bu sırada Putin daha fazla savaş sinyali verdi. Ukrayna Devlet Başkanı Volodymyr Zelensky, Putin'e yazdığı bir mektupta onu alaya aldı ve şehre yapılan son saldırıyla övündü.",
+          "group" : "Putin Zelensky messaging",
+          "id" : "482BCA01-19C6-5942-8B43-7BC23753E504",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/ukraine-drone-strike-st-petersburg.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/ukraine-drone-strike-st-petersburg.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html"
+            }
+          ],
+          "titleTR" : "Ukrayna, Putin Ekonomik Foruma Katılırken St. Petersburg'u Vurdu"
         }
       ],
-      "packetSpot" : "Kanada'nın beyaz balinalar için cesur planını ne yönlendiriyor? Japonya, Tayfun Jangmi'nin ardından nasıl başa çıkıyor? Avustralya'nın kar sezonu El Niño'nun etkisine dayanabilecek mi?",
-      "packetTitle" : "Kıtalar Arası Doğanın Zorlukları",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "C.I.A. içinde hangi casusluk skandalı patlak veriyor? İran'ın futbol takımı neden ABD'de vize sorunları yaşıyor? ABD'nin Ukrayna'ya yardımı nasıl siyasi meydan okumaya yol açıyor?",
+      "packetTitle" : "ABD ve Küresel Gerilimler: Casusluktan Yardıma",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 6
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb",
-          "category" : "Politics",
-          "descriptionTR" : "Nauru hükümeti, vatandaşlarının 'dost canlısı' olduğunu belirtti; bir milletvekili, eski tutuklulara karşı ciddi tehditler yapıldığını iddia etti.\nAvustralya haberleri canlı blogumuzu takip edin\nSon dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük haber podcast'imizi edinin\nNauru hükümeti, bir ihbarcının, Albanese hükümeti tarafından oraya gönderilen bir grup vatandaş olmayan kişiye karşı 'ciddi fiziksel şiddet tehditleri' yapıldığını iddia etmesinin ardından nadir bir açıklama yaparak 'dost canlısı' ve 'misafirperver' bir ülke olduğunu vurguladı.\nBeklenmedik savunma, bağımsız milletvekili Andrew Wilkie'nin, Avustralya ile Nauru arasındaki gizli 2,5 milyar dolarlık anlaşmanın düzenlemelerine aşina olan anonim bir ihbarcının iddialarını okumasından saatler sonra, Perşembe günü öğleden sonra gönderildi.",
-          "group" : "Australia deportation deal",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb",
-          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "category" : "Culture",
+          "descriptionTR" : "Bildiklerimize sadık kalmak ile yeni deneyimler aramak arasındaki gerilim, konfor ile yenilik arasındaki bir çatışmadır. İkisini birden nasıl elde edebiliriz?",
+          "group" : "Comfort versus novelty",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html"
             }
           ],
-          "titleTR" : "Nauru, Avustralya'nın vatandaş olmayanlarına yönelik şiddet tehditleri iddiasının ardından nadir bir açıklama yaptı"
+          "titleTR" : "Denge Oyunu"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth",
-          "category" : "Politics",
-          "descriptionTR" : "Polonyalı, İspanyol ve Fransız popülistler, gencin ölüm anlarına odaklanarak İngiltere'yi 'dünyanın derinliklerine iniş' ile suçladı.\nİngiltere siyaseti canlı – son güncellemeler\nPolonyalı aşırı sağcı politikacılar, Henry Nowak'ın öldürülmesinin 'İngiltere'nin dünyanın derinliklerine inişini' simgelediğini iddia etti; Fransa, İspanya ve Japonya'dan popülistler, onun ölüm anlarının korkunç görüntülerine odaklandı.\nNowak'ın ailesinin, cinayetin siyasi kazanç için kullanılmaması ve bıçak suçlarının azaltılmasına odaklanılması çağrılarına rağmen, yorumlar ırk ve göçmenlik üzerine yoğunlaştı.",
-          "group" : "European far right rhetoric",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "category" : "Culture",
+          "descriptionTR" : "Kraliçenin üçüncü kuzeni olan Hicks, 1947'deki kraliyet düğününde nedimeydi ve İngiliz tarihinin önemli anlarına tanıklık etti.",
+          "group" : "British royal obituaries",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html"
             }
           ],
-          "titleTR" : "Avrupa'nın aşırı sağı, İngiltere'deki Henry Nowak cinayetini ırk üzerine popülist söylemlerle kullanıyor"
+          "titleTR" : "İngiltere Kraliçesi II. Elizabeth'in Nedimesi Pamela Hicks 97 Yaşında Hayatını Kaybetti"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/jacinta-allan-leadership-spill-rumours-victorian-labor-election",
-          "category" : "Politics",
-          "descriptionTR" : "Victoria eyaleti seçimlerine sadece aylar kala, başbakanın performansı bazı milletvekillerini, İşçi Partisi'nin liderini değiştirmek için çok geç olup olmadığını merak ettirdi.\nSon dakika haber e-postamızı, ücretsiz uygulamamızı veya günlük haber podcast'imizi edinin\nJacinta Allan bu hafta üç büyük sınavla karşılaştı. Bunları ele alış şekli, bazı meslektaşlarının Victoria eyaleti seçimlerine sadece aylar kala olası bir liderlik değişikliği hakkında spekülasyon yapmasına neden oldu.\nİlk sınav, başbakanın altı ay önce Victoria'nın dürüstlük yasalarında kapsamlı reformlar öneren bir parlamento soruşturmasına yanıt vermesiyle Pazartesi günü geldi.",
-          "group" : "Victorian Labor leadership",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/jacinta-allan-leadership-spill-rumours-victorian-labor-election",
-          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/jacinta-allan-leadership-spill-rumours-victorian-labor-election",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "category" : "Culture",
+          "descriptionTR" : "Andrew Mountbatten-Windsor'un, kendisinin kira ödemediği Royal Lodge'da üç evi kiraya vererek gelir elde ettiği, İngiliz kamu harcamaları denetleme kurumu tarafından tespit edildi.",
+          "group" : "Royal property scrutiny",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html"
+            }
+          ],
+          "titleTR" : "Eski Prens Andrew, Kirasız Yaşadığı Kraliyet Mülkünde Evleri Kiraya Verdi"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "category" : "Culture",
+          "descriptionTR" : "Yasama organları ve Yahudi gruplar, rapçinin antisemitizm geçmişi nedeniyle protestolar düzenledi. Ancak bu hassasiyetler, Hollanda'nın güçlü ifade özgürlüğü korumalarıyla karşı karşıya geldi.",
+          "group" : "Europe free speech",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html"
+            }
+          ],
+          "titleTR" : "Ye'nin Konserleri Avrupa Genelinde İptal Edildi. Peki Hollanda'da Neden Edilmedi?"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "category" : "Culture",
+          "descriptionTR" : "Güney Sulawesi'nin bissuları, hem erkek hem de kadın özelliklerini taşıdıkları düşünüldüğü için dünyevi ve göksel arasındaki bir bağlantı olarak kabul edilir.",
+          "group" : "South Sulawesi gender priests",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html"
+            }
+          ],
+          "titleTR" : "Beş Cinsiyetin Ülkesi'nde Saygı Gören Rahipler"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html",
+          "category" : "Culture",
+          "descriptionTR" : "Bazı güçlü Ruslar Batı'dan uzak dururken, diğerleri dostane Batılılarla bağları yeniden kurmak ve kucaklamak istiyor. Başkan Vladimir V. Putin'in yıllık ekonomik konferansı, bu çelişkili eğilimleri gösteriyor.",
+          "group" : "Russia-West culture war",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/jacinta-allan-leadership-spill-rumours-victorian-labor-election"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html"
             }
           ],
-          "titleTR" : "Üzücü referanslar ve 'hileli' seçim yasaları iddiaları: Bu hafta Jacinta Allan liderlik değişikliği söylentilerini neden alevlendirdi?"
+          "titleTR" : "Rusya Batı'ya Karşı Çıkıyor Ama Candace Owens ve Andrew Tate'i Ağırlıyor"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
-          "category" : "Politics",
-          "descriptionTR" : "Kanlı savaş öncesi protestolara yol açan koşulların daha da kötüleştiği söyleniyor.\nİran, hiperenflasyon, ekonomide %10'luk bir daralma, elektrik kesintileri ve muhalefeti eşi benzeri görülmemiş bir şekilde avlayan zaferci bir hükümetin sona ermesi çağrılarıyla işaretlenen tehlikeli bir barış geçişine hazırlanıyor.\nHenüz barış sağlanmamışken, rejim içindeki İran'ın geleceği hakkındaki tartışmalar yeni yeni ortaya çıkmaya başlıyor, ancak yöneticileri savaşın ardından nasıl hayatta kalabileceklerini düşünüyor.",
-          "group" : "Iran regional escalation",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "category" : "Culture",
+          "descriptionTR" : "2000'lerin başında yayımlanan popüler grafik roman serisi, İranlı bir kızın İslam Devrimi ve İran-Irak Savaşı'ndaki yaşamını konu alıyordu.",
+          "group" : "Persepolis author death",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html"
             }
           ],
-          "titleTR" : "Elektrik kesintileri, hiperenflasyon, muhalefet: İran tehlikeli barış olasılığını değerlendiriyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/graham-platner-main-senate-physical-intimidation-allegations",
-          "category" : "Politics",
-          "descriptionTR" : "Demokrat, kadınlara yönelik fiziksel tehdit raporlarını reddederek geçmişinin 'silah haline getirildiğini' söyledi.\nDemokrat ABD Senatosu adayı Graham Platner, Cuma günü, Maine seçmenlerinin dört gün sonra parti ön seçiminde kendisini destekleyeceğini öngördü; kadınlara yönelik muamelesi hakkında son olumsuz başlıklar da dahil olmak üzere bir dizi tartışma yaşandı.\nBar Harbor'daki destekçileri önünde yaptığı 25 dakikalık konuşmada, istiridye çiftçisi ve ABD deniz piyadesi savaş gazisi, kişisel davranışları hakkındaki tartışmalara değindi; bu tartışmalar, Perşembe günü üç eski romantik partnerinin kendisinden fiziksel olarak korkutulduklarını anlattığı bir New York Times raporuyla tırmandı.",
-          "group" : "Maine Senate controversy",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/graham-platner-main-senate-physical-intimidation-allegations",
-          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/graham-platner-main-senate-physical-intimidation-allegations",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/graham-platner-main-senate-physical-intimidation-allegations"
-            }
-          ],
-          "titleTR" : "Yeni iddialara rağmen, Maine'li Platner seçmenlerin onu Senato'ya göndereceğini öngörüyor"
+          "titleTR" : "‘Persepolis’in Sanatçısı ve Yazarı Marjane Satrapi 56 Yaşında Hayatını Kaybetti"
         }
       ],
-      "packetSpot" : "Kıtalar arasında hangi siyasi gerilimler yaşanıyor? Liderler iddialara ve söylemlere nasıl yanıt veriyor?",
-      "packetTitle" : "Küresel Siyasi Gerilimler: Nauru'dan Avrupa'ya",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Kraliyet gelenekleri modern kültürü nasıl etkiliyor? Ye'nin konserleri neden Hollanda'da devam ediyor? Marjane Satrapi gibi ikonlar nasıl bir miras bırakıyor?",
+      "packetTitle" : "Kültürel Değişimler ve İkonlar: Kraliyet Bağlarından Küresel Sahnelere",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 7
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb",
-          "category" : "Diğer",
-          "descriptionTR" : "Dr David Jackson, bir bağımlıya 'etkili bir şekilde sınırsız bir uyuşturucu temini' sağladı, soruşturma bulguları\n• Son dakika haberleri için e-posta bültenimize, ücretsiz uygulamamıza veya günlük haber podcast'imize katılın\nBirçok uyarının konusu olan eski bir tıp uygulayıcısı, aşırı derecede sorumsuz ilaç reçeteleri nedeniyle iki hastanın ölümünde doğrudan rol oynadı, bir adli tabip buldu.\nNicholas Brown, Matthew Winwood, Toni Wiki ve Belinda Kemp, hepsi uyuşturucu bağımlısı olan kişiler, Eylül 2016 ile Ağustos 2017 arasında Tazmanya'da öldü.\nAvustralya'da, Opioid Tedavi Hattı 1800 642 428 veya Ulusal Alkol ve Diğer Uyuşturucu Yardım Hattı'nı 1800 250 015 numaralarından arayın. İngiltere'de, Action on Addiction 0300 330 0659 numarasında mevcuttur. ABD'de, SAMHSA'nın Ulusal Yardım Hattı'nı 988 numarasından arayın veya mesaj atın.",
-          "group" : "A",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb",
-          "link" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
+          "category" : "Sports",
+          "descriptionTR" : "Şaşırtıcı bilet fiyatları ve vasat maçlar, turnuvanın başlamasına sadece birkaç gün kala Toronto ve Vancouver'da binlerce koltuğun satılmamasına neden oldu.",
+          "group" : "Canada World Cup interest",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/doctors-grossly-irresponsible-prescribing-played-direct-role-in-two-deaths-tasmanian-coroner-finds-ntwnfb"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html"
             }
           ],
-          "titleTR" : "Doktorun 'aşırı derecede sorumsuz reçeteleri' iki ölümde doğrudan rol oynadı, Tazmanya adli tabibi buldu"
+          "titleTR" : "Dünya Kupası Kanada'ya Geliyor. Ama Kimse Umursuyor mu?"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun",
-          "category" : "Diğer",
-          "descriptionTR" : "Tırmanış destek ekibi, Hillary Dawa Sherpa'yı kaybolduktan neredeyse bir hafta sonra kurtardı\nEverest Dağı'nda öldüğü sanılan bir Nepalli rehber, kaybolduktan bir hafta sonra ve cenaze törenleri başladıktan sonra ana kampa sürünerek bulunmuştur.\nDawa Sherpa, ünlü dağcı Edmund Hillary'nin adını taşıyan Hillary Dawa Sherpa olarak da bilinir, 29 Mayıs'ta en son görülmüştü ancak diğer tırmanış gruplarıyla ana kampa ulaşamadı.",
-          "group" : "A",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "category" : "Sports",
+          "descriptionTR" : "Fransa Açık'ta tüm büyük isimler elendi. Sonuç, çok kafa karıştırıcı ve bir o kadar da heyecan verici bir turnuva oldu.",
+          "group" : "French Open upsets",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/missing-sherpa-guide-found-alive-on-everest-after-funeral-rites-had-begun"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html"
             }
           ],
-          "titleTR" : "Cenaze törenleri başladıktan sonra Everest'te kaybolan Sherpa rehberi canlı bulundu"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/06\/stevie-nicks-donates-ucs-medical-school",
-          "category" : "Diğer",
-          "descriptionTR" : "Müzisyen, yıllardır sesini tedavi eden Dr Joseph Sugerman'ı onurlandırmak için USC'ye bağış yaptı\nEfsanevi şarkıcı-söz yazarı Stevie Nicks, kariyeri boyunca sesine bakım yapan doktoru onurlandırmak için Güney Kaliforniya Üniversitesi'nin tıp fakültesine 3 milyon dolar bağışladı.\nBu büyük bağış, USC'nin Keck Tıp Fakültesi'nde kulak burun boğaz alanında bir kürsü oluşturulmasını destekliyor ve Beverly Hills'ten bir kulak burun boğaz uzmanı olan Dr Joseph Sugerman'ı onurlandırıyor. Dr Sugerman, şarkıcıyı ve diğer sanatçıları ve hastaları yıllardır tedavi etmektedir.",
-          "group" : "A",
-          "id" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/06\/stevie-nicks-donates-ucs-medical-school",
-          "link" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/06\/stevie-nicks-donates-ucs-medical-school",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/06\/stevie-nicks-donates-ucs-medical-school"
-            }
-          ],
-          "titleTR" : "Stevie Nicks, ses doktorunu onurlandırmak için tıp fakültesine 3 milyon dolar bağışladı"
+          "titleTR" : "Tenis Devleri Yıkıldı"
         }
       ],
-      "packetSpot" : "Bir doktorun eylemleri Tazmanya'da trajediye nasıl yol açtı? Everest'te bir Sherpa rehberi neden ölü sanıldı? Stevie Nicks'i tıp fakültesine cömert bir bağış yapmaya ne sevk etti?",
-      "packetTitle" : "Beklenmedik Sonuçlar: Tıbbi Hatalardan Mucizevi Kurtuluşlara",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Kanada Dünya Kupası'na hazır mı? Neden Fransa Açık'ta en iyi tenisçiler zorlanıyor?",
+      "packetTitle" : "Büyük Turnuvalar, Karışık Tepkiler",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 8
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/pope-leo-xiv-spain-tour-madrid-catholic-church",
-          "category" : "Culture",
-          "descriptionTR" : "Papa, 2011'den bu yana ilk papalık ziyareti olan İspanya turunda, marjinalleştirilmiş kişilere odaklanacak ve Kanarya Adaları'ndaki göçmenlerle bir araya gelecek.\nPapa Leo, İspanya turunun açılış konuşmasında, siyasi liderlere, siyasi kazanç uğruna halklarını bölmek yerine birlik arayışına girmeleri gerektiğini ve barış için mücadele etmeleri gerektiğini söyledi.\nPapa, ziyaretinin odak noktasını marjinalleştirilmiş kişiler olarak belirledi – İtalya dışında bir AB ülkesine yaptığı ilk tur – Madrid'de evsizlerle ve Kanarya Adaları'ndaki göçmenlerle buluşmayı içeriyor. ABD Başkanı Donald Trump ile göç politikaları ve İran ile savaş konusunda çatışan Papa, ziyaretinin “her insanı” saygıyla karşılama örneği oluşturmayı amaçladığını belirtti.",
-          "group" : "Pope Spain tour",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/pope-leo-xiv-spain-tour-madrid-catholic-church",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/pope-leo-xiv-spain-tour-madrid-catholic-church",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
+          "category" : "Human Rights",
+          "descriptionTR" : "Gazze Şeridi'ne ulaşmaya çalışan bir filoyla gözaltına alınan aktivistler, İsrail'in gözetimindeyken kötü muameleye maruz kaldıklarını söylediler. İsrail makamları ise bu iddiaları reddetti.",
+          "group" : "Pro-Palestinian flotilla case",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/06\/pope-leo-xiv-spain-tour-madrid-catholic-church"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html"
             }
           ],
-          "titleTR" : "Papa Leo, İspanya turuna başlarken liderlere kutuplaşmayı reddetme çağrısı yaptı"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
-          "category" : "Culture",
-          "descriptionTR" : "700 kg ağırlığındaki nadir albino manda, kamuoyunun olağanüstü ilgisi nedeniyle güvenlik endişeleri sebebiyle kurtarıldı.\nBangladeş'te, sarı tüyleriyle dikkat çeken ve “Donald Trump” lakabıyla anılan nadir bir albino manda, İçişleri Bakanlığı yetkilisine göre, son anda yapılan bir hükümet müdahalesiyle Kurban Bayramı kurbanından kurtarıldı.\nNeredeyse 700 kg (1,543 lb) ağırlığındaki hayvan, yetkililerin Perşembe günkü festival öncesinde artan kamuoyu ilgisi nedeniyle güvenlik endişelerini öne sürerek müdahale etmesiyle, ritüel kesim için satılmıştı.",
-          "group" : "Bangladesh buffalo story",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
-          "newsValue" : 2,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice"
-            }
-          ],
-          "titleTR" : "Donald Trump lakaplı sarı tüylü Bangladeşli manda Kurban Bayramı kurbanından kurtarıldı"
+          "titleTR" : "Fransa, Filistin Yanlısı Filo Aktivistlerine İsrail'in Muamelesi Hakkında Soruşturma Açtı"
         }
       ],
-      "packetSpot" : "Küresel figürler kültürel anlatıları nasıl etkiliyor? Bir siyasi liderin adını taşıyan bir mandanın toplumsal algılar hakkında ne söylediği.",
-      "packetTitle" : "Liderlik ve Kimlik Üzerine Kültürel Yansımalar",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Fransa, İsrail'in filo aktivistlerine yönelik muamelesini neden soruşturuyor? Uluslararası ilişkiler için ne gibi sonuçlar doğurabilir?",
+      "packetTitle" : "Fransa'nın İsrail'in Eylemlerine Dikkati",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 9
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/news\/2026\/jun\/06\/andrew-tate-moscow-alleged-victims-uk-question-delay-extradition",
-          "category" : "Law",
-          "descriptionTR" : "İngiliz kadınların avukatı, Tate'in Moskova'ya gelişini 'olağanüstü bir gösteri' olarak nitelendirdi\nAndrew Tate'i tecavüz, saldırı ve zorlayıcı kontrol ile suçlayan İngiliz kadınlar, kendini kadın düşmanı olarak tanıtan influencer'ın Rusya'da ortaya çıkarken İngiltere makamlarının iadesini istemekte neden geciktiğini sorguluyor.\nTate, Vladimir Putin'e hayranlık duyuyor ve Kremlin propagandasını çevrimiçi olarak yayıyor. Aynı hafta, Rus yetkililer ABD'li sağcı figürleri Davos'un Rusya'daki karşılığı olarak tanımlanan yıllık bir konferansta ağırladı.",
-          "group" : "Andrew Tate extradition",
-          "id" : "https:\/\/www.theguardian.com\/news\/2026\/jun\/06\/andrew-tate-moscow-alleged-victims-uk-question-delay-extradition",
-          "link" : "https:\/\/www.theguardian.com\/news\/2026\/jun\/06\/andrew-tate-moscow-alleged-victims-uk-question-delay-extradition",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "category" : "Technology",
+          "descriptionTR" : "Bilim insanları ve ABD askeri brifingcileri, kısa süreli ve yaygın karışıklık olaylarını Rusya'ya bağlayarak, günlük hayat için hayati öneme sahip bir teknolojinin zayıf noktalarını ortaya koydu.",
+          "group" : "Russia GPS jamming",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/news\/2026\/jun\/06\/andrew-tate-moscow-alleged-victims-uk-question-delay-extradition"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html"
             }
           ],
-          "titleTR" : "Andrew Tate'i suçlayan kadınlar, influencer'ın Rusya'da görünmesiyle İngiltere'deki iade gecikmesini eleştiriyor"
+          "titleTR" : "Bilim İnsanlarına Göre Rus Uyduları Avrupa'da GPS Sinyallerini Karıştırıyor"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/06\/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
-          "category" : "Law",
-          "descriptionTR" : "18 yaşındaki bir adam, bisikletçi Anthony Canty ile çarpışan bir aracın ardından gözaltına alındı; Canty, dört gün sonra hastanede hayatını kaybetti\nPolis, bir piyango kazananının Essex'te şüpheli bir çarpıp kaçma olayının ardından hayatını kaybettiğini açıkladı.\nMemurlar, 21 Mayıs'ta saat 06.30'da Tiptree'de bir bisikletçi ile siyah bir Ford Ka arasındaki çarpışmaya çağrıldı. Essex Polisi, 30'lu yaşlarındaki bisikletçinin hastaneye kaldırıldığını ve dört gün sonra hayatını kaybettiğini belirtti.",
-          "group" : "Essex hit-and-run",
-          "id" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/06\/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
-          "link" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/06\/euromillions-winner-dies-after-suspected-hit-and-run-in-essex",
-          "newsValue" : 4,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "category" : "Technology",
+          "descriptionTR" : "Havayolu şirketi Lufthansa, Frankfurt Havalimanı'ndaki kazanın nedeninin araştırıldığını söyledi. Uçağın kalkışta 279 ton ağırlığında olabileceği belirtildi.",
+          "group" : "Boeing 787 accident",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/06\/euromillions-winner-dies-after-suspected-hit-and-run-in-essex"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html"
             }
           ],
-          "titleTR" : "EuroMillions kazananı Essex'te şüpheli çarpıp kaçma olayında hayatını kaybetti"
+          "titleTR" : "Boeing 787-9 Dreamliner'ın Burun İniş Takımı Çöktü, Birkaç İşçi Yaralandı"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "category" : "Technology",
+          "descriptionTR" : "Ülke, Perşembe günü, egemen yeteneklerini geliştirmeye ve tüketicileri korumaya odaklanan ulusal bir yapay zeka stratejisi yayımladı.",
+          "group" : "Canada AI strategy",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T23:17:44Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html"
+            }
+          ],
+          "titleTR" : "ABD'ye Karşı Temkinli Olan Carney, Kanada İçin Yapay Zeka Stratejisine Yatırım Yapıyor"
         }
       ],
-      "packetSpot" : "Andrew Tate'in İngiltere'den iadesi neden gecikiyor? Rusya'da ortaya çıkmasının sonuçları nelerdir?",
-      "packetTitle" : "Sınır Ötesi Hukuki Zorluklar: İngiltere'den Rusya'ya",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Rus uyduları Avrupa'nın GPS'ini nasıl etkiliyor? Kanada'nın yapay zeka stratejisindeki değişimin ardında ne var? Frankfurt'ta Boeing'in Dreamliner'ında ne ters gitti?",
+      "packetTitle" : "Sınırları Aşan Teknolojik Gerilimler ve Yenilikler",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 10
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/02\/cricket-canada-suspension",
-          "category" : "Sports",
-          "descriptionTR" : "ICC'nin kararı, takımın Hindistan'daki ünlü bir çetenin üyeleri tarafından etkilenmekte olduğuna dair artan endişelerin ortasında geldi\nKriketin uluslararası yönetim organı, Kanada'yı \"üyelik yükümlülüklerinin ciddi ihlalleri\" olarak tanımladığı gerekçesiyle askıya aldı ve eleştirmenlerin spor içinde \"gülünç bir duruma\" düştüğünü söylediği bir kuruluşa son darbeyi vurdu.\nAskıya alma kararı, Kanada'nın en hızlı büyüyen sporlarından birinin, Hindistan'daki bir hapishane hücresinden dokunulmazlıkla faaliyet gösteren ünlü bir çetenin üyeleri tarafından etkilenmekte olduğuna dair artan endişelerin ortasında geldi.",
-          "group" : "Canada cricket corruption",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/02\/cricket-canada-suspension",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/02\/cricket-canada-suspension",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "category" : "Environment",
+          "descriptionTR" : "Okyanus tabanındaki değerli mineralleri çıkarmak için yapılan arayış, ışık kirliliği ile alerjiler arasındaki bağlantı ve daha fazla iklim haberi üzerine bir inceleme.",
+          "group" : "Deep sea mining",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T23:17:44Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/02\/cricket-canada-suspension"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html"
             }
           ],
-          "titleTR" : "Kriket Kanada, çeteyle bağlantılı yolsuzluk iddiaları nedeniyle askıya alındı"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life",
-          "category" : "Sports",
-          "descriptionTR" : "• Düşen kulübün ortak başkanı 'yanlış iddialarla' mücadele edecek\n• 'Medyanın beni resmettiği kişi değilim'\nEski pornografi baronu David Sullivan, West Ham'daki ortak başkanlık ve direktörlük görevinden derhal geçerli olmak üzere istifa ettiğini açıkladı.\nSullivan ve hukuk temsilcileri, 77 yaşındaki milyarderin, BBC Panorama ve The Times'ın Pazartesi günü yayınlayacağı ortak soruşturmanın bir parçası olarak kişisel davranışlarıyla ilgili \"yanlış iddialarla\" mücadele etmek için \"tüm enerjisini ve dikkatini\" bu konuya yönlendireceğini belirtti.",
-          "group" : "West Ham ownership scandal",
-          "id" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life",
-          "link" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-steps-down-at-west-ham-to-fight-claims-about-private-life"
-            }
-          ],
-          "titleTR" : "David Sullivan, özel hayatıyla ilgili iddialarla mücadele etmek için West Ham'dan ayrılıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
-          "category" : "Sports",
-          "descriptionTR" : "Sullivan, futbolun onu meşrulaştıracağını umuyordu ancak geçmiş davranışlarıyla ilgili iddialar West Ham'dan istifasına yol açtı\n• Sullivan, özel hayatıyla ilgili iddialarla mücadele etmek için West Ham'dan ayrılıyor\nDavid Sullivan, Cardiff'te bir belediye evinde büyürken profesyonel bir futbolcu olmayı hayal ediyordu. Kısa ve tıknaz olduğu için oyuncu olamayacaktı, ancak daha sonraki yaşamında pornografi endüstrisi ve emlak dünyasında kazandığı servet ona spora bir giriş yolu sağladı. Sullivan'ın keşfettiği tek sorun, kendisi ve iş ortakları David ve Ralph Gold için hoş geldin halısını serecek bir kulüp bulmaktı.\nWest Ham United taraftarıydılar ve 1991'de doğu Londra kulübünde bir hisse satın aldılar, ancak yönetim kuruluna girişin kapalı olduğunu gördüler. \"Yönetimle hiçbir temasımız yoktu,\" diye yazdı merhum David Gold otobiyografisinde. \"Onlar, David Sullivan ve Gold'ları futbol kulüplerinde istemiyorlardı.\"",
-          "group" : "West Ham ownership scandal",
-          "id" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
-          "link" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/football\/2026\/jun\/06\/david-sullivan-how-did-the-pornographer-rise-so-high-in-modern-football"
-            }
-          ],
-          "titleTR" : "David Sullivan: Pornografi baronu modern futbolda nasıl bu kadar yükseldi?"
+          "titleTR" : "Bir Şirketin Denizin Dibini Nasıl Madencilik Yapmayı Planladığı"
         }
       ],
-      "packetSpot" : "Kriket Kanada'nın askıya alınmasına ne yol açtı? David Sullivan neden West Ham'dan ayrılıyor? Spor dünyasını sarsan tartışmaları keşfedin.",
-      "packetTitle" : "Spor Liderliğinde Skandallar ve Tartışmalar",
-      "publishedAt" : "2026-06-06T20:59:22Z",
+      "packetSpot" : "Okyanus tabanının madenciliğinin çevresel etkileri nelerdir? Bu keşfedilmemiş alanda kimler öncülük ediyor?",
+      "packetTitle" : "Derin Deniz Madenciliği Sınırı",
+      "publishedAt" : "2026-06-06T23:17:44Z",
       "sessionID" : "publish-draft",
       "slot" : 11
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
-          "category" : "Transport",
-          "descriptionTR" : "Kamyon, Pakistan'dan dönen Afgan ailelerini taşıyordu ve devrildi, il yetkilisi söyledi\nCumartesi günü doğu Afganistan'da bir kamyon devrildi ve içindeki 10'u çocuk 18 kişi hayatını kaybetti, bir il yetkilisi Agence France-Presse'ye bildirdi.\nÖlümcül trafik kazaları Afganistan'da yaygındır, kısmen onlarca yıllık çatışmanın ardından kötü yollar, tehlikeli sürüş ve düzenleme eksikliği nedeniyle.",
-          "group" : "Afghanistan road deaths",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
-          "newsValue" : 4,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children"
-            }
-          ],
-          "titleTR" : "Afganistan'da kamyon kazasında 10'u çocuk 18 kişi hayatını kaybetti"
-        }
-      ],
-      "packetSpot" : "Afganistan'daki trajik kamyon kazasına ne sebep oldu? Yerel topluluklar nasıl etkileniyor?",
-      "packetTitle" : "Afganistan Yollarında Trajedi",
-      "publishedAt" : "2026-06-06T20:59:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 12
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
-          "category" : "Education",
-          "descriptionTR" : "Yeni dijital notlandırma sistemi, insan hatalarını azaltmayı amaçlıyor ancak birçok öğrenci bunun yanlış notlara yol açtığını söylüyor. Hindistan'da, ülkenin en önemli okul bitirme sınavlarının notlandırılmasındaki hatalarla ilgili artan şikayetler üzerine 400.000'den fazla öğrenci cevap kağıtlarının kopyalarını talep ettikten sonra ulusal bir tepki patlak verdi. 12. sınıf sınav sonuçlarının açıklanmasından birkaç gün sonra, öğrenciler yeni dijital notlandırma sistemiyle bağlantılı notlandırma tutarsızlıklarını bildirmeye başladılar.",
-          "group" : "India exam marking",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams"
-            }
-          ],
-          "titleTR" : "Sınav Başarısızlığı: Hintli Öğrenciler Anahtar Final Sınavlarındaki Notlandırma Hatalarından Şikayetçi"
-        }
-      ],
-      "packetSpot" : "Hintli öğrenciler neden sınav sonuçlarına karşı protesto ediyor? Hangi hatalar ulusal bir tepkiye yol açıyor?",
-      "packetTitle" : "Hindistan'da Sınav Notlandırma Tartışması",
-      "publishedAt" : "2026-06-06T20:59:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 13
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/06\/ministers-may-curb-misinformation-musk-x-liz-kendall",
-          "category" : "Technology",
-          "descriptionTR" : "Teknoloji sekreteri Liz Kendall, sosyal medyanın rolü konusunda 'çok endişeli' olduğunu söylüyor ancak Elon Musk’ın X’inden 'zorla uzaklaştırılmayacağını' belirtiyor.\nTeknoloji sekreteri Liz Kendall, kamu krizleri sırasında yanlış bilgilerin yayılmasını durdurmak için yeni adımlar atmayı düşündüklerini söyledi ve Elon Musk’ın X’inden 'zorla uzaklaştırılmayacağını' vurguladı.\nTeknoloji sekreteri, Henry Nowak’ın ölümcül bıçaklanmasına polis müdahalesi üzerine Southampton’da çıkan isyanların ardından konuştu. Musk, bu olay hakkında defalarca paylaşımda bulundu.",
-          "group" : "Misinformation and unrest",
-          "id" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/06\/ministers-may-curb-misinformation-musk-x-liz-kendall",
-          "link" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/06\/ministers-may-curb-misinformation-musk-x-liz-kendall",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/06\/ministers-may-curb-misinformation-musk-x-liz-kendall"
-            }
-          ],
-          "titleTR" : "Bakanlar sosyal huzursuzluk sırasında yanlış bilginin yayılmasını engellemeye çalışabilir"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/stratos-datacenter-utah-suit",
-          "category" : "Technology",
-          "descriptionTR" : "Shark Tank’tan Kevin O’Leary’nin desteklediği planın alanı küçültüldü ancak sağlık etkileri konusundaki endişeler devam ediyor.\nUtah sakinleri, ünlü yatırımcı Kevin O’Leary tarafından desteklenen ve geliştirilmekte olan bir Yapay Zeka veri merkezi için bir ilerici sivil toplum kuruluşu ile birlikte dava açtı. Planlanan Stratos projesi tesisinin vatandaşların yeterli kamu katılımına izin vermeyerek haklarını 'geri dönülemez şekilde' kestiğini iddia ediyorlar.\nShark Tank sunucusu O’Leary’nin proje için fiziksel alanı küçültmeyi kabul etmesiyle birlikte, Daha İyi Bir Utah İçin İttifak ve merkezinin geliştirildiği Box Elder bölgesinden ismi açıklanmayan beş sakin tarafından dava açıldı.",
-          "group" : "AI datacenter lawsuit",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/stratos-datacenter-utah-suit",
-          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/stratos-datacenter-utah-suit",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/06\/stratos-datacenter-utah-suit"
-            }
-          ],
-          "titleTR" : "Utah'ta tartışmalı Stratos veri merkezi projesine karşı dava açıldı"
-        }
-      ],
-      "packetSpot" : "Hükümetler kriz dönemlerinde yanlış bilgileri nasıl ele alıyor? Utah'ta bir veri merkezi projesi neden hukuki mücadelelere yol açıyor?",
-      "packetTitle" : "Teknolojinin İkiz Zorlukları: Yanlış Bilgi ve Altyapı",
-      "publishedAt" : "2026-06-06T20:59:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 14
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/media\/2026\/jun\/06\/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
-          "category" : "Media",
-          "descriptionTR" : "Düzenleyici kurumun eski yetkilileri, yakın zamanda görevinden ayrılan başkanın yaptığı bir dizi kışkırtıcı röportaj sonrasında endişelerini dile getiriyor.\nDüzenleyiciler genellikle tartışmalardan uzak durmalarıyla bilinir. Günlük işlerinde hassas, hukuki açıdan karmaşık kararlar almak zorunda olduklarından, genellikle ihtiyatlı bir tutum sergilerler.\nAncak, Britanya'nın en çok denetlenen düzenleyici kurumlarından biri olan Ofcom'un başkanlığından ayrıldıktan sonra, Muhafazakar Lord Michael Grade bu klişeyi yıkmak için elinden geleni yapıyor. \"Zincirlerden kurtuldum,\" dedi yakın zamanda.",
-          "group" : "Media regulation debate",
-          "id" : "https:\/\/www.theguardian.com\/media\/2026\/jun\/06\/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
-          "link" : "https:\/\/www.theguardian.com\/media\/2026\/jun\/06\/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-06T20:59:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/media\/2026\/jun\/06\/michael-grade-ofcom-watchdog-impartiality-rules-gb-news"
-            }
-          ],
-          "titleTR" : "‘Zincirlerden kurtuldum’: Michael Grade’in GB News savunması, Ofcom kurallarının gevşetilmesi konusunda endişe yaratıyor"
-        }
-      ],
-      "packetSpot" : "Ofcom kuralları çok mu kısıtlayıcı? Michael Grade, GB News için hangi değişiklikleri savunuyor?",
-      "packetTitle" : "Britanya'nın Medya Düzenleme Tartışması",
-      "publishedAt" : "2026-06-06T20:59:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 15
     }
   ],
   "week" : "2026-W24"
