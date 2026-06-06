@@ -1,0 +1,498 @@
+{
+  "label" : "1–7 HAZIRAN",
+  "publishedAt" : "2026-06-06T19:43:24Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o#0",
+          "category" : "Security",
+          "descriptionTR" : "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+          "group" : "Ukraine drone strikes",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o#0",
+          "category" : "Security",
+          "descriptionTR" : "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+          "group" : "Lebanon border conflict",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Lebanese general among three soldiers killed in Israeli attack on car"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c74yl98kv37o#1",
+          "category" : "Security",
+          "descriptionTR" : "The man was spearfishing off Michaelmas Island with his family, according to local reports.",
+          "group" : "Australia shark attack",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c74yl98kv37o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c74yl98kv37o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Man dies after shark attack in Western Australia, police say"
+        }
+      ],
+      "packetSpot" : "What provoked the Ukrainian drone strike on St Petersburg? How is Israel's military action impacting Lebanon? Are coastal regions in Australia facing new threats?",
+      "packetTitle" : "Escalating Tensions Across Borders",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
+          "category" : "Politics",
+          "descriptionTR" : "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+          "group" : "US Europe migration rhetoric",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#2",
+          "category" : "Politics",
+          "descriptionTR" : "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+          "group" : "Armenia election pressure",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Armenia braces for election as Russia piles pressure on pro-West government"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
+          "category" : "Politics",
+          "descriptionTR" : "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
+          "group" : "Ramaphosa corruption case",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "The cash-in-the-sofa saga that just won't go away for South Africa's president"
+        }
+      ],
+      "packetSpot" : "Why is Europe facing criticism over migrant policies? How is Russia influencing Armenia's political scene? What controversy surrounds South Africa's president?",
+      "packetTitle" : "Global Political Tensions and Controversies",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo#0",
+          "category" : "Diplomacy",
+          "descriptionTR" : "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
+          "group" : "Pope Spain migration",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Pope begins Spain visit with praise for country's opposition to war and support for migrants"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o#1",
+          "category" : "Diplomacy",
+          "descriptionTR" : "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
+          "group" : "Ukraine peace talks",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Putin says there is 'no point' meeting Zelensky over ending Ukraine war"
+        }
+      ],
+      "packetSpot" : "Why is the Pope praising Spain's stance on war? What are Putin's thoughts on meeting Zelensky?",
+      "packetTitle" : "Diplomatic Stances on War: Spain and Ukraine",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o#0",
+          "category" : "Sports",
+          "descriptionTR" : "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+          "group" : "Iran World Cup visas",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Iran says staff blocked from entering US after players given World Cup visas"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
+          "category" : "Sports",
+          "descriptionTR" : "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.",
+          "group" : "French Open tennis",
+          "id" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
+          "link" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Andreeva wins French Open as Chwalinska fairytale ends"
+        }
+      ],
+      "packetSpot" : "How is geopolitics affecting sports events? What challenges do athletes face off the field?",
+      "packetTitle" : "Athletes at the Crossroads of Politics and Competition",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
+          "category" : "Culture",
+          "descriptionTR" : "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+          "group" : "Taylor Swift wedding rumors",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Rumours and speculation as fans forecast date of Taylor Swift's wedding"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
+          "category" : "Culture",
+          "descriptionTR" : "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+          "group" : "Anthony Head obituary",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "From Nescafe to Ted Lasso: Anthony Head's life in pictures"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
+          "category" : "Culture",
+          "descriptionTR" : "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
+          "group" : "Washington monument renovation",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 1,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "'It looks black' - Americans react to Reflecting Pool's completed paint job"
+        }
+      ],
+      "packetSpot" : "Are Taylor Swift's wedding bells ringing soon? What do Anthony Head's iconic roles reveal about his journey? How do Americans feel about the Reflecting Pool's new look?",
+      "packetTitle" : "Icons and Imagery: Cultural Moments in Focus",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
+          "category" : "Health",
+          "descriptionTR" : "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
+          "group" : "Screwworm outbreak",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Canada bans Texas cattle over flesh-eating screwworm outbreak in US"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo#1",
+          "category" : "Health",
+          "descriptionTR" : "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says.",
+          "group" : "Norway royal health",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Norway's crown princess on lung transplant waiting list, palace says"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
+          "category" : "Health",
+          "descriptionTR" : "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+          "group" : "Screwworm outbreak",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "US plans to fight flesh-eating screwworm outbreak with flies and dogs"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo#2",
+          "category" : "Health",
+          "descriptionTR" : "There are now 380 confirmed cases of Ebola in DR Congo, far lower than initial estimates of suspected cases, writes Fergus Walsh.",
+          "group" : "Ebola outbreak Congo",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Fall in official Ebola numbers appears to be good news but it's not that simple"
+        }
+      ],
+      "packetSpot" : "How is the US tackling the flesh-eating screwworm threat? What measures are being taken to protect cattle?",
+      "packetTitle" : "Battling the Flesh-Eating Screwworm Outbreak",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy828e64vp8o#1",
+          "category" : "Human Rights",
+          "descriptionTR" : "The Israeli military says Friday's \"incident is under review\", expressing \"deep sorrow for any harm caused\".",
+          "group" : "West Bank civilian deaths",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy828e64vp8o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy828e64vp8o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro#1",
+          "category" : "Human Rights",
+          "descriptionTR" : "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
+          "group" : "Sahara migrant deaths",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Nearly 50 people die of thirst in Sahara desert after lorry breaks down"
+        }
+      ],
+      "packetSpot" : "How are innocent lives being caught in the crossfire of conflict and nature? What do recent tragedies in the West Bank and Sahara reveal about human rights challenges?",
+      "packetTitle" : "Innocent Lives and Human Rights Under Siege",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go#1",
+          "category" : "Law",
+          "descriptionTR" : "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.",
+          "group" : "France child murder case",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Fury in France after child murder suspect's criminal record released"
+        }
+      ],
+      "packetSpot" : "Why is France outraged over a suspect's past? What are the implications of releasing criminal records?",
+      "packetTitle" : "France's Tension Over Released Criminal Records",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
+          "category" : "Environment",
+          "descriptionTR" : "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
+          "group" : "Australia mouse plague",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Why are devastating mice plagues happening in Australia?"
+        }
+      ],
+      "packetSpot" : "What is causing the surge in mice populations across Australia? How are farmers coping with this infestation?",
+      "packetTitle" : "Australia's Battle with Mice Infestations",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "458FCF63-5B8E-57AE-8AC7-9ACAE673341F",
+          "category" : "Diğer",
+          "descriptionTR" : "The US military struck Iranian drones and radar sites, while Tehran said it targeted US bases in Kuwait and Bahrain. The exchange marked the latest test of the ceasefire in the Gulf.",
+          "group" : "A",
+          "id" : "458FCF63-5B8E-57AE-8AC7-9ACAE673341F",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-06T19:43:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "US and Iran exchange strikes in Gulf amid ceasefire test"
+        }
+      ],
+      "packetSpot" : "Is the AI stock market on the brink of a collapse? What signals are investors watching closely?",
+      "packetTitle" : "The AI Stock Market: Boom or Bust?",
+      "publishedAt" : "2026-06-06T19:43:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    }
+  ],
+  "week" : "2026-W23"
+}
