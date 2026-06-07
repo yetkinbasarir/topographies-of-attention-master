@@ -1,0 +1,404 @@
+{
+  "label" : "1–7 HAZIRAN",
+  "publishedAt" : "2026-06-07T18:44:35Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "category" : "Culture",
+          "descriptionTR" : "Pazar günü Madrid'in merkezinde Papa Leo XIV tarafından yönetilen ayin için 1,2 milyondan fazla inanan sokaklara akın etti. Papa, İspanya'da Katolik inancının yenilenmesi çağrısında bulundu.",
+          "group" : "Papal visit Madrid",
+          "id" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "link" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/religions\/article\/2026\/06\/07\/a-madrid-plus-d-un-million-de-fideles-reunis-pour-la-messe-du-pape-leon-xiv-en-presence-du-roi-felipe-vi_6698788_1653130.html"
+            }
+          ],
+          "titleTR" : "VİDEO. Papa'nın Madrid'deki ayinine 1,2 milyon inanan katıldı"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "category" : "Culture",
+          "descriptionTR" : "Papa, Madrid'in merkezinde bir ayin düzenleyecek ve ardından İspanya'nın diğer bölgelerine, Barcelona ve Kanarya Adaları'na geçecek. Papa Leo XIV'nin ayrıca İspanyol parlamentosuna hitaben eşi benzeri görülmemiş bir konuşma yapması bekleniyor ve bu konuşmada göç konusu ön planda olacak.",
+          "group" : "Papal visit Spain",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1"
+            }
+          ],
+          "titleTR" : "Papa Leo XIV, 15 yıl sonra İspanya'ya yaptığı ilk ziyaretinde 'kutuplaşmanın sona ermesi' çağrısında bulundu"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo#0",
+          "category" : "Culture",
+          "descriptionTR" : "Papa, Plaza de Cibeles'e vardığında papamobilden toplanan kalabalığa el salladı.",
+          "group" : "Papal Madrid mass",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Papa'nın açık hava ayini için Madrid sokaklarında büyük kalabalıklar toplandı"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "category" : "Culture",
+          "descriptionTR" : "Papa, takipçilerine 'kardeşlerimize, yoksullara, acı çekenlere' adanmaları çağrısında bulundu. Madrid sokaklarında Papa Leo ile açık hava ayinine katılmak için bir milyondan fazla insan toplandı. Amerikalı papa, Hristiyan değerleri ile aşırı sağ politikalar arasındaki kopukluğu vurguluyor gibi görünerek, ibadet edenlere 'Hiç kimse Rab'bin önünde diz çöküp kardeşini hor göremez' dedi. Ayine erişim için kuyruklar, Pazar günü güneş doğmadan saatler önce başladı ve bu, Papa'nın İspanya'ya yaptığı bir haftalık ziyaretin en büyük buluşması olarak nitelendirildi.",
+          "group" : "Madrid papal mass",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid"
+            }
+          ],
+          "titleTR" : "Madrid'deki açık hava ayininde Papa Leo'ya 1 milyondan fazla kişi katıldı"
+        }
+      ],
+      "packetSpot" : "Papa Leo XIV, 15 yıl aradan sonra İspanya'ya yaptığı ilk ziyaretinde Madrid'de büyük bir açık hava ayini düzenledi ve İspanyol parlamentosuna hitap etmeye hazırlanıyor.",
+      "packetTitle" : "Papa Leo XIV'nin İspanya Ziyareti: Birlik Çağrısı ve Toplumsal Etkiler",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Bu ziyaret, Xi'nin Pekin'de ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin'i ayrı ayrı ağırlamasından sadece haftalar sonra gerçekleşiyor.",
+          "group" : "Xi North Korea visit",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years"
+            }
+          ],
+          "titleTR" : "Xi Jinping, yedi yıl sonra ilk kez Pazartesi günü Pyongyang'a gidiyor"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Çin Devlet Başkanı, Pazartesi ve Salı günleri 2019'dan bu yana ilk kez Kuzey Kore'yi ziyaret edecek. Pyongyang ile Moskova arasındaki işbirliği Ukrayna savaşından bu yana güçlenirken, Pekin bölgedeki merkezi konumunu yeniden teyit etmek istiyor.",
+          "group" : "China North Korea ties",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html"
+            }
+          ],
+          "titleTR" : "Xi Jinping, Rusya'ya giderek daha yakınlaşan Kuzey Kore'ye gidiyor"
+        }
+      ],
+      "packetSpot" : "Çin Devlet Başkanı Xi Jinping'in Kuzey Kore'ye yapacağı ziyaret, bölgedeki jeopolitik dinamikleri ve Kuzey Kore ile Rusya arasındaki güçlenen ilişkileri mercek altına alıyor.",
+      "packetTitle" : "Xi Jinping'in Kuzey Kore Ziyareti ve Bölgesel Dinamikler",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "category" : "Politics",
+          "descriptionTR" : "Ermeniler, Pazar günü Rusya-Batı çatışmasının arka planında geleceklerini belirleyecekler. Hem AB hem de ABD, Başbakan Paşinyan'ın temkinli Batı yanlısı tutumunu desteklerken, Rusya eski Sovyet devletini kendi yörüngesinde tutmak için ekonomik ve siyasi baskılar uyguluyor.",
+          "group" : "Armenia election geopolitics",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+            }
+          ],
+          "titleTR" : "Ermenistan, Güney Kafkasya'nın geleceğini belirleyecek kritik seçimler için sandık başında"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "category" : "Politics",
+          "descriptionTR" : "Görevdeki Başbakan Nikol Paşinyan, azalan iç desteğe rağmen üçüncü dönem için yarışıyor.",
+          "group" : "Armenia election pressure",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Rusya, Batı yanlısı hükümete baskı yaparken Ermenistan oy kullanıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "category" : "Politics",
+          "descriptionTR" : "Seçmenler, Batı'ya daha yakın olan görevdeki Nikol Paşinyan ile Rusya yanlısı muhalefet arasında tercih yapacak. Ermeniler, ülkenin Avrupa'ya yönelmesini ve Rusya ile olan geleneksel ittifaktan uzaklaşmasını pekiştirebilecek bir seçimin sonuçlarını bekliyor. Başbakan Nikol Paşinyan'ın Sivil Sözleşme partisi, Moskova ile daha yakın ilişkiler savunan üç muhalefet adayının önünde favori olarak seçime girdi. Paşinyan'ın ana rakibi, servetinin büyük bir kısmını Rusya'da kazanan Rus-Ermeni milyarder Samvel Karapetyan, Erivan dışındaki malikanesinde ev hapsinde kampanya yürütmek zorunda kaldı.",
+          "group" : "Armenia westward shift",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu"
+            }
+          ],
+          "titleTR" : "‘İleriye gitme zamanı geldi’: Ermeniler, Rusya ve AB tarafından yakından izlenen seçimde oy kullanıyor"
+        }
+      ],
+      "packetSpot" : "Ermenistan'da kritik seçimler, Rusya ile Batı arasındaki gerilimlerin gölgesinde gerçekleşiyor.",
+      "packetTitle" : "Ermenistan Seçimleri Güney Kafkasya'nın Geleceğini Belirleyecek",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna Devlet Başkanı Volodimir Zelenski, saldırının 'son derece alçakça' ve kasıtlı olduğunu söyledi.\n\nRusya'ya ait bir Shahed drone, kullanılmayan Çernobil nükleer santrali yakınlarında kullanılmış nükleer yakıt depolamak için kullanılan bir binaya önemli ölçüde zarar verdi. Ukrayna Devlet Başkanı, bu saldırıyı kasıtlı ve 'son derece alçakça' olarak nitelendirdi.\nYapı – kullanılmış yakıt depolama tesisinin kabul binası – o sırada konteynerlerden boştu, ancak hassas bir bölgenin hedef alınması, her iki tarafın da yüksek profilli yerlerinin vurulduğu uzun menzilli hava saldırılarının yoğunlaştığı bir dönemde Moskova'dan doğrudan bir mesaj gibi göründü.",
+          "group" : "Chornobyl nuclear strike",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"
+            }
+          ],
+          "titleTR" : "Rusya'ya ait drone, Çernobil yakınlarındaki kullanılmış nükleer yakıt deposunu vurdu"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Çernobil'deki kullanılmış nükleer yakıt deposu, Pazar günü Rus güçleri tarafından hedef alındı. Volodimir Zelenski, radyasyon seviyesinin aşılmadığını belirterek, Ukraynalı kurtarma ekiplerinin çarpmanın ardından çıkan yangını kontrol altına aldığını söyledi.",
+          "group" : "Ukraine war escalation",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html"
+            }
+          ],
+          "titleTR" : "CANLI, Ukrayna savaşı: Son bilgiler"
+        }
+      ],
+      "packetSpot" : "Çernobil yakınlarında kullanılmış nükleer yakıt deposuna Rus drone saldırısı, gerilimi tırmandırıyor.",
+      "packetTitle" : "Rusya-Ukrayna Geriliminde Nükleer Tehdit",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "category" : "Environment",
+          "descriptionTR" : "Video, güvenlik görevlilerinin göstericilerle tartıştığını, ardından bir protestocuyu yere itip sürüklediğini gösteriyor. Olay, ABD Başkanı Donald Trump'ın damadı Jared Kushner ile bağlantılı lüks bir tatil köyü projesine karşı çevre grupları tarafından düzenlenen bir miting sırasında meydana geldi.",
+          "group" : "Albania resort protests",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project"
+            }
+          ],
+          "titleTR" : "Kushner bağlantılı Arnavutluk tatil köyü projesine karşı protestoda çatışma"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o#1",
+          "category" : "Environment",
+          "descriptionTR" : "Göstericiler, Donald Trump'ın damadı tarafından desteklenen projenin koruma altındaki bir çevreye zarar vereceğini söylüyor.",
+          "group" : "Kushner Albania resort",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Kushner destekli lüks tatil köyü planı Arnavutluk'ta protestolara yol açtı"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "category" : "Environment",
+          "descriptionTR" : "Bu hafta Arnavutluk'un başkenti Tiran'da binlerce kişi, Donald Trump’ın damadı Jared Kushner tarafından desteklenen planlı bir lüks tatil köyüne karşı sokaklarda protesto düzenledi.\n1,6 milyar dolarlık kompleksin, Akdeniz'in çevresel açıdan en hassas bölgelerinden biri olarak görülen ve flamingolar ile Dalmaçyalı pelikanlar dahil 200 kuş türünü barındıran bir alanda inşaatına başlandı.\n\nİnşaatçılar, alanın etrafına beton temelli, dikenli tel kaplı bir çit dikmeye başladığında, çevresel zarar ve anlaşmanın siyasi şeffaflığı konusundaki alarm, kamuoyunda öfkeye dönüştü.\n\nLucy Hough, ABD canlı haber editörü Chris Michael ile konuşuyor.",
+          "group" : "Albania resort protest",
+          "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest"
+            }
+          ],
+          "titleTR" : "Kushner-Trump 1,6 milyar dolarlık lüks tatil köyü planı Arnavutluk'ta öfkeye yol açtı - Son Gelişmeler"
+        }
+      ],
+      "packetSpot" : "Jared Kushner ile bağlantılı Arnavutluk'taki lüks tatil köyü projesine karşı protestolar, çevresel kaygılar ve siyasi şeffaflık sorunları nedeniyle dikkat çekiyor.",
+      "packetTitle" : "Kushner Destekli Arnavutluk Tatil Köyü Projesi Tartışma Yarattı",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "category" : "Security",
+          "descriptionTR" : "The cargo vessels Natra and Zirkon — both bearing hallmarks of Russia's shadow fleet and heading to load grain at a port linked to looted Ukrainian supplies — were struck overnight near Taganrog.",
+          "group" : "Sea of Azov strikes",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov"
+            }
+          ],
+          "titleTR" : "Five sailors killed as cargo ships struck in Sea of Azov"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "category" : "Security",
+          "descriptionTR" : "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+          "group" : "Black Sea drone warfare",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ukraine strikes cargo ships and admits Romania drone blast"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "En dépit de la trêve conclue en octobre 2025, le territoire palestinien reste en proie à des violences quotidiennes, le Hamas et Israël s’accusant mutuellement de violer l’accord.",
+          "group" : "Gaza ceasefire violence",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html"
+            }
+          ],
+          "titleTR" : "Dans la bande de Gaza, des frappes israéliennes font au moins dix morts, selon la défense civile"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "category" : "Security",
+          "descriptionTR" : "Gaza residents surveyed extensive damage on 4 June after an overnight Israeli airstrike hit an apartment in the Sheikh Radwan neighbourhood of Gaza City.",
+          "group" : "Gaza airstrike aftermath",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine"
+            }
+          ],
+          "titleTR" : "Gaza city residents survey destruction after overnight Israeli airstrike"
+        }
+      ],
+      "packetSpot" : "Israeli airstrikes on Gaza have resulted in significant casualties and destruction, with at least ten people reported dead. Residents of Gaza City are assessing the damage and mourning the loss of life caused by the overnight attacks.",
+      "packetTitle" : "Israeli Airstrikes on Gaza Result in Casualties and Destruction",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    }
+  ],
+  "week" : "2026-W27"
+}
