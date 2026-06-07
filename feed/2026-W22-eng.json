@@ -1,420 +1,153 @@
 {
   "label" : "1–7 HAZIRAN",
-  "publishedAt" : "2026-06-05T23:44:21Z",
+  "publishedAt" : "2026-06-07T00:19:53Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro#0",
-          "category" : "Human Rights",
-          "descriptionTR" : "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro#0",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Nearly 50 people die of thirst in Sahara desert after lorry breaks down"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
-          "category" : "Human Rights",
-          "descriptionTR" : "Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family\nAn African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this week as governments across the continent met in Ghana.\nThe draft African charter on family, sovereignty and values, seen by the Guardian, asserts that African values and culture are under attack from “foreign ideologies” and urges states to withdraw from any agreements that do not align with the principles of the charter, including the 2003 Maputo protocol, which promotes gender equality and protects the reproductive and health rights of women and girls.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/05\/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights"
-            }
-          ],
-          "titleTR" : "‘Family values’ African charter condemned by rights groups as regressive and dangerous"
-        },
-        {
-          "atomID" : "0E7DEA44-3D61-5B0A-953A-180AEFDE8D7C",
-          "category" : "Human Rights",
-          "descriptionTR" : "The immigrants had been working as fruit pickers in southern Italy, the authorities said, apparently as part of a system of criminal labor trafficking. ⁂ Lack of Pfas regulations raised in parliament after Guardian revealed former Miteni plant bought by Indian company\nProtests over the production of cancer-linked Pfas chemicals have spread across India, after an investigation revealed that an Italian factory shut down due to an environmental scandal was bought by an Indian company and partly rebuilt.\nAt the end of last year, the Guardian revealed that the former Miteni plant in Vicenza had been acquired by the Indian company Laxmi Organic Industries. The factory produced Pfas and was shut down in 2018 after being linked to one of Italy’s worst environmental contamination scandals.\nContinue reading...",
-          "group" : "",
-          "id" : "0E7DEA44-3D61-5B0A-953A-180AEFDE8D7C",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "category" : "Economy",
+          "descriptionTR" : "Got a debt to collect in Venezuela’s capital? Dr. Diablo and his pitchfork-wielding posse use public humiliation to pressure people into paying up.",
+          "group" : "Venezuela debt collection",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/europe\/italy-migrants-burned.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/may\/26\/india-pfas-production-forever-chemicals-protests-italian-factory"
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html"
             }
           ],
-          "titleTR" : "Four Immigrant Workers Burned to Death in Italy ⁂ Indians protest over ‘forever chemicals’ after relocation of scandal-hit Italian factory"
+          "titleTR" : "In Venezuela, the Debt Collector Is the Devil"
         }
       ],
-      "packetSpot" : "What challenges are emerging from Africa's new policies? How are human rights being tested in the Sahara and Italy?",
-      "packetTitle" : "Human Rights Under Pressure: From Sahara to African Policies",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "Got a debt to collect in Venezuela’s capital? Dr. Diablo and his pitchfork-wielding posse use public humiliation to pressure people into paying up.",
+      "packetTitle" : "In Venezuela, the Debt Collector Is the Devil",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cn4pk07npvvo#1",
-          "category" : "Environment",
-          "descriptionTR" : "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cn4pk07npvvo#1",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cn4pk07npvvo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Mangrove forests are healing after decades of human destruction"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
-          "category" : "Environment",
-          "descriptionTR" : "A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
+          "category" : "Economy",
+          "descriptionTR" : "The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.",
+          "group" : "Trump Cuba pressure",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html"
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html"
             }
           ],
-          "titleTR" : "How One Company Plans to Mine the Bottom of the Sea"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
-          "category" : "Environment",
-          "descriptionTR" : "Light pollution prompts plants to shed pollen longer and stronger, according to new research.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html"
-            }
-          ],
-          "titleTR" : "Urban Light Pollution Might Be Worsening Allergies"
-        },
-        {
-          "atomID" : "7A522DFA-F83B-5D43-9D2C-F031411C3A84",
-          "category" : "Environment",
-          "descriptionTR" : "More than 1 million people advised to evacuate homes amid 80mph winds and heavy rain\nTyphoon Jangmi (also known as Typhoon No 6) moved northwards over the course of this week. From Okinawa to mainland Japan, prolonged and heavy rainfall led to landslide warnings and the flooding of rivers, with Japan issuing level 4 warnings for some rivers, signalling a risk of overflowing. This level is high enough for municipalities to issue evacuation orders. Three-hourly rainfall totals on Wednesday reached 105mm in Chiyoda, Tokyo, which was a record high for the month. Sustained wind speeds of 80mph (130kph) were recorded on Monday – making it a category 1 typhoon – bringing damage and disruption to businesses, transport, infrastructure and the environment.\nBy Wednesday, 23 people had been injured, 17 of whom were in Okinawa. The typhoon damaged 57 homes and led to 60,000 homes losing electricity. In addition to this, 1.52 million people were advised to evacuate by authorities. The typhoon damaged the exterior wall of Himeji Castle, a Unesco world heritage site in western Japan. The maximum recorded wind speed at Himeji was 56mph, according to the Japan Meteorological Agency. The typhoon has now weakened into a tropical depression and has moved eastwards, away from the islands.\nContinue reading... ⁂ Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40C\nA powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed within the monsoonal gyre over the Philippine Sea.\nA monsoonal gyre is a large, slow-rotating weather system that spawns typhoons through smaller vortices formed within it. This flow can intensify storms. Such typhoons are typically characterised by broad areas of low pressure and extensive wind fields, often without a distinct eye.\nContinue reading...",
-          "group" : "",
-          "id" : "7A522DFA-F83B-5D43-9D2C-F031411C3A84",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/05\/typhoon-jangmi-no-6-japan"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/01\/typhoon-jangmi-japan-europe-temperatures-australia"
-            }
-          ],
-          "titleTR" : "Typhoon Jangmi sweeps northwards leaving 23 injured in Japan ⁂ Typhoon Jangmi threatens Japan as Europe swelters"
+          "titleTR" : "As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw"
         }
       ],
-      "packetSpot" : "Are mangrove forests making a comeback? How does sea mining threaten ocean floors? Is urban light pollution affecting your health? What havoc is Typhoon Jangmi wreaking in Japan?",
-      "packetTitle" : "Human Impact on Nature's Balance",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.",
+      "packetTitle" : "As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/clypy34pj6yo#1",
-          "category" : "Culture",
-          "descriptionTR" : "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/clypy34pj6yo#1",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o#3",
+          "category" : "Economy",
+          "descriptionTR" : "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
+          "group" : "AI stock bubble",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/clypy34pj6yo?at_medium=RSS&at_campaign=rss"
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "China cracks down on soft porn, violence and materialism in viral micro dramas"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/clypyd6gj72o#1",
-          "category" : "Culture",
-          "descriptionTR" : "He follows the late great Papa Wemba in becoming a knight of the National Order of the Leopard.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/clypyd6gj72o#1",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/clypyd6gj72o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Singer Fally Ipupa's pride at being given major DR Congo honour"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c7752znyle6o#2",
-          "category" : "Culture",
-          "descriptionTR" : "The K-pop band say accepting their flaws and embracing humour took them to a new level of success.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c7752znyle6o#2",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c7752znyle6o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Tough cookies: How pop group Le Sserafim overcame band tensions and internet trolls"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9d37dl139eo#2",
-          "category" : "Culture",
-          "descriptionTR" : "The 950-year-old work will be as safe \"as a baby\" during its move to London, French officials say.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9d37dl139eo#2",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9d37dl139eo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "'Nothing left to chance' for Bayeux Tapestry's journey to London"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
-          "category" : "Culture",
-          "descriptionTR" : "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "'It looks black' - Americans react to Reflecting Pool's completed paint job"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
-          "category" : "Culture",
-          "descriptionTR" : "The bissus of South Sulawesi are considered a link between the earthly and celestial because they are thought to embody both male and female traits.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html"
-            }
-          ],
-          "titleTR" : "The Priests Revered in the Land of Five Genders"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
-          "category" : "Culture",
-          "descriptionTR" : "The queen’s third cousin, she was a bridesmaid at the royal wedding in 1947, and witnessed firsthand pivotal moments in British history.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html"
-            }
-          ],
-          "titleTR" : "Pamela Hicks, Lady-in-Waiting to Elizabeth II of Britain, Dies at 97"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
-          "category" : "Culture",
-          "descriptionTR" : "Lawmakers and Jewish groups lodged protests over the rapper’s history of antisemitism. But those sensitivities ran headlong into the Netherlands’ robust free speech protections.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html"
-            }
-          ],
-          "titleTR" : "Ye Concerts Have Been Canceled Across Europe. Why Not in the Netherlands?"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
-          "category" : "Culture",
-          "descriptionTR" : "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html"
-            }
-          ],
-          "titleTR" : "Marjane Satrapi, Artist and Author of ‘Persepolis,’ Dies at 56"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/05\/quarter-of-uk-musicians-have-lost-all-eu-work-since-2021-report-finds",
-          "category" : "Culture",
-          "descriptionTR" : "Average tour earnings down 45%, with nearly three-fifths of musicians saying touring in Europe is no longer viable\nMore than a quarter of British musicians have lost all their work in the European Union since 2021, according to new research.\nThe report by European Movement UK, a cross-party campaign group advocating closer UK-EU relations, found that nearly half of British musicians had experienced a reduced amount of work in the EU since 2021, while more than a quarter had stopped working there altogether.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/05\/quarter-of-uk-musicians-have-lost-all-eu-work-since-2021-report-finds",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/music\/2026\/jun\/05\/quarter-of-uk-musicians-have-lost-all-eu-work-since-2021-report-finds"
-            }
-          ],
-          "titleTR" : "More than a quarter of UK musicians lost all EU work since 2021, report finds"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
-          "category" : "Culture",
-          "descriptionTR" : "Rare albino buffalo spared due to security concerns over unusual level of public interest in 700kg animal\nA rare albino buffalo in Bangladesh nicknamed “Donald Trump” for its distinctive blond tuft has been spared from Eid al-Adha sacrifice after a last-minute government intervention, according to a home ministry official.\nThe nearly 700kg (1,543lb) animal had already been sold for ritual slaughter when authorities stepped in, citing security concerns after a surge of public interest before Thursday’s festival.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/28\/blond-bangladeshi-buffalo-nicknamed-donald-trump-saved-from-eid-sacrifice"
-            }
-          ],
-          "titleTR" : "Blond Bangladeshi buffalo nicknamed ‘Donald Trump’ saved from Eid sacrifice"
-        },
-        {
-          "atomID" : "79F69FE0-0509-5B8A-804C-93B7374F1FD7",
-          "category" : "Culture",
-          "descriptionTR" : "The men are sentenced to 47 months each for stealing the 2,500-year-old Romanian Coțofenești helmet. ⁂ Greenpeace International is arguing under Dutch law that an American pipeline company, Energy Transfer, sought to silence it with a costly lawsuit in North Dakota.",
-          "group" : "",
-          "id" : "79F69FE0-0509-5B8A-804C-93B7374F1FD7",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy020317g1no?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/climate\/greenpeace-energy-transfer-slapp-lawsuit-dakota-access-pipeline.html"
-            }
-          ],
-          "titleTR" : "Three jailed over heist of ancient golden helmet from Dutch museum ⁂ Unusual Greenpeace Lawsuit May Proceed, Dutch Court Says"
+          "titleTR" : "Is there an AI stock market bubble, and is it ready to burst?"
         }
       ],
-      "packetSpot" : "How is China reshaping its entertainment landscape? What honor did Fally Ipupa receive in DR Congo? Why is the Bayeux Tapestry heading to London? Discover the stories behind these cultural movements.",
-      "packetTitle" : "Cultural Shifts and Celebrations Across Borders",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
+      "packetTitle" : "Is there an AI stock market bubble, and is it ready to burst?",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cnvpvd52j95o#2",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
           "category" : "Politics",
-          "descriptionTR" : "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cnvpvd52j95o#2",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "descriptionTR" : "The Cockroach Janta Party started as a joke, but it quickly became a way for many Indians to express their frustration with the system.",
+          "group" : "India Gen-Z protest",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cnvpvd52j95o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html"
             }
           ],
-          "titleTR" : "How Trump's White House ballroom plan has doubled in size and cost over a year"
-        },
+          "titleTR" : "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital"
+        }
+      ],
+      "packetSpot" : "The Cockroach Janta Party started as a joke, but it quickly became a way for many Indians to express their frustration with the system.",
+      "packetTitle" : "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "category" : "Politics",
+          "descriptionTR" : "The two men became president and prime minister by defeating the political old guard in Senegal. Now they are fighting each other.",
+          "group" : "Senegal leadership rift",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html"
+            }
+          ],
+          "titleTR" : "A President, His Prime Minister and the Bitter Rift Dividing Senegal"
+        }
+      ],
+      "packetSpot" : "The two men became president and prime minister by defeating the political old guard in Senegal. Now they are fighting each other.",
+      "packetTitle" : "A President, His Prime Minister and the Bitter Rift Dividing Senegal",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
         {
           "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
           "category" : "Politics",
           "descriptionTR" : "Prime Minister Nikol Pashinyan of Armenia is seeking re-election as his country weighs questions of war and peace, of autocracy and democracy, and of subjugation and independence.",
-          "group" : "",
+          "group" : "Armenia election pressure",
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -425,14 +158,73 @@
           "titleTR" : "Backed by Trump, Opposed by Putin, and Fighting for His Political Life"
         },
         {
+          "atomID" : "E6DB3844-A33A-525D-81C2-DF20CB928D6E",
+          "category" : "Politics",
+          "descriptionTR" : "Russia-linked groups and intelligence agencies are seeking to discredit Armenia’s Prime Minister Nikol Pashinyan ahead of the election, as Moscow fears a loss of influence in the country. Pashinyan, who is facing falling domestic support, is seeking a third term while his pro-West government comes under mounting pressure from Russia.",
+          "group" : "Armenia election pressure",
+          "id" : "E6DB3844-A33A-525D-81C2-DF20CB928D6E",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Russia steps up pressure on Armenia ahead of election"
+        }
+      ],
+      "packetSpot" : "Prime Minister Nikol Pashinyan of Armenia is facing significant political pressure ahead of the upcoming elections. Russia is actively disseminating disinformation to undermine his pro-Western government, while former U.S. President Donald Trump has expressed support for Pashinyan, creating a complex geopolitical dynamic.",
+      "packetTitle" : "Political Pressure and Disinformation in Armenia's Election",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html",
+          "category" : "Politics",
+          "descriptionTR" : "At the St. Petersburg economic forum, business and political elites said Russia faced a choice of halting the conflict or sacrificing more. Vladimir Putin seemed to signal more war.",
+          "group" : "Putin war forum",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html"
+            }
+          ],
+          "titleTR" : "A Question Swirling Around Putin’s Big Conference: Could the War End?"
+        }
+      ],
+      "packetSpot" : "At the St. Petersburg economic forum, business and political elites said Russia faced a choice of halting the conflict or sacrificing more. Vladimir Putin seemed to signal more war.",
+      "packetTitle" : "A Question Swirling Around Putin’s Big Conference: Could the War End?",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
           "category" : "Politics",
           "descriptionTR" : "Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president’s foreign policy agenda.",
-          "group" : "",
+          "group" : "Ukraine aid battle",
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -441,16 +233,25 @@
             }
           ],
           "titleTR" : "House Passes Ukraine Aid in Defiance of Republican Leaders"
-        },
+        }
+      ],
+      "packetSpot" : "Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president’s foreign policy agenda.",
+      "packetTitle" : "House Passes Ukraine Aid in Defiance of Republican Leaders",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
         {
           "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
           "category" : "Politics",
           "descriptionTR" : "Israel’s Haredim have escalated their protests against military service in recent weeks, underscoring growing divisions ahead of national elections.",
-          "group" : "",
+          "group" : "Ultra-Orthodox draft protests",
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -459,965 +260,554 @@
             }
           ],
           "titleTR" : "Ultra-Orthodox Riot Shocks Israelis In Latest Protest At Military Draft"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/south-korea-seoul-mayor-elections.html",
-          "category" : "Politics",
-          "descriptionTR" : "President Lee Jae Myung’s Democratic Party had hoped to consolidate its influence and extend his political momentum.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/south-korea-seoul-mayor-elections.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/south-korea-seoul-mayor-elections.html"
-            }
-          ],
-          "titleTR" : "South Korea’s Governing Democratic Party Sweeps Local Elections but Faces Setback in Seoul Mayor’s Race"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/americas\/trump-brazil-flavio-bolsonaro.html",
-          "category" : "Politics",
-          "descriptionTR" : "President Trump appears ready to lend a hand to a new right-wing ally ahead of a crucial election this year that will be the biggest test for Latin America’s left.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/americas\/trump-brazil-flavio-bolsonaro.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/americas\/trump-brazil-flavio-bolsonaro.html"
-            }
-          ],
-          "titleTR" : "Trump Agitates Brazil’s Politics, Again"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth",
-          "category" : "Politics",
-          "descriptionTR" : "Polish, Spanish and French populists focus on clips of teenager’s dying moments and accuse UK of descending ‘into depths of the earth’\n\t•\tUK politics live – latest updates\nPolish far-right politicians have claimed that the murder of Henry Nowak symbolises “Britain’s descent into the depths of the earth” as populists from France, Spain and Japan focused on harrowing clips of his dying moments.\nDespite pleas from Nowak’s family for people not to exploit the killing for political gain and to focus on cutting knife crime, their comments have focused on race and immigration.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/polish-far-right-nowak-britain-descent-depths-earth"
-            }
-          ],
-          "titleTR" : "Europe’s far right exploit Henry Nowak murder in UK with populist rhetoric on race"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/audio\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
-          "category" : "Politics",
-          "descriptionTR" : "Thousands have protested in the streets of the Albanian capital, Tirana, this week against a planned luxury resort backed by Donald Trump’s son-in-law Jared Kushner.\nGroundwork has begun on the $1.6bn complex in an area long seen as one of the Mediterranean’s most environmentally sensitive, containing 200 species of birds including flamingos and Dalmatian pelicans.\nAfter builders began erecting a concrete-based, barbed wire-topped fence around the site, alarm turned to public outrage at the environmental damage and lack of political transparency around the deal.\nLucy Hough speaks to US live news editor Chris Michael – watch on YouTube\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/world\/audio\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/audio\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest"
-            }
-          ],
-          "titleTR" : "Outrage in Albania over Kushner-Trump $1.6bn luxury resort – The Latest"
-        },
-        {
-          "atomID" : "15D6109C-C623-54C5-A982-5C3405EC2219",
-          "category" : "Politics",
-          "descriptionTR" : "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks. ⁂ At the St. Petersburg economic forum, business and political elites said Russia faced a choice of halting the conflict or sacrificing more. Vladimir Putin seemed to signal more war. ⁂ Russian president describes Ukrainian counterpart’s letter as rude and says he sees no point in face-to-face talks\nVladimir Putin has rejected an offer from Volodymyr Zelenskyy to hold a face-to-face meeting, insisting instead that Russia will achieve its war goals in Ukraine, including seizing all of the eastern Donbas region.\nSpeaking at the St Petersburg economic forum, the Russian president described the open letter from his Ukrainian counterpart containing the offer as rude. He refused to use Zelenskyy’s name, referring to him only as its author. Asked if they could meet to discuss an end to the conflict, Putin replied: “So far I see no point.”\nContinue reading... ⁂ “After 26 years in power, age is beginning to take its toll,” President Volodymyr Zelensky of Ukraine wrote of his Russian counterpart, bragging of a recent strike on St. Petersburg.",
-          "group" : "",
-          "id" : "15D6109C-C623-54C5-A982-5C3405EC2219",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/putin-rejects-zelenskyys-offer-to-meet-and-reaffirms-ukraine-war-aims"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html"
-            }
-          ],
-          "titleTR" : "Putin says there is 'no point' meeting Zelensky over ending Ukraine war ⁂ A Question Swirling Around Putin’s Big Conference: Could the War End? ⁂ Putin rejects Zelenskyy’s offer to meet and reaffirms Ukraine war aims ⁂ Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin"
-        },
-        {
-          "atomID" : "310BF07C-7A91-5C07-B125-30F09F2D20C0",
-          "category" : "Politics",
-          "descriptionTR" : "It could take weeks - or even a month - before we know who won elections in California and Los Angeles. ⁂ Experts warn ballot-counting could drag on in primaries for governor, LA mayor and Congress, as Trump claims ‘rigging’\nThe justice department on Friday sent a federal prosecutor to observe ballot processing in Los Angeles, as Donald Trump continues to make baseless claims that California Democrats were “rigging” the results to win primary elections in the nation’s biggest blue state.\nState officials have rejected the allegations, but the delay in results immediately fueled misinformation about the integrity of California’s elections, with the president, who has long fanned election-conspiracy theories, accusing the state of “cheating”.\nContinue reading...",
-          "group" : "",
-          "id" : "310BF07C-7A91-5C07-B125-30F09F2D20C0",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c2020jrpxz3o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/05\/california-primary-election-races-too-close-to-call"
-            }
-          ],
-          "titleTR" : "Here's why counting votes in California is taking so long ⁂ California governor’s race: DoJ sends in federal observer over slow count"
-        },
-        {
-          "atomID" : "2371AEF4-7954-5F73-8450-585295C2E8DC",
-          "category" : "Politics",
-          "descriptionTR" : "Vice-president and state department look to push far-right idea that mass migration is causing civilisational decline\n\t•\tHow Britain was rocked by Henry Nowak’s murder – and why the US intervened\nIn the state department of past administrations, how to respond to an incendiary event such as the murder of the British student Henry Nowak would have required deliberations, memos and meetings. Given how it has roiled the UK and inflamed tensions over migration and race, the cautious diplomats at Foggy Bottom probably would have said nothing at all.\nNow they tweet from the hip. “Ideological conditioning and two-tiered policing are glaring symptoms of civilizational decline,” the department’s official account posted on Thursday. “They must be rejected across the West.”\nContinue reading... ⁂ Prime minister’s office responds after JD Vance blames British teenager’s death on mass migration\n\t•\tHow Britain was rocked by Henry Nowak’s murder – and why the US intervened\nKeir Starmer has suggested the US is trying to interfere in British democracy after JD Vance, the US vice-president, blamed the murder of the British teenager Henry Nowak on mass migration.\nThe prime minister’s office responded after the senior Republican politician claimed in a post on X that Nowak would be alive “if the last few generations of European elites had stood their ground against the politics of self-hatred and the mass invasion of migrants, many of whom despise the West and the people who love it”.\nContinue reading...",
-          "group" : "",
-          "id" : "2371AEF4-7954-5F73-8450-585295C2E8DC",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/05\/us-diplomats-response-to-henry-nowak-incendiary"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/05\/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim"
-            }
-          ],
-          "titleTR" : "Vance leads charge of US officials using Henry Nowak murder to push anti-immigration agenda ⁂ Starmer suggests US ‘trying to interfere in our democracy’ over Nowak claims"
-        },
-        {
-          "atomID" : "8D22ECF6-9847-5053-802C-B25C33365EC2",
-          "category" : "Politics",
-          "descriptionTR" : "President Trump said that he had been “perturbed” in a call with Prime Minister Benjamin Netanyahu of Israel, and said he hoped to meet with Iran’s supreme leader. ⁂ While some powerful Russians shun the West, others want to restore ties and embrace friendly Westerners. President Vladimir V. Putin’s annual economic conference illustrates the conflicting impulses.",
-          "group" : "",
-          "id" : "8D22ECF6-9847-5053-802C-B25C33365EC2",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/middleeast\/trump-iran-ayatollah-netanyahu.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html"
-            }
-          ],
-          "titleTR" : "Trump Confirms He Called Netanyahu ‘Crazy’ and Hopes to Meet Iran’s Supreme Leader ⁂ Russia Rails Against the West but Welcomes Candace Owens and Andrew Tate"
-        },
-        {
-          "atomID" : "9E083BB4-EEC5-5AC8-9D78-389A343E18DF",
-          "category" : "Politics",
-          "descriptionTR" : "Most economists believe the chronic undersupply of homes will eventually push prices higher once interest rates ease and the tax changes are priced in\n\t•\tGet our breaking news email, free app or daily news podcast\nThe government’s property tax changes have become one of the defining political issues of Labor’s second term, drawing fierce criticism from opponents who argue they represent an “assault on aspiration” that will destroy home values.\nIn the three weeks after the negative gearing and capital gains tax changes were revealed in the 12 May budget, housing data has begun to show how they may affect Australia’s property market. Here’s what the data shows, and what could happen next.\nContinue reading... ⁂ Hanson’s party is leading in the polls, but it has a long way to go before being recognised as a serious political outfit\n\t•\tGet our breaking news email, free app or daily news podcast\nWhen sent out to do a cleanup job, it usually helps to not make the mess even worse.\nIt took One Nation six separate attempts over nearly 24 hours to clarify the basic details of their policy on foreign ownership of housing. Between Thursday night and Friday afternoon, the story turned from bizarre to farcical, with attempts to clarify the policy just making the situation murkier as Australians watched:\na Barnaby Joyce interview;\na quick do-over on Sky News on Thursday;\na Pauline Hanson social media update on Friday morning;\na Sean Bell interview, again on Sky, on Friday;\nand then a 2GB spot;\nbefore a written press release from Bell on Friday afternoon\nContinue reading...",
-          "group" : "",
-          "id" : "9E083BB4-EEC5-5AC8-9D78-389A343E18DF",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/06\/australia-housing-house-prices-supply-before-budget-after-cgt-capital-gains-tax-negative-gearing-changes"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/05\/one-nation-pauline-hanson-housing-policy-ntwnfb"
-            }
-          ],
-          "titleTR" : "Australian housing was already cooling before the budget – but how cold it gets depends on two key factors ⁂ One Nation, six farcical explanations and no clearer understanding of its housing policy"
         }
       ],
-      "packetSpot" : "How is Trump influencing politics from the White House to Brazil? What are his ties to global leaders like Putin and Netanyahu? Uncover the impact of his ballroom plans, luxury resorts, and political maneuvers across continents.",
-      "packetTitle" : "Trump's Global Political Footprint: Allies, Adversaries, and Controversies",
-      "publishedAt" : "2026-06-05T23:44:21Z",
-      "sessionID" : "publish-draft",
-      "slot" : 4
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1k2knwgy3eo#2",
-          "category" : "Economy",
-          "descriptionTR" : "Brandy Melville's move has caused uproar among some young women who frequent its stores, with one calling it a \"devastating news\".",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1k2knwgy3eo#2",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c1k2knwgy3eo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Why is this teen fashion brand closing its fitting rooms?"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/03\/business\/economy\/trump-tariffs-forced-labor.html",
-          "category" : "Economy",
-          "descriptionTR" : "The administration has settled on a more legally and politically durable way to impose tariffs, but some say the focus on forced labor laws is merely a pretext for protectionism.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/03\/business\/economy\/trump-tariffs-forced-labor.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/business\/economy\/trump-tariffs-forced-labor.html"
-            }
-          ],
-          "titleTR" : "Trump Administration Turns to a New Rationale to Justify Old Tariffs"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/05\/uk-shoppers-high-street-retail-iran-war",
-          "category" : "Economy",
-          "descriptionTR" : "British Retail Consortium figures show footfall rose in May, with consumer confidence improving after spending squeeze\nGreater numbers of consumers went shopping last month as spring sunshine brought welcome relief to retailers, which have faced a squeeze on spending since the US-Israel war on Iran.\nFigures from the British Retail Consortium (BRC) and a separate survey by the accountancy firm BDO showed a bounce-back in footfall during May, reversing a sharp decline in April.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/05\/uk-shoppers-high-street-retail-iran-war",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/05\/uk-shoppers-high-street-retail-iran-war"
-            }
-          ],
-          "titleTR" : "UK shoppers return to high street as warm weather brings respite from shadow of war"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/05\/thames-water-should-be-nationalised-andy-burnham",
-          "category" : "Economy",
-          "descriptionTR" : "Exclusive: Labour’s Makerfield byelection candidate advocates public ownership of water companies as he prepares for potential leadership bid\nThames Water should be nationalised, Andy Burnham has said, revealing public ownership of water companies would “absolutely be an option” under his potential leadership of the Labour party.\nBurnham, Labour’s candidate in the Makerfield byelection, has previously called for “greater public control” over the companies. In an interview with the Guardian, he has confirmed this could mean nationalisation.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/05\/thames-water-should-be-nationalised-andy-burnham",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/05\/thames-water-should-be-nationalised-andy-burnham"
-            }
-          ],
-          "titleTR" : "Thames Water should be nationalised, says Andy Burnham"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/05\/us-jobs-market-unemployment",
-          "category" : "Economy",
-          "descriptionTR" : "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran war\nUS employers added 172,000 jobs in May while the country’s unemployment rate held steady at 4.3%, a sign of a resilient labor market despite rising inflation and economic uncertainty brought on by continued conflict in the Middle East.\nDespite the positive update on the labor market, US stocks fell sharply by Friday afternoon after a big sell-off of AI chip stocks. The tech-heavy Nasdaq index closed 4% down, the largest single-day drop in over a year. The S&P 500 and and Dow were also down 2.6% and 1.3%, respectively.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/05\/us-jobs-market-unemployment",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/05\/us-jobs-market-unemployment"
-            }
-          ],
-          "titleTR" : "US added 172,000 jobs in May as labor market shows signs of resilience"
-        },
-        {
-          "atomID" : "ABF46CD0-E0DF-50D4-9AA5-10D30C83884F",
-          "category" : "Economy",
-          "descriptionTR" : "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’\nThe United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members of the Castro family, in Washington’s latest ramping up of pressure on its communist-led neighbour.\nAmong those targeted were the son and a grandson of former president Raúl Castro, who no longer holds an official position but remains a key figure on decisions about the future of the island.\nContinue reading... ⁂ The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.",
-          "group" : "",
-          "id" : "ABF46CD0-E0DF-50D4-9AA5-10D30C83884F",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/us-sanctions-cuba-president-castro-family"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html"
-            }
-          ],
-          "titleTR" : "US imposes new sanctions on Cuban president and Castro family members ⁂ As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw"
-        }
-      ],
-      "packetSpot" : "Why is a popular teen brand shutting its fitting rooms? How are UK shoppers defying economic gloom? What new tariffs and sanctions are reshaping international trade?",
-      "packetTitle" : "Economic Shifts and Policy Impacts Across the Globe",
-      "publishedAt" : "2026-06-05T23:44:21Z",
-      "sessionID" : "publish-draft",
-      "slot" : 5
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
-          "category" : "Law",
-          "descriptionTR" : "Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html"
-            }
-          ],
-          "titleTR" : "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/03\/north-carolina-judge-deport-teen-murder-victim",
-          "category" : "Law",
-          "descriptionTR" : "North Carolina judge said Levi Mendez-Maldonado failed to show up in court – even after being told he had died in 2024\nAn immigration judge in Charlotte, North Carolina, recently ordered the deportation of a young man who was killed in 2024, citing his failure to appear in court.\nJudge Amy Lee ordered the removal of Levi Mendez-Maldonado in absentia on 21 May. Mendez-Maldonado, originally from Honduras, came to the United States as an unaccompanied minor at age 17 and was murdered in a shooting in November 2024.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/03\/north-carolina-judge-deport-teen-murder-victim",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/03\/north-carolina-judge-deport-teen-murder-victim"
-            }
-          ],
-          "titleTR" : "Dead but deportable: US immigration judge signed order to eject teen murder victim"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/live\/2026\/jun\/05\/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
-          "category" : "Law",
-          "descriptionTR" : "This blog is now closed\n\t•\tGet our breaking news email, free app or daily news podcast\nJane Hume, the deputy opposition leader, accused the government of being “sneaky”, saying discussions around tax reforms in parliament were much too short to properly address so-called “generational” tax reforms.\n“What the government has done is essentially prevented scrutiny of the changes that this legislation is going to inflict on the Australian economy,” Hume told RN Breakfast. She went on:\nApparently, these are generational reforms. If they’re generational reforms, well, surely they should have been taken to an election so that the Australian people could decide that.\nTwo days simply is not enough. There is no need to rush these changes through because they don’t kick in until 2028.\nVictim-survivors and their loved ones will no longer be forced to sit in court and hear the person convicted of a heinous crime be described as an otherwise good person.\nWhile I’m glad we’re finally here, it should not have taken so long for the Liberals and Nationals to listen to victim-survivors and their advocates and drop their opposition to these reforms.\nThis win belongs to every survivor in this country. … That is hard-won dignity.\nBut I’m not done. Every survivor in every corner of this country deserves the same protection, and I will fight until every jurisdiction reflects that. NSW was first. The rest will follow.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/live\/2026\/jun\/05\/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/live\/2026\/jun\/05\/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb"
-            }
-          ],
-          "titleTR" : "Allegra Spender defends voting against CGT reform – as it happened"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/05\/texas-stabbing-high-school",
-          "category" : "Law",
-          "descriptionTR" : "Case draws nationwide attention amid debate over racial tensions, as defendant is Black and slain student was white\nTestimony has been unfolding in the murder trial of a 19-year-old accused of fatally stabbing a fellow high schooler during a track meet in Texas more than a year ago.\nThe case has drawn nationwide attention amid debate over racial tensions, as defendant Karmelo Anthony is Black and slain 17-year-old Austin Metcalf was white. Prosecutors allege Anthony stabbed Metcalf during a Frisco independent school district track meet at Kuykendall Stadium on 2 April 2025.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/05\/texas-stabbing-high-school",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/05\/texas-stabbing-high-school"
-            }
-          ],
-          "titleTR" : "Texas murder trial under way with 19-year-old accused of stabbing fellow high schooler"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/05\/virginia-man-murder-life-sentence",
-          "category" : "Law",
-          "descriptionTR" : "Brendan Banfield convicted of killing Christine Banfield and man lured to couple’s Virginia home as fall guy\nA Virginia man who was having an affair with the family’s Brazilian au pair was sentenced on Friday to life in prison without parole for the murder of his wife and a man who was lured to the couple’s home as a fall guy.\nBrendan Banfield, a former Internal Revenue Service (IRS) law enforcement officer, claimed he shot Joseph Ryan after he came across Ryan attacking his wife on the morning of 24 February 2023. But prosecutors said Brendan Banfield and au pair Juliana Peres Magalhães set Ryan up in a scheme to kill Christine Banfield, a pediatric intensive care nurse.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/05\/virginia-man-murder-life-sentence",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/05\/virginia-man-murder-life-sentence"
-            }
-          ],
-          "titleTR" : "US man who plotted with au pair to murder wife given life sentence"
-        },
-        {
-          "atomID" : "2B54F703-A31E-5646-89F3-74067B318EA1",
-          "category" : "Law",
-          "descriptionTR" : "Israel forbade the visits, which allow the Red Cross to monitor prisoners’ conditions, in 2023. Justices said the policy violated Israeli and international law. ⁂ Activists who were detained with a flotilla trying to reach the Gaza Strip have said they were abused while in Israel’s custody. Israeli authorities have denied mistreating them.",
-          "group" : "",
-          "id" : "2B54F703-A31E-5646-89F3-74067B318EA1",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/middleeast\/israel-supreme-court-red-cross-palestinian-prisoners.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html"
-            }
-          ],
-          "titleTR" : "Israel’s High Court Rejects Ban on Red Cross Visits for Palestinian Prisoners ⁂ France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists"
-        },
-        {
-          "atomID" : "0B57CE8F-6CEB-5C14-957A-38138F8E1777",
-          "category" : "Law",
-          "descriptionTR" : "Country is shaken by the brutal murders of two girls, aged 14 and 17, whose bodies were discovered just days apart\nArgentina has reacted with fury after the bodies of two murdered teenage girls were found just two days apart. The latest killings underscore the South American country’s enduring femicide crisis despite years of feminist campaigning, and have prompted alarm over the decision to cut support for victims of gender-based violence under the far-right administration of Javier Milei.\nPolice found the remains of Agostina Vega, 14, on Saturday, in a field on the outskirts of the city of Córdoba. She had been fatally strangled and her body had been dismembered, according to local media reports.\nContinue reading... ⁂ Andrew Wilson appears in court over killing of Latoya Bulgin at protest over a police shooting days earlier\nAuthorities in Jamaica have taken the rare step of charging a police officer with murder after he was accused of shooting a 45-year-old woman in a case that prompted violent protests.\nAccording to the Independent Commission of Investigations (Indecom), Constable Andrew Wilson appeared in court on Wednesday and was denied bail. Another hearing is scheduled for mid-June.\nContinue reading...",
-          "group" : "",
-          "id" : "0B57CE8F-6CEB-5C14-957A-38138F8E1777",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/argentina-teen-girls-murdered-femicide-crisis"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/jamaica-police-officer-charged-murder-woman-protest"
-            }
-          ],
-          "titleTR" : "Outrage in Argentina after two teen girls murdered as femicide crisis endures ⁂ Jamaican police officer charged with murder after woman shot during protest"
-        },
-        {
-          "atomID" : "630BFB43-9693-55E1-A484-C673A57A9D00",
-          "category" : "Law",
-          "descriptionTR" : "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show. ⁂ Emma Barnett killed her one-year-old after a court ruling he be taken away from her\nA mother who poisoned her one-year-old son with a lethal cocktail of prescription medications added to milk in a baby bottle has been jailed for life for his murder.\nEmma Barnett, 36, killed her son Oakley before he could be taken into care after a family court hearing ordered that he be removed from her.\nContinue reading...",
-          "group" : "",
-          "id" : "630BFB43-9693-55E1-A484-C673A57A9D00",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jun\/05\/essex-woman-jailed-life-poisoning-baby"
-            }
-          ],
-          "titleTR" : "Fury in France after child murder suspect's criminal record released ⁂ Essex woman jailed for life for poisoning baby son with cocktail of drugs"
-        }
-      ],
-      "packetSpot" : "Why is a royal figure under scrutiny for property subletting? How did a deportation order target a deceased teenager? What sparked a heated debate over CGT reform in Australia?",
-      "packetTitle" : "Global Legal Battles: From Royal Estates to Immigration Courts",
-      "publishedAt" : "2026-06-05T23:44:21Z",
-      "sessionID" : "publish-draft",
-      "slot" : 6
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
-          "category" : "Sports",
-          "descriptionTR" : "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html"
-            }
-          ],
-          "titleTR" : "Tennis Giants Tumble"
-        },
-        {
-          "atomID" : "97BEBFF4-9E5D-57BC-8D1C-0DC2229C4134",
-          "category" : "Sports",
-          "descriptionTR" : "Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week. ⁂ After months of doubts over their participation, Iran’s players have received visas for the United States just days before the World Cup begins.",
-          "group" : "",
-          "id" : "97BEBFF4-9E5D-57BC-8D1C-0DC2229C4134",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/iran-soccer-world-cup-war.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html"
-            }
-          ],
-          "titleTR" : "Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup ⁂ Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied"
-        },
-        {
-          "atomID" : "E057FC2C-85FB-54DF-8B60-82DE114D0CA4",
-          "category" : "Sports",
-          "descriptionTR" : "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard. ⁂ Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital. ⁂ Dawa Sherpa, 57, was found alive on Thursday, nearly a week after he was last seen on the mountain. His wife says more could have been done to find him sooner. ⁂ Climbing support team rescue Hillary Dawa Sherpa almost a week on from when he was last seen\nA Nepali guide who was believed to have died on Mount Everest has been found crawling to base camp a week after going missing – and after his funeral rites had begun.\nDawa Sherpa, also known as Hillary Dawa Sherpa after the famous climber Edmund Hillary, was last seen on 29 May but did not reach base camp with other climbing groups.\nContinue reading...",
-          "group" : "",
-          "id" : "E057FC2C-85FB-54DF-8B60-82DE114D0CA4",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c5y7yryg01mo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "tr",
-              "sourceName" : "BBC News, New York Times, The Guardian",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cn9p91295q8o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Astronauts return to ISS after sheltering during air leak repair attempt ⁂ Everest guide survived six-day ordeal by eating chocolate and 'chewing ice' ⁂ A Sherpa Survived 6 Days Alone on Everest. His Family Says He Was Abandoned. ⁂ Missing Sherpa guide found alive on Everest after funeral rites had begun"
-        }
-      ],
-      "packetSpot" : "Why are tennis giants falling at the French Open? What challenges do Iran's soccer team face on their World Cup journey?",
-      "packetTitle" : "Unexpected Twists in Global Sports Arenas",
-      "publishedAt" : "2026-06-05T23:44:21Z",
-      "sessionID" : "publish-draft",
-      "slot" : 7
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
-          "category" : "Transport",
-          "descriptionTR" : "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation. The plane can weigh 279 tons at takeoff.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html"
-            }
-          ],
-          "titleTR" : "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
-          "category" : "Transport",
-          "descriptionTR" : "Truck was carrying Afghan families returning Pakistan when it overturned, official says\nA truck overturned in eastern Afghanistan on Saturday, killing 18 people on board including 10 children, a provincial official told Agence France-Presse.\nDeadly traffic crashes are common in Afghanistan, due in part to poor roads after decades of conflict, dangerous driving and a lack of regulation.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/eighteen-people-killed-in-afghanistan-truck-crash-in-including-10-children"
-            }
-          ],
-          "titleTR" : "Eighteen people killed in Afghanistan truck crash, including 10 children"
-        }
-      ],
-      "packetSpot" : "What caused the Boeing 787-9 Dreamliner incident at Frankfurt Airport? How did a truck crash in Afghanistan lead to such a high death toll?",
-      "packetTitle" : "Transportation Tragedies Unfold",
-      "publishedAt" : "2026-06-05T23:44:21Z",
-      "sessionID" : "publish-draft",
-      "slot" : 8
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
-          "category" : "Technology",
-          "descriptionTR" : "The country on Thursday released a national artificial intelligence strategy that focuses on building its sovereign capability and protecting consumers.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html"
-            }
-          ],
-          "titleTR" : "Wary of U.S., Carney Bets on AI Strategy for Canada"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/03\/travel\/uk-travelers-eta-outage.html",
-          "category" : "Technology",
-          "descriptionTR" : "Some visitors from the U.S., Canada and most European countries can’t get an electronic travel authorization and are being turned away from planes, trains and boats.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/03\/travel\/uk-travelers-eta-outage.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/travel\/uk-travelers-eta-outage.html"
-            }
-          ],
-          "titleTR" : "Travelers Bound for the U.K. Hit a Roadblock: Electronic Authorization System Is Down"
-        }
-      ],
-      "packetSpot" : "How is Canada crafting its AI future amid U.S. competition? What's causing travel disruptions to the U.K.?",
-      "packetTitle" : "Navigating Technological Hurdles in North America and Europe",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "Israel’s Haredim have escalated their protests against military service in recent weeks, underscoring growing divisions ahead of national elections.",
+      "packetTitle" : "Ultra-Orthodox Riot Shocks Israelis In Latest Protest At Military Draft",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 9
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/africa-travel-iran-kuwait.html",
-          "category" : "Society",
-          "descriptionTR" : "A growing middle class is increasingly mobile — and changing African ideas about leisure, travel and even the continent itself.",
-          "group" : "",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/africa-travel-iran-kuwait.html",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "category" : "Politics",
+          "descriptionTR" : "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years.",
+          "group" : "Somalia capital clashes",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/africa-travel-iran-kuwait.html"
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html"
             }
           ],
-          "titleTR" : "Africans Exploring Africa"
+          "titleTR" : "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters"
         }
       ],
-      "packetSpot" : "Why are more Africans choosing to travel within Africa? What destinations are capturing their interest?",
-      "packetTitle" : "Africans Rediscovering Their Continent",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years.",
+      "packetTitle" : "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 10
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal",
-          "category" : "Animal Welfare",
-          "descriptionTR" : "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across US\nCanada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales, ending a saga that has captivated the public and angered animal rights groups.\nThe federal fisheries ministry announced this week that all of Marineland’s belugas would be shipped to either Spain or one of four locations in the US, ending whale captivity in Canada.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "category" : "Politics",
+          "descriptionTR" : "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff.",
+          "group" : "Colombia presidential runoff",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/04\/canada-marineland-beluga-whale-deal"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html"
             }
           ],
-          "titleTR" : "Canada endorses embattled marine park’s plan to relocate 30 beluga whales"
+          "titleTR" : "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia’s President?"
         }
       ],
-      "packetSpot" : "Why is Canada moving 30 beluga whales? What challenges does Marineland face?",
-      "packetTitle" : "Canada's Bold Move for Beluga Welfare",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff.",
+      "packetTitle" : "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia’s President?",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 11
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag",
-          "category" : "Energy",
-          "descriptionTR" : "The Middle East is Japan’s main source of crude oil, from which naphtha is extracted and used to make items including printing ink and plastics\nTakeaways, supermarkets, and bakeries in Japan are running out of plastic bags, trays and food service gloves amid widening shortages of the key plastic ingredient, naphtha, due to the Middle East crisis.\nThe food sector accounts for nearly one-third of Japan’s annual plastic use of more than 8m tonnes, and price rises and shortages are hitting hard across the industry and beyond. Some outlets have begun offering perks to customers who bring their own bags, plates or containers.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "category" : "Politics",
+          "descriptionTR" : "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.",
+          "group" : "Colombia election symbolism",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/japan-naphtha-shortage-plastic-bag"
-            }
-          ],
-          "titleTR" : "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens"
-        }
-      ],
-      "packetSpot" : "How is the Middle East crisis impacting Japan's everyday essentials? What are the global implications of the naphtha shortage?",
-      "packetTitle" : "The Ripple Effect of Naphtha Shortages",
-      "publishedAt" : "2026-06-05T23:44:21Z",
-      "sessionID" : "publish-draft",
-      "slot" : 12
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/05\/woman-illegally-strip-searched-by-police-music-festival-court-case-ntwnfb",
-          "category" : "Diğer",
-          "descriptionTR" : "NSW seeking leave to appeal against successful class action including aggravated damages of $20,000 awarded to woman strip-searched at music festival\n\t•\tGet our breaking news email, free app or daily news podcast\nThe woman awarded $93,000 after an illegal strip-search by NSW police thought until “just before” the trial that she would be called a liar in the proceedings by the officers who conducted the search.   This was despite the officers submitting statements 12 months before her appearance that they had no recollection of the woman or the search, a court was told on Friday.\nLawyers acting for the woman, Raya Meredith, and 6,000 music festivalgoers appeared before the NSW court of appeal on Friday in the final day of a two-day hearing where NSW is seeking leave to appeal after losing a class action over unlawful strip-searches conducted at music festivals between 2018 and 2022.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/05\/woman-illegally-strip-searched-by-police-music-festival-court-case-ntwnfb",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/05\/woman-illegally-strip-searched-by-police-music-festival-court-case-ntwnfb"
-            }
-          ],
-          "titleTR" : "Woman illegally strip-searched by police ‘reasonably thought’ officers would call her a liar, judge says"
-        },
-        {
-          "atomID" : "134AE98A-0231-541C-A832-B5970A2448F8",
-          "category" : "Diğer",
-          "descriptionTR" : "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff. ⁂ A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.",
-          "group" : "",
-          "id" : "134AE98A-0231-541C-A832-B5970A2448F8",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html"
-            },
             {
               "originalLanguage" : "en",
               "sourceName" : "New York Times",
               "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html"
             }
           ],
-          "titleTR" : "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia’s President? ⁂ Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement"
-        },
+          "titleTR" : "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement"
+        }
+      ],
+      "packetSpot" : "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.",
+      "packetTitle" : "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
         {
-          "atomID" : "B5F72112-69D3-5B1D-96D3-F22F8A762E63",
-          "category" : "Diğer",
-          "descriptionTR" : "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US. ⁂ Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers\nFormer top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and treatment centre in Kenya, as the union for workers with the US Centers for Disease Control and Prevention (CDC) calls for Americans exposed to Ebola to be brought home for treatment.\nSoon after the US revealed it was setting up a field hospital in Kenya for the Ebola quarantine and treatment of Americans, the Kenyan high court blocked the order – but the Kenyan and US governments moved forward anyway, with the first American responders reportedly landing at the Laikipia airbase on Saturday.\nContinue reading...",
-          "group" : "",
-          "id" : "B5F72112-69D3-5B1D-96D3-F22F8A762E63",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
+          "category" : "Politics",
+          "descriptionTR" : "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+          "group" : "Europe migration rhetoric",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/04\/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya"
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "US plans to fight flesh-eating screwworm outbreak with flies and dogs ⁂ Experts criticise plan for American-only Ebola quarantine centre in Kenya"
+          "titleTR" : "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech"
         }
       ],
-      "packetSpot" : "Why did a judge comment on a woman's fears of being called a liar by police? How are international strategies tackling health crises?",
-      "packetTitle" : "Legal and Health Challenges: From NSW to Global Health Strategies",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "packetTitle" : "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 13
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/05\/anu-australian-national-university-julie-bishop-scandals-reputational-damage-ntwnfb",
-          "category" : "Education",
-          "descriptionTR" : "Interim vice-chancellor tells senate estimates of ‘very significant’ effect on donor pipeline and enrolments\n\t•\tFollow our Australia news live blog for latest updates\n\t•\tGet our breaking news email, free app or daily news podcast\nA series of high profile scandals and governance failures has cost the Australian National University $100m in reputational damage, the interim vice-chancellor, Rebekah Brown, has told a parliamentary committee.\nFronting senate estimates on Friday – a day after a scathing audit report found the ANU approved a controversial $250m cost-cutting program without clear evidence – Brown acknowledged it had been a challenging time for the university.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/05\/anu-australian-national-university-julie-bishop-scandals-reputational-damage-ntwnfb",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
+          "category" : "Politics",
+          "descriptionTR" : "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
+          "group" : "Ramaphosa corruption case",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/05\/anu-australian-national-university-julie-bishop-scandals-reputational-damage-ntwnfb"
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "ANU scandals during Julie Bishop’s tenure caused $100m in reputational damage, university estimates"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
-          "category" : "Education",
-          "descriptionTR" : "New digital marking system is aimed at reducing human errors but many students say it has resulted in wrong grades\nA national outcry has erupted in India after more than 400,000 students requested copies of their answer sheets amid mounting complaints of errors in the marking of the country’s most important school-leaving examinations.\nWithin days of the grade 12 exam results being issued, students began reporting marking discrepancies they linked to a new digital marking system.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/may\/30\/exam-fail-indian-students-complain-en-masse-about-marking-errors-in-key-final-exams"
-            }
-          ],
-          "titleTR" : "Exam fail: Indian students complain en masse about marking errors in key final exams"
+          "titleTR" : "The cash-in-the-sofa saga that just won't go away for South Africa's president"
         }
       ],
-      "packetSpot" : "How is reputational damage affecting educational institutions? Are exam marking errors jeopardizing student futures?",
-      "packetTitle" : "Educational Challenges: From Reputational Damage to Marking Errors",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
+      "packetTitle" : "The cash-in-the-sofa saga that just won't go away for South Africa's president",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 14
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/science\/2026\/jun\/05\/scientists-sourdough-bread-yeast-strains-mummy",
-          "category" : "Science",
-          "descriptionTR" : "Team now plans to see if they can use yeast strains harvested from Ötzi the Iceman to brew beer too\nScientists have baked a sourdough loaf of bread using yeast strains harvested from a 5,000-year-old mummy and now plan to see if they can use them to brew beer too.\nThe yeast came from Ötzi the Iceman, a famous corpse remarkably preserved by being frozen in Alpine ice near the Italy-Austria border until he was discovered in 1991. Ötzi has been the subject of intense study since he was found and has shed much light on pre-historic European people and their way of life.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/science\/2026\/jun\/05\/scientists-sourdough-bread-yeast-strains-mummy",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/",
+          "category" : "Politics",
+          "descriptionTR" : "The daughter of disgraced former president Alberto Fujimori, running again for the presidency, is herself deeply unpopular. So is her opponent.",
+          "group" : "Peru election comeback",
+          "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/",
+          "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/science\/2026\/jun\/05\/scientists-sourdough-bread-yeast-strains-mummy"
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/"
             }
           ],
-          "titleTR" : "Scientists make sourdough bread using yeast found in 5,000-year-old mummy"
+          "titleTR" : "Fourth time could be the charm for Keiko Fujimori, Peru’s most polarizing politician"
         }
       ],
-      "packetSpot" : "How did ancient yeast bring Ötzi's legacy to the table? What secrets does a 5,000-year-old recipe hold?",
-      "packetTitle" : "Baking with Ancient Yeast: Ötzi's Culinary Legacy",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "The daughter of disgraced former president Alberto Fujimori, running again for the presidency, is herself deeply unpopular. So is her opponent.",
+      "packetTitle" : "Fourth time could be the charm for Keiko Fujimori, Peru’s most polarizing politician",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
       "slot" : 15
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/eu-new-members-bloc-leaders-summit-enlargement",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Von der Leyen tells Balkans summit that bloc needs to make enlargement process ‘faster and more credible’\nThe EU must prove its willingness and ability to take in new members and speed up its enlargement process, leaders of the bloc have said, as they gathered with their counterparts from six western Balkan countries that hope to join soon.\n“The European Union has to show that it is capable of enlarging and willing to enlarge, and we want to discuss that here,” Germany’s chancellor, Friedrich Merz, told reporters on Friday at the summit in Tivat, a coastal town in Montenegro.\nContinue reading...",
-          "group" : "",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/eu-new-members-bloc-leaders-summit-enlargement",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "C831F184-171A-513F-9641-7B2AE35F82FC",
+          "category" : "Politics",
+          "descriptionTR" : "The reports describe a broader geopolitical moment in which Russia and China are each signaling different forms of engagement with the West and their neighbors. In Russia, President Vladimir V. Putin’s annual economic conference highlights conflicting impulses: some powerful Russians reject the West, while others seek to restore ties and welcome friendly Westerners such as Candace Owens and Andrew Tate. Separately, Xi Jinping is set to visit North Korea, underscoring China’s role as an important power for its nuclear-armed neighbor and as a global actor projecting stability in contrast to U.S. policy seen by Beijing as erratic.",
+          "group" : "Russia-West cultural opening",
+          "id" : "C831F184-171A-513F-9641-7B2AE35F82FC",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/eu-new-members-bloc-leaders-summit-enlargement"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/05\/xi-visit-north-korea-showing-chinas-importance-nuclear-armed-neighbor\/"
             }
           ],
-          "titleTR" : "EU must prove it is capable and willing to take in new members, leaders say"
+          "titleTR" : "Russia and China signal competing geopolitical outreach"
+        }
+      ],
+      "packetSpot" : "While some powerful Russians shun the West, others want to restore ties and embrace friendly Westerners. President Vladimir V. Putin’s annual economic conference illustrates the conflicting impulses. ⁂ The summit comes as China positions itself as a global power player projecting stability in contrast to the U.S.'s economically damaging war against Iran and erratic tariff policies.",
+      "packetTitle" : "Russia Rails Against the West but Welcomes Candace Owens and Andrew Tate ⁂ Xi to visit North Korea, showing China’s importance to a nuclear-armed neighbor",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
+          "category" : "Security",
+          "descriptionTR" : "Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others.",
+          "group" : "Lebanon truce collapse",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html"
+            }
+          ],
+          "titleTR" : "Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed"
         },
         {
-          "atomID" : "B86F3D7C-9BBE-5342-9799-A7C44484C8B7",
-          "category" : "Diplomacy",
-          "descriptionTR" : "It is taking place weeks after Xi met the leaders of the US and Russia - two countries that loom large over North Korea's foreign policy. ⁂ As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.",
-          "group" : "",
-          "id" : "B86F3D7C-9BBE-5342-9799-A7C44484C8B7",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
+          "category" : "Security",
+          "descriptionTR" : "Videos collected by The Times shows how the Israeli military has deployed a munition that can be extremely harmful over populated areas in Lebanon.",
+          "group" : "Lebanon phosphorus use",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html"
+            }
+          ],
+          "titleTR" : "What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "category" : "Security",
+          "descriptionTR" : "The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.",
+          "group" : "Hezbollah drone defenses",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html"
+            }
+          ],
+          "titleTR" : "Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses"
+        },
+        {
+          "atomID" : "4FCC7B96-7CC6-54DA-BBAD-C223117B1162",
+          "category" : "Security",
+          "descriptionTR" : "A U.S.-brokered cease-fire deal for Lebanon is showing little sign of taking hold as fighting between Israel and Hezbollah continues. The agreement requires Hezbollah to stop firing first, but the Iran-backed group, which was not party to the talks, has rejected the terms as a virtual surrender. Israel has also said its offensive will continue.",
+          "group" : "Lebanon cease-fire failure",
+          "id" : "4FCC7B96-7CC6-54DA-BBAD-C223117B1162",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/lebanon-cease-fire-israel-hezbollah.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/lebanon-cease-fire-israel-hezbollah.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/lebanon-israel-ceasefire-hezbollah-strikes.html"
+            }
+          ],
+          "titleTR" : "Lebanon cease-fire falters as Israel and Hezbollah keep fighting"
+        }
+      ],
+      "packetSpot" : "Recent developments in the Lebanon-Israel conflict highlight ongoing military engagements and challenges in maintaining ceasefires. Israeli military actions and Hezbollah's strategic responses, including the use of drones, underscore the fragile nature of the truce efforts.",
+      "packetTitle" : "Escalation and Ceasefire Challenges in the Lebanon-Israel Conflict",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo#0",
+          "category" : "Security",
+          "descriptionTR" : "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+          "group" : "US Iran ceasefire clashes",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/clypym3q7p1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html"
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Xi Jinping to meet Kim Jong Un in rare visit to North Korea ⁂ What To Know as China’s Xi Jinping Heads to North Korea"
+          "titleTR" : "US and Iran exchange strikes in Gulf in latest test of ceasefire"
         },
         {
-          "atomID" : "A6C2501A-8985-5371-93E3-F217BF328439",
-          "category" : "Diplomacy",
-          "descriptionTR" : "It was the latest attempt by President Trump to flip the narrative on a conflict that he once said would lead to quick and decisive victory. ⁂ In today’s newsletter: Global powers are focused on oil markets and elections but those living through conflict in the Middle East feel abandoned\n\nGood morning. It’s been another week of brinkmanship via Truth Social and ceasefires broken before they’ve been announced.\nWhile US president Donald Trump claims an agreement with Iran could happen soon, for those living in the Middle East it does not feel like peace is anywhere near. People have seen more bombs dropped in Lebanon this week; and the death toll continues to rise, national economies falter, and displacement abounds.\nUK politics | Andy Burnham has signalled he would begin transforming the broken social care system this year if he became prime minister, he has said in an interview with the Guardian, accusing Westminster of “flinching away” from tackling difficult policy problems.\nEnvironment | Humanity can raise living standards, reduce inequality and keep global heating within a 2C rise, according to a sweeping vision for planetary survival.\nUkraine | The Ukrainian president, Volodymyr Zelenskyy, has called for face-to-face negotiations in a public letter addressed directly to the Russian president, Vladimir Putin.\nEngland news | The poorest and most nature-deprived communities in England will be further left behind in their access to green spaces if proposed changes to planning laws go ahead, a report finds.\nUK news | Andrew Mountbatten-Windsor received private income from subletting three cottages on his Windsor Royal Lodge estate while paying a “peppercorn rent” to the crown estate, a report into royal property arrangements has revealed.\nContinue reading...",
-          "group" : "",
-          "id" : "A6C2501A-8985-5371-93E3-F217BF328439",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/",
+          "category" : "Security",
+          "descriptionTR" : "U.S. forces shot down Iranian missiles and drones launched toward the strait and neighboring countries.",
+          "group" : "US Iran Gulf escalation",
+          "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/",
+          "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/"
+            }
+          ],
+          "titleTR" : "Iran launched missiles and drones toward Strait of Hormuz, U.S. military says"
+        }
+      ],
+      "packetSpot" : "The US and Iran have recently engaged in military confrontations in the Gulf region, involving exchanges of strikes and missile launches. These incidents highlight the ongoing tensions and the fragility of ceasefire agreements in the area.",
+      "packetTitle" : "US-Iran Military Confrontations in Gulf Region",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
+          "category" : "Security",
+          "descriptionTR" : "Jihadists have nearly tripled their attacks on urban areas. Analysts fear an extended standoff could lead to many more civilian deaths.",
+          "group" : "Mali rebel escalation",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/world\/middleeast\/trump-iran-war-remarks.html"
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html"
+            }
+          ],
+          "titleTR" : "Mali Conflict Escalates as Rebel Alliance Seizes Key Cities"
+        }
+      ],
+      "packetSpot" : "Jihadists have nearly tripled their attacks on urban areas. Analysts fear an extended standoff could lead to many more civilian deaths.",
+      "packetTitle" : "Mali Conflict Escalates as Rebel Alliance Seizes Key Cities",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "category" : "Security",
+          "descriptionTR" : "Guido Crosetto, Italy’s defense minister, said in an interview that European nations should forge a new joint defense system and take greater responsibility for their own security.",
+          "group" : "Europe defense alliance",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html"
+            }
+          ],
+          "titleTR" : "Europe Needs New Military Alliance to Defend Itself, Italy Says"
+        }
+      ],
+      "packetSpot" : "Guido Crosetto, Italy’s defense minister, said in an interview that European nations should forge a new joint defense system and take greater responsibility for their own security.",
+      "packetTitle" : "Europe Needs New Military Alliance to Defend Itself, Italy Says",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "category" : "Security",
+          "descriptionTR" : "As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality.",
+          "group" : "Ireland defense buildup",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html"
+            }
+          ],
+          "titleTR" : "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up"
+        }
+      ],
+      "packetSpot" : "As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality.",
+      "packetTitle" : "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html",
+          "category" : "Security",
+          "descriptionTR" : "“After 26 years in power, age is beginning to take its toll,” President Volodymyr Zelensky of Ukraine wrote of his Russian counterpart, bragging of a recent strike on St. Petersburg.",
+          "group" : "Ukraine Russia messaging",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html"
+            }
+          ],
+          "titleTR" : "Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin"
+        }
+      ],
+      "packetSpot" : "“After 26 years in power, age is beginning to take its toll,” President Volodymyr Zelensky of Ukraine wrote of his Russian counterpart, bragging of a recent strike on St. Petersburg.",
+      "packetTitle" : "Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "category" : "Security",
+          "descriptionTR" : "The New York Times has been investigating the number of boat strikes and the death toll in the Caribbean and Eastern Pacific carried out by the Trump administration. Eric Schmitt, a national security correspondent for The Times, explains what those numbers mean.",
+          "group" : "US boat strikes",
+          "id" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "link" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html"
+            }
+          ],
+          "titleTR" : "Tracking the Rising Death Toll From U.S. Boat Strikes"
+        }
+      ],
+      "packetSpot" : "The New York Times has been investigating the number of boat strikes and the death toll in the Caribbean and Eastern Pacific carried out by the Trump administration. Eric Schmitt, a national security correspondent for The Times, explains what those numbers mean.",
+      "packetTitle" : "Tracking the Rising Death Toll From U.S. Boat Strikes",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "0A447DBD-76A0-510B-A091-CC1196730F92",
+          "category" : "Security",
+          "descriptionTR" : "Ukraine carried out a long-range drone attack on St. Petersburg, in what was reported as the second such strike in days. The attack came just hours after President Vladimir V. Putin spoke at an economic forum in the city. Russian authorities described the assault as “unprecedented” and urged residents of Russia’s second-largest city to stay indoors for the first time since the war began.",
+          "group" : "Ukraine strikes Russia",
+          "id" : "0A447DBD-76A0-510B-A091-CC1196730F92",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/ukraine-drone-strike-st-petersburg.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/ukraine-drone-strike-st-petersburg.html"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/05\/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end"
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Trump Says Iran War Is ‘Not a Big Thing’ for U.S. ⁂ Friday briefing: How Gaza, Lebanon and Iran have found themselves caught in an escalation without end"
-        },
+          "titleTR" : "Ukraine launches long-range drone attack on St. Petersburg"
+        }
+      ],
+      "packetSpot" : "It was the second such attack in days and came just hours after President Vladimir V. Putin spoke at an economic forum in the city. ⁂ Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+      "packetTitle" : "Ukraine Strikes St. Petersburg in Long-Range Drone Attack ⁂ Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
         {
-          "atomID" : "2FD5556D-4794-5BBC-8D40-55B95C68975F",
-          "category" : "Diplomacy",
-          "descriptionTR" : "New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues. ⁂ Nauran government says its citizens are ‘friendly’ after MP spoke of serious threats allegedly made against former detainees\n\t•\tFollow our Australia news live blog for latest updates\n\t•\tGet our breaking news email, free app or daily news podcast\nThe Nauruan government has issued a rare statement insisting it is a “friendly” and “welcoming” country after a whistleblower alleged “serious threats of physical violence” were made against a group of non-citizens removed there by the Albanese government.\nThe unexpected defence, sent shortly after midday on Thursday, was mounted hours after the independent MP Andrew Wilkie used his three-minute constituency statement to read claims from an anonymous whistleblower familiar with the arrangements of the secretive $2.5bn deal between Australia and Nauru.\nContinue reading...",
-          "group" : "",
-          "id" : "2FD5556D-4794-5BBC-8D40-55B95C68975F",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "atomID" : "E5F9592A-2321-5587-B271-892A5F3DDB2D",
+          "category" : "Security",
+          "descriptionTR" : "In the occupied West Bank, a seven-month-old baby was killed when Israeli troops fired on a car, Palestinian officials said. The Israeli military said a soldier opened fire after troops perceived a vehicle accelerating toward them, while the baby’s grandmother, who was in the car, disputed that account. The boy was later buried in a funeral attended by family, with his shrouded body wrapped in a Palestinian flag and carried by his father to the graveyard.",
+          "group" : "West Bank civilian killing",
+          "id" : "E5F9592A-2321-5587-B271-892A5F3DDB2D",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cly8lgn0x30o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Israeli troops kill seven-month-old baby in West Bank shooting"
+        }
+      ],
+      "packetSpot" : "Israel’s military said a soldier opened fire after Israeli troops “perceived a vehicle accelerating toward them.” The baby’s grandmother, who was in the car, disputed that account. ⁂ The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard. ⁂ The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "packetTitle" : "Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say ⁂ Funeral held for baby shot dead by Israeli troops in occupied West Bank ⁂ Lebanese general among three soldiers killed in Israeli attack on car",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "F2616A2C-952F-5A0F-A07C-011AE8545816",
+          "category" : "Security",
+          "descriptionTR" : "New Zealand’s foreign minister said he was surprised to learn that four lawmakers have been banned from traveling to China for one year after a visit to Taiwan, with a spokesperson noting that New Zealand lawmakers have visited Taiwan for years without issue.",
+          "group" : "US Israel espionage",
+          "id" : "F2616A2C-952F-5A0F-A07C-011AE8545816",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/australia\/new-zealand-taiwan-china-travel-ban.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1426,58 +816,176 @@
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/australia-news\/2026\/jun\/04\/nauru-issues-rare-statement-after-whistleblower-alleges-violent-threats-against-non-citizens-ntwnfb"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/pentagon-sees-growing-espionage-threat-from-israel.html"
             }
           ],
-          "titleTR" : "Four New Zealand Lawmakers Banned From China After Taiwan Trip ⁂ Nauru issues rare statement after whistleblower alleges violent threats against Australia’s non-citizens"
+          "titleTR" : "China Bans Four New Zealand Lawmakers After Taiwan Trip"
         }
       ],
-      "packetSpot" : "Will the EU open its doors to new members? What are the stakes of Xi Jinping's visit to North Korea? How is the Iran conflict impacting regional stability?",
-      "packetTitle" : "Diplomatic Shifts: EU Enlargement and Asian Strategic Moves",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues. ⁂ The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.",
+      "packetTitle" : "Four New Zealand Lawmakers Banned From China After Taiwan Trip ⁂ Trump’s Defense Department Sees Growing Espionage Threat From Israel",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
-      "slot" : 16
+      "slot" : 26
     },
     {
       "items" : [
         {
-          "atomID" : "CD1BE132-D403-503F-A507-10D50FB5C71E",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
           "category" : "Health",
-          "descriptionTR" : "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says. ⁂ News of Crown Princess Mette-Marit’s worsening condition comes as a number of scandals have plunged the royal family into a deep crisis.",
-          "group" : "",
-          "id" : "CD1BE132-D403-503F-A507-10D50FB5C71E",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "descriptionTR" : "Severe heat waves have been hitting India since April, forcing many of the country’s essential workers to make tough decisions.",
+          "group" : "Delhi heat workers",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss"
-            },
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html"
+            }
+          ],
+          "titleTR" : "Laboring Under Delhi’s Harsh Heat, Workers Must Choose Health or Wages"
+        }
+      ],
+      "packetSpot" : "Severe heat waves have been hitting India since April, forcing many of the country’s essential workers to make tough decisions.",
+      "packetTitle" : "Laboring Under Delhi’s Harsh Heat, Workers Must Choose Health or Wages",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 27
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "category" : "Health",
+          "descriptionTR" : "News of Crown Princess Mette-Marit’s worsening condition comes as a number of scandals have plunged the royal family into a deep crisis.",
+          "group" : "Norway royal health crisis",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "New York Times",
               "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html"
             }
           ],
-          "titleTR" : "Norway's crown princess on lung transplant waiting list, palace says ⁂ Crown Princess Mette-Marit of Norway Is Placed on Lung Transplant List"
-        },
+          "titleTR" : "Crown Princess Mette-Marit of Norway Is Placed on Lung Transplant List"
+        }
+      ],
+      "packetSpot" : "News of Crown Princess Mette-Marit’s worsening condition comes as a number of scandals have plunged the royal family into a deep crisis.",
+      "packetTitle" : "Crown Princess Mette-Marit of Norway Is Placed on Lung Transplant List",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 28
+    },
+    {
+      "items" : [
         {
-          "atomID" : "24F2A295-B7EA-5967-BE3C-1BF267AE1E39",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
           "category" : "Health",
-          "descriptionTR" : "Mining has been the lifeblood of this remote Congolese hill town for decades. Now, it is fueling the spread of a devastating virus. ⁂ Our chief Africa correspondent, Declan Walsh, reports from the epicenter of the Ebola outbreak on how the gold mining industry and the outbreak are linked. ⁂ In a remote mining town at the center of the Democratic Republic of Congo’s Ebola outbreak, grief and mistrust are complicating efforts to stop the virus. Health workers are trying to treat the ill and bury the dead, but some residents are still in denial that the disease is even real. ⁂ Despite long-established procedures for bringing Americans home for monitoring and treatment, the Trump administration has not said that it will allow those at risk of Ebola back into the country. ⁂ Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’ but that the response was catching up\nThe Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organization said, giving the virus “a big head start”.\nDr Tedros Adhanom Ghebreyesus also said the response was being hindered by blanket travel restrictions and highlighted high levels of community mistrust and low levels of contact tracing as key concerns.\nContinue reading... ⁂ Islamic State-linked militia blamed for raids in North Kivu as governor says three patients with disease fled clinics\nRebel attacks around a town that is one of the centres of the Ebola outbreak in the Democratic Republic of the Congo have left more than 30 people dead over the past few days, complicating the response to the disease.\nAt least 10 people were massacred in raids on three villages around the city of Beni, in North Kivu, in the early hours of Wednesday morning.\nContinue reading...",
-          "group" : "",
-          "id" : "24F2A295-B7EA-5967-BE3C-1BF267AE1E39",
-          "link" : "",
-          "newsValue" : 0,
-          "publishedAt" : "2026-06-05T23:44:21Z",
+          "descriptionTR" : "Light pollution prompts plants to shed pollen longer and stronger, according to new research.",
+          "group" : "Light pollution health effects",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html"
+            }
+          ],
+          "titleTR" : "Urban Light Pollution Might Be Worsening Allergies"
+        }
+      ],
+      "packetSpot" : "Light pollution prompts plants to shed pollen longer and stronger, according to new research.",
+      "packetTitle" : "Urban Light Pollution Might Be Worsening Allergies",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 29
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
+          "category" : "Health",
+          "descriptionTR" : "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
+          "group" : "Screwworm outbreak response",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Canada bans Texas cattle over flesh-eating screwworm outbreak in US"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
+          "category" : "Health",
+          "descriptionTR" : "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+          "group" : "Screwworm outbreak response",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "US plans to fight flesh-eating screwworm outbreak with flies and dogs"
+        }
+      ],
+      "packetSpot" : "The United States is addressing a flesh-eating screwworm outbreak by employing flies and dogs to combat the spread. In response, Canada has implemented a ban on cattle imports from Texas to prevent the outbreak from crossing borders.",
+      "packetTitle" : "Response to Screwworm Outbreak in the US",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 30
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "4077E9C4-20F4-52BD-A55B-ED8097374D15",
+          "category" : "Health",
+          "descriptionTR" : "Aid agencies are racing to support health workers in the Democratic Republic of Congo as an Ebola outbreak spreads in a remote mining town in the east. The virus has been confirmed in 380 cases, with at least 84 deaths reported, though the true toll may be higher. Reporting from the epicenter links the outbreak to gold mining, which has long been the lifeblood of the hill town and is now helping drive the spread of the virus. Health workers are treating the sick and burying the dead, but grief, mistrust and denial among some residents are complicating containment efforts. The outbreak comes as the world has improved vaccine development and coordination since 2014-2016, while China is seen as well positioned to help fill a gap left by U.S. retreat.",
+          "group" : "Ebola and mining",
+          "id" : "4077E9C4-20F4-52BD-A55B-ED8097374D15",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
               "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/africa\/congo-ebola-gold-mine.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/05\/17\/world\/africa\/what-to-know-ebola-africa.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html"
             },
             {
               "originalLanguage" : "en",
@@ -1491,28 +999,717 @@
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/03\/us\/politics\/trump-administration-ebola-response.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/03\/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jun\/04\/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response"
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "The Gold Mines at the Heart of This Ebola Outbreak ⁂ How Ebola Spreads Through Gold Mining ⁂ Mistrust Spreads With the Ebola Virus in Congo ⁂ As Ebola Outbreak Widens, Trump Has Yet to Outline a Plan ⁂ DRC Ebola outbreak could have begun as early as January, WHO chief says ⁂ Rebel attacks in eastern DRC kill 30 people and hamper Ebola response"
+          "titleTR" : "Ebola outbreak in eastern Congo linked to gold mining as aid agencies race to respond"
         }
       ],
-      "packetSpot" : "Will Norway's royal family face a health crisis? How is the Ebola outbreak linked to gold mining in DRC?",
-      "packetTitle" : "Health Challenges from Norway to the Congo",
-      "publishedAt" : "2026-06-05T23:44:21Z",
+      "packetSpot" : "China is well positioned to help stop the deadly virus, and could move into a gap left by U.S. retreat. ⁂ Mining has been the lifeblood of this remote Congolese hill town for decades. Now, it is fueling the spread of a devastating virus. ⁂ Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 84, but the true toll may be far higher. ⁂ The vaccine development process and coordination between health organizations have improved since a devastating 2014-2016 outbreak. ⁂ Our chief Africa correspondent, Declan Walsh, reports from the epicenter of the Ebola outbreak on how the gold mining industry and the outbreak are linked. ⁂ In a remote mining town at the center of the Democratic Republic of Congo’s Ebola outbreak, grief and mistrust are complicating efforts to stop the virus. Health workers are trying to treat the ill and bury the dead, but some residents are still in denial that the disease is even real. ⁂ There are now 380 confirmed cases of Ebola in DR Congo, far lower than initial estimates of suspected cases, writes Fergus Walsh.",
+      "packetTitle" : "As Ebola Spreads in East Africa, Will China Step Up? ⁂ The Gold Mines at the Heart of This Ebola Outbreak ⁂ What to Know About the Ebola Outbreak ⁂ The World Has Learned From the Last Ebola Outbreak, but Gaps Remain ⁂ How Ebola Spreads Through Gold Mining ⁂ Mistrust Spreads With the Ebola Virus in Congo ⁂ Fall in official Ebola numbers appears to be good news but it's not that simple",
+      "publishedAt" : "2026-06-07T00:19:53Z",
       "sessionID" : "publish-draft",
-      "slot" : 17
+      "slot" : 31
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html",
+          "category" : "Culture",
+          "descriptionTR" : "Nearly 40,000 fans came out to hear the rapper formerly known as Kanye West in the Netherlands on Saturday, even as other European countries had canceled his concerts.",
+          "group" : "Ye Europe concerts",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html"
+            }
+          ],
+          "titleTR" : "Despite Protest, Ye Takes the Stage for Thousands of European Fans"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "category" : "Culture",
+          "descriptionTR" : "Lawmakers and Jewish groups lodged protests over the rapper’s history of antisemitism. But those sensitivities ran headlong into the Netherlands’ robust free speech protections.",
+          "group" : "Ye Europe concerts",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html"
+            }
+          ],
+          "titleTR" : "Ye Concerts Have Been Canceled Across Europe. Why Not in the Netherlands?"
+        }
+      ],
+      "packetSpot" : "Despite protests and cancellations in other parts of Europe, Ye's concerts in the Netherlands continue to draw large crowds. The situation has sparked debate among lawmakers and Jewish groups, questioning why these events have not been canceled as elsewhere.",
+      "packetTitle" : "Controversy Surrounding Ye's Concerts in the Netherlands",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 32
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html",
+          "category" : "Culture",
+          "descriptionTR" : "Long seen as the cool, coifed wife of the president, she emerged as a political player in her own right, as well as a relentless champion of charities.",
+          "group" : "French political legacy",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html"
+            }
+          ],
+          "titleTR" : "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93"
+        }
+      ],
+      "packetSpot" : "Long seen as the cool, coifed wife of the president, she emerged as a political player in her own right, as well as a relentless champion of charities.",
+      "packetTitle" : "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 33
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "category" : "Culture",
+          "descriptionTR" : "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.",
+          "group" : "Persepolis author death",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html"
+            }
+          ],
+          "titleTR" : "Marjane Satrapi, Artist and Author of ‘Persepolis,’ Dies at 56"
+        }
+      ],
+      "packetSpot" : "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.",
+      "packetTitle" : "Marjane Satrapi, Artist and Author of ‘Persepolis,’ Dies at 56",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 34
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
+          "category" : "Culture",
+          "descriptionTR" : "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+          "group" : "Anthony Head obituary",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "From Nescafe to Ted Lasso: Anthony Head's life in pictures"
+        }
+      ],
+      "packetSpot" : "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+      "packetTitle" : "From Nescafe to Ted Lasso: Anthony Head's life in pictures",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 35
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
+          "category" : "Culture",
+          "descriptionTR" : "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
+          "group" : "Reflecting Pool renovation",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 1,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "'It looks black' - Americans react to Reflecting Pool's completed paint job"
+        }
+      ],
+      "packetSpot" : "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
+      "packetTitle" : "'It looks black' - Americans react to Reflecting Pool's completed paint job",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 36
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "category" : "Law",
+          "descriptionTR" : "A federal judge has ruled that David Rush, the C.I.A. employee, must remain in detention. U.S. officials say Mr. Rush funneled millions in federal funds to himself.",
+          "group" : "CIA fraud case",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html"
+            }
+          ],
+          "titleTR" : "C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program"
+        }
+      ],
+      "packetSpot" : "A federal judge has ruled that David Rush, the C.I.A. employee, must remain in detention. U.S. officials say Mr. Rush funneled millions in federal funds to himself.",
+      "packetTitle" : "C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 37
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
+          "category" : "Law",
+          "descriptionTR" : "Activists who were detained with a flotilla trying to reach the Gaza Strip have said they were abused while in Israel’s custody. Israeli authorities have denied mistreating them.",
+          "group" : "Gaza flotilla investigation",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html"
+            }
+          ],
+          "titleTR" : "France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists"
+        }
+      ],
+      "packetSpot" : "Activists who were detained with a flotilla trying to reach the Gaza Strip have said they were abused while in Israel’s custody. Israeli authorities have denied mistreating them.",
+      "packetTitle" : "France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 38
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "category" : "Psychology",
+          "descriptionTR" : "The tension between sticking to what we know and seeking out new experiences is one of comfort versus novelty. How can we have both?",
+          "group" : "Comfort versus novelty",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html"
+            }
+          ],
+          "titleTR" : "Balancing Act"
+        }
+      ],
+      "packetSpot" : "The tension between sticking to what we know and seeking out new experiences is one of comfort versus novelty. How can we have both?",
+      "packetTitle" : "Balancing Act",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 39
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
+          "category" : "Sports",
+          "descriptionTR" : "Staggering ticket prices and lackluster matches have left thousands of seats in Toronto and Vancouver unsold just days before the tournament kicks off.",
+          "group" : "Canada World Cup interest",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html"
+            }
+          ],
+          "titleTR" : "The World Cup Comes to Canada. But Does Anyone Care?"
+        }
+      ],
+      "packetSpot" : "Staggering ticket prices and lackluster matches have left thousands of seats in Toronto and Vancouver unsold just days before the tournament kicks off.",
+      "packetTitle" : "The World Cup Comes to Canada. But Does Anyone Care?",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 40
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "category" : "Sports",
+          "descriptionTR" : "Dawa Sherpa, 57, was found alive on Thursday, nearly a week after he was last seen on the mountain. His wife says more could have been done to find him sooner.",
+          "group" : "Everest rescue dispute",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html"
+            }
+          ],
+          "titleTR" : "A Sherpa Survived 6 Days Alone on Everest. His Family Says He Was Abandoned."
+        }
+      ],
+      "packetSpot" : "Dawa Sherpa, 57, was found alive on Thursday, nearly a week after he was last seen on the mountain. His wife says more could have been done to find him sooner.",
+      "packetTitle" : "A Sherpa Survived 6 Days Alone on Everest. His Family Says He Was Abandoned.",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 41
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "category" : "Sports",
+          "descriptionTR" : "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
+          "group" : "French Open shakeup",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html"
+            }
+          ],
+          "titleTR" : "Tennis Giants Tumble"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
+          "category" : "Sports",
+          "descriptionTR" : "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.",
+          "group" : "French Open breakthrough",
+          "id" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
+          "link" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Andreeva wins French Open as Chwalinska fairytale ends"
+        }
+      ],
+      "packetSpot" : "The French Open witnessed significant upsets as top players were unexpectedly defeated. In a remarkable turn of events, Mirra Andreeva emerged victorious, while Maja Chwalinska's impressive run came to an end.",
+      "packetTitle" : "Upsets and Triumphs at the French Open",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 42
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/",
+          "category" : "Sports",
+          "descriptionTR" : "The Italian Carlo Ancelotti, the most decorated club coach in soccer history, is the first foreigner to lead the most successful nation.",
+          "group" : "Brazil coaching reset",
+          "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/",
+          "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/"
+            }
+          ],
+          "titleTR" : "Brazil, 24 years from a World Cup title, looks to a foreigner to rediscover its soul"
+        }
+      ],
+      "packetSpot" : "The Italian Carlo Ancelotti, the most decorated club coach in soccer history, is the first foreigner to lead the most successful nation.",
+      "packetTitle" : "Brazil, 24 years from a World Cup title, looks to a foreigner to rediscover its soul",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 43
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "category" : "Royalty",
+          "descriptionTR" : "The queen’s third cousin, she was a bridesmaid at the royal wedding in 1947, and witnessed firsthand pivotal moments in British history.",
+          "group" : "British royal obituary",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html"
+            }
+          ],
+          "titleTR" : "Pamela Hicks, Lady-in-Waiting to Elizabeth II of Britain, Dies at 97"
+        }
+      ],
+      "packetSpot" : "The queen’s third cousin, she was a bridesmaid at the royal wedding in 1947, and witnessed firsthand pivotal moments in British history.",
+      "packetTitle" : "Pamela Hicks, Lady-in-Waiting to Elizabeth II of Britain, Dies at 97",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 44
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "category" : "Royalty",
+          "descriptionTR" : "Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found.",
+          "group" : "Prince Andrew finances",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html"
+            }
+          ],
+          "titleTR" : "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free"
+        }
+      ],
+      "packetSpot" : "Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found.",
+      "packetTitle" : "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 45
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "category" : "Technology",
+          "descriptionTR" : "Scientists and U.S. military briefers have linked short, widespread interference incidents to Russia, revealing vulnerabilities in a technology essential to everyday society.",
+          "group" : "Russia GPS jamming",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html"
+            }
+          ],
+          "titleTR" : "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say"
+        }
+      ],
+      "packetSpot" : "Scientists and U.S. military briefers have linked short, widespread interference incidents to Russia, revealing vulnerabilities in a technology essential to everyday society.",
+      "packetTitle" : "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 46
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "category" : "Technology",
+          "descriptionTR" : "The country on Thursday released a national artificial intelligence strategy that focuses on building its sovereign capability and protecting consumers.",
+          "group" : "Canada AI strategy",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html"
+            }
+          ],
+          "titleTR" : "Wary of U.S., Carney Bets on AI Strategy for Canada"
+        }
+      ],
+      "packetSpot" : "The country on Thursday released a national artificial intelligence strategy that focuses on building its sovereign capability and protecting consumers.",
+      "packetTitle" : "Wary of U.S., Carney Bets on AI Strategy for Canada",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 47
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "category" : "Religion",
+          "descriptionTR" : "The bissus of South Sulawesi are considered a link between the earthly and celestial because they are thought to embody both male and female traits.",
+          "group" : "Indonesian gender priests",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html"
+            }
+          ],
+          "titleTR" : "The Priests Revered in the Land of Five Genders"
+        }
+      ],
+      "packetSpot" : "The bissus of South Sulawesi are considered a link between the earthly and celestial because they are thought to embody both male and female traits.",
+      "packetTitle" : "The Priests Revered in the Land of Five Genders",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 48
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "C926B127-30C5-5556-979D-8CB2DD87AD90",
+          "category" : "Religion",
+          "descriptionTR" : "Pope Leo arrived in Spain on Saturday for a seven-day official visit, his first papal trip to the country in 15 years. He is expected to meet with migrants and asylum seekers, and to use the visit to address political polarization while presenting the Catholic Church as a defender of peace, solidarity and migration. On the first day of the tour, he praised Spain’s “active commitment to peace and solidarity among peoples,” as conservatives and the far-right Vox party are seen as potential sources of criticism.",
+          "group" : "Pope Spain migration tour",
+          "id" : "C926B127-30C5-5556-979D-8CB2DD87AD90",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/pope-leo-visits-spain-conservative-catholics-say-church-is-too-liberal\/"
+            }
+          ],
+          "titleTR" : "Pope Leo begins seven-day Spain visit focused on migrants and polarization"
+        }
+      ],
+      "packetSpot" : "Leo arrived in Spain on Saturday for a weeklong visit in which he will meet with migrants and may come under fire from Vox, Spain’s far-right party. ⁂ On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\". ⁂ On the first papal visit to Spain in 15 years, Leo plans to address political polarization and showcase the Catholic Church as an advocate for migrants and asylum seekers.",
+      "packetTitle" : "Pope Leo, After Taking on Trump and A.I., Prepares for New Duels in Spain ⁂ Pope begins Spain visit with praise for country's opposition to war and support for migrants ⁂ Pope Leo visits a polarized Spain where conservatives are turning on the church",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 49
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.",
+          "group" : "China North Korea ties",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html"
+            }
+          ],
+          "titleTR" : "What To Know as China’s Xi Jinping Heads to North Korea"
+        }
+      ],
+      "packetSpot" : "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.",
+      "packetTitle" : "What To Know as China’s Xi Jinping Heads to North Korea",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 50
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "5DDD30E5-0849-50D3-9947-079712DD10E7",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Iran’s World Cup players have received U.S. visas just days before the tournament begins, ending months of uncertainty over whether they would be allowed to enter. Iranian officials say, however, that technical staff have been denied visas, hours after the U.S. said the players could come in.",
+          "group" : "Iran World Cup visas",
+          "id" : "5DDD30E5-0849-50D3-9947-079712DD10E7",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Iran World Cup players get U.S. visas as staff are denied"
+        }
+      ],
+      "packetSpot" : "After months of doubts over their participation, Iran’s players have received visas for the United States just days before the World Cup begins. ⁂ Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "packetTitle" : "Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied ⁂ Iran says staff blocked from entering US after players given World Cup visas",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 51
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "category" : "Transport",
+          "descriptionTR" : "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation. The plane can weigh 279 tons at takeoff.",
+          "group" : "Boeing 787 accident",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html"
+            }
+          ],
+          "titleTR" : "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers"
+        }
+      ],
+      "packetSpot" : "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation. The plane can weigh 279 tons at takeoff.",
+      "packetTitle" : "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 52
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "category" : "Environment",
+          "descriptionTR" : "A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news.",
+          "group" : "Deep sea mining",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html"
+            }
+          ],
+          "titleTR" : "How One Company Plans to Mine the Bottom of the Sea"
+        }
+      ],
+      "packetSpot" : "A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news.",
+      "packetTitle" : "How One Company Plans to Mine the Bottom of the Sea",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 53
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
+          "category" : "Environment",
+          "descriptionTR" : "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
+          "group" : "Australia mouse plague",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Why are devastating mice plagues happening in Australia?"
+        }
+      ],
+      "packetSpot" : "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
+      "packetTitle" : "Why are devastating mice plagues happening in Australia?",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 54
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
+          "category" : "",
+          "descriptionTR" : "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:19:53Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Rumours and speculation as fans forecast date of Taylor Swift's wedding"
+        }
+      ],
+      "packetSpot" : "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+      "packetTitle" : "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+      "publishedAt" : "2026-06-07T00:19:53Z",
+      "sessionID" : "publish-draft",
+      "slot" : 55
     }
   ],
   "week" : "2026-W22"
