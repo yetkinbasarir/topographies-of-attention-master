@@ -1,0 +1,293 @@
+{
+  "label" : "8–14 HAZIRAN",
+  "publishedAt" : "2026-06-07T23:30:12Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/08\/en-direct-moyen-orient-l-armee-israelienne-dit-attendre-le-feu-vert-des-autorites-pour-frapper-l-iran-avec-force-apres-des-tirs-de-missiles-iraniens-sur-l-etat-hebreu_6697888_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Orduya göre, İsrail'e on bir füze atıldı ve hepsi engellendi. 8 Nisan'da ilan edilen ateşkesten bu yana Tahran'ın İsrail Devleti'ni hedef aldığı ilk olay. İsrail ordusu sözcüsü Tuğgeneral Effie Defrin, \"İran terörist rejimi bir kez daha terörü seçerek büyük bir hata yaptı\" dedi.",
+          "group" : "Iran Israel escalation",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/08\/en-direct-moyen-orient-l-armee-israelienne-dit-attendre-le-feu-vert-des-autorites-pour-frapper-l-iran-avec-force-apres-des-tirs-de-missiles-iraniens-sur-l-etat-hebreu_6697888_3210.html",
+          "link" : "https:\/\/www.zeit.de\/politik\/ausland\/2026-06\/irankrieg-israel-meldet-raketenbeschuss-aus-dem-iran",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T23:30:12Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ZEIT Online",
+              "url" : "https:\/\/www.zeit.de\/politik\/ausland\/2026-06\/irankrieg-israel-meldet-raketenbeschuss-aus-dem-iran"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/iran-launches-missiles-at-israel-in-the-first-such-bombardment-since-a-ceasefire-in-april"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/08\/en-direct-moyen-orient-l-armee-israelienne-dit-attendre-le-feu-vert-des-autorites-pour-frapper-l-iran-avec-force-apres-des-tirs-de-missiles-iraniens-sur-l-etat-hebreu_6697888_3210.html"
+            }
+          ],
+          "titleTR" : "ORTADOĞU CANLI: İran'ın İsrail Devleti'ne füze atışlarının ardından, İsrail ordusu yetkililerden \"güçlü bir şekilde\" İran'ı vurmak için \"yeşil ışık\" beklediğini söyledi."
+        }
+      ],
+      "packetSpot" : "İran, Nisan ayında yapılan ateşkesten bu yana ilk kez İsrail'e füze fırlattı ve bu durum İsrail ordusunun olası bir misillemesiyle sonuçlanabilir.",
+      "packetTitle" : "İran İsrail'e Füze Fırlattı, İsrail Ordusu Misilleme Emrini Bekliyor",
+      "publishedAt" : "2026-06-07T23:30:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "category" : "Politics",
+          "descriptionTR" : "Seçmenler, Rusya yanlısı muhalefet ile Batı'ya daha yakın olan mevcut Nikol Paşinyan arasında seçim yapacak. Ermeniler, ülkenin Avrupa'ya doğru kayışını ve geleneksel Rusya ittifakından uzaklaşmasını pekiştirebilecek bir seçimin sonuçlarını bekliyor. Başbakan Nikol Paşinyan'ın Sivil Sözleşme partisi, Moskova ile daha yakın bağlar savunan üç muhalefet adayının önünde favori olarak Pazar günü oy kullanmaya girdi. Paşinyan'ın ana rakibi, servetinin büyük bir kısmını Rusya'da inşa eden Rus-Ermeni milyarder Samvel Karapetyan, kampanyasını Yerevan dışındaki malikanesinde ev hapsinde sürdürmek zorunda kaldı.",
+          "group" : "Armenia election alignment",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T23:30:12Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "‘İleriye gitme zamanı’: Ermeniler, Rusya ve AB tarafından yakından izlenen seçimde oy kullanıyor"
+        }
+      ],
+      "packetSpot" : "Ermenistan seçimleri, seçmenlerin Batı yanlısı ve Rusya yanlısı etkiler arasında karar vermesiyle uluslararası ilgi çekiyor. Mevcut Başbakan Nikol Paşinyan, Rusya'dan önemli bir baskı altında.",
+      "packetTitle" : "Ermenistan Seçimleri, Batı Yanlısı ve Rusya Yanlısı Etkiler Arasındaki Gerilimleri Öne Çıkarıyor",
+      "publishedAt" : "2026-06-07T23:30:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "category" : "Culture",
+          "descriptionTR" : "Papa, takipçilerine 'kardeşlerimize, yoksullara, acı çekenlere' adanmaları çağrısında bulundu.\nBir milyondan fazla insan, Amerikan papa Leo'nun Hristiyan değerleri ile aşırı sağ politika arasındaki kopukluğu vurguladığı açık hava ayininde Madrid sokaklarını doldurdu. İbadet edenlere, 'Kimse Rab'bin önünde diz çöküp kardeşini hor göremez' dedi.\nAyine erişim için kuyruklar, Pazar günü güneş doğmadan saatler önce oluşmaya başladı; insanlar, papanın İspanya'ya yaptığı bir haftalık ziyaretin en büyük buluşması olarak lanse edilen etkinlikte yer kapmak için yarıştı.",
+          "group" : "Pope Leo Madrid mass",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T23:30:12Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/religions\/article\/2026\/06\/07\/a-madrid-plus-d-un-million-de-fideles-reunis-pour-la-messe-du-pape-leon-xiv-en-presence-du-roi-felipe-vi_6698788_1653130.html"
+            }
+          ],
+          "titleTR" : "Papa Leo ile Madrid'deki açık hava ayinine bir milyondan fazla kişi katıldı"
+        }
+      ],
+      "packetSpot" : "Papa Leo'nun Madrid'deki açık hava ayini, Hristiyan değerleri ve toplumsal birlik temalarını vurgulayarak bir milyondan fazla katılımcıyı çekti.",
+      "packetTitle" : "Papa Leo'nun Madrid'deki Açık Hava Ayini Bir Milyondan Fazla Katılımcıyı Çekti",
+      "publishedAt" : "2026-06-07T23:30:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/greekreporter.com\/?p=1344385",
+          "category" : "Security",
+          "descriptionTR" : "Yunan makamları, Cumartesi günü Girit, Agios Nikolaos'ta 37 yaşındaki bir Filistinli adamı tutuklayarak İsrailli turistleri taşıyan bir yolcu gemisine patlayıcı yerleştirme planını engelledi. Zanlı, Hamas için çalışmakla suçlanıyor. Yunanistan Ulusal İstihbarat Servisi (EYP) ve Terörle Mücadele Birimi tarafından yürütülen son derece gizli bir ortak operasyonla yakalandı. İstihbarat yetkilileri, hedef alınan yolcu gemisinin Salı günü Girit'e yanaşmasından sadece birkaç gün önce adamı hızla gözaltına aldı. Zanlı, sorgulama sırasında bir saldırı planladığını ancak son anda vazgeçtiğini iddia etse de, Yunan makamları bu tehdidi son derece ciddi olarak değerlendiriyor. Yunanistan'daki Hamas bağlantısının Kıbrıs ile ilişkisi Yunan soruşturmasının başarısı, Kıbrıs ile koordineli bir istihbarat çabasından kaynaklandı. Yaklaşık iki hafta önce, Kıbrıs makamları, Gazze'deki çatışmalar nedeniyle Avrupa Birliği'ndeki İsrail çıkarlarına saldırı planladıklarından şüphelenilen dört kişiyi tutukladı. Kıbrıs'taki soruşturma sırasında, istihbarat görevlileri zanlılara ait cep telefonlarını inceledi. Belirli bir telefon numarası, Yunanistan'daki terörle mücadele birimlerini doğrudan Girit'teki 37 yaşındaki zanlıya yönlendiren kritik bir bağlantı olarak ortaya çıktı. Yunanistan'daki güvenlik hizmetleri, her iki ülkedeki zanlıların Gazze Şeridi dışındaki bir kampta özel eğitim aldıklarını belirtti. Bu eğitim, kimyasal maddeler kullanarak el yapımı patlayıcılar üretmeye odaklanıyordu. Lefkoşa'daki yetkililer, Kıbrıs'ta bulunan grubu derin bir endişe kaynağı olarak değerlendiriyor ve tutuklanan iki kişinin yıllardır Kıbrıs'ta yaşadığını ve hatta Kıbrıs vatandaşlığı aldıklarını belirtiyor. Kıbrıs'taki zanlılardan biri, İsrail hedeflerine saldırı planladığını itiraf etti. Girit'teki zanlı Girit'te tutuklanan adam, yaklaşık bir yıl önce Yunanistan'a geldi ve aktif bir sığınma başvurusu yaptı. Agios Nikolaos'ta bir otelde mevsimlik bir işte çalışarak yerel iş gücüne sessizce entegre oldu. Yerel raporlar, adada ailesi olmadığını ve şüphe uyandırmamak için kasıtlı olarak düşük profilli bir yaşam sürdüğünü belirtiyor. Cumartesi öğleden sonra tutuklanmasının ardından, Yunan terörle mücadele görevlileri, Girit'teki mevcut ikametgahını ve daha önce Atina'nın Patissia semtinde oturduğu bir mülkü aradı. Araştırmacılar, planına karşı delil olarak kullanılabilecek birkaç eşyaya el koydu. Bunlar arasında kimyasal maddeler ve laboratuvar ölçüm ekipmanları, bir dizi cep telefonu, dizüstü bilgisayarlar ve USB veri depolama cihazları ile banka kartları ve mali belgeler bulunuyor. Baskınlar sırasında monte edilmiş patlayıcı cihazlar veya ateşli silahlar bulunamadı. İstihbarat değerlendirmeleri, zanlının planın son hazırlık aşamalarında olduğunu ancak nihai patlayıcı bileşenleri sipariş etmeden önce yakalandığını gösteriyor. 37 yaşındaki zanlı gözaltında tutulmaya devam ediyor ve bir kamu savcısının önüne çıkması planlanıyor. Yunanistan'ın EYP ve Terörle Mücadele Birimi, zanlının hareketlerini, iletişimlerini ve potansiyel yerel bağlantılarını izleyerek Yunanistan'da tek başına hareket edip etmediğini doğrulamaya çalışıyor.",
+          "group" : "Hamas plot in Crete",
+          "id" : "https:\/\/greekreporter.com\/?p=1344385",
+          "link" : "https:\/\/greekreporter.com\/2026\/06\/07\/hamas-crete-israeli-cruise-ship-bomb\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T23:30:12Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Greek Reporter",
+              "url" : "https:\/\/greekreporter.com\/2026\/06\/07\/hamas-crete-israeli-cruise-ship-bomb\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/crete-palestinian-arrested-over-alleged-hamas-links-and-possible-terror-plot"
+            }
+          ],
+          "titleTR" : "Girit'te İsrail Yolcu Gemisine Bomba Koyma Planıyla İlgili Hamas Şüphelisi Tutuklandı"
+        }
+      ],
+      "packetSpot" : "Yunan makamları, Kıbrıs istihbaratıyla koordinasyon içinde, Hamas bağlantılı bir terör saldırısı planladığından şüphelenilen bir Filistinliyi Girit'te tutukladı.",
+      "packetTitle" : "Girit'te Hamas Bağlantılı Terör Planı İddiasıyla Filistinli Tutuklandı",
+      "publishedAt" : "2026-06-07T23:30:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/08\/en-direct-guerre-en-ukraine-la-france-l-allemagne-et-le-royaume-uni-disent-soutenir-la-proposition-de-volodymyr-zelensky-d-ouvrir-un-dialogue-direct-entre-kiev-et-moscou_6698620_3210.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "\"Mevcut temas hattı müzakereler için başlangıç noktası olarak hizmet etmelidir. Uluslararası sınırlar zorla değiştirilmemelidir,\" ifadelerini Emmanuel Macron, Friedrich Merz ve Keir Starmer, Ukrayna Devlet Başkanı ile ortak bir açıklamada da belirtti. Fransız, Alman ve Ukraynalı liderler, İngiltere Başbakanı tarafından Londra'da kabul edildi.",
+          "group" : "Ukraine peace talks",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/08\/en-direct-guerre-en-ukraine-la-france-l-allemagne-et-le-royaume-uni-disent-soutenir-la-proposition-de-volodymyr-zelensky-d-ouvrir-un-dialogue-direct-entre-kiev-et-moscou_6698620_3210.html",
+          "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T23:30:12Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/08\/en-direct-guerre-en-ukraine-la-france-l-allemagne-et-le-royaume-uni-disent-soutenir-la-proposition-de-volodymyr-zelensky-d-ouvrir-un-dialogue-direct-entre-kiev-et-moscou_6698620_3210.html"
+            }
+          ],
+          "titleTR" : "CANLI, Ukrayna savaşı: Fransa, Almanya ve Birleşik Krallık, Volodymyr Zelensky'nin Kiev ile Moskova arasında \"doğrudan diyalog\" önerisini desteklediklerini söylüyor"
+        }
+      ],
+      "packetSpot" : "Avrupalı liderler ve Donald Trump, Zelensky'nin Rusya ile doğrudan barış görüşmeleri önerisini destekliyor.",
+      "packetTitle" : "Zelensky'nin Ukrayna-Rusya Barış Görüşmeleri Teklifine Uluslararası Destek",
+      "publishedAt" : "2026-06-07T23:30:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "{urn:uuid:16e064b4-4e20-4ced-9eab-24cf296bc724}",
+          "category" : "Politics",
+          "descriptionTR" : "İlk tahminler, Ermenistan Başbakanı Nikol Paşinyan'ın partisinin önde olduğunu gösteriyor. Rusya yanlısı Güçlü Ermenistan Partisi ikinci sırada yer alıyor.",
+          "group" : "Armenia election shift",
+          "id" : "{urn:uuid:16e064b4-4e20-4ced-9eab-24cf296bc724}",
+          "link" : "https:\/\/www.zeit.de\/politik\/ausland\/2026-06\/armenien-parlamentswahl-nikol-paschinjan-karapetjan-ergebnis",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T23:30:12Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ZEIT Online",
+              "url" : "https:\/\/www.zeit.de\/politik\/ausland\/2026-06\/armenien-parlamentswahl-nikol-paschinjan-karapetjan-ergebnis"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future"
+            }
+          ],
+          "titleTR" : "Ermenistan: Ermenistan Seçimlerinde Batı Yanlısı Hükümet Önde"
+        }
+      ],
+      "packetSpot" : "Ermenistan seçimlerinde Başbakan Nikol Paşinyan'ın Batı yanlısı partisi önde giderken, Rusya yanlısı Güçlü Ermenistan Partisi geride kalıyor.",
+      "packetTitle" : "Ermenistan Seçimi: Bölgesel Gerilimler Arasında Batı Yanlısı Parti Önde",
+      "publishedAt" : "2026-06-07T23:30:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "category" : "Environment",
+          "descriptionTR" : "Bu hafta Arnavutluk'un başkenti Tiran'da, Donald Trump'ın damadı Jared Kushner tarafından desteklenen planlı bir lüks tatil köyüne karşı binlerce kişi sokaklarda protesto düzenledi.\n1.6 milyar dolarlık kompleksin, Akdeniz'in çevresel olarak en hassas bölgelerinden biri olarak görülen ve flamingolar ile Dalmaçyalı pelikanlar dahil 200 kuş türünü barındıran bir alanda inşaatına başlandı.\n\nİnşaatçılar, alanın etrafına beton temelli, dikenli tellerle kaplı bir çit dikmeye başladıktan sonra, çevresel zarar ve anlaşmanın siyasi şeffaflık eksikliği konusundaki endişeler, halkın öfkesine dönüştü.\n\nLucy Hough, ABD canlı haber editörü Chris Michael ile konuşuyor.",
+          "group" : "Kushner Albania resort",
+          "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T23:30:12Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest"
+            }
+          ],
+          "titleTR" : "Arnavutluk'ta Kushner-Trump 1.6 milyar dolarlık lüks tatil köyü planına öfke - Son Gelişmeler"
+        }
+      ],
+      "packetSpot" : "Arnavutluk'ta Jared Kushner ile bağlantılı bir lüks tatil köyü projesine karşı protestolar patlak verdi, çevresel kaygılar ve siyasi şeffaflık konularında halkın öfkesini tetikledi.",
+      "packetTitle" : "Arnavutluk'ta Kushner Bağlantılı Lüks Tatil Köyüne Karşı Protestolar ve Öfke",
+      "publishedAt" : "2026-06-07T23:30:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
+          "category" : "Law",
+          "descriptionTR" : "Yerel bir adam, cinayetten aylar önce tecavüzle suçlanmıştı ancak bir dizi gecikme nedeniyle polis onu sorguya çağırmayı başaramadı. 11 yaşındaki bir okul kızının cinayeti, polisin daha önceki çocuk cinsel istismarı iddiaları hakkında zanlıyı sorguya çekemediği ortaya çıkınca geniş çapta öfkeye neden oldu. Kızın sadece Lyhanna olarak bilinen ailesi, pazar günü güneybatıdaki Fleurance köyünde \"Bir daha asla\" yazılı bir pankartın arkasında korteje öncülük etti. Yürüyenlerin çoğu, çocuklar da dahil olmak üzere, beyaz gömlek veya tişört giydi, birçoğu genç kurbanın gülümseyen bir portresini taşıyordu.",
+          "group" : "French child murder case",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T23:30:12Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/thousands-march-for-french-schoolgirl-murdered-after-police-failed-to-question-suspect"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Polis zanlıyı sorguya çekemeyince öldürülen Fransız okul kızı için binler yürüdü"
+        }
+      ],
+      "packetSpot" : "11 yaşındaki Fransız bir okul kızının öldürülmesi, zanlının önceki iddialarını ele alış biçimindeki polis başarısızlıklarını vurgulayarak kamuoyunda öfke ve protestolara neden oldu.",
+      "packetTitle" : "Fransa'da Okul Kızının Cinayeti ve Polis Başarısızlıkları Üzerine Kamuoyu Tepkisi ve Protestolar",
+      "publishedAt" : "2026-06-07T23:30:12Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    }
+  ],
+  "week" : "2026-W25"
+}
