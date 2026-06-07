@@ -1,0 +1,404 @@
+{
+  "label" : "1–7 HAZIRAN",
+  "publishedAt" : "2026-06-07T18:44:35Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "category" : "Culture",
+          "descriptionTR" : "Plus de 1,2 million de fidèles ont envahi les rues du centre de Madrid dimanche pour une messe célébrée par Léon XIV, au cours de laquelle le pape a appelé à un renouveau de la foi catholique en Espagne.",
+          "group" : "Papal visit Madrid",
+          "id" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "link" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/religions\/article\/2026\/06\/07\/a-madrid-plus-d-un-million-de-fideles-reunis-pour-la-messe-du-pape-leon-xiv-en-presence-du-roi-felipe-vi_6698788_1653130.html"
+            }
+          ],
+          "titleTR" : "VIDÉO. 1,2 million de fidèles pour la messe du pape à Madrid"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "category" : "Culture",
+          "descriptionTR" : "The pontiff is set to deliver a mass in the centre of Madrid before moving elsewhere in Spain to Barcelona and the Canary islands. Pope Leo XIV is also expected to deliver an unprecedented address to the Spanish parliament, where immigration is expected to take centre stage.",
+          "group" : "Papal visit Spain",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1"
+            }
+          ],
+          "titleTR" : "Pope Leo XIV calls for 'end to polarisation' as he makes the first papal visit to Spain in 15 years"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo#0",
+          "category" : "Culture",
+          "descriptionTR" : "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+          "group" : "Papal Madrid mass",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Huge crowds throng Madrid streets for Pope's open-air Mass"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "category" : "Culture",
+          "descriptionTR" : "Pontiff urges followers to dedicate themselves ‘to our brothers and sisters, to the poor, to those who suffer’\nMore than a million people filled the streets of Madrid to join Pope Leo in an open-air mass where the American pontiff appeared to emphasise the disconnect between Christian values and far-right politics, telling worshippers: “No one can kneel before the Lord and despise their brother.”\nQueues to access the mass began forming hours before the sun rose on Sunday as people scrambled to secure a spot for what was billed as the biggest gathering of the pope’s week-long visit to Spain.\nContinue reading...",
+          "group" : "Madrid papal mass",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid"
+            }
+          ],
+          "titleTR" : "More than 1 million join Pope Leo for outdoor mass in Madrid"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "category" : "Diplomacy",
+          "descriptionTR" : "The trip comes just weeks after Xi separately hosted US President Donald Trump and Russian President Vladimir Putin in Beijing.",
+          "group" : "Xi North Korea visit",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years"
+            }
+          ],
+          "titleTR" : "Xi Jinping set for North Korea trip on Monday in first visit to Pyongyang in seven years"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Le président chinois doit effectuer, lundi et mardi, sa première visite en Corée du Nord depuis 2019. Alors que la coopération entre Pyongyang et Moscou s’est renforcée depuis la guerre en Ukraine, Pékin tient à réaffirmer sa position centrale dans la région.",
+          "group" : "China North Korea ties",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html"
+            }
+          ],
+          "titleTR" : "Xi Jinping se rend dans une Corée du Nord de plus en plus proche de la Russie"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "category" : "Politics",
+          "descriptionTR" : "Armenians will decide their future on Sunday against the backdrop of a Russia-West clash, as both the EU and the US support PM Pashinyan’s cautious pro-Western drive, while Russia embarked on an onslaught of economic and political pressures on Yerevan to keep the former Soviet state in its orbit.",
+          "group" : "Armenia election geopolitics",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+            }
+          ],
+          "titleTR" : "Armenia goes to polls in pivotal vote to decide South Caucasus future"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "category" : "Politics",
+          "descriptionTR" : "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+          "group" : "Armenia election pressure",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Armenia votes as Russia piles pressure on pro-West government"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "category" : "Politics",
+          "descriptionTR" : "Voters to choose between pro-Russian opposition and incumbent Nikol Pashinyan, who is more closely aligned with the west\nArmenians are awaiting the results of an election that could cement the country’s shift towards Europe and away from its traditional alliance with Russia.\nPrime minister Nikol Pashinyan’s Civil Contract party entered the vote on Sunday as the favourite, ahead of three opposition candidates who advocate for closer ties with Moscow. Pashinyan’s main challenger, Samvel Karapetyan, a Russian-Armenian billionaire who built much of his fortune in Russia, was forced to campaign from house arrest at his mansion outside Yerevan.\nContinue reading...",
+          "group" : "Armenia westward shift",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu"
+            }
+          ],
+          "titleTR" : "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "category" : "Security",
+          "descriptionTR" : "Attack was ‘extremely vile’ and deliberate, says Ukraine’s president Volodymyr Zelenskyy\n\nA Russian Shahed drone has substantially damaged a building used to store spent nuclear fuel close to the disused Chornobyl nuclear power plant, in what Ukraine’s president described as a deliberate and “extremely vile” attack.\nWhile the structure – the reception building of the spent fuel storage facility – was empty of containers at the time, the targeting of the sensitive site appeared to be direct messaging from Moscow amid an intensifying battle of long-range aerial strikes in which high-profile locations on both sides have been hit.\nContinue reading...",
+          "group" : "Chornobyl nuclear strike",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"
+            }
+          ],
+          "titleTR" : "Russian drone hits building storing spent nuclear fuel near Chornobyl"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Un dépôt de combustible nucléaire usé de Tchernobyl a été pris pour cible dimanche par les forces russes. Volodymyr Zelensky a rassuré sur l’absence de dépassement du niveau de radioactivité, précisant que les secouristes ukrainiens avaient maîtrisé l’incendie consécutif à l’impact.",
+          "group" : "Ukraine war escalation",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html"
+            }
+          ],
+          "titleTR" : "EN DIRECT, guerre en Ukraine : les dernières informations"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "category" : "Environment",
+          "descriptionTR" : "Video shows security personnel arguing with demonstrators before pushing one protester to the ground and dragging him away. The incident took place during a rally organised by environmental groups opposing a luxury resort project linked to Jared Kushner, the son-in-law of US President Donald Trump.",
+          "group" : "Albania resort protests",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project"
+            }
+          ],
+          "titleTR" : "Clash at protest against Kushner linked Albania resort project"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o#1",
+          "category" : "Environment",
+          "descriptionTR" : "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment.",
+          "group" : "Kushner Albania resort",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Kushner-backed luxury resort plan sparks protests in Albania"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "category" : "Environment",
+          "descriptionTR" : "Thousands have protested in the streets of the Albanian capital, Tirana, this week against a planned luxury resort backed by Donald Trump’s son-in-law Jared Kushner.\nGroundwork has begun on the $1.6bn complex in an area long seen as one of the Mediterranean’s most environmentally sensitive, containing 200 species of birds including flamingos and Dalmatian pelicans.\n\nAfter builders began erecting a concrete-based, barbed wire-topped fence around the site, alarm turned to public outrage at the environmental damage and lack of political transparency around the deal.\n\nLucy Hough speaks to US live news editor Chris Michael.\nContinue reading...",
+          "group" : "Albania resort protest",
+          "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest"
+            }
+          ],
+          "titleTR" : "Outrage in Albania over Kushner-Trump $1.6bn luxury resort - The Latest"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "category" : "Security",
+          "descriptionTR" : "The cargo vessels Natra and Zirkon — both bearing hallmarks of Russia's shadow fleet and heading to load grain at a port linked to looted Ukrainian supplies — were struck overnight near Taganrog.",
+          "group" : "Sea of Azov strikes",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov"
+            }
+          ],
+          "titleTR" : "Five sailors killed as cargo ships struck in Sea of Azov"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "category" : "Security",
+          "descriptionTR" : "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+          "group" : "Black Sea drone warfare",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ukraine strikes cargo ships and admits Romania drone blast"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "En dépit de la trêve conclue en octobre 2025, le territoire palestinien reste en proie à des violences quotidiennes, le Hamas et Israël s’accusant mutuellement de violer l’accord.",
+          "group" : "Gaza ceasefire violence",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html"
+            }
+          ],
+          "titleTR" : "Dans la bande de Gaza, des frappes israéliennes font au moins dix morts, selon la défense civile"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "category" : "Security",
+          "descriptionTR" : "Gaza residents surveyed extensive damage on 4 June after an overnight Israeli airstrike hit an apartment in the Sheikh Radwan neighbourhood of Gaza City.",
+          "group" : "Gaza airstrike aftermath",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:44:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine"
+            }
+          ],
+          "titleTR" : "Gaza city residents survey destruction after overnight Israeli airstrike"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:44:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    }
+  ],
+  "week" : "2026-W27"
+}
