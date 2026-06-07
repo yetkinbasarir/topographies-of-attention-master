@@ -1,0 +1,790 @@
+{
+  "label" : "1–7 HAZIRAN",
+  "publishedAt" : "2026-06-07T19:41:42Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "category" : "Culture",
+          "descriptionTR" : "Pazar günü Madrid'in merkezinde Papa Leo XIV tarafından kutlanan bir ayin için 1,2 milyondan fazla inanan sokaklara akın etti. Ayin sırasında Papa, İspanya'da Katolik inancının yenilenmesi çağrısında bulundu.",
+          "group" : "Papal Madrid visit",
+          "id" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "link" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/religions\/article\/2026\/06\/07\/a-madrid-plus-d-un-million-de-fideles-reunis-pour-la-messe-du-pape-leon-xiv-en-presence-du-roi-felipe-vi_6698788_1653130.html"
+            }
+          ],
+          "titleTR" : "VİDEO. Madrid'de Papa'nın ayinine 1,2 milyon inanan katıldı"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "category" : "Culture",
+          "descriptionTR" : "Papa, takipçilerini 'kardeşlerimize, yoksullara, acı çekenlere' adanmaya çağırdı. Amerikan Papa, Hristiyan değerleri ile aşırı sağ politikalar arasındaki kopukluğa vurgu yapıyor gibi göründü ve ibadet edenlere 'Hiç kimse Rab'bin önünde diz çöküp kardeşini hor göremez' dedi. Pazar günü güneş doğmadan saatler önce ayine erişim için kuyruklar oluşmaya başladı, insanlar Papa'nın İspanya'ya yaptığı bir haftalık ziyaretin en büyük buluşması olarak nitelendirilen etkinlikte yer kapmak için yarıştı.",
+          "group" : "Pope Leo Madrid mass",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid"
+            }
+          ],
+          "titleTR" : "Madrid'de açık hava ayininde Papa Leo'ya bir milyondan fazla kişi katıldı"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo#0",
+          "category" : "Culture",
+          "descriptionTR" : "Papa, Plaza de Cibeles'e vardığında papamobilden toplanan kalabalığa el salladı.",
+          "group" : "Papal mass Spain",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Papa'nın açık hava ayini için Madrid sokaklarında büyük kalabalıklar toplandı"
+        },
+        {
+          "atomID" : "a15aba18-6150-11f1-a599-4fab70888c35",
+          "category" : "Culture",
+          "descriptionTR" : "Papa Leo XIV, göç konularına odaklanan ve Avrupa'ya ulaşmaya çalışırken hayatını kaybeden binlerce göçmeni onurlandırmak için Kanarya Adaları'na bir ziyaret de dahil olmak üzere yedi günlük bir gezi için Cumartesi günü İspanya'ya geldi. Leo ayrıca, 1940'tan bu yana İspanya'da yaklaşık 200.000 çocuğun maruz kaldığı tahmin edilen Katolik din adamlarının cinsel istismarına uğrayan mağdurlarla da görüşecek.",
+          "group" : "Pope migration Spain",
+          "id" : "a15aba18-6150-11f1-a599-4fab70888c35",
+          "link" : "https:\/\/www.france24.com\/en\/more-than-a-million-attend-pope-leo-s-mass-in-spain",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/more-than-a-million-attend-pope-leo-s-mass-in-spain"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260607-more-than-1-2-million-people-attend-pope-s-mass-in-madrid"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/pope-leo-visits-spain-with-focus-on-immigration"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260606-pope-visits-spain-with-focus-on-migrants-amid-political-tensions"
+            }
+          ],
+          "titleTR" : "Papa Leo, göç konularını vurgulamak ve din adamlarının cinsel istismar mağdurlarıyla buluşmak için İspanya'yı ziyaret ediyor"
+        }
+      ],
+      "packetSpot" : "Papa Leo XIV'in İspanya ziyareti, Madrid'deki açık hava ayininde büyük bir katılım ve göç ile din adamlarının cinsel istismarı konularına odaklanıyor.",
+      "packetTitle" : "Papa Leo XIV İspanya'da: Madrid'de büyük ayin ve göç mesajı",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "category" : "Politics",
+          "descriptionTR" : "Ermeniler, Pazar günü Rusya-Batı çatışmasının gölgesinde geleceklerini belirleyecek. Hem AB hem de ABD, Başbakan Nikol Pashinyan’ın temkinli Batı yanlısı hamlesini desteklerken, Rusya eski Sovyet devletini kendi yörüngesinde tutmak için Erivan’a ekonomik ve siyasi baskılar uygulamaya başladı.",
+          "group" : "Armenia election",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+            }
+          ],
+          "titleTR" : "Ermenistan, Güney Kafkasya'nın geleceğini belirleyecek kritik seçim için sandık başında"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "category" : "Politics",
+          "descriptionTR" : "Seçmenler, Batı ile daha yakın ilişkiler kuran mevcut Başbakan Nikol Pashinyan ile Rusya yanlısı muhalefet arasında tercih yapacak. Ermeniler, ülkenin Rusya ile olan geleneksel ittifakından uzaklaşıp Avrupa'ya doğru kayışını pekiştirebilecek bir seçimin sonuçlarını bekliyor. Başbakan Nikol Pashinyan’ın Sivil Sözleşme Partisi, Moskova ile daha yakın ilişkiler savunan üç muhalefet adayının önünde favori olarak seçime girdi. Pashinyan’ın ana rakibi, servetinin büyük kısmını Rusya’da kazanan Rus-Ermeni milyarder Samvel Karapetyan, kampanyasını Erivan dışındaki malikanesinde ev hapsinde yürütmek zorunda kaldı.",
+          "group" : "Armenia election",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu"
+            }
+          ],
+          "titleTR" : "'İleriye gitme zamanı': Ermeniler, Rusya ve AB tarafından yakından izlenen seçimde oy kullanıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "category" : "Politics",
+          "descriptionTR" : "Mevcut Başbakan Nikol Pashinyan, düşen iç desteklere rağmen üçüncü dönemini arıyor.",
+          "group" : "Armenia Russia pressure",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ermenistan, Rusya'nın Batı yanlısı hükümete baskı yapmasıyla oy kullanıyor"
+        },
+        {
+          "atomID" : "c46ce7a2-6230-11f1-a3ac-b117db0116e5",
+          "category" : "Politics",
+          "descriptionTR" : "Ermenistan, Pazar günü parlamento seçimlerinde Moskova'ya bağımlılığı azaltmayı hedefleyen Başbakan Nikol Pashinyan’ın partisinin, Rus-Ermeni iş insanı Samvel Karapetyan’ın partisiyle karşı karşıya geleceği seçimlere gidiyor. Kremlin, Ermenistan'ın AB hedeflerini baltalamak için seçimlere müdahale etmekle suçlanıyor.",
+          "group" : "Armenia Russia influence",
+          "id" : "c46ce7a2-6230-11f1-a3ac-b117db0116e5",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia"
+            }
+          ],
+          "titleTR" : "Ermenistan parlamento seçimi, başbakanın Rusya'dan uzaklaşma hamlesini test edecek"
+        },
+        {
+          "atomID" : "https:\/\/www.politico.eu\/?post_type=article&p=8552828",
+          "category" : "Politics",
+          "descriptionTR" : "Rus müdahalesi endişeleri arasında Pazar günü katılım yüksekti. Ermenistan Başbakanı Nikol Pashinyan’ın iktidar partisi, Pazar günü ülkenin parlamento seçiminde rahat bir şekilde öndeydi, ilk çıkış anketi verilerine göre. Başbakanın Sivil Sözleşme Partisi, oyların yüzde 56,7'sini alırken, ana muhalefet Güçlü Ermenistan Partisi yüzde 17,5 oy aldı, oy kullanma işlemi sona erdikten sonra Ermeni medyası bildirdi. 2023'te Dağlık Karabağ'ın Azerbaycan'a devredilmesinden bu yana yapılan ilk parlamento seçimleri, ABD Başkanı Donald Trump tarafından desteklenen Pashinyan ile Rus-Ermeni oligark Samvel Karapetyan arasında yüksek riskli bir referandum niteliğindeydi. Pashinyan, Pazar sabahı oyunu kullandıktan sonra bir sandık merkezinin dışında gazetecilere “Ermenistan’ın geleceği, bağımsızlık, devlet, demokrasi ve hukukun üstünlüğünü güçlendirme stratejisi olacak” dedi. “Demokratik reformlar yolunda devam edeceğiz, elbette Avrupa Birliği, çünkü AB demokratik reformları uygulamada ana ortağımızdır.” Merkez Seçim Komisyonu, resmi ön sonuçları Pazartesi günü açıklayacak. Seçim, Rus müdahalesi endişeleriyle sarsıldı. Ermeni yetkililer, Cumartesi günü devlet medyasına göre, Güçlü Ermenistan’ın dahil olduğu iddia edilen geniş çaplı bir planla ilgili soruşturma kapsamında oy satın almakla suçlanan 40'tan fazla kişinin tutuklandığını açıkladı. Medya raporlarına göre, tutuklama emirlerinden altısı Karapetyan’ın partisinin üyelerine aitti. Pazar günü tutuklamalar hakkında yorum yapan Karapetyan, bunların “Ermeni seçmenlerin fikirlerini değiştirmeyeceğini” söyledi. Güçlü Ermenistan kurucusu, geçen Temmuz ayında “gücü gasp etmeye yönelik kamu çağrıları” yaptığı gerekçesiyle ev hapsine alındıktan sonra malikanesinden kampanya yürütüyordu. Bu suçlamayı siyasi motivasyonlu olarak reddetti. Karapetyan, Pazar günü bir sandık merkezine götürüldü ve kısa bir süre medyaya konuşup evine döndü, Associated Press bildirdi. Karapetyan, “Ermeni halkı doğru seçimi yapacak ve Ermenistan nihayet meşru bir hükümete sahip olacak” dedi. Ermeni medyasına göre, seçmen katılımı yüzde 59 ile ülkenin son üç seçimindeki en yüksek seviyedeydi. Reuters, Mayıs ayında Rusya’nın bu hafta sonu yapılacak seçimde oy kullanmaları için Rusya’da yaşayan on binlerce Ermeni’yi ithal etmeyi düşündüğünü bildirdi. Mayıs ayında Trump’tan destek alan Pashinyan, 2022’de Rusya Devlet Başkanı Vladimir Putin’in Ukrayna’ya tam kapsamlı saldırısından bu yana Batı’ya yönelmiş durumda. Ermenistan, Rusya ile tek pazarın bir parçası olmaya devam etse de, 2023’te Azerbaycan Dağlık Karabağ’ı kontrol altına aldığında Rusya’nın askeri güçlerinin az bir şey yapması nedeniyle Moskova’ya olan iç destek azaldı. Pashinyan, o dönemde POLITICO’ya “Rus barış güçleri görevlerini yerine getiremedi” dedi ve o zamandan beri AB ve ABD’ye yönelik duruşunu değiştirdi. Erivan, 2024’te Rusya ile askeri ittifakını askıya aldı; o zamandan beri Pashinyan’ın hükümeti, AB’ye katılma isteğini dile getirdi ve Kremlin’in tepkisini çekti.",
+          "group" : "Armenia election pressure",
+          "id" : "https:\/\/www.politico.eu\/?post_type=article&p=8552828",
+          "link" : "https:\/\/www.politico.eu\/article\/armenia-parliament-election-exit-polls-nikol-pashinyan\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "POLITICO Europe",
+              "url" : "https:\/\/www.politico.eu\/article\/armenia-parliament-election-exit-polls-nikol-pashinyan\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "titleTR" : "Çıkış anketlerine göre iktidar partisi Ermenistan parlamento seçiminde önde"
+        }
+      ],
+      "packetSpot" : "Ermenistan'da Batı ve Rusya arasında gerilimli seçim",
+      "packetTitle" : "Ermenistan'da kritik seçim: Batı mı, Rusya mı?",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "category" : "Security",
+          "descriptionTR" : "Romanya'nın Karadeniz limanı Constanța'dan yapılan canlı televizyon yayını, 5 Haziran'da yakında bir deniz insansız hava aracının patlamasıyla aniden kesildi. Bu olay, Ukrayna savaşının bölgesel etkileri konusundaki endişeleri artırdı.",
+          "group" : "Black Sea drone spillover",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/my-europe\/2026\/06\/05\/moment-sea-drone-explodes-in-romanias-constanta-port"
+            }
+          ],
+          "titleTR" : "Romanya: TV muhabiri Constanța'daki drone patlaması sonrası canlı yayında kaçtı"
+        },
+        {
+          "atomID" : "bb900abe-60d3-11f1-bbe0-476d75c61104",
+          "category" : "Security",
+          "descriptionTR" : "Romanya'nın Karadeniz limanı Constanța yakınlarında Cuma günü bir deniz drone'u patladı ve herhangi bir can kaybına yol açmadı. Olay, Rusya'nın Ukrayna'daki savaşının yayılma etkileri konusundaki endişeleri artırırken, yetkililerin 1.000'den fazla kişiyi tahliye etmesine neden oldu. Bu olaydan bir hafta önce başka bir drone olayı iki sivilin yaralanmasına yol açmıştı.",
+          "group" : "Black Sea drone spillover",
+          "id" : "bb900abe-60d3-11f1-bbe0-476d75c61104",
+          "link" : "https:\/\/www.france24.com\/en\/video\/20260605-ukrainian-drone-explodes-in-romanian-sea-port",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260605-ukrainian-drone-explodes-in-romanian-sea-port"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260605-sea-drone-explodes-in-the-romanian-port-of-constanta-no-casualties"
+            }
+          ],
+          "titleTR" : "Romanya'nın Constanța limanında deniz drone'u patladı, Ukrayna savaşı korkusu arttı"
+        }
+      ],
+      "packetSpot" : "Romanya'nın Karadeniz limanı Constanța'da meydana gelen drone patlaması, Ukrayna savaşının bölgesel etkileri konusundaki endişeleri artırdı.",
+      "packetTitle" : "Constanța'daki Drone Patlaması Bölgesel Güvenlik Endişelerini Artırıyor",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Ziyaret, Xi'nin ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin'i Pekin'de ağırlamasından sadece haftalar sonra gerçekleşiyor.",
+          "group" : "Xi North Korea visit",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years"
+            }
+          ],
+          "titleTR" : "Xi Jinping, yedi yıl sonra ilk kez Pyongyang'a gidiyor"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Çin Devlet Başkanı, Pazartesi ve Salı günleri 2019'dan bu yana ilk kez Kuzey Kore'yi ziyaret edecek. Pyongyang ile Moskova arasındaki işbirliği Ukrayna savaşı sonrasında güçlenirken, Pekin bölgedeki merkezi konumunu yeniden teyit etmek istiyor.",
+          "group" : "China North Korea ties",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html"
+            }
+          ],
+          "titleTR" : "Xi Jinping, Rusya'ya giderek yakınlaşan Kuzey Kore'ye gidiyor"
+        }
+      ],
+      "packetSpot" : "Çin Devlet Başkanı Xi Jinping, Kuzey Kore'ye yapacağı ziyaretle bölgedeki diplomatik dengeleri yeniden şekillendiriyor.",
+      "packetTitle" : "Xi Jinping'in Kuzey Kore Ziyareti: Yedi Yıl Sonra İlk Kez Pyongyang'a Gidiyor",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Keir Starmer, Ukrayna, Fransa ve Almanya liderlerini Downing Street'te ağırladı; Kiev'de savaşın durumu konusunda iyimserlik hakim\nVolodymyr Zelenskyy, Pazar gecesi Downing Street'te en güçlü müttefikleriyle bir araya geldi. Bu buluşma, Rusya'nın Çernobil nükleer santraline dokuz mil uzaklıkta bulunan bir harcanmış nükleer yakıt depolama merkezine insansız hava aracı saldırısı düzenlemesinden saatler sonra gerçekleşti.\nKeir Starmer, Zelenskyy, Emmanuel Macron ve Friedrich Merz'i Ukrayna'ya yönelik devam eden destek konularını görüşmek üzere ağırladı. Ülke, Rusya'nın önemli noktalarına yönelik bir dizi saldırıdan faydalanmayı amaçlıyor.",
+          "group" : "Ukraine allied support",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/zelenskyy-starmer-macron-merz-ukraine-talks-london"
+            }
+          ],
+          "titleTR" : "Zelenskyy, Rusya'ya yönelik saldırıların ardından Londra'da kilit müttefikleriyle bir araya geldi"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo#0",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Zelenskyy'nin Avrupa'daki en güçlü müttefikleriyle yaptığı görüşme, ABD Başkanı Donald Trump'ın odağını İran'la olan savaşa kaydırdığı bir döneme denk geliyor.",
+          "group" : "Ukraine Europe diplomacy",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Zelenskyy, Avrupa liderleriyle Ukrayna savaşı görüşmeleri için Downing Street'te"
+        }
+      ],
+      "packetSpot" : "Ukrayna'nın Rusya'ya karşı son saldırılarının ardından Londra'da diplomatik görüşmeler yapılıyor.",
+      "packetTitle" : "Zelenskyy Londra'da müttefikleriyle bir araya gelerek Rusya'ya yönelik saldırıları değerlendiriyor",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "f9a6c88c-6048-11f1-88fc-2d2df58bd474",
+          "category" : "Environment",
+          "descriptionTR" : "Perşembe günü, Donald Trump'ın kızı Ivanka Trump'ın eşi Jared Kushner tarafından desteklenen milyar dolarlık lüks bir tatil köyü planlarına karşı Arnavutluk'ta başlayan protestoların üst üste dördüncü günüydü. Ancak çevrimiçi ortamda, sosyal medya kullanıcılarının eski ve bağlam dışı görüntüleri mevcut gösterilerden sahneler olarak yanlış bir şekilde sunduğu yanıltıcı videolar viral hale geliyor. Birçok protestocu, Kushner destekli gelişimin koruma altındaki bir vahşi yaşam ekosistemini yok edebileceğinden korkuyor.",
+          "group" : "Albania resort protests",
+          "id" : "f9a6c88c-6048-11f1-88fc-2d2df58bd474",
+          "link" : "https:\/\/www.france24.com\/en\/video\/20260604-albania-luxury-complex-project-linked-to-trump-s-family-sparks-outrage",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260604-albania-luxury-complex-project-linked-to-trump-s-family-sparks-outrage"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260604-what-we-know-about-jared-kushner-backed-luxury-resort-sparking-outrage-in-albania"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260606-albanians-protest-jared-kushner-backed-resort-plan-on-nature-reserve"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/viral-videos-mislead-as-albania-erupts-against-kushner-linked-luxury-resort"
+            }
+          ],
+          "titleTR" : "Arnavutluk'ta Kushner tatil köyü planına karşı sahte videolar dolaşıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "category" : "Environment",
+          "descriptionTR" : "Bu hafta, Donald Trump’ın damadı Jared Kushner tarafından desteklenen planlı bir lüks tatil köyüne karşı Arnavutluk’un başkenti Tiran’da binlerce kişi sokaklarda protesto etti.\n\nAkdeniz’in çevresel açıdan en hassas bölgelerinden biri olarak görülen bir alanda 1,6 milyar dolarlık kompleksin altyapı çalışmaları başladı. Bu alan, flamingolar ve Dalmaçyalı pelikanlar dahil 200 kuş türünü barındırıyor.\n\nİnşaatçılar, alanın etrafına beton temelli, dikenli tellerle çevrili bir çit dikmeye başlayınca, çevresel zarar ve anlaşmanın siyasi şeffaflık eksikliği konusundaki alarm, kamu öfkesine dönüştü.\n\nLucy Hough, ABD canlı haber editörü Chris Michael ile konuşuyor.",
+          "group" : "Kushner Albania resort",
+          "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest"
+            }
+          ],
+          "titleTR" : "Arnavutluk'ta Kushner-Trump 1,6 milyar dolarlık lüks tatil köyü planına öfke - Son Gelişmeler"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "category" : "Environment",
+          "descriptionTR" : "Video, güvenlik görevlilerinin göstericilerle tartıştığını ve bir protestocuyu yere itip sürükleyerek uzaklaştırdığını gösteriyor. Olay, ABD Başkanı Donald Trump'ın damadı Jared Kushner ile bağlantılı lüks bir tatil köyü projesine karşı çevre grupları tarafından düzenlenen bir miting sırasında meydana geldi.",
+          "group" : "Kushner Albania resort",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project"
+            }
+          ],
+          "titleTR" : "Kushner bağlantılı Arnavutluk tatil köyü projesine karşı protestoda çatışma"
+        }
+      ],
+      "packetSpot" : "Arnavutluk'ta Jared Kushner destekli lüks tatil köyü projesine karşı devam eden protestolar, çevresel endişeler ve sosyal medyada yayılan yanlış bilgileri öne çıkarıyor.",
+      "packetTitle" : "Arnavutluk'ta Kushner destekli tatil köyü projesine karşı protestolar",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "İsrail ordusu, Pazar akşamı İran tarafından ateş açıldığını duyurdu. Bu, 8 Nisan'da ilan edilen ateşkesten bu yana ilk kez gerçekleşti. Daha önce Tahran, İsrail'in Beyrut'un güney banliyösünde, İran yanlısı Hizbullah'ın kalesine yönelik saldırılarına misilleme olarak Orta Doğu'daki Amerikan ve İsrail çıkarlarını vurmakla tehdit etmişti.",
+          "group" : "Iran Israel escalation",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html"
+            }
+          ],
+          "titleTR" : "Canlı Yayın, Orta Doğu: İsrail, İran füzelerinin topraklarına yönelik iki dalga saldırı gerçekleştirdiğini bildirdi"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "category" : "Security",
+          "descriptionTR" : "ABD, İran dronlarını engellediğini iddia ettikten sonra İran'ın güneyindeki \"radar siteleri\" olarak tanımladığı yerlere füze saldırıları düzenlediğini açıkladı.",
+          "group" : "Iran US strikes",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire"
+            }
+          ],
+          "titleTR" : "İran ve ABD, kırılgan ateşkese yönelik son tehditte karşılıklı saldırılar gerçekleştirdi"
+        }
+      ],
+      "packetSpot" : "İsrail, İran ve ABD arasında artan askeri gerilimler, Orta Doğu'da kırılgan ateşkesi tehdit ediyor.",
+      "packetTitle" : "Orta Doğu'da Artan Askeri Gerilimler",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "category" : "Economy",
+          "descriptionTR" : "Washington'un yeniden tahsis etmeyi düşündüğü İran varlıkları, dondurulmuş fonların yanı sıra ABD tarafından daha önce el konulan gemileri de içerebilir.",
+          "group" : "Iran frozen assets",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage"
+            }
+          ],
+          "titleTR" : "Washington, Körfez saldırılarının zararlarını karşılamak için İran'ın dondurulmuş milyarlarını kullanabilir"
+        },
+        {
+          "atomID" : "d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "category" : "Economy",
+          "descriptionTR" : "Öneri, Trump yönetimi ile bölgesel ortaklar arasındaki ilişkilerin çatışma nedeniyle gerildiği bir dönemde geliyor.",
+          "group" : "Iran war compensation",
+          "id" : "d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "link" : "https:\/\/www.ft.com\/content\/d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/d19bd87f-2673-40e8-9216-8529d80b42aa"
+            }
+          ],
+          "titleTR" : "ABD, savaş zararları için İran varlıklarını Körfez müttefiklerine tazminat olarak kullanmayı değerlendiriyor"
+        }
+      ],
+      "packetSpot" : "Washington'un, Körfez saldırılarının zararlarını karşılamak için İran'ın dondurulmuş varlıklarını yeniden tahsis etme olasılığı tartışılıyor.",
+      "packetTitle" : "Washington'un İran'ın Dondurulmuş Varlıklarını Kullanma Planı",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Ekim 2025'te varılan ateşkese rağmen, Filistin toprakları günlük şiddet olaylarına sahne olmaya devam ediyor. Hamas ve İsrail, anlaşmayı ihlal etmekle birbirlerini suçluyor.",
+          "group" : "Gaza ceasefire violence",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html"
+            }
+          ],
+          "titleTR" : "Gazze Şeridi'nde İsrail hava saldırıları en az on kişinin ölümüne neden oldu, Sivil Savunma'ya göre"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "category" : "Security",
+          "descriptionTR" : "Yerel hastanelere göre, 4 Haziran'da Gazze Şehri'nde gece yapılan İsrail hava saldırılarında hayatını kaybeden yakınlarını anmak için aileler toplandı.",
+          "group" : "Gaza airstrikes aftermath",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine"
+            }
+          ],
+          "titleTR" : "Gazze: Aileler, gece yapılan İsrail hava saldırılarında ölen en az dokuz kişiyi anıyor"
+        }
+      ],
+      "packetSpot" : "Ekim 2025'te yapılan ateşkes anlaşmasına rağmen, Gazze Şeridi'nde şiddet devam ediyor. Hamas ve İsrail, anlaşmayı ihlal etmekle birbirlerini suçluyor.",
+      "packetTitle" : "Gazze Şeridi'nde Artan Şiddet: İsrail Hava Saldırıları ve Sonuçları",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "category" : "Security",
+          "descriptionTR" : "Rusya'nın gölge filosunun izlerini taşıyan ve yağmalanan Ukrayna malzemeleriyle bağlantılı bir limanda tahıl yüklemeye giden Natra ve Zirkon adlı yük gemileri, Taganrog yakınlarında gece saatlerinde vuruldu.",
+          "group" : "Black Sea shipping attacks",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov"
+            }
+          ],
+          "titleTR" : "Azak Denizi'nde yük gemileri vuruldu, beş denizci öldü"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna, Azak Denizi'nde ve Rusya'nın işgal ettiği kıyı sularında yasa dışı yük taşıyan beş gemiyi vurduğunu belirtti.",
+          "group" : "Black Sea drone strikes",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ukrayna yük gemilerini vurdu ve Romanya'daki drone patlamasını kabul etti"
+        }
+      ],
+      "packetSpot" : "Karadeniz bölgesindeki son saldırılar yük gemilerini hedef aldı, can kayıplarına ve gerilimlerin artmasına neden oldu. Azak Denizi'ndeki bir saldırıda beş denizci hayatını kaybederken, Ukrayna yük gemilerine yönelik saldırılar ve Romanya'daki bir drone patlaması için sorumluluğu üstlendi.",
+      "packetTitle" : "Karadeniz Bölgesinde Yük Gemilerine Saldırılar",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#0",
+          "category" : "Security",
+          "descriptionTR" : "BBC'nin Rusya editörü, Putin'in amiral gemisi ekonomik etkinliğinin Ukrayna'nın insansız hava aracı saldırılarıyla gölgelendiğini gözlemledi.",
+          "group" : "Russia drone attacks",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Steve Rosenberg: Rusya'nın ekonomik forumu St. Petersburg'daki drone saldırılarıyla gölgelendi"
+        },
+        {
+          "atomID" : "5ca7b0d4-61a4-11f1-8223-03f48ab2133e",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna, Cumartesi günü St. Petersburg bölgesini hedef alan yüzlerce insansız hava aracı fırlattı ve bu, Rusya'nın ikinci büyük şehrine bir hafta içinde yapılan ikinci saldırı oldu. Saldırı, Başkan Vladimir Putin'in 'Rusya'nın Davos'u olarak bilinen yıllık yatırım forumu St. Petersburg Uluslararası Ekonomik Forumu'nun son gününde gerçekleşti.",
+          "group" : "Russia Ukraine drone war",
+          "id" : "5ca7b0d4-61a4-11f1-8223-03f48ab2133e",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260606-ukraine-launches-fresh-drone-attack-st-petersburg-region-final-day-russian-davos",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260606-ukraine-launches-fresh-drone-attack-st-petersburg-region-final-day-russian-davos"
+            }
+          ],
+          "titleTR" : "Ukrayna, 'Rusya'nın Davos'u'nun son gününde St. Petersburg bölgesine yeni bir drone saldırısı başlattı"
+        }
+      ],
+      "packetSpot" : "St. Petersburg Uluslararası Ekonomik Forumu sırasında Ukrayna, St. Petersburg bölgesine drone saldırıları düzenleyerek etkinliği gölgeledi. Saldırılar, Rusya'nın önemli ekonomik tartışmalara ev sahipliği yaptığı bir dönemde Ukrayna ile Rusya arasındaki devam eden gerilimleri vurguluyor.",
+      "packetTitle" : "St. Petersburg'daki Ekonomik Forum Sırasında Ukrayna'nın Drone Saldırıları",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "category" : "Security",
+          "descriptionTR" : "ABD başkanının geçen hafta İsrail Başbakanı'nı büyük bir baskını ertelemeye zorlayan müdahalesinin ardından Lübnan başkentine sınırlı saldırılar düzenlendi.",
+          "group" : "Lebanon Israel strikes",
+          "id" : "02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "link" : "https:\/\/www.ft.com\/content\/02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/02a3b935-62dc-44a1-9957-6867e8ee1890"
+            }
+          ],
+          "titleTR" : "İsrail, Trump'ın Netanyahu ile karşı karşıya gelmesinden günler sonra Beyrut'a saldırdı"
+        },
+        {
+          "atomID" : "https:\/\/www.politico.eu\/?post_type=article&p=8553989",
+          "category" : "Security",
+          "descriptionTR" : "İsrail Savunma Kuvvetleri, Cumartesi günü iki Lübnanlı ordu subayı ve bir askerin öldüğü bir araca yönelik saldırıyı incelediğini belirtti. Hem İsrail hem de Lübnan, ABD destekli ateşkese rağmen başka bir şiddet dolu hafta sonunda askeri kayıplarını yas tutuyor. Pazar günü, İsrail medyası güney Lübnan'da iki İsrail askerinin ayrı olaylarda öldüğünü bildirdi. Bir gün önce, İsrail hareket halindeki bir araca hava saldırısı düzenleyerek bir Lübnanlı general, bir kaptan ve bir askeri öldürdü. Hem İsrail Savunma Kuvvetleri hem de Lübnan Silahlı Kuvvetleri Cumartesi günkü saldırıyı doğruladı. Lübnan ordusu, aracın tamamen yok olduğunu gösteren fotoğraflar yayımladı. Beyrut, saldırıyı \"İsrail'in saldırgan ve barbar bir baskını\" olarak nitelendirirken, İsrail Savunma Kuvvetleri aracın \"aktif bir çatışma bölgesinde IDF askerlerine doğru şüpheli bir şekilde hareket ettiğini\" belirtti. \"IDF, olayı inceliyor ve buna göre dersler çıkarılacak. IDF, Lübnan Ordusu'na karşı değil, Hizbullah terör örgütüne karşı operasyon yapmaktadır,\" şeklinde bir açıklama yaptı. İsrail ile İran destekli Hizbullah grubu arasındaki çatışmalar, militan örgütün Perşembe günü ABD destekli ateşkes önerisini reddetmesinin ardından hafta sonu boyunca devam etti. Hizbullah, saldırılarını Lübnan topraklarından gerçekleştiriyor. İsrail hava kuvvetleri hafta sonu boyunca Lübnan'ı yoğun bir şekilde bombalamaya devam etti. Hava kuvvetleri, sosyal medya paylaşımında uçaklarının Hizbullah'ın \"terör altyapıları\" olarak tanımladığı 150 hedefi vurduğunu belirtti. Pazar günü, İsrail, Lübnan'dan kuzey İsrail'e fırlatılan iki füzeyi engellediğini ve IDF'nin güney Lübnan'daki Sayda şehri sakinlerini olası saldırılar öncesinde tahliye etmeleri konusunda uyardığını belirtti.",
+          "group" : "Israel Hezbollah ceasefire",
+          "id" : "https:\/\/www.politico.eu\/?post_type=article&p=8553989",
+          "link" : "https:\/\/www.politico.eu\/article\/israel-killed-lebanese-general-amid-war-against-hezbollah\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "POLITICO Europe",
+              "url" : "https:\/\/www.politico.eu\/article\/israel-killed-lebanese-general-amid-war-against-hezbollah\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "titleTR" : "İsrail'in Hizbullah'a karşı savaşında Lübnanlı general öldü"
+        }
+      ],
+      "packetSpot" : "İsrail, Hizbullah güçlerini hedef alarak Beyrut'ta hava saldırıları düzenledi ve bir Lübnanlı generalin ölümüne yol açtı. Bu gelişmeler, ABD ve İsrail arasındaki diplomatik etkileşimlerin ardından artan gerilimler sırasında gerçekleşti.",
+      "packetTitle" : "Hizbullah Çatışması Ortasında İsrail'in Beyrut'a Hava Saldırıları",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Donald Trump, Ukrayna savaşını sona erdirmek için her iki tarafın da taviz vermesi gerektiğini ve bunun kendi önerisi olduğunu iddia etti. 'Belki de görüşmeyi düşünüyor olmalarından memnunum. Bununla çok ilgimiz olduğunu düşünüyorum,' dedi Trump Oval Ofis'te gazetecilere.\n\n• Zelenski, Putin'e gönderdiği mektupta yüz yüze müzakereler çağrısında bulundu.",
+          "group" : "Ukraine peace talks",
+          "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video"
+            }
+          ],
+          "titleTR" : "Trump, Zelenski-Putin görüşmesinin 'harika' olacağını söyledi - Ukrayna başkanının mektubu sonrası"
+        },
+        {
+          "atomID" : "d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Eski Chelsea FC sahibi, doğrudan müzakereleri sağlamak için geçen ay Kiev'e davet edildi ancak girişim başarısız oldu.",
+          "group" : "Ukraine peace backchannel",
+          "id" : "d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "link" : "https:\/\/www.ft.com\/content\/d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/d097aba1-fd9a-4fd4-a4ba-fb980c27487a"
+            }
+          ],
+          "titleTR" : "Zelenski, barış görüşmeleri için Putin'e mesaj göndermek üzere Abramoviç'i kullandı"
+        }
+      ],
+      "packetSpot" : "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya Devlet Başkanı Vladimir Putin ile barış görüşmelerini başlatmak için aktif olarak yollar arıyor. Çabalar, yüksek profilli aracılardan yararlanmayı ve etkili figürlerden kamuoyu desteği almayı içeriyor.",
+      "packetTitle" : "Zelenski'nin Putin ile Barış Görüşmelerini Başlatma Çabaları",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cg7p798gm5vo#3",
+          "category" : "Sports",
+          "descriptionTR" : "FIFA, bu yaz düzenlenecek Dünya Kupası'nda şişe yasağı getirerek taraftarların sağlığını riske attığı konusunda uyarıldı.",
+          "group" : "World Cup safety rules",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cg7p798gm5vo#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cg7p798gm5vo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cg7p798gm5vo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "FIFA, Dünya Kupası maçlarında tüm su şişelerini yasakladı"
+        },
+        {
+          "atomID" : "5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "category" : "Sports",
+          "descriptionTR" : "Futbolun yönetim organı, genişletilmiş turnuvadan rekor gelirler elde etmeyi bekliyor, ancak eleştirmenler paranın nasıl harcandığını sorguluyor.",
+          "group" : "Fifa finances scrutiny",
+          "id" : "5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "link" : "https:\/\/www.ft.com\/content\/5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T19:41:42Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/5b79e86d-1df2-4bfa-9bde-f43eb692f11c"
+            }
+          ],
+          "titleTR" : "FIFA'nın 13 milyar dolarlık Dünya Kupası nakit makinesi, mali uygulamalarını mercek altına aldırdı"
+        }
+      ],
+      "packetSpot" : "FIFA, Dünya Kupası için su şişelerinin yasaklanması ve mali uygulamalar gibi tartışmalı bir dizi politika uyguladı. Bu önlemler, organizasyonun öncelikleri ve şeffaflığı hakkında tartışmalara yol açtı.",
+      "packetTitle" : "FIFA'nın Tartışmalı Dünya Kupası Politikaları",
+      "publishedAt" : "2026-06-07T19:41:42Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    }
+  ],
+  "week" : "2026-W22"
+}
