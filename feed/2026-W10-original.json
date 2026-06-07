@@ -1,6 +1,6 @@
 {
   "label" : "1–7 HAZIRAN",
-  "publishedAt" : "2026-06-07T00:18:15Z",
+  "publishedAt" : "2026-06-07T00:19:01Z",
   "slots" : [
     {
       "items" : [
@@ -12,7 +12,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -25,7 +25,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
@@ -39,7 +39,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -52,7 +52,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
@@ -66,7 +66,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o#3",
           "link" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -79,7 +79,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
@@ -93,7 +93,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -106,7 +106,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 4
     },
@@ -120,7 +120,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -133,7 +133,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 5
     },
@@ -147,7 +147,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -165,7 +165,7 @@
           "id" : "E6DB3844-A33A-525D-81C2-DF20CB928D6E",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -183,7 +183,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 6
     },
@@ -197,7 +197,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -210,7 +210,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 7
     },
@@ -224,7 +224,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -237,7 +237,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 8
     },
@@ -251,7 +251,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -264,7 +264,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 9
     },
@@ -278,7 +278,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -291,7 +291,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 10
     },
@@ -305,7 +305,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -318,7 +318,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 11
     },
@@ -332,7 +332,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
           "newsValue" : 4,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -345,7 +345,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 12
     },
@@ -359,7 +359,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -372,7 +372,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 13
     },
@@ -386,7 +386,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -399,7 +399,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 14
     },
@@ -413,7 +413,7 @@
           "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/",
           "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -426,7 +426,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 15
     },
@@ -440,7 +440,7 @@
           "id" : "C831F184-171A-513F-9641-7B2AE35F82FC",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -458,7 +458,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 16
     },
@@ -472,7 +472,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -490,7 +490,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -508,7 +508,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -526,7 +526,7 @@
           "id" : "4FCC7B96-7CC6-54DA-BBAD-C223117B1162",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/lebanon-cease-fire-israel-hezbollah.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -544,7 +544,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 17
     },
@@ -558,7 +558,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo#0",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
           "newsValue" : 9,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -576,7 +576,7 @@
           "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/",
           "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -589,7 +589,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 18
     },
@@ -603,7 +603,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -616,7 +616,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 19
     },
@@ -630,7 +630,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -643,7 +643,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 20
     },
@@ -657,7 +657,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -670,7 +670,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 21
     },
@@ -684,7 +684,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -697,7 +697,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 22
     },
@@ -711,7 +711,7 @@
           "id" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
           "link" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -724,7 +724,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 23
     },
@@ -738,7 +738,7 @@
           "id" : "0A447DBD-76A0-510B-A091-CC1196730F92",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/ukraine-drone-strike-st-petersburg.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -756,7 +756,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 24
     },
@@ -770,7 +770,7 @@
           "id" : "E5F9592A-2321-5587-B271-892A5F3DDB2D",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -793,7 +793,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 25
     },
@@ -807,7 +807,7 @@
           "id" : "F2616A2C-952F-5A0F-A07C-011AE8545816",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/australia\/new-zealand-taiwan-china-travel-ban.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -825,7 +825,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 26
     },
@@ -839,7 +839,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -852,7 +852,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 27
     },
@@ -866,7 +866,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -879,7 +879,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 28
     },
@@ -893,7 +893,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -906,7 +906,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 29
     },
@@ -920,7 +920,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -938,7 +938,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -951,7 +951,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 30
     },
@@ -965,7 +965,7 @@
           "id" : "4077E9C4-20F4-52BD-A55B-ED8097374D15",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1008,7 +1008,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 31
     },
@@ -1022,7 +1022,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html",
           "newsValue" : 4,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1040,7 +1040,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
           "newsValue" : 4,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1053,7 +1053,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 32
     },
@@ -1067,7 +1067,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html",
           "newsValue" : 4,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1080,7 +1080,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 33
     },
@@ -1094,7 +1094,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1107,7 +1107,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 34
     },
@@ -1121,7 +1121,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss",
           "newsValue" : 2,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1134,7 +1134,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 35
     },
@@ -1148,7 +1148,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
           "link" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
           "newsValue" : 1,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1161,7 +1161,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 36
     },
@@ -1175,7 +1175,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1188,7 +1188,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 37
     },
@@ -1202,7 +1202,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1215,7 +1215,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 38
     },
@@ -1229,7 +1229,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
           "newsValue" : 2,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1242,7 +1242,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 39
     },
@@ -1256,7 +1256,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1269,7 +1269,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 40
     },
@@ -1283,7 +1283,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1296,7 +1296,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 41
     },
@@ -1310,7 +1310,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1328,7 +1328,7 @@
           "id" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
           "link" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1341,7 +1341,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 42
     },
@@ -1355,7 +1355,7 @@
           "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/",
           "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1368,7 +1368,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 43
     },
@@ -1382,7 +1382,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
           "newsValue" : 3,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1395,7 +1395,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 44
     },
@@ -1409,7 +1409,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
           "newsValue" : 3,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1422,7 +1422,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 45
     },
@@ -1436,7 +1436,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1449,7 +1449,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 46
     },
@@ -1463,7 +1463,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1476,7 +1476,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 47
     },
@@ -1490,7 +1490,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
           "newsValue" : 4,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1503,7 +1503,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 48
     },
@@ -1517,7 +1517,7 @@
           "id" : "C926B127-30C5-5556-979D-8CB2DD87AD90",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1540,7 +1540,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 49
     },
@@ -1554,7 +1554,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1567,7 +1567,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 50
     },
@@ -1581,7 +1581,7 @@
           "id" : "5DDD30E5-0849-50D3-9947-079712DD10E7",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1599,7 +1599,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 51
     },
@@ -1613,7 +1613,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
           "newsValue" : 4,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1626,7 +1626,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 52
     },
@@ -1640,7 +1640,7 @@
           "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
           "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1653,7 +1653,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 53
     },
@@ -1667,7 +1667,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
           "link" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
           "newsValue" : 4,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1680,7 +1680,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 54
     },
@@ -1694,7 +1694,7 @@
           "id" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-07T00:18:15Z",
+          "publishedAt" : "2026-06-07T00:19:01Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1707,7 +1707,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-07T00:18:15Z",
+      "publishedAt" : "2026-06-07T00:19:01Z",
       "sessionID" : "publish-draft",
       "slot" : 55
     }
