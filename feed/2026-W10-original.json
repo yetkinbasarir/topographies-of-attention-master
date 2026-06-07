@@ -1,0 +1,1716 @@
+{
+  "label" : "1–7 HAZIRAN",
+  "publishedAt" : "2026-06-07T00:18:15Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "category" : "Economy",
+          "descriptionTR" : "Got a debt to collect in Venezuela’s capital? Dr. Diablo and his pitchfork-wielding posse use public humiliation to pressure people into paying up.",
+          "group" : "Venezuela debt collection",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/americas\/venezuela-caracas-debt-collector-dr-diablo.html"
+            }
+          ],
+          "titleTR" : "In Venezuela, the Debt Collector Is the Devil"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
+          "category" : "Economy",
+          "descriptionTR" : "The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.",
+          "group" : "Trump Cuba pressure",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/cuba-hotels-economy-trump.html"
+            }
+          ],
+          "titleTR" : "As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o#3",
+          "category" : "Economy",
+          "descriptionTR" : "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
+          "group" : "AI stock bubble",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Is there an AI stock market bubble, and is it ready to burst?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
+          "category" : "Politics",
+          "descriptionTR" : "The Cockroach Janta Party started as a joke, but it quickly became a way for many Indians to express their frustration with the system.",
+          "group" : "India Gen-Z protest",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-protest-cockroach-janta-party.html"
+            }
+          ],
+          "titleTR" : "A Viral Gen-Z Protest Movement Draws Thousands to India’s Capital"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "category" : "Politics",
+          "descriptionTR" : "The two men became president and prime minister by defeating the political old guard in Senegal. Now they are fighting each other.",
+          "group" : "Senegal leadership rift",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/senegal-faye-sonko-young-fight.html"
+            }
+          ],
+          "titleTR" : "A President, His Prime Minister and the Bitter Rift Dividing Senegal"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
+          "category" : "Politics",
+          "descriptionTR" : "Prime Minister Nikol Pashinyan of Armenia is seeking re-election as his country weighs questions of war and peace, of autocracy and democracy, and of subjugation and independence.",
+          "group" : "Armenia election pressure",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia.html"
+            }
+          ],
+          "titleTR" : "Backed by Trump, Opposed by Putin, and Fighting for His Political Life"
+        },
+        {
+          "atomID" : "E6DB3844-A33A-525D-81C2-DF20CB928D6E",
+          "category" : "Politics",
+          "descriptionTR" : "Fearing a loss of influence, groups linked to the Kremlin and intelligence agencies have sought to discredit the country’s prime minister. ⁂ Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+          "group" : "Armenia election pressure",
+          "id" : "E6DB3844-A33A-525D-81C2-DF20CB928D6E",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/armenia-election-russia-disinformation.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Russia Floods Armenia With Disinformation Ahead of Election ⁂ Armenia braces for election as Russia piles pressure on pro-West government"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html",
+          "category" : "Politics",
+          "descriptionTR" : "At the St. Petersburg economic forum, business and political elites said Russia faced a choice of halting the conflict or sacrificing more. Vladimir Putin seemed to signal more war.",
+          "group" : "Putin war forum",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/putin-war-st-petersburg-economic-forum.html"
+            }
+          ],
+          "titleTR" : "A Question Swirling Around Putin’s Big Conference: Could the War End?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
+          "category" : "Politics",
+          "descriptionTR" : "Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president’s foreign policy agenda.",
+          "group" : "Ukraine aid battle",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/us\/politics\/house-ukraine-aid-russia-republicans.html"
+            }
+          ],
+          "titleTR" : "House Passes Ukraine Aid in Defiance of Republican Leaders"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
+          "category" : "Politics",
+          "descriptionTR" : "Israel’s Haredim have escalated their protests against military service in recent weeks, underscoring growing divisions ahead of national elections.",
+          "group" : "Ultra-Orthodox draft protests",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/israel-orthodox-riot-military-draft-judge.html"
+            }
+          ],
+          "titleTR" : "Ultra-Orthodox Riot Shocks Israelis In Latest Protest At Military Draft"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "category" : "Politics",
+          "descriptionTR" : "Gun battles erupted on Thursday, as armed groups loyal to rival politicians clashed. Residents said it was the worst fighting in years.",
+          "group" : "Somalia capital clashes",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/africa\/somalia-mogadishu-fighting.html"
+            }
+          ],
+          "titleTR" : "Fighting in Somalia’s Capital, Mogadishu: What’s Happening and Why It Matters"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "category" : "Politics",
+          "descriptionTR" : "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff.",
+          "group" : "Colombia presidential runoff",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-president-de-la-espriella-us-citizen.html"
+            }
+          ],
+          "titleTR" : "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia’s President?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "category" : "Politics",
+          "descriptionTR" : "A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.",
+          "group" : "Colombia election symbolism",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/americas\/colombia-world-cup-jersey-politics.html"
+            }
+          ],
+          "titleTR" : "Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
+          "category" : "Politics",
+          "descriptionTR" : "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+          "group" : "Europe migration rhetoric",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
+          "category" : "Politics",
+          "descriptionTR" : "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
+          "group" : "Ramaphosa corruption case",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "The cash-in-the-sofa saga that just won't go away for South Africa's president"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/",
+          "category" : "Politics",
+          "descriptionTR" : "The daughter of disgraced former president Alberto Fujimori, running again for the presidency, is herself deeply unpopular. So is her opponent.",
+          "group" : "Peru election comeback",
+          "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/",
+          "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/fourth-time-could-be-charm-keiko-fujimori-perus-most-polarizing-politician\/"
+            }
+          ],
+          "titleTR" : "Fourth time could be the charm for Keiko Fujimori, Peru’s most polarizing politician"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "C831F184-171A-513F-9641-7B2AE35F82FC",
+          "category" : "Politics",
+          "descriptionTR" : "While some powerful Russians shun the West, others want to restore ties and embrace friendly Westerners. President Vladimir V. Putin’s annual economic conference illustrates the conflicting impulses. ⁂ The summit comes as China positions itself as a global power player projecting stability in contrast to the U.S.'s economically damaging war against Iran and erratic tariff policies.",
+          "group" : "Russia-West cultural opening",
+          "id" : "C831F184-171A-513F-9641-7B2AE35F82FC",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-st-petersburg-forum-candace-owens.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/05\/xi-visit-north-korea-showing-chinas-importance-nuclear-armed-neighbor\/"
+            }
+          ],
+          "titleTR" : "Russia Rails Against the West but Welcomes Candace Owens and Andrew Tate ⁂ Xi to visit North Korea, showing China’s importance to a nuclear-armed neighbor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
+          "category" : "Security",
+          "descriptionTR" : "Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others.",
+          "group" : "Lebanon truce collapse",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-strike-lebanese-soldiers-general.html"
+            }
+          ],
+          "titleTR" : "Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
+          "category" : "Security",
+          "descriptionTR" : "Videos collected by The Times shows how the Israeli military has deployed a munition that can be extremely harmful over populated areas in Lebanon.",
+          "group" : "Lebanon phosphorus use",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/white-phosphorous-israel-lebanon.html"
+            }
+          ],
+          "titleTR" : "What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "category" : "Security",
+          "descriptionTR" : "The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.",
+          "group" : "Hezbollah drone defenses",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/hezbollah-fiber-optic-drones-israel.html"
+            }
+          ],
+          "titleTR" : "Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses"
+        },
+        {
+          "atomID" : "4FCC7B96-7CC6-54DA-BBAD-C223117B1162",
+          "category" : "Security",
+          "descriptionTR" : "The U.S.-brokered agreement requires Hezbollah, which Iran backs, to stop firing first. But the group, not party to the talks, rejected the conditions as a virtual surrender. ⁂ The U.S.-brokered deal depends on Hezbollah halting its attacks first. But the leader of the Iran-backed group rejected those terms, and Israel said that its offensive would continue.",
+          "group" : "Lebanon cease-fire failure",
+          "id" : "4FCC7B96-7CC6-54DA-BBAD-C223117B1162",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/lebanon-cease-fire-israel-hezbollah.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/lebanon-cease-fire-israel-hezbollah.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/lebanon-israel-ceasefire-hezbollah-strikes.html"
+            }
+          ],
+          "titleTR" : "Hopes of Lebanon Cease-Fire Falter as Israel and Hezbollah Fight On ⁂ Latest Israel-Lebanon Cease-Fire Shows Little Sign of Taking Hold"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo#0",
+          "category" : "Security",
+          "descriptionTR" : "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+          "group" : "US Iran ceasefire clashes",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "US and Iran exchange strikes in Gulf in latest test of ceasefire"
+        },
+        {
+          "atomID" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/",
+          "category" : "Security",
+          "descriptionTR" : "U.S. forces shot down Iranian missiles and drones launched toward the strait and neighboring countries.",
+          "group" : "US Iran Gulf escalation",
+          "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/",
+          "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says\/"
+            }
+          ],
+          "titleTR" : "Iran launched missiles and drones toward Strait of Hormuz, U.S. military says"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
+          "category" : "Security",
+          "descriptionTR" : "Jihadists have nearly tripled their attacks on urban areas. Analysts fear an extended standoff could lead to many more civilian deaths.",
+          "group" : "Mali rebel escalation",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/mali-rebels-fighting-jnim-isis.html"
+            }
+          ],
+          "titleTR" : "Mali Conflict Escalates as Rebel Alliance Seizes Key Cities"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "category" : "Security",
+          "descriptionTR" : "Guido Crosetto, Italy’s defense minister, said in an interview that European nations should forge a new joint defense system and take greater responsibility for their own security.",
+          "group" : "Europe defense alliance",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/eu-italy-defense-military-alliance-crosetto.html"
+            }
+          ],
+          "titleTR" : "Europe Needs New Military Alliance to Defend Itself, Italy Says"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "category" : "Security",
+          "descriptionTR" : "As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality.",
+          "group" : "Ireland defense buildup",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/ireland-defense.html"
+            }
+          ],
+          "titleTR" : "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html",
+          "category" : "Security",
+          "descriptionTR" : "“After 26 years in power, age is beginning to take its toll,” President Volodymyr Zelensky of Ukraine wrote of his Russian counterpart, bragging of a recent strike on St. Petersburg.",
+          "group" : "Ukraine Russia messaging",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/zelensky-putin-letter.html"
+            }
+          ],
+          "titleTR" : "Zelensky Mixes Taunts and Peace Talks Offer in Letter to Putin"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "category" : "Security",
+          "descriptionTR" : "The New York Times has been investigating the number of boat strikes and the death toll in the Caribbean and Eastern Pacific carried out by the Trump administration. Eric Schmitt, a national security correspondent for The Times, explains what those numbers mean.",
+          "group" : "US boat strikes",
+          "id" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "link" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/video\/world\/americas\/100000010937966\/why-we-track-number-american-strikes-boats.html"
+            }
+          ],
+          "titleTR" : "Tracking the Rising Death Toll From U.S. Boat Strikes"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "0A447DBD-76A0-510B-A091-CC1196730F92",
+          "category" : "Security",
+          "descriptionTR" : "It was the second such attack in days and came just hours after President Vladimir V. Putin spoke at an economic forum in the city. ⁂ Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
+          "group" : "Ukraine strikes Russia",
+          "id" : "0A447DBD-76A0-510B-A091-CC1196730F92",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/ukraine-drone-strike-st-petersburg.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/ukraine-drone-strike-st-petersburg.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ukraine Strikes St. Petersburg in Long-Range Drone Attack ⁂ Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "E5F9592A-2321-5587-B271-892A5F3DDB2D",
+          "category" : "Security",
+          "descriptionTR" : "Israel’s military said a soldier opened fire after Israeli troops “perceived a vehicle accelerating toward them.” The baby’s grandmother, who was in the car, disputed that account. ⁂ The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard. ⁂ The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+          "group" : "West Bank civilian killing",
+          "id" : "E5F9592A-2321-5587-B271-892A5F3DDB2D",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/middleeast\/israel-west-bank-infant.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cly8lgn0x30o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say ⁂ Funeral held for baby shot dead by Israeli troops in occupied West Bank ⁂ Lebanese general among three soldiers killed in Israeli attack on car"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "F2616A2C-952F-5A0F-A07C-011AE8545816",
+          "category" : "Security",
+          "descriptionTR" : "New Zealand’s foreign minister was “surprised” to hear about the one-year travel ban, a spokesperson said, given lawmakers have visited Taiwan for years without issues. ⁂ The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.",
+          "group" : "US Israel espionage",
+          "id" : "F2616A2C-952F-5A0F-A07C-011AE8545816",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/australia\/new-zealand-taiwan-china-travel-ban.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/australia\/new-zealand-taiwan-china-travel-ban.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/pentagon-sees-growing-espionage-threat-from-israel.html"
+            }
+          ],
+          "titleTR" : "Four New Zealand Lawmakers Banned From China After Taiwan Trip ⁂ Trump’s Defense Department Sees Growing Espionage Threat From Israel"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 26
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
+          "category" : "Health",
+          "descriptionTR" : "Severe heat waves have been hitting India since April, forcing many of the country’s essential workers to make tough decisions.",
+          "group" : "Delhi heat workers",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/india-heat-workers-health-income.html"
+            }
+          ],
+          "titleTR" : "Laboring Under Delhi’s Harsh Heat, Workers Must Choose Health or Wages"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 27
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "category" : "Health",
+          "descriptionTR" : "News of Crown Princess Mette-Marit’s worsening condition comes as a number of scandals have plunged the royal family into a deep crisis.",
+          "group" : "Norway royal health crisis",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/norway-princess-lung-transplant.html"
+            }
+          ],
+          "titleTR" : "Crown Princess Mette-Marit of Norway Is Placed on Lung Transplant List"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 28
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
+          "category" : "Health",
+          "descriptionTR" : "Light pollution prompts plants to shed pollen longer and stronger, according to new research.",
+          "group" : "Light pollution health effects",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/urban-light-pollution-pollen-allergies.html"
+            }
+          ],
+          "titleTR" : "Urban Light Pollution Might Be Worsening Allergies"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 29
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
+          "category" : "Health",
+          "descriptionTR" : "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
+          "group" : "Screwworm outbreak response",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Canada bans Texas cattle over flesh-eating screwworm outbreak in US"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
+          "category" : "Health",
+          "descriptionTR" : "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
+          "group" : "Screwworm outbreak response",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "US plans to fight flesh-eating screwworm outbreak with flies and dogs"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 30
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "4077E9C4-20F4-52BD-A55B-ED8097374D15",
+          "category" : "Health",
+          "descriptionTR" : "China is well positioned to help stop the deadly virus, and could move into a gap left by U.S. retreat. ⁂ Mining has been the lifeblood of this remote Congolese hill town for decades. Now, it is fueling the spread of a devastating virus. ⁂ Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 84, but the true toll may be far higher. ⁂ The vaccine development process and coordination between health organizations have improved since a devastating 2014-2016 outbreak. ⁂ Our chief Africa correspondent, Declan Walsh, reports from the epicenter of the Ebola outbreak on how the gold mining industry and the outbreak are linked. ⁂ In a remote mining town at the center of the Democratic Republic of Congo’s Ebola outbreak, grief and mistrust are complicating efforts to stop the virus. Health workers are trying to treat the ill and bury the dead, but some residents are still in denial that the disease is even real. ⁂ There are now 380 confirmed cases of Ebola in DR Congo, far lower than initial estimates of suspected cases, writes Fergus Walsh.",
+          "group" : "Ebola and mining",
+          "id" : "4077E9C4-20F4-52BD-A55B-ED8097374D15",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/asia\/as-ebola-spreads-in-east-africa-will-china-step-up.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/africa\/congo-ebola-gold-mine.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/05\/17\/world\/africa\/what-to-know-ebola-africa.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/africa\/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/video\/world\/africa\/100000010936243\/how-ebola-spreads-through-gold-mining.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/video\/world\/africa\/100000010942478\/ebola-congo-mistrust-grief.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "As Ebola Spreads in East Africa, Will China Step Up? ⁂ The Gold Mines at the Heart of This Ebola Outbreak ⁂ What to Know About the Ebola Outbreak ⁂ The World Has Learned From the Last Ebola Outbreak, but Gaps Remain ⁂ How Ebola Spreads Through Gold Mining ⁂ Mistrust Spreads With the Ebola Virus in Congo ⁂ Fall in official Ebola numbers appears to be good news but it's not that simple"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 31
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html",
+          "category" : "Culture",
+          "descriptionTR" : "Nearly 40,000 fans came out to hear the rapper formerly known as Kanye West in the Netherlands on Saturday, even as other European countries had canceled his concerts.",
+          "group" : "Ye Europe concerts",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/arts\/music\/ye-concert-bully-tour-netherlands.html"
+            }
+          ],
+          "titleTR" : "Despite Protest, Ye Takes the Stage for Thousands of European Fans"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "category" : "Culture",
+          "descriptionTR" : "Lawmakers and Jewish groups lodged protests over the rapper’s history of antisemitism. But those sensitivities ran headlong into the Netherlands’ robust free speech protections.",
+          "group" : "Ye Europe concerts",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/ye-tour-netherlands.html"
+            }
+          ],
+          "titleTR" : "Ye Concerts Have Been Canceled Across Europe. Why Not in the Netherlands?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 32
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html",
+          "category" : "Culture",
+          "descriptionTR" : "Long seen as the cool, coifed wife of the president, she emerged as a political player in her own right, as well as a relentless champion of charities.",
+          "group" : "French political legacy",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/bernadette-chirac-dead.html"
+            }
+          ],
+          "titleTR" : "Bernadette Chirac, Formidable Ex-First Lady of France, Dies at 93"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 33
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "category" : "Culture",
+          "descriptionTR" : "Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.",
+          "group" : "Persepolis author death",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/middleeast\/marjane-satrapi-dead.html"
+            }
+          ],
+          "titleTR" : "Marjane Satrapi, Artist and Author of ‘Persepolis,’ Dies at 56"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 34
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
+          "category" : "Culture",
+          "descriptionTR" : "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
+          "group" : "Anthony Head obituary",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "From Nescafe to Ted Lasso: Anthony Head's life in pictures"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 35
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
+          "category" : "Culture",
+          "descriptionTR" : "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
+          "group" : "Reflecting Pool renovation",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 1,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "'It looks black' - Americans react to Reflecting Pool's completed paint job"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 36
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "category" : "Law",
+          "descriptionTR" : "A federal judge has ruled that David Rush, the C.I.A. employee, must remain in detention. U.S. officials say Mr. Rush funneled millions in federal funds to himself.",
+          "group" : "CIA fraud case",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/us\/politics\/cia-officer-gold-fake-spy-program.html"
+            }
+          ],
+          "titleTR" : "C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 37
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
+          "category" : "Law",
+          "descriptionTR" : "Activists who were detained with a flotilla trying to reach the Gaza Strip have said they were abused while in Israel’s custody. Israeli authorities have denied mistreating them.",
+          "group" : "Gaza flotilla investigation",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/france-israel-flotilla-activists.html"
+            }
+          ],
+          "titleTR" : "France Opens Investigation Into Israeli Treatment of Pro-Palestinian Flotilla Activists"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 38
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "category" : "Psychology",
+          "descriptionTR" : "The tension between sticking to what we know and seeking out new experiences is one of comfort versus novelty. How can we have both?",
+          "group" : "Comfort versus novelty",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/briefing\/balancing-act.html"
+            }
+          ],
+          "titleTR" : "Balancing Act"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 39
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
+          "category" : "Sports",
+          "descriptionTR" : "Staggering ticket prices and lackluster matches have left thousands of seats in Toronto and Vancouver unsold just days before the tournament kicks off.",
+          "group" : "Canada World Cup interest",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/canada\/world-cup-canada-toronto-vancouver.html"
+            }
+          ],
+          "titleTR" : "The World Cup Comes to Canada. But Does Anyone Care?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 40
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "category" : "Sports",
+          "descriptionTR" : "Dawa Sherpa, 57, was found alive on Thursday, nearly a week after he was last seen on the mountain. His wife says more could have been done to find him sooner.",
+          "group" : "Everest rescue dispute",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/missing-sherpa-mount-everest-found.html"
+            }
+          ],
+          "titleTR" : "A Sherpa Survived 6 Days Alone on Everest. His Family Says He Was Abandoned."
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 41
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "category" : "Sports",
+          "descriptionTR" : "All the big names are out at the French Open. The result is a very confusing, and very exciting, tournament.",
+          "group" : "French Open shakeup",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/05int-theworld-tennis-french-open-satrapi-lebanon.html"
+            }
+          ],
+          "titleTR" : "Tennis Giants Tumble"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
+          "category" : "Sports",
+          "descriptionTR" : "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.",
+          "group" : "French Open breakthrough",
+          "id" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
+          "link" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Andreeva wins French Open as Chwalinska fairytale ends"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 42
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/",
+          "category" : "Sports",
+          "descriptionTR" : "The Italian Carlo Ancelotti, the most decorated club coach in soccer history, is the first foreigner to lead the most successful nation.",
+          "group" : "Brazil coaching reset",
+          "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/",
+          "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/ancelotti-an-italian-tries-lead-brazil-back-world-cup-glory\/"
+            }
+          ],
+          "titleTR" : "Brazil, 24 years from a World Cup title, looks to a foreigner to rediscover its soul"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 43
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "category" : "Royalty",
+          "descriptionTR" : "The queen’s third cousin, she was a bridesmaid at the royal wedding in 1947, and witnessed firsthand pivotal moments in British history.",
+          "group" : "British royal obituary",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/pamela-hicks-dead.html"
+            }
+          ],
+          "titleTR" : "Pamela Hicks, Lady-in-Waiting to Elizabeth II of Britain, Dies at 97"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 44
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "category" : "Royalty",
+          "descriptionTR" : "Andrew Mountbatten-Windsor received income from renting out three cottages at Royal Lodge, where he paid no rent himself, a British public spending watchdog found.",
+          "group" : "Prince Andrew finances",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/uk-prince-andrew-royal-lodge-property-sublet.html"
+            }
+          ],
+          "titleTR" : "Former Prince Andrew Sublet Cottages on Royal Property Where He Lived Rent-Free"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 45
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "category" : "Technology",
+          "descriptionTR" : "Scientists and U.S. military briefers have linked short, widespread interference incidents to Russia, revealing vulnerabilities in a technology essential to everyday society.",
+          "group" : "Russia GPS jamming",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/europe\/russia-satellites-gps-interference-europe.html"
+            }
+          ],
+          "titleTR" : "Russian Satellites Have Been Jamming GPS Signals Across Europe, Scientists Say"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 46
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "category" : "Technology",
+          "descriptionTR" : "The country on Thursday released a national artificial intelligence strategy that focuses on building its sovereign capability and protecting consumers.",
+          "group" : "Canada AI strategy",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/canada\/canada-national-ai-strategy.html"
+            }
+          ],
+          "titleTR" : "Wary of U.S., Carney Bets on AI Strategy for Canada"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 47
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "category" : "Religion",
+          "descriptionTR" : "The bissus of South Sulawesi are considered a link between the earthly and celestial because they are thought to embody both male and female traits.",
+          "group" : "Indonesian gender priests",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/asia\/transgender-priests-sulawesi-bissu-bugis.html"
+            }
+          ],
+          "titleTR" : "The Priests Revered in the Land of Five Genders"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 48
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "C926B127-30C5-5556-979D-8CB2DD87AD90",
+          "category" : "Religion",
+          "descriptionTR" : "Leo arrived in Spain on Saturday for a weeklong visit in which he will meet with migrants and may come under fire from Vox, Spain’s far-right party. ⁂ On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\". ⁂ On the first papal visit to Spain in 15 years, Leo plans to address political polarization and showcase the Catholic Church as an advocate for migrants and asylum seekers.",
+          "group" : "Pope Spain migration tour",
+          "id" : "C926B127-30C5-5556-979D-8CB2DD87AD90",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/06\/world\/europe\/leo-spain-visit.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/06\/pope-leo-visits-spain-conservative-catholics-say-church-is-too-liberal\/"
+            }
+          ],
+          "titleTR" : "Pope Leo, After Taking on Trump and A.I., Prepares for New Duels in Spain ⁂ Pope begins Spain visit with praise for country's opposition to war and support for migrants ⁂ Pope Leo visits a polarized Spain where conservatives are turning on the church"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 49
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.",
+          "group" : "China North Korea ties",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/asia\/china-north-korea-xi-jinping-visit.html"
+            }
+          ],
+          "titleTR" : "What To Know as China’s Xi Jinping Heads to North Korea"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 50
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "5DDD30E5-0849-50D3-9947-079712DD10E7",
+          "category" : "Diplomacy",
+          "descriptionTR" : "After months of doubts over their participation, Iran’s players have received visas for the United States just days before the World Cup begins. ⁂ Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+          "group" : "Iran World Cup visas",
+          "id" : "5DDD30E5-0849-50D3-9947-079712DD10E7",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/05\/world\/middleeast\/world-cup-iran-football-team-visas-war.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Iran’s Soccer Team Allowed Into U.S. for World Cup, but Many Staff Denied ⁂ Iran says staff blocked from entering US after players given World Cup visas"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 51
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "category" : "Transport",
+          "descriptionTR" : "The airline Lufthansa said the cause of the accident at Frankfurt Airport was under investigation. The plane can weigh 279 tons at takeoff.",
+          "group" : "Boeing 787 accident",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/world\/europe\/boeing-plane-nose-gear-collapse-frankfurt.html"
+            }
+          ],
+          "titleTR" : "Nose Gear on Boeing 787-9 Dreamliner Collapses, Injuring Several Workers"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 52
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "category" : "Environment",
+          "descriptionTR" : "A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news.",
+          "group" : "Deep sea mining",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/04\/climate\/deep-sea-mining-metals-company.html"
+            }
+          ],
+          "titleTR" : "How One Company Plans to Mine the Bottom of the Sea"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 53
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
+          "category" : "Environment",
+          "descriptionTR" : "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
+          "group" : "Australia mouse plague",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Why are devastating mice plagues happening in Australia?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 54
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
+          "category" : "",
+          "descriptionTR" : "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T00:18:15Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Rumours and speculation as fans forecast date of Taylor Swift's wedding"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T00:18:15Z",
+      "sessionID" : "publish-draft",
+      "slot" : 55
+    }
+  ],
+  "week" : "2026-W10"
+}
