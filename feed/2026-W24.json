@@ -1,0 +1,1782 @@
+{
+  "label" : "8–14 HAZIRAN",
+  "publishedAt" : "2026-06-07T22:06:07Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "category" : "Culture",
+          "descriptionTR" : "Papa Leo XIV tarafından yönetilen bir ayin için Pazar günü Madrid'in merkezine 1,2 milyondan fazla inanan akın etti. Papa, İspanya'da Katolik inancının yenilenmesi çağrısında bulundu.",
+          "group" : "Pope Spain mass",
+          "id" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "link" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/07\/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/religions\/article\/2026\/06\/07\/a-madrid-plus-d-un-million-de-fideles-reunis-pour-la-messe-du-pape-leon-xiv-en-presence-du-roi-felipe-vi_6698788_1653130.html"
+            }
+          ],
+          "titleTR" : "VİDEO. Papa'nın Madrid'deki ayininde 1,2 milyon inanan"
+        },
+        {
+          "atomID" : "77449027",
+          "category" : "Culture",
+          "descriptionTR" : "Pazar günü Papa Leo XIV, Madrid'de büyük kalabalıklar tarafından karşılandı. Papa, İspanya'da beş günlük bir gezi yapıyor ve bu süre zarfında göçmenler ve evsizler gibi savunmasız insanlarla buluşarak \"gerçek insan değerlerini\" teşvik ediyor.",
+          "group" : "Pope Spain mass",
+          "id" : "77449027",
+          "link" : "https:\/\/www.dw.com\/en\/pope-leo-in-spain-more-than-a-million-line-madrid-streets\/a-77449027?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/pope-leo-in-spain-more-than-a-million-line-madrid-streets\/a-77449027?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Papa Leo İspanya'da: Madrid sokaklarında bir milyondan fazla kişi"
+        },
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/world\/2026\/0607\/1577168-pope-spain\/",
+          "category" : "Culture",
+          "descriptionTR" : "Madrid'in ana meydanlarından birinin yakınındaki sokaklar, Papa Leo ile açık hava ayinine katılmak için bir milyondan fazla insanla doldu.",
+          "group" : "Pope Leo poverty message",
+          "id" : "https:\/\/www.rte.ie\/news\/world\/2026\/0607\/1577168-pope-spain\/",
+          "link" : "https:\/\/www.rte.ie\/news\/world\/2026\/0607\/1577168-pope-spain\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/world\/2026\/0607\/1577168-pope-spain\/"
+            }
+          ],
+          "titleTR" : "Papa Leo, 1,2 milyon kişiye Tanrı'nın yoksullarla birlikte olduğunu söyledi"
+        },
+        {
+          "atomID" : "fb7ef044-6183-11f1-b4ba-bd6934acf3aa",
+          "category" : "Culture",
+          "descriptionTR" : "Papa Leo XIV, İspanya'ya bir haftalık bir ziyaret başlattı ve Amerikan papa, Hristiyanlığın tarihi merkezlerinden birine, siyasi gerilim, sosyal değişim ve inanç hakkında yenilenen merakın olduğu bir dönemde geldi.",
+          "group" : "Catholic Europe visit",
+          "id" : "fb7ef044-6183-11f1-b4ba-bd6934acf3aa",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260606-pope-leo-xiv-visits-spain-as-church-seeks-a-fresh-voice-in-changing-europe",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260606-pope-leo-xiv-visits-spain-as-church-seeks-a-fresh-voice-in-changing-europe"
+            }
+          ],
+          "titleTR" : "Papa Leo XIV, değişen Avrupa'da Kilise'nin yeni bir ses arayışıyla İspanya'yı ziyaret ediyor"
+        },
+        {
+          "atomID" : "a15aba18-6150-11f1-a599-4fab70888c35",
+          "category" : "Culture",
+          "descriptionTR" : "Papa Leo XIV, göçmenlik konusuna odaklanan yedi günlük bir gezi için Cumartesi günü İspanya'ya geldi. Kanarya Adaları'na yapacağı ziyarette, Avrupa'ya ulaşmaya çalışırken ölen binlerce göçmeni onurlandıracak. Leo ayrıca, 1940'tan bu yana İspanya'da yaklaşık 200.000 çocuğun maruz kaldığı tahmin edilen Katolik din adamlarının cinsel istismarı mağdurlarıyla görüşecek.",
+          "group" : "Pope Leo migration tour",
+          "id" : "a15aba18-6150-11f1-a599-4fab70888c35",
+          "link" : "https:\/\/www.france24.com\/en\/more-than-a-million-attend-pope-leo-s-mass-in-spain",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/more-than-a-million-attend-pope-leo-s-mass-in-spain"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260607-more-than-1-2-million-people-attend-pope-s-mass-in-madrid"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/pope-leo-visits-spain-with-focus-on-immigration"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260606-pope-visits-spain-with-focus-on-migrants-amid-political-tensions"
+            }
+          ],
+          "titleTR" : "Papa Leo, göçmenlik konusunu vurgulamak ve din adamlarının cinsel istismarı mağdurlarıyla buluşmak için İspanya'yı ziyaret ediyor"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/international\/europe\/a-madrid-la-foule-la-chaleur-et-la-ferveur-pour-le-pape-leon-xiv-20260607_N32KSWV5BNDSRIQBC6ITDWT2IA\/",
+          "category" : "Culture",
+          "descriptionTR" : "Papa, 7 Haziran Pazar günü başkentte bir ayin ve ardından bir geçit töreni için 1 milyondan fazla İspanyol'u topladı. Bu süre zarfında \"insanları hor görenleri\" kınadı. Önümüzdeki günlerde göçmenlik konusuna dair açıklamalarda bulunması bekleniyor.",
+          "group" : "Pope Leo migration tour",
+          "id" : "https:\/\/www.liberation.fr\/international\/europe\/a-madrid-la-foule-la-chaleur-et-la-ferveur-pour-le-pape-leon-xiv-20260607_N32KSWV5BNDSRIQBC6ITDWT2IA\/",
+          "link" : "https:\/\/www.liberation.fr\/international\/europe\/a-madrid-la-foule-la-chaleur-et-la-ferveur-pour-le-pape-leon-xiv-20260607_N32KSWV5BNDSRIQBC6ITDWT2IA\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/europe\/a-madrid-la-foule-la-chaleur-et-la-ferveur-pour-le-pape-leon-xiv-20260607_N32KSWV5BNDSRIQBC6ITDWT2IA\/"
+            }
+          ],
+          "titleTR" : "Madrid'de Papa Leo XIV için kalabalık, sıcaklık ve coşku"
+        }
+      ],
+      "packetSpot" : "Papa Leo XIV, Madrid'de Kral VI. Felipe'nin de katıldığı ve 1,2 milyondan fazla kişinin katılımıyla gerçekleşen bir ayin düzenledi. Etkinlik, Papa'nın yoksul ve dışlanmışlarla dayanışma mesajını vurguladı ve büyük bir cemaate hitap etti.",
+      "packetTitle" : "Papa Leo XIV'in Madrid'deki Ayini 1 Milyondan Fazla Katılımcı Çekti",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/l-armee-israelienne-ouvre-une-enquete-apres-la-mort-d-un-bebe-palestinien-tue-par-un-de-ses-soldats-en-cisjordanie_6699157_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Ön soruşturmanın sonuçlarına göre, bir İsrail askeri, El-Halil'de cumartesi günü çocuğun içinde bulunduğu araca, araç bir askeri birliğe doğru hızlandığında ateş açtı.",
+          "group" : "West Bank violence",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/l-armee-israelienne-ouvre-une-enquete-apres-la-mort-d-un-bebe-palestinien-tue-par-un-de-ses-soldats-en-cisjordanie_6699157_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/l-armee-israelienne-ouvre-une-enquete-apres-la-mort-d-un-bebe-palestinien-tue-par-un-de-ses-soldats-en-cisjordanie_6699157_3210.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/l-armee-israelienne-ouvre-une-enquete-apres-la-mort-d-un-bebe-palestinien-tue-par-un-de-ses-soldats-en-cisjordanie_6699157_3210.html"
+            }
+          ],
+          "titleTR" : "İsrail ordusu, Batı Şeria'da bir askerinin bir Filistinli bebeği öldürmesinin ardından soruşturma başlattı"
+        },
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0606\/1577060-lebanon-israel\/",
+          "category" : "Security",
+          "descriptionTR" : "Yedi aylık bir bebek, İsrail işgali altındaki Batı Şeria'da toprağa verildi. Ailesinin ve Filistin Sağlık Bakanlığı'nın bildirdiğine göre, bebek El-Halil yakınlarında İsrail kuvvetleri tarafından vurularak öldürüldü ve ebeveynleri yaralandı.",
+          "group" : "West Bank child killing",
+          "id" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0606\/1577060-lebanon-israel\/",
+          "link" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0606\/1577060-lebanon-israel\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0606\/1577060-lebanon-israel\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0605\/1577040-west-bank-israel\/"
+            }
+          ],
+          "titleTR" : "İsrail kuvvetleri tarafından öldürülen yedi aylık bebek toprağa verildi"
+        }
+      ],
+      "packetSpot" : "İsrail ordusu, Batı Şeria'da İsrail kuvvetleri tarafından öldürüldüğü bildirilen yedi aylık Filistinli bir bebeğin ölümü üzerine soruşturma başlattı. Olay, Filistin Sağlık Bakanlığı ve çocuğun ailesi de dahil olmak üzere çeşitli taraflardan hesap verme çağrılarına yol açarak büyük ilgi topladı.",
+      "packetTitle" : "Batı Şeria'da İsrail Kuvvetleri Tarafından Öldürülen Filistinli Bebeğin Ölümü Üzerine Soruşturma",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/vous-etes-une-chaine-biaisee-et-malhonnete-desole-on-arrete-la-une-interview-de-donald-trump-accordee-a-la-chaine-nbc-degenere_6699154_3210.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan, özellikle İran ve 'anti-enstrümantalizasyon fonu' hakkında gazeteci Kristen Welker tarafından sorulan sorulardan memnun kalmadı. Hava koşullarıyla ilgili sorunlar da görüşmeye zorluklar ekledi ve Donald Trump sonunda görüşmeyi aniden sonlandırdı.",
+          "group" : "Trump media clash",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/vous-etes-une-chaine-biaisee-et-malhonnete-desole-on-arrete-la-une-interview-de-donald-trump-accordee-a-la-chaine-nbc-degenere_6699154_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/vous-etes-une-chaine-biaisee-et-malhonnete-desole-on-arrete-la-une-interview-de-donald-trump-accordee-a-la-chaine-nbc-degenere_6699154_3210.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/07\/vous-etes-une-chaine-biaisee-et-malhonnete-desole-on-arrete-la-une-interview-de-donald-trump-accordee-a-la-chaine-nbc-degenere_6699154_3210.html"
+            }
+          ],
+          "titleTR" : "\"Yanlı ve dürüst olmayan bir kanalsınız. Üzgünüm, burada bitiriyoruz\": Donald Trump'ın NBC'ye verdiği röportaj bozuldu"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/international\/amerique\/vous-etes-soit-corrompue-soit-debile-trump-met-fin-a-une-interview-en-insultant-la-journaliste-20260607_MGUAZZIOJZEMPGKTRBMAKLZECA\/",
+          "category" : "Politics",
+          "descriptionTR" : "Bir çiftlikte ve şiddetli yağmur altında gerçekleştirilen röportaj, olağanüstü koşullar altında yapıldı. Amerikan başkanının İran hakkındaki sorulara sinirlenmesiyle röportaj son buldu.",
+          "group" : "Trump media clash",
+          "id" : "https:\/\/www.liberation.fr\/international\/amerique\/vous-etes-soit-corrompue-soit-debile-trump-met-fin-a-une-interview-en-insultant-la-journaliste-20260607_MGUAZZIOJZEMPGKTRBMAKLZECA\/",
+          "link" : "https:\/\/www.liberation.fr\/international\/amerique\/vous-etes-soit-corrompue-soit-debile-trump-met-fin-a-une-interview-en-insultant-la-journaliste-20260607_MGUAZZIOJZEMPGKTRBMAKLZECA\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/amerique\/vous-etes-soit-corrompue-soit-debile-trump-met-fin-a-une-interview-en-insultant-la-journaliste-20260607_MGUAZZIOJZEMPGKTRBMAKLZECA\/"
+            }
+          ],
+          "titleTR" : "\"Ya yolsuzsunuz ya da aptal\": Trump, gazeteciye hakaret ederek röportajı sonlandırıyor"
+        }
+      ],
+      "packetSpot" : "Donald Trump, NBC ile yaptığı bir röportaj sırasında gazeteci Kristen Welker'a hakaret ederek görüşmeyi aniden sonlandırdı. Olay, Trump'ın medya ile tartışmalı ilişkisini ve röportajlardaki çatışmacı tarzını vurguluyor.",
+      "packetTitle" : "Donald Trump, NBC Röportajını Hakaretlerle Aniden Bitirdi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Pazar günü erken saatlerde Tahran, İsrail'in Beyrut'un güney banliyösüne, İran yanlısı Hizbullah'ın kalesine yönelik saldırılarına misilleme olarak Orta Doğu'daki Amerikan ve İsrail çıkarlarını vurmakla tehdit etmişti. İsrail askeri açıklamasına göre, \"Hava kuvvetleri şu ana kadar İran'dan atılan tüm füzeleri engelledi.\"",
+          "group" : "Iran Israel escalation",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html"
+            }
+          ],
+          "titleTR" : "Orta Doğu'da Canlı Yayın: İsrail, 8 Nisan'daki ateşkesten bu yana ilk kez İran füzelerinin hedefi olduğunu açıkladı"
+        },
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0607\/1577193-israel-lebanon\/",
+          "category" : "Security",
+          "descriptionTR" : "İran Devrim Muhafızları, İsrail'e yönelik füze saldırısının, günün erken saatlerinde Beyrut'a yapılan İsrail saldırısına bir \"uyarı\" olduğunu belirtti ve yeni bir saldırı durumunda daha geniş çaplı saldırılarla tehdit etti.",
+          "group" : "Iran Israel escalation",
+          "id" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0607\/1577193-israel-lebanon\/",
+          "link" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0607\/1577193-israel-lebanon\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0607\/1577193-israel-lebanon\/"
+            }
+          ],
+          "titleTR" : "İran'dan Beyrut saldırısına 'uyarı' olarak İsrail'e hedefli saldırı"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4\/",
+          "category" : "Security",
+          "descriptionTR" : "Pazar günü, İsrail'in Lübnan'ın başkenti Beyrut'un güney banliyösüne düzenlediği saldırılarda iki kişi hayatını kaybetti. İsrail ordusuna göre, İran, İsrail topraklarına füze saldırısı düzenledi.",
+          "group" : "Middle East missile exchange",
+          "id" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4\/",
+          "link" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/en-direct-guerre-au-moyen-orient-les-etats-unis-abattent-des-drones-iraniens-israel-frappe-par-des-tirs-venus-du-liban-20260607_ZH6FB7MAHVB4BEMPYSDH4L6GL4\/"
+            }
+          ],
+          "titleTR" : "Orta Doğu Savaşı: İsrail, İran füzelerinin ardından pazartesi günü okulları kapatacağını açıkladı, bu 8 Nisan'daki ateşkesten bu yana ilk saldırı"
+        }
+      ],
+      "packetSpot" : "İran, Beyrut'taki bir saldırıya yanıt olarak İsrail'e füze saldırıları düzenledi. Bu olay, 8 Nisan'daki ateşkesten bu yana ilk kez gerçekleşti. İsrail ise okulları kapatma kararı alarak bölgede artan gerilimi vurguladı.",
+      "packetTitle" : "Beyrut Saldırısı Sonrası İran'dan İsrail'e Füze Saldırıları",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77448846",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna Devlet Başkanı Volodimir Zelenski, Çernobil yakınlarındaki bir nükleer depolama tesisine yapılan Rus saldırısını \"alçakça\" olarak nitelendirdi. BM'nin nükleer gözlemcisi, tesiste artan radyasyon kaydedilmediğini belirtti.",
+          "group" : "Ukraine nuclear strike",
+          "id" : "77448846",
+          "link" : "https:\/\/www.dw.com\/en\/ukraine-russian-drone-hits-nuclear-fuel-storage-facility\/a-77448846?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/ukraine-russian-drone-hits-nuclear-fuel-storage-facility\/a-77448846?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Ukrayna: Rusya'nın insansız hava aracı nükleer yakıt depolama tesisini vurdu"
+        },
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/ukraine\/2026\/0607\/1577157-ukraine-russia\/",
+          "category" : "Security",
+          "descriptionTR" : "Volodimir Zelenski, Rus güçlerinin Ukrayna'nın Çernobil nükleer santrali yakınlarındaki harcanmış nükleer yakıt depolama tesisini kasten vurduğunu söyledi.",
+          "group" : "Chornobyl nuclear strike",
+          "id" : "https:\/\/www.rte.ie\/news\/ukraine\/2026\/0607\/1577157-ukraine-russia\/",
+          "link" : "https:\/\/www.rte.ie\/news\/ukraine\/2026\/0607\/1577157-ukraine-russia\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/ukraine\/2026\/0607\/1577157-ukraine-russia\/"
+            }
+          ],
+          "titleTR" : "Rusya, Çernobil yakınlarındaki nükleer yakıt depolama tesisini vurdu"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna'nın güneyinde cephe hattına yakın olan Zaporijya, Avrupa'nın en büyük nükleer santrali.",
+          "group" : "Zaporizhzhia nuclear risk",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884"
+            }
+          ],
+          "titleTR" : "İnsansız hava aracı Ukrayna'da ele geçirilen nükleer santrali vurdu – UAEA"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/international\/europe\/frappe-russe-sur-un-site-de-stockage-de-combustible-nucleaire-en-ukraine-zelensky-denonce-un-acte-dune-lachete-absolue-20260607_LOB5OIRQDZHPHJADDPM2HBMKQQ\/",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna'da dört kişi insansız hava aracı saldırıları sonucu hayatını kaybetti. Bu pazar, 7 Haziran'da, Ukrayna Devlet Başkanı Emmanuel Macron, Friedrich Merz ve Keir Starmer ile bir araya geliyor.",
+          "group" : "Ukraine nuclear site strike",
+          "id" : "https:\/\/www.liberation.fr\/international\/europe\/frappe-russe-sur-un-site-de-stockage-de-combustible-nucleaire-en-ukraine-zelensky-denonce-un-acte-dune-lachete-absolue-20260607_LOB5OIRQDZHPHJADDPM2HBMKQQ\/",
+          "link" : "https:\/\/www.liberation.fr\/international\/europe\/frappe-russe-sur-un-site-de-stockage-de-combustible-nucleaire-en-ukraine-zelensky-denonce-un-acte-dune-lachete-absolue-20260607_LOB5OIRQDZHPHJADDPM2HBMKQQ\/",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/europe\/frappe-russe-sur-un-site-de-stockage-de-combustible-nucleaire-en-ukraine-zelensky-denonce-un-acte-dune-lachete-absolue-20260607_LOB5OIRQDZHPHJADDPM2HBMKQQ\/"
+            }
+          ],
+          "titleTR" : "Rusya'nın Ukrayna'daki nükleer yakıt depolama tesisine saldırısı, Zelenski 'mutlak bir korkaklık' olarak nitelendirdi"
+        }
+      ],
+      "packetSpot" : "Rus güçleri, Ukrayna'da Çernobil yakınlarındaki bir nükleer yakıt depolama tesisine insansız hava aracı saldırısı düzenledi. Saldırı, Ukrayna Devlet Başkanı Volodimir Zelenski tarafından kınandı ve uluslararası dikkat ve endişe çekti.",
+      "packetTitle" : "Rusya'dan Çernobil Yakınlarındaki Ukrayna Nükleer Yakıt Depolama Tesisine İHA Saldırısı",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77390725",
+          "category" : "Politics",
+          "descriptionTR" : "Kosova'da pazar günü yapılan seçim — 16 ay içinde üçüncü kez — eski müttefikler Başbakan Albin Kurti ve eski Cumhurbaşkanı Vjosa Osmani arasındaki çatışma, Sırbistan ile diyalogdaki çıkmaz ve AB entegrasyonuna yönelik engellerle dikkat çekiyor.",
+          "group" : "Kosovo election deadlock",
+          "id" : "77390725",
+          "link" : "https:\/\/www.dw.com\/en\/kosovo-holds-third-election-in-16-months\/a-77447536?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/kosovo-holds-third-election-in-16-months\/a-77447536?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/successive-elections-take-a-hit-on-kosovo-s-coffers\/a-77390725?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Arka arkaya yapılan seçimler Kosova'nın kasasını zorluyor"
+        },
+        {
+          "atomID" : "1e11ff8a-6255-11f1-8ace-7fbfbf23a63e",
+          "category" : "Politics",
+          "descriptionTR" : "Kosovalılar, Avrupa'nın en genç devletinde siyasi çıkmaz nedeniyle artan hayal kırıklığının seçmenlerin sabrını zorladığı bir dönemde, bir yıl içinde üçüncü kez erken seçim için pazar günü oy kullanmaya başladı.",
+          "group" : "Balkan political instability",
+          "id" : "1e11ff8a-6255-11f1-8ace-7fbfbf23a63e",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260607-kosovo-votes-again-in-snap-election-as-frustration-grows-over-political-gridlock",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260607-kosovo-votes-again-in-snap-election-as-frustration-grows-over-political-gridlock"
+            }
+          ],
+          "titleTR" : "Kosova, siyasi çıkmaz nedeniyle artan hayal kırıklığıyla yeniden erken seçime gidiyor"
+        },
+        {
+          "atomID" : "7b899140-6292-11f1-b667-3d0859901ab6",
+          "category" : "Politics",
+          "descriptionTR" : "\"Yeter Artık\", Kosova seçimlerinde oy kullanırken Priştine'de emekli bir öğretmen olan Gezim Selimi'nin sözleri. Gazeteciler tarafından Kosova'da yeniden oy kullanmanın nasıl bir şey olduğu hakkında sorulan seçmenlerden biriydi.",
+          "group" : "Kosovo political deadlock",
+          "id" : "7b899140-6292-11f1-b667-3d0859901ab6",
+          "link" : "https:\/\/www.france24.com\/en\/tv-shows\/spotlight\/20260607-kosovo-former-president-warns-of-the-cost-of-political-deadlock",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/tv-shows\/spotlight\/20260607-kosovo-former-president-warns-of-the-cost-of-political-deadlock"
+            }
+          ],
+          "titleTR" : "Kosova: Eski Cumhurbaşkanından siyasi çıkmazın maliyeti hakkında uyarı"
+        }
+      ],
+      "packetSpot" : "Kosova, devam eden siyasi çıkmaz nedeniyle bir dizi erken seçim yaşıyor ve son seçim sadece 16 ay içinde üçüncü oldu. Bu seçim döngüsü ülkenin mali kaynaklarını zorlarken, vatandaşlar ve siyasi liderler arasında yaygın bir hayal kırıklığına neden oluyor.",
+      "packetTitle" : "Kosova'da Siyasi Çıkmaz Ortasında Tekrarlanan Seçimler",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77447079",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Ermeniler, AB yanlısı Başbakan Nikol Paşinyan ile Rusya yanlısı muhalefeti karşı karşıya getiren seçimlerde oy kullandı. Uzun zamandır düşman olan Azerbaycan ile barış çabaları da ana seçim konularından biri.",
+          "group" : "Armenia EU shift",
+          "id" : "77447079",
+          "link" : "https:\/\/www.dw.com\/en\/armenia-votes-in-election-with-russia-and-eu-looking-on\/a-77447079?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/armenia-votes-in-election-with-russia-and-eu-looking-on\/a-77447079?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Rusya ve AB'nin Gözleri Üzerinde: Ermenistan Seçimlerde Oy Kullandı"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Oylamadan haftalar önce Rusya, Ermenistan'dan birkaç ürünün ithalatını yasakladı - bu, ülkeye ekonomik baskı uygulama hamlesi olarak görülüyor.",
+          "group" : "Armenia Russia pivot",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949"
+            }
+          ],
+          "titleTR" : "Başbakanın Rusya'dan Uzaklaşma Hamlesinin Testi: Ermenistan Oy Kullanıyor"
+        },
+        {
+          "atomID" : "ad6ae548-60de-11f1-a9b9-c36e8921282f",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Ermeniler, Nikol Paşinyan'ın Batı yanlısı rotasının testi olarak görülen parlamento seçimlerinde oy kullanırken, RFI iki bölgesel uzmana seçim sonucunun Azerbaycan ile barış ve Rusya ile ilişkiler için ne anlama gelebileceğini soruyor.",
+          "group" : "Armenia westward pivot",
+          "id" : "ad6ae548-60de-11f1-a9b9-c36e8921282f",
+          "link" : "https:\/\/www.rfi.fr\/en\/podcasts\/international-report\/20260607-caught-between-moscow-and-the-west-armenia-goes-to-the-polls",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/podcasts\/international-report\/20260607-caught-between-moscow-and-the-west-armenia-goes-to-the-polls"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260607-armenia-s-elections-to-deliver-verdict-on-cautious-pivot-west"
+            }
+          ],
+          "titleTR" : "Ermenistan Seçimi: Oylama Rusya, Batı ve Azerbaycan İçin Ne Anlama Gelebilir?"
+        },
+        {
+          "atomID" : "f1d0c0fc-6045-11f1-b309-95aa239b7643",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Bir oy sandığı, iki rekabetçi mücadele. Ermenistan'da seçmenler, ülkelerinin gelecekteki yönünü belirlemek için sandık başına gidiyor. Ancak siyasi kampanyaların altında çok daha sinsi bir savaş yatıyor. Analistler, çoğu Rusya'ya dayanan büyük, koordineli bir yabancı yanıltıcı bilgi ağının, son savaşların derin travmasını sistematik olarak silahlandırdığını uyarıyor. FRANCE 24'ten Olivia Bizot, Yerevan'dan bildiriyor.",
+          "group" : "Armenia election disinformation",
+          "id" : "f1d0c0fc-6045-11f1-b309-95aa239b7643",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/massive-disinformation-campaign-underway-in-armenia-ahead-of-elections-analysts-warn"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260604-russia-ramps-pressure-on-armenia-ahead-of-sunday-s-crucial-election"
+            }
+          ],
+          "titleTR" : "Analistler Uyarıyor: Ermenistan'da Seçimler Öncesi Büyük Yanıltıcı Bilgi Kampanyası"
+        }
+      ],
+      "packetSpot" : "Ermenistan'ın parlamento seçimi, Başbakan Nikol Paşinyan'ın Rusya'dan uzaklaşma hamlesiyle dış politika yönünde kritik bir dönemeç olarak hizmet ediyor. Seçim, Rusya'nın baskısı ve Batı'nın yakından izlemesiyle önemli uluslararası ilgi görüyor.",
+      "packetTitle" : "Rusya'nın Etkisi ve Batı'nın Hedefleri Arasında Ermenistan'ın Kritik Seçimi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77447036",
+          "category" : "Security",
+          "descriptionTR" : "Yetkililer, Toledo'nun Old West End Festival yakınında meydana gelen silahlı saldırıda iki kurbanın kritik durumda olduğunu ve şüphelilerin hala kaçak olduğunu belirtti.",
+          "group" : "Ohio festival shooting",
+          "id" : "77447036",
+          "link" : "https:\/\/www.dw.com\/en\/us-12-injured-after-shooting-near-festival-in-ohio-police-hunt-suspects\/a-77447036?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/us-12-injured-after-shooting-near-festival-in-ohio-police-hunt-suspects\/a-77447036?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "ABD: Ohio'da festival yakınında silahlı saldırı sonrası 12 kişi yaralandı, polis şüphelileri arıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/us\/2026\/0607\/1577150-us-police-search-for-gunmen-after-festival-shooting\/",
+          "category" : "Security",
+          "descriptionTR" : "Ohio'daki bir topluluk festivaline yakın bir yerde çıkan çatışmada en az 12 kişi vurularak yaralandı, polis henüz şüphelileri yakalayamadı.",
+          "group" : "US festival shooting",
+          "id" : "https:\/\/www.rte.ie\/news\/us\/2026\/0607\/1577150-us-police-search-for-gunmen-after-festival-shooting\/",
+          "link" : "https:\/\/www.rte.ie\/news\/us\/2026\/0607\/1577150-us-police-search-for-gunmen-after-festival-shooting\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/us\/2026\/0607\/1577150-us-police-search-for-gunmen-after-festival-shooting\/"
+            }
+          ],
+          "titleTR" : "ABD festivaline yakın yerde 12 kişinin yaralandığı saldırı sonrası insan avı"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/international\/amerique\/etats-unis-dans-lohio-des-tirs-font-12-blesses-en-marge-dune-fete-locale-20260607_FUV23GAYCJCNDAJBL2DEWPMGUI\/",
+          "category" : "Security",
+          "descriptionTR" : "Kurbanların çoğu yaklaşık 20 yaşında. Polis hala saldırganları arıyor.",
+          "group" : "US mass shooting Ohio",
+          "id" : "https:\/\/www.liberation.fr\/international\/amerique\/etats-unis-dans-lohio-des-tirs-font-12-blesses-en-marge-dune-fete-locale-20260607_FUV23GAYCJCNDAJBL2DEWPMGUI\/",
+          "link" : "https:\/\/www.liberation.fr\/international\/amerique\/etats-unis-dans-lohio-des-tirs-font-12-blesses-en-marge-dune-fete-locale-20260607_FUV23GAYCJCNDAJBL2DEWPMGUI\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/amerique\/etats-unis-dans-lohio-des-tirs-font-12-blesses-en-marge-dune-fete-locale-20260607_FUV23GAYCJCNDAJBL2DEWPMGUI\/"
+            }
+          ],
+          "titleTR" : "ABD: Ohio'da yerel bir festivalin kenarında 12 kişi yaralandı"
+        }
+      ],
+      "packetSpot" : "Toledo, Ohio'daki Old West End Festival yakınlarında meydana gelen silahlı saldırıda 12 kişi yaralandı. Yetkililer, olayla ilgili şüpheliler için insan avı başlattı.",
+      "packetTitle" : "Ohio Festivalinde Silahlı Saldırı: 12 Yaralı, Polis İnsan Avı Başlattı",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77419269",
+          "category" : "Culture",
+          "descriptionTR" : "Övgüyle karşılanan grafik roman ve filmin İran doğumlu yazarı, İran'ın İslami Devrimi'ne dair derinlemesine kişisel bir anlatım sundu.",
+          "group" : "Marjane Satrapi legacy",
+          "id" : "77419269",
+          "link" : "https:\/\/www.dw.com\/en\/marjane-satrapi-author-of-persepolis-dies-at-56\/a-77419269?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/marjane-satrapi-author-of-persepolis-dies-at-56\/a-77419269?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "'Persepolis'in Yazarı Marjane Satrapi 56 Yaşında Hayatını Kaybetti"
+        },
+        {
+          "atomID" : "c06b84d6-5ff8-11f1-a22b-eb0c22d17ac3",
+          "category" : "Culture",
+          "descriptionTR" : "Grafik roman ve film Persepolis ile tanınan Fransız-İranlı yazar ve film yönetmeni Marjane Satrapi, 56 yaşında hayatını kaybetti.",
+          "group" : "Iranian literary obituary",
+          "id" : "c06b84d6-5ff8-11f1-a22b-eb0c22d17ac3",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260604-marjane-satrapi-french-iranian-author-of-persepolis-dies-aged-56",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260604-marjane-satrapi-french-iranian-author-of-persepolis-dies-aged-56"
+            }
+          ],
+          "titleTR" : "'Persepolis'in Fransız-İranlı Yazarı Marjane Satrapi 56 Yaşında Vefat Etti"
+        }
+      ],
+      "packetSpot" : "Fransız-İranlı ünlü yazar ve 'Persepolis' grafik romanının yaratıcısı Marjane Satrapi, 56 yaşında hayatını kaybetti. Eserleri, edebiyat ve grafik hikaye anlatımı üzerinde önemli bir etki bıraktı.",
+      "packetTitle" : "'Persepolis'in Yazarı Marjane Satrapi 56 Yaşında Hayatını Kaybetti",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77409540",
+          "category" : "Environment",
+          "descriptionTR" : "Donald Trump'ın damadı, Arnavutluk'un korunan kıyısında protestolara ve AB'nin flamingo ve tehlike altındaki habitatlara yönelik riskler konusunda incelemesine neden olan bir mega projeyle ilişkilendiriliyor.",
+          "group" : "Albania resort protests",
+          "id" : "77409540",
+          "link" : "https:\/\/www.dw.com\/en\/kushner-backed-albania-resort-sparks-protests-eu-concerns\/a-77409540?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/kushner-backed-albania-resort-sparks-protests-eu-concerns\/a-77409540?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Kushner destekli Arnavutluk tatil köyü protestoları ve AB endişelerini tetikliyor"
+        },
+        {
+          "atomID" : "f9a6c88c-6048-11f1-88fc-2d2df58bd474",
+          "category" : "Environment",
+          "descriptionTR" : "Perşembe günü, Jared Kushner tarafından desteklenen ve Donald Trump'ın kızı Ivanka Trump'ın eşi olan milyar dolarlık lüks tatil köyü planları nedeniyle Arnavutluk'ta art arda dördüncü protesto günüydü. Ancak çevrimiçi ortamda, yanlış bilgi içeren videolar hızla yayılıyor; sosyal medya kullanıcıları, eski ve bağlam dışı görüntüleri, mevcut gösterilerin sahneleri olarak yanlış bir şekilde sunuyor. Birçok protestocu, Kushner destekli gelişmenin korunan bir vahşi yaşam ekosistemini yok edebileceğinden korkuyor.",
+          "group" : "Albania resort protests",
+          "id" : "f9a6c88c-6048-11f1-88fc-2d2df58bd474",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260606-albanians-protest-jared-kushner-backed-resort-plan-on-nature-reserve",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260606-albanians-protest-jared-kushner-backed-resort-plan-on-nature-reserve"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/viral-videos-mislead-as-albania-erupts-against-kushner-linked-luxury-resort"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260604-albania-luxury-complex-project-linked-to-trump-s-family-sparks-outrage"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260604-what-we-know-about-jared-kushner-backed-luxury-resort-sparking-outrage-in-albania"
+            }
+          ],
+          "titleTR" : "Yanlış videolar, Arnavutluk'un Kushner tatil köyü planına karşı protestolarını karıştırıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/international\/europe\/en-albanie-le-projet-touristique-a-plusieurs-milliards-deuros-de-la-famille-trump-fait-exploser-la-colere-sociale-20260607_OYDNSIDKIBHNXHR5TJPSB5F3VQ\/",
+          "category" : "Environment",
+          "descriptionTR" : "Korunan bir bölgenin savunulması ve Jared Kushner ile Ivanka Trump tarafından desteklenen bir mega projeye karşı çıkan göstericiler, 1 Haziran'dan bu yana Tiran'da, küçük bir oligarşinin çıkarlarına hizmet eden, yolsuzlukla bozulmuş bir sistemi kınıyorlar.",
+          "group" : "Albania resort protests",
+          "id" : "https:\/\/www.liberation.fr\/international\/europe\/en-albanie-le-projet-touristique-a-plusieurs-milliards-deuros-de-la-famille-trump-fait-exploser-la-colere-sociale-20260607_OYDNSIDKIBHNXHR5TJPSB5F3VQ\/",
+          "link" : "https:\/\/www.liberation.fr\/international\/europe\/en-albanie-le-projet-touristique-a-plusieurs-milliards-deuros-de-la-famille-trump-fait-exploser-la-colere-sociale-20260607_OYDNSIDKIBHNXHR5TJPSB5F3VQ\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/europe\/en-albanie-le-projet-touristique-a-plusieurs-milliards-deuros-de-la-famille-trump-fait-exploser-la-colere-sociale-20260607_OYDNSIDKIBHNXHR5TJPSB5F3VQ\/"
+            }
+          ],
+          "titleTR" : "Arnavutluk'ta Trump ailesinin milyarlarca euroluk turizm projesi toplumsal öfkeyi patlatıyor"
+        }
+      ],
+      "packetSpot" : "Jared Kushner ve Trump ailesiyle bağlantılı Arnavutluk'taki lüks bir tatil köyü projesi, büyük protestolar ve Avrupa Birliği'nden endişeler yarattı. Doğa koruma alanı için planlanan proje, kamuoyunun öfkesinin ve yanlış bilgi kampanyalarının odak noktası haline geldi.",
+      "packetTitle" : "Kushner destekli tatil köyü projesi Arnavutluk'ta protestolar ve tartışmalara yol açıyor",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77399817",
+          "category" : "Security",
+          "descriptionTR" : "Göstericiler, Aralık ayında finans öğrencisi Henry Nowak'ın öldürülmesi üzerine Southampton'da polisle çatıştı. Ölümcül şekilde yaralanan kurban, katili tarafından ırkçı tacizle suçlandıktan sonra polis tarafından kelepçelendi.",
+          "group" : "UK protest over murder",
+          "id" : "77399817",
+          "link" : "https:\/\/www.dw.com\/en\/uk-protest-erupts-over-student-murder\/a-77399817?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/uk-protest-erupts-over-student-murder\/a-77399817?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "İngiltere: Öğrenci cinayeti üzerine protesto patlak verdi"
+        },
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/world\/2026\/0606\/1577143-corbyn-nowak-vance\/",
+          "category" : "Security",
+          "descriptionTR" : "Eski Birleşik Krallık İşçi Partisi lideri Jeremy Corbyn, ABD Başkan Yardımcısı JD Vance'in 18 yaşındaki Henry Nowak'ın ölümüyle ilgili yorumlarını görmezden gelinmesi ve bunun yerine babası Mark Nowak'ın sükunet çağrılarına kulak verilmesi gerektiğini söyledi.",
+          "group" : "Vance immigration row",
+          "id" : "https:\/\/www.rte.ie\/news\/world\/2026\/0606\/1577143-corbyn-nowak-vance\/",
+          "link" : "https:\/\/www.rte.ie\/news\/uk\/2026\/0607\/1577186-vance-lammy\/",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/uk\/2026\/0607\/1577186-vance-lammy\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/world\/2026\/0606\/1577143-corbyn-nowak-vance\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/uk\/2026\/0605\/1576883-henry-nowak\/"
+            }
+          ],
+          "titleTR" : "Corbyn, JD Vance'in Nowak yorumlarını görmezden gelin çağrısı yaptı"
+        },
+        {
+          "atomID" : "70a797c6-61a3-11f1-ba1d-8fed63f46430",
+          "category" : "Security",
+          "descriptionTR" : "Birleşik Krallık Başbakanı Keir Starmer'ın ofisi, ABD Başkan Yardımcısı JD Vance'in, bir üniversite öğrencisinin göç nedeniyle öldüğünü söyleyen yorumlarını Cuma günü kınadı. Öğrenci, bıçak yarasından ölürken kelepçelenmişti.",
+          "group" : "Europe migration rhetoric",
+          "id" : "70a797c6-61a3-11f1-ba1d-8fed63f46430",
+          "link" : "https:\/\/www.france24.com\/en\/uk-pm-criticises-vance-over-comments-about-teen-s-stabbing-death",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/uk-pm-criticises-vance-over-comments-about-teen-s-stabbing-death"
+            }
+          ],
+          "titleTR" : "İngiltere Başbakanı, gencin bıçaklanarak ölümüyle ilgili yorumları nedeniyle Vance'i eleştirdi"
+        }
+      ],
+      "packetSpot" : "İngiltere liderleri ve siyasi figürleri, ABD Başkan Yardımcısı JD Vance'in Henry Nowak davasıyla ilgili yaptığı yorumlara sert tepki gösterdi. Öğrenci cinayeti protestolara yol açarken, İngiltere hükümeti ve çeşitli politikacılar Vance'in açıklamalarını iç işlerine müdahale olarak eleştirdi ve uluslararası ilişkilerdeki gerilimleri vurguladı.",
+      "packetTitle" : "JD Vance'in Henry Nowak Davası Hakkındaki Yorumlarına İngiltere'den Siyasi Tepkiler",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77353620",
+          "category" : "Politics",
+          "descriptionTR" : "Malta'da parlamento seçimi için oy kullanma işlemi devam ediyor. Kamuoyu yoklamaları, Başbakan Robert Abela'nın Orta Doğu krizi gölgesinde yeniden seçilme yolunda olduğunu gösteriyor.",
+          "group" : "Malta snap election",
+          "id" : "77353620",
+          "link" : "https:\/\/www.dw.com\/en\/malta-votes-in-snap-parliamentary-election\/a-77353620?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/malta-votes-in-snap-parliamentary-election\/a-77353620?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Malta'da erken parlamento seçimi için oy kullanılıyor"
+        },
+        {
+          "atomID" : "1e11ff8a-6255-11f1-8ace-7fbfbf23a63e",
+          "category" : "Politics",
+          "descriptionTR" : "Kosovalılar, Avrupa'nın en genç devleti olan ülkede siyasi çıkmaz nedeniyle artan hayal kırıklığının seçmenlerin sabrını zorladığı bir dönemde, bir yıldan biraz fazla bir süre içinde üçüncü kez erken seçim için Pazar günü oy kullanmaya başladı.",
+          "group" : "Balkan political instability",
+          "id" : "1e11ff8a-6255-11f1-8ace-7fbfbf23a63e",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260607-kosovo-votes-again-in-snap-election-as-frustration-grows-over-political-gridlock",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260607-kosovo-votes-again-in-snap-election-as-frustration-grows-over-political-gridlock"
+            }
+          ],
+          "titleTR" : "Kosova'da siyasi çıkmaz nedeniyle yeniden erken seçim yapılıyor"
+        }
+      ],
+      "packetSpot" : "Malta ve Kosova'da erken seçimler yapılıyor, bu durum bölgelerdeki siyasi istikrarsızlık ve kamu memnuniyetsizliğini yansıtıyor. Bu seçimler, her iki ülkede de siyasi manzarayı yeniden şekillendirebilir.",
+      "packetTitle" : "Malta ve Kosova'da Erken Seçimler",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77349350",
+          "category" : "Politics",
+          "descriptionTR" : "Yeni Başbakan Peter Magyar'ın reformları, AB'nin Budapeşte için dondurulmuş milyarlarca avroluk yardımı serbest bırakmasını sağlayacak. AB'den Ursula von der Leyen, Magyar'ın Brüksel'i ziyareti sırasında haberi duyurdu.",
+          "group" : "Hungary EU funds reforms",
+          "id" : "77349350",
+          "link" : "https:\/\/www.dw.com\/en\/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms\/a-77349350?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms\/a-77349350?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Magyar'ın reform vaatleriyle AB, Macaristan'a 16 milyar avroluk yardımı serbest bıraktı"
+        },
+        {
+          "atomID" : "d5fd40bc-5a7d-11f1-a7d6-e1cd13cd3a5b",
+          "category" : "Politics",
+          "descriptionTR" : "Macaristan Başbakanı Peter Magyar, Nisan ayındaki seçim zaferinden bu yana AB liderleriyle ilk üst düzey görüşmelerini gerçekleştirmek üzere Cuma günü Brüksel'de Avrupa Komisyonu Başkanı Ursula von der Leyen ile bir araya gelecek ve dondurulmuş milyarlarca avroluk AB fonunun serbest bırakılmasını sağlamaya çalışacak.",
+          "group" : "Hungary pro-eu shift",
+          "id" : "d5fd40bc-5a7d-11f1-a7d6-e1cd13cd3a5b",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260529-eu-unlocks-%E2%82%AC16bn-for-hungary-as-new-pm-magyar-presses-on-with-reforms",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260529-eu-unlocks-%E2%82%AC16bn-for-hungary-as-new-pm-magyar-presses-on-with-reforms"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260529-hungarian-pm-peter-magyar-seeks-release-of-frozen-eu-funds-in-brussels-talks"
+            }
+          ],
+          "titleTR" : "Macaristan Başbakanı Peter Magyar, Brüksel görüşmelerinde dondurulmuş AB fonlarının serbest bırakılmasını istiyor"
+        }
+      ],
+      "packetSpot" : "Başbakan Peter Magyar'ın kilit reformları uygulama taahhüdünde bulunmasının ardından Avrupa Birliği, Macaristan'a 16 milyar avro tutarındaki fonları serbest bırakmayı kabul etti. Bu karar, Brüksel'de yapılan kapsamlı görüşmelerin ardından geldi ve AB'nin Macaristan'ın reform gündemine dayalı şartlı desteğini vurguladı.",
+      "packetTitle" : "AB, Başbakan Peter Magyar'ın Reform Taahhütlerinin Ardından Macaristan'a 16 Milyar Avro Serbest Bıraktı",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77080170",
+          "category" : "Human Rights",
+          "descriptionTR" : "İsrail kuvvetleri ile Hizbullah arasındaki çatışmalar nedeniyle güney Lübnan'da bir milyondan fazla insan evlerini terk etmek zorunda kaldı. Birçoğu Beyrut'taki stadyumlarda barınırken, spor bazen hoş bir dikkat dağıtıcı oluyor.",
+          "group" : "Lebanon displacement coping",
+          "id" : "77080170",
+          "link" : "https:\/\/www.dw.com\/en\/sport-helping-displaced-lebanese-living-in-stadium-to-cope\/a-77080170?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/sport-helping-displaced-lebanese-living-in-stadium-to-cope\/a-77080170?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Stadyumda yaşayan yerinden edilmiş Lübnanlılara spor yardımcı oluyor"
+        },
+        {
+          "atomID" : "21cb0c8c-5f5a-11f1-b107-515a99dc2894",
+          "category" : "Human Rights",
+          "descriptionTR" : "İsrail'in güney Lübnan'daki savaşı, savaş alanının çok ötesinde eski yaraları yeniden açıyor. Mart ayında İsrail ve Hizbullah'ın tam ölçekli çatışmaya dönmesinden bu yana bir milyondan fazla insan yerinden edildi, siyasi liderler ise güçlü Şii hareketi ve İsrail ile müzakereler konusunda bölünmüş durumda. Federalizm ve hatta bölünme çağrıları yükselirken, savaş Lübnan'ın siyasi sistemi, ulusal kimliği ve toprak bütünlüğü üzerindeki tartışmaları yeniden canlandırıyor.",
+          "group" : "Lebanon war escalation",
+          "id" : "21cb0c8c-5f5a-11f1-b107-515a99dc2894",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260604-lebanon-war-reopens-old-divisions-as-fears-grow-for-country-s-unity",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260604-lebanon-war-reopens-old-divisions-as-fears-grow-for-country-s-unity"
+            }
+          ],
+          "titleTR" : "Lübnan savaşı, ülkenin birliği için korkular büyürken eski bölünmeleri yeniden açıyor"
+        }
+      ],
+      "packetSpot" : "Devam eden Lübnan Savaşı, birçok Lübnanlıyı stadyumlar gibi alışılmadık barınaklara sığınmaya zorladı. Bu yerinden edilme, sadece insani bir sorun olmakla kalmayıp, mevcut ulusal bölünmeleri de derinleştirerek ülkenin birliğini tehdit ediyor.",
+      "packetTitle" : "Lübnan Savaşı'nın Yerinden Edilen Lübnanlılar ve Ulusal Birlik Üzerindeki Etkisi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0607\/1577148-iran-us\/",
+          "category" : "Security",
+          "descriptionTR" : "İsrail ordusu, Lübnan'daki askeri kampanyasına devam etme sözü verdi ve Hizbullah'a karşı operasyonlarını artıracağını söyledi.",
+          "group" : "Lebanon military escalation",
+          "id" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0607\/1577148-iran-us\/",
+          "link" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0607\/1577148-iran-us\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/middle-east\/2026\/0607\/1577148-iran-us\/"
+            }
+          ],
+          "titleTR" : "İsrail ordusu Lübnan operasyonunu 'yoğunlaştırma' sözü verdi"
+        },
+        {
+          "atomID" : "e1519a92-5cfa-11f1-883d-dfc9cc680ebd",
+          "category" : "Security",
+          "descriptionTR" : "Fransa, İsrail güçlerinin Lübnan'daki ortaçağ Beaufort kalesini ele geçirmesinin ardından Birleşmiş Milletler Güvenlik Konseyi'nin acil bir toplantısını talep etti, Fransa dışişleri bakanı Pazar günü açıkladı.",
+          "group" : "Lebanon war escalation",
+          "id" : "e1519a92-5cfa-11f1-883d-dfc9cc680ebd",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260604-israel-strikes-lebanon-after-truce-announcement",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260604-israel-strikes-lebanon-after-truce-announcement"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260531-france-requests-emergency-un-meeting-amid-israeli-advance-in-lebanon"
+            }
+          ],
+          "titleTR" : "Fransa, Lübnan'daki İsrail ilerleyişi nedeniyle acil BM toplantısı talep etti"
+        }
+      ],
+      "packetSpot" : "İsrail ordusu, Lübnan'daki operasyonlarını yoğunlaştırarak ateşkes ilanının ardından bir dizi hava saldırısı düzenledi. Bu tırmanış, Fransa'nın uluslararası endişeleri vurgulayarak acil bir Birleşmiş Milletler Güvenlik Konseyi toplantısı çağrısında bulunmasına neden oldu.",
+      "packetTitle" : "İsrail Askeri Harekatları ve Lübnan'daki Uluslararası Tepkiler",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/world\/2026\/0606\/1577112-ukraine-russia\/",
+          "category" : "Security",
+          "descriptionTR" : "Rusya Savunma Bakanlığı, hava savunma birimlerinin Moskova da dahil olmak üzere çeşitli Rus bölgelerinde 13 saatlik bir süre içinde 339 Ukrayna drone'unu engelleyip imha ettiğini söyledi.",
+          "group" : "Russia drone attacks",
+          "id" : "https:\/\/www.rte.ie\/news\/world\/2026\/0606\/1577112-ukraine-russia\/",
+          "link" : "https:\/\/www.rte.ie\/news\/world\/2026\/0606\/1577112-ukraine-russia\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/world\/2026\/0606\/1577112-ukraine-russia\/"
+            }
+          ],
+          "titleTR" : "Rusya, 300'den fazla drone'un imha edildiğini iddia ediyor"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
+          "category" : "Security",
+          "descriptionTR" : "Rusya Savunma Bakanlığı, Ukrayna ordusu tarafından kullanılan savunma üretim tesisleri ve ulaşım altyapısını hedef aldığını iddia etti.",
+          "group" : "Ukraine war strikes",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898"
+            }
+          ],
+          "titleTR" : "Ukrayna genelinde Rus saldırılarında en az 21 kişi öldü"
+        }
+      ],
+      "packetSpot" : "Rus askeri operasyonları, Ukrayna genelinde önemli zayiatlara yol açtı ve çeşitli saldırılarda en az 28 kişinin öldüğü bildirildi. Bu olaylar, çatışmanın devam eden şiddetini ve siviller üzerindeki etkisini vurguluyor.",
+      "packetTitle" : "Ukrayna Genelinde Rus Saldırılarında Zayiat",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/moscow-to-host-us-russia-hockey-match-next-month-a92929",
+          "category" : "Sports",
+          "descriptionTR" : "AmCham Russia başkanı, açılış maçının 1 Temmuz'da Moskova'nın Luzhniki Olimpiyat Kompleksi'ndeki Kristall buz sarayında gerçekleşeceğini söyledi.",
+          "group" : "Russia US hockey diplomacy",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/moscow-to-host-us-russia-hockey-match-next-month-a92929",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/moscow-to-host-us-russia-hockey-match-next-month-a92929",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/moscow-to-host-us-russia-hockey-match-next-month-a92929"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910"
+            }
+          ],
+          "titleTR" : "Moskova Gelecek Ay ABD-Rusya Hokey Maçına Ev Sahipliği Yapacak"
+        },
+        {
+          "atomID" : "b71cd72c-6043-11f1-a74f-95aa239b7643",
+          "category" : "Sports",
+          "descriptionTR" : "Putin'in özel elçisi Kirill Dmitriev, Ukrayna barış müzakerelerinde bir duraklama olmasına rağmen, Rusya-ABD ekonomik ve enerji konularındaki görüşmelerin devam ettiğini Perşembe günü Reuters'a söyledi ve bir gün önce ABD'li muhataplarıyla konuştuğunu ekledi. FRANCE 24'ün uluslararası ilişkiler yorumcusu Douglas Herbert'in açıkladığı gibi, St. Petersburg ekonomik zirvesinin kulislerinde, Putin'in politikalarını destekleyen ünlü bir 'haydutlar galerisi' ortaya çıktı.",
+          "group" : "Russia wartime economy",
+          "id" : "b71cd72c-6043-11f1-a74f-95aa239b7643",
+          "link" : "https:\/\/www.france24.com\/en\/a-rogues-gallery-of-notorious-figures-at-russia-s-biggest-economic-conference",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/a-rogues-gallery-of-notorious-figures-at-russia-s-biggest-economic-conference"
+            }
+          ],
+          "titleTR" : "Rusya'nın en büyük ekonomik konferansında 'haydutlar galerisi'"
+        }
+      ],
+      "packetSpot" : "St. Petersburg Ekonomik Forumu, Ukrayna drone saldırıları ve tartışmalı figürlerin varlığıyla vurgulanan jeopolitik gerilimler ortasında açılıyor. Bu yıllık etkinlik, Rusya'da ekonomik tartışmalar için önemli bir platform olarak hizmet veriyor ve uluslararası dikkat çekiyor.",
+      "packetTitle" : "Jeopolitik Gerilimler Ortasında St. Petersburg Ekonomik Forumu",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "\"Mevcut temas hattı müzakereler için başlangıç noktası olmalıdır. Uluslararası sınırlar zorla değiştirilmemelidir,\" şeklinde açıklama yaptılar Emmanuel Macron, Friedrich Merz ve Keir Starmer, Ukrayna Devlet Başkanı ile ortak bir bildiride. Fransız, Alman ve Ukraynalı liderler, İngiltere Başbakanı tarafından Londra'da ağırlandı.",
+          "group" : "Ukraine peace talks",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/07\/en-direct-guerre-en-ukraine-les-dernieres-informations_6698620_3210.html"
+            }
+          ],
+          "titleTR" : "CANLI, Ukrayna savaşı: Fransa, Almanya ve Birleşik Krallık, Volodimir Zelenski'nin Kiev ve Moskova arasında \"doğrudan diyalog\" önerisini destekliyor"
+        },
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/ukraine\/2026\/0605\/1576858-trump-ukraine-russia\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Rusya Devlet Başkanı Vladimir Putin, Ukraynalı mevkidaşı Volodimir Zelenski ile bir barış anlaşması hazır olana kadar görüşmenin \"anlamı olmadığını\" söyledi.",
+          "group" : "Ukraine peace deadlock",
+          "id" : "https:\/\/www.rte.ie\/news\/ukraine\/2026\/0605\/1576858-trump-ukraine-russia\/",
+          "link" : "https:\/\/www.rte.ie\/news\/ukraine\/2026\/0605\/1576858-trump-ukraine-russia\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/ukraine\/2026\/0605\/1576858-trump-ukraine-russia\/"
+            }
+          ],
+          "titleTR" : "Putin: Zelenski ile barış anlaşması öncesi görüşmenin 'anlamı yok'"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Putin, önceden anlaşılmış bir anlaşmayı sonuçlandırmak dışında Zelenski ile görüşmeyeceğini, öncesinde görüşme çağrılarını reddettiğini söyledi.",
+          "group" : "Ukraine peace deadlock",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935"
+            }
+          ],
+          "titleTR" : "Zelenski, Putin'e Açık Mektubunda Görüşme ve Ateşkes Çağrısında Bulundu"
+        },
+        {
+          "atomID" : "c3c4a4be-608e-11f1-aa87-81c94d7c190c",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Rusya Devlet Başkanı Vladimir Putin, Cuma günü Ukrayna Devlet Başkanı Volodimir Zelenski'nin dört yıllık savaşı sona erdirmek için yüz yüze görüşme teklifini reddederek, olası bir barış anlaşması sağlanana kadar Ukraynalı mevkidaşıyla görüşmenin \"anlamı olmadığını\" söyledi. Günün gelişmelerini canlı blogumuzda okuyun.",
+          "group" : "Ukraine peace talks",
+          "id" : "c3c4a4be-608e-11f1-aa87-81c94d7c190c",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260605-live-us-house-passes-bill-in-support-of-ukraine-sanctions-russia",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260605-live-us-house-passes-bill-in-support-of-ukraine-sanctions-russia"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260604-zelensky-in-open-letter-to-putin-proposes-face-to-face-meeting-and-full-ceasefire"
+            }
+          ],
+          "titleTR" : "Putin, Zelenski'nin görüşme teklifini reddetti ve savaş hedeflerini sürdürme sözü verdi"
+        }
+      ],
+      "packetSpot" : "Ukrayna Devlet Başkanı Volodimir Zelenski, devam eden çatışmada ateşkes sağlamak için Rusya Devlet Başkanı Vladimir Putin ile doğrudan görüşmeler yapmayı önerdi. Batılı liderlerin desteğine rağmen, Putin teklifi reddederek Rusya'nın askeri hedeflerine bağlılığını sürdürdü.",
+      "packetTitle" : "Zelenski'nin Ukrayna Çatışması Ortasında Putin ile Doğrudan Görüşme Teklifi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77400608",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Ermeniler, ülkenin gelecekteki jeopolitik yönelimi hakkında 7 Haziran'da oy kullanacak. Seçim, uzun süredir Rusya'nın müttefiki olan ülkede kamuoyunun, giderek daha fazla AB'ye yöneldiği bir dönemde yapılacak.",
+          "group" : "Armenia EU shift",
+          "id" : "77400608",
+          "link" : "https:\/\/www.dw.com\/en\/armenia-once-russia-s-reliable-ally-considers-an-eu-future\/a-77400608?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/armenia-once-russia-s-reliable-ally-considers-an-eu-future\/a-77400608?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Bir zamanlar Rusya'nın güvenilir müttefiki olan Ermenistan, AB geleceğini değerlendiriyor"
+        },
+        {
+          "atomID" : "f6b568d8-6299-11f1-85d9-812b030513d1",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Taline Papazian, Ermenistan ve Güney Kafkasya'yı kapsayan Fransız Ermeni bir siyaset bilimci ve stratejik işler analistidir. Aynı zamanda Ermenistan Barış Girişimi Düşünce Kuruluşu'nun Direktörüdür.",
+          "group" : "Armenia Russia pivot",
+          "id" : "f6b568d8-6299-11f1-85d9-812b030513d1",
+          "link" : "https:\/\/www.france24.com\/en\/tv-shows\/spotlight\/20260607-armenia-moscow-meddling-the-mountain",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/tv-shows\/spotlight\/20260607-armenia-moscow-meddling-the-mountain"
+            }
+          ],
+          "titleTR" : "Ermenistan: Moskova, Müdahale ve Dağ"
+        }
+      ],
+      "packetSpot" : "Ermenistan, Rusya ile uzun süredir devam eden ittifakını yeniden değerlendirirken Avrupa Birliği ile daha yakın bağlar kurmayı araştırıyor. Bu değişim, Moskova'nın Ermeni işlerine müdahalesi de dahil olmak üzere iç ve dış baskılardan etkilenen bölgedeki önemli bir jeopolitik yeniden hizalanmayı temsil ediyor.",
+      "packetTitle" : "Ermenistan'ın Rusya'dan Avrupa Birliği'ne Yönelimi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/analysis-and-comment\/2026\/0606\/1577034-montenegro-eu-western-balkans-summit\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Şu anda Karadağ'ın AB hedefleri için büyük bir an olduğu hissi var ve Taoiseach, her ülkenin 1970'lerde İrlanda'ya verilen fırsatı hak ettiğine inanıyor.",
+          "group" : "Montenegro EU accession",
+          "id" : "https:\/\/www.rte.ie\/news\/analysis-and-comment\/2026\/0606\/1577034-montenegro-eu-western-balkans-summit\/",
+          "link" : "https:\/\/www.rte.ie\/news\/analysis-and-comment\/2026\/0606\/1577034-montenegro-eu-western-balkans-summit\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/analysis-and-comment\/2026\/0606\/1577034-montenegro-eu-western-balkans-summit\/"
+            }
+          ],
+          "titleTR" : "Zirve, Karadağ'ın AB hedefleri için büyük bir an"
+        },
+        {
+          "atomID" : "904ba360-6013-11f1-aac3-0d8d24c09ce3",
+          "category" : "Diplomacy",
+          "descriptionTR" : "AB ve Batı Balkan liderleri, Fransa Cumhurbaşkanı Emmanuel Macron ve Almanya Şansölyesi Friedrich Merz gibi Avrupa'nın en büyük ekonomilerinin liderleriyle birlikte Cuma günü Karadağ'ın Adriyatik liman kenti Tivat'ta bir araya geliyor.",
+          "group" : "Western Balkans EU enlargement",
+          "id" : "904ba360-6013-11f1-aac3-0d8d24c09ce3",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260605-western-balkan-leaders-join-eu-summit-amid-renewed-enlargement-drive",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260605-western-balkan-leaders-join-eu-summit-amid-renewed-enlargement-drive"
+            }
+          ],
+          "titleTR" : "Batı Balkan liderleri, yenilenen genişleme hamlesiyle AB zirvesine katılıyor"
+        }
+      ],
+      "packetSpot" : "AB zirvesi, Batı Balkanlar'ı Avrupa Birliği'ne entegre etme stratejik odağını vurgulayan bu etkinlikte, Karadağ da dahil olmak üzere Batı Balkan liderlerinin AB üyelik perspektiflerini ilerletmek için görüşmelere katılmasıyla genişleme için yenilenen bir adımı işaret ediyor.",
+      "packetTitle" : "Batı Balkan Liderleri ile AB Genişleme Zirvesi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/us\/2026\/0606\/1577102-hegseth-europe\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ABD Savunma Bakanı Pete Hegseth, Avrupa'nın deniz yoluyla gelen tehlikeli ideolojilerin istilasıyla karşı karşıya olduğunu söyledi ve bu durumu Normandiya'daki D-Day çıkarmasının mirasıyla ilişkilendirdi.",
+          "group" : "Europe migration rhetoric",
+          "id" : "https:\/\/www.rte.ie\/news\/us\/2026\/0606\/1577102-hegseth-europe\/",
+          "link" : "https:\/\/www.rte.ie\/news\/us\/2026\/0606\/1577102-hegseth-europe\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/us\/2026\/0606\/1577102-hegseth-europe\/"
+            }
+          ],
+          "titleTR" : "Avrupa 'tehlikeli ideolojilerin istilası' ile karşı karşıya - Hegseth"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/international\/amerique\/sur-les-plages-du-debarquement-pete-hegseth-tente-un-parallele-douteux-entre-limmigration-et-la-seconde-guerre-mondiale-20260607_7LP376PXE5DVXDH7KJ427554HU\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ABD Savunma Bakanı, 6 Haziran Cumartesi günü Haziran 1944 çıkarmasını anarken, Avrupa ülkelerini askeri kapasitelerini artırmaya çağırarak göçmenlerin 'istilası'ndan bahsetti.",
+          "group" : "US immigration and D-Day",
+          "id" : "https:\/\/www.liberation.fr\/international\/amerique\/sur-les-plages-du-debarquement-pete-hegseth-tente-un-parallele-douteux-entre-limmigration-et-la-seconde-guerre-mondiale-20260607_7LP376PXE5DVXDH7KJ427554HU\/",
+          "link" : "https:\/\/www.liberation.fr\/international\/amerique\/sur-les-plages-du-debarquement-pete-hegseth-tente-un-parallele-douteux-entre-limmigration-et-la-seconde-guerre-mondiale-20260607_7LP376PXE5DVXDH7KJ427554HU\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/amerique\/sur-les-plages-du-debarquement-pete-hegseth-tente-un-parallele-douteux-entre-limmigration-et-la-seconde-guerre-mondiale-20260607_7LP376PXE5DVXDH7KJ427554HU\/"
+            }
+          ],
+          "titleTR" : "Çıkartma Plajlarında, Pete Hegseth göç ve İkinci Dünya Savaşı arasında şüpheli bir paralellik kurmaya çalışıyor"
+        }
+      ],
+      "packetSpot" : "ABD Savunma Bakanı Pete Hegseth, modern göç sorunlarını tarihsel istilalar ve tehlikeli ideolojilerle karşılaştıran yorumlarıyla tartışma yarattı. Açıklamaları, kışkırtıcı doğası ve tarihsel paralellikleri nedeniyle eleştiri aldı.",
+      "packetTitle" : "Pete Hegseth'in Avrupa Göçü Üzerine Tartışmalı Söylemleri",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/tanzania-president-visits-russia-as-western-ties-fray-a92919",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Tanzanya Cumhurbaşkanı Samia Suluhu Hassan'ın hükümeti, Batı tarafından yasadışı öldürmeler ve kitlesel gözaltılar dahil olmak üzere ihlallerle suçlanıyor.",
+          "group" : "Russia Africa diplomacy",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/tanzania-president-visits-russia-as-western-ties-fray-a92919",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/tanzania-president-visits-russia-as-western-ties-fray-a92919",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/tanzania-president-visits-russia-as-western-ties-fray-a92919"
+            }
+          ],
+          "titleTR" : "Tanzanya Cumhurbaşkanı, Batı ile İlişkiler Gerilirken Rusya'yı Ziyaret Ediyor"
+        },
+        {
+          "atomID" : "845ac7fc-5f37-11f1-9a57-a9a8ad51c869",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Tanzanya Cumhurbaşkanı Samia Suluhu Hassan, Çarşamba günü Rusya'ya üç günlük bir devlet ziyareti başlatıyor - 1969'dan bu yana bir Tanzanya devlet başkanının Moskova'ya yaptığı ilk resmi gezi - hükümeti, ülkenin 2025 seçimleriyle bağlantılı şiddet nedeniyle Batılı ülkelerden artan eleştirilerle karşı karşıya kalırken.",
+          "group" : "Russia africa diplomacy",
+          "id" : "845ac7fc-5f37-11f1-9a57-a9a8ad51c869",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260603-tanzania-s-hassan-makes-historic-russia-visit-amid-frayed-ties-with-west",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260603-tanzania-s-hassan-makes-historic-russia-visit-amid-frayed-ties-with-west"
+            }
+          ],
+          "titleTR" : "Tanzanya'dan Hassan, Batı ile Gerilen İlişkiler Ortasında Tarihi Rusya Ziyaretini Gerçekleştiriyor"
+        }
+      ],
+      "packetSpot" : "Tanzanya Cumhurbaşkanı Samia Suluhu Hassan'ın Rusya ziyareti, Tanzanya'nın Batılı ülkelerle gerilen ilişkileri arasında uluslararası ilişkilerini yönlendirdiği önemli bir diplomatik temas olarak öne çıkıyor. Bu ziyaret, Tanzanya'nın dış politikasındaki değişen dinamikleri ve Rusya'ya yönelik stratejik açılımını vurguluyor.",
+      "packetTitle" : "Tanzanya Cumhurbaşkanı Samia Suluhu Hassan'ın Rusya'ya Diplomatik Ziyareti",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/01\/the-kids-arent-alright-rights-groups-warn-of-mounting-pressure-on-children-in-russia-a92889",
+          "category" : "Human Rights",
+          "descriptionTR" : "Hak savunucuları ve araştırmacılar, Rusya'da çocukların karşı karşıya kaldığı artan siyasi indoktrinasyon ve cezai kovuşturmayı vurguluyor.",
+          "group" : "Russian child repression",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/01\/the-kids-arent-alright-rights-groups-warn-of-mounting-pressure-on-children-in-russia-a92889",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/jailed-reporter-maria-ponomarenko-sentenced-to-nearly-2-more-years-in-prison-a92914",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/jailed-reporter-maria-ponomarenko-sentenced-to-nearly-2-more-years-in-prison-a92914"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/01\/the-kids-arent-alright-rights-groups-warn-of-mounting-pressure-on-children-in-russia-a92889"
+            }
+          ],
+          "titleTR" : "Çocuklar İyi Değil: Hak Savunucuları Rusya'da Çocuklar Üzerindeki Baskının Arttığını Uyarıyor"
+        },
+        {
+          "atomID" : "b9b70fac-5f71-11f1-b79b-ab882a6b01bc",
+          "category" : "Human Rights",
+          "descriptionTR" : "Bu, Vladimir Putin’in Ukrayna’daki savaşına karşı çıkan bir Rus baba ve kızının dokunaklı hikayesi. Her şey, 12 yaşındaki Maria'nın, bir ay önce başlatılan işgale yanıt olarak okulda savaş karşıtı bir resim çizmesiyle Mart 2022'de başladı. Çevresindekiler tarafından hemen ihbar edildi ve kısa süre sonra FSB hem okulunu hem de evini ziyaret etti. Babası, kızını desteklediği ve savaşa karşı çıktığı için tutuklandı. Rus ordusunu itibarsızlaştırmaktan mahkum edildi. Ceza kolonisinden serbest bırakıldıktan sonra, o ve Maria Rusya'dan ayrılarak Strasbourg'da mülteci oldular. Elena Volochine tarafından hazırlanan rapor, İngilizce uyarlaması Lauren Bain.",
+          "group" : "Russian antiwar dissent",
+          "id" : "b9b70fac-5f71-11f1-b79b-ab882a6b01bc",
+          "link" : "https:\/\/www.france24.com\/en\/tv-shows\/focus\/20260604-exiled-for-an-anti-war-drawing-russian-father-and-daughter-who-opposed-putin",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/tv-shows\/focus\/20260604-exiled-for-an-anti-war-drawing-russian-father-and-daughter-who-opposed-putin"
+            }
+          ],
+          "titleTR" : "Savaş Karşıtı Bir Çizim İçin Sürgün: Muhalefet Nedeniyle Cezalandırılan Bir Rus Aile"
+        }
+      ],
+      "packetSpot" : "Rus hükümeti, muhaliflere yönelik baskısını yoğunlaştırmaya devam ediyor, yalnızca bireyleri değil, aynı zamanda ailelerini ve çocuklarını da hedef alıyor. Son vakalar, rejime karşı çıkanların karşılaştığı ağır sonuçları, uzun hapis cezaları ve zorunlu sürgünleri vurguluyor.",
+      "packetTitle" : "Rusya'da Muhaliflere ve Ailelerine Yönelik Baskı Artıyor",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77424398",
+          "category" : "Politics",
+          "descriptionTR" : "Avrupa Konseyi Başkanı Antonio Costa, Batı Balkanlar'ın AB üyeliğini hızlandırmak için yeni yollar bulunması gerektiğini söyledi. Bu açıklamalar, Karadağ'da yapılacak bir zirve öncesinde geldi.",
+          "group" : "Western Balkans EU accession",
+          "id" : "77424398",
+          "link" : "https:\/\/www.dw.com\/en\/eu-seeking-ways-to-speed-up-western-balkans-membership\/a-77424398?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/eu-seeking-ways-to-speed-up-western-balkans-membership\/a-77424398?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "AB, Batı Balkanlar üyeliğini hızlandırmanın yollarını arıyor"
+        },
+        {
+          "atomID" : "9f916826-5e58-11f1-b5ff-b5f63729d087",
+          "category" : "Politics",
+          "descriptionTR" : "Avrupa Birliği, ülkelerin blok dışında 'geri dönüş merkezleri' kurmasına izin verecek daha sıkı göç kuralları üzerinde bir anlaşmaya vardı. Destekçileri tarafından durdurulmuş sınır dışı işlemlerine pratik bir çözüm olarak övülen bu adım, hak grupları tarafından denizaşırı gözaltına doğru tehlikeli bir adım olarak eleştiriliyor. Bu arada, Batı Balkanlar zirvesinde AB genişlemesi konusu da gündemde.",
+          "group" : "EU migration and enlargement",
+          "id" : "9f916826-5e58-11f1-b5ff-b5f63729d087",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260602-eu-tightens-migration-rules-eyes-strategic-enlargement-in-balkans",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260602-eu-tightens-migration-rules-eyes-strategic-enlargement-in-balkans"
+            }
+          ],
+          "titleTR" : "AB göç kurallarını sıkılaştırıyor, Balkanlar'da stratejik genişlemeye odaklanıyor"
+        }
+      ],
+      "packetSpot" : "Avrupa Birliği, Batı Balkan ülkelerinin üyelik sürecini hızlandırırken, göç kurallarını sıkılaştırmak için aktif olarak çalışıyor. Bu çabalar, bölgesel istikrarı artırmak ve göçü daha etkili bir şekilde yönetmek için daha geniş bir stratejinin parçası.",
+      "packetTitle" : "AB'nin Batı Balkanlar'da Stratejik Genişleme ve Göç Politikası Düzenlemeleri",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77354206",
+          "category" : "Politics",
+          "descriptionTR" : "Başbakan Peter Magyar ve Avrupa Komisyonu Başkanı Ursula von der Leyen, Macaristan için 16 milyar avronun üzerinde AB fonunun serbest bırakılabileceği bir anlaşma açıkladı. Şimdi, Magyar'ın yeni hükümetinin harekete geçmesi gerekiyor.",
+          "group" : "Hungary EU funds reforms",
+          "id" : "77354206",
+          "link" : "https:\/\/www.dw.com\/en\/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban\/a-77354206?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban\/a-77354206?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Macaristan, Orban döneminde dondurulan AB fonlarını almak için ne yapmalı?"
+        },
+        {
+          "atomID" : "d305a7b2-5e85-11f1-91ae-7df846817bf8",
+          "category" : "Politics",
+          "descriptionTR" : "Macaristan'ın yeni Başbakanı Peter Magyar, Çarşamba günü Élysée Sarayı'nda Fransa Cumhurbaşkanı Emmanuel Macron ile bir araya geliyor. İki lider, Viktor Orbán'ın 16 yıllık iktidarının sona ermesinin ardından Ukrayna'ya yönelik Avrupa desteğini güçlendirmeyi hedefliyor.",
+          "group" : "Hungary pro-eu shift",
+          "id" : "d305a7b2-5e85-11f1-91ae-7df846817bf8",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260603-macron-to-meet-hungary-s-pm-magyar-to-discuss-ukraine-european-defence",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260603-macron-to-meet-hungary-s-pm-magyar-to-discuss-ukraine-european-defence"
+            }
+          ],
+          "titleTR" : "Macron, Ukrayna ve Avrupa savunmasını görüşmek üzere Macaristan Başbakanı Magyar ile buluşacak"
+        }
+      ],
+      "packetSpot" : "Macaristan'ın yeni Başbakanı Peter Magyar, ülkenin AB ile ilişkilerini etkileyen kritik meseleleri ele almak için Avrupa liderleriyle görüşmelerde bulunuyor. Bunlar arasında dondurulmuş AB fonları üzerindeki müzakereler ve Ukrayna çatışması bağlamında Avrupa savunması konusundaki tartışmalar yer alıyor.",
+      "packetTitle" : "Macaristan'ın AB İlişkileri ve Liderlik Değişimi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "3c020b20-61b5-11f1-99ec-c5083a468944",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Savunma Bakanı Pete Hegseth, Normandiya'daki D-Day yıldönümü konuşmasında, Başkan Donald Trump yönetiminin merkezi kültürel ve güvenlik argümanlarını öne sürerek, Avrupa ülkelerini kıyılarına göç yoluyla gerçekleşen bir 'istila' ile yüzleşmeye çağırdı.",
+          "group" : "Europe migration politics",
+          "id" : "3c020b20-61b5-11f1-99ec-c5083a468944",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260606-hegseth-urges-europe-to-counter-migrant-invasion-in-d-day-anniversary-speech",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260606-hegseth-urges-europe-to-counter-migrant-invasion-in-d-day-anniversary-speech"
+            }
+          ],
+          "titleTR" : "Hegseth, D-Day yıldönümü konuşmasında Avrupa'yı göçmen 'istilasına' karşı koymaya çağırdı"
+        },
+        {
+          "atomID" : "0e2ec7ac-61af-11f1-91b8-f70758acc75b",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Pentagon şefi Pete Hegseth, Cumartesi günü Fransa'da II. Dünya Savaşı D-Day çıkarmalarının 82. yıldönümünü, Avrupa'nın sahillerindeki 'botlar ve adamların' 'istilasını' eleştiren bir konuşmayla andı. Normandiya'daki bir ABD askeri mezarlığında yaptığı konuşmada, Hegseth ayrıca müttefikleri savunmalarına daha fazla katkıda bulunmaya çağırdı.",
+          "group" : "Europe migration rhetoric",
+          "id" : "0e2ec7ac-61af-11f1-91b8-f70758acc75b",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260606-hegseth-urges-europe-on-d-day-to-counter-present-day-invasion",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260606-hegseth-urges-europe-on-d-day-to-counter-present-day-invasion"
+            }
+          ],
+          "titleTR" : "Hegseth, Fransa'daki D-Day konuşmasında Avrupa'nın sahillerindeki göçmen 'istilasını' eleştirdi"
+        }
+      ],
+      "packetSpot" : "ABD Savunma Bakanı Pete Hegseth, D-Day yıldönümü konuşmasında Avrupa ülkelerini göçmen 'istilasını' olarak tanımladığı durum nedeniyle eleştirdi. Açıklamaları, göç politikaları üzerindeki gerilimleri vurguladı ve Avrupa'nın karşılaştığı algılanan zorluklara dikkat çekti.",
+      "packetTitle" : "Pete Hegseth'in D-Day Konuşması Avrupa'nın Göçmen Politikalarını Eleştirdi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 26
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/cracks-in-russias-economy-shine-through-at-spief-a92943",
+          "category" : "Economy",
+          "descriptionTR" : "Rusya'nın en önemli iş etkinliğinin gösterişi arasında, üst düzey yöneticiler ve yetkililer ekonominin durumu hakkında artan huzursuzluk sinyalleri verdi.",
+          "group" : "Russia economic strain",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/cracks-in-russias-economy-shine-through-at-spief-a92943",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/cracks-in-russias-economy-shine-through-at-spief-a92943",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/cracks-in-russias-economy-shine-through-at-spief-a92943"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/putin-talks-multipolarity-and-shrugs-off-economic-pain-at-russian-davos-a92945"
+            }
+          ],
+          "titleTR" : "Rusya Ekonomisindeki Çatlaklar SPIEF'te Gün Yüzüne Çıkıyor"
+        },
+        {
+          "atomID" : "a93418ea-6049-11f1-9790-95aa239b7643",
+          "category" : "Economy",
+          "descriptionTR" : "Rusya Devlet Başkanı Vladimir Putin, St. Petersburg'da beşinci savaş dönemi ekonomik konferansını düzenliyor. Rus ekonomisi durgunlaşırken, hükümeti büyümeyi yeniden başlatmanın yollarını arıyor. FRANCE 24'ten Nick Rushworth bildiriyor.",
+          "group" : "Russia wartime economy",
+          "id" : "a93418ea-6049-11f1-9790-95aa239b7643",
+          "link" : "https:\/\/www.france24.com\/en\/ukraine-war-and-risk-of-stagnation-hang-over-st-petersburg-economic-conference",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/ukraine-war-and-risk-of-stagnation-hang-over-st-petersburg-economic-conference"
+            }
+          ],
+          "titleTR" : "Ukrayna savaşı ve durgunluk riski St. Petersburg ekonomik konferansının üzerinde"
+        }
+      ],
+      "packetSpot" : "St. Petersburg Uluslararası Ekonomik Forumu, Ukrayna çatışması devam ederken Rusya'nın karşılaştığı ekonomik zorlukları ön plana çıkardı. Baskılara rağmen, Başkan Putin ülkenin ekonomik geleceğine güven projeksiyonu yaparak dayanıklılık ve çok kutupluluk anlatısını vurguladı.",
+      "packetTitle" : "St. Petersburg Uluslararası Ekonomik Forumu'nda Ekonomik Zorluklar ve Dayanıklılık",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 27
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77066450",
+          "category" : "Sports",
+          "descriptionTR" : "2026 Dünya Kupası, tüm öncüllerinden daha büyük olacak. Ancak daha iyi olup olmayacağı tamamen farklı bir soru. DW, bilmeniz gerekenleri aktarıyor.",
+          "group" : "2026 World Cup preview",
+          "id" : "77066450",
+          "link" : "https:\/\/www.dw.com\/en\/2026-world-cup-6-things-you-need-to-know\/a-77066450?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/2026-world-cup-6-things-you-need-to-know\/a-77066450?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/fifa-got-greedy-―-why-football-fans-in-india-may-not-be-able-to-watch-world-cup-games-on-tv-this-year\/a-77131796?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "2026 Dünya Kupası: Bilmeniz gereken 6 şey"
+        },
+        {
+          "atomID" : "640b1068-5a75-11f1-bbcb-83a816cd276d",
+          "category" : "Sports",
+          "descriptionTR" : "ABD'nin New York ve New Jersey eyaletleri, yaklaşan Dünya Kupası'nın organizatörü ve futbol yönetim organı FIFA'nın \"imkansız derecede yüksek fiyatlarla\" hayranları sömürdüğü iddiasıyla biletleme uygulamalarını araştırıyor.",
+          "group" : "World Cup ticket pricing",
+          "id" : "640b1068-5a75-11f1-bbcb-83a816cd276d",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260528-us-states-probe-fifa-over-impossibly-high-world-cup-ticket-prices",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260528-us-states-probe-fifa-over-impossibly-high-world-cup-ticket-prices"
+            }
+          ],
+          "titleTR" : "ABD eyaletleri, 'imkansız derecede yüksek' Dünya Kupası bilet fiyatları nedeniyle FIFA'yı soruşturuyor"
+        }
+      ],
+      "packetSpot" : "2026 Dünya Kupası, Hindistan'daki yayın hakları anlaşmazlıkları ve ABD eyaletlerinin yüksek bilet fiyatlarına yönelik soruşturmaları gibi çeşitli lojistik zorluklarla karşı karşıya. Bu sorunlar, etkinliğin dünya genelindeki hayranlar için erişilebilirliğini etkileyen karmaşıklıkları ve tartışmaları gözler önüne seriyor.",
+      "packetTitle" : "2026 Dünya Kupası Lojistik ve Erişilebilirlik Sorunları",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 28
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77137100",
+          "category" : "Environment",
+          "descriptionTR" : "2026'nın ilk aylarında dünya genelinde 150 milyon hektardan fazla alan — Teksas'ın iki katından fazla — yandı. Güçlendirilmiş bir El Nino olasılığı yüksek olduğundan, yılın ikinci yarısı daha da kötü olabilir.",
+          "group" : "Extreme fire risk",
+          "id" : "77137100",
+          "link" : "https:\/\/www.dw.com\/en\/hotter-2026-and-el-nino-could-trigger-extreme-fires\/a-77137100?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/hotter-2026-and-el-nino-could-trigger-extreme-fires\/a-77137100?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Daha sıcak 2026 ve El Nino aşırı yangınları tetikleyebilir"
+        },
+        {
+          "atomID" : "a7d9926e-5e59-11f1-89ba-b5f63729d087",
+          "category" : "Environment",
+          "descriptionTR" : "Birleşmiş Milletler'in hava durumu ajansına göre, ısınan El Nino iklim olgusunun Ağustos ayı sonuna kadar gelişmesi muhtemel, bu da Avrupa'nın iklim değişikliğinin ön cephesinde bir başka yazla karşı karşıya kalmasıyla aşırı hava durumu riskini artırıyor.",
+          "group" : "Europe climate extremes",
+          "id" : "a7d9926e-5e59-11f1-89ba-b5f63729d087",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260603-el-nino-threat-grows-as-europe-prepares-for-another-hot-summer",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260603-el-nino-threat-grows-as-europe-prepares-for-another-hot-summer"
+            }
+          ],
+          "titleTR" : "El Nino tehdidi büyürken Avrupa başka bir sıcak yaza hazırlanıyor"
+        }
+      ],
+      "packetSpot" : "El Nino'nun küresel hava durumu üzerindeki etkisinin önemli ölçüde olacağı ve daha sıcak yazlara ve aşırı yangın riskinin artmasına yol açacağı tahmin ediliyor. Avrupa bir başka sıcak yaza hazırlanırken, bu iklim olgusunun etkisi hava durumu ajansları için kritik bir odak noktası haline geliyor.",
+      "packetTitle" : "El Nino'nun Aşırı Hava Durumu Üzerindeki Etkisi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 29
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77379092",
+          "category" : "Law",
+          "descriptionTR" : "Uluslararası bir mahkeme, sığınmacıların Doğu Afrika ülkesine gönderilmesi için yapılan anlaşmanın iptali nedeniyle Ruanda'nın milyonlarca dolarlık zarar talebini reddetti.",
+          "group" : "Rwanda deportation case",
+          "id" : "77379092",
+          "link" : "https:\/\/www.dw.com\/en\/uk-wins-court-case-over-canceled-plan-to-deport-asylum-seekers-to-rwanda\/a-77379092?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/uk-wins-court-case-over-canceled-plan-to-deport-asylum-seekers-to-rwanda\/a-77379092?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Birleşik Krallık, sığınmacıların Ruanda'ya sınır dışı edilmesi planının iptaliyle ilgili davayı kazandı"
+        },
+        {
+          "atomID" : "1105d320-5db9-11f1-9b1a-27ce4a182f5b",
+          "category" : "Law",
+          "descriptionTR" : "Bir uluslararası mahkeme, Ruanda'nın, Londra'nın iptal edilen göçmen anlaşmasından dolayı hâlâ borçlu olduğunu iddia ettiği 100 milyon sterlinden (€115 milyon) fazla ödeme talebini Pazartesi günü reddetti.",
+          "group" : "Rwanda migrant deal dispute",
+          "id" : "1105d320-5db9-11f1-9b1a-27ce4a182f5b",
+          "link" : "https:\/\/www.rfi.fr\/en\/international\/20260601-court-rejects-rwanda-%E2%82%AC115mn-claim-against-britain-over-migrant-deal",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Europe",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260601-court-rejects-rwanda-%E2%82%AC115mn-claim-against-britain-over-migrant-deal"
+            }
+          ],
+          "titleTR" : "Mahkeme, Ruanda'nın göçmen anlaşması nedeniyle Birleşik Krallık'a karşı yaptığı €115 milyonluk talebi reddetti"
+        }
+      ],
+      "packetSpot" : "Birleşik Krallık, Ruanda'yı içeren iki ayrı davada yasal zaferler elde etti. Bir dava, sığınmacıların Ruanda'ya sınır dışı edilmesi planının iptaliyle ilgiliydi, diğeri ise Ruanda'nın göçmen anlaşmasıyla ilgili reddedilen mali talebiyle ilgiliydi.",
+      "packetTitle" : "Birleşik Krallık'ın Ruanda Sınır Dışı Etme ve Göçmen Anlaşması Anlaşmazlıklarında Yasal Zaferleri",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 30
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "77248308",
+          "category" : "Energy",
+          "descriptionTR" : "Yoğun karşıtlığa rağmen, ABD kıyılarında açık deniz rüzgar projeleri çoğalıyor — bu da enerjide büyük bir değişimi işaret ediyor.",
+          "group" : "US offshore wind",
+          "id" : "77248308",
+          "link" : "https:\/\/www.dw.com\/en\/the-wind-boom-trump-couldn-t-stop\/a-77248308?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/the-wind-boom-trump-couldn-t-stop\/a-77248308?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Trump'un durduramadığı rüzgar patlaması"
+        },
+        {
+          "atomID" : "https:\/\/www.rte.ie\/news\/analysis-and-comment\/2026\/0607\/1576855-us-donald-trump-wind-energy\/",
+          "category" : "Energy",
+          "descriptionTR" : "ABD Başkanı Donald Trump'un rüzgar enerjisine karşı duyduğu hoşnutsuzluk - ilk olarak İskoç golf sahasından görünen rüzgar türbinleriyle başladığı iddia edilen - iyi biliniyor.",
+          "group" : "Trump wind power",
+          "id" : "https:\/\/www.rte.ie\/news\/analysis-and-comment\/2026\/0607\/1576855-us-donald-trump-wind-energy\/",
+          "link" : "https:\/\/www.rte.ie\/news\/analysis-and-comment\/2026\/0607\/1576855-us-donald-trump-wind-energy\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T22:06:07Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RTÉ News",
+              "url" : "https:\/\/www.rte.ie\/news\/analysis-and-comment\/2026\/0607\/1576855-us-donald-trump-wind-energy\/"
+            }
+          ],
+          "titleTR" : "Donald Trump rüzgarla savaşını kazanıyor mu?"
+        }
+      ],
+      "packetSpot" : "Donald Trump'un karşıtlığına rağmen, ABD kıyılarındaki açık deniz rüzgar projeleri gelişmeye devam ediyor. Rüzgar enerjisi üzerindeki siyasi mücadele, çevresel hedefler ile siyasi gündem arasındaki gerilimi vurguluyor.",
+      "packetTitle" : "Donald Trump'un ABD Açık Deniz Rüzgar Enerjisi Gelişimine Etkisi",
+      "publishedAt" : "2026-06-07T22:06:07Z",
+      "sessionID" : "publish-draft",
+      "slot" : 31
+    }
+  ],
+  "week" : "2026-W24"
+}
