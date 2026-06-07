@@ -1,69 +1,1131 @@
 {
   "label" : "1–7 HAZIRAN",
-  "publishedAt" : "2026-06-06T19:43:24Z",
+  "publishedAt" : "2026-06-07T18:02:26Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o#0",
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
           "category" : "Security",
-          "descriptionTR" : "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-          "group" : "Ukraine drone strikes",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o#0",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+          "descriptionTR" : "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+          "group" : "Black Sea shipping attacks",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cg7498kz808o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'"
+          "titleTR" : "Ukraine strikes cargo ships and admits Romania drone blast"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o#0",
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
           "category" : "Security",
-          "descriptionTR" : "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-          "group" : "Lebanon border conflict",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o#0",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+          "descriptionTR" : "The cargo vessels Natra and Zirkon — both bearing hallmarks of Russia's shadow fleet and heading to load grain at a port linked to looted Ukrainian supplies — were struck overnight near Taganrog.",
+          "group" : "Black Sea shipping attacks",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cj0g8jymg92o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov"
             }
           ],
-          "titleTR" : "Lebanese general among three soldiers killed in Israeli attack on car"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c74yl98kv37o#1",
-          "category" : "Security",
-          "descriptionTR" : "The man was spearfishing off Michaelmas Island with his family, according to local reports.",
-          "group" : "Australia shark attack",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c74yl98kv37o#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 4,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c74yl98kv37o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Man dies after shark attack in Western Australia, police say"
+          "titleTR" : "Five sailors killed as cargo ships struck in Sea of Azov"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
+      "publishedAt" : "2026-06-07T18:02:26Z",
       "sessionID" : "publish-draft",
       "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-evening",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Middle East conflict bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-evening",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-evening",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-evening"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 7th, 2026 – Evening"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-midday",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Middle East conflict bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-midday",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-midday",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-midday"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 7th, 2026 – Midday"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-morning",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Middle East conflict bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-morning",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-morning",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/latest-news-bulletin-june-7th-2026-morning"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 7th, 2026 – Morning"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-evening",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Middle East conflict bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-evening",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-evening",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-evening"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 6th, 2026 – Evening"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-midday",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Middle East conflict bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-midday",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-midday",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-midday"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 6th, 2026 – Midday"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-morning",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 6th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Middle East conflict bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-morning",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-morning",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/latest-news-bulletin-june-6th-2026-morning"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 6th, 2026 – Morning"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-evening",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Middle East conflict bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-evening",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-evening",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-evening"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 5th, 2026 – Evening"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-midday",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Middle East conflict bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-midday",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-midday",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-midday"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 5th, 2026 – Midday"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-morning",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 5th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Daily news bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-morning",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-morning",
+          "newsValue" : 1,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/latest-news-bulletin-june-5th-2026-morning"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 5th, 2026 – Morning"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/latest-news-bulletin-june-4th-2026-evening",
+          "category" : "Politics",
+          "descriptionTR" : "Catch up with the most important stories from around Europe and beyond this June 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+          "group" : "Daily news bulletin",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/latest-news-bulletin-june-4th-2026-evening",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/latest-news-bulletin-june-4th-2026-evening",
+          "newsValue" : 1,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/latest-news-bulletin-june-4th-2026-evening"
+            }
+          ],
+          "titleTR" : "Latest news bulletin | June 4th, 2026 – Evening"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "category" : "Security",
+          "descriptionTR" : "Gaza residents surveyed extensive damage on 4 June after an overnight Israeli airstrike hit an apartment in the Sheikh Radwan neighbourhood of Gaza City.",
+          "group" : "Gaza airstrike aftermath",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-city-residents-survey-destruction-after-overnight-israeli-airstrike"
+            }
+          ],
+          "titleTR" : "Gaza city residents survey destruction after overnight Israeli airstrike"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "category" : "Security",
+          "descriptionTR" : "Families gathered in Gaza City to mourn relatives killed on 4 June after overnight Israeli airstrikes in Gaza City, according to local hospitals.",
+          "group" : "Gaza civilian casualties",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/04\/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine"
+            }
+          ],
+          "titleTR" : "Gaza: Families mourn victims after overnight Israeli strikes that killed at least nine"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections",
+          "category" : "Diplomacy",
+          "descriptionTR" : "The EU endorsed Armenia’s PM Nikol Pashinyan and announced a support package to counter Russian sanctions, just days before Armenia’s historic elections. Meanwhile, Pashinyan said he would go to Moscow after the vote and proclaimed that \"abandoning Karabakh was my greatest service to Armenia\".",
+          "group" : "Armenia election backing",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections"
+            }
+          ],
+          "titleTR" : "EU backs Pashinyan on the eve of Armenia's defining elections"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Armenians will decide their future on Sunday against the backdrop of a Russia-West clash, as both the EU and the US support PM Pashinyan’s cautious pro-Western drive, while Russia embarked on an onslaught of economic and political pressures on Yerevan to keep the former Soviet state in its orbit.",
+          "group" : "Armenia election pressure",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+            }
+          ],
+          "titleTR" : "Armenia goes to polls in pivotal vote to decide South Caucasus future"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "category" : "Human Rights",
+          "descriptionTR" : "Video shows security personnel arguing with demonstrators before pushing one protester to the ground and dragging him away. The incident took place during a rally organised by environmental groups opposing a luxury resort project linked to Jared Kushner, the son-in-law of US President Donald Trump.",
+          "group" : "Albania resort protest",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/clash-at-protest-against-kushner-linked-albania-resort-project"
+            }
+          ],
+          "titleTR" : "Clash at protest against Kushner linked Albania resort project"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o#1",
+          "category" : "Human Rights",
+          "descriptionTR" : "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment.",
+          "group" : "Albania resort protests",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Kushner-backed luxury resort plan sparks protests in Albania"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/06\/aoun-tells-iran-this-is-our-country-as-araqchi-warns-of-lebanons-real-enemy",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Lebanese President Joseph Aoun accused Iran of exploiting Lebanon in its conflict with the US and Israel while calling for direct peace talks with Israel and Hezbollah’s disarmament.",
+          "group" : "Lebanon border tensions",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/06\/aoun-tells-iran-this-is-our-country-as-araqchi-warns-of-lebanons-real-enemy",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/06\/aoun-tells-iran-this-is-our-country-as-araqchi-warns-of-lebanons-real-enemy",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/06\/aoun-tells-iran-this-is-our-country-as-araqchi-warns-of-lebanons-real-enemy"
+            }
+          ],
+          "titleTR" : "Aoun tells Iran 'this is our country' as Araqchi warns of Lebanon's 'real enemy'"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/israel-and-lebanon-agree-to-conditional-ceasefire-following-us-led-talks",
+          "category" : "Diplomacy",
+          "descriptionTR" : "A top Iranian general reiterated Tehran's demand for a full ceasefire in Lebanon on Thursday and called for Israel to pull troops back to where they were when the wider war began.",
+          "group" : "Lebanon ceasefire dispute",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/israel-and-lebanon-agree-to-conditional-ceasefire-following-us-led-talks",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/israel-and-lebanon-agree-to-conditional-ceasefire-following-us-led-talks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/israel-and-lebanon-agree-to-conditional-ceasefire-following-us-led-talks"
+            }
+          ],
+          "titleTR" : "Hezbollah official says group told Lebanon it rejects proposed truce with Israel"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "category" : "Economy",
+          "descriptionTR" : "The Iranian assets Washington is considering reallocating could include frozen funds, along with ships previously seized by the United States.",
+          "group" : "Iran frozen assets",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage"
+            }
+          ],
+          "titleTR" : "Washington could tap into Iran's frozen billions to pay for Gulf attack damage"
+        },
+        {
+          "atomID" : "d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "category" : "Economy",
+          "descriptionTR" : "Proposal comes as relations between Trump administration and regional partners have been strained by conflict",
+          "group" : "Iran war compensation talks",
+          "id" : "d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "link" : "https:\/\/www.ft.com\/content\/d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/d19bd87f-2673-40e8-9216-8529d80b42aa"
+            }
+          ],
+          "titleTR" : "US weighs using Iranian assets to compensate Gulf allies for war damage"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo#0",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+          "group" : "Ukraine war diplomacy",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Zelensky arrives in UK for Downing Street talks with European leaders"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/azerbaijan-denies-claims-of-israel-using-its-soil-in-operations-against-iran",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Baku called the reports attributed to anonymous sources and unconfirmed by either Azerbaijan or Israel \"completely groundless,\" telling Euronews it had never provided its territory for any action against a third country, including Iran, with which it shares a 700-kilometre border.",
+          "group" : "Caucasus Iran corridor",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/azerbaijan-denies-claims-of-israel-using-its-soil-in-operations-against-iran",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/azerbaijan-denies-claims-of-israel-using-its-soil-in-operations-against-iran",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/azerbaijan-denies-claims-of-israel-using-its-soil-in-operations-against-iran"
+            }
+          ],
+          "titleTR" : "Azerbaijan denies claims of Israel using its soil in operations against Iran"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/us-sanctions-cuban-president-miguel-diaz-canel-as-trump-adds-pressure-to-islands-leadershi",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Thursday’s penalties, which follow Trump signing of an executive order expanding sanctions against the island, freeze individuals’ property and bank accounts in the US.",
+          "group" : "US Cuba sanctions",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/us-sanctions-cuban-president-miguel-diaz-canel-as-trump-adds-pressure-to-islands-leadershi",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/us-sanctions-cuban-president-miguel-diaz-canel-as-trump-adds-pressure-to-islands-leadershi",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/us-sanctions-cuban-president-miguel-diaz-canel-as-trump-adds-pressure-to-islands-leadershi"
+            }
+          ],
+          "titleTR" : "US sanctions Cuban President Miguel Díaz-Canel as Trump adds pressure to island’s leadership"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "category" : "Diplomacy",
+          "descriptionTR" : "The trip comes just weeks after Xi separately hosted US President Donald Trump and Russian President Vladimir Putin in Beijing.",
+          "group" : "China North Korea diplomacy",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years"
+            }
+          ],
+          "titleTR" : "Xi Jinping set for North Korea trip on Monday in first visit to Pyongyang in seven years"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations",
+          "group" : "Ukraine peace messaging",
+          "id" : "d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "link" : "https:\/\/www.ft.com\/content\/d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/d097aba1-fd9a-4fd4-a4ba-fb980c27487a"
+            }
+          ],
+          "titleTR" : "Zelenskyy used Abramovich to send message to Putin about peace talks"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#0",
+          "category" : "Security",
+          "descriptionTR" : "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+          "group" : "Ukraine war strikes",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o#2",
+          "category" : "Security",
+          "descriptionTR" : "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+          "group" : "Kyiv under attack",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c87q2eq8r1yo#2",
+          "category" : "Security",
+          "descriptionTR" : "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
+          "group" : "Ukraine civilian transport",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c87q2eq8r1yo#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "The drivers risking death on Ukraine's most dangerous bus routes"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/man-opens-fire-in-central-israel-killing-one-person-and-injuring-five-others",
+          "category" : "Security",
+          "descriptionTR" : "Israeli media say the attacker carried out the shootings from inside his car, allowing him to reach several locations within a matter of minutes.",
+          "group" : "Israel shooting attack",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/man-opens-fire-in-central-israel-killing-one-person-and-injuring-five-others",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/man-opens-fire-in-central-israel-killing-one-person-and-injuring-five-others",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/man-opens-fire-in-central-israel-killing-one-person-and-injuring-five-others"
+            }
+          ],
+          "titleTR" : "Man opens fire in central Israel killing one person and injuring five others"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/crete-palestinian-arrested-over-alleged-hamas-links-and-possible-terror-plot",
+          "category" : "Security",
+          "descriptionTR" : "According to the information available so far, the 37-year-old is believed to have links to individuals recently arrested in Cyprus on terrorism charges.",
+          "group" : "Crete terror arrest",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/crete-palestinian-arrested-over-alleged-hamas-links-and-possible-terror-plot",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/crete-palestinian-arrested-over-alleged-hamas-links-and-possible-terror-plot",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/crete-palestinian-arrested-over-alleged-hamas-links-and-possible-terror-plot"
+            }
+          ],
+          "titleTR" : "Crete: Palestinian arrested over alleged Hamas links and possible terror plot"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/police-search-for-suspects-after-shooting-incident-injures-at-least-12-at-music-festival-i",
+          "category" : "Security",
+          "descriptionTR" : "At least two of the victims are in critical condition and are receiving treatment for their wounds. Police say the search for the perpetrators remains ongoing.",
+          "group" : "Ohio festival shooting",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/police-search-for-suspects-after-shooting-incident-injures-at-least-12-at-music-festival-i",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/police-search-for-suspects-after-shooting-incident-injures-at-least-12-at-music-festival-i",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/police-search-for-suspects-after-shooting-incident-injures-at-least-12-at-music-festival-i"
+            }
+          ],
+          "titleTR" : "Police search for suspects after shooting incident injures at least 12 at music festival in Ohio"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/06\/israeli-strike-kills-nine-including-lebanese-soldiers-as-border-truce-under-pressure",
+          "category" : "Security",
+          "descriptionTR" : "Lebanon has accused Israel of undermining ceasefire efforts after an airstrike killed three members of its army in the country's south.",
+          "group" : "Lebanon border tensions",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/06\/israeli-strike-kills-nine-including-lebanese-soldiers-as-border-truce-under-pressure",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/06\/israeli-strike-kills-nine-including-lebanese-soldiers-as-border-truce-under-pressure",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/06\/israeli-strike-kills-nine-including-lebanese-soldiers-as-border-truce-under-pressure"
+            }
+          ],
+          "titleTR" : "Israeli strike kills nine including Lebanese soldiers as border truce under pressure"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/lebanon-un-clears-debris-in-dibbine-after-israeli-withdrawal",
+          "category" : "Security",
+          "descriptionTR" : "UN peacekeepers and heavy machinery entered the southern Lebanese village of Dibbine on 5 June to clear debris left by recent fighting.",
+          "group" : "Lebanon border tensions",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/lebanon-un-clears-debris-in-dibbine-after-israeli-withdrawal",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/lebanon-un-clears-debris-in-dibbine-after-israeli-withdrawal",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/lebanon-un-clears-debris-in-dibbine-after-israeli-withdrawal"
+            }
+          ],
+          "titleTR" : "Lebanon: UN clears debris in Dibbine after Israeli withdrawal"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "category" : "Security",
+          "descriptionTR" : "The US claims to have intercepted Iranian drones before launching missile strikes on what it described as \"radar sites\" in the south of Iran.",
+          "group" : "Iran US strikes",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire"
+            }
+          ],
+          "titleTR" : "Iran and US exchange strikes in latest threat to fragile ceasefire"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "category" : "Security",
+          "descriptionTR" : "A live television report from Romania's Black Sea port of Constanța was abruptly interrupted on 5 June after a maritime drone exploded nearby, heightening concerns over the regional impact of the war in Ukraine.",
+          "group" : "Black Sea drone incident",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta"
+            }
+          ],
+          "titleTR" : "Romania: TV reporter flees live on air after drone explosion in Constanța"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/my-europe\/2026\/06\/05\/moment-sea-drone-explodes-in-romanias-constanta-port",
+          "category" : "Security",
+          "descriptionTR" : "Video shows the moment a sea drone exploded in Romania's Black Sea port of Constanta. Authorities said the drone self-destructed after the area was secured and evacuated, and no casualties were reported.",
+          "group" : "Black Sea drone incident",
+          "id" : "http:\/\/www.euronews.com\/my-europe\/2026\/06\/05\/moment-sea-drone-explodes-in-romanias-constanta-port",
+          "link" : "http:\/\/www.euronews.com\/my-europe\/2026\/06\/05\/moment-sea-drone-explodes-in-romanias-constanta-port",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/my-europe\/2026\/06\/05\/moment-sea-drone-explodes-in-romanias-constanta-port"
+            }
+          ],
+          "titleTR" : "Moment sea drone explodes in Romania's Constanta port"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/australian-authorities-seize-more-than-100000-live-exotic-cockroaches-in-huge-bug-bust",
+          "category" : "Security",
+          "descriptionTR" : "The seizure included dubia cockroaches and Madagascar hissing cockroaches, both of which cannot be legally imported into Australia or kept, bred, or sold.",
+          "group" : "Exotic insect smuggling",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/australian-authorities-seize-more-than-100000-live-exotic-cockroaches-in-huge-bug-bust",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/australian-authorities-seize-more-than-100000-live-exotic-cockroaches-in-huge-bug-bust",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/australian-authorities-seize-more-than-100000-live-exotic-cockroaches-in-huge-bug-bust"
+            }
+          ],
+          "titleTR" : "Australian authorities seize more than 100,000 live exotic cockroaches in huge bug bust"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/man-charged-with-bringing-bomb-in-his-carry-on-bag-to-a-california-airport",
+          "category" : "Security",
+          "descriptionTR" : "Before the device was removed from the airport, officers put a bomb blast suppression blanket over it and taped off the immediate area, according to the federal complaint.",
+          "group" : "California airport bomb scare",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/man-charged-with-bringing-bomb-in-his-carry-on-bag-to-a-california-airport",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/man-charged-with-bringing-bomb-in-his-carry-on-bag-to-a-california-airport",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/man-charged-with-bringing-bomb-in-his-carry-on-bag-to-a-california-airport"
+            }
+          ],
+          "titleTR" : "Man charged with bringing bomb in his carry-on bag to a California airport"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/unifil-peacekeeper-killed-and-two-others-injured-in-shelling-in-southern-lebanon",
+          "category" : "Security",
+          "descriptionTR" : "The UN peacekeeping mission called attacks on peacekeepers 'grave violations of international humanitarian law' and has opened an investigation into the incident. It is unclear where the shelling originated from.",
+          "group" : "Lebanon peacekeeper shelling",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/unifil-peacekeeper-killed-and-two-others-injured-in-shelling-in-southern-lebanon",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/unifil-peacekeeper-killed-and-two-others-injured-in-shelling-in-southern-lebanon",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/unifil-peacekeeper-killed-and-two-others-injured-in-shelling-in-southern-lebanon"
+            }
+          ],
+          "titleTR" : "UNIFIL peacekeeper killed and two others injured in shelling in southern Lebanon"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/sri-lanka-care-home-owner-in-custody-after-overnight-fire-kills-12-officials-say",
+          "category" : "Security",
+          "descriptionTR" : "Police said initial witness accounts suggested that the fire originated in a storeroom where dozens of mattresses were stacked.",
+          "group" : "Sri Lanka care home fire",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/sri-lanka-care-home-owner-in-custody-after-overnight-fire-kills-12-officials-say",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/sri-lanka-care-home-owner-in-custody-after-overnight-fire-kills-12-officials-say",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/sri-lanka-care-home-owner-in-custody-after-overnight-fire-kills-12-officials-say"
+            }
+          ],
+          "titleTR" : "Sri Lanka care home owner in custody after overnight fire kills 12, officials say"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 26
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "category" : "Security",
+          "descriptionTR" : "Limited strikes on Lebanese capital follow US president’s intervention last week forcing Israeli PM to delay major raid",
+          "group" : "Israel Lebanon escalation",
+          "id" : "02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "link" : "https:\/\/www.ft.com\/content\/02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/02a3b935-62dc-44a1-9957-6867e8ee1890"
+            }
+          ],
+          "titleTR" : "Israel attacks Beirut days after Trump’s showdown with Netanyahu"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 27
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "80dd187e-5146-4ac9-86a2-6f61d313517f",
+          "category" : "Security",
+          "descriptionTR" : "Keir Starmer locked in eleventh-hour wrangling with departments over how to pay for delayed investment plan",
+          "group" : "UK defence spending cuts",
+          "id" : "80dd187e-5146-4ac9-86a2-6f61d313517f",
+          "link" : "https:\/\/www.ft.com\/content\/80dd187e-5146-4ac9-86a2-6f61d313517f",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/80dd187e-5146-4ac9-86a2-6f61d313517f"
+            }
+          ],
+          "titleTR" : "Ministers told to cut budgets to fund boost to UK defence spending"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 28
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo#0",
+          "category" : "Religion",
+          "descriptionTR" : "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+          "group" : "Papal visit Spain",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Huge crowds throng Madrid streets for Pope's open-air Mass"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 29
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "category" : "Religion",
+          "descriptionTR" : "The pontiff is set to deliver a mass in the centre of Madrid before moving elsewhere in Spain to Barcelona and the Canary islands. Pope Leo XIV is also expected to deliver an unprecedented address to the Spanish parliament, where immigration is expected to take centre stage.",
+          "group" : "Papal visit Spain",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1"
+            }
+          ],
+          "titleTR" : "Pope Leo XIV calls for 'end to polarisation' as he makes the first papal visit to Spain in 15 years"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 30
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "category" : "Politics",
+          "descriptionTR" : "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+          "group" : "Armenia election pressure",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Armenia votes as Russia piles pressure on pro-West government"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 31
     },
     {
       "items" : [
@@ -71,341 +1133,215 @@
           "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
           "category" : "Politics",
           "descriptionTR" : "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
-          "group" : "US Europe migration rhetoric",
+          "group" : "Europe migration rhetoric",
           "id" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o#0",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
+              "sourceName" : "BBC News Europe",
               "url" : "https:\/\/www.bbc.com\/news\/articles\/c802e7jk458o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech"
-        },
+          "titleTR" : "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 32
+    },
+    {
+      "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#2",
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c1w21gn340xo#2",
           "category" : "Politics",
-          "descriptionTR" : "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-          "group" : "Armenia election pressure",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#2",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "descriptionTR" : "Corruption probes of colleagues and relatives have put Spain's premier into a fight for survival.",
+          "group" : "Spain political scandals",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c1w21gn340xo#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c1w21gn340xo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c1w21gn340xo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Armenia braces for election as Russia piles pressure on pro-West government"
-        },
+          "titleTR" : "Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 33
+    },
+    {
+      "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cvgzr6pn0nko#2",
           "category" : "Politics",
-          "descriptionTR" : "A committee of MPs has been formed to look at the case against Cyril Ramaphosa, but he may survive a vote.",
-          "group" : "Ramaphosa corruption case",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o#2",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss",
+          "descriptionTR" : "When Sir Keir Starmer looks back on his time at No10, his decision to send Lord Mandelson to Washington will be a central part of the critique of his tenure.",
+          "group" : "Mandelson appointment fallout",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cvgzr6pn0nko#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cvgzr6pn0nko?at_medium=RSS&at_campaign=rss",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy429dv9kk0o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cvgzr6pn0nko?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "The cash-in-the-sofa saga that just won't go away for South Africa's president"
+          "titleTR" : "Chris Mason: Decision to appoint Mandelson continues to inflict damage"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
+      "publishedAt" : "2026-06-07T18:02:26Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 34
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo#0",
-          "category" : "Diplomacy",
-          "descriptionTR" : "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
-          "group" : "Pope Spain migration",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo#0",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 4,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Pope begins Spain visit with praise for country's opposition to war and support for migrants"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o#1",
-          "category" : "Diplomacy",
-          "descriptionTR" : "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-          "group" : "Ukraine peace talks",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Putin says there is 'no point' meeting Zelensky over ending Ukraine war"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
-      "sessionID" : "publish-draft",
-      "slot" : 3
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o#0",
-          "category" : "Sports",
-          "descriptionTR" : "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
-          "group" : "Iran World Cup visas",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o#0",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 4,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy8286nqz87o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Iran says staff blocked from entering US after players given World Cup visas"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
-          "category" : "Sports",
-          "descriptionTR" : "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.",
-          "group" : "French Open tennis",
-          "id" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#0",
-          "link" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Andreeva wins French Open as Chwalinska fairytale ends"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
-      "sessionID" : "publish-draft",
-      "slot" : 4
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
-          "category" : "Culture",
-          "descriptionTR" : "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
-          "group" : "Taylor Swift wedding rumors",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 2,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Rumours and speculation as fans forecast date of Taylor Swift's wedding"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
-          "category" : "Culture",
-          "descriptionTR" : "Anthony Head, who first came to public attention for his role in 1980s Nescafe ads, has died at the age of 72.",
-          "group" : "Anthony Head obituary",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go#2",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 2,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy42428yx8go?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "From Nescafe to Ted Lasso: Anthony Head's life in pictures"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
-          "category" : "Culture",
-          "descriptionTR" : "After weeks of renovation, water has begun refilling the historic pool, which has been coated in a colour named \"American flag blue\".",
-          "group" : "Washington monument renovation",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo#3",
-          "link" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 1,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/videos\/cdjpjy2lm3lo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "'It looks black' - Americans react to Reflecting Pool's completed paint job"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
-      "sessionID" : "publish-draft",
-      "slot" : 5
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
-          "category" : "Health",
-          "descriptionTR" : "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
-          "group" : "Screwworm outbreak",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Canada bans Texas cattle over flesh-eating screwworm outbreak in US"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo#1",
-          "category" : "Health",
-          "descriptionTR" : "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says.",
-          "group" : "Norway royal health",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/beijing-slams-us-comments-on-tiananmen-square-crackdown-as-smear-of-china",
+          "category" : "Politics",
+          "descriptionTR" : "On 4 June 1989, the Chinese government sent troops and tanks to crush protests calling for political reform in and around the central square in the capital Beijing.",
+          "group" : "Tiananmen anniversary tensions",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/beijing-slams-us-comments-on-tiananmen-square-crackdown-as-smear-of-china",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/beijing-slams-us-comments-on-tiananmen-square-crackdown-as-smear-of-china",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/beijing-slams-us-comments-on-tiananmen-square-crackdown-as-smear-of-china"
             }
           ],
-          "titleTR" : "Norway's crown princess on lung transplant waiting list, palace says"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
-          "category" : "Health",
-          "descriptionTR" : "The insect, which has been found in America for the first time since 1966, is a growing concern in the southern US.",
-          "group" : "Screwworm outbreak",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c7v9vz1gd76o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "US plans to fight flesh-eating screwworm outbreak with flies and dogs"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo#2",
-          "category" : "Health",
-          "descriptionTR" : "There are now 380 confirmed cases of Ebola in DR Congo, far lower than initial estimates of suspected cases, writes Fergus Walsh.",
-          "group" : "Ebola outbreak Congo",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo#2",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c0q2q4y09elo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Fall in official Ebola numbers appears to be good news but it's not that simple"
+          "titleTR" : "Beijing slams US comments on Tiananmen Square crackdown as 'smear' of China"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
+      "publishedAt" : "2026-06-07T18:02:26Z",
       "sessionID" : "publish-draft",
-      "slot" : 6
+      "slot" : 35
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cy828e64vp8o#1",
-          "category" : "Human Rights",
-          "descriptionTR" : "The Israeli military says Friday's \"incident is under review\", expressing \"deep sorrow for any harm caused\".",
-          "group" : "West Bank civilian deaths",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cy828e64vp8o#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/paris-and-berlin-push-gradual-integration-plan-into-eu-ahead-of-balkans-summit",
+          "category" : "Politics",
+          "descriptionTR" : "Merz and Macron pitch \"building blocks\" approach to EU enlargement to revitalise accession talks, ahead of this week's Western Balkans summit.",
+          "group" : "EU enlargement reform",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/paris-and-berlin-push-gradual-integration-plan-into-eu-ahead-of-balkans-summit",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/paris-and-berlin-push-gradual-integration-plan-into-eu-ahead-of-balkans-summit",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cy828e64vp8o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/paris-and-berlin-push-gradual-integration-plan-into-eu-ahead-of-balkans-summit"
             }
           ],
-          "titleTR" : "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro#1",
-          "category" : "Human Rights",
-          "descriptionTR" : "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
-          "group" : "Sahara migrant deaths",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-06T19:43:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c62r2ldyejro?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Nearly 50 people die of thirst in Sahara desert after lorry breaks down"
+          "titleTR" : "Paris and Berlin push 'gradual integration' plan into EU ahead of Balkans summit"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
+      "publishedAt" : "2026-06-07T18:02:26Z",
       "sessionID" : "publish-draft",
-      "slot" : 7
+      "slot" : 36
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-considers-tightening-protections-for-military-age-ukrainians",
+          "category" : "Politics",
+          "descriptionTR" : "EU governments are considering restricting temporary protection for military-age Ukrainian men, as member states debate balancing support, integration pressures and Ukraine's manpower needs.",
+          "group" : "EU Ukraine protection rules",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-considers-tightening-protections-for-military-age-ukrainians",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-considers-tightening-protections-for-military-age-ukrainians",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-considers-tightening-protections-for-military-age-ukrainians"
+            }
+          ],
+          "titleTR" : "EU considers tightening protections for military-age Ukrainians"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 37
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "d2d98a73-7e52-4a95-bb15-b147dba97865",
+          "category" : "Politics",
+          "descriptionTR" : "Around three-quarters of those who can vote in any contest on who succeeds Starmer are not Labour Party members",
+          "group" : "UK Labour leadership rules",
+          "id" : "d2d98a73-7e52-4a95-bb15-b147dba97865",
+          "link" : "https:\/\/www.ft.com\/content\/d2d98a73-7e52-4a95-bb15-b147dba97865",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/d2d98a73-7e52-4a95-bb15-b147dba97865"
+            }
+          ],
+          "titleTR" : "The strange case of who chooses the next Labour prime minister"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 38
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "ae2b7010-2630-497c-b358-eb97978e5c35",
+          "category" : "Politics",
+          "descriptionTR" : "Latest polling shows Labour’s Andy Burnham pulling away from the rightwing populists, his main challengers",
+          "group" : "UK Reform by-election",
+          "id" : "ae2b7010-2630-497c-b358-eb97978e5c35",
+          "link" : "https:\/\/www.ft.com\/content\/ae2b7010-2630-497c-b358-eb97978e5c35",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/ae2b7010-2630-497c-b358-eb97978e5c35"
+            }
+          ],
+          "titleTR" : "Could Farage’s call for ‘rage’ cost Reform the Makerfield by-election?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 39
     },
     {
       "items" : [
@@ -417,11 +1353,11 @@
           "id" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go#1",
           "link" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
+              "sourceName" : "BBC News Europe",
               "url" : "https:\/\/www.bbc.com\/news\/articles\/c1424v7mk8go?at_medium=RSS&at_campaign=rss"
             }
           ],
@@ -430,68 +1366,729 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
+      "publishedAt" : "2026-06-07T18:02:26Z",
       "sessionID" : "publish-draft",
-      "slot" : 8
+      "slot" : 40
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
-          "category" : "Environment",
-          "descriptionTR" : "Crops are being ravaged and homes are being invaded by the rodents - and it’s costing farmers hundreds of thousands of dollars.",
-          "group" : "Australia mouse plague",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o#3",
-          "link" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss",
+          "atomID" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#1",
+          "category" : "Sports",
+          "descriptionTR" : "Teenager Mirra Andreeva fulfils her huge potential with a first Grand Slam title as Polish qualifier Maja Chwalinska is denied a fairytale French Open victory.",
+          "group" : "French Open tennis",
+          "id" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o#1",
+          "link" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/sport\/tennis\/articles\/c1dy7grv4y3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Andreeva wins French Open as Chwalinska fairytale ends"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 41
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/sport\/football\/articles\/cvgzg4vj8dno#2",
+          "category" : "Sports",
+          "descriptionTR" : "As Cristiano Ronaldo prepares for his sixth World Cup with Portugal, BBC Sport take a closer look at his place in the team.",
+          "group" : "Portugal Ronaldo debate",
+          "id" : "https:\/\/www.bbc.com\/sport\/football\/articles\/cvgzg4vj8dno#2",
+          "link" : "https:\/\/www.bbc.com\/sport\/football\/articles\/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/sport\/football\/articles\/cvgzg4vj8dno?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Are Portugal better without Ronaldo - and is he undroppable?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 42
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cg7p798gm5vo#3",
+          "category" : "Sports",
+          "descriptionTR" : "Fifa has been warned it is putting fans' health at risk by introducing a bottle ban at this summer's World Cup.",
+          "group" : "World Cup water ban",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/cg7p798gm5vo#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/cg7p798gm5vo?at_medium=RSS&at_campaign=rss",
           "newsValue" : 5,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/videos\/cn9p9y07d94o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cg7p798gm5vo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Why are devastating mice plagues happening in Australia?"
+          "titleTR" : "Fifa bans all water bottles from World Cup games"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
+      "publishedAt" : "2026-06-07T18:02:26Z",
       "sessionID" : "publish-draft",
-      "slot" : 9
+      "slot" : 43
     },
     {
       "items" : [
         {
-          "atomID" : "458FCF63-5B8E-57AE-8AC7-9ACAE673341F",
-          "category" : "Diğer",
-          "descriptionTR" : "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain. ⁂ Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
-          "group" : "A",
-          "id" : "458FCF63-5B8E-57AE-8AC7-9ACAE673341F",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 9,
-          "publishedAt" : "2026-06-06T19:43:24Z",
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/thousands-join-record-breaking-human-wave-attempt-in-mexico-city-ahead-of-world-cup",
+          "category" : "Sports",
+          "descriptionTR" : "Thousands of people gathered in Mexico City to attempt a Guinness World Record for the world's largest human wave, days before the start of the 2026 FIFA World Cup.",
+          "group" : "Mexico World Cup buildup",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/thousands-join-record-breaking-human-wave-attempt-in-mexico-city-ahead-of-world-cup",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/thousands-join-record-breaking-human-wave-attempt-in-mexico-city-ahead-of-world-cup",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:02:26Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/videos\/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/07\/thousands-join-record-breaking-human-wave-attempt-in-mexico-city-ahead-of-world-cup"
             }
           ],
-          "titleTR" : "US and Iran exchange strikes in Gulf in latest test of ceasefire ⁂ Is there an AI stock market bubble, and is it ready to burst?"
+          "titleTR" : "Thousands join record-breaking human wave attempt in Mexico City ahead of World Cup"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-06-06T19:43:24Z",
+      "publishedAt" : "2026-06-07T18:02:26Z",
       "sessionID" : "publish-draft",
-      "slot" : 10
+      "slot" : 44
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-football-squad-cleared-for-us-entry-but-staff-still-await-visas",
+          "category" : "Sports",
+          "descriptionTR" : "Iran's players have received US visas ahead of the World Cup, but several federation officials are still awaiting clearance before the team's opening match.",
+          "group" : "Iran World Cup visas",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-football-squad-cleared-for-us-entry-but-staff-still-await-visas",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-football-squad-cleared-for-us-entry-but-staff-still-await-visas",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/06\/iran-football-squad-cleared-for-us-entry-but-staff-still-await-visas"
+            }
+          ],
+          "titleTR" : "Iran football squad cleared for US entry but staff still await visas"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 45
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "category" : "Sports",
+          "descriptionTR" : "Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent",
+          "group" : "FIFA finances scrutiny",
+          "id" : "5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "link" : "https:\/\/www.ft.com\/content\/5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/5b79e86d-1df2-4bfa-9bde-f43eb692f11c"
+            }
+          ],
+          "titleTR" : "Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 46
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo#1",
+          "category" : "Health",
+          "descriptionTR" : "Mette-Marit's condition, which stiffens the lungs, making it hard to breathe, has deteriorated, the royal household says.",
+          "group" : "Norway royal health",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9wewqxpq2eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Norway's crown princess on lung transplant waiting list, palace says"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 47
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/06\/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak",
+          "category" : "Health",
+          "descriptionTR" : "Health officials have warned the Ebola outbreak in the Democratic Republic of Congo and Uganda could become one of the largest on record after confirmed cases jumped to 471, prompting a major international response.",
+          "group" : "Ebola outbreak central Africa",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/06\/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/06\/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/06\/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak"
+            }
+          ],
+          "titleTR" : "Ebola cases surge over 400 as fears grow over central Africa outbreak"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 48
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/czr2zzyrgdxo#3",
+          "category" : "",
+          "descriptionTR" : "Nearly 800 people were arrested after clashes with police following the Champions League final.",
+          "group" : "",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/czr2zzyrgdxo#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/czr2zzyrgdxo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Between celebration and confrontation: Paris after PSG victory"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 49
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/04\/there-is-no-energy-transition-only-addition-experts-say-at-baku-energy-week",
+          "category" : "",
+          "descriptionTR" : "Grid infrastructure emerged as the forum's defining bottleneck on the last day of Baku Energy Week, as the IGU's chief of staff said that global consumption of oil, gas, coal and renewables is rising simultaneously, directly challenging the conventional narrative.",
+          "group" : "",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/04\/there-is-no-energy-transition-only-addition-experts-say-at-baku-energy-week",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/04\/there-is-no-energy-transition-only-addition-experts-say-at-baku-energy-week",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/there-is-no-energy-transition-only-addition-experts-say-at-baku-energy-week"
+            }
+          ],
+          "titleTR" : "There is no energy transition — only addition, experts say at Baku Energy Week"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 50
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/c8d826nve86o#3",
+          "category" : "Technology",
+          "descriptionTR" : "Luxury sports car maker Ferrari has unveiled its first fully electric car - the $640,000 (£474,320) Luce.",
+          "group" : "Ferrari electric launch",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/c8d826nve86o#3",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/c8d826nve86o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/c8d826nve86o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Pope Leo inspects Ferrari's first fully electric vehicle"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 51
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/smart-pipelines-can-ai-protect-the-worlds-energy-lifelines",
+          "category" : "Technology",
+          "descriptionTR" : "As ageing pipelines face growing risks, the energy industry is increasingly turning to AI and smart monitoring systems to improve their safety and efficiency.",
+          "group" : "Energy infrastructure AI",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/smart-pipelines-can-ai-protect-the-worlds-energy-lifelines",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/smart-pipelines-can-ai-protect-the-worlds-energy-lifelines",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/smart-pipelines-can-ai-protect-the-worlds-energy-lifelines"
+            }
+          ],
+          "titleTR" : "Smart pipelines: Can AI protect the world’s energy lifelines?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 52
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "d2155669-cead-4716-8d70-91df69b82977",
+          "category" : "Technology",
+          "descriptionTR" : "Retailer’s embrace of artificial intelligence comes amid anxiety that the technology will create mass redundancies",
+          "group" : "AI workplace adoption",
+          "id" : "d2155669-cead-4716-8d70-91df69b82977",
+          "link" : "https:\/\/www.ft.com\/content\/d2155669-cead-4716-8d70-91df69b82977",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/d2155669-cead-4716-8d70-91df69b82977"
+            }
+          ],
+          "titleTR" : "Walmart tells workers that AI will improve their jobs, not steal them"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 53
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
+          "category" : "Technology",
+          "descriptionTR" : "$850bn start-up to recast hit chatbot as a route to higher-margin products before a potential IPO",
+          "group" : "OpenAI ChatGPT overhaul",
+          "id" : "ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
+          "link" : "https:\/\/www.ft.com\/content\/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9"
+            }
+          ],
+          "titleTR" : "OpenAI plots biggest ChatGPT overhaul since launch"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 54
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/qatari-designers-make-north-american-runway-debut-in-toronto",
+          "category" : "Culture",
+          "descriptionTR" : "Three emerging Qatari and Qatar-based designers made their North American runway debut at Fashion Art Toronto, showcasing their work to international audiences as part of the Qatar, Canada and Mexico 2026 Year of Culture and highlighting fashion's growing role in cultural exchange.",
+          "group" : "Qatari fashion debut",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/qatari-designers-make-north-american-runway-debut-in-toronto",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/qatari-designers-make-north-american-runway-debut-in-toronto",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/qatari-designers-make-north-american-runway-debut-in-toronto"
+            }
+          ],
+          "titleTR" : "Qatari designers make North American runway debut in Toronto"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 55
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/dua-lipa-and-callum-turner-celebrate-with-guests-at-sicily-wedding-party",
+          "category" : "Culture",
+          "descriptionTR" : "Newlyweds Dua Lipa and Callum Turner were seen greeting guests and celebrating at a wedding party in Palermo, Sicily, as part of a weekend of festivities following their recent London wedding.",
+          "group" : "Dua Lipa wedding",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/dua-lipa-and-callum-turner-celebrate-with-guests-at-sicily-wedding-party",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/dua-lipa-and-callum-turner-celebrate-with-guests-at-sicily-wedding-party",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/06\/dua-lipa-and-callum-turner-celebrate-with-guests-at-sicily-wedding-party"
+            }
+          ],
+          "titleTR" : "Dua Lipa and Callum Turner celebrate with guests at Sicily wedding party"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 56
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/germany-bavarian-lake-procession-marks-centuries-old-boat-tradition-for-corpus-christi",
+          "category" : "Culture",
+          "descriptionTR" : "Hundreds of worshippers gathered in Bavaria on 4 June for Seehausen's traditional Corpus Christi lake procession. The event, held annually since 1935, combines religious devotion with local heritage on the waters of Staffelsee.",
+          "group" : "Corpus Christi traditions",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/germany-bavarian-lake-procession-marks-centuries-old-boat-tradition-for-corpus-christi",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/germany-bavarian-lake-procession-marks-centuries-old-boat-tradition-for-corpus-christi",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/germany-bavarian-lake-procession-marks-centuries-old-boat-tradition-for-corpus-christi"
+            }
+          ],
+          "titleTR" : "Germany: Bavarian lake procession marks centuries-old boat tradition for Corpus Christi"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/venezuelas-dancing-devils-revive-centuries-old-corpus-christi-rite",
+          "category" : "Culture",
+          "descriptionTR" : "Children making their First Communion were accompanied by masked \"Dancing Devils\" in Tarmas, Venezuela. The centuries-old Corpus Christi celebration symbolises the triumph of good over evil and remains a key cultural tradition.",
+          "group" : "Corpus Christi traditions",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/venezuelas-dancing-devils-revive-centuries-old-corpus-christi-rite",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/venezuelas-dancing-devils-revive-centuries-old-corpus-christi-rite",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/venezuelas-dancing-devils-revive-centuries-old-corpus-christi-rite"
+            }
+          ],
+          "titleTR" : "Venezuela's Dancing Devils revive centuries-old Corpus Christi rite"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 57
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "42e5cdaa-005f-4a3b-ba0f-db443b2bad17",
+          "category" : "Culture",
+          "descriptionTR" : "A tracker might tell you that you got to bed too late, but it doesn’t tell you that you were busy living your life",
+          "group" : "Self-optimization culture",
+          "id" : "42e5cdaa-005f-4a3b-ba0f-db443b2bad17",
+          "link" : "https:\/\/www.ft.com\/content\/42e5cdaa-005f-4a3b-ba0f-db443b2bad17",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/42e5cdaa-005f-4a3b-ba0f-db443b2bad17"
+            }
+          ],
+          "titleTR" : "We are optimising ourselves to death"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 58
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/truck-breakdown-in-niger-strands-passengers-and-leaves-49-dead-in-sahara-desert",
+          "category" : "Human Rights",
+          "descriptionTR" : "The 49 victims were buried in mass graves at the scene in what officials called a “particularly delicate and emotionally exhausting task” for the survivors.",
+          "group" : "Sahara migrant deaths",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/truck-breakdown-in-niger-strands-passengers-and-leaves-49-dead-in-sahara-desert",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/truck-breakdown-in-niger-strands-passengers-and-leaves-49-dead-in-sahara-desert",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/truck-breakdown-in-niger-strands-passengers-and-leaves-49-dead-in-sahara-desert"
+            }
+          ],
+          "titleTR" : "Truck breakdown in Niger strands passengers and leaves 49 dead in Sahara Desert"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 59
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/thousands-join-jerusalem-pride-parade-under-tight-security",
+          "category" : "Human Rights",
+          "descriptionTR" : "Thousands joined Jerusalem Pride parade on 4 June, under heavy security, marching for equality and acceptance in a deeply conservative, religiously significant city.",
+          "group" : "Jerusalem pride parade",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/thousands-join-jerusalem-pride-parade-under-tight-security",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/thousands-join-jerusalem-pride-parade-under-tight-security",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/thousands-join-jerusalem-pride-parade-under-tight-security"
+            }
+          ],
+          "titleTR" : "Thousands join Jerusalem pride parade under tight security"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 60
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/denmark-probes-death-of-humpback-whale-that-captivated-germany",
+          "category" : "Environment",
+          "descriptionTR" : "Denmark has launched a post-mortem examination on Timmy, a humpback whale whose struggle to return to the sea captured public attention in Germany and beyond. Scientists hope to determine why the animal died weeks after being returned to open waters.",
+          "group" : "Whale and wildlife enforcement",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/denmark-probes-death-of-humpback-whale-that-captivated-germany",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/denmark-probes-death-of-humpback-whale-that-captivated-germany",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/denmark-probes-death-of-humpback-whale-that-captivated-germany"
+            }
+          ],
+          "titleTR" : "Denmark probes death of humpback whale that captivated Germany"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 61
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "056789c0-d316-4b02-be24-2f75208790dd",
+          "category" : "Economy",
+          "descriptionTR" : "US president raises stakes for central bank pick as expectations grow that borrowing costs will rise",
+          "group" : "Trump Fed pressure",
+          "id" : "056789c0-d316-4b02-be24-2f75208790dd",
+          "link" : "https:\/\/www.ft.com\/content\/056789c0-d316-4b02-be24-2f75208790dd",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/056789c0-d316-4b02-be24-2f75208790dd"
+            }
+          ],
+          "titleTR" : "Trump piles pressure on Warsh with call for rate cut"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 62
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1",
+          "category" : "Economy",
+          "descriptionTR" : "AI, clean energy and defence spending are reinforcing each other, amplifying potential spend",
+          "group" : "Global investment super-cycle",
+          "id" : "d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1",
+          "link" : "https:\/\/www.ft.com\/content\/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1"
+            }
+          ],
+          "titleTR" : "Are we at the start of a new investment super-cycle?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 63
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "1f5e1135-a45a-4c2d-bcb5-4894d0ff2770",
+          "category" : "Economy",
+          "descriptionTR" : "Sean Doyle’s warning comes as jet fuel prices have doubled since Iran war began in February",
+          "group" : "Airline fuel costs",
+          "id" : "1f5e1135-a45a-4c2d-bcb5-4894d0ff2770",
+          "link" : "https:\/\/www.ft.com\/content\/1f5e1135-a45a-4c2d-bcb5-4894d0ff2770",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/1f5e1135-a45a-4c2d-bcb5-4894d0ff2770"
+            }
+          ],
+          "titleTR" : "British Airways chief says air fares will rise again if fuel costs stay high"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 64
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "c7d9e440-49a9-4254-bc18-748baa99c7d8",
+          "category" : "Economy",
+          "descriptionTR" : "Morten Wierod calls for urgent deregulation as energy shock from Iran war dents EU competitiveness",
+          "group" : "Europe competitiveness crisis",
+          "id" : "c7d9e440-49a9-4254-bc18-748baa99c7d8",
+          "link" : "https:\/\/www.ft.com\/content\/c7d9e440-49a9-4254-bc18-748baa99c7d8",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/c7d9e440-49a9-4254-bc18-748baa99c7d8"
+            }
+          ],
+          "titleTR" : "Europe risks ‘mass unemployment’ without reform, warns ABB boss"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 65
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "da7ce472-44d8-4b7e-8bed-c007df3e1b92",
+          "category" : "Education",
+          "descriptionTR" : "Trump administration funding cuts and weak private equity performance prompt a search for higher endowment returns",
+          "group" : "US university finances",
+          "id" : "da7ce472-44d8-4b7e-8bed-c007df3e1b92",
+          "link" : "https:\/\/www.ft.com\/content\/da7ce472-44d8-4b7e-8bed-c007df3e1b92",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T18:02:26Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/da7ce472-44d8-4b7e-8bed-c007df3e1b92"
+            }
+          ],
+          "titleTR" : "US universities boost market risk as financial pressures mount"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-07T18:02:26Z",
+      "sessionID" : "publish-draft",
+      "slot" : 66
     }
   ],
   "week" : "2026-W23"
