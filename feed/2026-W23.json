@@ -1,0 +1,433 @@
+{
+  "label" : "1–7 HAZIRAN",
+  "publishedAt" : "2026-06-07T20:29:22Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "category" : "Politics",
+          "descriptionTR" : "Oylamadan haftalar önce Rusya, Ermenistan'dan birçok ürünün ithalatını yasakladı — bu, ülkeye ekonomik baskı uygulama hamlesi olarak görülüyor.",
+          "group" : "Armenia Russia pivot",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949"
+            }
+          ],
+          "titleTR" : "Ermenistan, Başbakanın Rusya'dan Uzaklaşma Hamlesini Test Ediyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "category" : "Politics",
+          "descriptionTR" : "Görevdeki Başbakan Nikol Paşinyan, iç destek azalmasına rağmen üçüncü dönemini arıyor.",
+          "group" : "Armenia Russia pressure",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Rusya'nın Batı Yanlısı Hükümete Baskı Yaptığı Ermenistan'da Seçim"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "category" : "Politics",
+          "descriptionTR" : "Seçmenler, Batı'ya daha yakın olan mevcut Başbakan Nikol Paşinyan ile Rusya yanlısı muhalefet arasında tercih yapacak\nErmeniler, ülkenin Avrupa'ya yönelmesini ve Rusya ile olan geleneksel ittifakından uzaklaşmasını pekiştirebilecek bir seçimin sonuçlarını bekliyor.\nBaşbakan Nikol Paşinyan'ın Sivil Sözleşme partisi, Moskova ile daha yakın ilişkiler savunan üç muhalefet adayının önünde favori olarak seçime girdi. Paşinyan'ın ana rakibi, servetinin büyük kısmını Rusya'da kazanan Rus-Ermeni milyarder Samvel Karapetyan, Yerevan dışındaki malikanesinde ev hapsinde kampanya yürütmek zorunda kaldı.",
+          "group" : "Armenia Russia pressure",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu"
+            }
+          ],
+          "titleTR" : "‘İleri Gitme Zamanı’: Rusya ve AB'nin Yakından İzlediği Seçimde Ermeniler Oy Kullanıyor"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "category" : "Politics",
+          "descriptionTR" : "Ermeniler, Pazar günü Rusya-Batı çatışması zemininde geleceklerini belirleyecek, AB ve ABD, Başbakan Paşinyan'ın temkinli Batı yanlısı hamlesini desteklerken, Rusya, eski Sovyet devletini yörüngesinde tutmak için Yerevan'a ekonomik ve siyasi baskılar uyguluyor.",
+          "group" : "Armenia election",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections"
+            }
+          ],
+          "titleTR" : "Ermenistan, Güney Kafkasya'nın Geleceğini Belirleyecek Kritik Seçimde Sandık Başında"
+        }
+      ],
+      "packetSpot" : "Ermenistan'ın kritik seçimleri, Rusya ve Batılı ülkelerin sonuçları yakından takip etmesiyle uluslararası alanda büyük ilgi gördü. Seçimler, Ermenistan'ın Güney Kafkasya bölgesindeki gelecekteki yönü için kritik bir an olarak değerlendirildi.",
+      "packetTitle" : "Ermenistan'ın Kritik Seçimleri ve Jeopolitik Etkileri",
+      "publishedAt" : "2026-06-07T20:29:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
+          "category" : "Security",
+          "descriptionTR" : "Rusya Savunma Bakanlığı, Ukrayna'nın askeri tarafından kullanılan savunma üretim tesisleri ve ulaşım altyapısını hedef aldığını iddia etti.",
+          "group" : "Ukraine strikes on Russia",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/russian-drone-strikes-kill-two-in-ukraine-a92948",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/russian-drone-strikes-kill-two-in-ukraine-a92948"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898"
+            }
+          ],
+          "titleTR" : "Rusya'nın Ukrayna'daki Saldırılarında En Az 21 Kişi Hayatını Kaybetti"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o#2",
+          "category" : "Security",
+          "descriptionTR" : "Büyük bir Rus saldırısının ardından yer altı sığınaklarından çıkan sakinleri yıkım manzaraları karşıladı.",
+          "group" : "Kyiv under attack",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "'Binayı onarırlar ama ruhumuzu değil': Uykulu Kiev mahallesi Rus saldırısında vuruldu"
+        }
+      ],
+      "packetSpot" : "Rusya'nın Ukrayna'ya yönelik askeri saldırıları, farklı bölgelerde değişen ölüm sayılarıyla birlikte çok sayıda sivilin hayatını kaybetmesine neden oldu. Saldırılar, Kiev de dahil olmak üzere birçok bölgeyi hedef aldı ve büyük yıkım ve can kaybına yol açtı.",
+      "packetTitle" : "Rusya'nın Ukrayna'ya Yönelik Askeri Saldırıları Sivil Can Kaybına Yol Açtı",
+      "publishedAt" : "2026-06-07T20:29:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910",
+          "category" : "Security",
+          "descriptionTR" : "Yaklaşık 130 ülkeden 20.000 konuğun katılması beklenen SPIEF, “Rus Davos'u” olarak bilinen önemli bir iş ve yatırım etkinliğidir.",
+          "group" : "SPIEF under attack",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/06\/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/06\/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910"
+            }
+          ],
+          "titleTR" : "St. Petersburg Ekonomik Forumu Ukrayna İHA Saldırılarının Gölgesinde Açıldı"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#0",
+          "category" : "Security",
+          "descriptionTR" : "BBC'nin Rusya editörü, Putin'in amiral gemisi ekonomik etkinliğinin Ukrayna İHA saldırılarıyla gölgede kaldığını aktardı.",
+          "group" : "Ukraine drone strikes",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#0",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Steve Rosenberg: Rusya'nın ekonomik forumu St. Petersburg'daki İHA saldırılarıyla gölgelendi"
+        }
+      ],
+      "packetSpot" : "Rusya'nın ekonomik takviminde önemli bir etkinlik olan St. Petersburg Ekonomik Forumu, Ukrayna İHA saldırılarıyla gölgelendi. Bu saldırılar, Ukrayna ile Rusya arasındaki devam eden gerilimleri vurgulayarak etkinliğin üzerine bir gölge düşürdü.",
+      "packetTitle" : "St. Petersburg Ekonomik Forumu Ukrayna İHA Saldırılarıyla Kesintiye Uğradı",
+      "publishedAt" : "2026-06-07T20:29:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
+          "category" : "Security",
+          "descriptionTR" : "Otobüs, Moskova'dan ayrılmış ve ilhak edilmiş Kırım'daki Simferopol'e giderken Yenakiieve kasabasında vuruldu.",
+          "group" : "Occupied Donetsk attack",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909"
+            }
+          ],
+          "titleTR" : "Kremlin Tarafından Atanan Yetkiliye Göre, İşgal Altındaki Donetsk'te Ukrayna İHA Saldırısı Otobüste 8 Kişiyi Öldürdü"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "category" : "Security",
+          "descriptionTR" : "Rusya'nın gölge filosunun izlerini taşıyan ve yağmalanan Ukrayna tedariklerine bağlı bir limanda tahıl yüklemeye giden Natra ve Zirkon adlı kargo gemileri, gece Taganrog yakınlarında vuruldu.",
+          "group" : "Black Sea shipping attacks",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov"
+            }
+          ],
+          "titleTR" : "Azak Denizi'nde Kargo Gemilerine Saldırı: Beş Denizci Öldü"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Kremlin Tarafından Atanan Yetkiliye Göre, İşgal Altındaki Donetsk'te Ukrayna İHA Saldırısı Otobüste 8 Kişiyi Öldürdü",
+      "publishedAt" : "2026-06-07T20:29:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "category" : "Security",
+          "descriptionTR" : "Güney Ukrayna'da cephe hattına yakın olan Zaporijya, Avrupa'nın en büyük nükleer enerji santralidir.",
+          "group" : "Zaporizhzhia nuclear plant",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884"
+            }
+          ],
+          "titleTR" : "İHA Ukrayna'da Ele Geçirilen Nükleer Santrali Vurdu – UAEA"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna Devlet Başkanı Volodimir Zelenski, saldırının 'son derece alçakça' ve kasıtlı olduğunu söyledi.\n\nRusya'ya ait bir Shahed İHA, kullanılmayan Çernobil nükleer santraline yakın bir bölgede harcanmış nükleer yakıt depolamak için kullanılan bir binaya ciddi zarar verdi. Ukrayna Devlet Başkanı, saldırıyı kasıtlı ve \"son derece alçakça\" olarak nitelendirdi.\nYapı – harcanmış yakıt depolama tesisinin kabul binası – o sırada konteynerlerden boştu, ancak hassas bölgenin hedef alınması, her iki tarafın da yüksek profilli yerlerinin vurulduğu uzun menzilli hava saldırılarının yoğunlaştığı bir dönemde Moskova'dan doğrudan bir mesaj gibi göründü.",
+          "group" : "Chornobyl drone strike",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"
+            }
+          ],
+          "titleTR" : "Rus İHA'sı Çernobil Yakınlarında Harcanmış Nükleer Yakıt Depolayan Binayı Vurdu"
+        }
+      ],
+      "packetSpot" : "Rusya'ya ait bir İHA, Çernobil yakınlarında harcanmış nükleer yakıt depolayan bir tesisi hedef aldı ve bölgede nükleer güvenlik endişelerini artırdı. Uluslararası Atom Enerjisi Ajansı (UAEA), gerilimin tırmandığı bir dönemde durumu yakından izliyor.",
+      "packetTitle" : "Rus İHA'sı Ukrayna'daki Nükleer Depolama Tesisini Vurdu",
+      "publishedAt" : "2026-06-07T20:29:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna, Azak Denizi'nde ve Rus işgali altındaki bölgelerin kıyı sularında yasadışı yük taşıyan beş gemiyi vurduğunu açıkladı.",
+          "group" : "Black Sea drone warfare",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ukrayna, yük gemilerini vurdu ve Romanya'daki dron patlamasını kabul etti"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "category" : "Security",
+          "descriptionTR" : "Romanya'nın Karadeniz limanı Köstence'den yapılan canlı televizyon yayını, 5 Haziran'da yakınlarda bir deniz dronunun patlamasıyla aniden kesildi ve Ukrayna'daki savaşın bölgesel etkilerine dair endişeleri artırdı.",
+          "group" : "Black Sea drone incident",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/my-europe\/2026\/06\/05\/moment-sea-drone-explodes-in-romanias-constanta-port"
+            }
+          ],
+          "titleTR" : "Romanya: Köstence'de dron patlaması sonrası TV muhabiri canlı yayında kaçtı"
+        }
+      ],
+      "packetSpot" : "Romanya'nın Köstence limanında meydana gelen deniz dronu patlaması, önemli bir alarm ve medya ilgisine neden oldu. Olay, Ukrayna'nın yük gemilerine yönelik saldırısını içeriyor ve Romanya, patlamanın kendi topraklarındaki etkisini kabul etti.",
+      "packetTitle" : "Romanya'nın Köstence Limanı'nda Deniz Dronu Patlaması",
+      "publishedAt" : "2026-06-07T20:29:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "category" : "Religion",
+          "descriptionTR" : "Papa, takipçilerini 'kardeşlerimize, yoksullara, acı çekenlere' adanmaya çağırdı.\nAmerikalı Papa'nın Hristiyan değerleri ile aşırı sağ politikalar arasındaki kopukluğa vurgu yaptığı açık hava ayininde, Madrid sokaklarını bir milyondan fazla kişi doldurdu. İbadet edenlere, 'Kimse Rab'bin önünde diz çöküp kardeşini hor göremez' dedi.\nAyine erişim için kuyruklar, Pazar günü güneş doğmadan saatler önce, Papa'nın İspanya'ya yaptığı bir haftalık ziyaretin en büyük buluşması olarak ilan edilen etkinlikte bir yer kapmak için oluşmaya başladı.",
+          "group" : "Papal visit to Spain",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid"
+            }
+          ],
+          "titleTR" : "Madrid'de Papa Leo ile açık hava ayinine 1 milyondan fazla kişi katıldı"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "category" : "Religion",
+          "descriptionTR" : "Papa, Madrid'in merkezinde bir ayin gerçekleştirdikten sonra İspanya'nın diğer bölgelerine, Barselona ve Kanarya Adaları'na geçecek. Papa Leo XIV'in ayrıca İspanyol parlamentosuna benzeri görülmemiş bir konuşma yapması bekleniyor ve göç konusunun ön planda olması öngörülüyor.",
+          "group" : "Papal visit to Spain",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1"
+            }
+          ],
+          "titleTR" : "Papa Leo XIV, 15 yıl sonra İspanya'ya yapılan ilk papalık ziyareti sırasında 'kutuplaşmanın sona ermesi' çağrısında bulundu"
+        }
+      ],
+      "packetSpot" : "Papa Leo XIV'in İspanya ziyareti, 15 yıl sonra ülkeye yapılan ilk papalık ziyareti olarak dikkat çekiyor. Ziyareti sırasında Madrid'de düzenlenen açık hava ayinine 1 milyondan fazla kişi katıldı ve Papa Leo XIV, siyasi ve sosyal kutuplaşmanın sona ermesi çağrısında bulundu.",
+      "packetTitle" : "Papa Leo XIV'in İspanya Ziyareti",
+      "publishedAt" : "2026-06-07T20:29:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Putin, Zelenskiy ile ancak önceden anlaşılmış bir anlaşmayı sonuçlandırmak için görüşeceğini belirtti ve öncesinde görüşme çağrılarını reddetti.",
+          "group" : "Zelensky ceasefire appeal",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935"
+            }
+          ],
+          "titleTR" : "Zelenskiy'den Putin'e Açık Mektup: Görüşme ve Ateşkes Çağrısı"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Donald Trump, Ukrayna savaşını sona erdirmek için her iki tarafın da taviz vermesi gerektiğini, bunu kendisinin önerdiğini belirtti ancak detaylandırmadı. Trump, Oval Ofis'te gazetecilere 'Belki de görüşmeyi konuşuyor olmalarından memnunum. Bununla çok ilgimiz olduğunu düşünüyorum,' dedi.\n\n• Zelenskiy, Putin'e yazdığı mektupta yüz yüze müzakereler çağrısında bulundu",
+          "group" : "Ukraine peace talks",
+          "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-07T20:29:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video"
+            }
+          ],
+          "titleTR" : "Trump, Zelenskiy-Putin görüşmesinin 'harika' olacağını söyledi"
+        }
+      ],
+      "packetSpot" : "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya Devlet Başkanı Vladimir Putin'e açık bir mektup yazarak ateşkes görüşmesi teklifinde bulundu. Eski ABD Başkanı Donald Trump, olası görüşmeyi olumlu değerlendirerek bunun faydalı bir gelişme olduğunu ifade etti.",
+      "packetTitle" : "Zelenskiy'den Putin'e Ateşkes Görüşmesi Teklifi",
+      "publishedAt" : "2026-06-07T20:29:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    }
+  ],
+  "week" : "2026-W23"
+}
