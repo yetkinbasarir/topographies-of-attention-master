@@ -1,0 +1,71 @@
+{
+  "label" : "8–14 HAZIRAN",
+  "publishedAt" : "2026-06-08T00:10:31Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.artforum.com\/?p=1234751724",
+          "category" : "Culture",
+          "descriptionTR" : "Pace Gallery, 135 sanatçısından ellisini ve 250 personelinden ellisini çıkardı, New York Times dün gece geç saatlerde bildirdi. Artnews, Times haberinin Pace'in personeline işten çıkarmaları bildirmeden önce yayınlandığını ve yönetimin bu konuyu ele almak için planlanan bir genel toplantıda ele almayı planladığını bildirdi.",
+          "group" : "Pace gallery restructuring",
+          "id" : "https:\/\/www.artforum.com\/?p=1234751724",
+          "link" : "https:\/\/www.artforum.com\/news\/pace-makes-deep-cuts-to-artist-roster-staff-1234751724\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-08T00:10:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/pace-makes-deep-cuts-to-artist-roster-staff-1234751724\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/pace-cuts-50-artists-mega-gallery\/"
+            }
+          ],
+          "titleTR" : "“Düzeltilemez” Galeri Modelini Gerekçe Gösteren Pace, Sanatçı Kadrosu ve Personelde Büyük Kesintiler Yapıyor"
+        }
+      ],
+      "packetSpot" : "Pace Gallery, mevcut mega-galeri modelindeki sorunları gerekçe göstererek sanatçı kadrosunu ve personelini önemli ölçüde azaltarak yeniden yapılanıyor.",
+      "packetTitle" : "Pace Gallery Yeniden Yapılanıyor, Mega-Galeri Modeli Eleştirileri Ortasında Sanatçı ve Personel Kesintileri Yapıyor",
+      "publishedAt" : "2026-06-08T00:10:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.artforum.com\/?p=1234751739",
+          "category" : "Culture",
+          "descriptionTR" : "Taipei Güzel Sanatlar Müzesi (TFAM), 2027 yılında gerçekleşecek On Beşinci Taipei Bienali'nin küratörü olarak Cecilia Alemani'yi atadı. Milano doğumlu Alemani, özellikle kadınlar olmak üzere, marjinalleştirilmiş sanatçıların eserlerini öne çıkarmasıyla tanınıyor. Daha önce 2025 yılında On İkinci SITE Santa Fe International'ı düzenlemiş olan Alemani, bienal küratörlüğünde deneyimli bir isimdir.",
+          "group" : "Taipei biennial leadership",
+          "id" : "https:\/\/www.artforum.com\/?p=1234751739",
+          "link" : "https:\/\/www.artforum.com\/news\/cecilia-alemani-will-curate-2027-taipei-biennial-1234751739\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-08T00:10:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/cecilia-alemani-will-curate-2027-taipei-biennial-1234751739\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/cecilia-alemani-to-curate-2027-taipei-biennial\/"
+            }
+          ],
+          "titleTR" : "Cecilia Alemani, 2027 Taipei Bienali'ni Küratörlüğünü Yapacak"
+        }
+      ],
+      "packetSpot" : "Cecilia Alemani, 2027 Taipei Bienali küratörü olarak atandı ve Asya'daki ilk deneyimini yaşayacak.",
+      "packetTitle" : "Cecilia Alemani, 2027 Taipei Bienali Küratörü Olarak Atandı",
+      "publishedAt" : "2026-06-08T00:10:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    }
+  ],
+  "week" : "2026-W26"
+}
