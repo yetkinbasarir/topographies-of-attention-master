@@ -1,433 +1,1216 @@
 {
-  "label" : "1–7 HAZIRAN",
-  "publishedAt" : "2026-06-07T20:29:22Z",
-  "slots" : [
+  "label": "1-7 HAZİRAN",
+  "publishedAt": "2026-06-07T20:29:22Z",
+  "slots": [
     {
-      "items" : [
+      "items": [
         {
-          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
-          "category" : "Politics",
-          "descriptionTR" : "In the weeks before the vote, Russia banned the import of several products from Armenia — seen as a move to heap economic pressure on the country.",
-          "group" : "Armenia Russia pivot",
-          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
-          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
+          "atomID": "https://www.lemonde.fr/videos/video/2026/06/07/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "category": "Culture",
+          "descriptionTR": "Plus de 1,2 million de fidèles ont envahi les rues du centre de Madrid dimanche pour une messe célébrée par Léon XIV, au cours de laquelle le pape a appelé à un renouveau de la foi catholique en Espagne.",
+          "group": "Papal Madrid visit",
+          "id": "https://www.lemonde.fr/videos/video/2026/06/07/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "link": "https://www.lemonde.fr/videos/video/2026/06/07/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html",
+          "newsValue": 4,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
             {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949"
-            }
-          ],
-          "titleTR" : "Armenia Votes in Test of PM’s Pivot Away From Russia"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
-          "category" : "Politics",
-          "descriptionTR" : "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-          "group" : "Armenia Russia pressure",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o#0",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Armenia votes as Russia piles pressure on pro-West government"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
-          "category" : "Politics",
-          "descriptionTR" : "Voters to choose between pro-Russian opposition and incumbent Nikol Pashinyan, who is more closely aligned with the west\nArmenians are awaiting the results of an election that could cement the country’s shift towards Europe and away from its traditional alliance with Russia.\nPrime minister Nikol Pashinyan’s Civil Contract party entered the vote on Sunday as the favourite, ahead of three opposition candidates who advocate for closer ties with Moscow. Pashinyan’s main challenger, Samvel Karapetyan, a Russian-Armenian billionaire who built much of his fortune in Russia, was forced to campaign from house arrest at his mansion outside Yerevan.",
-          "group" : "Armenia Russia pressure",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/armenia-vote-election-closely-watched-russia-eu"
-            }
-          ],
-          "titleTR" : "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU"
-        },
-        {
-          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
-          "category" : "Politics",
-          "descriptionTR" : "Armenians will decide their future on Sunday against the backdrop of a Russia-West clash, as both the EU and the US support PM Pashinyan’s cautious pro-Western drive, while Russia embarked on an onslaught of economic and political pressures on Yerevan to keep the former Soviet state in its orbit.",
-          "group" : "Armenia election",
-          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
-          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future"
+              "originalLanguage": "en",
+              "sourceName": "Le Monde International",
+              "url": "https://www.lemonde.fr/videos/video/2026/06/07/video-1-2-million-de-fideles-pour-la-messe-du-pape-a-madrid_6698997_1669088.html"
             },
             {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+              "originalLanguage": "en",
+              "sourceName": "Le Monde International",
+              "url": "https://www.lemonde.fr/religions/article/2026/06/07/a-madrid-plus-d-un-million-de-fideles-reunis-pour-la-messe-du-pape-leon-xiv-en-presence-du-roi-felipe-vi_6698788_1653130.html"
+            }
+          ],
+          "titleTR": "VIDÉO. 1,2 million de fidèles pour la messe du pape à Madrid"
+        },
+        {
+          "atomID": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+          "category": "Culture",
+          "descriptionTR": "Pontiff urges followers to dedicate themselves ‘to our brothers and sisters, to the poor, to those who suffer’\nMore than a million people filled the streets of Madrid to join Pope Leo in an open-air mass where the American pontiff appeared to emphasise the disconnect between Christian values and far-right politics, telling worshippers: “No one can kneel before the Lord and despise their brother.”\nQueues to access the mass began forming hours before the sun rose on Sunday as people scrambled to secure a spot for what was billed as the biggest gathering of the pope’s week-long visit to Spain.",
+          "group": "Pope Leo Madrid mass",
+          "id": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+          "link": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+          "newsValue": 5,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid"
+            }
+          ],
+          "titleTR": "More than 1 million join Pope Leo for outdoor mass in Madrid"
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c4gyejvzx9eo#0",
+          "category": "Culture",
+          "descriptionTR": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+          "group": "Papal mass Spain",
+          "id": "https://www.bbc.com/news/articles/c4gyejvzx9eo#0",
+          "link": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+          "newsValue": 4,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "Huge crowds throng Madrid streets for Pope's open-air Mass"
+        },
+        {
+          "atomID": "a15aba18-6150-11f1-a599-4fab70888c35",
+          "category": "Culture",
+          "descriptionTR": "Pope Leo XIV arrived in Spain on Saturday for a seven-day trip focused in part on migration, including a visit to the Canary Islands where he will honour thousands of migrants who died trying to reach Europe. Leo is also scheduled to meet with victims of sex abuse by Catholic clergy, which some 200,000 minors are estimated to have suffered in Spain since 1940.",
+          "group": "Pope migration Spain",
+          "id": "a15aba18-6150-11f1-a599-4fab70888c35",
+          "link": "https://www.france24.com/en/more-than-a-million-attend-pope-leo-s-mass-in-spain",
+          "newsValue": 5,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/more-than-a-million-attend-pope-leo-s-mass-in-spain"
             },
             {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/06\/04\/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections"
-            }
-          ],
-          "titleTR" : "Armenia goes to polls in pivotal vote to decide South Caucasus future"
-        }
-      ],
-      "packetSpot" : "Armenia's pivotal elections drew significant international attention, with Russia and Western countries closely monitoring the outcome. The elections were seen as a critical moment for Armenia's future direction in the South Caucasus region.",
-      "packetTitle" : "Armenia's Pivotal Elections and Geopolitical Implications",
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 1
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
-          "category" : "Security",
-          "descriptionTR" : "Russia’s Defense Ministry claimed it had targeted defense production plants and transportation infrastructure used by Ukraine’s military.",
-          "group" : "Ukraine strikes on Russia",
-          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
-          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/russian-drone-strikes-kill-two-in-ukraine-a92948",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/russian-drone-strikes-kill-two-in-ukraine-a92948"
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/europe/20260607-more-than-1-2-million-people-attend-pope-s-mass-in-madrid"
             },
             {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938"
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/pope-leo-visits-spain-with-focus-on-immigration"
             },
             {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/02\/at-least-21-killed-in-russian-strikes-across-ukraine-a92898"
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/europe/20260606-pope-visits-spain-with-focus-on-migrants-amid-political-tensions"
             }
           ],
-          "titleTR" : "At Least 21 Killed in Russian Strikes Across Ukraine"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o#2",
-          "category" : "Security",
-          "descriptionTR" : "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
-          "group" : "Kyiv under attack",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o#2",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike"
+          "titleTR": "Pope Leo visits Spain to highlight migration, meet victims of sexual abuse by clergy"
         }
       ],
-      "packetSpot" : "Russian military strikes on Ukraine have resulted in numerous civilian casualties, with reports indicating varying death tolls across different regions. The attacks have targeted several areas, including Kyiv, causing significant destruction and loss of life.",
-      "packetTitle" : "Russian Military Strikes on Ukraine Result in Civilian Casualties",
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 2
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 1
     },
     {
-      "items" : [
+      "items": [
         {
-          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910",
-          "category" : "Security",
-          "descriptionTR" : "Some 20,000 guests from 130 countries are expected to attend SPIEF, a flagship business and investment event known as the “Russian Davos.”",
-          "group" : "SPIEF under attack",
-          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910",
-          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/06\/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
+          "atomID": "http://www.euronews.com/2026/06/07/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "category": "Politics",
+          "descriptionTR": "Armenians will decide their future on Sunday against the backdrop of a Russia-West clash, as both the EU and the US support PM Pashinyan’s cautious pro-Western drive, while Russia embarked on an onslaught of economic and political pressures on Yerevan to keep the former Soviet state in its orbit.",
+          "group": "Armenia election",
+          "id": "http://www.euronews.com/2026/06/07/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "link": "http://www.euronews.com/2026/06/07/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
             {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/06\/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947"
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/07/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+            }
+          ],
+          "titleTR": "Armenia goes to polls in pivotal vote to decide South Caucasus future"
+        },
+        {
+          "atomID": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
+          "category": "Politics",
+          "descriptionTR": "Voters to choose between pro-Russian opposition and incumbent Nikol Pashinyan, who is more closely aligned with the west\nArmenians are awaiting the results of an election that could cement the country’s shift towards Europe and away from its traditional alliance with Russia.\nPrime minister Nikol Pashinyan’s Civil Contract party entered the vote on Sunday as the favourite, ahead of three opposition candidates who advocate for closer ties with Moscow. Pashinyan’s main challenger, Samvel Karapetyan, a Russian-Armenian billionaire who built much of his fortune in Russia, was forced to campaign from house arrest at his mansion outside Yerevan.",
+          "group": "Armenia election",
+          "id": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
+          "link": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu"
+            }
+          ],
+          "titleTR": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU"
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c3626n1epd5o#0",
+          "category": "Politics",
+          "descriptionTR": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+          "group": "Armenia Russia pressure",
+          "id": "https://www.bbc.com/news/articles/c3626n1epd5o#0",
+          "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "Armenia votes as Russia piles pressure on pro-West government"
+        },
+        {
+          "atomID": "c46ce7a2-6230-11f1-a3ac-b117db0116e5",
+          "category": "Politics",
+          "descriptionTR": "Armenia votes Sunday in parliamentary elections that will see the party of Prime Minister Nikol Pashinyan, who seeks to lessen dependence on Moscow, facing off against that of billionaire Russian-Armenian businessman Samvel Karapetyan. The Kremlin has been accused of seeking to sway the vote to undermine Armenia's EU ambitions.",
+          "group": "Armenia Russia influence",
+          "id": "c46ce7a2-6230-11f1-a3ac-b117db0116e5",
+          "link": "https://www.france24.com/en/europe/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/europe/20260607-armenia-polls-open-in-test-of-prime-minister-s-pivot-away-from-russia"
+            }
+          ],
+          "titleTR": "Armenian parliamentary vote will test prime minister's pivot from Russia"
+        },
+        {
+          "atomID": "https://www.politico.eu/?post_type=article&p=8552828",
+          "category": "Politics",
+          "descriptionTR": "Turnout was strong on Sunday amid concerns of Russian meddling.\nArmenian Prime Minister Nikol Pashinyan’s ruling party was comfortably ahead in the country’s parliamentary election on Sunday, according to early exit poll data.\nThe prime minister’s Civil Contract party had 56.7 percent of the vote, with the main opposition Strong Armenia party receiving 17.5 percent according to the first exit polls after voting ended, Armenian media reported.\nThe parliamentary elections, the first since Armenia ceded the disputed region of Nagorno-Karabakh to Azerbaijan in 2023, were a high-stakes referendum between Pashinyan, who was endorsed by U.S. President Donald Trump, and his leading opponent, the Russian-Armenian oligarch Samvel Karapetyan.\n“The future of Armenia will be a strategy of strengthening independence, statehood, democracy, and the rule of law,” Pashinyan told reporters outside a polling station after casting his ballot Sunday morning. “We will continue along the path of democratic reforms, of course with the support of our European partners, because the European Union is our main partner in implementing democratic reforms.”\nThe Central Election Commission is scheduled to announce official preliminary voting results on Monday.\nThe election was buffeted by concerns of Russian meddling. Armenian authorities announced on Saturday that more than 40 people had been arrested on suspicion of buying votes amid an investigation into a large-scale scheme allegedly involving Strong Armenia, according to state media.\nSix of the arrest warrants were for members of Karapetyan’s party, according to media reports.\nCommenting on the arrests Sunday, Karapetyan said they “would not change the minds of Armenian voters.” The Strong Armenia founder had been campaigning from his mansion after being put under house arrest last July for making “public calls to usurp power.” He has rejected the charge as politically motivated.\nKarapetyan was escorted to a polling station on Sunday where he spoke briefly to the media before returning home, the Associated Press reported. “The Armenian people will make the right choice and Armenia will finally have a legitimate government,” Karapetyan said.\nVoter turnout was strong at nearly 59 percent, Armenian media reported, the highest in the country’s past three elections.\nReuters reported in May that Russia was considering importing tens of thousands of Russia-based Armenians to vote in this weekend’s election in an effort to undermine the prime minister.\nPashinyan, who earned an endorsement from Trump in May, has pivoted toward the West since Russian President Vladimir Putin’s full-scale invasion of Ukraine in 2022. Although Armenia remains part of a single market with Russia, domestic support for Moscow nosedived after its military forces did little when Azerbaijan took control of Nagorno-Karabakh in 2023.\nPashinyan told POLITICO at the time that “the Russian peacekeepers have failed in their mission,” and has since shifted his stance toward the EU and the U.S. Yerevan suspended its military alliance with Russia in 2024; since then Pashinyan’s government has expressed its willingness to join the EU, drawing the Kremlin’s ire.",
+          "group": "Armenia election pressure",
+          "id": "https://www.politico.eu/?post_type=article&p=8552828",
+          "link": "https://www.politico.eu/article/armenia-parliament-election-exit-polls-nikol-pashinyan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/armenia-parliament-election-exit-polls-nikol-pashinyan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "titleTR": "Ruling party leads Armenia parliamentary election, exit polls show"
+        }
+      ],
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 2
+    },
+    {
+      "items": [
+        {
+          "atomID": "http://www.euronews.com/video/2026/06/05/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "category": "Security",
+          "descriptionTR": "A live television report from Romania's Black Sea port of Constanța was abruptly interrupted on 5 June after a maritime drone exploded nearby, heightening concerns over the regional impact of the war in Ukraine.",
+          "group": "Black Sea drone spillover",
+          "id": "http://www.euronews.com/video/2026/06/05/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "link": "http://www.euronews.com/video/2026/06/05/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/video/2026/06/05/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta"
             },
             {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910"
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/06/05/moment-sea-drone-explodes-in-romanias-constanta-port"
             }
           ],
-          "titleTR" : "St. Petersburg Economic Forum Opens Under Shadow of Ukrainian Drone Strikes"
+          "titleTR": "Romania: TV reporter flees live on air after drone explosion in Constanța"
         },
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#0",
-          "category" : "Security",
-          "descriptionTR" : "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
-          "group" : "Ukraine drone strikes",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#0",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
+          "atomID": "bb900abe-60d3-11f1-bbe0-476d75c61104",
+          "category": "Security",
+          "descriptionTR": "A sea drone exploded Friday near Romania's Black Sea port of Constanta without causing casualties. The incident prompted authorities to evacuate more than 1,000 people amid heightening concerns over the spillover effects of Russia's war in Ukraine just a week after a separate drone incident injured two civilians.",
+          "group": "Black Sea drone spillover",
+          "id": "bb900abe-60d3-11f1-bbe0-476d75c61104",
+          "link": "https://www.france24.com/en/video/20260605-ukrainian-drone-explodes-in-romanian-sea-port",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
             {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg"
-        }
-      ],
-      "packetSpot" : "The St. Petersburg Economic Forum, a significant event in Russia's economic calendar, was marred by Ukrainian drone attacks. These strikes highlighted ongoing tensions between Ukraine and Russia, casting a shadow over the proceedings.",
-      "packetTitle" : "St. Petersburg Economic Forum Disrupted by Ukrainian Drone Attacks",
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 3
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
-          "category" : "Security",
-          "descriptionTR" : "The coach had departed from Moscow and was traveling to Simferopol in annexed Crimea when it was hit in the town of Yenakiieve.",
-          "group" : "Occupied Donetsk attack",
-          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
-          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/03\/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909"
-            }
-          ],
-          "titleTR" : "Ukrainian Drone Attack on Bus in Occupied Donetsk Kills 8, Kremlin-Installed Official Says"
-        },
-        {
-          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
-          "category" : "Security",
-          "descriptionTR" : "The cargo vessels Natra and Zirkon — both bearing hallmarks of Russia's shadow fleet and heading to load grain at a port linked to looted Ukrainian supplies — were struck overnight near Taganrog.",
-          "group" : "Black Sea shipping attacks",
-          "id" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
-          "link" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/06\/05\/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov"
-            }
-          ],
-          "titleTR" : "Five sailors killed as cargo ships struck in Sea of Azov"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Ukrainian Drone Attack on Bus in Occupied Donetsk Kills 8, Kremlin-Installed Official Says",
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 4
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
-          "category" : "Security",
-          "descriptionTR" : "Close to the front line in southern Ukraine, Zaporizhzhia is the biggest nuclear power plant in Europe.",
-          "group" : "Zaporizhzhia nuclear plant",
-          "id" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
-          "link" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/05\/31\/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884"
-            }
-          ],
-          "titleTR" : "Drone Hits Captured Nuclear Plant in Ukraine – IAEA"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
-          "category" : "Security",
-          "descriptionTR" : "Attack was ‘extremely vile’ and deliberate, says Ukraine’s president Volodymyr Zelenskyy\n\nA Russian Shahed drone has substantially damaged a building used to store spent nuclear fuel close to the disused Chornobyl nuclear power plant, in what Ukraine’s president described as a deliberate and “extremely vile” attack.\nWhile the structure – the reception building of the spent fuel storage facility – was empty of containers at the time, the targeting of the sensitive site appeared to be direct messaging from Moscow amid an intensifying battle of long-range aerial strikes in which high-profile locations on both sides have been hit.",
-          "group" : "Chornobyl drone strike",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"
-            }
-          ],
-          "titleTR" : "Russian drone hits building storing spent nuclear fuel near Chornobyl"
-        }
-      ],
-      "packetSpot" : "A Russian drone strike targeted a facility storing spent nuclear fuel near Chornobyl, raising concerns about nuclear safety in the region. The International Atomic Energy Agency (IAEA) is monitoring the situation closely as tensions escalate.",
-      "packetTitle" : "Russian Drone Strike on Ukrainian Nuclear Storage Facility",
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 5
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
-          "category" : "Security",
-          "descriptionTR" : "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-          "group" : "Black Sea drone warfare",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo#1",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c707098wkzpo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Ukraine strikes cargo ships and admits Romania drone blast"
-        },
-        {
-          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
-          "category" : "Security",
-          "descriptionTR" : "A live television report from Romania's Black Sea port of Constanța was abruptly interrupted on 5 June after a maritime drone exploded nearby, heightening concerns over the regional impact of the war in Ukraine.",
-          "group" : "Black Sea drone incident",
-          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
-          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/05\/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta"
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/video/20260605-ukrainian-drone-explodes-in-romanian-sea-port"
             },
             {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/my-europe\/2026\/06\/05\/moment-sea-drone-explodes-in-romanias-constanta-port"
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/europe/20260605-sea-drone-explodes-in-the-romanian-port-of-constanta-no-casualties"
             }
           ],
-          "titleTR" : "Romania: TV reporter flees live on air after drone explosion in Constanța"
+          "titleTR": "Sea drone explodes in the Romanian port of Constanta, raising fear of Ukraine war spillover"
         }
       ],
-      "packetSpot" : "A sea drone explosion occurred in Constanța port, Romania, causing significant alarm and media attention. The incident involved a Ukrainian strike on cargo ships, with Romania acknowledging the blast's impact on its territory.",
-      "packetTitle" : "Sea Drone Explosion in Constanța Port, Romania",
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 6
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 3
     },
     {
-      "items" : [
+      "items": [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
-          "category" : "Religion",
-          "descriptionTR" : "Pontiff urges followers to dedicate themselves ‘to our brothers and sisters, to the poor, to those who suffer’\nMore than a million people filled the streets of Madrid to join Pope Leo in an open-air mass where the American pontiff appeared to emphasise the disconnect between Christian values and far-right politics, telling worshippers: “No one can kneel before the Lord and despise their brother.”\nQueues to access the mass began forming hours before the sun rose on Sunday as people scrambled to secure a spot for what was billed as the biggest gathering of the pope’s week-long visit to Spain.",
-          "group" : "Papal visit to Spain",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
+          "atomID": "http://www.euronews.com/2026/06/05/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "category": "Diplomacy",
+          "descriptionTR": "The trip comes just weeks after Xi separately hosted US President Donald Trump and Russian President Vladimir Putin in Beijing.",
+          "group": "Xi North Korea visit",
+          "id": "http://www.euronews.com/2026/06/05/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "link": "http://www.euronews.com/2026/06/05/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
             {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/07\/million-people-pope-leo-outdoor-mass-madrid"
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/05/xi-jinping-set-for-north-korea-trip-on-monday-in-first-visit-to-pyongyang-in-seven-years"
             }
           ],
-          "titleTR" : "More than 1 million join Pope Leo for outdoor mass in Madrid"
+          "titleTR": "Xi Jinping set for North Korea trip on Monday in first visit to Pyongyang in seven years"
         },
         {
-          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
-          "category" : "Religion",
-          "descriptionTR" : "The pontiff is set to deliver a mass in the centre of Madrid before moving elsewhere in Spain to Barcelona and the Canary islands. Pope Leo XIV is also expected to deliver an unprecedented address to the Spanish parliament, where immigration is expected to take centre stage.",
-          "group" : "Papal visit to Spain",
-          "id" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
-          "link" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
+          "atomID": "https://www.lemonde.fr/international/article/2026/06/07/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "category": "Diplomacy",
+          "descriptionTR": "Le président chinois doit effectuer, lundi et mardi, sa première visite en Corée du Nord depuis 2019. Alors que la coopération entre Pyongyang et Moscou s’est renforcée depuis la guerre en Ukraine, Pékin tient à réaffirmer sa position centrale dans la région.",
+          "group": "China North Korea ties",
+          "id": "https://www.lemonde.fr/international/article/2026/06/07/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2026/06/07/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
             {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/06\/07\/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1"
+              "originalLanguage": "en",
+              "sourceName": "Le Monde International",
+              "url": "https://www.lemonde.fr/international/article/2026/06/07/xi-jinping-se-rend-dans-une-coree-du-nord-de-plus-en-plus-proche-de-la-russie_6699155_3210.html"
             }
           ],
-          "titleTR" : "Pope Leo XIV calls for 'end to polarisation' as he makes the first papal visit to Spain in 15 years"
+          "titleTR": "Xi Jinping se rend dans une Corée du Nord de plus en plus proche de la Russie"
         }
       ],
-      "packetSpot" : "Pope Leo XIV's visit to Spain marks the first papal visit to the country in 15 years. During his visit, more than 1 million people attended an outdoor mass in Madrid, where Pope Leo XIV called for an end to political and social polarisation.",
-      "packetTitle" : "Pope Leo XIV's Visit to Spain",
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 7
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 4
     },
     {
-      "items" : [
+      "items": [
         {
-          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Putin has said he would only meet Zelensky to finalize an already agreed deal, rejecting calls to meet before then.",
-          "group" : "Zelensky ceasefire appeal",
-          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
-          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
+          "atomID": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+          "category": "Diplomacy",
+          "descriptionTR": "Keir Starmer hosts Ukrainian, French and German leaders in Downing Street amid optimism in Kyiv over state of war\nVolodymyr Zelenskyy met his staunchest allies at Downing Street on Sunday night, hours after a Russian drone strike damaged a storage centre for spent nuclear fuel nine miles from the Chornobyl nuclear power plant.\nKeir Starmer welcomed Zelenskyy, Emmanuel Macron and Friedrich Merz for a meeting to discuss ongoing support for Ukraine as the country seeks to capitalise on a series of strikes on key Russian positions.",
+          "group": "Ukraine allied support",
+          "id": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+          "link": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
             {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935"
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/2026/jun/07/zelenskyy-starmer-macron-merz-ukraine-talks-london"
             }
           ],
-          "titleTR" : "In Open Letter to Putin, Zelensky Calls for Meeting and Ceasefire"
+          "titleTR": "Zelenskyy meets key allies in London aiming to build on strikes on Russia"
         },
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Donald Trump says that to end the Ukraine war both sides would have to make compromises, which he took credit for suggesting without explaining further. 'I’m glad that they’re maybe talking about meeting. I think we had a lot to do with it,' Trump told reporters in the Oval Office.\n\n\t•\tZelenskyy calls for face-to-face negotiations in letter to Putin",
-          "group" : "Ukraine peace talks",
-          "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
-          "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-07T20:29:22Z",
-          "sources" : [
+          "atomID": "https://www.bbc.com/news/articles/cr7xr1g3nvvo#0",
+          "category": "Diplomacy",
+          "descriptionTR": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+          "group": "Ukraine Europe diplomacy",
+          "id": "https://www.bbc.com/news/articles/cr7xr1g3nvvo#0",
+          "link": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
             {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/05\/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video"
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Trump says Zelenskyy-Putin meeting would be 'great' after Ukraine president's letter - video"
+          "titleTR": "Zelensky in Downing Street for Ukraine war talks with European leaders"
         }
       ],
-      "packetSpot" : "Ukrainian President Volodymyr Zelenskyy has addressed an open letter to Russian President Vladimir Putin, proposing a meeting to discuss a ceasefire. Former U.S. President Donald Trump commented positively on the potential meeting, describing it as a beneficial development.",
-      "packetTitle" : "Zelenskyy's Proposal for a Ceasefire Meeting with Putin",
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "sessionID" : "publish-draft",
-      "slot" : 8
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 5
+    },
+    {
+      "items": [
+        {
+          "atomID": "f9a6c88c-6048-11f1-88fc-2d2df58bd474",
+          "category": "Environment",
+          "descriptionTR": "Thursday marked the fourth consecutive day of protests in Albania, sparked by plans for a proposed billion-dollar luxury resort backed by Jared Kushner, the husband of Donald Trump's daughter, Ivanka Trump. Online, however, misleading videos of the unrest are going viral, with social media users sharing old and out-of-context footage falsely presented as scenes from the current demonstrations. Many protesters fear that the Kushner-backed development could devastate a protected wildlife ecosystem.",
+          "group": "Albania resort protests",
+          "id": "f9a6c88c-6048-11f1-88fc-2d2df58bd474",
+          "link": "https://www.france24.com/en/video/20260604-albania-luxury-complex-project-linked-to-trump-s-family-sparks-outrage",
+          "newsValue": 4,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/video/20260604-albania-luxury-complex-project-linked-to-trump-s-family-sparks-outrage"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/europe/20260604-what-we-know-about-jared-kushner-backed-luxury-resort-sparking-outrage-in-albania"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/europe/20260606-albanians-protest-jared-kushner-backed-resort-plan-on-nature-reserve"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/viral-videos-mislead-as-albania-erupts-against-kushner-linked-luxury-resort"
+            }
+          ],
+          "titleTR": "False videos swirl as Albania protests Kushner resort plan"
+        },
+        {
+          "atomID": "https://www.theguardian.com/world/video/2026/jun/05/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "category": "Environment",
+          "descriptionTR": "Thousands have protested in the streets of the Albanian capital, Tirana, this week against a planned luxury resort backed by Donald Trump’s son-in-law Jared Kushner.\nGroundwork has begun on the $1.6bn complex in an area long seen as one of the Mediterranean’s most environmentally sensitive, containing 200 species of birds including flamingos and Dalmatian pelicans.\n\nAfter builders began erecting a concrete-based, barbed wire-topped fence around the site, alarm turned to public outrage at the environmental damage and lack of political transparency around the deal.\n\nLucy Hough speaks to US live news editor Chris Michael.",
+          "group": "Kushner Albania resort",
+          "id": "https://www.theguardian.com/world/video/2026/jun/05/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "link": "https://www.theguardian.com/world/video/2026/jun/05/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest",
+          "newsValue": 5,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/video/2026/jun/05/outrage-in-albania-over-kushner-trump-16bn-luxury-resort-plan-the-latest"
+            }
+          ],
+          "titleTR": "Outrage in Albania over Kushner-Trump $1.6bn luxury resort - The Latest"
+        },
+        {
+          "atomID": "http://www.euronews.com/2026/06/04/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "category": "Environment",
+          "descriptionTR": "Video shows security personnel arguing with demonstrators before pushing one protester to the ground and dragging him away. The incident took place during a rally organised by environmental groups opposing a luxury resort project linked to Jared Kushner, the son-in-law of US President Donald Trump.",
+          "group": "Kushner Albania resort",
+          "id": "http://www.euronews.com/2026/06/04/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "link": "http://www.euronews.com/2026/06/04/clash-at-protest-against-kushner-linked-albania-resort-project",
+          "newsValue": 5,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/04/clash-at-protest-against-kushner-linked-albania-resort-project"
+            }
+          ],
+          "titleTR": "Clash at protest against Kushner linked Albania resort project"
+        }
+      ],
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 6
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.lemonde.fr/international/live/2026/06/07/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "category": "Security",
+          "descriptionTR": "L’armée israélienne a annoncé, dimanche soir, être la cible de tirs iraniens, pour la première fois depuis le cessez-le-feu annoncé le 8 avril. Plus tôt, Téhéran avait menacé de frapper les intérêts américains et israéliens au Moyen-Orient, en représailles aux attaques menées dans la journée par l’Etat hébreu sur la banlieue sud de Beyrouth, bastion du Hezbollah pro-iranien.",
+          "group": "Iran Israel escalation",
+          "id": "https://www.lemonde.fr/international/live/2026/06/07/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "link": "https://www.lemonde.fr/international/live/2026/06/07/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html",
+          "newsValue": 9,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Le Monde International",
+              "url": "https://www.lemonde.fr/international/live/2026/06/07/en-direct-moyen-orient-au-liban-l-armee-israelienne-bombarde-la-banlieue-sud-de-beyrouth-et-tyr-donald-trump-plaide-pour-des-frappes-plus-chirurgicales-contre-le-hezbollah_6697888_3210.html"
+            }
+          ],
+          "titleTR": "EN DIRECT, Moyen-Orient : Israël fait état de deux vagues de missiles iraniens contre son sol"
+        },
+        {
+          "atomID": "http://www.euronews.com/2026/06/06/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "category": "Security",
+          "descriptionTR": "The US claims to have intercepted Iranian drones before launching missile strikes on what it described as \"radar sites\" in the south of Iran.",
+          "group": "Iran US strikes",
+          "id": "http://www.euronews.com/2026/06/06/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "link": "http://www.euronews.com/2026/06/06/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/06/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire"
+            }
+          ],
+          "titleTR": "Iran and US exchange strikes in latest threat to fragile ceasefire"
+        }
+      ],
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 7
+    },
+    {
+      "items": [
+        {
+          "atomID": "http://www.euronews.com/2026/06/07/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "category": "Economy",
+          "descriptionTR": "The Iranian assets Washington is considering reallocating could include frozen funds, along with ships previously seized by the United States.",
+          "group": "Iran frozen assets",
+          "id": "http://www.euronews.com/2026/06/07/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "link": "http://www.euronews.com/2026/06/07/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/07/reports-washington-could-tap-into-irans-frozen-billions-to-pay-for-gulf-attack-damage"
+            }
+          ],
+          "titleTR": "Washington could tap into Iran's frozen billions to pay for Gulf attack damage"
+        },
+        {
+          "atomID": "d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "category": "Economy",
+          "descriptionTR": "Proposal comes as relations between Trump administration and regional partners have been strained by conflict",
+          "group": "Iran war compensation",
+          "id": "d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "link": "https://www.ft.com/content/d19bd87f-2673-40e8-9216-8529d80b42aa",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Financial Times World",
+              "url": "https://www.ft.com/content/d19bd87f-2673-40e8-9216-8529d80b42aa"
+            }
+          ],
+          "titleTR": "US weighs using Iranian assets to compensate Gulf allies for war damage"
+        }
+      ],
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 8
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.lemonde.fr/international/article/2026/06/07/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "category": "Security",
+          "descriptionTR": "En dépit de la trêve conclue en octobre 2025, le territoire palestinien reste en proie à des violences quotidiennes, le Hamas et Israël s’accusant mutuellement de violer l’accord.",
+          "group": "Gaza ceasefire violence",
+          "id": "https://www.lemonde.fr/international/article/2026/06/07/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "link": "https://www.lemonde.fr/international/article/2026/06/07/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Le Monde International",
+              "url": "https://www.lemonde.fr/international/article/2026/06/07/dans-la-bande-de-gaza-une-frappe-israelienne-sur-un-poste-de-police-fait-cinq-morts-selon-la-defense-civile_6699039_3210.html"
+            }
+          ],
+          "titleTR": "Dans la bande de Gaza, des frappes israéliennes font au moins dix morts, selon la défense civile"
+        },
+        {
+          "atomID": "http://www.euronews.com/video/2026/06/04/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "category": "Security",
+          "descriptionTR": "Families gathered in Gaza City to mourn relatives killed on 4 June after overnight Israeli airstrikes in Gaza City, according to local hospitals.",
+          "group": "Gaza airstrikes aftermath",
+          "id": "http://www.euronews.com/video/2026/06/04/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "link": "http://www.euronews.com/video/2026/06/04/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine",
+          "newsValue": 9,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/video/2026/06/04/gaza-families-mourn-victims-after-overnight-israeli-strikes-that-killed-at-least-nine"
+            }
+          ],
+          "titleTR": "Gaza: Families mourn victims after overnight Israeli strikes that killed at least nine"
+        }
+      ],
+      "packetSpot": "",
+      "packetTitle": "",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 9
+    },
+    {
+      "items": [
+        {
+          "atomID": "http://www.euronews.com/2026/06/05/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "category": "Security",
+          "descriptionTR": "The cargo vessels Natra and Zirkon — both bearing hallmarks of Russia's shadow fleet and heading to load grain at a port linked to looted Ukrainian supplies — were struck overnight near Taganrog.",
+          "group": "Black Sea shipping attacks",
+          "id": "http://www.euronews.com/2026/06/05/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "link": "http://www.euronews.com/2026/06/05/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/05/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov"
+            }
+          ],
+          "titleTR": "Five sailors killed as cargo ships struck in Sea of Azov"
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c707098wkzpo#1",
+          "category": "Security",
+          "descriptionTR": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+          "group": "Black Sea drone strikes",
+          "id": "https://www.bbc.com/news/articles/c707098wkzpo#1",
+          "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "Ukraine strikes cargo ships and admits Romania drone blast"
+        }
+      ],
+      "packetSpot": "Recent attacks in the Black Sea region have targeted cargo ships, resulting in casualties and escalating tensions. A strike in the Sea of Azov led to the death of five sailors, while Ukraine has acknowledged responsibility for attacks on cargo ships and a drone blast in Romania.",
+      "packetTitle": "Cargo Ship Attacks in the Black Sea Region",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 10
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/c9q2gp52rgro#0",
+          "category": "Security",
+          "descriptionTR": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+          "group": "Russia drone attacks",
+          "id": "https://www.bbc.com/news/articles/c9q2gp52rgro#0",
+          "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+          "newsValue": 5,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg"
+        },
+        {
+          "atomID": "5ca7b0d4-61a4-11f1-8223-03f48ab2133e",
+          "category": "Security",
+          "descriptionTR": "Ukraine on Saturday fired hundreds of drones targeting the St. Petersburg region in the second such attack on Russia’s second-largest city in less than a week. The attack came on the final day of the St. Petersburg International Economic Forum, President Vladimir Putin’s annual investment forum known as “Russia’s Davos”.",
+          "group": "Russia Ukraine drone war",
+          "id": "5ca7b0d4-61a4-11f1-8223-03f48ab2133e",
+          "link": "https://www.france24.com/en/europe/20260606-ukraine-launches-fresh-drone-attack-st-petersburg-region-final-day-russian-davos",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 Europe",
+              "url": "https://www.france24.com/en/europe/20260606-ukraine-launches-fresh-drone-attack-st-petersburg-region-final-day-russian-davos"
+            }
+          ],
+          "titleTR": "Ukraine launches fresh drone attack on St. Petersburg region on final day of ‘Russian Davos’"
+        }
+      ],
+      "packetSpot": "During the St. Petersburg International Economic Forum, Ukraine launched drone attacks on the St. Petersburg region, overshadowing the event. The attacks highlight ongoing tensions between Ukraine and Russia, even as Russia hosted significant economic discussions.",
+      "packetTitle": "Ukrainian Drone Attacks on St. Petersburg During Economic Forum",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 11
+    },
+    {
+      "items": [
+        {
+          "atomID": "02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "category": "Security",
+          "descriptionTR": "Limited strikes on Lebanese capital follow US president’s intervention last week forcing Israeli PM to delay major raid",
+          "group": "Lebanon Israel strikes",
+          "id": "02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "link": "https://www.ft.com/content/02a3b935-62dc-44a1-9957-6867e8ee1890",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Financial Times World",
+              "url": "https://www.ft.com/content/02a3b935-62dc-44a1-9957-6867e8ee1890"
+            }
+          ],
+          "titleTR": "Israel attacks Beirut days after Trump’s showdown with Netanyahu"
+        },
+        {
+          "atomID": "https://www.politico.eu/?post_type=article&p=8553989",
+          "category": "Security",
+          "descriptionTR": "The Israel Defense Forces said it is reviewing Saturday's strike on a vehicle that killed two Lebanese army officers and a soldier.\nBoth Israel and Lebanon are mourning military casualties amid another weekend of violence, despite a U.S.-backed ceasefire between the two countries.\nOn Sunday, Israeli media reported that two Israeli soldiers had been killed in separate incidents in southern Lebanon.\nA day earlier, Israel killed a Lebanese general, a captain and a soldier in an airstrike on a moving vehicle.\nBoth the Israel Defense Forces (IDF) and the Lebanese Armed Forces confirmed the strike on Saturday. The Lebanese military published photos showing the vehicle completely destroyed. Beirut described the strike as “an Israeli aggressive and barbaric raid,” while the IDF said the vehicle had been moving “suspiciously towards IDF soldiers” in an “active combat zone.”\n“The IDF is reviewing the incident, and lessons will be learned accordingly. The IDF operates against the Hezbollah terrorist organization, not against the Lebanese Army,” the Israeli military said in a statement.\nClashes between Israel and the Iran-backed Hezbollah group continued over the weekend after the militant organization rejected a U.S.-backed ceasefire proposal on Thursday. Hezbollah is conducting its attacks from Lebanese territory.\nIsrael’s air force continued heavy bombardment of Lebanon over the weekend. In a social media post, the air force said its planes struck 150 targets that it described as Hezbollah “terror infrastructures.”\nOn Sunday, Israel said it had intercepted two projectiles launched from Lebanon toward northern Israel, with IDF warning residents of the southern Lebanese city of Tyre to evacuate ahead of possible strikes, according to a Reuters report.",
+          "group": "Israel Hezbollah ceasefire",
+          "id": "https://www.politico.eu/?post_type=article&p=8553989",
+          "link": "https://www.politico.eu/article/israel-killed-lebanese-general-amid-war-against-hezbollah/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/israel-killed-lebanese-general-amid-war-against-hezbollah/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "titleTR": "Israeli strike kills Lebanese general amid war against Hezbollah"
+        }
+      ],
+      "packetSpot": "In a series of military actions, Israel has conducted airstrikes in Beirut, targeting Hezbollah forces and resulting in the death of a Lebanese general. These developments occur amidst heightened tensions following diplomatic interactions between the US and Israel.",
+      "packetTitle": "Israeli Airstrikes on Beirut Amidst Hezbollah Conflict",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 12
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "category": "Diplomacy",
+          "descriptionTR": "Donald Trump says that to end the Ukraine war both sides would have to make compromises, which he took credit for suggesting without explaining further. 'I’m glad that they’re maybe talking about meeting. I think we had a lot to do with it,' Trump told reporters in the Oval Office.\n\n\t•\tZelenskyy calls for face-to-face negotiations in letter to Putin",
+          "group": "Ukraine peace talks",
+          "id": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "link": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video"
+            }
+          ],
+          "titleTR": "Trump says Zelenskyy-Putin meeting would be 'great' after Ukraine president's letter - video"
+        },
+        {
+          "atomID": "d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "category": "Diplomacy",
+          "descriptionTR": "Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations",
+          "group": "Ukraine peace backchannel",
+          "id": "d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "link": "https://www.ft.com/content/d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Financial Times World",
+              "url": "https://www.ft.com/content/d097aba1-fd9a-4fd4-a4ba-fb980c27487a"
+            }
+          ],
+          "titleTR": "Zelenskyy used Abramovich to send message to Putin about peace talks"
+        }
+      ],
+      "packetSpot": "Ukrainian President Volodymyr Zelenskyy is actively seeking avenues to initiate peace talks with Russian President Vladimir Putin. Efforts include leveraging high-profile intermediaries and public endorsements from influential figures.",
+      "packetTitle": "Zelenskyy's Efforts to Initiate Peace Talks with Putin",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 13
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/videos/cg7p798gm5vo#3",
+          "category": "Sports",
+          "descriptionTR": "Fifa has been warned it is putting fans' health at risk by introducing a bottle ban at this summer's World Cup.",
+          "group": "World Cup safety rules",
+          "id": "https://www.bbc.com/news/videos/cg7p798gm5vo#3",
+          "link": "https://www.bbc.com/news/videos/cg7p798gm5vo?at_medium=RSS&at_campaign=rss",
+          "newsValue": 4,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/videos/cg7p798gm5vo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "Fifa bans all water bottles from World Cup games"
+        },
+        {
+          "atomID": "5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "category": "Sports",
+          "descriptionTR": "Football’s governing body expects to earn record revenues from expanded tournament but critics question how money is spent",
+          "group": "Fifa finances scrutiny",
+          "id": "5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "link": "https://www.ft.com/content/5b79e86d-1df2-4bfa-9bde-f43eb692f11c",
+          "newsValue": 5,
+          "publishedAt": "2026-06-07T19:41:45Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Financial Times World",
+              "url": "https://www.ft.com/content/5b79e86d-1df2-4bfa-9bde-f43eb692f11c"
+            }
+          ],
+          "titleTR": "Fifa’s $13bn World Cup cash machine sparks scrutiny of its finances"
+        }
+      ],
+      "packetSpot": "FIFA has implemented a series of controversial policies for the World Cup, including a ban on water bottles at games and financial practices that have drawn scrutiny. These measures have sparked debates about the organization's priorities and transparency.",
+      "packetTitle": "FIFA's Controversial World Cup Policies",
+      "publishedAt": "2026-06-07T19:41:45Z",
+      "sessionID": "publish-draft",
+      "slot": 14
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.themoscowtimes.com/2026/06/07/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "category": "Politics",
+          "descriptionTR": "In the weeks before the vote, Russia banned the import of several products from Armenia — seen as a move to heap economic pressure on the country.",
+          "group": "Armenia Russia pivot",
+          "id": "https://www.themoscowtimes.com/2026/06/07/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "link": "https://www.themoscowtimes.com/2026/06/07/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/06/07/armenia-votes-in-test-of-pms-pivot-away-from-russia-a92949"
+            }
+          ],
+          "titleTR": "Armenia Votes in Test of PM’s Pivot Away From Russia"
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c3626n1epd5o#0",
+          "category": "Politics",
+          "descriptionTR": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+          "group": "Armenia Russia pressure",
+          "id": "https://www.bbc.com/news/articles/c3626n1epd5o#0",
+          "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "Armenia votes as Russia piles pressure on pro-West government"
+        },
+        {
+          "atomID": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
+          "category": "Politics",
+          "descriptionTR": "Voters to choose between pro-Russian opposition and incumbent Nikol Pashinyan, who is more closely aligned with the west\nArmenians are awaiting the results of an election that could cement the country’s shift towards Europe and away from its traditional alliance with Russia.\nPrime minister Nikol Pashinyan’s Civil Contract party entered the vote on Sunday as the favourite, ahead of three opposition candidates who advocate for closer ties with Moscow. Pashinyan’s main challenger, Samvel Karapetyan, a Russian-Armenian billionaire who built much of his fortune in Russia, was forced to campaign from house arrest at his mansion outside Yerevan.",
+          "group": "Armenia Russia pressure",
+          "id": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
+          "link": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/2026/jun/07/armenia-vote-election-closely-watched-russia-eu"
+            }
+          ],
+          "titleTR": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU"
+        },
+        {
+          "atomID": "http://www.euronews.com/2026/06/07/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "category": "Politics",
+          "descriptionTR": "Armenians will decide their future on Sunday against the backdrop of a Russia-West clash, as both the EU and the US support PM Pashinyan’s cautious pro-Western drive, while Russia embarked on an onslaught of economic and political pressures on Yerevan to keep the former Soviet state in its orbit.",
+          "group": "Armenia election",
+          "id": "http://www.euronews.com/2026/06/07/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future",
+          "link": "http://www.euronews.com/2026/06/07/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/07/counting-is-underway-in-armenias-pivotal-vote-for-the-south-caucasus-future"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/07/armenia-goes-to-polls-in-pivotal-vote-to-decide-south-caucasus-future"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/04/eu-backs-pashinyan-on-the-eve-of-armenias-defining-elections"
+            }
+          ],
+          "titleTR": "Armenia goes to polls in pivotal vote to decide South Caucasus future"
+        }
+      ],
+      "packetSpot": "Armenia's pivotal elections drew significant international attention, with Russia and Western countries closely monitoring the outcome. The elections were seen as a critical moment for Armenia's future direction in the South Caucasus region.",
+      "packetTitle": "Armenia's Pivotal Elections and Geopolitical Implications",
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "sessionID": "publish-draft",
+      "slot": 15
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.themoscowtimes.com/2026/06/02/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
+          "category": "Security",
+          "descriptionTR": "Russia’s Defense Ministry claimed it had targeted defense production plants and transportation infrastructure used by Ukraine’s military.",
+          "group": "Ukraine strikes on Russia",
+          "id": "https://www.themoscowtimes.com/2026/06/02/at-least-21-killed-in-russian-strikes-across-ukraine-a92898",
+          "link": "https://www.themoscowtimes.com/2026/06/07/russian-drone-strikes-kill-two-in-ukraine-a92948",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/06/07/russian-drone-strikes-kill-two-in-ukraine-a92948"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/06/05/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/06/02/at-least-21-killed-in-russian-strikes-across-ukraine-a92898"
+            }
+          ],
+          "titleTR": "At Least 21 Killed in Russian Strikes Across Ukraine"
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c5y9nyvg9z2o#2",
+          "category": "Security",
+          "descriptionTR": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+          "group": "Kyiv under attack",
+          "id": "https://www.bbc.com/news/articles/c5y9nyvg9z2o#2",
+          "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike"
+        }
+      ],
+      "packetSpot": "Russian military strikes on Ukraine have resulted in numerous civilian casualties, with reports indicating varying death tolls across different regions. The attacks have targeted several areas, including Kyiv, causing significant destruction and loss of life.",
+      "packetTitle": "Russian Military Strikes on Ukraine Result in Civilian Casualties",
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "sessionID": "publish-draft",
+      "slot": 16
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.themoscowtimes.com/2026/06/03/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910",
+          "category": "Security",
+          "descriptionTR": "Some 20,000 guests from 130 countries are expected to attend SPIEF, a flagship business and investment event known as the “Russian Davos.”",
+          "group": "SPIEF under attack",
+          "id": "https://www.themoscowtimes.com/2026/06/03/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910",
+          "link": "https://www.themoscowtimes.com/2026/06/06/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947",
+          "newsValue": 6,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/06/06/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/06/03/st-petersburg-economic-forum-opens-under-shadow-of-ukrainian-drone-strikes-a92910"
+            }
+          ],
+          "titleTR": "St. Petersburg Economic Forum Opens Under Shadow of Ukrainian Drone Strikes"
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c9q2gp52rgro#0",
+          "category": "Security",
+          "descriptionTR": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+          "group": "Ukraine drone strikes",
+          "id": "https://www.bbc.com/news/articles/c9q2gp52rgro#0",
+          "link": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg"
+        }
+      ],
+      "packetSpot": "The St. Petersburg Economic Forum, a significant event in Russia's economic calendar, was marred by Ukrainian drone attacks. These strikes highlighted ongoing tensions between Ukraine and Russia, casting a shadow over the proceedings.",
+      "packetTitle": "St. Petersburg Economic Forum Disrupted by Ukrainian Drone Attacks",
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "sessionID": "publish-draft",
+      "slot": 17
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.themoscowtimes.com/2026/06/03/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
+          "category": "Security",
+          "descriptionTR": "The coach had departed from Moscow and was traveling to Simferopol in annexed Crimea when it was hit in the town of Yenakiieve.",
+          "group": "Occupied Donetsk attack",
+          "id": "https://www.themoscowtimes.com/2026/06/03/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
+          "link": "https://www.themoscowtimes.com/2026/06/03/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/06/03/ukrainian-drone-attack-on-bus-in-occupied-donetsk-kills-8-kremlin-installed-official-says-a92909"
+            }
+          ],
+          "titleTR": "Ukrainian Drone Attack on Bus in Occupied Donetsk Kills 8, Kremlin-Installed Official Says"
+        },
+        {
+          "atomID": "http://www.euronews.com/2026/06/05/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "category": "Security",
+          "descriptionTR": "The cargo vessels Natra and Zirkon — both bearing hallmarks of Russia's shadow fleet and heading to load grain at a port linked to looted Ukrainian supplies — were struck overnight near Taganrog.",
+          "group": "Black Sea shipping attacks",
+          "id": "http://www.euronews.com/2026/06/05/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "link": "http://www.euronews.com/2026/06/05/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/05/five-sailors-killed-as-cargo-ships-struck-in-sea-of-azov"
+            }
+          ],
+          "titleTR": "Five sailors killed as cargo ships struck in Sea of Azov"
+        }
+      ],
+      "packetSpot": "",
+      "packetTitle": "Ukrainian Drone Attack on Bus in Occupied Donetsk Kills 8, Kremlin-Installed Official Says",
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "sessionID": "publish-draft",
+      "slot": 18
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.themoscowtimes.com/2026/05/31/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "category": "Security",
+          "descriptionTR": "Close to the front line in southern Ukraine, Zaporizhzhia is the biggest nuclear power plant in Europe.",
+          "group": "Zaporizhzhia nuclear plant",
+          "id": "https://www.themoscowtimes.com/2026/05/31/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "link": "https://www.themoscowtimes.com/2026/05/31/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/05/31/drone-hits-captured-nuclear-plant-in-ukraine-iaea-a92884"
+            }
+          ],
+          "titleTR": "Drone Hits Captured Nuclear Plant in Ukraine – IAEA"
+        },
+        {
+          "atomID": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "category": "Security",
+          "descriptionTR": "Attack was ‘extremely vile’ and deliberate, says Ukraine’s president Volodymyr Zelenskyy\n\nA Russian Shahed drone has substantially damaged a building used to store spent nuclear fuel close to the disused Chornobyl nuclear power plant, in what Ukraine’s president described as a deliberate and “extremely vile” attack.\nWhile the structure – the reception building of the spent fuel storage facility – was empty of containers at the time, the targeting of the sensitive site appeared to be direct messaging from Moscow amid an intensifying battle of long-range aerial strikes in which high-profile locations on both sides have been hit.",
+          "group": "Chornobyl drone strike",
+          "id": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "link": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+          "newsValue": 8,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"
+            }
+          ],
+          "titleTR": "Russian drone hits building storing spent nuclear fuel near Chornobyl"
+        }
+      ],
+      "packetSpot": "A Russian drone strike targeted a facility storing spent nuclear fuel near Chornobyl, raising concerns about nuclear safety in the region. The International Atomic Energy Agency (IAEA) is monitoring the situation closely as tensions escalate.",
+      "packetTitle": "Russian Drone Strike on Ukrainian Nuclear Storage Facility",
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "sessionID": "publish-draft",
+      "slot": 19
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/c707098wkzpo#1",
+          "category": "Security",
+          "descriptionTR": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+          "group": "Black Sea drone warfare",
+          "id": "https://www.bbc.com/news/articles/c707098wkzpo#1",
+          "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR": "Ukraine strikes cargo ships and admits Romania drone blast"
+        },
+        {
+          "atomID": "http://www.euronews.com/video/2026/06/05/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "category": "Security",
+          "descriptionTR": "A live television report from Romania's Black Sea port of Constanța was abruptly interrupted on 5 June after a maritime drone exploded nearby, heightening concerns over the regional impact of the war in Ukraine.",
+          "group": "Black Sea drone incident",
+          "id": "http://www.euronews.com/video/2026/06/05/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "link": "http://www.euronews.com/video/2026/06/05/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/video/2026/06/05/romania-tv-reporter-flees-live-on-air-after-drone-explosion-in-constanta"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/my-europe/2026/06/05/moment-sea-drone-explodes-in-romanias-constanta-port"
+            }
+          ],
+          "titleTR": "Romania: TV reporter flees live on air after drone explosion in Constanța"
+        }
+      ],
+      "packetSpot": "A sea drone explosion occurred in Constanța port, Romania, causing significant alarm and media attention. The incident involved a Ukrainian strike on cargo ships, with Romania acknowledging the blast's impact on its territory.",
+      "packetTitle": "Sea Drone Explosion in Constanța Port, Romania",
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "sessionID": "publish-draft",
+      "slot": 20
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+          "category": "Religion",
+          "descriptionTR": "Pontiff urges followers to dedicate themselves ‘to our brothers and sisters, to the poor, to those who suffer’\nMore than a million people filled the streets of Madrid to join Pope Leo in an open-air mass where the American pontiff appeared to emphasise the disconnect between Christian values and far-right politics, telling worshippers: “No one can kneel before the Lord and despise their brother.”\nQueues to access the mass began forming hours before the sun rose on Sunday as people scrambled to secure a spot for what was billed as the biggest gathering of the pope’s week-long visit to Spain.",
+          "group": "Papal visit to Spain",
+          "id": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+          "link": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
+          "newsValue": 5,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid"
+            }
+          ],
+          "titleTR": "More than 1 million join Pope Leo for outdoor mass in Madrid"
+        },
+        {
+          "atomID": "http://www.euronews.com/2026/06/07/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "category": "Religion",
+          "descriptionTR": "The pontiff is set to deliver a mass in the centre of Madrid before moving elsewhere in Spain to Barcelona and the Canary islands. Pope Leo XIV is also expected to deliver an unprecedented address to the Spanish parliament, where immigration is expected to take centre stage.",
+          "group": "Papal visit to Spain",
+          "id": "http://www.euronews.com/2026/06/07/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "link": "http://www.euronews.com/2026/06/07/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1",
+          "newsValue": 5,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Euronews",
+              "url": "http://www.euronews.com/2026/06/07/pope-leo-xiv-calls-for-end-to-polarisation-as-he-makes-the-first-papal-visit-to-spain-in-1"
+            }
+          ],
+          "titleTR": "Pope Leo XIV calls for 'end to polarisation' as he makes the first papal visit to Spain in 15 years"
+        }
+      ],
+      "packetSpot": "Pope Leo XIV's visit to Spain marks the first papal visit to the country in 15 years. During his visit, more than 1 million people attended an outdoor mass in Madrid, where Pope Leo XIV called for an end to political and social polarisation.",
+      "packetTitle": "Pope Leo XIV's Visit to Spain",
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "sessionID": "publish-draft",
+      "slot": 21
+    },
+    {
+      "items": [
+        {
+          "atomID": "https://www.themoscowtimes.com/2026/06/04/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "category": "Diplomacy",
+          "descriptionTR": "Putin has said he would only meet Zelensky to finalize an already agreed deal, rejecting calls to meet before then.",
+          "group": "Zelensky ceasefire appeal",
+          "id": "https://www.themoscowtimes.com/2026/06/04/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "link": "https://www.themoscowtimes.com/2026/06/04/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/06/04/in-open-letter-to-putin-zelensky-calls-for-meeting-and-ceasefire-a92935"
+            }
+          ],
+          "titleTR": "In Open Letter to Putin, Zelensky Calls for Meeting and Ceasefire"
+        },
+        {
+          "atomID": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "category": "Diplomacy",
+          "descriptionTR": "Donald Trump says that to end the Ukraine war both sides would have to make compromises, which he took credit for suggesting without explaining further. 'I’m glad that they’re maybe talking about meeting. I think we had a lot to do with it,' Trump told reporters in the Oval Office.\n\n\t•\tZelenskyy calls for face-to-face negotiations in letter to Putin",
+          "group": "Ukraine peace talks",
+          "id": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "link": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video",
+          "newsValue": 7,
+          "publishedAt": "2026-06-07T20:29:22Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Guardian Europe",
+              "url": "https://www.theguardian.com/world/video/2026/jun/05/trump-says-zelenskyy-putin-meeting-would-be-great-after-ukraine-presidents-letter-video"
+            }
+          ],
+          "titleTR": "Trump says Zelenskyy-Putin meeting would be 'great' after Ukraine president's letter - video"
+        }
+      ],
+      "packetSpot": "Ukrainian President Volodymyr Zelenskyy has addressed an open letter to Russian President Vladimir Putin, proposing a meeting to discuss a ceasefire. Former U.S. President Donald Trump commented positively on the potential meeting, describing it as a beneficial development.",
+      "packetTitle": "Zelenskyy's Proposal for a Ceasefire Meeting with Putin",
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "sessionID": "publish-draft",
+      "slot": 22
     }
   ],
-  "week" : "2026-W23"
+  "week": "2026-W23"
 }
