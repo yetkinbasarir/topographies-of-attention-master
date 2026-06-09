@@ -1,48 +1,20 @@
 {
-  "currentWeek" : "2026-W27",
-  "feedVersion" : "1.0",
-  "weeks" : [
+  "currentWeek": "2026-W24",
+  "feedVersion": "1.0",
+  "weeks": [
     {
-      "label" : "8–14 HAZIRAN",
-      "packetCount" : 15,
-      "publishedAt" : "2026-06-08T01:53:53Z",
-      "url" : "feed\/2026-W27.json",
-      "week" : "2026-W27"
+      "label": "8-14 HAZİRAN",
+      "packetCount": 56,
+      "publishedAt": "2026-06-08T01:53:53Z",
+      "url": "feed/2026-W24.json",
+      "week": "2026-W24"
     },
     {
-      "label" : "8–14 HAZIRAN",
-      "packetCount" : 2,
-      "publishedAt" : "2026-06-08T00:10:31Z",
-      "url" : "feed\/2026-W26.json",
-      "week" : "2026-W26"
-    },
-    {
-      "label" : "8–14 HAZIRAN",
-      "packetCount" : 8,
-      "publishedAt" : "2026-06-07T23:30:12Z",
-      "url" : "feed\/2026-W25.json",
-      "week" : "2026-W25"
-    },
-    {
-      "label" : "8–14 HAZIRAN",
-      "packetCount" : 31,
-      "publishedAt" : "2026-06-07T22:06:07Z",
-      "url" : "feed\/2026-W24.json",
-      "week" : "2026-W24"
-    },
-    {
-      "label" : "1–7 HAZIRAN",
-      "packetCount" : 8,
-      "publishedAt" : "2026-06-07T20:29:22Z",
-      "url" : "feed\/2026-W23.json",
-      "week" : "2026-W23"
-    },
-    {
-      "label" : "1–7 HAZIRAN",
-      "packetCount" : 14,
-      "publishedAt" : "2026-06-07T19:41:42Z",
-      "url" : "feed\/2026-W22.json",
-      "week" : "2026-W22"
+      "label": "1-7 HAZİRAN",
+      "packetCount": 22,
+      "publishedAt": "2026-06-07T20:29:22Z",
+      "url": "feed/2026-W23.json",
+      "week": "2026-W23"
     }
   ]
 }
