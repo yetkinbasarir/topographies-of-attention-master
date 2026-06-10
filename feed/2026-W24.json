@@ -1,18 +1,73 @@
 {
   "label" : "8-14 HAZİRAN",
-  "publishedAt" : "2026-06-10T19:04:48Z",
+  "publishedAt" : "2026-06-10T21:56:08Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/sport\/football\/articles\/c9d2y76pd57o#1",
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cly72ryrd1jo#2",
           "category" : "Politics",
-          "descriptionTR" : "Somalili hakem Omar Artan, Dünya Kupası için Amerika Birleşik Devletleri'ne girişine izin verilmeden önce 11 saatlik bir göçmenlik görüşmesine tabi tutulduğunu ve \"doğru belgeler\" ile \"doğru vizeye\" sahip olduğunu belirtti.",
-          "group" : "US visa security screening",
+          "descriptionTR" : "BBC Farsça editörü Amir Azimi'ye göre, İran'ın barış görüşmelerini tehlikeye atma riskini göze alması, liderlerinin mevcut konumlarını nasıl gördüklerini yansıtıyor olabilir.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cly72ryrd1jo#2",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cly72ryrd1jo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/ckg8nke01g5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "İran'ın İsrail'e saldırısı, rejimin direncinin arttığını gösteriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/live\/2026\/06\/10\/world\/iran-war-trump-us",
+          "category" : "Politics",
+          "descriptionTR" : "Savunma Bakanı Pete Hegseth, Çarşamba gecesi yeni bir Amerikan saldırısının başlatılacağını söyledi. Daha önce Başkan Trump, daha fazla saldırı geleceğini, bir gün önce ise barışın geleceğini öngörmüştü.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.nytimes.com\/live\/2026\/06\/10\/world\/iran-war-trump-us",
+          "link" : "https:\/\/www.nytimes.com\/live\/2026\/06\/10\/world\/iran-war-trump-us",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/live\/2026\/06\/10\/world\/iran-war-trump-us"
+            }
+          ],
+          "titleTR" : "İran Savaşı Canlı Güncellemeler: Hegseth, ABD'nin bu gece İran'a yeniden saldıracağını söyledi"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "İran-İsrail gerilimi ABD'nin askeri müdahalesiyle tırmanıyor",
+      "publishedAt" : "2026-06-10T21:56:08Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/sport\/football\/articles\/c9d2y76pd57o#1",
+          "category" : "Security",
+          "descriptionTR" : "Somalili hakem Omar Artan, Dünya Kupası için ABD'ye girişinin \"doğru belgeler\" ve \"doğru vize\" sahibi olmasına rağmen 11 saatlik bir göçmenlik mülakatının ardından reddedildiğini belirtiyor.",
+          "group" : "World Cup visa bans",
           "id" : "https:\/\/www.bbc.com\/sport\/football\/articles\/c9d2y76pd57o#1",
           "link" : "https:\/\/www.bbc.com\/sport\/football\/articles\/c9d2y76pd57o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 4,
-          "publishedAt" : "2026-06-10T19:04:48Z",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-10T21:56:08Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -27,67 +82,179 @@
             {
               "originalLanguage" : "en",
               "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/sport\/football\/articles\/clyr6drdl79o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/africa\/somali-referee-world-cup-us-entry-omar-artan.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/africa\/somalia-referee-world-cup-artan.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/08\/world\/africa\/somalian-world-cup-referee-denied-us-entry.html"
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cx212p8r28eo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "titleTR" : "Hakem Artan: \"Doğru belgelerim ve vizem var\""
+        },
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/americas\/world-cup-immigration-problems.html",
+          "category" : "Security",
+          "descriptionTR" : "ABD'ye Dünya Kupası için girmeyi uman bazı taraftarlar ve katılımcılar, kısıtlayıcı göçmenlik kurallarının bir engel teşkil ettiğinden şikayetçi.",
+          "group" : "World Cup visa bans",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/americas\/world-cup-immigration-problems.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/americas\/world-cup-immigration-problems.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/americas\/world-cup-immigration-problems.html"
+            }
+          ],
+          "titleTR" : "Dünya Kupası arifesinde ABD göçmenlik politikası bazılarını geri çeviriyor"
         }
       ],
       "packetSpot" : "",
-      "packetTitle" : "Somalili hakem Omar Artan'ın ABD'ye girişine izin verilmedi",
-      "publishedAt" : "2026-06-10T19:04:48Z",
+      "packetTitle" : "ABD vize reddi Dünya Kupası katılımcılarını zorluyor",
+      "publishedAt" : "2026-06-10T21:56:08Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 2
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/10\/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-les-etats-unis-vont-frapper-de-nouveau-durement-l-iran-apres-la-destruction-d-un-helicoptere-americain_6697888_3210.html",
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/europe-fighter-fcas-germany-france.html",
           "category" : "Security",
-          "descriptionTR" : "ABD Başkanı Donald Trump, İran'la ilgili olarak 'anlaşmaya çok yakındık ama bizi oyalıyorlar' şeklinde açıklama yaptı.",
-          "group" : "US Iran war escalation",
-          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/10\/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-les-etats-unis-vont-frapper-de-nouveau-durement-l-iran-apres-la-destruction-d-un-helicoptere-americain_6697888_3210.html",
-          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/10\/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-les-etats-unis-vont-frapper-de-nouveau-durement-l-iran-apres-la-destruction-d-un-helicoptere-americain_6697888_3210.html",
-          "newsValue" : 10,
-          "publishedAt" : "2026-06-10T19:04:48Z",
+          "descriptionTR" : "Berlin, İspanya ve Fransa ile yürütülen Geleceğin Muharebe Hava Sistemi projesinden çekildi. Bu proje, Avrupa'nın Rusya'ya karşı duruşunu güçlendirmek ve ABD'ye bağımlılığı azaltmak için merkezi bir girişim olarak görülüyordu.",
+          "group" : "European rearmament",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/europe-fighter-fcas-germany-france.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/europe-fighter-fcas-germany-france.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-10T21:56:08Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Le Monde",
-              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/10\/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-les-etats-unis-vont-frapper-de-nouveau-durement-l-iran-apres-la-destruction-d-un-helicoptere-americain_6697888_3210.html"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/europe-fighter-fcas-germany-france.html"
             },
             {
               "originalLanguage" : "en",
               "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/ckg02541ykpo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Ortadoğu'da savaş: Trump, İran'a 'yeniden sert bir darbe' vurulacağını söyledi"
+          "titleTR" : "Almanya, müttefikleriyle savaş uçağı yapma planından vazgeçti, yeniden silahlanma çabaları sekteye uğradı"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Almanya'nın FCAS projesinden çekilmesi Avrupa savunma işbirliğini etkiliyor",
+      "publishedAt" : "2026-06-10T21:56:08Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/10\/nouvel-attentat-a-la-voiture-piegee-contre-un-general-a-moscou-la-securite-exigee-par-le-kremlin-mise-a-mal_6700533_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Daha önce dört Rus generaline yönelik suikast veya suikast girişimlerinin ardından, 9 Haziran'da Rus cephesine mühimmat ve füze tedarikinden sorumlu liderlerden birinin ölümünün arkasında Ukrayna servislerinin olduğu şüphesi yeniden gündemde.",
+          "group" : "Russia targeted killings",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/10\/nouvel-attentat-a-la-voiture-piegee-contre-un-general-a-moscou-la-securite-exigee-par-le-kremlin-mise-a-mal_6700533_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/10\/nouvel-attentat-a-la-voiture-piegee-contre-un-general-a-moscou-la-securite-exigee-par-le-kremlin-mise-a-mal_6700533_3210.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/10\/nouvel-attentat-a-la-voiture-piegee-contre-un-general-a-moscou-la-securite-exigee-par-le-kremlin-mise-a-mal_6700533_3210.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/europe\/russia-moscow-car-bomb.html"
+            }
+          ],
+          "titleTR" : "Moskova'da bir generale yönelik yeni araçlı saldırı: Kremlin'in güvenlik talepleri sarsılıyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Moskova yakınlarında patlayan araçta üst düzey Rus askeri yetkili öldü: Ukrayna şüphesi gündemde",
+      "publishedAt" : "2026-06-10T21:56:08Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/netanyahus-trump-pressure-over-iran.html",
+          "category" : "Security",
+          "descriptionTR" : "Başbakan Benjamin Netanyahu, Başkan Trump ile yaptığı bir görüşmenin ardından İran'a yönelik saldırıları durdurduğu için eleştirildi. Muhalifler, İsrail'in kararlarını ABD'nin almasına izin verdiğini söylüyor.",
+          "group" : "Iran conflict escalation",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/netanyahus-trump-pressure-over-iran.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/netanyahus-trump-pressure-over-iran.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/netanyahus-trump-pressure-over-iran.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/middleeast\/us-iran-strikes.html"
+            }
+          ],
+          "titleTR" : "Netanyahu'nun Trump'ın İran baskısına boyun eğmesi yeni eleştiriler doğurdu"
         },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/10\/en-direct-guerre-au-moyen-orient-le-vice-president-americain-reconnait-des-divergences-avec-israel-les-etats-unis-previennent-qu-ils-vont-de-nouveau-frapper-durement-l-iran_6697888_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Amerikan Başkan Yardımcısı, CBS kanalına verdiği röportajda, \"Çıkarlarımız farklılaştığında, maalesef İsrailliler için, Amerikan halkının tarafını seçmek zorundayız ve her zaman bunu yapıyoruz\" dedi. ABD'nin İran'a \"yeniden sert bir şekilde vuracağı\" uyarısında bulundu.",
+          "group" : "Iran conflict escalation",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/10\/en-direct-guerre-au-moyen-orient-le-vice-president-americain-reconnait-des-divergences-avec-israel-les-etats-unis-previennent-qu-ils-vont-de-nouveau-frapper-durement-l-iran_6697888_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/10\/en-direct-guerre-au-moyen-orient-le-vice-president-americain-reconnait-des-divergences-avec-israel-les-etats-unis-previennent-qu-ils-vont-de-nouveau-frapper-durement-l-iran_6697888_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/10\/en-direct-guerre-au-moyen-orient-le-vice-president-americain-reconnait-des-divergences-avec-israel-les-etats-unis-previennent-qu-ils-vont-de-nouveau-frapper-durement-l-iran_6697888_3210.html"
+            }
+          ],
+          "titleTR" : "ABD Başkan Yardımcısı, İsrail ile 'farklılıkları' kabul etti, İran'a sert uyarı yaptı"
+        },
+        {
+          "atomID" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/10\/trump-threatens-iran-after-it-targets-us-assets-middle-east\/",
+          "category" : "Security",
+          "descriptionTR" : "İran'ın bir dizi saldırı düzenlediğini açıklamasının ardından, Başkan Donald Trump, Tahran'ın \"onlar için harika olacak bir anlaşmayı müzakere etmekte çok uzun sürdüğünü\" söyledi ve İran'ın \"bedelini ödeyeceğini\" belirtti.",
+          "group" : "US Iran escalation",
+          "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/10\/trump-threatens-iran-after-it-targets-us-assets-middle-east\/",
+          "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/10\/trump-threatens-iran-after-it-targets-us-assets-middle-east\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/10\/trump-threatens-iran-after-it-targets-us-assets-middle-east\/"
+            }
+          ],
+          "titleTR" : "Trump, ABD varlıklarını hedef alan İran'a 'bedelini ödeyecek' dedi"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "ABD-İran gerilimi, İsrail ile farklılıklar ve Trump yönetiminin tehditleriyle tırmanıyor",
+      "publishedAt" : "2026-06-10T21:56:08Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
         {
           "atomID" : "https:\/\/www.theguardian.com\/world\/live\/2026\/jun\/10\/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
           "category" : "Security",
-          "descriptionTR" : "Trump, ABD'nin anlaşmaya yakın olduğunu ancak İran'ın 'bizi kandırdığını' söyledi ve 'Hürmüz Boğazı'nı Amerika Birleşik Devletleri kontrol ediyor, İran değil' dedi. İsrail askeri istihbaratının eski başkanı Danny Citrinowicz, ABD'nin İran taleplerine yanıt vermesi gerektiğini belirtti. Bugünkü saldırı değiş tokuşu, hem İran hem de ABD'nin kolayca yeni bir gerilim dalgasına kayabileceğini gösteriyor. Washington bu gerçeği kabul etmezse, İran'la devam eden çatışmaların kontrol edilemez bir askeri çatışmaya dönüşebileceğini kabul etmelidir. Sınırlı bir askeri kampanya bile Tahran'ın müzakere pozisyonunu temelden değiştirmeyecektir. İran, son çatışmalardan sonra baskıya dayanabileceği ve saldırılara yanıt verebileceği konusunda kendine güveniyor. Bölgedeki tüm ülkelerin, özellikle de Basra Körfezi'nin güney kıyılarında yer alanların, ABD askeri ve İsrail'in İran'a karşı düşmanca eylemleri planlamak, organize etmek, yürütmek veya desteklemek için topraklarını veya tesislerini kullanmalarını engelleme konusunda yasal ve ahlaki sorumluluğu vardır.",
+          "descriptionTR" : "İran dışişleri bakanlığı sözcüsü, ABD'nin kasıtlı olarak iki rezervuarı hedef aldığını ve 20.000 kişiyi içme suyu olmadan bıraktığını iddia ediyor. İsrail askeri istihbaratının eski İran şubesi başkanı Danny Citrinowicz, ABD'nin gerçekten bir anlaşma istiyorsa İran'ın yaptırımların hafifletilmesi taleplerine yanıt vermesi gerektiğini belirtiyor. Bugünkü karşılıklı saldırıların, İran ve ABD'nin ne kadar kolay bir şekilde yeni bir gerilim turuna kayabileceğini gösterdiğini ifade ediyor. Washington bu gerçeği kabul etmeye istekli değilse, bunun muhtemel alternatifini tanımalı: İran ile devam eden çatışmalar, nihayetinde kimsenin kontrol edemeyeceği bir askeri çatışmaya dönüşebilir. İran'ın müzakere pozisyonunu zayıflatmak için tasarlanmış sınırlı bir askeri kampanya bile Tahran'ın duruşunu temelden değiştirmeyecektir. Geçmişte bu olmadı ve şimdi olacağına dair pek bir neden yok. İran, son karşılıklı saldırılardan, baskıya dayanabileceği ve saldırılara yanıt verebileceği konusunda ikna olmuş olarak çıkıyor. Bölgedeki tüm ülkelerin (özellikle Basra Körfezi'nin güney kıyılarında bulunanlar) ABD askeri ve İsrail'in İran'a karşı düşmanca eylemleri planlamak, organize etmek, yürütmek veya desteklemek için kendi topraklarını veya tesislerini kullanmalarını engelleme konusunda yasal ve ahlaki sorumluluğu bulunmaktadır.",
           "group" : "US Iran war escalation",
           "id" : "https:\/\/www.theguardian.com\/world\/live\/2026\/jun\/10\/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
           "link" : "https:\/\/www.theguardian.com\/world\/live\/2026\/jun\/10\/iran-war-updates-missile-strikes-trump-us-retaliation-middle-east-crisis-war-live",
-          "newsValue" : 10,
-          "publishedAt" : "2026-06-10T19:04:48Z",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-10T21:56:08Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -101,578 +268,62 @@
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/09\/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond"
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/trump-iran-us-military-helicopter.html"
             }
           ],
-          "titleTR" : "Ortadoğu krizi: Trump, İran'a yönelik yeni bir saldırıyı ima etti ve Hürmüz Boğazı'nda 100 milyon varil petrolün taşındığını iddia etti"
+          "titleTR" : "Orta Doğu krizi: İran, ABD'yi 'hesaplanmış savaş suçu' ile suçluyor, Pete Hegseth İran'a sert vuracaklarını söylüyor"
         }
       ],
       "packetSpot" : "",
-      "packetTitle" : "ABD ve İran arasında artan gerginlik: Askeri saldırılar ve siyasi söylemler",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 2
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/asia\/hong-kong-apartment-fire-charges.html",
-          "category" : "Law",
-          "descriptionTR" : "25 suçlama arasında adam öldürme ve komplo yer alıyor. Bu suçlamalar, 168 kişinin ölümüne neden olan yangına ilişkin aylardır süren soruşturmanın ardından ortaya çıkan ilk suçlamalar.",
-          "group" : "Hong Kong fire charges",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/asia\/hong-kong-apartment-fire-charges.html",
-          "link" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/asia\/hong-kong-apartment-fire-charges.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/asia\/hong-kong-apartment-fire-charges.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c04yldyezyeo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Hong Kong'da ölümcül apartman yangını için 7 kişi ve 2 şirkete suçlama"
-        }
-      ],
-      "packetSpot" : "Hong Kong'da 168 kişinin hayatını kaybettiği ölümcül apartman yangınına ilişkin olarak yedi kişi ve iki şirkete dava açıldı. Bu, trajik olayın ardından yürütülen uzun bir soruşturmanın ardından ilk yasal adım olarak dikkat çekiyor.",
-      "packetTitle" : "Hong Kong'daki ölümcül apartman yangınına ilişkin yedi kişi ve iki şirkete dava açıldı",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 3
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/middleeast\/indian-sailors-rescued-us-missile-ship-oman.html",
-          "category" : "Security",
-          "descriptionTR" : "24 mürettebat, Umman askeri helikopteri tarafından kurtarılmadan önce iki saatten fazla bir süre mahsur kaldı. ABD ordusu, geminin İran ablukasını ihlal ettiğini belirtti.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/middleeast\/indian-sailors-rescued-us-missile-ship-oman.html",
-          "link" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/middleeast\/indian-sailors-rescued-us-missile-ship-oman.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/middleeast\/indian-sailors-rescued-us-missile-ship-oman.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/08\/us\/politics\/us-helicopter-strait-of-hormuz.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Hintli denizciler Umman açıklarında ABD füze saldırısının ardından yardım çağrısında bulundu"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Umman Körfezi'nde ABD füzesiyle vurulan tankerdeki Hintli denizciler kurtarıldı",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 4
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/israel-lebanon-strikes-tyre-ceasefire.html",
-          "category" : "Security",
-          "descriptionTR" : "Bombardıman, İsrail'in tüm şehir için tahliye uyarısının ardından gerçekleşti. Bu gelişme, İran'ın Lübnan'daki Hizbullah'a yönelik saldırılarını sürdürmesi halinde İsrail'e yeniden saldırma tehdidinde bulunmasından bir gün sonra yaşandı.",
-          "group" : "Lebanon cease-fire collapse",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/israel-lebanon-strikes-tyre-ceasefire.html",
-          "link" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/israel-lebanon-strikes-tyre-ceasefire.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/israel-lebanon-strikes-tyre-ceasefire.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c36y16nkr5no?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cpq3d44l907o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "ABD aracılığıyla sağlanan ateşkes zayıflarken İsrail, Lübnan'ın Sur kentine saldırdı"
-        }
-      ],
-      "packetSpot" : "Ateşkesin zayıfladığı bir dönemde, İsrail'in Sur'a yönelik hava saldırıları ve İran'ın devam eden saldırılara karşı uyarıları dikkat çekiyor.",
-      "packetTitle" : "Tyre'deki İsrail hava saldırıları: Ateşkes zayıflarken İran'dan uyarılar",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 5
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/pope-leo-bless-sagrada-familia-antoni-gaudi",
-          "category" : "Culture",
-          "descriptionTR" : "144 yıllık bazilikanın tamamlanması yaklaşırken, kilisenin mimarın orijinal planlarına ne kadar benzediği konusunda sorular gündemde. 144 yıl sonra, Papa Leo XIV, Antoni Gaudí'nin Sagrada Família kilisesinin yeni tamamlanan merkezi kulesini, İspanyol kraliyet ailesi üyeleri, başbakan ve yüzlerce piskoposun huzurunda kutsadı. Tapınağın 18 kulesinden en yükseği olan İsa Mesih kulesinin tamamlanmasıyla bazilika, 172,5 metre yüksekliğiyle dünyanın en yüksek kilisesi ve Barcelona'nın en yüksek binası oldu. 2010 yılında Papa Benedict XVI tarafından kutsanmıştı.",
-          "group" : "Sagrada Familia completion",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/pope-leo-bless-sagrada-familia-antoni-gaudi",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/pope-leo-bless-sagrada-familia-antoni-gaudi",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/pope-leo-bless-sagrada-familia-antoni-gaudi"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/europe\/pope-leo-sagrada-familia-barcelona-visit.html"
-            }
-          ],
-          "titleTR" : "Papa'nın Sagrada Família'nın son kulesini kutsaması için Barcelona'da kalabalık toplandı"
-        }
-      ],
-      "packetSpot" : "Barcelona'da Sagrada Família'nın son kulesinin Papa Leo XIV tarafından kutsanması, bazilikanın 144 yıllık inşaatında önemli bir dönüm noktası olarak öne çıkıyor. Ancak bu kutlama, kilisenin tamamlanması nedeniyle olası ev yıkımları hakkındaki yerel gerginlikleri de gündeme getiriyor.",
-      "packetTitle" : "Sagrada Família'nın son kulesi Papa Leo XIV tarafından kutsandı",
-      "publishedAt" : "2026-06-10T19:04:48Z",
+      "packetTitle" : "ABD-İran gerilimi: Misillemeler ve suçlamalar",
+      "publishedAt" : "2026-06-10T21:56:08Z",
       "sessionID" : "publish-draft",
       "slot" : 6
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/ckg8nke01g5o#3",
-          "category" : "Security",
-          "descriptionTR" : "İki ay önce başlayan hassas ateşkesten bu yana ilk kez İsrail ve İran arasında füze saldırıları gerçekleşti.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/ckg8nke01g5o#3",
-          "link" : "https:\/\/www.bbc.com\/news\/videos\/ckg8nke01g5o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/videos\/ckg8nke01g5o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cp8lm75186lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cjdgl548x3eo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Trump, İran savaşı kontrolünü kaybetti mi?"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/10\/trump-iran-war-analysis",
-          "category" : "Security",
-          "descriptionTR" : "Tehdit, detant ve çıkmaz döngüsü, başkanın İran'daki savaşı uzadıkça yorucu bir şekilde tekrarlanıyor. ABD-İran savaşı sosyal medyada doğrudan yazılırken, Donald Trump bu türün önde gelen güvenilmez anlatıcısı olabilir. Savaş başladığından beri Trump, İran'ı masaya oturup ABD başkanının haftalar önce yakın olduğunu söylediği bir barış anlaşmasını imzalamazsa korkunç sonuçlarla tehdit etmeye devam etti. Ayrıca defalarca bir İran anlaşmasının 'yakın' olduğunu iddia etti - ancak sonuç alınamadı. (CNN'in sayımına göre bunu 38 kez iddia etti.)",
-          "group" : "US Iran war escalation",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/10\/trump-iran-war-analysis",
-          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/10\/trump-iran-war-analysis",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-10T19:04:48Z",
+          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/10\/bill-gates-testimony-jeffrey-epstein",
+          "category" : "Law",
+          "descriptionTR" : "Microsoft'un kurucusu, cinsel suçlu olarak hüküm giymiş Jeffrey Epstein'a yönelik yasama soruşturması kapsamında kapalı kapılar ardında ifade verdi. Gates, Çarşamba günü Temsilciler Meclisi gözetim ve reform komitesine ifade verirken, açılış konuşmasında Epstein'ın 'süregelen bir suç faaliyeti içinde olduğuna' dair hiçbir şey görmediğini veya herhangi bir belirti almadığını söyledi. Gates, Guardian tarafından görülen açılış konuşmasında, \"Jeffrey Epstein ile etkileşimlerim hakkında sorularınızı yanıtlamak ve komitenin önemli çalışmalarına katkıda bulunmak için buradayım\" dedi. \"Tüm Epstein dosyalarının yayımlanmasını destekliyorum ve sizin çabalarınız ve mağdurlar adına savunan diğerlerinin çabaları sayesinde Epstein'ın suçlarının mağdurlarının hak ettikleri adaleti bulmalarını içtenlikle umuyorum.\"",
+          "group" : "Epstein testimony fallout",
+          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/10\/bill-gates-testimony-jeffrey-epstein",
+          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/10\/bill-gates-testimony-jeffrey-epstein",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-10T21:56:08Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/10\/trump-iran-war-analysis"
+              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/10\/bill-gates-testimony-jeffrey-epstein"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Trump, İran konusunda güvenilmez bir anlatıcı olarak gerçekliği hikayesine uyduramıyor"
+          "titleTR" : "Bill Gates: 'Hiç kimseyi mağdur etmedim'"
         }
       ],
       "packetSpot" : "",
-      "packetTitle" : "Trump döneminde ABD-İran gerilimleri",
-      "publishedAt" : "2026-06-10T19:04:48Z",
+      "packetTitle" : "Bill Gates'in Epstein ile ilişkisine dair ifadesi ABD Temsilciler Meclisi'nde",
+      "publishedAt" : "2026-06-10T21:56:08Z",
       "sessionID" : "publish-draft",
       "slot" : 7
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/09\/lyhanna-lawyer-france-justice-system-funding",
-          "category" : "Law",
-          "descriptionTR" : "11 yaşındaki Lyhanna'nın ölümü, kız çocuklarına yönelik erkek şiddetini gündemin üst sıralarına taşıdı. Fransa genelinde protestolara yol açan 11 yaşındaki kız çocuğunun kaybolması ve öldürülmesi olayında, ailenin avukatı François Roujou de Boubée, zor durumda olan adalet sistemine daha fazla kaynak sağlanması çağrısında bulundu. Çocuklara yönelik cinsel şiddetle mücadelede Fransız devletinin yetersizliği üzerine siyasi bir tartışma yaşanıyor. \"Açıkçası, adalet sisteminin daha fazla kaynağı olsaydı, bu trajedi ve diğerleri yaşanmazdı,\" dedi ailenin avukatı François Roujou de Boubée. \"Mağdurun ailesi ve ben adalet sistemine güveniyoruz. Artık yeter.\"",
-          "group" : "French child murder justice",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/09\/lyhanna-lawyer-france-justice-system-funding",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/09\/lyhanna-lawyer-france-justice-system-funding",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/09\/lyhanna-lawyer-france-justice-system-funding"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Le Monde",
-              "url" : "https:\/\/www.lemonde.fr\/societe\/live\/2026\/06\/10\/en-direct-affaire-lyhanna-les-obseques-de-la-fillette-se-derouleront-vendredi-dans-la-plus-stricte-intimite_6700450_3224.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Lyhanna'nın ailesinin avukatı adalet sistemi için daha fazla kaynak talep ediyor"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Fransa'da Lyhanna'nın cinayeti siyasi tartışmaları alevlendiriyor",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 8
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/cvgdxqwlrpyo#3",
-          "category" : "Environment",
-          "descriptionTR" : "Deprem Digos şehrini vurduğunda öğrencilerin çığlıkları duyuldu, ancak okuldan yapılan açıklamaya göre olayda kimse yaralanmadı.",
-          "group" : "Philippines earthquake",
-          "id" : "https:\/\/www.bbc.com\/news\/videos\/cvgdxqwlrpyo#3",
-          "link" : "https:\/\/www.bbc.com\/news\/videos\/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/videos\/cvgdxqwlrpyo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Filipinler'deki depremde öğrenciler çöken çatıdan kaçtı"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/philippines-earthquake-mindanao-tsunami-warnings",
-          "category" : "Environment",
-          "descriptionTR" : "Güney Filipinler'de meydana gelen 7.8 büyüklüğündeki depremde en az 37 kişi hayatını kaybetti ve yüzlerce kişi yaralandı. Binaların yıkıldığı ve tsunami uyarılarının yapıldığı bildirildi. Deprem, Sarangani eyaletinin 20 km açığında sabah erken saatlerde meydana geldi ve Mindanao genelinde, Endonezya'nın Sulawesi adasındaki Manado şehrinde de güçlü bir şekilde hissedildi.",
-          "group" : "Philippines earthquake disaster",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/philippines-earthquake-mindanao-tsunami-warnings",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/philippines-earthquake-mindanao-tsunami-warnings",
-          "newsValue" : 9,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/philippines-earthquake-mindanao-tsunami-warnings"
-            }
-          ],
-          "titleTR" : "Güney Filipinler'deki güçlü depremde en az 37 kişi öldü"
-        }
-      ],
-      "packetSpot" : "Güney Filipinler'de meydana gelen 7.8 büyüklüğündeki deprem, en az 37 kişinin ölümüne, çok sayıda kişinin yaralanmasına ve ciddi yapısal hasara yol açtı. Digos'taki bir okulda da olaylar yaşandı.",
-      "packetTitle" : "Güney Filipinler'de 7.8 büyüklüğünde deprem: can kayıpları ve yapısal hasar",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 9
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/09\/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-          "category" : "Health",
-          "descriptionTR" : "Nairobi'nin 120 mil kuzeyindeki Nanyuki'de, ABD'nin planlarına karşı artan öfke nedeniyle polis göstericileri dağıttı. Kenya polisi, ABD vatandaşları için önerilen Ebola karantina tesisine karşı düzenlenen bir protesto sırasında bir kişiyi vurdu. Nanyuki'deki protestoları organize eden Patrick Wahome, Reuters'a salı günü yaptığı açıklamada, adamın başından vurularak öldüğünü söyledi. Ajans muhabirleri, büyük bir baş yarası olan cesedin polis aracında hareketsiz yattığını gördü.",
-          "group" : "Kenya Ebola protest",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/09\/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/09\/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/09\/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3wypjz3n57o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Kenya'da önerilen ABD Ebola karantina tesisi protestosunda bir kişi vurularak öldü"
-        },
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/africa\/ebola-kenya-us-protests.html",
-          "category" : "Health",
-          "descriptionTR" : "Yüzlerce Kenyalı, yalnızca Amerikalı hastalar için ayrılacak bir karantina tesisine karşı sokaklarda yürüdü.",
-          "group" : "Kenya Ebola protests",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/africa\/ebola-kenya-us-protests.html",
-          "link" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/africa\/ebola-kenya-us-protests.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/africa\/ebola-kenya-us-protests.html"
-            }
-          ],
-          "titleTR" : "ABD Ebola birimi Kenya'da öfke, protestolar ve siyasi kriz yarattı"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Kenya'da ABD Ebola karantina tesisi önerisine karşı protestolar ve ölümcül sonuçlar",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 10
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/xi-jinping-kim-jong-un-meeting-north-korea",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Kim Jong-un, Pyongyang'ın Rusya'ya yakınlığı nedeniyle gerilen ilişkileri yenilemek amacıyla Çin liderini karşıladı. Xi Jinping, yaklaşık yedi yıl aradan sonra ilk kez Kuzey Kore'ye iki günlük bir ziyaret için geldi. Çin'in Xinhua devlet haber ajansı tarafından yayınlanan görüntülerde, Xi ve eşi Peng Liyuan'ı taşıyan Air China uçağının Pyongyang Sunan uluslararası havaalanına indiği görüldü.",
-          "group" : "China North Korea ties",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/xi-jinping-kim-jong-un-meeting-north-korea",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/xi-jinping-kim-jong-un-meeting-north-korea",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/xi-jinping-kim-jong-un-meeting-north-korea"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cdep497r256o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Xi Jinping, Çin-Kuzey Kore ilişkilerini canlandırmak için Pyongyang'a ulaştı"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Xi Jinping'in Kuzey Kore ziyareti: İkili ilişkileri güçlendirme çabası",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 11
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/russia-ukraine-drones-nato-lithuania-romania.html",
-          "category" : "Security",
-          "descriptionTR" : "Rusya ve Ukrayna tarafından fırlatılan dronelar, savaşta olmayan ülkelerin hava sahasına girerek vatandaşlarını sığınak aramaya itiyor.",
-          "group" : "Russia Ukraine drone spillover",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/russia-ukraine-drones-nato-lithuania-romania.html",
-          "link" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/russia-ukraine-drones-nato-lithuania-romania.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/russia-ukraine-drones-nato-lithuania-romania.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/world\/europe\/ukraine-midrange-logistics-strikes.html"
-            }
-          ],
-          "titleTR" : "Rusya ve Ukrayna'nın drone savaşı komşu ülkelere sıçrıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#2",
-          "category" : "Security",
-          "descriptionTR" : "BBC'nin Rusya editörü, Putin'in önde gelen ekonomik etkinliğinin Ukraynalı droneların gölgesinde kaldığını aktardı.",
-          "group" : "",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro#2",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/c9q2gp52rgro?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Steve Rosenberg: Rusya'nın ekonomik forumu Ukraynalı droneların gölgesinde kaldı"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Rusya ve Ukrayna arasındaki drone savaşı komşu ülkeleri ve Rusya'daki etkinlikleri etkiliyor",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 12
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/netanyahus-trump-pressure-over-iran.html",
-          "category" : "Politics",
-          "descriptionTR" : "Muhalifler, Başbakan Benjamin Netanyahu'yu Başkan Trump ile yaptığı görüşmenin ardından İran'a yönelik saldırıları durdurduğu için eleştiriyor. Netanyahu'nun, İsrail'in kararlarını ABD'nin almasına izin verdiği iddia ediliyor.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/netanyahus-trump-pressure-over-iran.html",
-          "link" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/netanyahus-trump-pressure-over-iran.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/middleeast\/netanyahus-trump-pressure-over-iran.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/videos\/cd958e7j8q9o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Netanyahu'nun Trump'ın İran baskısına boyun eğmesi yeni eleştiriler doğurdu"
-        }
-      ],
-      "packetSpot" : "Başbakan Netanyahu, Başkan Trump ile yaptığı görüşmenin ardından İran'a yönelik askeri eylemleri durdurduğu için eleştiriliyor. Bu durum, ABD diplomasisinin İsrail kararları üzerindeki etkisini gözler önüne seriyor.",
-      "packetTitle" : "Netanyahu, Trump'ın etkisiyle İran'a saldırıları durdurduğu için eleştiriliyor",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 13
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/europe-fighter-fcas-germany-france.html",
-          "category" : "Security",
-          "descriptionTR" : "Berlin, İspanya ve Fransa ile yürüttüğü Geleceğin Muharebe Hava Sistemi projesinden çekildi. Bu proje, Avrupa'nın Rusya'ya karşı durma ve ABD'ye bağımlılığı azaltma çabalarının merkezinde görülüyordu.",
-          "group" : "European rearmament",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/europe-fighter-fcas-germany-france.html",
-          "link" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/europe-fighter-fcas-germany-france.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/europe-fighter-fcas-germany-france.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/ckg02541ykpo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Almanya, müttefiklerle savaş uçağı inşa etme planından vazgeçti, yeniden silahlanma çabaları sekteye uğradı"
-        }
-      ],
-      "packetSpot" : "Almanya'nın Fransa ve İspanya ile yürüttüğü Geleceğin Muharebe Hava Sistemi projesinden çekilme kararı, Avrupa savunma işbirliğindeki gerilimleri öne çıkarıyor.",
-      "packetTitle" : "Almanya, Fransa ve İspanya ile ortak savaş uçağı projesinden çekildi",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 14
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/08\/world\/middleeast\/iran-israel-strikes-ceasefire-hezbollah.html",
-          "category" : "Security",
-          "descriptionTR" : "İsrail ile İran destekli milis grubu Hizbullah arasındaki çatışma, İran'daki savaşı sonlandırma çabalarını karmaşıklaştırıyor.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.nytimes.com\/2026\/06\/08\/world\/middleeast\/iran-israel-strikes-ceasefire-hezbollah.html",
-          "link" : "https:\/\/www.nytimes.com\/2026\/06\/08\/world\/middleeast\/iran-israel-strikes-ceasefire-hezbollah.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New York Times",
-              "url" : "https:\/\/www.nytimes.com\/2026\/06\/08\/world\/middleeast\/iran-israel-strikes-ceasefire-hezbollah.html"
-            }
-          ],
-          "titleTR" : "İran ve İsrail, şiddetli saldırı değişiminin ardından geri çekildi"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cly72ryrd1jo#2",
-          "category" : "Security",
-          "descriptionTR" : "İran'ın barış görüşmelerini riske atma kararı, liderlerinin mevcut konumlarını nasıl gördüklerini yansıtabilir, diye yazıyor BBC Farsça editörü Amir Azimi.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.bbc.com\/news\/articles\/cly72ryrd1jo#2",
-          "link" : "https:\/\/www.bbc.com\/news\/articles\/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News",
-              "url" : "https:\/\/www.bbc.com\/news\/articles\/cly72ryrd1jo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "İran'ın İsrail'e saldırısı, rejimin direncinin arttığını düşündürüyor"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "İran ve İsrail arasında askeri gerginlikler ve stratejik yansımalar",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 15
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/10\/inflation-report-rate",
-          "category" : "Economy",
-          "descriptionTR" : "İran savaşı baskısı altında enflasyon oranı %4,2'ye yükselirken Trump, \"Enflasyonu seviyorum\" dedi. Çatışma başlamadan önce enflasyon %2,4 seviyesindeydi, ancak Hürmüz Boğazı'nın kapanması enerji fiyatlarını etkiledi. ABD Başkanı Donald Trump, Çarşamba günü Beyaz Saray'dan yaptığı açıklamada, çatışmadaki son gelişmeler nedeniyle enflasyon konusunda endişeli olmadığını belirtti.",
-          "group" : "US inflation Iran war",
-          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/10\/inflation-report-rate",
-          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/10\/inflation-report-rate",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-10T19:04:48Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian",
-              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/10\/inflation-report-rate"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Le Monde",
-              "url" : "https:\/\/www.lemonde.fr\/economie\/article\/2026\/06\/10\/donald-trump-sous-la-pression-de-prix-toujours-plus-eleves-aux-etats-unis-a-cause-du-conflit-en-iran_6700506_3234.html"
-            }
-          ],
-          "titleTR" : "Trump, enflasyon %4,2'ye yükselirken \"Enflasyonu seviyorum\" dedi"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Donald Trump, İran çatışması sırasında artan ABD enflasyonu hakkında konuşuyor",
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "sessionID" : "publish-draft",
-      "slot" : 16
-    },
-    {
-      "items" : [
-        {
           "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts",
           "category" : "Culture",
-          "descriptionTR" : "Beyaz Saray'ın manga ve anime imgelerini kullanması yeniden tepki çekti; ABD Başkanı'nın Naruto olarak tasvir edilmesi Japon hayranları kızdırdı. Japon anime ve manga hayranları, Donald Trump'tan favori karakterlerini sosyal medya paylaşımlarında kullanmayı bırakmasını istiyor. Change.org'da Japon Mangasını Koru başlıklı bir dilekçeyi yaklaşık 20.000 kişi imzaladı. Bu dilekçe, Beyaz Saray'ın resmi X hesabının popüler Dragon Ball, Yu-Gi-Oh! ve Naruto serilerinden izinsiz görüntüler içeren videolar paylaşmasına karşı çıkıyor. Öfkeli hayranlar sosyal medyada da tepkilerini dile getiriyor.",
+          "descriptionTR" : "Beyaz Saray'ın manga ve anime imgelerini kullanması Japon hayranların tepkisini çekti. Donald Trump'ın sosyal medya paylaşımlarında sevilen karakterleri kullanmasına karşı çıkan Japon anime ve manga hayranları, bu duruma son verilmesini talep ediyor. Change.org'da 'Japon Mangasını Koru' başlıklı bir dilekçe, yaklaşık 20.000 imza topladı. Hayranlar ayrıca sosyal medyada tepkilerini dile getiriyor.",
           "group" : "Trump manga backlash",
           "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts",
           "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts",
-          "newsValue" : 3,
-          "publishedAt" : "2026-06-10T19:04:48Z",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-10T21:56:08Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -685,26 +336,140 @@
               "url" : "https:\/\/www.bbc.com\/news\/articles\/cdx7vynyl4eo?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Japon manga hayranları Trump'a karakterleri kullanmayı bırakması için çağrıda bulunuyor"
+          "titleTR" : "Japon manga hayranları Trump'tan karakterleri kullanmayı bırakmasını istiyor"
         }
       ],
-      "packetSpot" : "Donald Trump'un anime ve manga karakterlerini sosyal medya paylaşımlarında kullanması Japonya'da tepki çekiyor. Hayranlar, bu kullanıma son vermesi için çağrıda bulunuyor.",
-      "packetTitle" : "Trump'ın anime ve manga kullanımı Japonya'da tepki topluyor",
-      "publishedAt" : "2026-06-10T19:04:48Z",
+      "packetSpot" : "Japon anime ve manga hayranları, Donald Trump'ın sosyal medya paylaşımlarında Pikachu ve Naruto gibi popüler karakterleri kullanmasına karşı dilekçeler ve sosyal medya tepkileriyle protesto ediyor.",
+      "packetTitle" : "Trump'ın anime karakterlerini kullanması Japon hayranları kızdırdı",
+      "publishedAt" : "2026-06-10T21:56:08Z",
       "sessionID" : "publish-draft",
-      "slot" : 17
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/pope-leo-spain-armando-lovera.html",
+          "category" : "Culture",
+          "descriptionTR" : "Papa Leo ve Armando Jesús Lovera, uzun yıllardır birbirlerini tanıyorlar. Birlikte Dünya Kupası maçları izlediler, yolculuklara çıktılar ve bir keresinde Lovera'nın gelecekteki eşi için bir oyuncak ayı aradılar.",
+          "group" : "Pope and pop culture",
+          "id" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/pope-leo-spain-armando-lovera.html",
+          "link" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/pope-leo-spain-armando-lovera.html",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/pope-leo-spain-armando-lovera.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/europe\/pope-leo-bad-bunny.html"
+            }
+          ],
+          "titleTR" : "Papa Leo'nun en iyi arkadaşlarından biri İspanya'da çalışıyor. Arabalar hakkında konuşuyorlar."
+        },
+        {
+          "atomID" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/09\/after-days-speculation-vatican-said-pope-leo-met-bad-bunny-spain\/",
+          "category" : "Culture",
+          "descriptionTR" : "Bad Bunny ve Papa Leo XIV, farklı kişiliklere sahip olabilirler, ancak çoğulcu vizyonlar konusunda aynı safta yer alıyorlar.",
+          "group" : "Pope and pop culture",
+          "id" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/09\/after-days-speculation-vatican-said-pope-leo-met-bad-bunny-spain\/",
+          "link" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/09\/after-days-speculation-vatican-said-pope-leo-met-bad-bunny-spain\/",
+          "newsValue" : 2,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Washington Post",
+              "url" : "https:\/\/www.washingtonpost.com\/world\/2026\/06\/09\/after-days-speculation-vatican-said-pope-leo-met-bad-bunny-spain\/"
+            }
+          ],
+          "titleTR" : "Bad Bunny'nin özel buluşması: Latin trap yıldızı Papa Leo ile İspanya'da bir araya geldi"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Papa Leo XIV'nin İspanya'daki kişisel bağlantıları",
+      "publishedAt" : "2026-06-10T21:56:08Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/science\/2026\/jun\/09\/artemis-iii-crew-nasa-moon",
+          "category" : "Science",
+          "descriptionTR" : "NASA yöneticisi Jared Isaacman, Artemis III ekibini ve uzay ajansının insanları aya geri döndürme projesinin bir sonraki aşamalarını açıkladı. Avrupa Uzay Ajansı'ndan (ESA) İtalyan astronot Luca Parmitano, önümüzdeki yıl Dünya yörüngesine yapılacak iki haftalık planlı görevin pilotu olacak. Bu görevde Blue Origin ve SpaceX'in ay iniş araçları test edilecek.",
+          "group" : "Artemis moon mission",
+          "id" : "https:\/\/www.theguardian.com\/science\/2026\/jun\/09\/artemis-iii-crew-nasa-moon",
+          "link" : "https:\/\/www.theguardian.com\/science\/2026\/jun\/09\/artemis-iii-crew-nasa-moon",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/science\/2026\/jun\/09\/artemis-iii-crew-nasa-moon"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cdejn0gj12go?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "NASA, Artemis III ekibini ve gelecekteki adımları açıkladı"
+        }
+      ],
+      "packetSpot" : "NASA, Artemis Ay programı için ekibi açıkladı ve gelecekteki misyonlar ile insan inişi için atılacak adımları detaylandırdı.",
+      "packetTitle" : "NASA, Artemis Ay programı ekibini ve gelecekteki misyon planlarını duyurdu",
+      "publishedAt" : "2026-06-10T21:56:08Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/philippines-earthquake-mindanao-tsunami-warnings",
+          "category" : "Environment",
+          "descriptionTR" : "Büyüklüğü 7.8 olan deprem sonrası artçı sarsıntılar korkusuyla insanların hasarlı binalara girmemesi istendi. Pazartesi sabah erken saatlerde güney Filipinler'de meydana gelen depremde en az 37 kişi hayatını kaybetti, yüzlerce kişi yaralandı. Binalar çöktü ve tsunami uyarıları yapıldı. Deprem, Sarangani eyaletinin yaklaşık 20 km açıklarında meydana geldi ve Mindanao genelinde ve Endonezya'nın Sulawesi adasındaki Manado şehrinde, 420 km uzaklıkta, güçlü bir şekilde hissedildi.",
+          "group" : "Philippines earthquake disaster",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/philippines-earthquake-mindanao-tsunami-warnings",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/philippines-earthquake-mindanao-tsunami-warnings",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-10T21:56:08Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/08\/philippines-earthquake-mindanao-tsunami-warnings"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New York Times",
+              "url" : "https:\/\/www.nytimes.com\/2026\/06\/09\/world\/asia\/philippines-earthquake-trapped.html"
+            }
+          ],
+          "titleTR" : "Güney Filipinler'deki güçlü depremde en az 37 kişi hayatını kaybetti"
+        }
+      ],
+      "packetSpot" : "Güney Filipinler'de meydana gelen 7.8 büyüklüğündeki güçlü deprem, ciddi can kayıplarına ve hasara yol açtı.",
+      "packetTitle" : "Güney Filipinler'de 7.8 büyüklüğünde deprem felaketi",
+      "publishedAt" : "2026-06-10T21:56:08Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
     },
     {
       "items" : [
         {
           "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
           "category" : "Environment",
-          "descriptionTR" : "Kritik tehlike altındaki Tapanuli orangutanlarının nüfusu, Kuzey Sumatra'da iklim krizinin tetiklediği şiddetli yağışlar ve toprak kaymaları sonrasında azaldı. Bir araştırmaya göre, iklim krizinin tetiklediği aşırı yağışlar ve toprak kaymaları, dünyanın en nadir büyük maymununun kalan nüfusunun %7'sinin ölümüne yol açtı ve türün hayatta kalma endişelerini artırdı. Araştırma, Endonezya'nın Kuzey Sumatra bölgesinde Kasım 2025'te dört gün içinde 1.000 mm'den fazla yağışın düşmesi sonucu, kritik tehlike altındaki 800 Tapanuli orangutanından (Pongo tapanuliensis) 58'inin öldüğünü öne sürüyor. Bu, yerel nüfusun %11'ine ve türün tamamının %7'sine denk geliyor.",
-          "group" : "Indonesia orangutan losses",
+          "descriptionTR" : "Kuzey Sumatra'da iklim krizi kaynaklı aşırı yağış ve toprak kaymaları, dünyanın en nadir büyük maymun türünün kalan nüfusunun %7'sinin ölümüne yol açtı. Araştırmaya göre, Kasım 2025'te Endonezya'nın Kuzey Sumatra bölgesinde dört gün boyunca 1000 mm'den fazla yağış düşmesi sonucu, kritik tehlike altındaki Tapanuli orangutanlarının (Pongo tapanuliensis) kalan 800 bireyinden 58'i öldü. Bu, yerel nüfusun %11'ine ve tüm türün %7'sine denk geliyor.",
+          "group" : "Orangutan climate losses",
           "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
           "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/10\/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-10T19:04:48Z",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-10T21:56:08Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -717,27 +482,25 @@
               "url" : "https:\/\/www.nytimes.com\/2026\/06\/10\/climate\/indonesia-floods-organgutans.html"
             }
           ],
-          "titleTR" : "Endonezya'da dört gün süren aşırı yağış, dünyanın en nadir büyük maymunlarının %7'sini öldürdü"
+          "titleTR" : "Endonezya'da dört gün süren aşırı yağış, dünyanın en nadir büyük maymun türünün %7'sini öldürdü, araştırma bulgusu"
         }
       ],
-      "packetSpot" : "",
-      "packetTitle" : "Endonezya'da aşırı hava olayları Tapanuli orangutanlarını tehdit ediyor",
-      "publishedAt" : "2026-06-10T19:04:48Z",
+      "packetSpot" : "Endonezya'da iklim kaynaklı bir fırtına, kritik tehlike altındaki Tapanuli orangutan nüfusunu ciddi şekilde etkileyen toprak kaymalarına yol açtı ve türün önemli bir yüzdesi kaybedildi.",
+      "packetTitle" : "Endonezya'daki toprak kaymaları Tapanuli orangutanlarını ciddi şekilde etkiledi",
+      "publishedAt" : "2026-06-10T21:56:08Z",
       "sessionID" : "publish-draft",
-      "slot" : 18
+      "slot" : 12
     }
   ],
   "superPackets" : [
     {
       "slots" : [
-        2,
-        4,
-        7,
-        13,
-        15
+        1,
+        5,
+        6
       ],
-      "spot" : "This week, the axis of US-Iran tensions intensified, with military actions and political maneuvers drawing in regional players and affecting international relations.",
-      "title" : "Intensifying US-Iran Tensions and Regional Impacts"
+      "spot" : "This week, the axis of U.S.-Iran-Israel tensions intensified with military actions and political divergences escalating the conflict.",
+      "title" : "Escalating U.S.-Iran-Israel Tensions and Military Actions"
     }
   ],
   "week" : "2026-W24"
