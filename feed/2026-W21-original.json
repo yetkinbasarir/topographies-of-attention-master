@@ -1,0 +1,210 @@
+{
+  "label" : "18-24 MAYIS",
+  "publishedAt" : "2026-06-11T21:57:01Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.artforum.com\/news\/italian-arts-collectives-call-for-general-strike-1234751984\/",
+          "category" : "Culture",
+          "descriptionTR" : "Italian culture workers and arts collectives announced this week that they would be joining trade unions and other organizations across the country in participating in a “general cultural strike” on June 12. The strike will focus on supporting Palestine and championing workers’ rights. The organizations who communicated on Monday that they’d be part of the effort include […]",
+          "group" : "Italian cultural strike",
+          "id" : "https:\/\/www.artforum.com\/news\/italian-arts-collectives-call-for-general-strike-1234751984\/",
+          "link" : "https:\/\/www.artforum.com\/news\/italian-arts-collectives-call-for-general-strike-1234751984\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/italian-arts-collectives-call-for-general-strike-1234751984\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/italy-national-culture-strike-artwashing\/"
+            }
+          ],
+          "titleTR" : "Italian Arts Collectives Call For ‘General Cultural Strike’ On June 12"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-11T21:57:01Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/ocula.com\/magazine\/art-news\/wilma-woolfs-billboards-london\/",
+          "category" : "Culture",
+          "descriptionTR" : "The artist’s Temple of Safety comprises 16 text‑based works discussing domestic abuse and coercive control, installed near London’s Waterloo station and also featured in the Royal Academy’s Summer Exhibition.",
+          "group" : "Domestic abuse public art",
+          "id" : "https:\/\/ocula.com\/magazine\/art-news\/wilma-woolfs-billboards-london\/",
+          "link" : "https:\/\/ocula.com\/magazine\/art-news\/wilma-woolfs-billboards-london\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/wilma-woolfs-billboards-london\/"
+            }
+          ],
+          "titleTR" : "Wilma Woolf’s Billboards Highlight the Realities of Domestic Abuse"
+        },
+        {
+          "atomID" : "https:\/\/ocula.com\/magazine\/opinion\/cheng-xinhao-rainway-beijing-yunnan\/",
+          "category" : "Culture",
+          "descriptionTR" : "As part of his exhibition tracing historical journeys in Yunnan, Cheng Xinhao takes a train back through time to revisits and reinterpret a 1937 travelogue and a 1954 woodblock print.",
+          "group" : "Railway memory exhibition",
+          "id" : "https:\/\/ocula.com\/magazine\/opinion\/cheng-xinhao-rainway-beijing-yunnan\/",
+          "link" : "https:\/\/ocula.com\/magazine\/opinion\/cheng-xinhao-rainway-beijing-yunnan\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/opinion\/cheng-xinhao-rainway-beijing-yunnan\/"
+            }
+          ],
+          "titleTR" : "Cheng Xinhao Rediscovers the Magic of the Railway"
+        },
+        {
+          "atomID" : "https:\/\/ocula.com\/magazine\/conversations\/kelly-akashi-fire-lisson-interview-los-angeles\/",
+          "category" : "Culture",
+          "descriptionTR" : "Kelly Akashi lost her home in the 2025 Los Angeles wildfires. Still navigating the aftermath, her exhibition, Heirloom, gives her a chance to examine the psychological weight and meaning of familiar objects as she recreates them sculpturally.",
+          "group" : "Los Angeles wildfire art",
+          "id" : "https:\/\/ocula.com\/magazine\/conversations\/kelly-akashi-fire-lisson-interview-los-angeles\/",
+          "link" : "https:\/\/ocula.com\/magazine\/conversations\/kelly-akashi-fire-lisson-interview-los-angeles\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/conversations\/kelly-akashi-fire-lisson-interview-los-angeles\/"
+            }
+          ],
+          "titleTR" : "‘I’m Not Going to Let This Mean Nothing’: Kelly Akashi Reimagines the Ruins of Her Fire-Ravaged Home"
+        },
+        {
+          "atomID" : "https:\/\/ocula.com\/magazine\/spotlight\/sunpride-seoul-spectrosynthesis-queer-art\/",
+          "category" : "Culture",
+          "descriptionTR" : "Spectrosynthesis IV, the fourth edition of Sunpride Foundation’s celebration of queer art in Asia, reminds us that LGBTQ+ communities continue to struggle with mainstream acceptance.",
+          "group" : "Queer art in Asia",
+          "id" : "https:\/\/ocula.com\/magazine\/spotlight\/sunpride-seoul-spectrosynthesis-queer-art\/",
+          "link" : "https:\/\/ocula.com\/magazine\/spotlight\/sunpride-seoul-spectrosynthesis-queer-art\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/spotlight\/sunpride-seoul-spectrosynthesis-queer-art\/"
+            }
+          ],
+          "titleTR" : "How Queer Art in Asia Blossomed"
+        },
+        {
+          "atomID" : "https:\/\/ocula.com\/magazine\/conversations\/sophia-loeb-exhibition-brazil-london\/",
+          "category" : "Culture",
+          "descriptionTR" : "The Brazilian artist’s new exhibition in London celebrates dawn’s changing colours, English fog and Brazilian humidity.",
+          "group" : "Light and atmosphere",
+          "id" : "https:\/\/ocula.com\/magazine\/conversations\/sophia-loeb-exhibition-brazil-london\/",
+          "link" : "https:\/\/ocula.com\/magazine\/conversations\/sophia-loeb-exhibition-brazil-london\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/conversations\/sophia-loeb-exhibition-brazil-london\/"
+            }
+          ],
+          "titleTR" : "‘Light Is the Most Important Thing for Life’: Sophia Loeb’s Visions of Luminescence"
+        },
+        {
+          "atomID" : "https:\/\/www.artforum.com\/features\/the-catfish-knows-first-alexandre-estrela-on-art-of-seismic-anticipation-1234752037\/",
+          "category" : "Culture",
+          "descriptionTR" : "At Venice's Portuguese pavilion, planetary tremors drive a mise-en-scène of animal intuition and machine perception",
+          "group" : "Seismic art and perception",
+          "id" : "https:\/\/www.artforum.com\/features\/the-catfish-knows-first-alexandre-estrela-on-art-of-seismic-anticipation-1234752037\/",
+          "link" : "https:\/\/www.artforum.com\/features\/the-catfish-knows-first-alexandre-estrela-on-art-of-seismic-anticipation-1234752037\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/features\/the-catfish-knows-first-alexandre-estrela-on-art-of-seismic-anticipation-1234752037\/"
+            }
+          ],
+          "titleTR" : "The Catfish Knows First: Alexandre Estrela on His Art of Seismic Anticipation"
+        },
+        {
+          "atomID" : "https:\/\/www.moussemagazine.it\/magazine\/jessi-reaves-process-invented-the-mirror-american-academy-of-arts-and-letters-new-york-2026",
+          "category" : "Culture",
+          "descriptionTR" : "Jessi Reaves (b. 1986; Portland, OR) makes sculptures that confront the assumptions and values embedded in objects of daily life. Early works incorporate severed limbs of mid-century furniture in crude constructions that humorously question the elevation of clean lines and rational forms to universal good taste. Recent sculptures have become visually dense, using handiwork and\nJessi Reaves (b. 1986; Portland, OR) makes sculptures that confront the assumptions and values embedded in objects of daily life. Early works incorporate severed limbs of mid-century furniture in crude constructions that humorously question the elevation of clean lines and rational forms to universal good taste. Recent sculptures have become visually dense, using handiwork and ornamentation to achieve an almost grotesque sense of accumulation. \nThe works in process invented the mirror revolve loosely around Reaves’s interest in objects that reflect our evolving relationship to labor and the handmade. Some sculptures contain simple woodworking projects, such as carved wooden bowls with the crude marks of a hobbyist’s practice. Others incorporate objects of domestic self-sufficiency, such as rotating machines like lazy Susans or bachelor’s stools, convertible pieces of furniture designed in the eighteenth century for single men that transform with a toggle. A distorted image of a New Deal mural of men mining steel and milling lumber grounds the installation. \nThe exhibition began at the Walker Art Center in Minneapolis last fall. At the Walker, Reaves made over the gallery with elements of “municipal dimensionality,” including a drooping green curtain hung at the awkward yet practical height where public buildings add wainscoting or special paint to protect their walls from wear. At Arts and Letters, Reaves has altered and remixed some of these display materials to create modular sculptures that will join the other works in the show. \n\nat American Academy of Arts and Letters, New York until July 3, 2026",
+          "group" : "Jessi Reaves exhibition",
+          "id" : "https:\/\/www.moussemagazine.it\/magazine\/jessi-reaves-process-invented-the-mirror-american-academy-of-arts-and-letters-new-york-2026",
+          "link" : "\/magazine\/jessi-reaves-process-invented-the-mirror-american-academy-of-arts-and-letters-new-york-2026",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mousse Magazine",
+              "url" : "\/magazine\/jessi-reaves-process-invented-the-mirror-american-academy-of-arts-and-letters-new-york-2026"
+            }
+          ],
+          "titleTR" : "Jessi Reaves “process invented the mirror” at American Academy of Arts and Letters, New York"
+        },
+        {
+          "atomID" : "https:\/\/www.moussemagazine.it\/magazine\/something-that-flees-the-hands-museum-kurhaus-kleve-2026",
+          "category" : "Culture",
+          "descriptionTR" : "The Museum Kurhaus Kleve (MKK) and Residence NRW+ present the exhibition something that flees the hands. Works by seven international artists dialogue with parts of the museum’s current collection display. In doing so, the exhibition inscribes itself into the existing conventions of presentation and mediation at MKK, while simultaneously taking these as the subject of its own\nThe Museum Kurhaus Kleve (MKK) and Residence NRW+ present the exhibition something that flees the hands. Works by seven international artists dialogue with parts of the museum’s current collection display. In doing so, the exhibition inscribes itself into the existing conventions of presentation and mediation at MKK, while simultaneously taking these as the subject of its own inquiry.\nWhat escapes the hands cannot be held. It is in transition, in motion. The exhibition’s title refers to the moment in which something slips away before it can be grasped, when systems of order encounter something that resists stabilization. In this sense, the title invokes both the literal act of grasping with one’s hands and, metaphorically, non-hierarchical forms of knowledge that are mobile and ephemeral. The exhibition thus also questions the epistemological premises of the museum and seeks concrete ways of moving within and beyond them.\nsomething that flees the hands incorporates traces of works from the preceding collection display, thereby resisting the conventional temporal sequences of art presentation. Bodies, collections, and works appear not as coherent, stable, and legible, but as being in transition. The exhibition brings together new productions and existing works that operate within this tension, between the institutional claim to legibility and control and artistic strategies of opacity and refusal. The participating artists explore the conventions and value systems that structure the collection and display of art, as well as institutional bureaucracies and administrative procedures.\nTobias Hohn and Stanton Taylor turn their attention to the museum itself as an infrastructure. In the Service of Reality (Mass Death —Military History Museum of the Bundeswehr, Dresden) (2025–26) is a large-scale photograph developed for the exhibition. It documents artefacts and vitrines presented in the Military History Museum in Dresden, which are barely recognizable due to reflections. The work addresses museum displays that promise visibility yet obscure the objects on view and embed them within economic frameworks. Between commodity and exhibit, a distinct phenomenology of display emerges, in which what is meant to be shown becomes intangible, while underlying regimes of ownership and commodification come into view.\nXheneta Imeri engages with administrative processes and questions of belonging, particularly in relation to her own family and migration history. The works Attestation, 2001 (2024), Maillot Stade Genève, 1997(2024), and Archives Course de l’Escalade, 1997 (2024) comprise archival materials such as a sports jersey, a photograph, and a certificate. These are connected to her father and his membership in a local sports club in Geneva, and were also used as evidence of his local engagement during his naturalization process. The works examine how objects and administrative forms are endowed with testimonial authority, and how biographies and belonging are documented and constructed.\nWisrah C. V. da R. Celestino address institutional power and value systems in their conceptual works. The exhibited works Belonging (2022), Keys (2021), and Peso (2024), intervene at different points within the museum. Belonging is a score-based work drawing on collection objects; for Kleve, a small radio with receipt and a perfume in its original packaging were selected. Keys makes a copy of the museum’s master key available, inviting the risk of institutional breach. Peso translates the artist’s body weight into an equivalent volume of municipal water. Between measurability and (un)availability, grid and corporeality, Celestino’s works question how identity, value, and belonging are institutionally produced and how such attributions might shift.\nArthur Stachurski’s Handmade Prison Reliefs (2024) depict prison bars, locks, and architectural barriers. Drawing on a visual language associated with state authority, control, and punishment, the bronze works also reflect on the relationship between contemporary art and craft. They point to systems that classify, monitor, and restrict bodies, while simultaneously suggesting the fragility and arbitrariness of these orders.\nThe three works by Rashiyah Elanga operate between fiction and documentation. The series of staged images produced for something that flees the hands, realized as archival pigment prints, juxtaposes historically charged objects with everyday items: Congolese banknotes, matches, historical texts, and packaging materials. The compositions evoke ambiguous narrative spaces in which multiple histories overlap (2025) replaces the portrait of French physicist Blaise Pascal on Congolese franc banknotes with that of singer Mbilia Bel. By the Blanking Press (2026) incorporates fragments of a Zaïre banknote, a currency introduced shortly after Congo’s independence and abolished in 1997. Série C 6, 1976, Bobine 45 stages an archival scene in which hands in white lace gloves evoke—and distort—the figure of the archivist. The thick, differently colored frames themselves resemble display cases, offering glimpses into systems of classification and currency.\nHanni Kamaly’s large, seemingly fragile steel sculpture George Camerbach (2022) stands precariously balanced with one foot on a mound of sand from the previous collection display. Despite the use of heavy materials such as steel, copper, and brass, the sculpture appears unstable, as if under constant pressure. Named after victims of racist violence, Kamaly’s works address absences in archives and public discourse and oppose nationalist and anti-immigration politics. Amad Ahmad (2019–2021) refers to a Syrian man who died in 2018 after being wrongfully detained in Kleve. Through their abstraction and scale, the works propose an antiracist monumental practice that resists representation and appropriation.\nSultan Çoban’s work Berfîn (2026), Kurdish for “snow,” was developed for the exhibition and occupies the museum’s municipal wedding room. Within the historical setting of the former spa building, the installation reflects the institution of marriage from an intergenerational perspective. Incorporating materials used in traditional rituals such as dowries, it reveals how personal biographies are entangled with social conventions and economic dependencies.\nMona Hatoum’s deformed walking stick (2011), from the MKK collection, undermines any promise of stability. Made of soft silicone, the object collapses under its own weight, embodying both material and psychological fragility. For something that flees the hands, it is no longer fixed to the wall. Unsecured, it follows the logic of its material and eludes curatorial fixation—thereby calling into question the very notion of museum stability.  Curators: Anneliese Ostertag & Antoine Simeão Schalk\n\nat Museum Kurhaus Kleve until June 28, 2026",
+          "group" : "Museum display and refusal",
+          "id" : "https:\/\/www.moussemagazine.it\/magazine\/something-that-flees-the-hands-museum-kurhaus-kleve-2026",
+          "link" : "\/magazine\/something-that-flees-the-hands-museum-kurhaus-kleve-2026",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mousse Magazine",
+              "url" : "\/magazine\/something-that-flees-the-hands-museum-kurhaus-kleve-2026"
+            }
+          ],
+          "titleTR" : "“something that flees the hands” at Museum Kurhaus Kleve"
+        },
+        {
+          "atomID" : "https:\/\/www.moussemagazine.it\/magazine\/roberto-casti-a-melody-from-the-outside-simondi-gallery-turin-2026",
+          "category" : "Culture",
+          "descriptionTR" : "Galleria Simóndi is pleased to present A Melody from the Outside, the first solo exhibition at the gallery by Roberto Casti (Iglesias, 1992), artist and musician who lives and works between Milan and Iglesias. A key concept in his practice is interdependence, which inextricably links the individual to the community, the human being to the planet\nGalleria Simóndi is pleased to present A Melody from the Outside, the first solo exhibition at the gallery by Roberto Casti (Iglesias, 1992), artist and musician who lives and works between Milan and Iglesias. A key concept in his practice is interdependence, which inextricably links the individual to the community, the human being to the planet they inhabit, and the audience to the artwork or the artistic event. Environmental and often marginal elements—sound, light, production waste, dust—become devices for rethinking the complexity and precariousness of existence, challenging an anthropocentric vision of reality.\nThe following text was written cooperatively according to the principle of the “exquisite corpse”: only at the end of the process were we able to read it in its entirety. The reflections were prompted by the last words of each paragraph, highlighted in green. The choice of this method is linked to the work of Roberto Casti, who often builds a bridge to the outside, understood as that which remains unknown and seemingly elusive: approaching the thoughts of the Other without fully knowing them thus becomes a form of shared play, an exercise in proximity that connects and, at the same time, brings people closer.\nROBERTO CASTI: I hear a melody coming from outside. \nSometimes it consists of eerie metallic sounds, like those of indoor water-pipes; sometimes of creaks and electrical buzzes; occasionally it takes the form of cracks and mould on the ceiling, sometimes it resembles the sinister sounds of animal paws coming from the attic. This composition is a sort of “ghost track”, embedded in the sounds of my daily life—inside the house—and those of the city, of the urban backdrop. A sort of bridge between two seemingly distinct worlds that, paradoxically, helps awaken a dormant consciousness; it helps me remember that this place, my home, is the same complex field that lies outside—beyond the insulated walls and the square meters, beyond the armoured doors and soundproof windows. It is an alignment (as Eduardo Kohn would say), an expansion of the individual point of view, an attempt to cling to something other than oneself. And it is this bridge that creates a world. As when I listen and translate a soundscape into something different (1), but preserving the same complexities, I place myself within this world, even if only briefly, while letting go of my individual integrity.\nFRANCESCA SIMONDI: The soundscape, by its very nature, is a complex web of elements in which sound triggers memories, recollections, and emotions. Some places remain etched in our memory through their music. When I think of Istanbul, for example, a richly toned soundscape comes to life: a complex melody, woven from the muezzin’s calls to prayer overlapping in the urban space, the cries of seagulls flying over the Galata Bridge, the layered sounds of Taksim, a shifting threshold between tradition and modernity, and the bustle of the bazaars, where haggling becomes rhythm and cadence. In this sense, our thoughts turn to R. Murray Schafer’s The Soundscape: Our Sonic Environment and the Tuning of the World, in which the author regards the world as a macrocosmic musical composition. His text echoes both the contemplative experience described in Thoreau’s Walden, where listening to nature becomes a practice of knowledge, and John Cage’s radical gesture in 4’33’’, in which silence reveals itself to be anything but absence, instead opening onto a multiplicity of latent sounds. The soundscape, then, is not only what surrounds us, but what we choose—or learn—to listen to.\nRC: To listen, you must open a window, a breach that suddenly erases the domestic walls and dissolves my physicality – or rather, binds it inextricably to something other than me. My gaze is no longer connected to my mind, my molecules are those of the air and the things before me, my vibration is a universal tremor. A spatiotemporal awareness that may last very little, but which helps us feel part of a complexity that we cannot truly grasp. And so, our domestic rooms – from seemingly neutral places, shaped by the idea of possession and private property – become haunted places (2), in which individual (and human) pre-eminence fails.\nFS: Reflecting on the concept of a haunted place and, at the same time, that of possession and private property brings me back to a thought I often return to, especially when I’m in places I feel are mine, like my home or gallery. I wonder how many lives—human, plant, and animal—have stratified into the memory of that space: how many passages, how many tears, how many moments of joy or anger a place has collected over the years, and even centuries, when perhaps it didn’t yet exist in its architectural form, but was simply soil, earth. And inevitably I think that one day we too will be part of that memory, fragments of a vast and impalpable whole. I reflect on the meaning of life, simultaneously dense and ephemeral, on its inevitable and necessary flow.\nRC: And it is precisely this flow, composed of individual fragments of a common but elusive present, that becomes a flow of collective awareness that suddenly overflows the walls of my living room. Of course, the house is still my refuge, but it is also a place of critical alignment (3) with the outside, of continuous rethinking of reality. By forgetting to exercise a daily alignment with the outside, I risk falling into the trap of normality – the same one that renders us helpless in the face of pandemics, wars, genocides and climate disasters. Events that suddenly highlight the relationships of interdependence in which we are unconsciously immersed. The house is suddenly invaded from the outside: it can become a constraint, a place of terror; it can suddenly cease to exist, annihilated by air raids or natural disasters; or transform into an even more precarious structure—like a tent—or into an open space, defined only by objects functional to survival, such as mattresses and sleeping bags. Capturing this strange melody that haunts me here, in this place seemingly far from the rubble and devastation, means exercising an awareness necessary for building a new home: a place with shifting foundations and broad, layered roots, a network that exchanges not only energy and information, but also desires for resistance and ideals of future coexistence.\nFS: My work often requires me to listen to and experience firsthand stories of war and devastation from distant places, which thus suddenly become close. I just finished speaking with a Lebanese artist friend who, in recent months, with great difficulty, managed to bring her mother, who was in Beirut, her home, her land of origin, to Europe. Her entire family is now fragmented. And as I was listening to her voice, shot through with weariness and pain, I realized how those fractures (4) are never confined exclusively to a geographical elsewhere, but rather insinuate themselves into relationships, bodies, and everyday life. It is perhaps precisely in this gap—between distance and proximity—that the “strange melody” you speak of takes shape: a call we cannot ignore, because it concerns us, even when we believe we are immune to it.\n(1) ARIA is a series that the artist creates starting from listening to the noises coming from outside his studio. Through the translation of sound into a graphic sign, Roberto Casti uses graphite to mark time and movements in space on the canvas, giving life to an apparent white monochrome that reveals the complexity of its compositional elements only upon close observation.  (2) From the Depths of the Earth is a new sound and environmental installation that transforms a domestic room into a haunted place. The objects that make up the work function as sound boxes for a single musical composition, created through the recording of marginal sounds coming from elements or devices that connect the (domestic) interior with the (global) exterior. (3) The work Aleph (Milan-Berlin-Lisbon-Milan-Putignano-Turin) is a sculpture in progress, composed of a typewriter and a potentially infinite roll of paper. The sequence of questions, to which the public is invited to contribute, becomes a device for relating the individual present to the global one. (4) The cracks are the protagonists of two works that open and close the exhibition: a work from the Disegni verdi series — in which the artist highlights a process of natural production and regeneration by tracing the folds of a worn sheet of paper — and Suggestion(Graça District, Lisbon), a photographic and luminous work that suggests a dissolution of the boundaries between public and private space.\nat Simóndi Gallery, Turin until June 18, 2026",
+          "group" : "Soundscape and interdependence",
+          "id" : "https:\/\/www.moussemagazine.it\/magazine\/roberto-casti-a-melody-from-the-outside-simondi-gallery-turin-2026",
+          "link" : "\/magazine\/roberto-casti-a-melody-from-the-outside-simondi-gallery-turin-2026",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-11T21:57:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mousse Magazine",
+              "url" : "\/magazine\/roberto-casti-a-melody-from-the-outside-simondi-gallery-turin-2026"
+            }
+          ],
+          "titleTR" : "Roberto Casti “A melody from the outside” at Simóndi Gallery, Turin"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-11T21:57:01Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    }
+  ],
+  "week" : "2026-W21"
+}
