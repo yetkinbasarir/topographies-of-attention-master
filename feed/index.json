@@ -1,7 +1,14 @@
 {
-  "currentWeek" : "2026-W21",
+  "currentWeek" : "2026-W26",
   "feedVersion" : "1.0",
   "weeks" : [
+    {
+      "label" : "22-28 HAZİRAN",
+      "packetCount" : 25,
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "url" : "feed\/2026-W26.json",
+      "week" : "2026-W26"
+    },
     {
       "label" : "18-24 MAYIS",
       "packetCount" : 2,
