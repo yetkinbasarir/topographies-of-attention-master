@@ -1,0 +1,1567 @@
+{
+  "label" : "22-28 HAZİRAN",
+  "publishedAt" : "2026-06-11T23:25:16Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+          "category" : "Human Rights",
+          "descriptionTR" : "The Pope is appealing for a humane approach and respectful welcome for migrants seeking a better life.",
+          "group" : "Migrant rescue appeal",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Pope Leo visits Canary Islands to highlight perilous journeys of migrants"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/11\/pope-leo-xiv-casts-wreath-into-sea-in-memory-of-migrants-lost-on-atlantic-route",
+          "category" : "Human Rights",
+          "descriptionTR" : "Pope Leo XIV threw a floral wreath into the waters off Spain's Canary Islands to honour migrants who died attempting the dangerous Atlantic crossing. The pontiff also condemned indifference to the plight of migrants during his visit.",
+          "group" : "Migrant rescue appeal",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/11\/pope-leo-xiv-casts-wreath-into-sea-in-memory-of-migrants-lost-on-atlantic-route",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/11\/pope-leo-xiv-casts-wreath-into-sea-in-memory-of-migrants-lost-on-atlantic-route",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/11\/pope-leo-xiv-casts-wreath-into-sea-in-memory-of-migrants-lost-on-atlantic-route"
+            }
+          ],
+          "titleTR" : "Pope Leo XIV casts wreath into sea in memory of migrants lost on Atlantic route"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/11\/pope-leo-migrant-deaths-spain-dock-of-shame",
+          "category" : "Human Rights",
+          "descriptionTR" : "Pontiff calls on leaders to treat migrants more humanely as he concludes week-long Spanish tour in Gran Canaria\nThe constant flow of people embarking in small, rickety boats to migrate abroad should force a reckoning as to why we have built a world where so many “must risk death to seek life”, Pope Leo has said as he warned: “We cannot grow accustomed to counting the dead.”\nThursday’s speech in the Canary Islands, on the final leg of the pontiff’s week-long tour of Spain, contained Leo’s most pointed comments to date on migration.",
+          "group" : "Pope Leo migration",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/11\/pope-leo-migrant-deaths-spain-dock-of-shame",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/11\/pope-leo-migrant-deaths-spain-dock-of-shame",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/11\/pope-leo-migrant-deaths-spain-dock-of-shame"
+            }
+          ],
+          "titleTR" : "Pope Leo rails against migrant deaths on visit to Spain’s ‘dock of shame’"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/pope-leo-bows-to-migrants-dignity-in-gran-canaria\/a-77510830?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Human Rights",
+          "descriptionTR" : "The pope visited the port of Arguineguin, a flashpoint of a migration crisis in the Canary Islands. He argued European leaders cannot claim human dignity while allowing the Mediterranean to become an \"unmarked grave.\"",
+          "group" : "Pope Leo migration",
+          "id" : "https:\/\/www.dw.com\/en\/pope-leo-bows-to-migrants-dignity-in-gran-canaria\/a-77510830?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/pope-leo-bows-to-migrants-dignity-in-gran-canaria\/a-77510830?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/pope-leo-bows-to-migrants-dignity-in-gran-canaria\/a-77510830?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Pope Leo bows to migrants' 'dignity' in Gran Canaria"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/11\/aux-canaries-le-pape-leon-xiv-denonce-l-indifference-envers-les-migrants-nous-ne-pouvons-pas-nous-accoutumer-a-compter-les-morts_6700780_3210.html",
+          "category" : "Human Rights",
+          "descriptionTR" : "Le chef de l’Eglise catholique achève, jeudi et vendredi, sa visite en Espagne dans l’archipel que s’efforcent d’atteindre des exilés venus du continent africain voisin. Dans le même registre que son prédécesseur, François, il a affirmé que leurs destins interrogent « ce qu’il reste de notre humanité ».",
+          "group" : "Migration and dignity",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/11\/aux-canaries-le-pape-leon-xiv-denonce-l-indifference-envers-les-migrants-nous-ne-pouvons-pas-nous-accoutumer-a-compter-les-morts_6700780_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/11\/aux-canaries-le-pape-leon-xiv-denonce-l-indifference-envers-les-migrants-nous-ne-pouvons-pas-nous-accoutumer-a-compter-les-morts_6700780_3210.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/11\/aux-canaries-le-pape-leon-xiv-denonce-l-indifference-envers-les-migrants-nous-ne-pouvons-pas-nous-accoutumer-a-compter-les-morts_6700780_3210.html"
+            }
+          ],
+          "titleTR" : "Aux Canaries, le pape Léon XIV dénonce l’indifférence envers les migrants : « Nous ne pouvons pas nous accoutumer à compter les morts »"
+        }
+      ],
+      "packetSpot" : "During his visit to the Canary Islands, Pope Leo XIV highlighted the dangers faced by migrants and condemned the indifference towards their deaths. His actions included casting a wreath into the sea in memory of those lost and speaking passionately against the ongoing tragedies.",
+      "packetTitle" : "Pope Leo XIV's Advocacy for Migrants in the Canary Islands",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/spanien-afrika-papst-migranten-100.html",
+          "category" : "Human Rights",
+          "descriptionTR" : "Auf Gran Canaria trifft Papst Leo XIV in einem Hafen mit Migranten zusammen. Er fordert, Europa dürfe nicht hinnehmen, dass das Mittelmeer und der Atlantik zu \"Friedhöfen ohne Grabsteine\" würden.\n￼   Auf Gran Canaria trifft Papst Leo XIV in einem Hafen mit Migranten zusammen. Er fordert, Europa dürfe nicht hinnehmen, dass das Mittelmeer und der Atlantik zu \"Friedhöfen ohne Grabsteine\" würden.[mehr]",
+          "group" : "Migration at sea",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/spanien-afrika-papst-migranten-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/spanien-afrika-papst-migranten-100.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/spanien-afrika-papst-migranten-100.html"
+            }
+          ],
+          "titleTR" : "Papst beklagt Gleichgültigkeit gegenüber Schicksal von Migranten"
+        },
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/europe\/20260611-pope-condemns-indifference-towards-migrants-on-canaries-trip",
+          "category" : "Human Rights",
+          "descriptionTR" : "Pope Leo XIV on Thursday visited Spain's Canary Islands, the once-notorious centre of the European migration debate, where he threw a bouquet of flowers in the sea in tribute to the migrants who perished trying to reach the Atlantic archipelago. The pontiff made a plea for \"human dignity\" and condemned leaders, including Christians, who turn them away with \"indifference\".",
+          "group" : "Migration at sea",
+          "id" : "https:\/\/www.france24.com\/en\/europe\/20260611-pope-condemns-indifference-towards-migrants-on-canaries-trip",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260611-pope-condemns-indifference-towards-migrants-on-canaries-trip",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260611-pope-condemns-indifference-towards-migrants-on-canaries-trip"
+            }
+          ],
+          "titleTR" : "Pope casts flowers in sea in tribute to drowned migrants during Canary Islands visit"
+        }
+      ],
+      "packetSpot" : "During his visit to the Canary Islands, Pope Francis paid tribute to migrants who drowned at sea by casting flowers into the water. This act highlights the ongoing tragedy of migrant deaths and the global indifference towards their plight.",
+      "packetTitle" : "Pope Francis' Tribute to Drowned Migrants",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/11\/world-cup-has-trump-already-ruined-the-vibes-meps-debate-in-the-ring",
+          "category" : "Sports",
+          "descriptionTR" : "The World Cup is on, the single biggest sport event of the year, followed by millions of people around the world. So far, the vibes are strangely subdued. Ticket sales and hotel bookings are below expectations and immigration issues are making headlines - especially in the US.",
+          "group" : "World Cup 2026 kickoff",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/11\/world-cup-has-trump-already-ruined-the-vibes-meps-debate-in-the-ring",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/11\/world-cup-has-trump-already-ruined-the-vibes-meps-debate-in-the-ring",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/11\/world-cup-has-trump-already-ruined-the-vibes-meps-debate-in-the-ring"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/11\/fans-descend-on-mexico-city-stadium-ahead-of-world-cup-kickoff"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/11\/the-2026-world-cup-kicks-off-today-heres-everything-you-need-to-know"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/11\/haiti-embraces-world-cup-dream-after-54-year-wait"
+            }
+          ],
+          "titleTR" : "World Cup: Has Trump already ruined the vibes? MEPs debate in The Ring"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/world-cup-kicks-off-in-mexico-city\/a-77511676?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Sports",
+          "descriptionTR" : "Mexico won against South Africa after the opening ceremony in Mexico City which featured Colombian star Shakira and Nigerian singer Burna Boy. Football fans are set for nearly 40 days of action across three countries.",
+          "group" : "World Cup opening",
+          "id" : "https:\/\/www.dw.com\/en\/world-cup-kicks-off-in-mexico-city\/a-77511676?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/world-cup-kicks-off-in-mexico-city\/a-77511676?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/world-cup-kicks-off-in-mexico-city\/a-77511676?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "World Cup kicks off in Mexico City"
+        }
+      ],
+      "packetSpot" : "The 2026 World Cup has officially begun, drawing fans to Mexico City and sparking global excitement. As the tournament kicks off, it also becomes a platform for political debates, reflecting its wide-reaching impact.",
+      "packetTitle" : "World Cup 2026 Begins Amid Global Excitement and Political Debates",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/10\/somalias-world-cup-referee-returns-home-to-heros-welcome-after-us-entry-denial",
+          "category" : "Sports",
+          "descriptionTR" : "Somali referee Omar Artan was welcomed by hundreds of supporters in Mogadishu after being denied entry to the United States and removed from the 2026 World Cup officials list. Artan vowed to return for the next tournament.",
+          "group" : "World Cup entry dispute",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/10\/somalias-world-cup-referee-returns-home-to-heros-welcome-after-us-entry-denial",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/10\/somalias-world-cup-referee-returns-home-to-heros-welcome-after-us-entry-denial",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/10\/somalias-world-cup-referee-returns-home-to-heros-welcome-after-us-entry-denial"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/11\/somali-referee-denied-entry-to-the-us-set-to-officiate-uefa-super-cup-final"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/10\/infantino-defends-world-cup-ticket-prices-says-fans-should-chill-about-ref-denied-us-entry"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/10\/somali-world-cup-referee-omar-artan-receives-warm-welcome-home-after-being-denied-entry-to"
+            }
+          ],
+          "titleTR" : "Somalia's World Cup referee returns home to hero's welcome after US entry denial"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/somali-referee-denied-us-entry-dropped-from-fifa-world-cup-2026\/a-77467197?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Sports",
+          "descriptionTR" : "Omar Artan, Africa's top referee in 2025, was set to become the first Somali national to officiate at a FIFA World Cup before being denied entry by US authorities",
+          "group" : "World Cup visa dispute",
+          "id" : "https:\/\/www.dw.com\/en\/somali-referee-denied-us-entry-dropped-from-fifa-world-cup-2026\/a-77467197?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/somali-referee-denied-us-entry-dropped-from-fifa-world-cup-2026\/a-77467197?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/somali-referee-denied-us-entry-dropped-from-fifa-world-cup-2026\/a-77467197?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Somali referee denied US entry, dropped from FIFA World Cup 2026"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/11\/coupe-du-monde-2026-l-arbitre-somalien-omar-abdulkadir-artan-refoule-des-etats-unis-dirigera-la-supercoupe-d-espagne_6700753_3212.html",
+          "category" : "Sports",
+          "descriptionTR" : "Désigné meilleur arbitre de l’année 2025 par la Confédération africaine de football, Omar Abdulkadir Artan s’est vu refuser l’entrée sur le territoire américain, samedi 6 juin. Il disposait pourtant d’un visa valide.",
+          "group" : "World Cup visa dispute",
+          "id" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/11\/coupe-du-monde-2026-l-arbitre-somalien-omar-abdulkadir-artan-refoule-des-etats-unis-dirigera-la-supercoupe-d-espagne_6700753_3212.html",
+          "link" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/11\/coupe-du-monde-2026-l-arbitre-somalien-omar-abdulkadir-artan-refoule-des-etats-unis-dirigera-la-supercoupe-d-espagne_6700753_3212.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/11\/coupe-du-monde-2026-l-arbitre-somalien-omar-abdulkadir-artan-refoule-des-etats-unis-dirigera-la-supercoupe-d-espagne_6700753_3212.html"
+            }
+          ],
+          "titleTR" : "Coupe du monde 2026 : l’arbitre somalien Omar Abdulkadir Artan, refoulé des Etats-Unis, dirigera la supercoupe d’Europe"
+        }
+      ],
+      "packetSpot" : "Somali referee Omar Artan was denied entry to the US, affecting his participation in the FIFA World Cup 2026. Despite this setback, Artan received a hero's welcome upon returning to Somalia and is set to officiate the UEFA Super Cup final.",
+      "packetTitle" : "Somali Referee Omar Artan's Journey After US Entry Denial",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/11\/video-new-york-celebre-la-victoire-historique-des-knicks-face-au-spurs_6700744_1669088.html",
+          "category" : "Sports",
+          "descriptionTR" : "Le club de basket new-yorkais a battu les Spurs de San Antonio 107-106, leur offrant ainsi leur troisième victoire en phase des finales de NBA.",
+          "group" : "New York Knicks run",
+          "id" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/11\/video-new-york-celebre-la-victoire-historique-des-knicks-face-au-spurs_6700744_1669088.html",
+          "link" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/11\/video-new-york-celebre-la-victoire-historique-des-knicks-face-au-spurs_6700744_1669088.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/videos\/video\/2026\/06\/11\/video-new-york-celebre-la-victoire-historique-des-knicks-face-au-spurs_6700744_1669088.html"
+            }
+          ],
+          "titleTR" : "VIDEO New York célèbre la victoire historique des Knicks face au Spurs"
+        },
+        {
+          "atomID" : "https:\/\/www.ft.com\/content\/e87b6307-4e21-474d-a9e0-7b251b1520f5",
+          "category" : "Sports",
+          "descriptionTR" : "Shares in Madison Square Garden Sports, which also owns hockey team the New York Rangers, have doubled in a year",
+          "group" : "Knicks ownership value",
+          "id" : "https:\/\/www.ft.com\/content\/e87b6307-4e21-474d-a9e0-7b251b1520f5",
+          "link" : "https:\/\/www.ft.com\/content\/e87b6307-4e21-474d-a9e0-7b251b1520f5",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/e87b6307-4e21-474d-a9e0-7b251b1520f5"
+            }
+          ],
+          "titleTR" : "New York Knicks’ winning streak should rub off on its owner too"
+        }
+      ],
+      "packetSpot" : "The New York Knicks have achieved a historic victory against the Spurs, marking a significant moment in their current winning streak. This success is generating excitement among fans and could have positive implications for the team's owner.",
+      "packetTitle" : "New York Knicks' Historic Victory Against the Spurs and Winning Streak",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine\/a-77474536?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Diplomacy",
+          "descriptionTR" : "The EU's 21st sanctions package includes a provision to deny entry to anyone who has served in Russia's armed forces amid the invasion of Ukraine. It will also target the so-called shadow fleet, banks and cryptocurrency.",
+          "group" : "EU Russia sanctions",
+          "id" : "https:\/\/www.dw.com\/en\/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine\/a-77474536?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine\/a-77474536?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine\/a-77474536?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "EU proposes entry ban for Russians who fought in Ukraine"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/eu-countries-demand-stricter-visa-rules-for-russians-a92931",
+          "category" : "Diplomacy",
+          "descriptionTR" : "“I want there to be no more shopping weekends. I want there to be no more fancy trips to Europe while Ukrainians are dying on the battlefield,” Sweden’s Migration Minister Johan Forssell said.",
+          "group" : "EU visa restrictions",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/eu-countries-demand-stricter-visa-rules-for-russians-a92931",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/eu-countries-demand-stricter-visa-rules-for-russians-a92931",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/04\/eu-countries-demand-stricter-visa-rules-for-russians-a92931"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/09\/eu-proposes-visa-ban-on-russian-war-veterans-and-new-oil-sanctions-a92963"
+            }
+          ],
+          "titleTR" : "EU Countries Demand Stricter Visa Rules for Russians"
+        }
+      ],
+      "packetSpot" : "The European Union is moving to implement stricter visa regulations and additional sanctions targeting Russians involved in the Ukraine conflict, including war veterans and those connected to the oil industry.",
+      "packetTitle" : "EU Proposes New Sanctions and Visa Restrictions on Russians Involved in Ukraine Conflict",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/articles\/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+          "category" : "Security",
+          "descriptionTR" : "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
+          "group" : "Ukraine strikes Russia",
+          "id" : "https:\/\/www.bbc.com\/news\/articles\/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.com\/news\/articles\/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cn75l36vdd8o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ukraine says missiles hit military plant deep inside Russia"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/war-in-ukraine-kyiv-strikes-key-russian-supply-lines\/a-77480640?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "Russian troops rely on supplies via the land corridor to Crimea, but Ukrainian forces are now able to launch concentrated attacks along the critical route. Experts say this indicates growing Russian vulnerability.",
+          "group" : "Ukraine supply line attacks",
+          "id" : "https:\/\/www.dw.com\/en\/war-in-ukraine-kyiv-strikes-key-russian-supply-lines\/a-77480640?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/war-in-ukraine-kyiv-strikes-key-russian-supply-lines\/a-77480640?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/war-in-ukraine-kyiv-strikes-key-russian-supply-lines\/a-77480640?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "War in Ukraine: Kyiv strikes key Russian supply lines"
+        }
+      ],
+      "packetSpot" : "Ukraine is intensifying its military operations by targeting Russian supply lines and strategic locations, including a military plant and oil facilities.",
+      "packetTitle" : "Ukraine Intensifies Strikes on Russian Supply Lines and Strategic Targets",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/10\/uk-belfast-violence-leaves-homes-burnt-and-families-displaced",
+          "category" : "Security",
+          "descriptionTR" : "Belfast awoke to scenes of destruction on 10 June after anti immigration protests descended into violence across several parts of Northern Ireland, leaving homes damaged, vehicles burnt out and families displaced.",
+          "group" : "Belfast unrest",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/10\/uk-belfast-violence-leaves-homes-burnt-and-families-displaced",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/10\/uk-belfast-violence-leaves-homes-burnt-and-families-displaced",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/10\/uk-belfast-violence-leaves-homes-burnt-and-families-displaced"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/11\/clashes-erupt-as-police-use-water-cannon-near-belfast"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/10\/cars-and-homes-burn-as-unrest-erupts-in-belfast-after-knife-attack"
+            }
+          ],
+          "titleTR" : "UK: Belfast violence leaves homes burnt and families displaced"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing\/a-77479452?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "Belfast police appealed for calm after a violent knife attack caught on videophone prompted calls for anti-immigration protests. This followed a week of migration-related riots last June in Northern Ireland.",
+          "group" : "Northern Ireland stabbing unrest",
+          "id" : "https:\/\/www.dw.com\/en\/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing\/a-77479452?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing\/a-77479452?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing\/a-77479452?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/belfast-krawalle-108.html",
+          "category" : "Security",
+          "descriptionTR" : "\"Troubles\" - im Englischen steht das für den jahrzehntelangen Bürgerkrieg in Nordirland. Viele in Belfast fühlen sich gerade daran erinnert. Die zweite Nacht in Folge gab es Randale - angestachelt von Rechtsextremen. Von F. Hoppen.\n￼   \"Troubles\" - im Englischen steht das für den jahrzehntelangen Bürgerkrieg in Nordirland. Viele in Belfast fühlen sich gerade daran erinnert. Die zweite Nacht in Folge gab es Randale - angestachelt von Rechtsextremen. Von F. Hoppen.[mehr]",
+          "group" : "Belfast anti-migrant riots",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/belfast-krawalle-108.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/belfast-krawalle-108.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/belfast-krawalle-108.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/nordirland-ausschreitungen-104.html"
+            }
+          ],
+          "titleTR" : "Rassistische Unruhen in Belfast: Gewalt weckt düstere Erinnerungen"
+        },
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral",
+          "category" : "Security",
+          "descriptionTR" : "Northern Ireland braced Wednesday for a potential second night of violence directed at immigrants, following unrest that UK authorities say was stoked by far-right activists on social media after a brutal Belfast stabbing. Britain's media regulator warned online platforms of possible legal consequences if their services are used to incite ‌violence. FRANCE 24's Mark Owen speaks with Jack Crangle, Queen's University Belfast Lecturer in Contemporary British History.",
+          "group" : "Belfast anti-migrant riots",
+          "id" : "https:\/\/www.france24.com\/en\/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral",
+          "link" : "https:\/\/www.france24.com\/en\/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/belfast-knife-attack-false-images-misinformation-fuel-anti-immigration-riots"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/tv-shows\/press-review\/20260610-is-the-far-right-exploiting-the-sickening-attack-by-a-refugee-in-belfast"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260609-uk-leaders-urge-calm-as-far-right-figures-call-for-anti-migrant-protests-over-belfast-stabbing"
+            }
+          ],
+          "titleTR" : "UK watchdog warns online platforms as Belfast riots go viral"
+        },
+        {
+          "atomID" : "https:\/\/www.ft.com\/content\/845a6ced-1b82-46e6-925c-a0863df6dfb6",
+          "category" : "Security",
+          "descriptionTR" : "Fallout from knife attack and riots accelerated by online posting, current and former officers say",
+          "group" : "Belfast riot response",
+          "id" : "https:\/\/www.ft.com\/content\/845a6ced-1b82-46e6-925c-a0863df6dfb6",
+          "link" : "https:\/\/www.ft.com\/content\/845a6ced-1b82-46e6-925c-a0863df6dfb6",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/845a6ced-1b82-46e6-925c-a0863df6dfb6"
+            }
+          ],
+          "titleTR" : "‘Toxic’ social media overwhelms police response to Belfast violence"
+        }
+      ],
+      "packetSpot" : "Riots broke out in Belfast following a stabbing incident, with misinformation and anti-immigrant sentiment exacerbating the unrest. The violence led to property damage, displacement, and a strained police response, highlighting the role of social media in escalating tensions.",
+      "packetTitle" : "Belfast Anti-Migrant Riots Erupt Amidst Stabbing Incident and Misinformation",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/10\/iran-will-pay-the-price-for-stalled-peace-talks-us-president-donald-trump-says",
+          "category" : "Security",
+          "descriptionTR" : "CENTCOM said it struck \"multiple targets\" overnight, with explosions reported in Tehran, Bandar Abbas and across the Strait of Hormuz. Trump earlier declared Iran's military \"completely defeated\" and said negotiators had been \"playing us for suckers\".",
+          "group" : "Iran US strikes",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/10\/iran-will-pay-the-price-for-stalled-peace-talks-us-president-donald-trump-says",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/10\/iran-will-pay-the-price-for-stalled-peace-talks-us-president-donald-trump-says",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/10\/iran-will-pay-the-price-for-stalled-peace-talks-us-president-donald-trump-says"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/10\/one-dead-and-two-missing-in-missile-strike-on-tanker-near-oman"
+            }
+          ],
+          "titleTR" : "US launches fresh strikes on 'multiple targets' in Iran after Trump vows to hit 'hard'"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/iran-war-trump-calls-off-threatened-strikes-says-deal-nearly-done\/live-77498305?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "Hours after promising to hit Iran \"very hard,\" US President Trump has said he canceled the attacks, but added a naval blockade would remain in place. Follow DW for more.",
+          "group" : "Iran US strikes",
+          "id" : "https:\/\/www.dw.com\/en\/iran-war-trump-calls-off-threatened-strikes-says-deal-nearly-done\/live-77498305?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/iran-war-trump-calls-off-threatened-strikes-says-deal-nearly-done\/live-77498305?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/iran-war-trump-calls-off-threatened-strikes-says-deal-nearly-done\/live-77498305?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Iran war: Trump calls off threatened strikes, says deal nearly done"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/usa-iran-trump-angriff-waffenruhe-verhandlungen-100.html",
+          "category" : "Security",
+          "descriptionTR" : "Die Verhandlungen mit Iran stocken, die USA erhöhen den Druck: Präsident Trump hat für den Abend schwere Angriffe angekündigt. Zudem drohte er mit einer militärischen Übernahme der für Irans Ölindustrie wichtigen Insel Charg.\n￼   Die Verhandlungen mit Iran stocken, die USA erhöhen den Druck: Präsident Trump hat für den Abend schwere Angriffe angekündigt. Zudem drohte er mit einer militärischen Übernahme der für Irans Ölindustrie wichtigen Insel Charg.[mehr]",
+          "group" : "Iran nuclear pressure",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/usa-iran-trump-angriff-waffenruhe-verhandlungen-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/usa-iran-trump-angriff-waffenruhe-verhandlungen-100.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/usa-iran-trump-angriff-waffenruhe-verhandlungen-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/asien\/nahost-eskalation-usa-iran-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/trump-iran-204.html"
+            }
+          ],
+          "titleTR" : "Trump droht Iran mit Angriffen und Übernahme der Öl-Infrastruktur"
+        }
+      ],
+      "packetSpot" : "The United States, under President Trump's leadership, has launched multiple military strikes targeting Iran, escalating tensions between the two nations. These actions have included attacks on Iranian targets and infrastructure, as well as incidents involving Iran-bound vessels.",
+      "packetTitle" : "US Military Strikes Against Iran Under Trump Administration",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/10\/tehran-launches-retaliatory-attacks-on-us-bases-following-strikes-on-iran",
+          "category" : "Security",
+          "descriptionTR" : "Jordan intercepted five missiles aimed at an area hosting a major airbase near Azraq while Kuwait and Bahrain said their air defences were engaging incoming fire. The attacks followed US strikes on Iranian air defence and radar sites near the Strait of Hormuz.",
+          "group" : "Iran regional escalation",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/10\/tehran-launches-retaliatory-attacks-on-us-bases-following-strikes-on-iran",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/10\/tehran-launches-retaliatory-attacks-on-us-bases-following-strikes-on-iran",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/10\/tehran-launches-retaliatory-attacks-on-us-bases-following-strikes-on-iran"
+            }
+          ],
+          "titleTR" : "Tehran fires missiles at Jordan, Kuwait and Bahrain after renewed US strikes on Iran"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/usa-iran-trump-angriff-waffenruhe-verhandlungen-104.html",
+          "category" : "Security",
+          "descriptionTR" : "Massive Angriffe auf Iran - so hatte es US-Präsident Trump für diese Nacht angekündigt. Nur wenig später kam die Kehrtwende: Die Angriffe seien abgesagt, da es Bewegung in den Friedensgesprächen gebe. Aus Iran kamen andere Töne.\n￼   Massive Angriffe auf Iran - so hatte es US-Präsident Trump für diese Nacht angekündigt. Nur wenig später kam die Kehrtwende: Die Angriffe seien abgesagt, da es Bewegung in den Friedensgesprächen gebe. Aus Iran kamen andere Töne.[mehr]",
+          "group" : "Iran Israel conflict",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/usa-iran-trump-angriff-waffenruhe-verhandlungen-104.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/usa-iran-trump-angriff-waffenruhe-verhandlungen-104.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/usa-iran-trump-angriff-waffenruhe-verhandlungen-104.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-iran-usa-102.html"
+            }
+          ],
+          "titleTR" : "Trump sagt angekündigte Angriffe auf Iran ab"
+        }
+      ],
+      "packetSpot" : "Iran launched missile strikes on Jordan, Kuwait, and Bahrain following U.S. military actions, while a planned U.S. attack on Iran was called off by President Trump.",
+      "packetTitle" : "Iran's Missile Strikes on Middle Eastern Countries and U.S. Military Decisions",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/franco-german-fighter-jet-project-collapses-after-industry-dispute\/a-77466897?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "The next-generation aircraft project has been scrapped following company disagreements, dealing a blow to European security cooperation efforts.",
+          "group" : "European fighter jet project",
+          "id" : "https:\/\/www.dw.com\/en\/franco-german-fighter-jet-project-collapses-after-industry-dispute\/a-77466897?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/franco-german-fighter-jet-project-collapses-after-industry-dispute\/a-77466897?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/franco-german-fighter-jet-project-collapses-after-industry-dispute\/a-77466897?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Franco-German fighter jet project collapses after industry dispute"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/wirtschaft\/unternehmen\/ruestung-kampfjet-allianz-europa-100.html",
+          "category" : "Security",
+          "descriptionTR" : "Nach dem Aus des französisch-deutschen Kampfflugzeug-Projekts FCAS will ein Zusammenschluss deutscher Unternehmen ein neues Luftkampf-System für Europa entwickeln. Daran beteiligt ist auch die Rüstungssparte von Airbus.\n￼   Nach dem Aus des französisch-deutschen Kampfflugzeug-Projekts FCAS will ein Zusammenschluss deutscher Unternehmen ein neues Luftkampf-System für Europa entwickeln. Daran beteiligt ist auch die Rüstungssparte von Airbus.[mehr]",
+          "group" : "European fighter jet program",
+          "id" : "https:\/\/www.tagesschau.de\/wirtschaft\/unternehmen\/ruestung-kampfjet-allianz-europa-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/wirtschaft\/unternehmen\/ruestung-kampfjet-allianz-europa-100.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wirtschaft\/unternehmen\/ruestung-kampfjet-allianz-europa-100.html"
+            }
+          ],
+          "titleTR" : "Neue Kampfjet-Allianz von acht Rüstungsfirmen"
+        },
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/tv-shows\/spotlight\/20260610-end-of-fcas-flagship-project-marks-setback-for-franco-german-cooperation-and-european-defense",
+          "category" : "Security",
+          "descriptionTR" : "François Picard is pleased to welcome Ulrike Franke, senior policy fellow at the European Council on Foreign Relations. According to Franke, the demise of the Franco-German FCAS fighter jet project was \"not a surprise to anybody\". While acknowledging that Dassault was often perceived as \"quite difficult to deal with,\" she argues that the deeper problem lay in a structural design flaw that brought together industrial rivals who \"never really had the incentive to properly work together\".",
+          "group" : "European defence cooperation",
+          "id" : "https:\/\/www.france24.com\/en\/tv-shows\/spotlight\/20260610-end-of-fcas-flagship-project-marks-setback-for-franco-german-cooperation-and-european-defense",
+          "link" : "https:\/\/www.france24.com\/en\/tv-shows\/spotlight\/20260610-end-of-fcas-flagship-project-marks-setback-for-franco-german-cooperation-and-european-defense",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/tv-shows\/spotlight\/20260610-end-of-fcas-flagship-project-marks-setback-for-franco-german-cooperation-and-european-defense"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/fcas-project-failure-france-germany-characterised-by-totally-different-strategic-cultures"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/germany-and-france-scrap-landmark-next-generation-fighter-jet-project"
+            }
+          ],
+          "titleTR" : "End of FCAS 'flagship project' marks setback for Franco-German cooperation and European defence"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/economie\/avion-de-combat-du-futur-entre-la-france-et-lallemagne-bisbille-repetita-20260611_I3IVJOGSBVFINNYCXVIYUBYEZ4\/",
+          "category" : "Security",
+          "descriptionTR" : "L’arrêt du «système de combat aérien du futur» (Scaf) franco-allemand est un camouflet pour la France. Airbus va développer son appareil avec des industriels allemands. Mais Dassault a la capacité de produire un «super Rafale» boosté aux drones et à l’IA.",
+          "group" : "European defense project",
+          "id" : "https:\/\/www.liberation.fr\/economie\/avion-de-combat-du-futur-entre-la-france-et-lallemagne-bisbille-repetita-20260611_I3IVJOGSBVFINNYCXVIYUBYEZ4\/",
+          "link" : "https:\/\/www.liberation.fr\/economie\/avion-de-combat-du-futur-entre-la-france-et-lallemagne-bisbille-repetita-20260611_I3IVJOGSBVFINNYCXVIYUBYEZ4\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/economie\/avion-de-combat-du-futur-entre-la-france-et-lallemagne-bisbille-repetita-20260611_I3IVJOGSBVFINNYCXVIYUBYEZ4\/"
+            }
+          ],
+          "titleTR" : "Avion de combat du futur : entre la France et l’Allemagne, bisbille repetita"
+        }
+      ],
+      "packetSpot" : "The Franco-German Future Combat Air System (FCAS) project has collapsed due to industry disputes and differing strategic cultures. This marks a significant setback for European defense collaboration.",
+      "packetTitle" : "Collapse of the Franco-German FCAS Fighter Jet Project",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/11\/en-direct-guerre-en-ukraine-pres-de-50-000-personnes-privees-d-electricite-a-zaporijia_6698620_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Par ailleurs, douze personnes ont été blessées jeudi dans l’oblast de Dnipropetrovsk, dans l’est du pays.",
+          "group" : "Ukraine war infrastructure",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/11\/en-direct-guerre-en-ukraine-pres-de-50-000-personnes-privees-d-electricite-a-zaporijia_6698620_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/11\/en-direct-guerre-en-ukraine-pres-de-50-000-personnes-privees-d-electricite-a-zaporijia_6698620_3210.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/11\/en-direct-guerre-en-ukraine-pres-de-50-000-personnes-privees-d-electricite-a-zaporijia_6698620_3210.html"
+            }
+          ],
+          "titleTR" : "EN DIRECT, guerre en Ukraine : près de 50 000 personnes privées d’électricité à Zaporijia"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938",
+          "category" : "Security",
+          "descriptionTR" : "Kyiv region Governor Mykola Kalashnyk said four people were killed in an attack on a factory that makes dairy products for children.",
+          "group" : "Ukraine war strikes",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/11\/ukrainian-strikes-damage-several-bridges-linking-occupied-kherson-with-annexed-crimea-a92979"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/russian-drone-strikes-kill-two-in-ukraine-a92948"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/06\/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947"
+            }
+          ],
+          "titleTR" : "At Least 7 Killed in Overnight Russian Attacks Against Ukraine"
+        }
+      ],
+      "packetSpot" : "Recent Russian attacks in Ukraine have resulted in significant casualties and infrastructure damage, including power outages in Zaporijia and fatalities in the Kyiv region.",
+      "packetTitle" : "Russian Attacks Cause Casualties and Power Outages in Ukraine",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/europe\/20260609-russian-strikes-kill-four-in-ukraine-kharkiv-region",
+          "category" : "Security",
+          "descriptionTR" : "Russian strikes killed four people and wounded 10 others in Ukraine’s northeastern Kharkiv region, according to local officials. The attack hit the city of Chuguiv, causing fires, damaging residential buildings and vehicles, and adding to a surge in civilian casualties amid intensified fighting in recent months.",
+          "group" : "Russia Ukraine strikes",
+          "id" : "https:\/\/www.france24.com\/en\/europe\/20260609-russian-strikes-kill-four-in-ukraine-kharkiv-region",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260609-russian-strikes-kill-four-in-ukraine-kharkiv-region",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260609-russian-strikes-kill-four-in-ukraine-kharkiv-region"
+            }
+          ],
+          "titleTR" : "Russian strikes kill four, wound 10 in Ukraine’s Kharkiv region"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938",
+          "category" : "Security",
+          "descriptionTR" : "Kyiv region Governor Mykola Kalashnyk said four people were killed in an attack on a factory that makes dairy products for children.",
+          "group" : "Ukraine war strikes",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/05\/at-least-7-killed-in-overnight-russian-attacks-against-ukraine-a92938"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/07\/russian-drone-strikes-kill-two-in-ukraine-a92948"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/06\/ukraine-fires-wave-of-drones-at-russia-on-last-day-of-key-economic-forum-a92947"
+            }
+          ],
+          "titleTR" : "At Least 7 Killed in Overnight Russian Attacks Against Ukraine"
+        }
+      ],
+      "packetSpot" : "Russian military strikes have resulted in multiple casualties in different regions of Ukraine, including Kharkiv and Kyiv.",
+      "packetTitle" : "Russian Strikes in Kharkiv and Kyiv Regions Result in Multiple Casualties",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/ukraine-zaporizhzhia-nuclear-plant-s-power-cut-off\/live-77498904?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "An attack near Europe's largest nuclear power plant in Russian-occupied Ukraine has caused an outage in the area. Meanwhile, a Ukrainian drone attack has sparked a fire at a refinery in southern Russia.",
+          "group" : "Zaporizhzhia nuclear risk",
+          "id" : "https:\/\/www.dw.com\/en\/ukraine-zaporizhzhia-nuclear-plant-s-power-cut-off\/live-77498904?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/ukraine-zaporizhzhia-nuclear-plant-s-power-cut-off\/live-77498904?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/ukraine-zaporizhzhia-nuclear-plant-s-power-cut-off\/live-77498904?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Ukraine: Zaporizhzhia nuclear plant's power cut off"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/11\/en-direct-guerre-en-ukraine-pres-de-50-000-personnes-privees-d-electricite-a-zaporijia_6698620_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Par ailleurs, douze personnes ont été blessées jeudi dans l’oblast de Dnipropetrovsk, dans l’est du pays.",
+          "group" : "Ukraine war infrastructure",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/11\/en-direct-guerre-en-ukraine-pres-de-50-000-personnes-privees-d-electricite-a-zaporijia_6698620_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/11\/en-direct-guerre-en-ukraine-pres-de-50-000-personnes-privees-d-electricite-a-zaporijia_6698620_3210.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/11\/en-direct-guerre-en-ukraine-pres-de-50-000-personnes-privees-d-electricite-a-zaporijia_6698620_3210.html"
+            }
+          ],
+          "titleTR" : "EN DIRECT, guerre en Ukraine : près de 50 000 personnes privées d’électricité à Zaporijia"
+        }
+      ],
+      "packetSpot" : "The Zaporizhzhia nuclear plant has experienced a power cut, affecting nearly 50,000 people in the region. This incident highlights ongoing risks associated with the plant's operation amidst the conflict.",
+      "packetTitle" : "Power Disruptions at Zaporizhzhia Nuclear Plant Affect Local Electricity Supply",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "category" : "Security",
+          "descriptionTR" : "How can Iran's blockade of the Strait of Hormuz be broken? Retired General S. Clinton Hinote has addressed precisely that question as the former Air Force chief strategist. His conclusion? Difficult. How can Iran's blockade of the Strait of Hormuz be broken? Retired General S. Clinton Hinote has addressed precisely that question as the former Air Force chief strategist. His conclusion? Difficult.",
+          "group" : "Hormuz shipping threat",
+          "id" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "link" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Der Spiegel International",
+              "url" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss"
+            }
+          ],
+          "titleTR" : "U.S. Military Expert on Oil Tanker Convoys in the Strait of Hormuz: \"Iran Must Only Succeed Once to Trigger a Catastrophe\""
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/us-or-iran-who-will-win-the-hormuz-endurance-game\/a-77211690?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "Tehran is betting that its sanctions‑hardened economy can outlast the Strait of Hormuz crisis. Washington, meanwhile, is contending with elevated oil prices, renewed inflation pressure and rising global recession risks.",
+          "group" : "Hormuz oil crisis",
+          "id" : "https:\/\/www.dw.com\/en\/us-or-iran-who-will-win-the-hormuz-endurance-game\/a-77211690?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/us-or-iran-who-will-win-the-hormuz-endurance-game\/a-77211690?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/us-or-iran-who-will-win-the-hormuz-endurance-game\/a-77211690?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "US or Iran: Who will win the Hormuz endurance game?"
+        }
+      ],
+      "packetSpot" : "The Strait of Hormuz remains a focal point of tension as both the U.S. and Iran navigate strategies to assert control over this critical maritime passage. The potential for conflict looms as each side assesses the other's capabilities and intentions.",
+      "packetTitle" : "Tensions in the Strait of Hormuz: U.S. and Iran's Strategic Maneuvers",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing\/a-77479452?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "Belfast police appealed for calm after a violent knife attack caught on videophone prompted calls for anti-immigration protests. This followed a week of migration-related riots last June in Northern Ireland.",
+          "group" : "Northern Ireland stabbing unrest",
+          "id" : "https:\/\/www.dw.com\/en\/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing\/a-77479452?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing\/a-77479452?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing\/a-77479452?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/belfast-krawalle-108.html",
+          "category" : "Security",
+          "descriptionTR" : "\"Troubles\" - im Englischen steht das für den jahrzehntelangen Bürgerkrieg in Nordirland. Viele in Belfast fühlen sich gerade daran erinnert. Die zweite Nacht in Folge gab es Randale - angestachelt von Rechtsextremen. Von F. Hoppen.\n￼   \"Troubles\" - im Englischen steht das für den jahrzehntelangen Bürgerkrieg in Nordirland. Viele in Belfast fühlen sich gerade daran erinnert. Die zweite Nacht in Folge gab es Randale - angestachelt von Rechtsextremen. Von F. Hoppen.[mehr]",
+          "group" : "Belfast anti-migrant riots",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/belfast-krawalle-108.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/belfast-krawalle-108.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/belfast-krawalle-108.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/nordirland-ausschreitungen-104.html"
+            }
+          ],
+          "titleTR" : "Rassistische Unruhen in Belfast: Gewalt weckt düstere Erinnerungen"
+        },
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral",
+          "category" : "Security",
+          "descriptionTR" : "Northern Ireland braced Wednesday for a potential second night of violence directed at immigrants, following unrest that UK authorities say was stoked by far-right activists on social media after a brutal Belfast stabbing. Britain's media regulator warned online platforms of possible legal consequences if their services are used to incite ‌violence. FRANCE 24's Mark Owen speaks with Jack Crangle, Queen's University Belfast Lecturer in Contemporary British History.",
+          "group" : "Belfast anti-migrant riots",
+          "id" : "https:\/\/www.france24.com\/en\/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral",
+          "link" : "https:\/\/www.france24.com\/en\/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/uk-watchdog-warns-online-platforms-as-belfast-riots-go-viral"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/belfast-knife-attack-false-images-misinformation-fuel-anti-immigration-riots"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/tv-shows\/press-review\/20260610-is-the-far-right-exploiting-the-sickening-attack-by-a-refugee-in-belfast"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260609-uk-leaders-urge-calm-as-far-right-figures-call-for-anti-migrant-protests-over-belfast-stabbing"
+            }
+          ],
+          "titleTR" : "UK watchdog warns online platforms as Belfast riots go viral"
+        },
+        {
+          "atomID" : "https:\/\/www.ft.com\/content\/845a6ced-1b82-46e6-925c-a0863df6dfb6",
+          "category" : "Security",
+          "descriptionTR" : "Fallout from knife attack and riots accelerated by online posting, current and former officers say",
+          "group" : "Belfast riot response",
+          "id" : "https:\/\/www.ft.com\/content\/845a6ced-1b82-46e6-925c-a0863df6dfb6",
+          "link" : "https:\/\/www.ft.com\/content\/845a6ced-1b82-46e6-925c-a0863df6dfb6",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/845a6ced-1b82-46e6-925c-a0863df6dfb6"
+            }
+          ],
+          "titleTR" : "‘Toxic’ social media overwhelms police response to Belfast violence"
+        }
+      ],
+      "packetSpot" : "A stabbing incident in Belfast has triggered a series of anti-migrant riots. Misinformation and social media have exacerbated tensions, leading to violence and unrest in the city.",
+      "packetTitle" : "Anti-Migrant Riots in Belfast Triggered by Stabbing and Misinformation",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/europe\/20260611-poland-prepares-stand-ground-against-potential-threats",
+          "category" : "Security",
+          "descriptionTR" : "As it races to become NATO’s frontline fortress against Russia, Poland has launched large-scale civilian courses teaching survival skills during times of crisis. The programme is intended to help bridge the gap between the military and society while psychologically preparing civilians for war.",
+          "group" : "Poland civil defence",
+          "id" : "https:\/\/www.france24.com\/en\/europe\/20260611-poland-prepares-stand-ground-against-potential-threats",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260611-poland-prepares-stand-ground-against-potential-threats",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260611-poland-prepares-stand-ground-against-potential-threats"
+            }
+          ],
+          "titleTR" : "Poland prepares to stand its ground with massive new civil defence programme"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/investigativ\/ndr-wdr\/bundeswehr-weltraum-100.html",
+          "category" : "Security",
+          "descriptionTR" : "Wer ist zuständig für die Sicherheit im Weltraum? Darüber wird in der Bundeswehr nach Recherchen von NDR und WDR hinter den Kulissen gestritten. Es geht um Waffensysteme - und um viel Geld.\n￼   Wer ist zuständig für die Sicherheit im Weltraum? Darüber wird in der Bundeswehr nach Recherchen von NDR und WDR hinter den Kulissen gestritten. Es geht um Waffensysteme - und um viel Geld.[mehr]",
+          "group" : "Space defence disputes",
+          "id" : "https:\/\/www.tagesschau.de\/investigativ\/ndr-wdr\/bundeswehr-weltraum-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/investigativ\/ndr-wdr\/bundeswehr-weltraum-100.html",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/investigativ\/ndr-wdr\/bundeswehr-weltraum-100.html"
+            }
+          ],
+          "titleTR" : "Bundeswehr - Streit um Zuständigkeiten im Weltraum"
+        }
+      ],
+      "packetSpot" : "There is a focus on national defense strategies in Poland and Germany, with Poland enhancing civil defense programs and Germany debating space security responsibilities.",
+      "packetTitle" : "Poland Enhances Civil Defense as Germany Debates Space Security Responsibilities",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/greekreporter.com\/2026\/06\/11\/ceasefire-shattered-us-iran-trade-heavy-strikes\/",
+          "category" : "Security",
+          "descriptionTR" : "For the second straight day, the US and Iran have traded retaliatory military strikes across the Middle East, pushing an already fragile April ceasefire to the brink of collapse. US Central Command (CENTCOM) confirmed a fresh wave of “self-defense strikes” directly hitting radar, surveillance, and military facilities in southern Iran. The American bombardment followed a […]\n￼\nUS Central Command (CENTCOM) confirmed a fresh wave of “self-defense strikes” directly hitting radar, surveillance, and military facilities in southern Iran. Credit: CENTCOM\nFor the second straight day, the US and Iran have traded retaliatory military strikes across the Middle East, pushing an already fragile April ceasefire to the brink of collapse.\nUS Central Command (CENTCOM) confirmed a fresh wave of “self-defense strikes” directly hitting radar, surveillance, and military facilities in southern Iran. The American bombardment followed a stark warning from US President Donald Trump, who declared that Washington would hit Iran “hard” because Tehran had taken “too long to make a deal” to halt hostilities permanently.\nIran is being hit harder than anything we’ve seen. ￼ pic.twitter.com\/bwvB2aYaFJ\n— USA NEWS ￼ (@usanewshq) June 11, 2026\n\nIran targets US bases in the Middle East\nTehran immediately struck back, targeting US military infrastructure across multiple neighboring countries. For a second consecutive day, American bases in Kuwait and Bahrain faced Iranian fire, while Iranian state media reported that the Islamic Revolutionary Guard Corps (IRGC) launched ballistic missiles at a US command center in Jordan. The attacks forced Kuwait to temporarily shut down its airspace after its military intercepted “hostile aerial targets,” while air raid sirens sounded in the middle of the night in Bahrain.\nThe conflict has also spilled into vital global shipping lanes. Iranian state media claimed the IRGC struck two oil tankers and declared the strategic Strait of Hormuz “completely closed.” While CENTCOM countered that commercial maritime traffic was still successfully transiting the waterway, global energy markets panicked. Brent crude quickly jumped 2%, surging to around $95 a barrel.\nThe escalating rhetoric suggests no immediate end to the violence. US Defense Secretary Pete Hegseth warned that bombs would continue to drop on Iran’s core facilities if a diplomatic resolution isn’t reached, a sentiment echoed by President Trump on Truth Social.\nMeanwhile, Iranian President Masoud Pezeshkian stood defiant, vowing that Iran “will stand firm against any pressure or threat” while slamming Washington for sabotaging peace talks with contradictory diplomacy.",
+          "group" : "US Iran escalation",
+          "id" : "https:\/\/greekreporter.com\/2026\/06\/11\/ceasefire-shattered-us-iran-trade-heavy-strikes\/",
+          "link" : "https:\/\/greekreporter.com\/2026\/06\/11\/ceasefire-shattered-us-iran-trade-heavy-strikes\/",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Greek Reporter",
+              "url" : "https:\/\/greekreporter.com\/2026\/06\/11\/ceasefire-shattered-us-iran-trade-heavy-strikes\/"
+            }
+          ],
+          "titleTR" : "Ceasefire Shattered: US and Iran Trade Heavy Strikes for Second Day"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/asien\/nahost-eskalation-usa-iran-100.html",
+          "category" : "Security",
+          "descriptionTR" : "Die US-Armee hat zahlreiche Ziele in Iran angegriffen. Iran reagierte mit Angriffen auf Bahrain, Kuwait und Jordanien - und teilte mit, man habe die Straße von Hormus komplett gesperrt. Die USA widersprechen.\n￼   Die US-Armee hat zahlreiche Ziele in Iran angegriffen. Iran reagierte mit Angriffen auf Bahrain, Kuwait und Jordanien - und teilte mit, man habe die Straße von Hormus komplett gesperrt. Die USA widersprechen.[mehr]",
+          "group" : "Iran US conflict",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/asien\/nahost-eskalation-usa-iran-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/asien\/nahost-eskalation-usa-iran-100.html",
+          "newsValue" : 10,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/asien\/nahost-eskalation-usa-iran-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/trump-iran-204.html"
+            }
+          ],
+          "titleTR" : "USA greifen Iran an - Straße von Hormus angeblich gesperrt"
+        }
+      ],
+      "packetSpot" : "The US and Iran are engaged in an escalating military conflict, marked by retaliatory strikes and threats of further attacks. This situation has led to heightened tensions in the region, particularly around the Strait of Hormuz.",
+      "packetTitle" : "Escalating US-Iran Military Conflict with Retaliatory Strikes and Threats",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.com\/news\/videos\/c8d826nve86o?at_medium=RSS&at_campaign=rss",
+          "category" : "Technology",
+          "descriptionTR" : "Luxury sports car maker Ferrari has unveiled its first fully electric car - the $640,000 (£474,320) Luce.",
+          "group" : "Ferrari electric car",
+          "id" : "https:\/\/www.bbc.com\/news\/videos\/c8d826nve86o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.com\/news\/videos\/c8d826nve86o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/c8d826nve86o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Pope Leo inspects Ferrari's first fully electric vehicle"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/ferrari-unveils-its-first-all-electric-car-the-4-door-luce\/a-77297459?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Technology",
+          "descriptionTR" : "The Italian supercar giant has released images of what will be both its first ever pure EV, and its first car that can seat five people. The Luce eyes a younger clientele and the increasingly competitive Chinese market.",
+          "group" : "Electric Ferrari launch",
+          "id" : "https:\/\/www.dw.com\/en\/ferrari-unveils-its-first-all-electric-car-the-4-door-luce\/a-77297459?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/ferrari-unveils-its-first-all-electric-car-the-4-door-luce\/a-77297459?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/ferrari-unveils-its-first-all-electric-car-the-4-door-luce\/a-77297459?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Ferrari unveils its first all-electric car, the 4-door Luce"
+        }
+      ],
+      "packetSpot" : "Ferrari has unveiled its first fully electric vehicle, the 4-door Luce, marking a significant shift in its automotive offerings. The launch event was highlighted by an inspection from Pope Leo, underscoring the model's importance.",
+      "packetTitle" : "Ferrari Unveils Its First All-Electric Car, the Luce, with Papal Inspection",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/why-anthropic-has-the-edge-over-openai-in-ipo-race\/a-77471291?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Technology",
+          "descriptionTR" : "The rivalry between Sam Altman and Dario Amodei is entering a new phase. Both AI bosses are planning public listings and hope to use the money to outpace each other in the race to build superintelligent AI.",
+          "group" : "AI IPO rivalry",
+          "id" : "https:\/\/www.dw.com\/en\/why-anthropic-has-the-edge-over-openai-in-ipo-race\/a-77471291?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/why-anthropic-has-the-edge-over-openai-in-ipo-race\/a-77471291?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/why-anthropic-has-the-edge-over-openai-in-ipo-race\/a-77471291?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Why Anthropic has the edge over OpenAI in IPO race"
+        },
+        {
+          "atomID" : "https:\/\/www.ft.com\/content\/da78ce3e-fd1a-472d-b486-ee199b7c427d",
+          "category" : "Technology",
+          "descriptionTR" : "The huge sums that Wall Street is about to be asked for look like being only a down payment",
+          "group" : "AI public listings",
+          "id" : "https:\/\/www.ft.com\/content\/da78ce3e-fd1a-472d-b486-ee199b7c427d",
+          "link" : "https:\/\/www.ft.com\/content\/da78ce3e-fd1a-472d-b486-ee199b7c427d",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/da78ce3e-fd1a-472d-b486-ee199b7c427d"
+            }
+          ],
+          "titleTR" : "The AI public market floodgates are opening"
+        }
+      ],
+      "packetSpot" : "AI companies like Anthropic and OpenAI are preparing for public listings, signaling a competitive race to secure funding for AI advancements.",
+      "packetTitle" : "AI Companies Prepare for Public Listings Amid Competitive Race",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-trump-inflation-100.html",
+          "category" : "Economy",
+          "descriptionTR" : "Die Inflation in den USA ist im Mai erstmals seit Jahren auf über vier Prozent gestiegen. Die Reaktion von Präsident Trump darauf erstaunt und ist eine Steilvorlage für die Opposition.\n￼   Die Inflation in den USA ist im Mai erstmals seit Jahren auf über vier Prozent gestiegen. Die Reaktion von Präsident Trump darauf erstaunt und ist eine Steilvorlage für die Opposition. [mehr]",
+          "group" : "US inflation and Trump",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-trump-inflation-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-trump-inflation-100.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-trump-inflation-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/10\/trump-says-i-love-the-inflation-claims-us-taking-millions-of-barrels-of-iranian-oil"
+            }
+          ],
+          "titleTR" : "US-Inflation auf Dreijahreshoch: Kritik an Trump-Reaktion"
+        }
+      ],
+      "packetSpot" : "President Trump responds to rising US inflation and claims about Iranian oil imports, sparking criticism.",
+      "packetTitle" : "Trump's Reaction to US Inflation and Iranian Oil Import Claims",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/ecb-raises-interest-rate-to-tackle-inflation-surge\/a-77505190?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Economy",
+          "descriptionTR" : "The European Central Bank has been moving to rein in inflation after a long pause on rate changes. The policy shift is aimed at tamping down prices while raising fresh concerns about growth.",
+          "group" : "ECB inflation fight",
+          "id" : "https:\/\/www.dw.com\/en\/ecb-raises-interest-rate-to-tackle-inflation-surge\/a-77505190?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/ecb-raises-interest-rate-to-tackle-inflation-surge\/a-77505190?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/ecb-raises-interest-rate-to-tackle-inflation-surge\/a-77505190?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "ECB raises interest rate to tackle inflation surge"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/economie\/article\/2026\/06\/11\/malgre-la-croissance-qui-ralentit-la-banque-centrale-europeenne-augmente-ses-taux-d-interet_6700787_3234.html",
+          "category" : "Economy",
+          "descriptionTR" : "Le taux directeur passe de 2 % à 2,25 %, la BCE s’inquiétant d’une inflation qui restera forte jusqu’au deuxième semestre 2027",
+          "group" : "ECB rate hike",
+          "id" : "https:\/\/www.lemonde.fr\/economie\/article\/2026\/06\/11\/malgre-la-croissance-qui-ralentit-la-banque-centrale-europeenne-augmente-ses-taux-d-interet_6700787_3234.html",
+          "link" : "https:\/\/www.lemonde.fr\/economie\/article\/2026\/06\/11\/malgre-la-croissance-qui-ralentit-la-banque-centrale-europeenne-augmente-ses-taux-d-interet_6700787_3234.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/economie\/article\/2026\/06\/11\/malgre-la-croissance-qui-ralentit-la-banque-centrale-europeenne-augmente-ses-taux-d-interet_6700787_3234.html"
+            }
+          ],
+          "titleTR" : "Malgré la croissance qui ralentit, la Banque centrale européenne augmente ses taux d’intérêt"
+        },
+        {
+          "atomID" : "https:\/\/orf.at\/stories\/3433030\/",
+          "category" : "Economy",
+          "descriptionTR" : "Vor dem Hintergrund wachsender Inflationsraten wegen des Iran-Krieges hat die Europäische Zentralbank (EZB) am Donnerstag die Leitzinsen zum ersten Mal seit fast drei Jahren wieder angehoben. Der Einlagenzinssatz steigt damit wie von vielen Fachleuten erwartet von 2,0 auf 2,25 Prozent. Die Inflation im Euro-Raum war zuletzt laut Schnellschätzung im Mai auf über drei Prozent gestiegen, den höchsten Wert seit Herbst 2023. Die EZB hält eine Teuerung von zwei Prozent mittelfristig für ideal für die Konjunktur.",
+          "group" : "ECB rate hike",
+          "id" : "https:\/\/orf.at\/stories\/3433030\/",
+          "link" : "https:\/\/orf.at\/stories\/3433030\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ORF News",
+              "url" : "https:\/\/orf.at\/stories\/3433030\/"
+            }
+          ],
+          "titleTR" : "Europäische Zentralbank hebt Leitzins an"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/wirtschaft\/ezb-erhoeht-leitzins-102.html",
+          "category" : "Economy",
+          "descriptionTR" : "Der Ölpreisschock infolge des Iran-Kriegs treibt die Verbraucherpreise nach oben. Nun hat die Europäische Zentralbank reagiert und erstmals seit September 2023 die Leitzinsen im Euroraum angehoben - auf nun 2,25 Prozent.\n￼   Der Ölpreisschock infolge des Iran-Kriegs treibt die Verbraucherpreise nach oben. Nun hat die Europäische Zentralbank reagiert und erstmals seit September 2023 die Leitzinsen im Euroraum angehoben - auf nun 2,25 Prozent.[mehr]",
+          "group" : "ECB rate hike",
+          "id" : "https:\/\/www.tagesschau.de\/wirtschaft\/ezb-erhoeht-leitzins-102.html",
+          "link" : "https:\/\/www.tagesschau.de\/wirtschaft\/ezb-erhoeht-leitzins-102.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wirtschaft\/ezb-erhoeht-leitzins-102.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wirtschaft\/finanzen\/ezb-zinswende-energiepreise-100.html"
+            }
+          ],
+          "titleTR" : "EZB erhöht erstmals seit 2023 die Leitzinsen"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/economie\/la-bce-releve-ses-taux-pour-faire-face-a-la-guerre-au-moyen-orient-20260611_XNCJGIU44VBF3BK2FWXER7B5EI\/",
+          "category" : "Economy",
+          "descriptionTR" : "Pour juguler une inflation à 3,2 % dans la zone euro en mai, la BCE a annoncé relever ses taux d’un quart de point, jeudi 11 juin. Alors que cette hausse est jugée précipitée, l’institution de Francfort craint une spirale inflationniste.",
+          "group" : "ECB inflation response",
+          "id" : "https:\/\/www.liberation.fr\/economie\/la-bce-releve-ses-taux-pour-faire-face-a-la-guerre-au-moyen-orient-20260611_XNCJGIU44VBF3BK2FWXER7B5EI\/",
+          "link" : "https:\/\/www.liberation.fr\/economie\/la-bce-releve-ses-taux-pour-faire-face-a-la-guerre-au-moyen-orient-20260611_XNCJGIU44VBF3BK2FWXER7B5EI\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/economie\/la-bce-releve-ses-taux-pour-faire-face-a-la-guerre-au-moyen-orient-20260611_XNCJGIU44VBF3BK2FWXER7B5EI\/"
+            }
+          ],
+          "titleTR" : "La BCE relève ses taux pour faire face à la guerre au Moyen-Orient"
+        },
+        {
+          "atomID" : "https:\/\/www.ft.com\/content\/95ec93a9-1153-4837-be82-32a87eaabe1d",
+          "category" : "Economy",
+          "descriptionTR" : "Central bank is first in G7 to increase borrowing costs in response to Middle East energy crisis",
+          "group" : "ECB inflation response",
+          "id" : "https:\/\/www.ft.com\/content\/95ec93a9-1153-4837-be82-32a87eaabe1d",
+          "link" : "https:\/\/www.ft.com\/content\/95ec93a9-1153-4837-be82-32a87eaabe1d",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/95ec93a9-1153-4837-be82-32a87eaabe1d"
+            }
+          ],
+          "titleTR" : "ECB raises interest rates for first time since 2023"
+        }
+      ],
+      "packetSpot" : "The European Central Bank has increased interest rates, marking the first rise since 2023. This decision aims to address inflation concerns amidst a backdrop of slowing economic growth and geopolitical tensions.",
+      "packetTitle" : "European Central Bank Raises Interest Rates Amid Inflation and Geopolitical Tensions",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/11\/scientists-discover-where-whales-go-to-die",
+          "category" : "Science",
+          "descriptionTR" : "A newly discovered whale graveyard in the southeastern Indian Ocean is providing scientists with a rare glimpse into how marine life can thrive for millions of years at great depths.",
+          "group" : "Whale deep-sea discovery",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/11\/scientists-discover-where-whales-go-to-die",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/11\/scientists-discover-where-whales-go-to-die",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/11\/scientists-discover-where-whales-go-to-die"
+            }
+          ],
+          "titleTR" : "Scientists discover where whales go to die"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/environnement\/biodiversite\/dune-importance-majeure-pour-comprendre-leur-evolution-un-cimetiere-de-pres-de-500-baleines-decouvert-au-fond-de-locean-indien-20260611_RRZZYUVNABAIHGLGVRZX7WJXUE\/",
+          "category" : "Science",
+          "descriptionTR" : "Dans une étude publiée mercredi 10 juin dans «Nature», des scientifiques révèlent avoir découvert des squelettes de baleines à 7 000 mètres de profondeur à l’ouest de l’Australie. Certains sont vieux de 5,3 millions d’années.",
+          "group" : "Whale evolution discovery",
+          "id" : "https:\/\/www.liberation.fr\/environnement\/biodiversite\/dune-importance-majeure-pour-comprendre-leur-evolution-un-cimetiere-de-pres-de-500-baleines-decouvert-au-fond-de-locean-indien-20260611_RRZZYUVNABAIHGLGVRZX7WJXUE\/",
+          "link" : "https:\/\/www.liberation.fr\/environnement\/biodiversite\/dune-importance-majeure-pour-comprendre-leur-evolution-un-cimetiere-de-pres-de-500-baleines-decouvert-au-fond-de-locean-indien-20260611_RRZZYUVNABAIHGLGVRZX7WJXUE\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/environnement\/biodiversite\/dune-importance-majeure-pour-comprendre-leur-evolution-un-cimetiere-de-pres-de-500-baleines-decouvert-au-fond-de-locean-indien-20260611_RRZZYUVNABAIHGLGVRZX7WJXUE\/"
+            }
+          ],
+          "titleTR" : "«D’une importance majeure pour comprendre leur évolution» : un cimetière de près de 500 baleines découvert au fond de l’océan Indien"
+        }
+      ],
+      "packetSpot" : "Recent discoveries of whale graveyards in the Indian Ocean have provided scientists with significant insights into whale evolution and their final resting places. These findings are crucial for understanding the life cycle and migratory patterns of these marine giants.",
+      "packetTitle" : "Discovery of Whale Graveyards in the Indian Ocean Provides Evolutionary Insights",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/06\/11\/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear",
+          "category" : "Health",
+          "descriptionTR" : "Dozens of motorcycle taxi drivers rode through eastern DR Congo carrying Ebola prevention messages as health officials seek to combat misinformation and scepticism amid a growing outbreak.",
+          "group" : "Ebola outbreak response",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/06\/11\/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/06\/11\/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/11\/congo-motorcyclists-mobilise-as-ebola-outbreak-fuels-fear"
+            }
+          ],
+          "titleTR" : "Congo motorcyclists mobilise as Ebola outbreak fuels fear"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Health",
+          "descriptionTR" : "The scaling back of development aid has contributed to the inability to contain the Ebola outbreak in the Democratic Republic of Congo. German organizations are calling for a major spending boost to help stop the spread.",
+          "group" : "Congo Ebola outbreak",
+          "id" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/new-ebola-cases-in-congo-what-you-need-to-know\/a-77325922?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "International aid cuts complicate Congo's Ebola epidemic"
+        }
+      ],
+      "packetSpot" : "The Ebola outbreak in Congo is causing widespread concern, with local communities mobilizing, international aid facing cuts, and new cases emerging.",
+      "packetTitle" : "Congo's Ebola Outbreak: Local Mobilization, Aid Challenges, and Emerging Cases",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/the-strongest-el-nino-in-more-than-a-century-may-be-coming\/a-77469489?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Environment",
+          "descriptionTR" : "Warnings of a powerful El Nino weather pattern this year suggest that we may be about to face drought, flooding and extreme heat. What impacts are in store? And can we prepare for the worst of it?",
+          "group" : "El Nino climate threat",
+          "id" : "https:\/\/www.dw.com\/en\/the-strongest-el-nino-in-more-than-a-century-may-be-coming\/a-77469489?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/the-strongest-el-nino-in-more-than-a-century-may-be-coming\/a-77469489?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/the-strongest-el-nino-in-more-than-a-century-may-be-coming\/a-77469489?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "The strongest El Nino in more than a century may be coming"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/environnement\/climat\/el-nino-lenfant-terrible-du-pacifique-a-officiellement-commence-20260611_NWOFULYITJC5FNP46N2LST2XBE\/",
+          "category" : "Environment",
+          "descriptionTR" : "D’après la vigie américaine de l’océan, le phénomène climatique naturel, synonyme de sécheresses, inondations et températures records dans le monde, s’est bien installé dans le Pacifique tropical. Les experts estiment à 63 % le risque d’un épisode très fort entre novembre et janvier.",
+          "group" : "El Nino impact",
+          "id" : "https:\/\/www.liberation.fr\/environnement\/climat\/el-nino-lenfant-terrible-du-pacifique-a-officiellement-commence-20260611_NWOFULYITJC5FNP46N2LST2XBE\/",
+          "link" : "https:\/\/www.liberation.fr\/environnement\/climat\/el-nino-lenfant-terrible-du-pacifique-a-officiellement-commence-20260611_NWOFULYITJC5FNP46N2LST2XBE\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-11T23:25:16Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/environnement\/climat\/el-nino-lenfant-terrible-du-pacifique-a-officiellement-commence-20260611_NWOFULYITJC5FNP46N2LST2XBE\/"
+            }
+          ],
+          "titleTR" : "El Niño, «l’enfant terrible du Pacifique», a officiellement commencé"
+        }
+      ],
+      "packetSpot" : "Meteorological reports confirm the official start of an El Niño event, with predictions suggesting it could be the strongest in over a century. This climate phenomenon is expected to have significant global impacts.",
+      "packetTitle" : "The Onset of a Potentially Historic El Niño Event",
+      "publishedAt" : "2026-06-11T23:25:16Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    }
+  ],
+  "week" : "2026-W26"
+}
