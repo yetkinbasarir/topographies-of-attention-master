@@ -1,0 +1,52 @@
+{
+  "label" : "15-21 HAZİRAN",
+  "publishedAt" : "2026-06-11T09:56:01Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/ocula.com\/magazine\/art-news\/museums-failing-to-attract-younger-donors\/",
+          "category" : "Culture",
+          "descriptionTR" : "A new report surveying more than 2,000 collectors aged under 45 reveals that museums and institutions are missing opportunities to engage with potential patronage.",
+          "group" : "Museum audience outreach",
+          "id" : "https:\/\/ocula.com\/magazine\/art-news\/museums-failing-to-attract-younger-donors\/",
+          "link" : "https:\/\/ocula.com\/magazine\/art-news\/museums-failing-to-attract-younger-donors\/",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-11T09:56:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ocula Magazine",
+              "url" : "https:\/\/ocula.com\/magazine\/art-news\/museums-failing-to-attract-younger-donors\/"
+            }
+          ],
+          "titleTR" : "Museums Failing to Attract Younger Donors, Report Finds"
+        },
+        {
+          "atomID" : "https:\/\/www.artforum.com\/news\/columbus-museum-of-art-to-offer-free-admission-for-under-25-1234752127\/",
+          "category" : "Culture",
+          "descriptionTR" : "Starting July 1, the Columbus Museum of Art in Ohio will begin offering free admission to anyone the age of twenty-five and under, as well as to any adult accompanying a child who’s 16 years old or younger. The major shift in accessibility, announced by the museum in a press release on Wednesday, is the […]",
+          "group" : "Museum access initiative",
+          "id" : "https:\/\/www.artforum.com\/news\/columbus-museum-of-art-to-offer-free-admission-for-under-25-1234752127\/",
+          "link" : "https:\/\/www.artforum.com\/news\/columbus-museum-of-art-to-offer-free-admission-for-under-25-1234752127\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-11T09:56:01Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Artforum",
+              "url" : "https:\/\/www.artforum.com\/news\/columbus-museum-of-art-to-offer-free-admission-for-under-25-1234752127\/"
+            }
+          ],
+          "titleTR" : "Columbus Museum of Art Will Offer Free Admission for Visitors Aged 25 and Under as Part of New Initiative"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-11T09:56:01Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    }
+  ],
+  "week" : "2026-W25"
+}
