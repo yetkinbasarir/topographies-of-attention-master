@@ -1,6 +1,6 @@
 {
   "label" : "15-21 HAZİRAN",
-  "publishedAt" : "2026-06-11T09:56:01Z",
+  "publishedAt" : "2026-06-11T09:56:14Z",
   "slots" : [
     {
       "items" : [
@@ -12,7 +12,7 @@
           "id" : "https:\/\/ocula.com\/magazine\/art-news\/museums-failing-to-attract-younger-donors\/",
           "link" : "https:\/\/ocula.com\/magazine\/art-news\/museums-failing-to-attract-younger-donors\/",
           "newsValue" : 4,
-          "publishedAt" : "2026-06-11T09:56:01Z",
+          "publishedAt" : "2026-06-11T09:56:14Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -30,7 +30,7 @@
           "id" : "https:\/\/www.artforum.com\/news\/columbus-museum-of-art-to-offer-free-admission-for-under-25-1234752127\/",
           "link" : "https:\/\/www.artforum.com\/news\/columbus-museum-of-art-to-offer-free-admission-for-under-25-1234752127\/",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-11T09:56:01Z",
+          "publishedAt" : "2026-06-11T09:56:14Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -43,7 +43,7 @@
       ],
       "packetSpot" : "Museums are implementing new strategies to attract younger audiences, including offering free admission and addressing engagement challenges with younger donors.",
       "packetTitle" : "Museums Explore New Strategies to Engage Younger Audiences",
-      "publishedAt" : "2026-06-11T09:56:01Z",
+      "publishedAt" : "2026-06-11T09:56:14Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     }
