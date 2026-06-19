@@ -1,0 +1,982 @@
+{
+  "label" : "29 HAZİRAN - 5 TEMMUZ",
+  "publishedAt" : "2026-06-19T02:18:38Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/cuba-approves-economic-reforms-amid-us-pressure\/a-77597635?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Economy",
+          "descriptionTR" : "Cuba's Communist Party has signed off on a package of free market reforms. One member called the changes a response to \"economic war,\" while the party said they were not a \"deviation\" from the socialist project.",
+          "group" : "Cuba economic reforms",
+          "id" : "https:\/\/www.dw.com\/en\/cuba-approves-economic-reforms-amid-us-pressure\/a-77597635?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/cuba-approves-economic-reforms-amid-us-pressure\/a-77597635?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/cuba-approves-economic-reforms-amid-us-pressure\/a-77597635?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/19\/cuba-annonce-un-vaste-programme-de-reformes-economiques-sur-fond-de-tensions-avec-washington_6704617_3210.html"
+            }
+          ],
+          "titleTR" : "Cuba approves economic reforms amid US pressure"
+        }
+      ],
+      "packetSpot" : "Cuba has initiated a significant economic reform program, approved by its Communist Party, amidst ongoing tensions with the United States. The reforms aim to open up the economy while maintaining the socialist framework.",
+      "packetTitle" : "Cuba Implements Wide-Ranging Economic Reforms Amidst US Tensions",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.spiegel.de\/international\/world\/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss",
+          "category" : "Economy",
+          "descriptionTR" : "U.S. President Donald Trump is forcing Cuba to its knees. Power outages are the norm and people are having trouble making ends meet. Many say, though, that the problems are homemade. U.S. President Donald Trump is forcing Cuba to its knees. Power outages are the norm and people are having trouble making ends meet. Many say, though, that the problems are homemade.",
+          "group" : "Cuba power crisis",
+          "id" : "https:\/\/www.spiegel.de\/international\/world\/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss",
+          "link" : "https:\/\/www.spiegel.de\/international\/world\/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Der Spiegel International",
+              "url" : "https:\/\/www.spiegel.de\/international\/world\/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/18\/cubas-president-miguel-diaz-canel-admits-urgent-changes-needed-to-overcome-crisis"
+            }
+          ],
+          "titleTR" : "Trump's Blockade: The Lights Are Going Out in Cuba"
+        }
+      ],
+      "packetSpot" : "Cuba is experiencing severe economic difficulties, exacerbated by a U.S. oil blockade and internal issues, leading to widespread power outages and calls for urgent reforms.",
+      "packetTitle" : "Cuba Faces Economic Crisis Amid U.S. Oil Blockade and Internal Challenges",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate",
+          "category" : "Politics",
+          "descriptionTR" : "The UK's Prime Minister Keir Starmer has insisted he will fight to stay in his role if a leadership challenge is launched by Andy Burnham. But before any such contest unfolds, Burnham must win a seat in parliament, which he is hoping to do on June 18 in a by-election in the Makerfield constituency. The race is expected to be tight, with Reform UK candidate Rob Kenyon posing a credible opposition to the former Greater Manchester Mayor.",
+          "group" : "UK Labour leadership",
+          "id" : "https:\/\/www.france24.com\/en\/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate",
+          "link" : "https:\/\/www.france24.com\/en\/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/starmer-rival-seeks-win-in-uk-by-election-pivotal-to-prime-minister-s-fate"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/starmer-on-the-line-as-uk-holds-most-important-local-election-in-decades"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260618-starmer-rival-andy-burnham-seeks-win-in-local-uk-poll-pivotal-to-pm-s-fate"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260617-makerfield-the-local-election-that-could-change-the-uk"
+            }
+          ],
+          "titleTR" : "Starmer rival seeks win in UK by-election pivotal to prime minister's fate"
+        },
+        {
+          "atomID" : "https:\/\/www.ft.com\/content\/9dd44b54-2271-4687-a146-064f35fe9936",
+          "category" : "Politics",
+          "descriptionTR" : "Greater Manchester mayor has earned public respect by going from insider to outsider, but economic doubts have clouded his bid for Downing Street",
+          "group" : "UK Labour leadership",
+          "id" : "https:\/\/www.ft.com\/content\/9dd44b54-2271-4687-a146-064f35fe9936",
+          "link" : "https:\/\/www.ft.com\/content\/9dd44b54-2271-4687-a146-064f35fe9936",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/9dd44b54-2271-4687-a146-064f35fe9936"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/5a64a8cc-2f40-42b7-bab4-a59069e4f560"
+            }
+          ],
+          "titleTR" : "Who is Andy Burnham, Labour’s charismatic chameleon?"
+        }
+      ],
+      "packetSpot" : "Andy Burnham aims to secure a parliamentary seat in the Makerfield by-election, a crucial step before potentially challenging Keir Starmer for Labour leadership.",
+      "packetTitle" : "Andy Burnham's Bid for a Parliamentary Seat in Makerfield By-Election",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/orf.at\/stories\/3433699\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Bei aller Erleichterung, dass der Krieg in Nahost mit dem mittlerweile unterzeichneten Rahmenabkommen zwischen den USA und dem Iran nun zu Ende scheint, sehen Kritiker weiterhin viele offene Fragen. Vor allem sind sich praktisch alle Fachleute einig, wer der Gewinner der Vereinbarung ist: der Iran.",
+          "group" : "Iran US deal",
+          "id" : "https:\/\/orf.at\/stories\/3433699\/",
+          "link" : "https:\/\/orf.at\/stories\/3433699\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ORF News",
+              "url" : "https:\/\/orf.at\/stories\/3433699\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/18\/us-and-iran-sign-deal-but-who-really-won-heres-what-to-know"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/18\/how-do-iranians-and-israelis-view-the-us-iran-deal"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/18\/watch-moment-trump-signs-us-iran-agreement-at-versailles"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/18\/moment-trump-signs-us-iran-deal-at-palace-of-versailles"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/18\/trump-signs-initial-deal-to-end-iran-war-and-open-strait-of-hormuz-as-nuclear-talks-contin"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/17\/from-regime-change-to-regime-deal-how-irans-political-camps-are-reacting-to-leaked-us-iran"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/17\/read-the-full-text-of-the-leaked-14-point-us-iran-draft-agreement"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/17\/iran-pledges-no-nuclear-weapons-as-us-commits-300bn-leaked-deal-draft-shows"
+            }
+          ],
+          "titleTR" : "Iran als klarer Gewinner des Abkommens"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/asien\/usa-iran-schweiz-verhandlungen-100.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Die Rahmenvereinbarung zwischen den USA und Iran ist unterschrieben - von US-Präsident Trump mit Prunk im Schloss Versailles. Nun geht es darum, das dünne Dokument mit Leben zu füllen. Morgen sollen in der Schweiz die Verhandlungen beginnen.\n￼   Die Rahmenvereinbarung zwischen den USA und Iran ist unterschrieben - von US-Präsident Trump mit Prunk im Schloss Versailles. Nun geht es darum, das dünne Dokument mit Leben zu füllen. Morgen sollen in der Schweiz die Verhandlungen beginnen. [mehr]",
+          "group" : "US Iran peace talks",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/asien\/usa-iran-schweiz-verhandlungen-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/asien\/usa-iran-schweiz-verhandlungen-100.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/asien\/usa-iran-schweiz-verhandlungen-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/asien\/iran-abkommen-was-es-bedeutet-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/vereinbarung-usa-iran-unterzeichnet-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/abkommen-usa-iran-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/17\/irans-foreign-minister-briefs-russian-fm-lavrov-on-interim-deal-with-us-a93040"
+            }
+          ],
+          "titleTR" : "Gespräche über Friedenslösung zwischen USA und Iran sollen beginnen"
+        }
+      ],
+      "packetSpot" : "The US and Iran have signed a framework deal, with discussions set to continue in Switzerland. Analysts suggest Iran may have gained more from the agreement, while global reactions range from hope to skepticism.",
+      "packetTitle" : "US-Iran Framework Deal Signed Amidst Mixed Reactions and Upcoming Talks",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/israel-says-it-s-cutting-ties-to-eu-s-kaja-kallas\/a-77605930?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Israel's foreign minister says he is severing contact with the EU's foreign affairs chief Kaja Kallas. Gideon Saar attributed the move to a media report alleging that Kallas compared Israel to apartheid-era South Africa.",
+          "group" : "Israel EU tensions",
+          "id" : "https:\/\/www.dw.com\/en\/israel-says-it-s-cutting-ties-to-eu-s-kaja-kallas\/a-77605930?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/israel-says-it-s-cutting-ties-to-eu-s-kaja-kallas\/a-77605930?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/israel-says-it-s-cutting-ties-to-eu-s-kaja-kallas\/a-77605930?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/18\/kaja-kallas-responds-after-israeli-foreign-minister-says-he-will-sever-all-contact-with-he"
+            }
+          ],
+          "titleTR" : "Israel says it's cutting ties to EU's Kaja Kallas"
+        }
+      ],
+      "packetSpot" : "Israel's foreign minister announced the severing of contact with EU's Kaja Kallas following reports of her alleged apartheid comparison.",
+      "packetTitle" : "Israel Severs Ties with EU's Kaja Kallas Over Alleged Apartheid Comparison",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/us-signals-to-return-of-sanctions-on-russia-as-g7-unites-around-ukraine",
+          "category" : "Diplomacy",
+          "descriptionTR" : "G7 leaders agreed on June 16 to intensify pressure on Russia to end more than four years of war against Ukraine, with US President Donald Trump saying Moscow should \"make a deal\" and indicating Washington could re-impose waived sanctions. Ukrainian President Volodymyr Zelensky joined the summit at the French resort of Evian, hoping that with a deal between the US and Iran ostensibly in the works, the Trump administration will now turn its attention to solving Europe's largest armed conflict since World War II.",
+          "group" : "G7 Ukraine pressure",
+          "id" : "https:\/\/www.france24.com\/en\/us-signals-to-return-of-sanctions-on-russia-as-g7-unites-around-ukraine",
+          "link" : "https:\/\/www.france24.com\/en\/us-signals-to-return-of-sanctions-on-russia-as-g7-unites-around-ukraine",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/us-signals-to-return-of-sanctions-on-russia-as-g7-unites-around-ukraine"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/17\/putin-meets-with-asean-leaders-in-russia-as-g7-vow-unwavering-support-for-ukraine"
+            }
+          ],
+          "titleTR" : "US signals to return of sanctions on Russia as G7 unites around Ukraine"
+        }
+      ],
+      "packetSpot" : "G7 leaders have expressed strong support for Ukraine, discussing measures to strengthen its defense and considering renewed sanctions on Russia. Concurrently, diplomatic engagements involving Putin and other global leaders continue.",
+      "packetTitle" : "G7's Unified Support for Ukraine and Diplomatic Engagements with Russia",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/16\/keir-starmer-waning-influence-g7-summit",
+          "category" : "Diplomacy",
+          "descriptionTR" : "British prime minister was left making small talk unsure if a meeting with Trump and Zelenskyy was going ahead\nThe wait for Keir Starmer’s first session of the G7 gathering in Évian-les-Bains was undoubtedly awkward. A meeting about the future of Ukraine had been due to start at 9am but more than half an hour later, Donald Trump, Volodymyr Zelenskyy and Emmanuel Macron were nowhere to be seen.\nOn a live Reuters feed, Starmer could be seen standing next to the leaders of Canada and Japan as they milled about making small talk. “Are they, are they having a meeting?” the British prime minister could be heard asking. If he was referring to the missing attenders, and they were indeed having a meeting, it was clear he hadn’t been invited.",
+          "group" : "G7 Ukraine diplomacy",
+          "id" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/16\/keir-starmer-waning-influence-g7-summit",
+          "link" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/16\/keir-starmer-waning-influence-g7-summit",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/politics\/2026\/jun\/16\/keir-starmer-waning-influence-g7-summit"
+            }
+          ],
+          "titleTR" : "Starmer’s waning influence is apparent at awkward G7 summit"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/g7-evian-bilanz-100.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Bundeskanzler Merz lobt die \"gemeinsame Sprache\", Frankreichs Präsident Macron spricht vom \"strategischen Erwachen\": Die Erleichterung über den Verlauf des G7-Treffens ist spürbar. Das liegt vor allem an einem Teilnehmer. Von Kathrin Schmid.\n￼   Bundeskanzler Merz lobt die \"gemeinsame Sprache\", Frankreichs Präsident Macron spricht vom \"strategischen Erwachen\": Die Erleichterung über den Verlauf des G7-Treffens ist spürbar. Das liegt vor allem an einem Teilnehmer. Von Kathrin Schmid.[mehr]",
+          "group" : "G7 fragile consensus",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/g7-evian-bilanz-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/g7-evian-bilanz-100.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/g7-evian-bilanz-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/kommentar\/trump-g7-gipfel-100.html"
+            }
+          ],
+          "titleTR" : "Merz und Macron loben G7-Gipfel als Erfolg"
+        }
+      ],
+      "packetSpot" : "The G7 Summit highlighted contrasting leadership dynamics, with some leaders expressing strategic success while others faced awkward moments.",
+      "packetTitle" : "Contrasting Leadership Dynamics at the G7 Summit",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/eu-sanktionen-russland-206.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Bislang mussten die EU-Sanktionen gegen Russland alle sechs Monate einstimmig verlängert werden - nun aber haben die Staats- und Regierungschefs diesen Zeitraum auf zwölf Monate ausgedehnt. Möglich wurde das durch den Regierungswechsel in Ungarn.\n￼   Bislang mussten die EU-Sanktionen gegen Russland alle sechs Monate einstimmig verlängert werden - nun aber haben die Staats- und Regierungschefs diesen Zeitraum auf zwölf Monate ausgedehnt. Möglich wurde das durch den Regierungswechsel in Ungarn.[mehr]",
+          "group" : "EU Russia sanctions",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/eu-sanktionen-russland-206.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/eu-sanktionen-russland-206.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/eu-sanktionen-russland-206.html"
+            }
+          ],
+          "titleTR" : "EU verlängert Russland-Sanktionen um zwölf Monate"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine\/a-77474536?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Diplomacy",
+          "descriptionTR" : "The EU's 21st sanctions package includes a provision to deny entry to anyone who has served in Russia's armed forces amid the invasion of Ukraine. It will also target the so-called shadow fleet, banks and cryptocurrency.",
+          "group" : "EU Russia sanctions",
+          "id" : "https:\/\/www.dw.com\/en\/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine\/a-77474536?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine\/a-77474536?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/eu-proposes-entry-ban-for-russians-who-fought-in-ukraine\/a-77474536?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "EU proposes entry ban for Russians who fought in Ukraine"
+        }
+      ],
+      "packetSpot" : "The EU has extended its sanctions against Russia to twelve months and proposed an entry ban for Russians who participated in the Ukraine conflict.",
+      "packetTitle" : "EU Extends Sanctions and Proposes Entry Ban for Russians Involved in Ukraine Conflict",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.spiegel.de\/international\/world\/forced-mercenaries-how-russia-dupes-kenyans-into-fighting-in-ukraine-a-41cdb825-cc47-4176-9a89-6add55873d63#ref=rss",
+          "category" : "Security",
+          "descriptionTR" : "One thought he was getting a job driving a truck in Russia. Another says he was invited to run in a race. Both ended up being forced to fight in Putin's war. One thought he was getting a job driving a truck in Russia. Another says he was invited to run in a race. Both ended up being forced to fight in Putin's war.",
+          "group" : "Russia forced recruitment",
+          "id" : "https:\/\/www.spiegel.de\/international\/world\/forced-mercenaries-how-russia-dupes-kenyans-into-fighting-in-ukraine-a-41cdb825-cc47-4176-9a89-6add55873d63#ref=rss",
+          "link" : "https:\/\/www.spiegel.de\/international\/world\/forced-mercenaries-how-russia-dupes-kenyans-into-fighting-in-ukraine-a-41cdb825-cc47-4176-9a89-6add55873d63#ref=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Der Spiegel International",
+              "url" : "https:\/\/www.spiegel.de\/international\/world\/forced-mercenaries-how-russia-dupes-kenyans-into-fighting-in-ukraine-a-41cdb825-cc47-4176-9a89-6add55873d63#ref=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/18\/moscow-uses-russian-houses-in-africa-to-lure-recruits-into-war-in-ukraine-investigation-sh"
+            }
+          ],
+          "titleTR" : "Forced Mercenaries: How Russia Dupes Kenyans into Fighting in Ukraine"
+        }
+      ],
+      "packetSpot" : "Reports highlight Russia's use of deceptive recruitment strategies in Africa, involving promises of jobs and education, to enlist individuals for the Ukraine war.",
+      "packetTitle" : "Russia's Recruitment Tactics in Africa for the Ukraine Conflict",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/18\/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+          "category" : "Security",
+          "descriptionTR" : "Kyiv says attack, which also forced evacuation at Russia’s biggest airport, was in response to strike on historic monastery\n\t•\tExplainer: how significant was attack on Moscow?\nUkrainian drones have hit several locations across Moscow in Kyiv’s biggest air raid on the city since the start of Russia’s full-scale invasion, setting a major ⁠oil refinery on fire and forcing evacuations at the country’s largest airport.\nVolodymyr Zelenskyy described the attack as a response to Russia’s strike on a historic Kyiv monastery complex earlier this week.",
+          "group" : "Russia Ukraine war",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/18\/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/18\/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/18\/moscow-oil-refinery-on-fire-ukraine-drone-stikes"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/18\/ukrainian-drones-hit-oil-refinery-and-residential-building-in-moscow-video"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jun\/18\/what-did-ukraine-target-in-moscow-and-how-significant-was-the-drone-attack"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/18\/video-hundreds-of-drones-target-russia-in-major-ukrainian-attack"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/18\/ukraine-sets-major-oil-refinery-ablaze-in-largest-ever-drone-attack-on-moscow-a93043"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/russland-ukraine-selenskyj-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260618-ukraine-hits-moscow-with-large-scale-attack"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260618-ukraine-hits-moscow-with-large-scale-attack-oil-refinery-strike-justified-zelensky-says"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/europe\/moscou-vise-par-une-attaque-a-grande-echelle-de-drones-ukrainiens-20260618_TKY6JVVICVBBVLR5327TENRUYM\/"
+            }
+          ],
+          "titleTR" : "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war"
+        }
+      ],
+      "packetSpot" : "A large-scale Ukrainian drone attack targeted Moscow, setting a major oil refinery on fire and causing disruptions in the city.",
+      "packetTitle" : "Ukrainian Drone Attack Sets Moscow Oil Refinery Ablaze",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/18\/pete-hegseth-accuses-nato-countries-free-riding-europe",
+          "category" : "Security",
+          "descriptionTR" : "US defence secretary addresses allies in latest attempt to get Europe to raise military budgets\nPete Hegseth has announced a review of the US military presence across Europe, in a combative address to Nato allies where he threatened to cut force numbers in countries spending the least on defence.\nThe US defence secretary, speaking at a meeting of Nato defence ministers in Brussels, accused some countries of “free riding” and others of being shameful for not allowing their airbases to be used by US jets bombing Iran in the spring.",
+          "group" : "Nato US Europe",
+          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/18\/pete-hegseth-accuses-nato-countries-free-riding-europe",
+          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/18\/pete-hegseth-accuses-nato-countries-free-riding-europe",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jun\/18\/pete-hegseth-accuses-nato-countries-free-riding-europe"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c3vy5l62622o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/us-tells-nato-it-will-review-its-force-presence-in-europe"
+            }
+          ],
+          "titleTR" : "Pete Hegseth accuses Nato countries of ‘free riding’ in combative address"
+        }
+      ],
+      "packetSpot" : "US Defense Secretary Pete Hegseth has announced a review of the US military presence in Europe, criticizing NATO allies for insufficient defense spending. This move signals a shift in US commitments to NATO's high readiness force.",
+      "packetTitle" : "US Reviews NATO Military Presence Amid Criticism of European Defense Spending",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/14\/uk-intercepts-russian-shadow-fleet-vessel-in-english-channel-a93009",
+          "category" : "Security",
+          "descriptionTR" : "The 6-hour operation to intercept the vessel SMYRTOS was supported by aircraft and navy vessels, said the British defense ministry.",
+          "group" : "Russia shadow fleet",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/14\/uk-intercepts-russian-shadow-fleet-vessel-in-english-channel-a93009",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/14\/uk-intercepts-russian-shadow-fleet-vessel-in-english-channel-a93009",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/14\/uk-intercepts-russian-shadow-fleet-vessel-in-english-channel-a93009"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "U.K. Intercepts Russian Shadow Fleet Vessel in English Channel"
+        }
+      ],
+      "packetSpot" : "Russian shadow fleet vessels, including the Forwarder and SMYRTOS, have been navigating the English Channel, with the latter facing interception by the U.K. authorities.",
+      "packetTitle" : "Russian Shadow Fleet Vessels Navigate and Face Interception in the English Channel",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/news\/video\/2026\/jun\/17\/why-did-russia-warship-fire-warning-shots-in-the-channel-the-latest",
+          "category" : "Security",
+          "descriptionTR" : "Keir Starmer has called the firing of warning shots by a Russian warship at a British yacht sailing across the Channel on Tuesday ‘deeply concerning and reckless’.\n\nRussia’s defence ministry said the yacht was on a ‘dangerous course’ and several attempts were made to contact it – a claim disputed by the retired couple onboard the 40ft yacht.\n\nNosheen Iqbal speaks to the Guardian’s defence and security editor, Dan Sabbagh",
+          "group" : "Russia Channel incident",
+          "id" : "https:\/\/www.theguardian.com\/news\/video\/2026\/jun\/17\/why-did-russia-warship-fire-warning-shots-in-the-channel-the-latest",
+          "link" : "https:\/\/www.theguardian.com\/news\/video\/2026\/jun\/17\/why-did-russia-warship-fire-warning-shots-in-the-channel-the-latest",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/news\/video\/2026\/jun\/17\/why-did-russia-warship-fire-warning-shots-in-the-channel-the-latest"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/16\/russian-frigate-fired-warning-shots-at-british-yacht-in-english-channel-a93031"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260617-starmer-slams-russian-warship-s-reckless-warning-shots-in-english-channel"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/uk-investigating-warning-shots-fired-by-russian-ship-at-yacht"
+            }
+          ],
+          "titleTR" : "Why did Russian warship fire warning shots in the Channel? – The Latest"
+        }
+      ],
+      "packetSpot" : "A Russian warship fired warning shots at a British yacht in the English Channel, sparking criticism from UK officials and raising safety concerns. The incident involved claims of a dangerous course by the yacht, which the onboard couple disputes.",
+      "packetTitle" : "Russian Warship Fires Warning Shots at British Yacht in English Channel",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/europe\/20260617-fatal-shooting-of-russian-anti-putin-artist-likely-politically-motivated-polish-pm-says",
+          "category" : "Security",
+          "descriptionTR" : "Polish Prime Minister Donald Tusk said Wednesday that the fatal shooting of exiled Russian artist Semyon Skrepetsky was likely a political assassination. The Kremlin critic, known for provocative caricatures of President Vladimir Putin and other political figures, was shot dead by an unidentified gunman in eastern Poland on Monday.",
+          "group" : "Russian dissident killing",
+          "id" : "https:\/\/www.france24.com\/en\/europe\/20260617-fatal-shooting-of-russian-anti-putin-artist-likely-politically-motivated-polish-pm-says",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260617-fatal-shooting-of-russian-anti-putin-artist-likely-politically-motivated-polish-pm-says",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260617-fatal-shooting-of-russian-anti-putin-artist-likely-politically-motivated-polish-pm-says"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260618-mighty-the-paintbrush-semyon-skrepetsky-the-russian-dissident-artist-shot-and-killed-poland"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260618-poland-detains-suspect-in-fatal-shooting-of-russian-artist-critical-of-putin-tusk-says"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.com\/news\/articles\/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/17\/dissident-russian-artists-shooting-in-poland-likely-political-murder-pm-tusk-a93039"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/16\/russian-dissident-artist-shot-dead-in-eastern-poland-a93025"
+            }
+          ],
+          "titleTR" : "Fatal shooting of Russian anti-Putin artist likely politically motivated, Polish PM says"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/polen-russischer-exilkuenstler-verdacht-eines-politischen-mordes-tusk-100.html",
+          "category" : "Security",
+          "descriptionTR" : "Nach der Ermordung des russischen Exilkünstlers und Karikaturisten Semjon Skrepezki in Ostpolen haben die Behörden einen Verdächtigen festgenommen. Premier Tusk geht von einem politischen Mord aus - Skrepezki nahm vor allem Putin aufs Korn.\n￼   Nach der Ermordung des russischen Exilkünstlers und Karikaturisten Semjon Skrepezki in Ostpolen haben die Behörden einen Verdächtigen festgenommen. Premier Tusk geht von einem politischen Mord aus - Skrepezki nahm vor allem Putin aufs Korn.[mehr]",
+          "group" : "Russia political murder",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/polen-russischer-exilkuenstler-verdacht-eines-politischen-mordes-tusk-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/polen-russischer-exilkuenstler-verdacht-eines-politischen-mordes-tusk-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/polen-russischer-exilkuenstler-verdacht-eines-politischen-mordes-tusk-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/polen-russland-putin-kuenstler-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/poland-arrest-after-russian-artist-and-putin-critic-killed\/a-77602774?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/russian-dissident-artist-semyon-skrepezki-murdered-in-poland\/a-77612911?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/europe\/un-caricaturiste-russe-anti-poutine-abattu-en-pologne-deux-belarusses-interpelles-20260616_KQELS2IJIRBVLJ2K5C45K6NNPM\/"
+            }
+          ],
+          "titleTR" : "Nach Schüssen auf russischen Exilkünstler: Mann in Polen festgenommen"
+        }
+      ],
+      "packetSpot" : "The shooting of Russian artist Semyon Skrepetsky in Poland is being investigated as a political murder, with a suspect arrested and Prime Minister Tusk highlighting potential international implications.",
+      "packetTitle" : "Shooting of Russian Dissident Artist in Poland Investigated as Political Murder",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/18\/niger-le-gsim-branche-sahelienne-d-al-qaida-revendique-l-attaque-contre-l-aeroport-de-niamey_6704615_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Des tirs ont éclaté au niveau d’un poste de contrôle, sur la seule route d’accès à l’aéroport, à quelques centaines de mètres de l’entrée de l’aérogare, mais les djihadistes ont été repoussés par les forces de sécurité.",
+          "group" : "Sahel jihadist attack",
+          "id" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/18\/niger-le-gsim-branche-sahelienne-d-al-qaida-revendique-l-attaque-contre-l-aeroport-de-niamey_6704615_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/18\/niger-le-gsim-branche-sahelienne-d-al-qaida-revendique-l-attaque-contre-l-aeroport-de-niamey_6704615_3210.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/article\/2026\/06\/18\/niger-le-gsim-branche-sahelienne-d-al-qaida-revendique-l-attaque-contre-l-aeroport-de-niamey_6704615_3210.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/niger-security-forces-battle-gunmen-at-airport\/a-77606109?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Niger : le GSIM, branche sahélienne d’Al-Qaida, revendique l’attaque contre l’aéroport de Niamey"
+        }
+      ],
+      "packetSpot" : "A jihadist attack on Niamey Airport was repelled by Niger's security forces. The GSIM, Al-Qaeda's Sahel branch, claimed responsibility for the assault.",
+      "packetTitle" : "Jihadist Attack on Niamey Airport Repelled by Security Forces",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/bundeswehr-marineschiffe-strasse-von-hormus-100.html",
+          "category" : "Security",
+          "descriptionTR" : "Die Bundeswehr hat zwei Marineschiffe ins Rote Meer verlegt. Sie sollen für einen möglichen Einsatz in der Straße von Hormus bereitstehen. Ob es dort tatsächlich zu einem Minenräumeinsatz kommt, ist noch offen.\n￼   Die Bundeswehr hat zwei Marineschiffe ins Rote Meer verlegt. Sie sollen für einen möglichen Einsatz in der Straße von Hormus bereitstehen. Ob es dort tatsächlich zu einem Minenräumeinsatz kommt, ist noch offen. [mehr]",
+          "group" : "Hormuz naval deployment",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/bundeswehr-marineschiffe-strasse-von-hormus-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/bundeswehr-marineschiffe-strasse-von-hormus-100.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/bundeswehr-marineschiffe-strasse-von-hormus-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/strait-of-hormuz-german-military-prepares-for-possible-deployment\/a-77613999?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Bundeswehr bereitet Marineeinsatz in Hormus vor"
+        }
+      ],
+      "packetSpot" : "The German Bundeswehr is preparing for a possible naval deployment in the Strait of Hormuz, with plans to assist in mine-clearing operations. Two German naval ships have been moved to the Red Sea in anticipation of this potential mission.",
+      "packetTitle" : "German Military Prepares for Potential Naval Deployment in the Strait of Hormuz",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/strait-of-hormuz-reopening-won-t-end-shipping-risks\/a-77553214?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "A proposed US-Iran deal to reopen the Strait of Hormuz is raising hopes for global shipping and oil markets. But naval mines, high insurance costs and geopolitical risks mean disruption could persist for months.",
+          "group" : "Hormuz shipping risks",
+          "id" : "https:\/\/www.dw.com\/en\/strait-of-hormuz-reopening-won-t-end-shipping-risks\/a-77553214?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/strait-of-hormuz-reopening-won-t-end-shipping-risks\/a-77553214?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/strait-of-hormuz-reopening-won-t-end-shipping-risks\/a-77553214?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/mines-in-the-strait-of-hormuz-how-dangerous-are-they\/a-76847658?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/economie\/les-armateurs-presses-de-sortir-leurs-bateaux-bloques-dans-le-detroit-dormuz-la-securite-reste-notre-premiere-priorite-20260618_NMEWLX6BSJH5POJ375N7FXMHXM\/"
+            }
+          ],
+          "titleTR" : "Strait of Hormuz reopening won't end shipping risks"
+        }
+      ],
+      "packetSpot" : "There is a focus on the continued risks to shipping in the Strait of Hormuz, as highlighted by concerns over naval mines, insurance costs, and geopolitical tensions, even with efforts to reopen the passage.",
+      "packetTitle" : "Ongoing Shipping Risks in the Strait of Hormuz Despite Reopening Efforts",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/climate-change-driven-heatwave-brings-uncertainty-to-french-farmers",
+          "category" : "Environment",
+          "descriptionTR" : "The sweltering heat returning to France is hitting farmers particularly hard. Temperatures are set to reach up to 40 degrees celsius , but those in the agriculture sector have no choice but to carry on with their daily work.",
+          "group" : "French heatwave farming",
+          "id" : "https:\/\/www.france24.com\/en\/climate-change-driven-heatwave-brings-uncertainty-to-french-farmers",
+          "link" : "https:\/\/www.france24.com\/en\/climate-change-driven-heatwave-brings-uncertainty-to-french-farmers",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/climate-change-driven-heatwave-brings-uncertainty-to-french-farmers"
+            }
+          ],
+          "titleTR" : "Climate-change driven heatwave brings uncertainty to French farmers"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-episode-de-chaleur-les-40-degres-en-ligne-de-mire-20260618_XXOQVR3PENDPJIZAQM6JKJMRZQ\/",
+          "category" : "Environment",
+          "descriptionTR" : "La vague de chaleur qui déferle sur la France s’intensifie. Selon Météo France, la température la plus élevée de la journée a été relevée à Montmorillon dans la Vienne avec 40,2 °C, un niveau inédit pour un mois de juin. Reports et annulations se multiplient.",
+          "group" : "France heatwave",
+          "id" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-episode-de-chaleur-les-40-degres-en-ligne-de-mire-20260618_XXOQVR3PENDPJIZAQM6JKJMRZQ\/",
+          "link" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-episode-de-chaleur-les-40-degres-en-ligne-de-mire-20260618_XXOQVR3PENDPJIZAQM6JKJMRZQ\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-episode-de-chaleur-les-40-degres-en-ligne-de-mire-20260618_XXOQVR3PENDPJIZAQM6JKJMRZQ\/"
+            }
+          ],
+          "titleTR" : "Alerte canicule : circulation différenciée et limitation de vitesses dans l’agglomération parisienne à partir de vendredi"
+        }
+      ],
+      "packetSpot" : "A severe heatwave in France is impacting both the agricultural sector and urban traffic, with temperatures reaching unprecedented levels.",
+      "packetTitle" : "French Heatwave Intensifies, Affecting Agriculture and Urban Traffic",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/us-or-iran-who-will-win-the-hormuz-endurance-game\/a-77211690?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Energy",
+          "descriptionTR" : "Tehran is betting that its sanctions‑hardened economy can outlast the Strait of Hormuz crisis. Washington, meanwhile, is contending with elevated oil prices, renewed inflation pressure and rising global recession risks.",
+          "group" : "Hormuz energy crisis",
+          "id" : "https:\/\/www.dw.com\/en\/us-or-iran-who-will-win-the-hormuz-endurance-game\/a-77211690?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/us-or-iran-who-will-win-the-hormuz-endurance-game\/a-77211690?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/us-or-iran-who-will-win-the-hormuz-endurance-game\/a-77211690?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "US or Iran: Who will win the Hormuz endurance game?"
+        },
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/despite-agreement-g7-looks-to-decrease-strait-of-hormuz-reliance",
+          "category" : "Energy",
+          "descriptionTR" : "A main topic of discussion among European leaders at the G7 summit has to do with decreasing the global reliance on the Strait of Hormuz. Iran’s success in shuttering the critical waterway has sparked fears that Tehran could use it as an ongoing bargaining chip if a ceasefire and peace deal falls apart. European leaders have pledged military assets to help reopen the Strait of Hormuz.",
+          "group" : "Hormuz energy crisis",
+          "id" : "https:\/\/www.france24.com\/en\/despite-agreement-g7-looks-to-decrease-strait-of-hormuz-reliance",
+          "link" : "https:\/\/www.france24.com\/en\/despite-agreement-g7-looks-to-decrease-strait-of-hormuz-reliance",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 Europe",
+              "url" : "https:\/\/www.france24.com\/en\/despite-agreement-g7-looks-to-decrease-strait-of-hormuz-reliance"
+            }
+          ],
+          "titleTR" : "Despite agreement, G7 looks to decrease Strait of Hormuz reliance"
+        }
+      ],
+      "packetSpot" : "There is a focus on geopolitical strategies and energy reliance in response to the crisis in the Strait of Hormuz, with discussions on economic endurance and military pledges to ensure open waterways.",
+      "packetTitle" : "Strategic Responses to the Strait of Hormuz Crisis",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/faq-eu-gentechnik-100.html",
+          "category" : "Science",
+          "descriptionTR" : "Im Supermarkt dürfen künftig bestimmte genveränderte Lebensmittel ohne Kennzeichnung im Regal stehen. In rund zwei Jahren sollen die Regeln gelten. Was genau ist geplant? Und welche Reaktionen gibt es?\n￼   Im Supermarkt dürfen künftig bestimmte genveränderte Lebensmittel ohne Kennzeichnung im Regal stehen. In rund zwei Jahren sollen die Regeln gelten. Was genau ist geplant? Und welche Reaktionen gibt es?[mehr]",
+          "group" : "EU gene editing rules",
+          "id" : "https:\/\/www.tagesschau.de\/faq-eu-gentechnik-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/faq-eu-gentechnik-100.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-19T02:18:38Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/faq-eu-gentechnik-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/crispr-gene-editing-for-crops-precision-tool-or-new-risk\/a-77579053?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Was bedeuten die neuen EU-Regeln zu Gentechnik?"
+        }
+      ],
+      "packetSpot" : "The EU has introduced new regulations easing restrictions on CRISPR gene-editing technology for crops, sparking a debate over its potential benefits and risks.",
+      "packetTitle" : "EU Eases Restrictions on CRISPR Gene-Editing for Crops",
+      "publishedAt" : "2026-06-19T02:18:38Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    }
+  ],
+  "superPackets" : [
+    {
+      "slots" : [
+        1,
+        2
+      ],
+      "spot" : "Cuba's economic landscape is under intense pressure, with significant reforms and challenges emerging amidst external and internal strains.",
+      "title" : "Cuba's Economic Strain Under US Pressure"
+    },
+    {
+      "slots" : [
+        6,
+        7
+      ],
+      "spot" : "This week, the G7 summit highlighted both a unified stance on Ukraine and internal leadership dynamics. The sources converge on the diplomatic engagements with Russia and the contrasting influence among leaders.",
+      "title" : "G7 Summit: Unified Ukraine Support and Leadership Dynamics"
+    },
+    {
+      "slots" : [
+        16,
+        17,
+        19
+      ],
+      "spot" : "This week, the strategic significance of the Strait of Hormuz intensified as military preparations and ongoing shipping risks highlight its critical global role.",
+      "title" : "Escalating Tensions and Strategic Maneuvers in the Strait of Hormuz"
+    },
+    {
+      "slots" : [
+        8,
+        9,
+        10
+      ],
+      "spot" : "This week, the geopolitical tensions surrounding the Ukraine conflict have intensified, with the EU taking a firm stance against Russian involvement and Russia expanding its recruitment efforts.",
+      "title" : "Escalating Measures and Recruitment in the Ukraine Conflict"
+    },
+    {
+      "slots" : [
+        12,
+        13
+      ],
+      "spot" : "This week, tensions in the English Channel escalated as Russian naval activities faced direct interceptions and confrontations.",
+      "title" : "Escalating Naval Tensions in the English Channel"
+    }
+  ],
+  "week" : "2026-W27"
+}
