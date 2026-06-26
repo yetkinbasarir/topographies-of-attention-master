@@ -1,0 +1,972 @@
+{
+  "label" : "6-12 TEMMUZ",
+  "publishedAt" : "2026-06-26T20:54:34Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna'nın Rusya'nın enerji altyapısına yönelik saldırıları giderek daha fazla etkisini gösteriyor. Rusya tarafından atanan Kırım yetkilileri, bu saldırıların ardından bölgede olağanüstü hal ilan etti. Bu durumun Putin'in imajına zarar verebileceği belirtiliyor.",
+          "group" : "Crimea energy crisis",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/crimea-declares-state-of-emergency-after-ukraine-strikes-energy-grid-a93105"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/22\/crimea-bans-childrens-summer-camps-after-major-ukrainian-attack-a93067"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/21\/ukrainian-strikes-on-russian-annexed-crimea-kill-4-pause-fuel-sales-a93065"
+            }
+          ],
+          "titleTR" : "Kırım'da olağanüstü hal: Sembolik etkiler"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+          "category" : "Security",
+          "descriptionTR" : "Ukrayna'nın Rus işgali altındaki topraklardaki tedarik yollarına yönelik saldırıları nedeniyle yakıt satışları durduruldu. Yakıt zaten kıtlık nedeniyle karneye bağlanmıştı.",
+          "group" : "Crimea energy shortages",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c3ryv72pjqno?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Ukrayna'nın petrol tesislerini hedef almasıyla Kırım'da yakıt satışları durduruldu"
+        }
+      ],
+      "packetSpot" : "Ukrayna'nın Kırım'daki enerji altyapısına yönelik saldırıları, bölgede olağanüstü hal ilan edilmesine ve yakıt karnesine yol açarak Rus işgali altındaki topraklar üzerindeki etkisini gösteriyor.",
+      "packetTitle" : "Ukrayna'nın Kırım'daki saldırıları olağanüstü hal ve yakıt karnesine yol açtı",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "680A1A65-0653-547D-8FB7-651C270D1E16.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
+          "category" : "Security",
+          "descriptionTR" : "Doğrulanmamış haberlere göre, Tula bölgesindeki bir kimya fabrikası ve termik santral drone saldırılarının hedefi oldu.",
+          "group" : "Ukraine drone campaign",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103"
+            }
+          ],
+          "titleTR" : "Rus ordusu bir gecede yaklaşık 700 Ukrayna drone'unu düşürdü"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "Bir zamanlar neredeyse aşılmaz görülen Rus hava savunması, Ukrayna drone'ları nedeniyle artan bir baskı altında. Moskova'ya yapılan son saldırı, Rus savunmasındaki zayıflıklar üzerine tartışmaları yeniden alevlendirdi.",
+          "group" : "Ukraine drone warfare",
+          "id" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Ukrayna drone'ları Rus savunmasındaki zayıflıkları mı ortaya çıkarıyor?"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+          "category" : "Security",
+          "descriptionTR" : "Steve Rosenberg, sıklaşan Ukrayna drone saldırılarının ardından Rusya'nın bir sonraki adımlarının ne olabileceğini açıklıyor.",
+          "group" : "Ukraine drone war",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Putin, Ukrayna drone saldırılarından sonra taktik değiştirecek mi?"
+        },
+        {
+          "atomID" : "https:\/\/orf.at\/stories\/3434491\/",
+          "category" : "Security",
+          "descriptionTR" : "Rusya'nın Kırım'da görevlendirdiği yetkililer, Cuma günü olağanüstü hal ilan etti. Ukrayna'nın drone saldırıları, Rusya'nın ikmal yollarını, enerji altyapısını ve askeri araçlarını hedef aldı. Kırım'da elektrik kesintileri yaşandı, yakıt satışı büyük ölçüde durduruldu. Ukrayna, başka bir yarımadada da sembolik bir zafer kazandı.",
+          "group" : "Ukraine drone war",
+          "id" : "https:\/\/orf.at\/stories\/3434491\/",
+          "link" : "https:\/\/orf.at\/stories\/3434491\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ORF News",
+              "url" : "https:\/\/orf.at\/stories\/3434491\/"
+            }
+          ],
+          "titleTR" : "Kiev'in drone stratejisi Moskova'yı zorluyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Ukrayna'nın drone saldırıları Rus savunmasını zorluyor",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Rus güçleri, Zaporijya bölgesinde depoları, bir idari binayı ve bölge merkezini bombaladı; en az 16 kişinin yaralandığı bildirildi. Bu bilgiyi, bölgenin askeri yönetim başkanı Ivan Fedorov aktardı.",
+          "group" : "Ukraine war attacks",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/26\/ukraine-zaporizhzhia-ablaze-after-russian-missile-and-drone-attack-leaves-at-least-nine-hu"
+            }
+          ],
+          "titleTR" : "Zaporijya'da Rus saldırıları: En az 16 kişi yaralandı"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
+          "category" : "Security",
+          "descriptionTR" : "Saldırı, Ukrayna'nın Moskova'ya karşı savaşın en büyük drone saldırısını başlatmasından iki gün sonra gerçekleşti.",
+          "group" : "Ukraine war strikes",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062"
+            }
+          ],
+          "titleTR" : "Harkiv'de Rus saldırısı: 1 ölü, 9 yaralı"
+        }
+      ],
+      "packetSpot" : "Rusya'nın füze ve drone saldırıları, Harkiv ve Zaporijya'da can kaybına ve hasara yol açtı, özellikle Zaporijya'da ciddi yaralanmalar bildirildi.",
+      "packetTitle" : "Rusya'nın Harkiv ve Zaporijya'ya saldırıları: Can kaybı ve yaralanmalar",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "FBI'nin desteğiyle Karadağ polisi, ABD altyapısına yönelik siber saldırılar düzenlediği iddia edilen İran-Türk vatandaşı bir kişiyi gözaltına aldı. Bu saldırıların milyarlarca dolarlık zarara yol açtığı öne sürülüyor.",
+          "group" : "Iran-linked cyberattack",
+          "id" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/26\/montenegro-police-arrest-iranian-accused-of-hacking-us-universities"
+            }
+          ],
+          "titleTR" : "Karadağ'da ABD'nin aradığı İran bağlantılı hacker yakalandı"
+        }
+      ],
+      "packetSpot" : "Karadağ polisi, FBI'nin yardımıyla ABD üniversitelerine siber saldırılar düzenlemekle suçlanan İran-Türk vatandaşı bir kişiyi tutukladı.",
+      "packetTitle" : "ABD'nin aradığı İranlı hacker Karadağ'da yakalandı",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
+          "category" : "Security",
+          "descriptionTR" : "Devrim Muhafızları, Tahran'ın belirlediği rotaların dışında seyreden her geminin yasa dışı hareket ettiğini belirterek, Umman'ın yeni açıkladığı geçici deniz koridorunu doğrudan reddetti. Rubio ise bir GCC toplantısında, ABD'nin bu deniz yollarıyla ilgili hiçbir ücreti kabul etmeyeceğini ifade etti.",
+          "group" : "Hormuz regional tensions",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/25\/cargo-ship-hit-by-projectile-in-hormuz-as-iran-issues-renewed-passage-warning"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/moyen-orient-situation-confuse-au-detroit-dormuz-que-des-navires-franchissent-sans-respecter-la-route-fixee-par-liran-20260626_3LZKTK66LZADXE7DEXR2BSHSKM\/"
+            }
+          ],
+          "titleTR" : "Devrim Muhafızları, Umman koridorundaki gemileri uyardı; Rubio, geçiş ücretlerine karşı çıktı"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Hürmüz Boğazı'nda deniz yolları ve güvenlik üzerine gerilim artıyor",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "illustrationName" : "F2D67B56-B056-50CC-81D0-43F5C6BB8B28.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
+          "category" : "Security",
+          "descriptionTR" : "Sudan'ın merkezindeki şehir, düzenli orduyla savaş halinde olan Hızlı Destek Kuvvetleri'nin (HDK) hedefinde. Elektrik, yakıt ve içme suyu sıkıntısı çeken sakinler, yakın bir saldırıdan endişe ediyor.",
+          "group" : "Sudan civil war",
+          "id" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
+          "link" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/sudan-fears-of-atrocities-as-rsf-surrounds-key-city\/a-77709377?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Sudan'da El-Obeid sakinleri paramiliter kuşatma altında yeni bir katliamdan korkuyor"
+        }
+      ],
+      "packetSpot" : "Sudan'da stratejik bir şehir olan El-Obeid, Hızlı Destek Kuvvetleri tarafından kuşatma altında. Sakinler, potansiyel vahşet ve insani kriz korkusuyla karşı karşıya.",
+      "packetTitle" : "Sudan'da El-Obeid, paramiliter kuşatma tehdidi altında",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "illustrationName" : "06C60B5A-2B00-5083-A1A7-C53B9458CFAE.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
+          "category" : "Politics",
+          "descriptionTR" : "Viktor Orbán'ın 16 yıllık yönetiminin ardından birçok kişi Macaristan'da demokrasinin öldüğünü düşündü. Ancak Péter Magyar böyle düşünmüyor. DER SPIEGEL, otokratı nasıl devirdiğini anlatan Magyar ile konuştu.",
+          "group" : "Hungary democratic shift",
+          "id" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
+          "link" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Der Spiegel International",
+              "url" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/operation-purgatory-magyar-moves-to-demolish-orban-system\/a-77726207?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Macaristan Başbakanı Péter Magyar: 'Ülkemiz bir rehine devletiydi'"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Péter Magyar'ın Orbán sonrası Macaristan'ı reform girişimleri",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "illustrationName" : "DDF080DB-4B19-546C-ADA0-263C1E74F3E6.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
+          "category" : "Politics",
+          "descriptionTR" : "Almanya'nın önerdiği emeklilik reformu, Bundestag'da bir kez daha tartışıldı. Die Linke, planlanan sermaye emekliliğini sert bir şekilde eleştirirken, CDU bu girişimi savunuyor. F. Aischmann'ın haberine göre, tartışmalar bu kez 'Aktuelle Stunde' oturumunda gerçekleşti.",
+          "group" : "German pension reform",
+          "id" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/germany-s-pension-plans-draw-praise-and-outrage\/a-77663371?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/germany-news-merz-hails-pension-reform-proposals\/live-77666833?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Bundestag'da emeklilik reformu tartışması"
+        }
+      ],
+      "packetSpot" : "Almanya'nın önerdiği emeklilik reformu, siyasi bir tartışmanın fitilini ateşledi. Merkezci politikacılar bunu bir uzlaşma olarak desteklerken, muhalefet partileri eleştiriyor. Bundestag'da bu konuda hararetli tartışmalar yaşanıyor.",
+      "packetTitle" : "Almanya'nın emeklilik reformu siyasi tartışma yaratıyor",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/orf.at\/stories\/3433489\/",
+          "category" : "Culture",
+          "descriptionTR" : "Ingeborg Bachmann'ın 100. doğum günü vesilesiyle düzenlenen kutlamalar sinemayı da kapsıyor: Yönetmen Regina Schilling, \"Ingeborg Bachmann – Jemand, der einmal ich war\" adlı filmiyle yazarın alışılmadık bir portresini sunuyor. Oyuncu Sandra Hüller ile birlikte dünya edebiyatının izlerini süren Schilling, belgesel ve şiirsel bir iz sürme arasında bir hibrit ortaya koymuş.",
+          "group" : "Ingeborg Bachmann portrait",
+          "id" : "https:\/\/orf.at\/stories\/3433489\/",
+          "link" : "https:\/\/orf.at\/stories\/3433489\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ORF News",
+              "url" : "https:\/\/orf.at\/stories\/3433489\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/why-austrian-author-ingeborg-bachmann-remains-a-literary-icon\/a-77609802?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Gerçekler ve şiir arasında bir iz sürme"
+        }
+      ],
+      "packetSpot" : "Avusturyalı yazar Ingeborg Bachmann'ın 100. doğum günü, Sandra Hüller'in yer aldığı yeni bir belgeselle kutlanıyor; belgesel, yazarın kalıcı mirasını gerçek ve şiirsel keşiflerle vurguluyor.",
+      "packetTitle" : "Ingeborg Bachmann'ın 100. doğum günü belgeselle kutlanıyor",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
+          "category" : "Economy",
+          "descriptionTR" : "Alman firması, Çin rekabeti karşısında daha önce duyurulan personel azaltmalarını iki katına çıkarmayı düşünüyor. Volkswagen'in 100.000'e kadar işçi çıkaracağı ve bazı fabrikalarda üretimi azaltıp durduracağı bildiriliyor. Şirket, yönetim kurulundaki bir sunumda dramatik maliyet kesintilerini içeren raporlar hakkında yorum yapmayı reddetti, ancak bu gerçekleşirse Volkswagen'in daha önce duyurulan personel azaltmalarını iki katına çıkarması anlamına gelecek.",
+          "group" : "Volkswagen restructuring",
+          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
+          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wirtschaft\/unternehmen\/vw-stellenabbau-106.html"
+            }
+          ],
+          "titleTR" : "VW'nin 100.000'e kadar işçi çıkaracağı ve fabrikaları kapatacağı bildiriliyor"
+        }
+      ],
+      "packetSpot" : "Volkswagen'in, Çin'den gelen rekabet karşısında maliyet azaltma stratejisinin bir parçası olarak 100.000'e kadar işçi çıkarma ve bazı fabrikaları kapatma planını değerlendirdiği bildiriliyor. Şirket yönetim kurulunun bu önlemleri yaklaşan bir toplantıda tartışması bekleniyor.",
+      "packetTitle" : "Volkswagen, Çin rekabeti karşısında 100.000'e kadar işçi çıkarma ve fabrikaları kapatma planını değerlendiriyor",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "illustrationName" : "9F29FC97-1894-5E59-B1DB-045A472D37F8.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Ukrayna için düzenlenen yeniden inşa konferansından hemen önce Başkan Zelensky, ev sahibi Polonya ile yaşanan bir anlaşmazlık nedeniyle katılımını iptal etti. Onun yerine Başbakan Swyrydenko, yeni milyar dolarlık taahhütleri kabul etti.",
+          "group" : "Ukraine reconstruction aid",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyrkze46p0o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Danzig'deki konferans: AB ortakları Ukrayna'nın yeniden inşasına hazırlanıyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Polonya ve Ukrayna arasında gerginlik: Yeniden inşa konferansı gölgesinde",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "illustrationName" : "88E2C32C-B243-593C-9723-75CCF3A454FF.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
+          "category" : "Law",
+          "descriptionTR" : "John Bolton, eski ABD Başkanı Trump'ın ulusal güvenlik danışmanı, gizli belgeleri usulsüz kullanmaktan suçunu kabul etti. Cezası Ekim ayında açıklanacak. Bir anlaşma yapılması durumunda hapis cezasından kaçınabilir.",
+          "group" : "Trump classified documents",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/c97fd9e9-4b3b-4333-a898-54243ef317d7"
+            }
+          ],
+          "titleTR" : "Gizli belgelerle ilgili usulsüzlük: Trump'ın eski danışmanı suçunu kabul etti"
+        }
+      ],
+      "packetSpot" : "John Bolton, Trump döneminde ulusal güvenlik danışmanı olarak görev yapmıştı ve gizli belgeleri usulsüz kullanmaktan suçunu kabul etti. Bu gelişme, eski Trump yetkililerini içeren hukuki süreçlerde önemli bir adım olarak görülüyor.",
+      "packetTitle" : "John Bolton gizli belgeleri usulsüz kullanmaktan suçunu kabul etti",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Energy",
+          "descriptionTR" : "Enerji ve tedarik zinciri krizinin, ABD ve İran geri adım atsa bile hafiflemesi olası görünmüyor. Uzmanlar, Hürmüz Boğazı'nın yeniden açılması ve altyapının onarılmasının aylar ya da yıllar alabileceği konusunda uyarıyor.",
+          "group" : "Strait of Hormuz tensions",
+          "id" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/strait-of-hormuz-reopening-won-t-end-shipping-risks\/a-77553214?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/us-iran-deal-when-will-oil-prices-fall\/a-77554342?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/petrole-a-ormuz-limpossible-retour-a-la-normale-20260626_BAR2CTRONVGOZM2WYLAMHJTXGY\/"
+            }
+          ],
+          "titleTR" : "İran savaşı: Barış anlaşması bile enerji krizini çözmeyecek"
+        },
+        {
+          "atomID" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "category" : "Energy",
+          "descriptionTR" : "İran'ın Hürmüz Boğazı'ndaki ablukası nasıl kırılabilir? Emekli General S. Clinton Hinote, eski Hava Kuvvetleri baş stratejisti olarak bu soruya yanıt aradı. Sonuç? Zor.",
+          "group" : "Hormuz shipping crisis",
+          "id" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "link" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Der Spiegel International",
+              "url" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss"
+            }
+          ],
+          "titleTR" : "ABD'li askeri uzmana göre İran'ın başarısı felakete yol açabilir"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Hürmüz Boğazı'nda süregelen enerji ve güvenlik sorunları",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "illustrationName" : "6FC21DC4-1244-5ECE-A333-8B7BEE2D864B.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
+          "category" : "Environment",
+          "descriptionTR" : "Avusturya Grand Prix'si, Orta ve Kuzey Avrupa'da sıcaklıkların dramatik bir şekilde artması beklenirken, sıcaklık tehlikesi ilan etti. Almanya ve Polonya'da, hafta sonu boyunca sıcaklıkların 40C'ye (104F) kadar çıkması bekleniyor. Spielberg'de düzenlenen Avusturya Grand Prix'si, bu sezon ilk kez sıcaklık tehlikesi ilan etti. Yarış sırasında sıcaklıkların, mekan için alışılmışın neredeyse 10C üzerinde, 30C'nin üzerine çıkması bekleniyor. Avrupa genelinde şiddetli sıcaklıklar, şiddetli fırtınalara yol açtı. Rusya'nın Sverdlovsk bölgesinde, 22 Haziran akşamı güçlü bir kasırga bildirildi. Uluslararası Fujita ölçeğinde 5 üzerinden 3 olarak değerlendirilen kasırga, Kushva kasabasında 16 kişiyi yaraladı ve yaklaşık 100 ev ve iş yerini yıktı veya hasar verdi. Acil servisler, kasabaya elektrik sağlamak için çalışıyor. Rusya'da kasırgalar nadir görülse de, gelecekte iklimin bozulmasıyla daha yaygın hale gelebileceği öngörülüyor. Ülkenin güneyinde fırtına uyarıları Cuma günü de devam etti.",
+          "group" : "Europe heatwave crisis",
+          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/26\/europeans-voice-concerns-amid-sweltering-heatwave-video"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/live\/2026\/jun\/26\/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/23\/europe-battles-record-breaking-heat-is-this-the-new-normal-the-latest"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/gallery\/2026\/jun\/23\/europe-june-heatwave-in-pictures"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/women-low-income-families-bear-brunt-climate-crisis-heatwave"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/adapting-heat-ideas-from-european-cities"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/25\/heatwave-scorches-europe-from-london-to-madrid-as-temperatures-near-39c"
+            }
+          ],
+          "titleTR" : "Hava durumu: Almanya ve Polonya'da sıcaklıklar 40C'ye ulaşacak"
+        }
+      ],
+      "packetSpot" : "Avrupa, İspanya'dan Polonya'ya uzanan bölgelerde 40C'ye yaklaşan sıcaklıklarla şiddetli bir sıcak hava dalgası yaşıyor ve bu durum önemli kamu güvenliği endişelerine yol açıyor.",
+      "packetTitle" : "Avrupa'da 40C'ye yaklaşan sıcak hava dalgası etkisi",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Environment",
+          "descriptionTR" : "İnsan kaynaklı iklim değişikliği, bu yılki rekor sıcaklık dalgasını 4 dereceye kadar daha sıcak hale getirdi.",
+          "group" : "European heat wave",
+          "id" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Avrupa'daki sıcak hava dalgası normal yaz havası değil"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
+          "category" : "Environment",
+          "descriptionTR" : "A7 otoyolunda meydana gelen sıcaklık hasarı nedeniyle kuzeye giden bir şerit hafta sonu boyunca kapalı kalacak. Fransız hükümeti, mevcut sıcak hava dalgasının ülkede birçok ölüme yol açmış olabileceğini öngörüyor.",
+          "group" : "European heatwave",
+          "id" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
+          "link" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wissen\/klima\/hitzewelle-klimawandel-102.html"
+            }
+          ],
+          "titleTR" : "A7 otoyolunda sıcaklık hasarı: Kuzeye giden şerit kapalı"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+          "category" : "Environment",
+          "descriptionTR" : "Almanya'nın şimdiye kadarki en yüksek sıcaklığı, Fransa sınırındaki Saarbrücken'de geçici olarak 41.3°C olarak kaydedildi.",
+          "group" : "European heatwave",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Avrupa'nın ölümcül sıcak hava dalgası Almanya'da rekor kırdı, kamu etkinlikleri durdu"
+        }
+      ],
+      "packetSpot" : "Avrupa'da sıcaklıklar rekor seviyelere ulaştı, altyapı sorunlarına ve sağlık endişelerine yol açtı.",
+      "packetTitle" : "Avrupa'da rekor kıran sıcak hava dalgası altyapıyı vurdu, sağlık endişelerini artırdı",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "illustrationName" : "63EDF9A4-FAF9-522F-BA5C-4618A671A595.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "category" : "Environment",
+          "descriptionTR" : "Fransa, sıcaklıkların yükselmesiyle birlikte klimalara karşı uzun süredir devam eden çekincelerini yeniden değerlendirmek zorunda kalıyor.",
+          "group" : "Europe heatwave response",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cz0j87vpz79o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/c802denngxeo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Fransa'da en sıcak gün kaydedildi, klima politik bir tartışma yarattı"
+        },
+        {
+          "atomID" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
+          "category" : "Environment",
+          "descriptionTR" : "Bilim insanlarına göre, kıtadaki gündüz sıcaklıkları küresel ısınma hızından üç kat daha hızlı artıyor.",
+          "group" : "Europe heatwave response",
+          "id" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
+          "link" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f"
+            }
+          ],
+          "titleTR" : "Avrupa'nın rekor Haziran sıcaklıkları: Zorlayıcı geceler ve nem"
+        }
+      ],
+      "packetSpot" : "Avrupa, rekor sıcak hava dalgasıyla karşı karşıya. Fransa, artan sıcaklıklar nedeniyle klima konusundaki tutumunu yeniden gözden geçiriyor. Kıtanın sıcaklıkları, küresel ortalamadan üç kat daha hızlı artıyor.",
+      "packetTitle" : "Avrupa'da rekor sıcak hava dalgası: Artan sıcaklıklar ve klima tartışmaları",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "illustrationName" : "167ACD83-9E27-56DD-AF65-115D8D4EEED0.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Health",
+          "descriptionTR" : "Kalkınma yardımlarının azaltılması, Demokratik Kongo Cumhuriyeti'ndeki Ebola salgınının kontrol altına alınamamasına katkıda bulunuyor. Alman kuruluşları, yayılmayı durdurmak için harcamaların artırılması çağrısında bulunuyor.",
+          "group" : "Congo Ebola outbreak",
+          "id" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/new-ebola-cases-in-congo-what-you-need-to-know\/a-77325922?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Uluslararası yardım kesintileri Kongo'daki Ebola salgınını zorlaştırıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
+          "category" : "Health",
+          "descriptionTR" : "Ulusal halk sağlığı enstitüsünün verilerine göre, 15 Mayıs'tan bu yana Demokratik Kongo Cumhuriyeti'nde 1.115 kişi virüsle enfekte oldu.",
+          "group" : "Congo Ebola outbreak",
+          "id" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
+          "link" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html"
+            }
+          ],
+          "titleTR" : "Yetkililerin son bilançosuna göre, KDC'deki Ebola salgını 304 can aldı"
+        }
+      ],
+      "packetSpot" : "Demokratik Kongo Cumhuriyeti'ndeki Ebola salgınını kontrol altına alma zorluklarına odaklanılıyor; uluslararası yardım kesintileri ve artan ölüm sayıları durumun ciddiyetini gözler önüne seriyor.",
+      "packetTitle" : "Demokratik Kongo Cumhuriyeti'nde Ebola salgınını kontrol altına alma zorlukları",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
+          "category" : "Health",
+          "descriptionTR" : "Almanya'da binlerce kişi bir bağış organı bekliyor, ancak organ sayısı yetersiz. Organ bağışı için yeni kurallar bu durumu değiştirebilir mi? Bundestag'da bu konuda açık bir tartışma yapıldı. Birthe Sönnichsen'in haberi.",
+          "group" : "German organ donation reform",
+          "id" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/germany-considers-opt-out-organ-donor-option\/a-77712351?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Bundestag'da organ bağışı tartışması: \"İnsan yedek parça deposu değildir\""
+        }
+      ],
+      "packetSpot" : "Almanya parlamentosu, bağış organlarının yetersizliği sorununu çözmek için 'opt-in'den 'opt-out'a geçişi tartışıyor.",
+      "packetTitle" : "Almanya'da 'opt-out' organ bağışı sistemi tartışmaları",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Health",
+          "descriptionTR" : "Yaz, FIFA Dünya Kupası ve soğuk bir bira kulağa hoş gelebilir. Ancak dikkatli olun; sıcak hava ve alkol birleşimi hızla kötü sonuçlar doğurabilir.",
+          "group" : "Heat wave health",
+          "id" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/fact-check-as-europe-bakes-should-you-trust-your-sunscreen\/a-77707226?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/france-bans-alcohol-during-fete-de-la-musique-amid-heat-wave\/a-77639233?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Sıcak hava dalgası: Soğuk bira veya kokteylden neden kaçınmalısınız?"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
+          "category" : "Health",
+          "descriptionTR" : "Almanya'da şu anda 30 dereceyi aşan çok yüksek sıcaklıklar hakim. Sağlık yetkilileri sıcaklık yükü konusunda uyarıyor. Günlük hayatta en iyi nasıl korunabiliriz? İşte genel bir bakış.",
+          "group" : "Heat safety guidance",
+          "id" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html"
+            }
+          ],
+          "titleTR" : "Sıcak günleri nasıl atlatırız?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Avrupa'da sıcak hava dalgalarında sağlık önlemleri",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/orf.at\/stories\/3434466\/",
+          "category" : "Health",
+          "descriptionTR" : "Avusturya'da hafta sonu sıcak hava dalgası zirveye ulaşacak. Ülkenin bazı bölgelerinde sıcaklıkların 40 dereceye ulaşması bekleniyor. Özellikle yaşlılar ve hastalar için bu sıcaklıklar hayati tehlike oluşturabilir. Bu nedenle, bakım evleri ve hastanelerdeki yük oldukça büyük.",
+          "group" : "Heatwave hospital strain",
+          "id" : "https:\/\/orf.at\/stories\/3434466\/",
+          "link" : "https:\/\/orf.at\/stories\/3434466\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ORF News",
+              "url" : "https:\/\/orf.at\/stories\/3434466\/"
+            }
+          ],
+          "titleTR" : "Hastanelerdeki hastalar sıcak hava dalgasından etkileniyor"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
+          "category" : "Health",
+          "descriptionTR" : "Météo France, bu cuma günü ülkenin batısında sıcaklıkların düşmeye başladığını ve hafta sonu boyunca devam edeceğini doğruladı, ancak sıcaklıklar Fransa'nın büyük bir kısmında yüksek seviyelerde kalmaya devam edecek.",
+          "group" : "Heatwave hospital strain",
+          "id" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
+          "link" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/"
+            }
+          ],
+          "titleTR" : "Fransa'da hastaneler için 30.000 klima siparişi onaylandı"
+        }
+      ],
+      "packetSpot" : "Avusturya'da sıcak hava dalgası hastaneleri zorlarken, Fransa hastanelerine 30.000 klima siparişi verdi.",
+      "packetTitle" : "Avusturya'da hastaneler sıcak hava dalgasıyla zorlanıyor, Fransa'dan klima hamlesi",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    }
+  ],
+  "superPackets" : [
+    {
+      "slots" : [
+        1,
+        2,
+        3
+      ],
+      "spot" : "This week, the conflict in Ukraine saw intensified aerial warfare as Ukrainian strikes on Crimea and drone attacks challenged Russian defenses, while Russian missile and drone assaults resulted in casualties in Kharkiv and Zaporizhzhia.",
+      "title" : "Escalation of Aerial Warfare in the Ukraine Conflict"
+    },
+    {
+      "slots" : [
+        5,
+        13
+      ],
+      "spot" : "This week, tensions in the Strait of Hormuz intensified as maritime security and energy challenges converged. The focus sharpened on the strategic importance of this vital corridor.",
+      "title" : "Escalating Tensions and Security Concerns in the Strait of Hormuz"
+    },
+    {
+      "slots" : [
+        14,
+        15,
+        16,
+        19,
+        20
+      ],
+      "spot" : "This week, Europe is gripped by an unprecedented heatwave, causing widespread disruptions and health challenges. The intense temperatures are straining infrastructure and healthcare systems across the continent.",
+      "title" : "Europe's Record-Breaking Heatwave Intensifies"
+    }
+  ],
+  "week" : "2026-W28"
+}
