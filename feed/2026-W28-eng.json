@@ -1,0 +1,972 @@
+{
+  "label" : "6-12 TEMMUZ",
+  "publishedAt" : "2026-06-26T20:54:34Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
+          "category" : "Security",
+          "descriptionTR" : "Die ukrainischen Angriffe auf Russlands Energieversorgung zeigen immer deutlicher Wirkung. Nun riefen die von Russland eingesetzten Krim-Behörden den Notstand aus. Für Putin könnte das zum Imageschaden werden. Von B. Blaschke.\n￼   Die ukrainischen Angriffe auf Russlands Energieversorgung zeigen immer deutlicher Wirkung. Nun riefen die von Russland eingesetzten Krim-Behörden den Notstand aus. Für Putin könnte das zum Imageschaden werden. Von B. Blaschke.[mehr]",
+          "group" : "Crimea energy crisis",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/crimea-declares-state-of-emergency-after-ukraine-strikes-energy-grid-a93105"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/22\/crimea-bans-childrens-summer-camps-after-major-ukrainian-attack-a93067"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/21\/ukrainian-strikes-on-russian-annexed-crimea-kill-4-pause-fuel-sales-a93065"
+            }
+          ],
+          "titleTR" : "Lage auf der Krim: Ein Notstand mit Symbolwirkung"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+          "category" : "Security",
+          "descriptionTR" : "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+          "group" : "Crimea energy shortages",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c3ryv72pjqno?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities"
+        }
+      ],
+      "packetSpot" : "Ukrainian attacks on Crimea's energy infrastructure have prompted a state of emergency and fuel rationing in the region, highlighting the impact on Russian-occupied territories.",
+      "packetTitle" : "Ukrainian Strikes on Crimea Lead to State of Emergency and Fuel Rationing",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "680A1A65-0653-547D-8FB7-651C270D1E16.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
+          "category" : "Security",
+          "descriptionTR" : "Unverified reports said a chemical factory and thermal power plant in the central Tula region were targeted in drone attacks.",
+          "group" : "Ukraine drone campaign",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103"
+            }
+          ],
+          "titleTR" : "Russian Army Downs Nearly 700 Ukrainian Drones Overnight"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "Once seen as almost impenetrable, Russian air defenses are now under growing strain from Ukrainian drones. A recent attack on Moscow has reignited debate over Russian vulnerabilities.",
+          "group" : "Ukraine drone warfare",
+          "id" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Are Ukraine drones really exposing gaps in Russia's defense?"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+          "category" : "Security",
+          "descriptionTR" : "Steve Rosenberg explains what Russia's next steps may be after frequent Ukrainian drone attacks.",
+          "group" : "Ukraine drone war",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Will Putin change tactics after Ukrainian drone attacks?"
+        },
+        {
+          "atomID" : "https:\/\/orf.at\/stories\/3434491\/",
+          "category" : "Security",
+          "descriptionTR" : "Die von Russland eingesetzten Behörden auf der Halbinsel Krim haben am Freitag den Ausnahmezustand ausgerufen. Drohnenattacken der Ukraine hatten zuvor wiederholt die russischen Nachschubwege, Energieinfrastruktur und Militärfahrzeuge zum Ziel. Auf der Krim kam es bereits zu Stromabschaltungen, der Treibstoffverkauf wurde großteils eingestellt. Und auch auf einer anderen Halbinsel verzeichnete die Ukraine einen symbolischen Sieg.",
+          "group" : "Ukraine drone war",
+          "id" : "https:\/\/orf.at\/stories\/3434491\/",
+          "link" : "https:\/\/orf.at\/stories\/3434491\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ORF News",
+              "url" : "https:\/\/orf.at\/stories\/3434491\/"
+            }
+          ],
+          "titleTR" : "Drohnenstrategie Kiews setzt Moskau zu"
+        }
+      ],
+      "packetSpot" : "Ukrainian drone attacks are increasingly targeting Russian military and infrastructure, exposing vulnerabilities in Russian defenses and prompting discussions on potential changes in Russian tactics. Reports indicate significant impacts, including in Crimea and central Russia.",
+      "packetTitle" : "Escalating Ukrainian Drone Attacks Challenge Russian Military Defenses",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
+          "category" : "Security",
+          "descriptionTR" : "Les forces russes ont bombardé des entrepôts et un bâtiment administratif, ainsi que le centre régional, faisant au moins 16 blessés, a rapporté Ivan Fedorov, le chef de l’administration militaire de l’oblast.",
+          "group" : "Ukraine war attacks",
+          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
+          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/26\/ukraine-zaporizhzhia-ablaze-after-russian-missile-and-drone-attack-leaves-at-least-nine-hu"
+            }
+          ],
+          "titleTR" : "EN DIRECT, guerre en Ukraine : au moins 16 personnes blessées par des attaques russes dans l’oblast de Zaporijia"
+        },
+        {
+          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
+          "category" : "Security",
+          "descriptionTR" : "The attack came two day after Ukraine launched its largest drone attack of the war against Moscow.",
+          "group" : "Ukraine war strikes",
+          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
+          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Moscow Times",
+              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062"
+            }
+          ],
+          "titleTR" : "Russian Strike Kills 1, Wounds 9 in Kharkiv"
+        }
+      ],
+      "packetSpot" : "Russian missile and drone attacks have resulted in casualties and damage in both Kharkiv and Zaporizhzhia, with significant injuries reported in the latter.",
+      "packetTitle" : "Russian Missile and Drone Attacks Cause Casualties in Kharkiv and Zaporizhzhia",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Security",
+          "descriptionTR" : "The FBI was helping the Montenegrin police detain an Iranian-Turkish national whose cyberattacks on US infrastructure allegedly caused billions in damages.",
+          "group" : "Iran-linked cyberattack",
+          "id" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/26\/montenegro-police-arrest-iranian-accused-of-hacking-us-universities"
+            }
+          ],
+          "titleTR" : "Montenegro arrests Iran-linked hacker wanted by US"
+        }
+      ],
+      "packetSpot" : "Montenegro police, with FBI assistance, arrested an Iranian-Turkish national accused of hacking US universities and causing significant damages.",
+      "packetTitle" : "Montenegro Arrests Iranian Hacker Wanted by the US for Cyberattacks on Universities",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
+          "category" : "Security",
+          "descriptionTR" : "The IRGC warned that any vessel navigating outside Tehran's designated routes was acting illegally, directly rejecting Oman's newly announced temporary corridor, as Rubio told a GCC meeting the US would not accept fees regardless of how they are framed.",
+          "group" : "Hormuz regional tensions",
+          "id" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
+          "link" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/06\/25\/cargo-ship-hit-by-projectile-in-hormuz-as-iran-issues-renewed-passage-warning"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/moyen-orient-situation-confuse-au-detroit-dormuz-que-des-navires-franchissent-sans-respecter-la-route-fixee-par-liran-20260626_3LZKTK66LZADXE7DEXR2BSHSKM\/"
+            }
+          ],
+          "titleTR" : "IRGC warns ships off Oman's corridor in Hormuz as Rubio draws line on tolls"
+        }
+      ],
+      "packetSpot" : "Tensions in the Strait of Hormuz are escalating due to disputes over maritime routes and security concerns, including Iran's warnings against using Oman's corridor and the presence of naval mines.",
+      "packetTitle" : "Tensions Rise in the Strait of Hormuz Over Maritime Routes and Security",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "illustrationName" : "F2D67B56-B056-50CC-81D0-43F5C6BB8B28.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
+          "category" : "Security",
+          "descriptionTR" : "La ville du centre du Soudan est en ligne de mire des Forces de soutien rapide (FSR), en guerre contre l’armée régulière. Privés d’électricité, de carburant et d’eau potable, ses habitants craignent qu’un assaut imminent soit lancé.",
+          "group" : "Sudan civil war",
+          "id" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
+          "link" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
+          "newsValue" : 9,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/sudan-fears-of-atrocities-as-rsf-surrounds-key-city\/a-77709377?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "« Nous n’allons plus tenir très longtemps » : au Soudan, les habitants d’El-Obeid, assiégée par les paramilitaires, craignent un nouveau massacre"
+        }
+      ],
+      "packetSpot" : "El-Obeid, a strategic city in Sudan, is under siege by the Rapid Support Forces, raising fears of potential atrocities and a humanitarian crisis among its residents.",
+      "packetTitle" : "El-Obeid in Sudan Faces Imminent Threat from Paramilitary Siege",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "illustrationName" : "06C60B5A-2B00-5083-A1A7-C53B9458CFAE.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
+          "category" : "Politics",
+          "descriptionTR" : "After 16 years of Viktor Orbán's rule, it looked to many as though democracy in Hungary was dead. But not to Péter Magyar. DER SPIEGEL spoke with him about how he managed to boot out the autocrat. After 16 years of Viktor Orbán's rule, it looked to many as though democracy in Hungary was dead. But not to Péter Magyar. DER SPIEGEL spoke with him about how he managed to boot out the autocrat.",
+          "group" : "Hungary democratic shift",
+          "id" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
+          "link" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Der Spiegel International",
+              "url" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/operation-purgatory-magyar-moves-to-demolish-orban-system\/a-77726207?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Hungarian Premier Péter Magyar: 'Our Country Was a Hostage State'"
+        }
+      ],
+      "packetSpot" : "Péter Magyar is leading efforts to reform Hungary by dismantling the political system established by Viktor Orbán, focusing on anti-corruption, media reform, and democratic protection.",
+      "packetTitle" : "Péter Magyar's Initiatives to Reform Hungary Post-Orbán",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "illustrationName" : "DDF080DB-4B19-546C-ADA0-263C1E74F3E6.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
+          "category" : "Politics",
+          "descriptionTR" : "Chance oder fahrlässiges Spekulieren? Die Linke kritisiert die geplante Kapitalrente scharf, die CDU verteidigt das Vorhaben. Im Bundestag ging es erneut um die Rentenreform der Bundesregierung - diesmal in einer Aktuellen Stunde. Von F. Aischmann\n￼   Chance oder fahrlässiges Spekulieren? Die Linke kritisiert die geplante Kapitalrente scharf, die CDU verteidigt das Vorhaben. Im Bundestag ging es erneut um die Rentenreform der Bundesregierung - diesmal in einer Aktuellen Stunde. Von F. Aischmann[mehr]",
+          "group" : "German pension reform",
+          "id" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/germany-s-pension-plans-draw-praise-and-outrage\/a-77663371?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/germany-news-merz-hails-pension-reform-proposals\/live-77666833?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Aktuelle Stunde: Streit über Rentenreform im Bundestag"
+        }
+      ],
+      "packetSpot" : "Germany's proposed pension reform has ignited a political debate, with centrist politicians supporting it as a compromise while opposition parties criticize it. The Bundestag has seen heated discussions on the matter.",
+      "packetTitle" : "Germany's Pension Reform Sparks Political Debate",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/orf.at\/stories\/3433489\/",
+          "category" : "Culture",
+          "descriptionTR" : "Die derzeitigen Festspiele anlässlich des 100. Geburtstags von Ingeborg Bachmann machen auch vor dem Kino nicht Halt: Mit „Ingeborg Bachmann – Jemand, der einmal ich war“ hat Regisseurin Regina Schilling ein ungewöhnliches Filmporträt der Schriftstellerin vorgelegt. Gemeinsam mit Schauspielerin Sandra Hüller begab sie sich auf die Spuren der Weltliteratin – herausgekommen ist ein Hybrid zwischen Dokumentarfilm und poetischer Spurensuche.",
+          "group" : "Ingeborg Bachmann portrait",
+          "id" : "https:\/\/orf.at\/stories\/3433489\/",
+          "link" : "https:\/\/orf.at\/stories\/3433489\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ORF News",
+              "url" : "https:\/\/orf.at\/stories\/3433489\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/why-austrian-author-ingeborg-bachmann-remains-a-literary-icon\/a-77609802?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Spurensuche zwischen Fakten und Poesie"
+        }
+      ],
+      "packetSpot" : "A new documentary featuring Sandra Hüller marks the 100th birthday of Austrian author Ingeborg Bachmann, highlighting her enduring legacy through a blend of factual and poetic exploration.",
+      "packetTitle" : "Documentary Celebrates Ingeborg Bachmann's 100th Birthday",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
+          "category" : "Economy",
+          "descriptionTR" : "German firm reportedly considering doubling previously announced staff reductions amid Chinese competition\n\t•\tBusiness live – latest updates\nGermany’s Volkswagen is to cut up to 100,000 jobs and reduce and eventually stop production at some plants, according to reports.\nThe company has refused to comment on reports of a management presentation at a board meeting outlining dramatic cost cutting, but if it goes ahead it would mean Volkswagen doubling previously announced staff reductions.",
+          "group" : "Volkswagen restructuring",
+          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
+          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wirtschaft\/unternehmen\/vw-stellenabbau-106.html"
+            }
+          ],
+          "titleTR" : "VW plans to cut up to 100,000 jobs and shut plants, report says"
+        }
+      ],
+      "packetSpot" : "Volkswagen is reportedly planning to cut up to 100,000 jobs and shut down some plants as part of a cost-cutting strategy in response to competition from China. The company's board is expected to discuss these measures in an upcoming meeting.",
+      "packetTitle" : "Volkswagen Considers Cutting Up to 100,000 Jobs and Shutting Plants Amidst Chinese Competition",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "illustrationName" : "9F29FC97-1894-5E59-B1DB-045A472D37F8.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Kurz vor der Wiederaufbau-Konferenz für die Ukraine hatte Präsident Selenskyj seine Teilnahme abgesagt. Grund war ein Streit mit Gastgeber Polen. Für ihn nahm Regierungschefin Swyrydenko neue Milliardenzusagen entgegen. Von P. Milling.\n￼   Kurz vor der Wiederaufbau-Konferenz für die Ukraine hatte Präsident Selenskyj seine Teilnahme abgesagt. Grund war ein Streit mit Gastgeber Polen. Für ihn nahm Regierungschefin Swyrydenko neue Milliardenzusagen entgegen. Von P. Milling.[mehr]",
+          "group" : "Ukraine reconstruction aid",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyrkze46p0o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Konferenz in Danzig: EU-Partner bereiten Wiederaufbau der Ukraine vor"
+        }
+      ],
+      "packetSpot" : "Ukrainian President Zelensky's absence from a key reconstruction conference in Poland highlights tensions between the two nations, with Poland's Tusk emphasizing the need for mutual respect.",
+      "packetTitle" : "Tensions Between Poland and Ukraine Amid Reconstruction Conference",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "illustrationName" : "88E2C32C-B243-593C-9723-75CCF3A454FF.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
+          "category" : "Law",
+          "descriptionTR" : "John Bolton, Ex-Sicherheitsberater von US-Präsident Trump, hat den unsachgemäßen Umgang mit Geheimdokumenten eingeräumt und sich schuldig bekannt. Das Strafmaß wird im Oktober verkündet. Ein Deal könnte eine Haftstrafe verhindern.\n￼   John Bolton, Ex-Sicherheitsberater von US-Präsident Trump, hat den unsachgemäßen Umgang mit Geheimdokumenten eingeräumt und sich schuldig bekannt. Das Strafmaß wird im Oktober verkündet. Ein Deal könnte eine Haftstrafe verhindern.[mehr]",
+          "group" : "Trump classified documents",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/c97fd9e9-4b3b-4333-a898-54243ef317d7"
+            }
+          ],
+          "titleTR" : "Umgang mit geheimen Akten: Ex-Berater von Trump bekennt sich schuldig"
+        }
+      ],
+      "packetSpot" : "John Bolton, former US national security adviser under President Trump, has pleaded guilty to mishandling classified documents. The plea marks a significant development in legal actions involving former Trump officials.",
+      "packetTitle" : "John Bolton Pleads Guilty to Mishandling Classified Documents",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Energy",
+          "descriptionTR" : "The growing energy and supply chain crisis is unlikely to ease, even if the US and Iran step back from the brink. Experts warn that reopening the Strait of Hormuz and repairing infrastructure could take months or years.",
+          "group" : "Strait of Hormuz tensions",
+          "id" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/strait-of-hormuz-reopening-won-t-end-shipping-risks\/a-77553214?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/us-iran-deal-when-will-oil-prices-fall\/a-77554342?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/petrole-a-ormuz-limpossible-retour-a-la-normale-20260626_BAR2CTRONVGOZM2WYLAMHJTXGY\/"
+            }
+          ],
+          "titleTR" : "Iran war: Even a peace deal won't fix energy crunch"
+        },
+        {
+          "atomID" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "category" : "Energy",
+          "descriptionTR" : "How can Iran's blockade of the Strait of Hormuz be broken? Retired General S. Clinton Hinote has addressed precisely that question as the former Air Force chief strategist. His conclusion? Difficult. How can Iran's blockade of the Strait of Hormuz be broken? Retired General S. Clinton Hinote has addressed precisely that question as the former Air Force chief strategist. His conclusion? Difficult.",
+          "group" : "Hormuz shipping crisis",
+          "id" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "link" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Der Spiegel International",
+              "url" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss"
+            }
+          ],
+          "titleTR" : "U.S. Military Expert on Oil Tanker Convoys in the Strait of Hormuz: \"Iran Must Only Succeed Once to Trigger a Catastrophe\""
+        }
+      ],
+      "packetSpot" : "There is a persistent energy and security crisis in the Strait of Hormuz, with experts highlighting the difficulty of breaking Iran's blockade and the long-term challenges in restoring normalcy to oil exports.",
+      "packetTitle" : "Ongoing Energy and Security Challenges in the Strait of Hormuz",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "illustrationName" : "6FC21DC4-1244-5ECE-A333-8B7BEE2D864B.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
+          "category" : "Environment",
+          "descriptionTR" : "Austrian Grand Prix declares heat hazard as dramatic rise in temperatures forecast in central and northern Europe\nTemperatures are forecast to rise dramatically in parts of central and northern Europe this weekend as the intense heatwave continues. In Germany and Poland, highs up to or exceeding 40C (104F) are expected on both Saturday and Sunday, days after swathes of France experienced similar extreme temperatures. The Austrian Grand Prix, taking place this weekend in Spielberg, has declared a heat hazard, the first race to do so this season. Temperatures are expected to rise into the low 30s celsius during the race, almost 10C warmer than usual for the venue.\nAcross Europe, the intense heat has led to severe thunderstorms. In the Sverdlovsk region of central Russia, a strong tornado was reported on the evening of 22 June. Rated a 3 out of 5 on the international Fujita scale, the twister injured 16 people and destroyed or damaged about 100 homes and businesses in the town of Kushva. Emergency services have been working on restoring power to the town. Tornadoes are not unheard of in Russia but are rare. Forecasters say they may become more common in future as the climate breaks down. Storm warnings remained in effect in the southern part of the country on Friday.",
+          "group" : "Europe heatwave crisis",
+          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/26\/europeans-voice-concerns-amid-sweltering-heatwave-video"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/live\/2026\/jun\/26\/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/23\/europe-battles-record-breaking-heat-is-this-the-new-normal-the-latest"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/gallery\/2026\/jun\/23\/europe-june-heatwave-in-pictures"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/women-low-income-families-bear-brunt-climate-crisis-heatwave"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/adapting-heat-ideas-from-european-cities"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/25\/heatwave-scorches-europe-from-london-to-madrid-as-temperatures-near-39c"
+            }
+          ],
+          "titleTR" : "Weather tracker: Heatwave expected to bring Germany and Poland to 40C"
+        }
+      ],
+      "packetSpot" : "Europe is experiencing a severe heatwave with temperatures reaching near 40C, affecting regions from Spain to Poland and causing significant public safety concerns.",
+      "packetTitle" : "Europe Faces Intense Heatwave with Temperatures Nearing 40C",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Environment",
+          "descriptionTR" : "Human-induced climate change has intensified temperatures, making this year's record heat wave up to 4 degrees Celsius hotter.",
+          "group" : "European heat wave",
+          "id" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "European heat wave is not normal summer weather"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
+          "category" : "Environment",
+          "descriptionTR" : "Aufgrund eines Hitzeschadens auf der A7 muss ein Fahrstreifen in Richtung Norden über das Wochenende gesperrt bleiben. Die französische Regierung rechnet damit, dass die aktuelle Hitzewelle schon zu vielen Todesfällen im Land geführt hat.\n￼   Aufgrund eines Hitzeschadens auf der A7 muss ein Fahrstreifen in Richtung Norden über das Wochenende gesperrt bleiben. Die französische Regierung rechnet damit, dass die aktuelle Hitzewelle schon zu vielen Todesfällen im Land geführt hat.[mehr]",
+          "group" : "European heatwave",
+          "id" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
+          "link" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wissen\/klima\/hitzewelle-klimawandel-102.html"
+            }
+          ],
+          "titleTR" : "Hitze-Liveblog: ++ Hitzeschaden auf A7 - Fahrspur nach Norden gesperrt ++"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+          "category" : "Environment",
+          "descriptionTR" : "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+          "group" : "European heatwave",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Europe's deadly heatwave breaks German record and halts public events"
+        }
+      ],
+      "packetSpot" : "The European heatwave has reached unprecedented temperatures, causing infrastructure disruptions and raising health concerns across the continent.",
+      "packetTitle" : "Record-Breaking European Heatwave Causes Infrastructure Disruptions and Health Concerns",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "illustrationName" : "63EDF9A4-FAF9-522F-BA5C-4618A671A595.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "category" : "Environment",
+          "descriptionTR" : "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+          "group" : "Europe heatwave response",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cz0j87vpz79o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/c802denngxeo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Air conditioning creates political divide after France records hottest day"
+        },
+        {
+          "atomID" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
+          "category" : "Environment",
+          "descriptionTR" : "Daytime peaks on the continent rising three times as fast as the wider rate of global warming, scientists say",
+          "group" : "Europe heatwave response",
+          "id" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
+          "link" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Financial Times World",
+              "url" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f"
+            }
+          ],
+          "titleTR" : "Brutal nights and humidity mark Europe’s record June temperatures"
+        }
+      ],
+      "packetSpot" : "Europe is experiencing record-breaking heatwave conditions, with France reconsidering its stance on air conditioning amid soaring temperatures. The continent's temperatures are rising at a rate three times faster than the global average.",
+      "packetTitle" : "Europe Faces Record Heatwave with Rising Temperatures and Air Conditioning Debates",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "illustrationName" : "167ACD83-9E27-56DD-AF65-115D8D4EEED0.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Health",
+          "descriptionTR" : "The scaling back of development aid has contributed to the inability to contain the Ebola outbreak in the Democratic Republic of Congo. German organizations are calling for a major spending boost to help stop the spread.",
+          "group" : "Congo Ebola outbreak",
+          "id" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/new-ebola-cases-in-congo-what-you-need-to-know\/a-77325922?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "International aid cuts complicate Congo's Ebola epidemic"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
+          "category" : "Health",
+          "descriptionTR" : "Le virus a contaminé 1 115 personnes en République démocratique du Congo depuis le 15 mai, selon les chiffres de l’Institut national de santé publique.",
+          "group" : "Congo Ebola outbreak",
+          "id" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
+          "link" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html"
+            }
+          ],
+          "titleTR" : "L’épidémie d’Ebola en RDC a fait 304 morts, selon le dernier bilan des autorités"
+        }
+      ],
+      "packetSpot" : "There is a focus on the challenges faced in containing the Ebola outbreak in the Democratic Republic of Congo, with international aid cuts and rising death tolls highlighting the severity of the situation.",
+      "packetTitle" : "Challenges in Containing the Ebola Outbreak in the Democratic Republic of Congo",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
+          "category" : "Health",
+          "descriptionTR" : "Tausende Menschen warten in Deutschland auf ein Spenderorgan. Doch davon gibt es zu wenige. Lässt sich das durch neue Regeln für die Organspende ändern? Der Bundestag hat darüber offen debattiert. Von Birthe Sönnichsen.\n￼   Tausende Menschen warten in Deutschland auf ein Spenderorgan. Doch davon gibt es zu wenige. Lässt sich das durch neue Regeln für die Organspende ändern? Der Bundestag hat darüber offen debattiert. Von Birthe Sönnichsen.[mehr]",
+          "group" : "German organ donation reform",
+          "id" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/germany-considers-opt-out-organ-donor-option\/a-77712351?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Organspende-Debatte im Bundestag: \"Der Mensch ist kein Ersatzteillager\""
+        }
+      ],
+      "packetSpot" : "Germany's parliament is actively debating a shift from an 'opt-in' to an 'opt-out' organ donation system to address the shortage of donor organs.",
+      "packetTitle" : "Germany's Parliamentary Debate on 'Opt-Out' Organ Donation System",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
+          "category" : "Health",
+          "descriptionTR" : "Summer, the FIFA World Cup and a cold beer. Sounds like a dream? Be careful, though; the combination of heat and alcohol can quickly take a very bad turn.",
+          "group" : "Heat wave health",
+          "id" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/fact-check-as-europe-bakes-should-you-trust-your-sunscreen\/a-77707226?maca=en-rss-en-all-1573-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle",
+              "url" : "https:\/\/www.dw.com\/en\/france-bans-alcohol-during-fete-de-la-musique-amid-heat-wave\/a-77639233?maca=en-rss-en-all-1573-xml-mrss"
+            }
+          ],
+          "titleTR" : "Heat wave: Why you should skip that cold beer or cocktail"
+        },
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
+          "category" : "Health",
+          "descriptionTR" : "Derzeit herrschen sehr hohe Temperaturen von weit mehr als 30 Grad in Deutschland. Gesundheitsbehörden warnen vor der Hitzebelastung. Wie können wir uns im Alltag am besten schützen? Ein Überblick.\n￼   Derzeit herrschen sehr hohe Temperaturen von weit mehr als 30 Grad in Deutschland. Gesundheitsbehörden warnen vor der Hitzebelastung. Wie können wir uns im Alltag am besten schützen? Ein Überblick.[mehr]",
+          "group" : "Heat safety guidance",
+          "id" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html"
+            }
+          ],
+          "titleTR" : "So übersteht man die Hitzetage"
+        }
+      ],
+      "packetSpot" : "Sources provide advice on managing health risks during European heatwaves, including avoiding alcohol and other protective measures.",
+      "packetTitle" : "Health Precautions During European Heatwaves",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/orf.at\/stories\/3434466\/",
+          "category" : "Health",
+          "descriptionTR" : "Am Wochenende erreicht die Hitzewelle in Österreich ihren Höhepunkt. In einigen Regionen des Landes werden Temperaturen um 40 Grad erwartet. Vor allem für ältere und kranke Menschen kann die Hitze lebensgefährlich werden. Besonders groß ist die Belastung deswegen auch in Pflegeheimen und Spitälern.",
+          "group" : "Heatwave hospital strain",
+          "id" : "https:\/\/orf.at\/stories\/3434466\/",
+          "link" : "https:\/\/orf.at\/stories\/3434466\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ORF News",
+              "url" : "https:\/\/orf.at\/stories\/3434466\/"
+            }
+          ],
+          "titleTR" : "Menschen in Spitälern leiden besonders"
+        },
+        {
+          "atomID" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
+          "category" : "Health",
+          "descriptionTR" : "Météo France confirme ce vendredi que les températures ont commencé à baisser dans l’ouest du pays, et continueront ce week-end, mais la chaleur va se poursuivre à des niveaux élevés dans la majeure partie de l’Hexagone.",
+          "group" : "Heatwave hospital strain",
+          "id" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
+          "link" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-06-26T20:54:34Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Libération",
+              "url" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/"
+            }
+          ],
+          "titleTR" : "Canicule : Lecornu a «validé» une commande de 30 000 climatiseurs pour les hôpitaux"
+        }
+      ],
+      "packetSpot" : "Hospitals in Austria face increased strain due to a heatwave, while France orders 30,000 air conditioners to mitigate the impact on its hospitals.",
+      "packetTitle" : "Heatwave Strains Hospitals in Austria and France's Response with Air Conditioners",
+      "publishedAt" : "2026-06-26T20:54:34Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    }
+  ],
+  "superPackets" : [
+    {
+      "slots" : [
+        1,
+        2,
+        3
+      ],
+      "spot" : "This week, the conflict in Ukraine saw intensified aerial warfare as Ukrainian strikes on Crimea and drone attacks challenged Russian defenses, while Russian missile and drone assaults resulted in casualties in Kharkiv and Zaporizhzhia.",
+      "title" : "Escalation of Aerial Warfare in the Ukraine Conflict"
+    },
+    {
+      "slots" : [
+        5,
+        13
+      ],
+      "spot" : "This week, tensions in the Strait of Hormuz intensified as maritime security and energy challenges converged. The focus sharpened on the strategic importance of this vital corridor.",
+      "title" : "Escalating Tensions and Security Concerns in the Strait of Hormuz"
+    },
+    {
+      "slots" : [
+        14,
+        15,
+        16,
+        19,
+        20
+      ],
+      "spot" : "This week, Europe is gripped by an unprecedented heatwave, causing widespread disruptions and health challenges. The intense temperatures are straining infrastructure and healthcare systems across the continent.",
+      "title" : "Europe's Record-Breaking Heatwave Intensifies"
+    }
+  ],
+  "week" : "2026-W28"
+}
