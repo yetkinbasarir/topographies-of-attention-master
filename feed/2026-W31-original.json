@@ -1,0 +1,71 @@
+{
+  "label" : "27 TEMMUZ - 2 AĞUSTOS",
+  "publishedAt" : "2026-06-29T23:51:35Z",
+  "slots" : [
+    {
+      "illustrationName" : "EF6C9ED0-C9E1-501C-956E-8A85FA77A0B7.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/06\/25\/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre",
+          "category" : "Culture",
+          "descriptionTR" : "Harriman, who faced criticism from some UK media outlets over social media posts, says it was always his plan to leave after serving two terms",
+          "group" : "Southbank Centre leadership",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/06\/25\/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/06\/25\/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-29T23:51:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/06\/25\/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre"
+            }
+          ],
+          "titleTR" : "Misan Harriman to step down as chair of London's Southbank Centre"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/06\/24\/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "category" : "Culture",
+          "descriptionTR" : "Finn, previously the chief curator at the Orange County Museum of Art, starts at Crystal Bridges and the Momentary in August",
+          "group" : "Museum leadership hires",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/06\/24\/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/06\/24\/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-29T23:51:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/06\/24\/crystal-bridges-hires-courtenay-finn-chief-curator"
+            }
+          ],
+          "titleTR" : "Crystal Bridges, fresh off major expansion, hires Courtenay Finn as next chief curator"
+        },
+        {
+          "atomID" : "https:\/\/www.bfi.org.uk\/news\/six-new-governors-bfi-board",
+          "category" : "Culture",
+          "descriptionTR" : "The new BFI Governors are Tanya Cordrey, Mark Herbert, Ganan Kanagathurai, Hakan Kousetta, Ryan Prince and Jane Tranter (Wales Governor).",
+          "group" : "BFI board changes",
+          "id" : "https:\/\/www.bfi.org.uk\/news\/six-new-governors-bfi-board",
+          "link" : "https:\/\/www.bfi.org.uk\/news\/six-new-governors-bfi-board",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-29T23:51:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/news\/six-new-governors-bfi-board"
+            }
+          ],
+          "titleTR" : "BFI Chair Jay Hunt welcomes six new governors to the BFI board"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-06-29T23:51:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    }
+  ],
+  "week" : "2026-W31"
+}
