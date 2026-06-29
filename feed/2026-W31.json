@@ -1,0 +1,71 @@
+{
+  "label" : "27 TEMMUZ - 2 AĞUSTOS",
+  "publishedAt" : "2026-06-29T23:51:35Z",
+  "slots" : [
+    {
+      "illustrationName" : "EF6C9ED0-C9E1-501C-956E-8A85FA77A0B7.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/06\/25\/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre",
+          "category" : "Culture",
+          "descriptionTR" : "Bazı İngiliz medya kuruluşlarının sosyal medya paylaşımları nedeniyle eleştirdiği Harriman, iki dönem görev yaptıktan sonra ayrılmayı planladığını belirtti.",
+          "group" : "Southbank Centre leadership",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/06\/25\/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/06\/25\/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-29T23:51:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/06\/25\/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre"
+            }
+          ],
+          "titleTR" : "Misan Harriman, Londra Southbank Centre başkanlığından ayrılıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/06\/24\/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "category" : "Culture",
+          "descriptionTR" : "Daha önce Orange County Sanat Müzesi'nde baş küratör olarak görev yapan Finn, Ağustos ayında Crystal Bridges ve Momentary'de çalışmaya başlayacak.",
+          "group" : "Museum leadership hires",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/06\/24\/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/06\/24\/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "newsValue" : 4,
+          "publishedAt" : "2026-06-29T23:51:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/06\/24\/crystal-bridges-hires-courtenay-finn-chief-curator"
+            }
+          ],
+          "titleTR" : "Crystal Bridges, genişleme sonrası Courtenay Finn'i baş küratör olarak işe aldı"
+        },
+        {
+          "atomID" : "https:\/\/www.bfi.org.uk\/news\/six-new-governors-bfi-board",
+          "category" : "Culture",
+          "descriptionTR" : "Yeni BFI yönetim kurulu üyeleri Tanya Cordrey, Mark Herbert, Ganan Kanagathurai, Hakan Kousetta, Ryan Prince ve Jane Tranter (Galler Temsilcisi) olarak açıklandı.",
+          "group" : "BFI board changes",
+          "id" : "https:\/\/www.bfi.org.uk\/news\/six-new-governors-bfi-board",
+          "link" : "https:\/\/www.bfi.org.uk\/news\/six-new-governors-bfi-board",
+          "newsValue" : 3,
+          "publishedAt" : "2026-06-29T23:51:35Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/news\/six-new-governors-bfi-board"
+            }
+          ],
+          "titleTR" : "BFI Başkanı Jay Hunt, BFI yönetim kuruluna altı yeni üye katıldığını duyurdu"
+        }
+      ],
+      "packetSpot" : "Önemli sanat kurumlarında liderlik değişiklikleri yaşanıyor. Misan Harriman, Londra Southbank Centre'dan ayrılırken, Courtenay Finn Crystal Bridges'de baş küratör olarak göreve başlıyor. Ayrıca, BFI yönetim kuruluna altı yeni üye katıldı.",
+      "packetTitle" : "Önemli sanat kurumlarında liderlik değişiklikleri",
+      "publishedAt" : "2026-06-29T23:51:35Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    }
+  ],
+  "week" : "2026-W31"
+}
