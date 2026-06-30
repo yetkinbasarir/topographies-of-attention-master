@@ -1,7 +1,14 @@
 {
-  "currentWeek" : "2026-W31",
+  "currentWeek" : "2026-W32",
   "feedVersion" : "1.0",
   "weeks" : [
+    {
+      "label" : "3-9 AĞUSTOS",
+      "packetCount" : 6,
+      "publishedAt" : "2026-06-30T01:48:28Z",
+      "url" : "feed\/2026-W32.json",
+      "week" : "2026-W32"
+    },
     {
       "label" : "27 TEMMUZ - 2 AĞUSTOS",
       "packetCount" : 6,
