@@ -4,8 +4,8 @@
   "weeks" : [
     {
       "label" : "27 TEMMUZ - 2 AĞUSTOS",
-      "packetCount" : 1,
-      "publishedAt" : "2026-06-29T23:51:35Z",
+      "packetCount" : 6,
+      "publishedAt" : "2026-06-30T00:49:02Z",
       "url" : "feed\/2026-W31.json",
       "week" : "2026-W31"
     },
