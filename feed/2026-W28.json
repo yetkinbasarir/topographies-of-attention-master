@@ -1,971 +1,1899 @@
 {
   "label" : "6-12 TEMMUZ",
-  "publishedAt" : "2026-06-26T20:54:52Z",
+  "publishedAt" : "2026-07-08T15:38:58Z",
   "slots" : [
     {
+      "illustrationName" : "B80E1D17-1560-5A3E-872A-F3F239E2CBAA.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
-          "category" : "Security",
-          "descriptionTR" : "Ukrayna'nın Rusya'nın enerji altyapısına yönelik saldırıları giderek daha fazla etkisini gösteriyor. Rusya tarafından atanan Kırım yetkilileri, bu saldırıların ardından bölgede olağanüstü hal ilan etti. Bu durumun Putin'in imajına zarar verebileceği belirtiliyor.",
-          "group" : "Crimea energy crisis",
-          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
-          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/arstechnica.com\/space\/2026\/07\/blue-origin-for-the-first-time-is-expected-to-raise-private-capital\/",
+          "category" : "Economy",
+          "descriptionTR" : "DealBook bültenine göre, Jeff Bezos'un kurduğu Blue Origin, 10 milyar dolar özel sermaye toplamayı planlıyor. Bu sermaye artışı, şirketin değerlemesini 130 milyar dolara çıkaracak. Büyük bir varlık yöneticisi olan Coatue Management'ın 4 milyar dolarlık bir taahhütle liderlik etmesi bekleniyor. Diğer büyük kurumsal yatırımcılardan da 4 milyar dolar daha gelmesi bekleniyor. Bezos'un ise ek olarak 2 milyar dolar katkı yapacağı bildiriliyor. 2000 yılında kurulan Blue Origin, süper ağır yük roketleri, ay iniş araçları ve iki mega uydu takımyıldızı geliştirmeyi hedefleyerek uzay uçuşunda küresel bir lider olmayı amaçlıyor. Şirket, SpaceX ile aynı alanlarda—fırlatma, telekomünikasyon, uzaydan veri merkezleri—rekabet etmeyi planlıyor.",
+          "group" : "Blue Origin funding",
+          "id" : "https:\/\/arstechnica.com\/space\/2026\/07\/blue-origin-for-the-first-time-is-expected-to-raise-private-capital\/",
+          "link" : "https:\/\/arstechnica.com\/space\/2026\/07\/blue-origin-for-the-first-time-is-expected-to-raise-private-capital\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/ukraine-russland-krim-notstand-100.html"
+              "sourceName" : "Ars Technica",
+              "url" : "https:\/\/arstechnica.com\/space\/2026\/07\/blue-origin-for-the-first-time-is-expected-to-raise-private-capital\/"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/crimea-declares-state-of-emergency-after-ukraine-strikes-energy-grid-a93105"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/22\/crimea-bans-childrens-summer-camps-after-major-ukrainian-attack-a93067"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/21\/ukrainian-strikes-on-russian-annexed-crimea-kill-4-pause-fuel-sales-a93065"
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/08\/blue-origin-reportedly-raising-10b-at-130b-valuation\/"
             }
           ],
-          "titleTR" : "Kırım'da olağanüstü hal: Sembolik etkiler"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-          "category" : "Security",
-          "descriptionTR" : "Ukrayna'nın Rus işgali altındaki topraklardaki tedarik yollarına yönelik saldırıları nedeniyle yakıt satışları durduruldu. Yakıt zaten kıtlık nedeniyle karneye bağlanmıştı.",
-          "group" : "Crimea energy shortages",
-          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-26T20:54:52Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyx2lk9d15o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c3ryv72pjqno?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Ukrayna'nın petrol tesislerini hedef almasıyla Kırım'da yakıt satışları durduruldu"
+          "titleTR" : "Blue Origin ilk kez özel sermaye toplamayı planlıyor"
         }
       ],
-      "packetSpot" : "Ukrayna'nın Kırım'daki enerji altyapısına yönelik saldırıları, bölgede olağanüstü hal ilan edilmesine ve yakıt karnesine yol açarak Rus işgali altındaki topraklar üzerindeki etkisini gösteriyor.",
-      "packetTitle" : "Ukrayna'nın Kırım'daki saldırıları olağanüstü hal ve yakıt karnesine yol açtı",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "Blue Origin, Coatue Management ve Jeff Bezos'un katkılarıyla 130 milyar dolarlık bir değerlemeye ulaşarak 10 milyar dolar özel sermaye topluyor.",
+      "packetTitle" : "Blue Origin'in 130 milyar dolarlık değerlemeyle 10 milyar dolar özel sermaye toplama hamlesi",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
-      "illustrationName" : "680A1A65-0653-547D-8FB7-651C270D1E16.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/nato-leaders-meet-in-ankara-after-trump-rekindles-disputes-over-iran-greenland",
           "category" : "Security",
-          "descriptionTR" : "Doğrulanmamış haberlere göre, Tula bölgesindeki bir kimya fabrikası ve termik santral drone saldırılarının hedefi oldu.",
-          "group" : "Ukraine drone campaign",
-          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
-          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/26\/russian-army-downs-nearly-700-ukrainian-drones-overnight-a93103"
-            }
-          ],
-          "titleTR" : "Rus ordusu bir gecede yaklaşık 700 Ukrayna drone'unu düşürdü"
-        },
-        {
-          "atomID" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
-          "category" : "Security",
-          "descriptionTR" : "Bir zamanlar neredeyse aşılmaz görülen Rus hava savunması, Ukrayna drone'ları nedeniyle artan bir baskı altında. Moskova'ya yapılan son saldırı, Rus savunmasındaki zayıflıklar üzerine tartışmaları yeniden alevlendirdi.",
-          "group" : "Ukraine drone warfare",
-          "id" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
-          "link" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/are-ukraine-drones-really-exposing-gaps-in-russia-s-defense\/a-77639467?maca=en-rss-en-all-1573-xml-mrss"
-            }
-          ],
-          "titleTR" : "Ukrayna drone'ları Rus savunmasındaki zayıflıkları mı ortaya çıkarıyor?"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
-          "category" : "Security",
-          "descriptionTR" : "Steve Rosenberg, sıklaşan Ukrayna drone saldırılarının ardından Rusya'nın bir sonraki adımlarının ne olabileceğini açıklıyor.",
-          "group" : "Ukraine drone war",
-          "id" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
-          "link" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-26T20:54:52Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgjx87jljqpo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Putin, Ukrayna drone saldırılarından sonra taktik değiştirecek mi?"
-        },
-        {
-          "atomID" : "https:\/\/orf.at\/stories\/3434491\/",
-          "category" : "Security",
-          "descriptionTR" : "Rusya'nın Kırım'da görevlendirdiği yetkililer, Cuma günü olağanüstü hal ilan etti. Ukrayna'nın drone saldırıları, Rusya'nın ikmal yollarını, enerji altyapısını ve askeri araçlarını hedef aldı. Kırım'da elektrik kesintileri yaşandı, yakıt satışı büyük ölçüde durduruldu. Ukrayna, başka bir yarımadada da sembolik bir zafer kazandı.",
-          "group" : "Ukraine drone war",
-          "id" : "https:\/\/orf.at\/stories\/3434491\/",
-          "link" : "https:\/\/orf.at\/stories\/3434491\/",
+          "descriptionTR" : "ANKARA, 8 Temmuz - ABD Başkanı Donald Trump, Çarşamba günü yaptığı açıklamada, İran ile çatışmayı sona erdirmek için imzalanan mutabakat zaptının 'bittiğini' söyledi ve Tahran ile ilişki kurmak istemediğini belirterek İran liderliğini 'hasta insanlar' olarak nitelendirdi.",
+          "group" : "Iran conflict escalation",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/nato-leaders-meet-in-ankara-after-trump-rekindles-disputes-over-iran-greenland",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/nato-leaders-meet-in-ankara-after-trump-rekindles-disputes-over-iran-greenland",
           "newsValue" : 8,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "ORF News",
-              "url" : "https:\/\/orf.at\/stories\/3434491\/"
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/nato-leaders-meet-in-ankara-after-trump-rekindles-disputes-over-iran-greenland"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/new-us-attacks-on-iran-were-absolutely-necessary-nato-chief-says"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/americas\/iran-united-states-lebanon-donald-trump-ayatollah-ali-khamenei-b3011235.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/middle-east\/trump-nato-iran-us-war-live-news-updates-b3010954.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/middle-east\/pete-hegseth-cancels-israel-trip-trump-iran-b3011069.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/americas\/iran-war-us-strikes-tehran-trump-b3010803.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/americas\/us-politics\/us-iran-war-oil-license-strait-of-hormuz-attacks-trump-b3010781.html"
             }
           ],
-          "titleTR" : "Kiev'in drone stratejisi Moskova'yı zorluyor"
+          "titleTR" : "Trump: İran ile anlaşma bitti, İspanya ile ticaret kesilecek"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/politics\/us-strikes-iran-oil-shipping-attacks\/",
+          "category" : "Security",
+          "descriptionTR" : "Saldırılar, Umman kıyılarına yakın bir rotayı kullanan gemileri koruyan askeri güçlere rağmen Hürmüz Boğazı üzerinden ticari nakliyatın devam eden risklerini vurguluyor.",
+          "group" : "Iran ceasefire collapse",
+          "id" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/politics\/us-strikes-iran-oil-shipping-attacks\/",
+          "link" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/politics\/us-strikes-iran-oil-shipping-attacks\/",
+          "newsValue" : 9,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/politics\/us-strikes-iran-oil-shipping-attacks\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/politics\/iran-bahrain-kuwait-us-strikes\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/8\/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/8\/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/8\/trump-says-mou-over-after-latest-us-and-iranian-attacks?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/8\/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/8\/why-have-us-iran-strikes-resumed-and-what-does-it-mean-for-peace-talks?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "ABD, İran'a saldırdı ve petrol satışlarını engelledi"
         }
       ],
-      "packetSpot" : "",
-      "packetTitle" : "Ukrayna'nın drone saldırıları Rus savunmasını zorluyor",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "ABD ile İran arasındaki ateşkes sona erdi, yenilenen saldırılar ve artan gerginlikler dikkat çekiyor. Başkan Trump, müzakerelerin 'bittiğini' ilan etti.",
+      "packetTitle" : "ABD-İran ateşkesi sona erdi: Gerginlikler artıyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
-          "category" : "Security",
-          "descriptionTR" : "Rus güçleri, Zaporijya bölgesinde depoları, bir idari binayı ve bölge merkezini bombaladı; en az 16 kişinin yaralandığı bildirildi. Bu bilgiyi, bölgenin askeri yönetim başkanı Ivan Fedorov aktardı.",
-          "group" : "Ukraine war attacks",
-          "id" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
-          "link" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/8\/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss",
+          "category" : "",
+          "descriptionTR" : "Muhammed el-Vahidi, organize ettiği Dünya Kupası gösterimi öncesinde İsrail'in düzenlediği bir saldırıda hayatını kaybetti.",
+          "group" : "",
+          "id" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/8\/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/8\/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Le Monde International",
-              "url" : "https:\/\/www.lemonde.fr\/international\/live\/2026\/06\/26\/en-direct-guerre-en-ukraine-au-moins-16-personnes-blessees-dans-des-attaques-russes-sur-l-oblast-de-zaporijia_6706390_3210.html"
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/8\/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/26\/ukraine-zaporizhzhia-ablaze-after-russian-missile-and-drone-attack-leaves-at-least-nine-hu"
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/middle-east\/israeli-strike-palestinian-official-dead-gaza-world-cup-b3011038.html"
             }
           ],
-          "titleTR" : "Zaporijya'da Rus saldırıları: En az 16 kişi yaralandı"
-        },
-        {
-          "atomID" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
-          "category" : "Security",
-          "descriptionTR" : "Saldırı, Ukrayna'nın Moskova'ya karşı savaşın en büyük drone saldırısını başlatmasından iki gün sonra gerçekleşti.",
-          "group" : "Ukraine war strikes",
-          "id" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
-          "link" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Moscow Times",
-              "url" : "https:\/\/www.themoscowtimes.com\/2026\/06\/20\/russian-strike-kills-1-wounds-9-in-kharkiv-a93062"
-            }
-          ],
-          "titleTR" : "Harkiv'de Rus saldırısı: 1 ölü, 9 yaralı"
+          "titleTR" : "Gazze'de yardım görevlisi, organize ettiği Dünya Kupası gösterimi öncesinde öldürüldü"
         }
       ],
-      "packetSpot" : "Rusya'nın füze ve drone saldırıları, Harkiv ve Zaporijya'da can kaybına ve hasara yol açtı, özellikle Zaporijya'da ciddi yaralanmalar bildirildi.",
-      "packetTitle" : "Rusya'nın Harkiv ve Zaporijya'ya saldırıları: Can kaybı ve yaralanmalar",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "İsrail'in düzenlediği saldırıda, Filistinli yardım görevlisi Muhammed el-Vahidi, Gazze'de organize ettiği Dünya Kupası gösterimi öncesinde hayatını kaybetti.",
+      "packetTitle" : "İsrail saldırısı, Gazze'deki Dünya Kupası gösterimi öncesinde Filistinli yardım görevlisini öldürdü",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
     {
+      "illustrationName" : "84582B9A-1A32-53AF-AC75-72A46A6406E8.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
-          "category" : "Security",
-          "descriptionTR" : "FBI'nin desteğiyle Karadağ polisi, ABD altyapısına yönelik siber saldırılar düzenlediği iddia edilen İran-Türk vatandaşı bir kişiyi gözaltına aldı. Bu saldırıların milyarlarca dolarlık zarara yol açtığı öne sürülüyor.",
-          "group" : "Iran-linked cyberattack",
-          "id" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
-          "link" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.france24.com\/en\/tv-shows\/world-cup-debrief\/20260708-world-cup-2026-argentina-steal-stunning-comeback-as-egypt-complain-about-refering",
+          "category" : "Sports",
+          "descriptionTR" : "Arjantin, Mısır karşısında 2-0 geriye düştükten sonra tarihi bir yenilginin eşiğindeydi. Ancak Romero, Messi ve Fernández'in golleriyle 13 nefes kesici dakikada maçı çevirerek çeyrek finale yükseldiler. Mısır, hakem kararlarına öfkeli bir şekilde tepki gösterdi; teknik direktörleri, kritik kararların aleyhlerine olduğunu belirterek turnuvada başka bir maçı izlemeyeceğini söyledi.",
+          "group" : "World Cup knockout drama",
+          "id" : "https:\/\/www.france24.com\/en\/tv-shows\/world-cup-debrief\/20260708-world-cup-2026-argentina-steal-stunning-comeback-as-egypt-complain-about-refering",
+          "link" : "https:\/\/www.france24.com\/en\/tv-shows\/world-cup-debrief\/20260708-world-cup-2026-argentina-steal-stunning-comeback-as-egypt-complain-about-refering",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/montenegro-arrests-iran-linked-hacker-wanted-by-us\/a-77720738?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/tv-shows\/world-cup-debrief\/20260708-world-cup-2026-argentina-steal-stunning-comeback-as-egypt-complain-about-refering"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/06\/26\/montenegro-police-arrest-iranian-accused-of-hacking-us-universities"
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-anything-is-possible-with-messi-argentina-into-world-cup-quarter-finals"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-a-crushing-defeat-egypt-lose-to-argentina-as-africa-s-world-cup-dream-fades"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/2026\/7\/8\/video-world-cup-2026-highlights?traffic_source=rss"
             }
           ],
-          "titleTR" : "Karadağ'da ABD'nin aradığı İran bağlantılı hacker yakalandı"
+          "titleTR" : "Dünya Kupası 2026: Arjantin'in geri dönüşü ve Mısır'ın hakem kararlarına tepkisi"
+        },
+        {
+          "atomID" : "https:\/\/www.independent.co.uk\/news\/world\/europe\/egypt-argentina-cairo-mohamed-salah-palestinian-b3010765.html",
+          "category" : "Sports",
+          "descriptionTR" : "Mısır milli futbol takımı, Dünya Kupası'nda eleme aşamalarına ulaşarak tarih yazdı.",
+          "group" : "Egypt World Cup run",
+          "id" : "https:\/\/www.independent.co.uk\/news\/world\/europe\/egypt-argentina-cairo-mohamed-salah-palestinian-b3010765.html",
+          "link" : "https:\/\/www.independent.co.uk\/news\/world\/europe\/egypt-argentina-cairo-mohamed-salah-palestinian-b3010765.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/europe\/egypt-argentina-cairo-mohamed-salah-palestinian-b3010765.html"
+            }
+          ],
+          "titleTR" : "Kahire'de bir kahve evi, Mısır'ın Dünya Kupası serüveni Arjantin'le buluşunca sessizliğe büründü"
+        },
+        {
+          "atomID" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-egypt-diaspora-celebrates-despite-argentina-loss\/106891966",
+          "category" : "Sports",
+          "descriptionTR" : "Arjantin'e karşı alınan son dakika mağlubiyetinin ardından, birçok Mısırlı futbol taraftarı takımın tarihi kampanyasını sevinçle değerlendirirken, sahneyi Filistinlilere destek göstermek için kullandı.",
+          "group" : "World Cup solidarity",
+          "id" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-egypt-diaspora-celebrates-despite-argentina-loss\/106891966",
+          "link" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-egypt-diaspora-celebrates-despite-argentina-loss\/106891966",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-egypt-diaspora-celebrates-despite-argentina-loss\/106891966"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-egypt-coach-fumes-at-ref-after-argentina-loss\/106891186"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-live-blog-argentina-vs-egypt-switzerland-vs-colombia\/106889234"
+            }
+          ],
+          "titleTR" : "'Filistin için konuştuk': Mısır taraftarları, Arjantin'e karşı alınan mağlubiyet sonrası tarihi Dünya Kupası'nı kutluyor"
         }
       ],
-      "packetSpot" : "Karadağ polisi, FBI'nin yardımıyla ABD üniversitelerine siber saldırılar düzenlemekle suçlanan İran-Türk vatandaşı bir kişiyi tutukladı.",
-      "packetTitle" : "ABD'nin aradığı İranlı hacker Karadağ'da yakalandı",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "",
+      "packetTitle" : "Arjantin'in Dünya Kupası'nda Mısır'a karşı tartışmalı geri dönüşü",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 4
     },
     {
+      "illustrationName" : "1A85247D-A7BA-5369-8493-6BA01842DBC8.png",
       "items" : [
         {
-          "atomID" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
-          "category" : "Security",
-          "descriptionTR" : "Devrim Muhafızları, Tahran'ın belirlediği rotaların dışında seyreden her geminin yasa dışı hareket ettiğini belirterek, Umman'ın yeni açıkladığı geçici deniz koridorunu doğrudan reddetti. Rubio ise bir GCC toplantısında, ABD'nin bu deniz yollarıyla ilgili hiçbir ücreti kabul etmeyeceğini ifade etti.",
-          "group" : "Hormuz regional tensions",
-          "id" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
-          "link" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls",
+          "atomID" : "https:\/\/www.france24.com\/en\/video\/20260708-uk-s-farage-resigns-as-mp-to-force-snap-vote-in-finances-row",
+          "category" : "Politics",
+          "descriptionTR" : "İngiliz göçmen karşıtı siyasetçi Nigel Farage, mali durumu üzerindeki yoğun incelemelerin ardından bir ara seçimde aday olmak için milletvekilliğinden istifa edeceğini açıkladı. Reform UK partisinin lideri olan Farage, bildirildiğine göre bir dolandırıcıdan aldığı hediyeler de dahil olmak üzere, mali beyanlarını açıklamama baskısı altında.",
+          "group" : "Farage finances row",
+          "id" : "https:\/\/www.france24.com\/en\/video\/20260708-uk-s-farage-resigns-as-mp-to-force-snap-vote-in-finances-row",
+          "link" : "https:\/\/www.france24.com\/en\/video\/20260708-uk-s-farage-resigns-as-mp-to-force-snap-vote-in-finances-row",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/06\/25\/irgc-warns-ships-off-omans-corridor-in-hormuz-as-rubio-draws-line-on-tolls"
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-uk-s-farage-resigns-as-mp-to-force-snap-vote-in-finances-row"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/06\/25\/cargo-ship-hit-by-projectile-in-hormuz-as-iran-issues-renewed-passage-warning"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Libération",
-              "url" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/moyen-orient-situation-confuse-au-detroit-dormuz-que-des-navires-franchissent-sans-respecter-la-route-fixee-par-liran-20260626_3LZKTK66LZADXE7DEXR2BSHSKM\/"
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/8\/why-has-uk-reforms-nigel-farage-resigned-as-mp-what-happens-next?traffic_source=rss"
             }
           ],
-          "titleTR" : "Devrim Muhafızları, Umman koridorundaki gemileri uyardı; Rubio, geçiş ücretlerine karşı çıktı"
+          "titleTR" : "Nigel Farage, mali tartışmaların ortasında milletvekilliğinden istifa etti"
+        },
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/reform-uk-farage-resigns-special-election\/687831\/?utm_source=feed",
+          "category" : "Politics",
+          "descriptionTR" : "Nigel Farage, on yıl önce İngiltere'nin Avrupa Birliği'nden çıkması için verdiği mücadele ile tanınan bir popülist. Şimdi ise Reform UK partisinin lideri olarak, mali çıkarları üzerindeki soruları susturmak için milletvekilliğinden istifa ettiğini duyurdu. Clacton'da yapılacak ara seçimde yeniden aday olacak olan Farage, bu hamlesini 'halk ve sistem karşıtı' bir seçim olarak nitelendiriyor. Londra'nın Sunday Times gazetesi, Farage'ın George Cottrell ve Christopher Harborne gibi isimlerden aldığı mali hediyeleri açıklamadığını bildirdi. Farage'ın bu hamlesi, diğer büyük partilerin aday çıkarmamasına neden oldu ve seçimde karşısına çıkacak en ciddi rakip olarak mizahi bir karakter olan Count Binface öne çıkıyor.",
+          "group" : "Farage corruption gamble",
+          "id" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/reform-uk-farage-resigns-special-election\/687831\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/reform-uk-farage-resigns-special-election\/687831\/?utm_source=feed",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/reform-uk-farage-resigns-special-election\/687831\/?utm_source=feed"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/uk-farages-election-gamble-could-see-him-face-one-challenger-count-binface"
+            }
+          ],
+          "titleTR" : "Nigel Farage'ın 'Çarpık Bir Hayalim Var' konuşması"
         }
       ],
       "packetSpot" : "",
-      "packetTitle" : "Hürmüz Boğazı'nda deniz yolları ve güvenlik üzerine gerilim artıyor",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetTitle" : "Nigel Farage'ın istifası: Mali inceleme ve siyasi manevralar",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 5
     },
     {
-      "illustrationName" : "F2D67B56-B056-50CC-81D0-43F5C6BB8B28.png",
+      "illustrationName" : "78C3B6CB-5E3C-5878-A594-52C8F2855CCE.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
-          "category" : "Security",
-          "descriptionTR" : "Sudan'ın merkezindeki şehir, düzenli orduyla savaş halinde olan Hızlı Destek Kuvvetleri'nin (HDK) hedefinde. Elektrik, yakıt ve içme suyu sıkıntısı çeken sakinler, yakın bir saldırıdan endişe ediyor.",
-          "group" : "Sudan civil war",
-          "id" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
-          "link" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html",
-          "newsValue" : 9,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.politico.eu\/article\/trump-droht-mit-kompletter-einstellung-des-handels-der-usa-mit-spanien\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ABD Başkanı Donald Trump, Ankara'daki NATO zirvesinde İspanya ile tüm ticareti durdurmakla tehdit etti. Trump, İspanya'nın NATO'daki rolünden memnun olmadığını belirterek, \"İspanya umutsuz bir vaka. Onlarla artık ticaret yapmak istemiyoruz\" dedi. Trump, İspanya'nın NATO'daki katkılarını yetersiz bulduğunu ve bu nedenle ticari ilişkileri sonlandırmak istediğini ifade etti. Ancak, bu tehdidin nasıl uygulanacağına dair somut bir açıklama yapmadı.",
+          "group" : "Spain trade dispute",
+          "id" : "https:\/\/www.politico.eu\/article\/trump-droht-mit-kompletter-einstellung-des-handels-der-usa-mit-spanien\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "link" : "https:\/\/www.politico.eu\/article\/trump-droht-mit-kompletter-einstellung-des-handels-der-usa-mit-spanien\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Le Monde International",
-              "url" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/nous-n-allons-plus-tenir-tres-longtemps-au-soudan-les-habitants-d-el-obeid-assiegee-par-les-paramilitaires-craignent-un-nouveau-massacre_6715897_3212.html"
+              "sourceName" : "POLITICO Europe",
+              "url" : "https:\/\/www.politico.eu\/article\/trump-droht-mit-kompletter-einstellung-des-handels-der-usa-mit-spanien\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/sudan-fears-of-atrocities-as-rsf-surrounds-key-city\/a-77709377?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "POLITICO Europe",
+              "url" : "https:\/\/www.politico.eu\/article\/trump-says-hes-cutting-off-trade-with-spain-over-defense-spending-iran\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/8\/trump-threatens-spain-trade-demands-us-take-over-greenland-at-nato-summit?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/trump-says-at-nato-summit-he-has-ordered-cutoff-of-us-trade-with-spain"
             }
           ],
-          "titleTR" : "Sudan'da El-Obeid sakinleri paramiliter kuşatma altında yeni bir katliamdan korkuyor"
+          "titleTR" : "Trump, İspanya ile ticareti durdurmakla tehdit etti"
+        },
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/video\/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ABD Başkanı Donald Trump, Ankara'daki NATO zirvesinde müttefiklerine sert eleştiriler yöneltti. İran ile yaşanan gerilim toplantının önüne geçerken, Trump NATO müttefiklerini Tahran'a karşı yürüttüğü kampanyaya destek vermemekle suçladı. Ayrıca, Grönland'ı satın alma isteğini yineleyerek, Avrupa'nın bu konudaki direncini \"büyük bir sorun\" olarak nitelendirdi. Angela Diffley, Trump'ın açıklamalarının ana noktalarını değerlendiriyor.",
+          "group" : "NATO summit tensions",
+          "id" : "https:\/\/www.france24.com\/en\/video\/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments",
+          "link" : "https:\/\/www.france24.com\/en\/video\/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260708-trump-lashes-nato-allies-during-key-summit-ankara"
+            }
+          ],
+          "titleTR" : "Trump'ın NATO'daki açıklamaları: İspanya ticaretinden Grönland'a kadar"
         }
       ],
-      "packetSpot" : "Sudan'da stratejik bir şehir olan El-Obeid, Hızlı Destek Kuvvetleri tarafından kuşatma altında. Sakinler, potansiyel vahşet ve insani kriz korkusuyla karşı karşıya.",
-      "packetTitle" : "Sudan'da El-Obeid, paramiliter kuşatma tehdidi altında",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "",
+      "packetTitle" : "Trump'ın NATO zirvesindeki eleştirileri: İspanya ve Grönland ilgisi",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 6
     },
     {
-      "illustrationName" : "06C60B5A-2B00-5083-A1A7-C53B9458CFAE.png",
+      "illustrationName" : "B9374BAF-6B98-596F-9FCE-4FFB0B77BC6D.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
-          "category" : "Politics",
-          "descriptionTR" : "Viktor Orbán'ın 16 yıllık yönetiminin ardından birçok kişi Macaristan'da demokrasinin öldüğünü düşündü. Ancak Péter Magyar böyle düşünmüyor. DER SPIEGEL, otokratı nasıl devirdiğini anlatan Magyar ile konuştu.",
-          "group" : "Hungary democratic shift",
-          "id" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
-          "link" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.spiegel.de\/international\/world\/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss",
+          "category" : "Economy",
+          "descriptionTR" : "ABD Başkanı Donald Trump'ın Küba'ya uyguladığı ambargo, ülkeyi zor durumda bırakıyor. Elektrik kesintileri günlük yaşamın bir parçası haline gelmiş durumda ve halk geçim sıkıntısı çekiyor. Ancak birçok kişi, sorunların bir kısmının ülke içinden kaynaklandığını belirtiyor.",
+          "group" : "Trump Cuba blockade",
+          "id" : "https:\/\/www.spiegel.de\/international\/world\/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss",
+          "link" : "https:\/\/www.spiegel.de\/international\/world\/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Der Spiegel International",
-              "url" : "https:\/\/www.spiegel.de\/international\/europe\/hungarian-premier-peter-magyar-our-country-was-a-hostage-state-a-4d31fe2f-92f1-41ec-a7ab-6d8fdec0635d#ref=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/operation-purgatory-magyar-moves-to-demolish-orban-system\/a-77726207?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "Spiegel International",
+              "url" : "https:\/\/www.spiegel.de\/international\/world\/trumps-blockade-the-lights-are-going-out-in-cuba-a-936fdecc-18e2-4700-83bd-d8ae417c7ec6#ref=rss"
             }
           ],
-          "titleTR" : "Macaristan Başbakanı Péter Magyar: 'Ülkemiz bir rehine devletiydi'"
+          "titleTR" : "Trump'ın ambargosu: Küba'da ışıklar sönüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/at-un-cuba-rallies-support-against-ruthless-us-blockade",
+          "category" : "Economy",
+          "descriptionTR" : "Afrika ve Karayipler'deki ülkeler de dahil olmak üzere çoğu bölgesel blok, Küba'ya desteklerini ifade etti.",
+          "group" : "US Cuba blockade dispute",
+          "id" : "https:\/\/www.straitstimes.com\/world\/at-un-cuba-rallies-support-against-ruthless-us-blockade",
+          "link" : "https:\/\/www.straitstimes.com\/world\/at-un-cuba-rallies-support-against-ruthless-us-blockade",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/at-un-cuba-rallies-support-against-ruthless-us-blockade"
+            }
+          ],
+          "titleTR" : "BM'de Küba, ABD ambargosuna karşı destek topluyor"
         }
       ],
-      "packetSpot" : "",
-      "packetTitle" : "Péter Magyar'ın Orbán sonrası Macaristan'ı reform girişimleri",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "ABD'nin uyguladığı ambargo nedeniyle Küba'da elektrik kesintileri ve ekonomik zorluklar yaşanıyor. Küba, Birleşmiş Milletler'de ambargoya karşı uluslararası destek topluyor.",
+      "packetTitle" : "Küba, ABD ambargosu ve uluslararası destek arasında zorluklarla karşı karşıya",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 7
     },
     {
-      "illustrationName" : "DDF080DB-4B19-546C-ADA0-263C1E74F3E6.png",
+      "illustrationName" : "2120F2F9-7D01-5EF6-85EF-6A066A937E57.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
-          "category" : "Politics",
-          "descriptionTR" : "Almanya'nın önerdiği emeklilik reformu, Bundestag'da bir kez daha tartışıldı. Die Linke, planlanan sermaye emekliliğini sert bir şekilde eleştirirken, CDU bu girişimi savunuyor. F. Aischmann'ın haberine göre, tartışmalar bu kez 'Aktuelle Stunde' oturumunda gerçekleşti.",
-          "group" : "German pension reform",
-          "id" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
-          "link" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/news.sky.com\/story\/china-braces-for-super-typhoon-bavi-after-severe-flooding-and-thunderstorms-13561602",
+          "category" : "Environment",
+          "descriptionTR" : "Bu hafta başında güney Çin'i vuran şiddetli sel, hafta sonu Süper Tayfun Bavi'nin gelişiyle diğer eyaletlere de yayılabilir.",
+          "group" : "China extreme weather",
+          "id" : "https:\/\/news.sky.com\/story\/china-braces-for-super-typhoon-bavi-after-severe-flooding-and-thunderstorms-13561602",
+          "link" : "https:\/\/news.sky.com\/story\/china-braces-for-super-typhoon-bavi-after-severe-flooding-and-thunderstorms-13561602",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/inland\/innenpolitik\/aktuelle-stunde-rentenreform-100.html"
+              "sourceName" : "Sky News World",
+              "url" : "https:\/\/news.sky.com\/story\/china-braces-for-super-typhoon-bavi-after-severe-flooding-and-thunderstorms-13561602"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/germany-s-pension-plans-draw-praise-and-outrage\/a-77663371?maca=en-rss-en-all-1573-xml-mrss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/germany-news-merz-hails-pension-reform-proposals\/live-77666833?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c79ygnv9e93o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Bundestag'da emeklilik reformu tartışması"
+          "titleTR" : "Çin, şiddetli sel ve fırtınaların ardından süper tayfuna hazırlanıyor"
         }
       ],
-      "packetSpot" : "Almanya'nın önerdiği emeklilik reformu, siyasi bir tartışmanın fitilini ateşledi. Merkezci politikacılar bunu bir uzlaşma olarak desteklerken, muhalefet partileri eleştiriyor. Bundestag'da bu konuda hararetli tartışmalar yaşanıyor.",
-      "packetTitle" : "Almanya'nın emeklilik reformu siyasi tartışma yaratıyor",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "Çin, Tayfun Bavi'nin getirdiği sel ve nadir görülen kasırgalar nedeniyle ciddi hava durumu zorlukları yaşıyor. Birçok bölge etkilenirken, topluluklar bu doğal afetlerle mücadele ediyor.",
+      "packetTitle" : "Tayfun Bavi Çin'de sel ve kasırgalarla hava durumu zorluklarını artırıyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 8
     },
     {
+      "illustrationName" : "BBE8B344-27E5-51F9-84F6-BC2D57D1AA0F.png",
       "items" : [
         {
-          "atomID" : "https:\/\/orf.at\/stories\/3433489\/",
-          "category" : "Culture",
-          "descriptionTR" : "Ingeborg Bachmann'ın 100. doğum günü vesilesiyle düzenlenen kutlamalar sinemayı da kapsıyor: Yönetmen Regina Schilling, \"Ingeborg Bachmann – Jemand, der einmal ich war\" adlı filmiyle yazarın alışılmadık bir portresini sunuyor. Oyuncu Sandra Hüller ile birlikte dünya edebiyatının izlerini süren Schilling, belgesel ve şiirsel bir iz sürme arasında bir hibrit ortaya koymuş.",
-          "group" : "Ingeborg Bachmann portrait",
-          "id" : "https:\/\/orf.at\/stories\/3433489\/",
-          "link" : "https:\/\/orf.at\/stories\/3433489\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.independent.co.uk\/news\/world\/americas\/ice-shooting-lorenzo-salgado-araujo-b3011207.html",
+          "category" : "Security",
+          "descriptionTR" : "Lorenzo Salgado Araujo'nun vurulması, federal göçmenlik memurları tarafından öldürülen ilk kişi olarak dikkat çekiyor. Olay, Renee Good ve Alex Pretti'den bu yana yaşanan ilk ölüm olarak kaydediliyor.",
+          "group" : "ICE fatal shooting",
+          "id" : "https:\/\/www.independent.co.uk\/news\/world\/americas\/ice-shooting-lorenzo-salgado-araujo-b3011207.html",
+          "link" : "https:\/\/www.independent.co.uk\/news\/world\/americas\/ice-shooting-lorenzo-salgado-araujo-b3011207.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "ORF News",
-              "url" : "https:\/\/orf.at\/stories\/3433489\/"
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/americas\/ice-shooting-lorenzo-salgado-araujo-b3011207.html"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/why-austrian-author-ingeborg-bachmann-remains-a-literary-icon\/a-77609802?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "Sky News World",
+              "url" : "https:\/\/news.sky.com\/story\/man-shot-dead-by-ice-officer-during-vehicle-stop-in-houston-13561507"
             }
           ],
-          "titleTR" : "Gerçekler ve şiir arasında bir iz sürme"
+          "titleTR" : "ABD'de 35 yıldır yaşayan 'çalışkan' Meksikalı, ICE ajanı tarafından trafik durdurmasında öldürüldü"
         }
       ],
-      "packetSpot" : "Avusturyalı yazar Ingeborg Bachmann'ın 100. doğum günü, Sandra Hüller'in yer aldığı yeni bir belgeselle kutlanıyor; belgesel, yazarın kalıcı mirasını gerçek ve şiirsel keşiflerle vurguluyor.",
-      "packetTitle" : "Ingeborg Bachmann'ın 100. doğum günü belgeselle kutlanıyor",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "Houston'da bir trafik durdurması sırasında ICE memuru Lorenzo Salgado Araujo'yu vurarak öldürdü. Bu olay, federal göçmenlik memurlarını içeren önemli bir olay olarak öne çıkıyor.",
+      "packetTitle" : "Houston'da ICE memurunun Lorenzo Salgado Araujo'yu vurması",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 9
     },
     {
+      "illustrationName" : "284838ED-BB5D-5578-954D-61E3BD099267.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
-          "category" : "Economy",
-          "descriptionTR" : "Alman firması, Çin rekabeti karşısında daha önce duyurulan personel azaltmalarını iki katına çıkarmayı düşünüyor. Volkswagen'in 100.000'e kadar işçi çıkaracağı ve bazı fabrikalarda üretimi azaltıp durduracağı bildiriliyor. Şirket, yönetim kurulundaki bir sunumda dramatik maliyet kesintilerini içeren raporlar hakkında yorum yapmayı reddetti, ancak bu gerçekleşirse Volkswagen'in daha önce duyurulan personel azaltmalarını iki katına çıkarması anlamına gelecek.",
-          "group" : "Volkswagen restructuring",
-          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
-          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/news.sky.com\/story\/fifa-to-discuss-lifting-ban-on-russian-teams-after-ioc-urged-sports-to-end-war-related-sanctions-13561508",
+          "category" : "Sports",
+          "descriptionTR" : "Sky News'un bildirdiğine göre, Uluslararası Olimpiyat Komitesi'nin savaşla ilgili yaptırımların sona erdirilmesi çağrısının ardından FIFA, tüm Rus takımlarına yönelik yasağın kaldırılmasını resmi olarak görüşecek.",
+          "group" : "Russian sports ban",
+          "id" : "https:\/\/news.sky.com\/story\/fifa-to-discuss-lifting-ban-on-russian-teams-after-ioc-urged-sports-to-end-war-related-sanctions-13561508",
+          "link" : "https:\/\/news.sky.com\/story\/fifa-to-discuss-lifting-ban-on-russian-teams-after-ioc-urged-sports-to-end-war-related-sanctions-13561508",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jun\/26\/vw-cut-jobs-shut-plants-volkswagen-china"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/wirtschaft\/unternehmen\/vw-stellenabbau-106.html"
+              "sourceName" : "Sky News World",
+              "url" : "https:\/\/news.sky.com\/story\/fifa-to-discuss-lifting-ban-on-russian-teams-after-ioc-urged-sports-to-end-war-related-sanctions-13561508"
             }
           ],
-          "titleTR" : "VW'nin 100.000'e kadar işçi çıkaracağı ve fabrikaları kapatacağı bildiriliyor"
+          "titleTR" : "IOC'nin çağrısı sonrası FIFA, Rus takımlarına yasağın kaldırılmasını görüşecek"
+        },
+        {
+          "atomID" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/russia-could-compete-at-la-2028-olympics-after-suspension-lifted\/106891174",
+          "category" : "Sports",
+          "descriptionTR" : "Uluslararası Olimpiyat Komitesi, Rusya'nın oyunlarda bayrağını ve renklerini sergileyip marşını çalıp çalamayacağına henüz karar vermedi.",
+          "group" : "Olympic Russia reinstatement",
+          "id" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/russia-could-compete-at-la-2028-olympics-after-suspension-lifted\/106891174",
+          "link" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/russia-could-compete-at-la-2028-olympics-after-suspension-lifted\/106891174",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/russia-could-compete-at-la-2028-olympics-after-suspension-lifted\/106891174"
+            }
+          ],
+          "titleTR" : "Rusya, 2028 Olimpiyatları'nda yarışabilir; bayrak ve marş kararı belirsiz"
         }
       ],
-      "packetSpot" : "Volkswagen'in, Çin'den gelen rekabet karşısında maliyet azaltma stratejisinin bir parçası olarak 100.000'e kadar işçi çıkarma ve bazı fabrikaları kapatma planını değerlendirdiği bildiriliyor. Şirket yönetim kurulunun bu önlemleri yaklaşan bir toplantıda tartışması bekleniyor.",
-      "packetTitle" : "Volkswagen, Çin rekabeti karşısında 100.000'e kadar işçi çıkarma ve fabrikaları kapatma planını değerlendiriyor",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "",
+      "packetTitle" : "IOC'nin Rusya'ya yönelik yaptırımların kaldırılması çağrısı FIFA ve Olimpiyat tartışmalarını etkiliyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 10
     },
     {
-      "illustrationName" : "9F29FC97-1894-5E59-B1DB-045A472D37F8.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Ukrayna için düzenlenen yeniden inşa konferansından hemen önce Başkan Zelensky, ev sahibi Polonya ile yaşanan bir anlaşmazlık nedeniyle katılımını iptal etti. Onun yerine Başbakan Swyrydenko, yeni milyar dolarlık taahhütleri kabul etti.",
-          "group" : "Ukraine reconstruction aid",
-          "id" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
-          "link" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.politico.eu\/article\/nato-allies-reaffirm-collective-defense-despite-donald-trump-threats\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "category" : "Security",
+          "descriptionTR" : "ANKARA, Türkiye — NATO müttefikleri, Ankara'da sona eren zirvede, Washington Antlaşması'nın 5. Maddesi kapsamında toplu savunma taahhütlerini yinelediler. Ancak, ABD Başkanı Donald Trump'ın Avrupa'ya yardım etmeme uyarıları ve Grönland'ı ABD kontrolüne alma tehdidi sürüyor. Zirvede, Trump'ın İspanya'yı düşük savunma harcamaları nedeniyle eleştirdiği ve ticareti kesme tehdidinde bulunduğu bildirildi. Trump, kapalı kapılar ardında daha uzlaşmacı bir ton sergiledi. Fransa Cumhurbaşkanı Emmanuel Macron, zirve sonrası birlik mesajı duyduğunu belirtti. Zirve sonunda, Rusya'nın uzun vadeli bir tehdit olduğu ve Ukrayna'ya bu yıl 70 milyar euro, gelecek yıl da 70 milyar euro yardım taahhüdü verildiği açıklandı. NATO müttefikleri ayrıca sanayi temellerini güçlendirme ve savunma ticaret engellerini kaldırma taahhüdünde bulundu. Zirve sonrası yapılan açıklamada, bir sonraki toplantının tarihi belirtilmedi.",
+          "group" : "NATO unity and Ukraine",
+          "id" : "https:\/\/www.politico.eu\/article\/nato-allies-reaffirm-collective-defense-despite-donald-trump-threats\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "link" : "https:\/\/www.politico.eu\/article\/nato-allies-reaffirm-collective-defense-despite-donald-trump-threats\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/ausland\/europa\/wiederaufbaukonferenz-danzig-100.html"
+              "sourceName" : "POLITICO Europe",
+              "url" : "https:\/\/www.politico.eu\/article\/nato-allies-reaffirm-collective-defense-despite-donald-trump-threats\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyrkze46p0o?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "POLITICO Europe",
+              "url" : "https:\/\/www.politico.eu\/article\/donald-trump-greenland-comments-draw-warning-from-european-leaders\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
             }
           ],
-          "titleTR" : "Danzig'deki konferans: AB ortakları Ukrayna'nın yeniden inşasına hazırlanıyor"
+          "titleTR" : "NATO müttefikleri Trump'ın tehditlerine rağmen savunma taahhüdünü yineledi"
+        },
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/denmark-ready-to-defend-every-inch-of-nato-including-danish-kingdom-pm-says",
+          "category" : "Security",
+          "descriptionTR" : "ANKARA, Türkiye — Danimarka Başbakanı Mette Frederiksen, ABD Başkanı Donald Trump'ın Grönland'ın ABD kontrolüne geçmesi gerektiği yönündeki açıklamalarının ardından, NATO'nun her karışını, Danimarka Krallığı da dahil olmak üzere, savunmaya hazır olduklarını belirtti.",
+          "group" : "NATO Arctic tensions",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/denmark-ready-to-defend-every-inch-of-nato-including-danish-kingdom-pm-says",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/denmark-ready-to-defend-every-inch-of-nato-including-danish-kingdom-pm-says",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/denmark-ready-to-defend-every-inch-of-nato-including-danish-kingdom-pm-says"
+            }
+          ],
+          "titleTR" : "Danimarka Başbakanı: NATO'nun her karışını savunmaya hazırız"
         }
       ],
-      "packetSpot" : "",
-      "packetTitle" : "Polonya ve Ukrayna arasında gerginlik: Yeniden inşa konferansı gölgesinde",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "NATO zirvesinde müttefikler, toplu savunma taahhütlerini yineledi. ABD Başkanı Trump'ın Grönland'a olan ilgisini yinelemesi, Danimarka Başbakanı'nın Danimarka topraklarını savunma kararlılığını vurgulamasına neden oldu.",
+      "packetTitle" : "NATO zirvesinde savunma taahhüdü ve Grönland gerilimi",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 11
     },
     {
-      "illustrationName" : "88E2C32C-B243-593C-9723-75CCF3A454FF.png",
+      "illustrationName" : "47270104-22DA-5307-81D0-E1C4374BD8EF.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
-          "category" : "Law",
-          "descriptionTR" : "John Bolton, eski ABD Başkanı Trump'ın ulusal güvenlik danışmanı, gizli belgeleri usulsüz kullanmaktan suçunu kabul etti. Cezası Ekim ayında açıklanacak. Bir anlaşma yapılması durumunda hapis cezasından kaçınabilir.",
-          "group" : "Trump classified documents",
-          "id" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
-          "link" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html",
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/02\/bayeux-tapestry-exhibition-brings-in-£25m-for-the-british-museum-on-first-day-of-ticket-sales",
+          "category" : "Culture",
+          "descriptionTR" : "Fransa'dan nadir bir ödünçle getirilen kırılgan ortaçağ duvar halısını görmek için biletler tükendi, ileri tarihlerde yeni biletler satışa sunulacak.",
+          "group" : "British Museum blockbuster",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/02\/bayeux-tapestry-exhibition-brings-in-£25m-for-the-british-museum-on-first-day-of-ticket-sales",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/02\/bayeux-tapestry-exhibition-brings-in-£25m-for-the-british-museum-on-first-day-of-ticket-sales",
           "newsValue" : 6,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/bolton-regierungsakten-100.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Financial Times World",
-              "url" : "https:\/\/www.ft.com\/content\/c97fd9e9-4b3b-4333-a898-54243ef317d7"
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/02\/bayeux-tapestry-exhibition-brings-in-£25m-for-the-british-museum-on-first-day-of-ticket-sales"
             }
           ],
-          "titleTR" : "Gizli belgelerle ilgili usulsüzlük: Trump'ın eski danışmanı suçunu kabul etti"
+          "titleTR" : "Bayeux Duvar Halısı sergisi, ilk gününde Britanya Müzesi'ne 2,5 milyon sterlin kazandırdı"
+        },
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/europe\/20260708-bayeux-tapestry-to-arrive-in-london-in-secret-high-stakes-operation",
+          "category" : "Culture",
+          "descriptionTR" : "11. yüzyıla ait Bayeux Duvar Halısı, önümüzdeki günlerde polis koruması altında gizli bir gece operasyonuyla Londra'ya ulaşacak. İngiltere'nin Norman fethini tasvir eden 68 metre uzunluğundaki başyapıt, 10 Eylül'den itibaren Britanya Müzesi'nde sergilenecek.",
+          "group" : "Bayeux Tapestry exhibition",
+          "id" : "https:\/\/www.france24.com\/en\/europe\/20260708-bayeux-tapestry-to-arrive-in-london-in-secret-high-stakes-operation",
+          "link" : "https:\/\/www.france24.com\/en\/europe\/20260708-bayeux-tapestry-to-arrive-in-london-in-secret-high-stakes-operation",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/europe\/20260708-bayeux-tapestry-to-arrive-in-london-in-secret-high-stakes-operation"
+            }
+          ],
+          "titleTR" : "Bayeux Duvar Halısı, Londra'ya gizli bir gece operasyonuyla getirilecek"
         }
       ],
-      "packetSpot" : "John Bolton, Trump döneminde ulusal güvenlik danışmanı olarak görev yapmıştı ve gizli belgeleri usulsüz kullanmaktan suçunu kabul etti. Bu gelişme, eski Trump yetkililerini içeren hukuki süreçlerde önemli bir adım olarak görülüyor.",
-      "packetTitle" : "John Bolton gizli belgeleri usulsüz kullanmaktan suçunu kabul etti",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "Bayeux Duvar Halısı, Fransa'dan nadir bir ödünçle Britanya Müzesi'nde sergilenecek. Bilet satışları önemli gelir sağlarken, halının transferi yüksek güvenlik önlemleri altında gerçekleştiriliyor.",
+      "packetTitle" : "Bayeux Duvar Halısı Britanya Müzesi'nde sergileniyor: Büyük gelir ve güvenli transfer",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 12
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
-          "category" : "Energy",
-          "descriptionTR" : "Enerji ve tedarik zinciri krizinin, ABD ve İran geri adım atsa bile hafiflemesi olası görünmüyor. Uzmanlar, Hürmüz Boğazı'nın yeniden açılması ve altyapının onarılmasının aylar ya da yıllar alabileceği konusunda uyarıyor.",
-          "group" : "Strait of Hormuz tensions",
-          "id" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
-          "link" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
+          "atomID" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/08\/ispace-spacex-moon\/",
+          "category" : "Technology",
+          "descriptionTR" : "Tokyo merkezli Ispace, 2030 yılı gibi yakın bir tarihte Ay'a iniş yapacak bir Starship üzerinde 50 milyon dolara 500 kilogram kapasite satın aldı.",
+          "group" : "Japan lunar space race",
+          "id" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/08\/ispace-spacex-moon\/",
+          "link" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/08\/ispace-spacex-moon\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/iran-war-even-a-peace-deal-won-t-fix-energy-crunch\/a-77322623?maca=en-rss-en-all-1573-xml-mrss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/strait-of-hormuz-reopening-won-t-end-shipping-risks\/a-77553214?maca=en-rss-en-all-1573-xml-mrss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/us-iran-deal-when-will-oil-prices-fall\/a-77554342?maca=en-rss-en-all-1573-xml-mrss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Libération",
-              "url" : "https:\/\/www.liberation.fr\/international\/moyen-orient\/petrole-a-ormuz-limpossible-retour-a-la-normale-20260626_BAR2CTRONVGOZM2WYLAMHJTXGY\/"
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/08\/ispace-spacex-moon\/"
             }
           ],
-          "titleTR" : "İran savaşı: Barış anlaşması bile enerji krizini çözmeyecek"
+          "titleTR" : "SpaceX Starship ile Japonya'nın Ispace şirketi Ay'a yolculuk hizmeti sunuyor"
         },
         {
-          "atomID" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
-          "category" : "Energy",
-          "descriptionTR" : "İran'ın Hürmüz Boğazı'ndaki ablukası nasıl kırılabilir? Emekli General S. Clinton Hinote, eski Hava Kuvvetleri baş stratejisti olarak bu soruya yanıt aradı. Sonuç? Zor.",
-          "group" : "Hormuz shipping crisis",
-          "id" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
-          "link" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.newscientist.com\/article\/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "category" : "Technology",
+          "descriptionTR" : "Starfall, SpaceX'in yeni teslimat sistemi olarak biliniyor ancak hakkında çok az şey biliniyor. Mayıs ayında yayımlanan bir değerlendirme, sistemin amacını ortaya koydu.",
+          "group" : "SpaceX cargo return",
+          "id" : "https:\/\/www.newscientist.com\/article\/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "link" : "https:\/\/www.newscientist.com\/article\/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Der Spiegel International",
-              "url" : "https:\/\/www.spiegel.de\/international\/world\/u-s-military-expert-on-oil-tanker-convoys-in-the-strait-of-hormuz-iran-must-only-succeed-once-to-trigger-a-catastrophe-a-1b4f4521-01dd-4711-8a5e-8da225d053b5#ref=rss"
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
             }
           ],
-          "titleTR" : "ABD'li askeri uzmana göre İran'ın başarısı felakete yol açabilir"
+          "titleTR" : "SpaceX'in uzaydan Dünya'ya kargo teslimatı için gizemli planları"
         }
       ],
-      "packetSpot" : "",
-      "packetTitle" : "Hürmüz Boğazı'nda süregelen enerji ve güvenlik sorunları",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "SpaceX, Japonya'nın Ispace şirketi ile Ay'a yolculuk hizmetleri sunarken, Starfall adını verdiği yeni ve gizemli bir sistemle Dünya'ya kargo teslimatı yapmayı planlıyor.",
+      "packetTitle" : "SpaceX'in çeşitli uzay taşımacılığı projeleri: Ay görevleri ve Dünya'ya kargo teslimatı",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 13
     },
     {
-      "illustrationName" : "6FC21DC4-1244-5ECE-A333-8B7BEE2D864B.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
-          "category" : "Environment",
-          "descriptionTR" : "Avusturya Grand Prix'si, Orta ve Kuzey Avrupa'da sıcaklıkların dramatik bir şekilde artması beklenirken, sıcaklık tehlikesi ilan etti. Almanya ve Polonya'da, hafta sonu boyunca sıcaklıkların 40C'ye (104F) kadar çıkması bekleniyor. Spielberg'de düzenlenen Avusturya Grand Prix'si, bu sezon ilk kez sıcaklık tehlikesi ilan etti. Yarış sırasında sıcaklıkların, mekan için alışılmışın neredeyse 10C üzerinde, 30C'nin üzerine çıkması bekleniyor. Avrupa genelinde şiddetli sıcaklıklar, şiddetli fırtınalara yol açtı. Rusya'nın Sverdlovsk bölgesinde, 22 Haziran akşamı güçlü bir kasırga bildirildi. Uluslararası Fujita ölçeğinde 5 üzerinden 3 olarak değerlendirilen kasırga, Kushva kasabasında 16 kişiyi yaraladı ve yaklaşık 100 ev ve iş yerini yıktı veya hasar verdi. Acil servisler, kasabaya elektrik sağlamak için çalışıyor. Rusya'da kasırgalar nadir görülse de, gelecekte iklimin bozulmasıyla daha yaygın hale gelebileceği öngörülüyor. Ülkenin güneyinde fırtına uyarıları Cuma günü de devam etti.",
-          "group" : "Europe heatwave crisis",
-          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
-          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/russia-third-air-attack-kyiv\/",
+          "category" : "Security",
+          "descriptionTR" : "Son füze saldırıları, Ukrayna'nın ABD yapımı hava savunma önleyicilerinin kritik eksikliğinden faydalanıyor.",
+          "group" : "Kyiv air attacks",
+          "id" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/russia-third-air-attack-kyiv\/",
+          "link" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/russia-third-air-attack-kyiv\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/weather-tracker-heatwave-germany-poland-40c-temperatures"
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/russia-third-air-attack-kyiv\/"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/26\/europeans-voice-concerns-amid-sweltering-heatwave-video"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/environment\/live\/2026\/jun\/26\/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jun\/23\/europe-battles-record-breaking-heat-is-this-the-new-normal-the-latest"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/world\/gallery\/2026\/jun\/23\/europe-june-heatwave-in-pictures"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/women-low-income-families-bear-brunt-climate-crisis-heatwave"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jun\/26\/adapting-heat-ideas-from-european-cities"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/video\/2026\/06\/25\/heatwave-scorches-europe-from-london-to-madrid-as-temperatures-near-39c"
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/cx2xxw99z88o?at_medium=RSS&at_campaign=rss"
             }
           ],
-          "titleTR" : "Hava durumu: Almanya ve Polonya'da sıcaklıklar 40C'ye ulaşacak"
+          "titleTR" : "Rusya, yetkililere göre bir hafta içinde Kiev'e üçüncü hava saldırısını düzenledi"
         }
       ],
-      "packetSpot" : "Avrupa, İspanya'dan Polonya'ya uzanan bölgelerde 40C'ye yaklaşan sıcaklıklarla şiddetli bir sıcak hava dalgası yaşıyor ve bu durum önemli kamu güvenliği endişelerine yol açıyor.",
-      "packetTitle" : "Avrupa'da 40C'ye yaklaşan sıcak hava dalgası etkisi",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "",
+      "packetTitle" : "Rusya'nın Kiev'e hava saldırıları hasar ve kayıplara yol açıyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 14
     },
     {
+      "illustrationName" : "DE6D8B01-D5F8-5C39-BECB-D3014DC36DED.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
-          "category" : "Environment",
-          "descriptionTR" : "İnsan kaynaklı iklim değişikliği, bu yılki rekor sıcaklık dalgasını 4 dereceye kadar daha sıcak hale getirdi.",
-          "group" : "European heat wave",
-          "id" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
-          "link" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.newscientist.com\/article\/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "category" : "Science",
+          "descriptionTR" : "NASA'nın Swift uzay teleskobu, yörüngedeki yirmi yıllık görev süresinin sonuna yaklaşıyor. Ancak 3 Temmuz'da fırlatılan bir uydu, teleskoba hayat kurtarıcı bir destek sağlayabilir.",
+          "group" : "NASA telescope rescue",
+          "id" : "https:\/\/www.newscientist.com\/article\/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "link" : "https:\/\/www.newscientist.com\/article\/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/european-heat-wave-is-not-normal-summer-weather\/a-77693716?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2532627-audacious-mission-to-rescue-nasas-falling-telescope-has-launched\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
             }
           ],
-          "titleTR" : "Avrupa'daki sıcak hava dalgası normal yaz havası değil"
+          "titleTR" : "NASA'nın düşmekte olan teleskobunu kurtarma görevi başladı"
         },
         {
-          "atomID" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
-          "category" : "Environment",
-          "descriptionTR" : "A7 otoyolunda meydana gelen sıcaklık hasarı nedeniyle kuzeye giden bir şerit hafta sonu boyunca kapalı kalacak. Fransız hükümeti, mevcut sıcak hava dalgasının ülkede birçok ölüme yol açmış olabileceğini öngörüyor.",
-          "group" : "European heatwave",
-          "id" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
-          "link" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260704232642.htm",
+          "category" : "Science",
+          "descriptionTR" : "NASA'nın Hubble Uzay Teleskobu, Amerika'nın 250. yıldönümünü kutlamak için Samanyolu'nun en eski yıldız kümelerinden birinin muhteşem kırmızı, beyaz ve mavi görüntüsünü yakaladı. Bu eski küme içinde, patlayan yıldızların genç evreni nasıl gezegenler ve nihayetinde yaşam oluşturabilecek bir hale getirdiğine dair ipuçları saklı.",
+          "group" : "Hubble anniversary images",
+          "id" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260704232642.htm",
+          "link" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260704232642.htm",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/newsticker\/liveblog-wetter-hitze-102.html"
+              "sourceName" : "ScienceDaily",
+              "url" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260704232642.htm"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/wissen\/klima\/hitzewelle-klimawandel-102.html"
-            }
-          ],
-          "titleTR" : "A7 otoyolunda sıcaklık hasarı: Kuzeye giden şerit kapalı"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-          "category" : "Environment",
-          "descriptionTR" : "Almanya'nın şimdiye kadarki en yüksek sıcaklığı, Fransa sınırındaki Saarbrücken'de geçici olarak 41.3°C olarak kaydedildi.",
-          "group" : "European heatwave",
-          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-26T20:54:52Z",
-          "sources" : [
+              "sourceName" : "ScienceDaily",
+              "url" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260704232634.htm"
+            },
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "ScienceDaily",
+              "url" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260702230859.htm"
             }
           ],
-          "titleTR" : "Avrupa'nın ölümcül sıcak hava dalgası Almanya'da rekor kırdı, kamu etkinlikleri durdu"
+          "titleTR" : "NASA'nın Hubble'ı 4 Temmuz için yıldızlı bir gösteri yakaladı"
         }
       ],
-      "packetSpot" : "Avrupa'da sıcaklıklar rekor seviyelere ulaştı, altyapı sorunlarına ve sağlık endişelerine yol açtı.",
-      "packetTitle" : "Avrupa'da rekor kıran sıcak hava dalgası altyapıyı vurdu, sağlık endişelerini artırdı",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "NASA, Amerika'nın 250. yılını, Swift teleskobu için bir kurtarma görevi ve Hubble'ın yıldızlı bir gösteri yakaladığı gözlemle kutluyor.",
+      "packetTitle" : "NASA, Amerika'nın 250. yılını uzay görevleriyle kutluyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 15
     },
     {
-      "illustrationName" : "63EDF9A4-FAF9-522F-BA5C-4618A671A595.png",
+      "illustrationName" : "72C6B425-60C9-5EEF-9291-587777121E67.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+          "atomID" : "https:\/\/www.newscientist.com\/article\/2531001-almost-the-whole-of-japan-moved-eastward-after-2011-earthquake\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "category" : "Environment",
-          "descriptionTR" : "Fransa, sıcaklıkların yükselmesiyle birlikte klimalara karşı uzun süredir devam eden çekincelerini yeniden değerlendirmek zorunda kalıyor.",
-          "group" : "Europe heatwave response",
-          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "descriptionTR" : "2011 Tohoku depreminden 15 dakika sonra son derece sıra dışı bir tektonik hareket gerçekleşti ve neredeyse tüm Japonya'nın 5 milimetre doğuya kaymasına neden oldu.",
+          "group" : "Japan earthquake displacement",
+          "id" : "https:\/\/www.newscientist.com\/article\/2531001-almost-the-whole-of-japan-moved-eastward-after-2011-earthquake\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "link" : "https:\/\/www.newscientist.com\/article\/2531001-almost-the-whole-of-japan-moved-eastward-after-2011-earthquake\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cz0j87vpz79o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/c802denngxeo?at_medium=RSS&at_campaign=rss"
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2531001-almost-the-whole-of-japan-moved-eastward-after-2011-earthquake\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
             }
           ],
-          "titleTR" : "Fransa'da en sıcak gün kaydedildi, klima politik bir tartışma yarattı"
-        },
-        {
-          "atomID" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
-          "category" : "Environment",
-          "descriptionTR" : "Bilim insanlarına göre, kıtadaki gündüz sıcaklıkları küresel ısınma hızından üç kat daha hızlı artıyor.",
-          "group" : "Europe heatwave response",
-          "id" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
-          "link" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Financial Times World",
-              "url" : "https:\/\/www.ft.com\/content\/a2ea8432-f871-40c9-89bf-a18ee091413f"
-            }
-          ],
-          "titleTR" : "Avrupa'nın rekor Haziran sıcaklıkları: Zorlayıcı geceler ve nem"
+          "titleTR" : "2011 depremi sonrası neredeyse tüm Japonya doğuya kaydı"
         }
       ],
-      "packetSpot" : "Avrupa, rekor sıcak hava dalgasıyla karşı karşıya. Fransa, artan sıcaklıklar nedeniyle klima konusundaki tutumunu yeniden gözden geçiriyor. Kıtanın sıcaklıkları, küresel ortalamadan üç kat daha hızlı artıyor.",
-      "packetTitle" : "Avrupa'da rekor sıcak hava dalgası: Artan sıcaklıklar ve klima tartışmaları",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "2011 Tohoku depremi, Japonya'nın doğuya doğru kaymasına ve tsunaminin yıkıcı gücüne dair önemli jeolojik değişimlerin incelenmesine yol açtı.",
+      "packetTitle" : "2011 Tohoku depremi ve tsunamisinin jeolojik etkileri ve bilimsel bulgular",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 16
     },
     {
-      "illustrationName" : "167ACD83-9E27-56DD-AF65-115D8D4EEED0.png",
+      "illustrationName" : "1DD98A05-8C4E-5E18-9D3A-66C197DA7672.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
-          "category" : "Health",
-          "descriptionTR" : "Kalkınma yardımlarının azaltılması, Demokratik Kongo Cumhuriyeti'ndeki Ebola salgınının kontrol altına alınamamasına katkıda bulunuyor. Alman kuruluşları, yayılmayı durdurmak için harcamaların artırılması çağrısında bulunuyor.",
-          "group" : "Congo Ebola outbreak",
-          "id" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
-          "link" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/balkaninsight.com\/2026\/07\/07\/us-will-lift-sanctions-on-turkey-allow-f35-sales-trump-says\/bi\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Ankara'daki NATO zirvesinde Başkan Trump, Türkiye'ye yönelik yaptırımların sona erdiğini ve ülkeye savaş uçağı satışına yeşil ışık yaktığını açıkladı.",
+          "group" : "Turkey sanctions and F35s",
+          "id" : "https:\/\/balkaninsight.com\/2026\/07\/07\/us-will-lift-sanctions-on-turkey-allow-f35-sales-trump-says\/bi\/",
+          "link" : "https:\/\/balkaninsight.com\/2026\/07\/07\/us-will-lift-sanctions-on-turkey-allow-f35-sales-trump-says\/bi\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/international-aid-cuts-complicate-congo-s-ebola-epidemic\/a-77320865?maca=en-rss-en-all-1573-xml-mrss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/new-ebola-cases-in-congo-what-you-need-to-know\/a-77325922?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "Balkan Insight",
+              "url" : "https:\/\/balkaninsight.com\/2026\/07\/07\/us-will-lift-sanctions-on-turkey-allow-f35-sales-trump-says\/bi\/"
             }
           ],
-          "titleTR" : "Uluslararası yardım kesintileri Kongo'daki Ebola salgınını zorlaştırıyor"
+          "titleTR" : "Trump: ABD, Türkiye'ye yaptırımları kaldıracak ve F-35 satışına izin verecek"
         },
         {
-          "atomID" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
-          "category" : "Health",
-          "descriptionTR" : "Ulusal halk sağlığı enstitüsünün verilerine göre, 15 Mayıs'tan bu yana Demokratik Kongo Cumhuriyeti'nde 1.115 kişi virüsle enfekte oldu.",
-          "group" : "Congo Ebola outbreak",
-          "id" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
-          "link" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/hegseth-to-meet-netanyahu-over-possible-sale-of-f-35s-to-turkey-source-tells-reuters",
+          "category" : "Diplomacy",
+          "descriptionTR" : "JERUSALEM, 8 Temmuz - ABD Savunma Bakanı Pete Hegseth, İsrail Başbakanı Benjamin Netanyahu ile Türkiye'ye F-35 savaş uçaklarının olası satışı hakkında görüşmek üzere planlanan toplantısını iptal etti. Bu bilgi, Reuters'a konuşan bir İsrailli kaynağa dayanmaktadır.",
+          "group" : "Turkey F-35 dispute",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/hegseth-to-meet-netanyahu-over-possible-sale-of-f-35s-to-turkey-source-tells-reuters",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/hegseth-to-meet-netanyahu-over-possible-sale-of-f-35s-to-turkey-source-tells-reuters",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Le Monde International",
-              "url" : "https:\/\/www.lemonde.fr\/afrique\/article\/2026\/06\/26\/l-epidemie-d-ebola-en-rdc-a-fait-304-morts-selon-le-dernier-bilan-des-autorites_6715861_3212.html"
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/hegseth-to-meet-netanyahu-over-possible-sale-of-f-35s-to-turkey-source-tells-reuters"
             }
           ],
-          "titleTR" : "Yetkililerin son bilançosuna göre, KDC'deki Ebola salgını 304 can aldı"
+          "titleTR" : "Hegseth, Türkiye'ye F-35 satışı nedeniyle Netanyahu ile görüşmesini iptal etti"
         }
       ],
-      "packetSpot" : "Demokratik Kongo Cumhuriyeti'ndeki Ebola salgınını kontrol altına alma zorluklarına odaklanılıyor; uluslararası yardım kesintileri ve artan ölüm sayıları durumun ciddiyetini gözler önüne seriyor.",
-      "packetTitle" : "Demokratik Kongo Cumhuriyeti'nde Ebola salgınını kontrol altına alma zorlukları",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "ABD'nin Türkiye'ye F-35 savaş uçakları satışını ve yaptırımları kaldırmasını çevreleyen diplomatik gerilimler, İsrail'in tepkileriyle birlikte öne çıkıyor.",
+      "packetTitle" : "ABD-Türkiye F-35 satışları ve diplomatik tepkiler",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 17
     },
     {
+      "illustrationName" : "0CBB2B2C-AD5D-5311-BF44-26B86927AF29.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
-          "category" : "Health",
-          "descriptionTR" : "Almanya'da binlerce kişi bir bağış organı bekliyor, ancak organ sayısı yetersiz. Organ bağışı için yeni kurallar bu durumu değiştirebilir mi? Bundestag'da bu konuda açık bir tartışma yapıldı. Birthe Sönnichsen'in haberi.",
-          "group" : "German organ donation reform",
-          "id" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
-          "link" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/08\/venezuela-quake-death-toll-reaches-3-685-as-economists-urge-lifting-of-us-sanctions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "category" : "Disaster",
+          "descriptionTR" : "24 Haziran'da Venezuela'nın kuzeyini vuran ikiz depremlerden sonra ölü sayısı resmi rakamlara göre 3.685'e yükseldi. Pazartesi günkü sayıya 150 yeni ölüm eklendi. Yaralı sayısı 16.740'ta sabit kalırken, kurtarılan kişi sayısı 6.462 olarak bildirildi. Evlerini kaybedenlerin sayısı ise 17.907'ye ulaştı. Yetkililer, verilerin geçici olduğunu belirtiyor.",
+          "group" : "Venezuela earthquake response",
+          "id" : "https:\/\/en.mercopress.com\/2026\/07\/08\/venezuela-quake-death-toll-reaches-3-685-as-economists-urge-lifting-of-us-sanctions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link" : "https:\/\/en.mercopress.com\/2026\/07\/08\/venezuela-quake-death-toll-reaches-3-685-as-economists-urge-lifting-of-us-sanctions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/inland\/organspende-debatte-bundestag-100.html"
+              "sourceName" : "MercoPress",
+              "url" : "https:\/\/en.mercopress.com\/2026\/07\/08\/venezuela-quake-death-toll-reaches-3-685-as-economists-urge-lifting-of-us-sanctions?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/germany-considers-opt-out-organ-donor-option\/a-77712351?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-venezuela-la-guaira-s-mass-graves-take-in-unclaimed-bodies"
             }
           ],
-          "titleTR" : "Bundestag'da organ bağışı tartışması: \"İnsan yedek parça deposu değildir\""
+          "titleTR" : "Venezuela'da depremde ölü sayısı 3.685'e ulaştı; ekonomistler ABD yaptırımlarının kaldırılmasını istiyor"
         }
       ],
-      "packetSpot" : "Almanya parlamentosu, bağış organlarının yetersizliği sorununu çözmek için 'opt-in'den 'opt-out'a geçişi tartışıyor.",
-      "packetTitle" : "Almanya'da 'opt-out' organ bağışı sistemi tartışmaları",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "",
+      "packetTitle" : "Venezuela'da deprem sonrası: Artan ölü sayısı ve toplu mezar kullanımı",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 18
     },
     {
+      "illustrationName" : "A4C23D55-EB0D-5685-84ED-A48C9FF0910B.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
-          "category" : "Health",
-          "descriptionTR" : "Yaz, FIFA Dünya Kupası ve soğuk bir bira kulağa hoş gelebilir. Ancak dikkatli olun; sıcak hava ve alkol birleşimi hızla kötü sonuçlar doğurabilir.",
-          "group" : "Heat wave health",
-          "id" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
-          "link" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
-          "newsValue" : 4,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/07\/us-crash-out-of-world-cup-as-belgium-win-4-1-amid-balogun-red-card-storm?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "category" : "Sports",
+          "descriptionTR" : "ABD, Pazartesi gecesi Seattle'da oynanan son 16 turu maçında Belçika'ya 4-1 yenilerek 2026 Dünya Kupası'ndan elendi. Bu yenilgiyle birlikte, turnuvanın üç ev sahibi ülkesi olan ABD, Kanada ve Meksika da turnuvadan elenmiş oldu.",
+          "group" : "World Cup controversy",
+          "id" : "https:\/\/en.mercopress.com\/2026\/07\/07\/us-crash-out-of-world-cup-as-belgium-win-4-1-amid-balogun-red-card-storm?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link" : "https:\/\/en.mercopress.com\/2026\/07\/07\/us-crash-out-of-world-cup-as-belgium-win-4-1-amid-balogun-red-card-storm?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail\/a-77680047?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "MercoPress",
+              "url" : "https:\/\/en.mercopress.com\/2026\/07\/07\/us-crash-out-of-world-cup-as-belgium-win-4-1-amid-balogun-red-card-storm?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/fact-check-as-europe-bakes-should-you-trust-your-sunscreen\/a-77707226?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-07\/world-cup-quick-hits-usa-mbappe-england-ronaldo\/106887222"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle",
-              "url" : "https:\/\/www.dw.com\/en\/france-bans-alcohol-during-fete-de-la-musique-amid-heat-wave\/a-77639233?maca=en-rss-en-all-1573-xml-mrss"
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-quick-hits-egypt-belgium-usa-spain\/106891098"
             }
           ],
-          "titleTR" : "Sıcak hava dalgası: Soğuk bira veya kokteylden neden kaçınmalısınız?"
-        },
-        {
-          "atomID" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
-          "category" : "Health",
-          "descriptionTR" : "Almanya'da şu anda 30 dereceyi aşan çok yüksek sıcaklıklar hakim. Sağlık yetkilileri sıcaklık yükü konusunda uyarıyor. Günlük hayatta en iyi nasıl korunabiliriz? İşte genel bir bakış.",
-          "group" : "Heat safety guidance",
-          "id" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
-          "link" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html",
-          "newsValue" : 5,
-          "publishedAt" : "2026-06-26T20:54:52Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/wissen\/klima\/tipps-gegen-hitze-100.html"
-            }
-          ],
-          "titleTR" : "Sıcak günleri nasıl atlatırız?"
+          "titleTR" : "ABD, Belçika'ya 4-1 yenilerek Dünya Kupası'na veda etti; Balogun'un kırmızı kartı tartışma yarattı"
         }
       ],
-      "packetSpot" : "",
-      "packetTitle" : "Avrupa'da sıcak hava dalgalarında sağlık önlemleri",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "ABD, Belçika'ya 4-1 yenilerek 2026 Dünya Kupası'ndan elendi; maçta Balogun'un kırmızı kartı tartışma yarattı.",
+      "packetTitle" : "ABD, Belçika'ya yenilgi ve kırmızı kart tartışmasıyla Dünya Kupası'ndan elendi",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 19
     },
     {
+      "illustrationName" : "4F796473-03ED-55EF-B6B5-573562243E78.png",
       "items" : [
         {
-          "atomID" : "https:\/\/orf.at\/stories\/3434466\/",
-          "category" : "Health",
-          "descriptionTR" : "Avusturya'da hafta sonu sıcak hava dalgası zirveye ulaşacak. Ülkenin bazı bölgelerinde sıcaklıkların 40 dereceye ulaşması bekleniyor. Özellikle yaşlılar ve hastalar için bu sıcaklıklar hayati tehlike oluşturabilir. Bu nedenle, bakım evleri ve hastanelerdeki yük oldukça büyük.",
-          "group" : "Heatwave hospital strain",
-          "id" : "https:\/\/orf.at\/stories\/3434466\/",
-          "link" : "https:\/\/orf.at\/stories\/3434466\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/thai-rubber-smallholders-race-to-meet-new-eu-deforestation-rules\/",
+          "category" : "Environment",
+          "descriptionTR" : "Tayland'ın doğal kauçuk endüstrisi, 2027'de yürürlüğe girecek yeni AB ormansızlaşma yasasına uyum sağlamak için çabalıyor. Dünyanın en büyük doğal kauçuk üreticisi olan Tayland, arzının %90'ını sağlayan yaklaşık 1.7 milyon küçük ölçekli çiftçiye dayanıyor. Ülke, kauçuğunun büyük bir kısmını Çin ve Malezya'ya ihraç ediyor, ancak AB'ye yapılan ihracatın değeri 2019'dan 2024'e kadar yaklaşık %65 arttı. AB Ormansızlaşma Düzenlemesi'ne (EUDR) uyum sağlamak ve Avrupa pazarlarına erişimi sürdürmek için, 2027 Ocak ayından itibaren kauçuk tedarikçilerinin ürünlerinin 31 Aralık 2020'den sonra ormansızlaştırılmış arazilerden gelmediğini kanıtlayan coğrafi konum verileri ve yasal belgeler sunmaları gerekecek. Bu düzenlemeye uyum sağlamak, Tayland'ın tarihsel olarak parçalı tedarik zinciri için büyük bir değişiklik gerektiriyor. Stefano Savi, Küresel Sürdürülebilir Doğal Kauçuk Platformu direktörü, bu tedarik zincirinin tamamen yenilenmesi gerektiğini ve bunun bir \"devrim\" olacağını belirtti. Beş yıl önce, doğal kauçukta tedarik zinciri izlenebilirliği, endüstrinin parçalı doğası nedeniyle imkansız olarak görülüyordu. Uyum boşluğunu kapatmak için özel aracı firmalar teknoloji tabanlı çözümlerle devreye giriyor. Bu firmalardan biri olan Agriac, Traztru platformunu kullanarak çiftlik arazilerini coğrafi referansla tanımlıyor.",
+          "group" : "EU deforestation compliance",
+          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/thai-rubber-smallholders-race-to-meet-new-eu-deforestation-rules\/",
+          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/thai-rubber-smallholders-race-to-meet-new-eu-deforestation-rules\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "ORF News",
-              "url" : "https:\/\/orf.at\/stories\/3434466\/"
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/thai-rubber-smallholders-race-to-meet-new-eu-deforestation-rules\/"
             }
           ],
-          "titleTR" : "Hastanelerdeki hastalar sıcak hava dalgasından etkileniyor"
+          "titleTR" : "Taylandlı kauçuk üreticileri AB'nin yeni ormansızlaşma kurallarına uyum sağlamak için yarışıyor"
         },
         {
-          "atomID" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
-          "category" : "Health",
-          "descriptionTR" : "Météo France, bu cuma günü ülkenin batısında sıcaklıkların düşmeye başladığını ve hafta sonu boyunca devam edeceğini doğruladı, ancak sıcaklıklar Fransa'nın büyük bir kısmında yüksek seviyelerde kalmaya devam edecek.",
-          "group" : "Heatwave hospital strain",
-          "id" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
-          "link" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-06-26T20:54:52Z",
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/un-plastics-pact-talks-restart-amid-fears-production-curbs-will-be-left-out\/",
+          "category" : "Environment",
+          "descriptionTR" : "Diplomatlar, müzakerelerin bir yıl önce çökmesinin ardından yeniden bir araya geliyor, ancak kampanyacılar, gündemin kilit unsurlar üzerindeki zorlu tartışmaları gölgeleyebileceğinden endişe ediyor. Hükümetler, plastik kirliliğini azaltmak için küresel bir anlaşma üzerinde \"kritik\" görüşmeler yapıyor, ancak bazı ülkeler ve aktivistler, plastik üretimini dizginleme önlemlerinin göz ardı edildiğini belirtiyor. Diplomatlar, müzakerelerin geçen yıl kaos içinde askıya alınmasından bu yana ilk kez Nairobi'de yüz yüze bir araya geliyor. Görüşmelerin başkanı Şilili büyükelçi Julio Cordano, bu dört günlük gayri resmi toplantıyı \"beyin fırtınası\" oturumu olarak nitelendiriyor ve ülkeleri müzakerelerin en tartışmalı unsurlarına yönelik olası çözümler sunmaya davet ediyor. Cordano, bu görüşlerden yeni bir taslak metin oluşturmayı ve hükümetlerin 2027 Mart ayında yapılacak bir sonraki resmi müzakere turunda ele alacağı bir temel belge oluşturmayı planlıyor. Daha önceki iki tur, plastik üretiminin nasıl ele alınacağı konusundaki çıkmaz nedeniyle anlaşma sağlanamadan sona ermişti. Büyük fosil yakıt ve petrokimya üreticileri, anlaşmanın sadece plastik atık yönetimine odaklanması gerektiğini savunuyor. Çoğu Avrupa, Latin Amerika, Afrika ve Pasifik ada ülkesi, plastik üretiminin \"sürdürülebilir seviyelere\" indirilmesini istiyor, ancak geniş kapsamlı bir yasak için bastırmıyor.",
+          "group" : "Global plastics treaty",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/un-plastics-pact-talks-restart-amid-fears-production-curbs-will-be-left-out\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/un-plastics-pact-talks-restart-amid-fears-production-curbs-will-be-left-out\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Libération",
-              "url" : "https:\/\/www.liberation.fr\/environnement\/climat\/en-direct-canicule-deux-tiers-de-la-france-en-alerte-maximale-decrue-des-temperatures-a-lhorizon-20260626_V5VB4JY5XFEAFGR2I5DHZBNWGY\/"
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/un-plastics-pact-talks-restart-amid-fears-production-curbs-will-be-left-out\/"
             }
           ],
-          "titleTR" : "Fransa'da hastaneler için 30.000 klima siparişi onaylandı"
+          "titleTR" : "BM plastik anlaşması görüşmeleri, üretim kısıtlamalarının dışlanacağı endişesiyle yeniden başlıyor"
         }
       ],
-      "packetSpot" : "Avusturya'da sıcak hava dalgası hastaneleri zorlarken, Fransa hastanelerine 30.000 klima siparişi verdi.",
-      "packetTitle" : "Avusturya'da hastaneler sıcak hava dalgasıyla zorlanıyor, Fransa'dan klima hamlesi",
-      "publishedAt" : "2026-06-26T20:54:52Z",
+      "packetSpot" : "",
+      "packetTitle" : "AB ormansızlaşma kuralları Tayland kauçuk endüstrisini etkiliyor; BM plastik anlaşması görüşmeleri üretim kısıtlamaları tartışmalarıyla yeniden başlıyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
       "sessionID" : "publish-draft",
       "slot" : 20
+    },
+    {
+      "illustrationName" : "B38CB3B6-83F2-5B43-BB4F-6E2838F8DF25.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/tornadoes-and-storms-in-central-china-kill-at-least-11-people\/",
+          "category" : "Environment",
+          "descriptionTR" : "BEIJING (AP) — Çin'in merkezinde meydana gelen hortumlar ve fırtınalar en az 11 kişinin ölümüne ve yüzlerce kişinin yaralanmasına neden oldu, devlet medyası Salı günü bildirdi. Güneydeki bölgelerde ise rekor düzeyde yağışlar görüldü. Hubei eyaletinin doğu bölgesinde Pazartesi gecesi şiddetli fırtınalar etkili oldu ve 14,600 kişi etkilendi, resmi Xinhua Haber Ajansı bildirdi. 330'dan fazla kişi yaralandı ve bir kişi kayboldu, ajans ekledi. 20'den fazla ev çöktü ve 4,800'den fazla ev hasar gördü. Nadir görülen EF2 hortumu, Huanggang şehrinde bir lojistik şirketi ve depoyu vurdu, birçok kamyon rüzgarla 30 metreye kadar savruldu, Xinhua bildirdi. Shanghai Daily tarafından X'te yayınlanan bir video, bir binanın zemin katında cam kapıların şiddetli rüzgarla açıldığını ve birinin kırıldığını gösterdi. Çin Meteoroloji İdaresi'ne bağlı Çin Hava Durumu Haberleri'ne göre, hortumlar genellikle Guangdong ve Jiangsu gibi güney ve kıyı eyaletlerinde kaydediliyor. Hubei'de nadir görülüyor ve Pazartesi gecesi bölgeyi vuran hortumlara, Tropik Fırtına Maysak'ın kalıntıları da dahil olmak üzere birçok faktör katkıda bulundu, meteoroloji uzmanı Wang Xiaoling, Hubei Daily gazetesine söyledi. Bu arada, güney Çin'de yetkililer, Maysak'tan kaynaklanan rekor yağışların Guangxi bölgesinde geniş çaplı sele neden olmasıyla altı kişinin öldüğünü ve 11 kişinin kaybolduğunu, 375,000 kişinin etkilendiğini ve 130,000 kişinin tahliye edildiğini belirtti, Guangxi bölgesel propaganda ofisi bildirdi. Guangxi, sel için en yüksek seviye olan kırmızı alarm verdi... Bu makale ilk olarak Mongabay'de yayınlandı.",
+          "group" : "China extreme weather",
+          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/tornadoes-and-storms-in-central-china-kill-at-least-11-people\/",
+          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/tornadoes-and-storms-in-central-china-kill-at-least-11-people\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/tornadoes-and-storms-in-central-china-kill-at-least-11-people\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c79ygnv9e93o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Çin'in merkezindeki hortumlar ve fırtınalar en az 11 kişinin ölümüne yol açtı"
+        }
+      ],
+      "packetSpot" : "Tayfun Maysak'ın neden olduğu hortumlar ve seller, Çin'in merkez ve güney bölgelerinde ciddi yıkıma ve can kayıplarına yol açtı, binlerce insan etkilendi.",
+      "packetTitle" : "Tayfun Maysak'ın tetiklediği hortumlar ve seller Çin'in merkez ve güneyini vurdu",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "illustrationName" : "DB8802DD-57A3-5F7E-88C4-296EA0F2322E.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/2026\/07\/brazils-expanding-offshore-oil-frontier-puts-biodiversity-at-risk-study\/",
+          "category" : "Environment",
+          "descriptionTR" : "2019'un Ağustos ayı sonunda, Brezilya'nın kuzeydoğu kıyılarındaki balıkçı toplulukları, plajlara siyah yağ lekelerinin vurduğunu bildirdi. Mangrov kökleri arasında, kaplumbağa kabuklarında ve kıyıya vurmuş balıkların üzerinde biriken ham petrolün kaynağı asla doğrulanmadı. Dönemin başkanı Jair Bolsonaro, önce bir Venezuela tankerini, ardından Greenpeace'i suçladı. Ancak kısa sürede felaketin boyutu ortaya çıktı. Güçlü rüzgarlar ve okyanus akıntıları tarafından taşınan petrol, 2020 başlarında bölgedeki dokuz Brezilya eyaletinin kıyı şeridini kirletti. Bu yılın başlarında, ülkenin hükümeti kuzeydoğu kıyısında yirmi yıl sonra ilk petrol arama lisanslarını verirken, geçen ay yayımlanan bir araştırma, gelecekteki olası bir sızıntının ölçeğini ve yayılmasını tahmin etmeye çalışıyor. Araştırmaya göre, güncel olmayan deniz habitat haritaları ve bölgedeki birden fazla alanda genişleme dikkate alınmadığı için yetkililer, özellikle deniz çayırları ve derin su mercanları için petrol sızıntısı risklerini hafife alıyor. Sızıntının daha olası olduğu bölgeler acil müdahale için hazırlanmalı, araştırma öneriyor. \"Yüksek koruma önemi taşıyan ancak nispeten düşük petrol sızıntısı riski olan alanlar\" ise yeni veya genişletilmiş Deniz Koruma Alanları (MPA'lar) için hedeflenebilir. \"Çoğu lisanslama sadece bir konumdaki bir faaliyete bakıyor: tüm deniz manzarasına değil,\" diyor Chico Mendez Biyoçeşitlilik Koruma Enstitüsü'nden ekolojist ve araştırmanın baş yazarı Rafael Magris.",
+          "group" : "Brazil offshore oil",
+          "id" : "https:\/\/news.mongabay.com\/2026\/07\/brazils-expanding-offshore-oil-frontier-puts-biodiversity-at-risk-study\/",
+          "link" : "https:\/\/news.mongabay.com\/2026\/07\/brazils-expanding-offshore-oil-frontier-puts-biodiversity-at-risk-study\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/2026\/07\/brazils-expanding-offshore-oil-frontier-puts-biodiversity-at-risk-study\/"
+            }
+          ],
+          "titleTR" : "Brezilya'nın genişleyen açık deniz petrol sınırı biyoçeşitliliği tehdit ediyor: araştırma"
+        },
+        {
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/ocean-summit-marine-protection-falls-silent-offshore-oil-and-gas-mombasa\/",
+          "category" : "Environment",
+          "descriptionTR" : "Bu ay Mombasa'daki Our Ocean Konferansı'nda kampanyacılar, okyanus korumasının hükümetlerin yeni açık deniz fosil yakıt projelerini durdurmasını gerektirdiğini belirtti. Kenya'nın kıyı kenti Mombasa'da düzenlenen Our Ocean Konferansı'nda hükümetler, deniz koruması, sürdürülebilir balıkçılık ve açık deniz rüzgarı için 6 milyar dolardan fazla taahhütte bulunurken, bir konu ana sahnede büyük ölçüde yoktu: açık deniz petrol ve gaz genişlemesi. Norveç, Brezilya ve Guyana'dan Güney Afrika, Angola ve Kenya'ya kadar ülkeler, deniz ekosistemlerini koruma ve iklim değişikliğiyle mücadele etme sözü verirken, açık deniz petrol ve gaz projelerine devam ediyor. Hükümetler, açık deniz petrol ve gaz üretiminin enerji güvenliği, kamu gelirleri ve ekonomik büyüme için gerekli olduğunu savunuyor, ancak çevre grupları yeni sondajların ülkeleri fosil yakıt üretimine kilitleme riski taşıdığını söylüyor. Fijili parlamenter ve Okyanus için Pasifik COP31 Elçisi Inia Seruiratu, çelişkinin göz ardı edilmesinin giderek zorlaştığını belirtti. \"Çok uzun süredir, iki konuşma - iklim azaltımı ve okyanus koruması - ayrı pistlerde, ayrı odalarda, ayrı uzmanlarla yürütüldü,\" dedi Seruiratu, Hint Okyanusu kıyısında düzenlenen Mombasa konferansındaki bir yan etkinlikte. Mombasa'da, onlarca panelden sadece biri, açık deniz petrol ve gaz genişlemesinin oluşturduğu tehditlere adandı ve bu etkinlik hükümetler yerine sivil toplum tarafından düzenlendi.",
+          "group" : "Offshore fossil fuels",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/ocean-summit-marine-protection-falls-silent-offshore-oil-and-gas-mombasa\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/ocean-summit-marine-protection-falls-silent-offshore-oil-and-gas-mombasa\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/ocean-summit-marine-protection-falls-silent-offshore-oil-and-gas-mombasa\/"
+            }
+          ],
+          "titleTR" : "Okyanus zirvesi, açık deniz petrol ve gaz genişlemesine sessiz kalıyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Brezilya'nın açık deniz petrol genişlemesi ve küresel okyanus zirvesinin fosil yakıt sessizliği",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/un-inquiry-urges-release-of-gaza-doctor-held-by-israel-since-december-2024",
+          "category" : "Human Rights",
+          "descriptionTR" : "CENEVRE, 8 Temmuz - Birleşmiş Milletler soruşturması, Çarşamba günü İsrail askeri tarafından Aralık 2024'te Gazze'de gözaltına alınan ve hala İsrail'de tutulan tanınmış Filistinli bir doktorun kötü muamele gördüğüne dair raporlar karşısında endişelerini dile getirdi ve serbest bırakılmasını istedi.",
+          "group" : "Gaza doctor detention",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/un-inquiry-urges-release-of-gaza-doctor-held-by-israel-since-december-2024",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/un-inquiry-urges-release-of-gaza-doctor-held-by-israel-since-december-2024",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/un-inquiry-urges-release-of-gaza-doctor-held-by-israel-since-december-2024"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/8\/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "BM soruşturması, Aralık 2024'ten beri İsrail tarafından tutulan Gazze doktorunun serbest bırakılmasını istedi"
+        }
+      ],
+      "packetSpot" : "BM soruşturması, Aralık 2024'ten beri gözaltında tutulan Filistinli doktor Hussam Abu Safia'nın serbest bırakılması için İsrail'e çağrıda bulundu. Doktorun ciddi kötü muamele gördüğüne dair raporlar bulunuyor.",
+      "packetTitle" : "BM'nin Filistinli doktorun serbest bırakılması çağrısı",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "illustrationName" : "92BEED0E-E630-519C-AB6E-053ECBA86CA9.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/erdogan-urges-nato-allies-to-lift-defence-industry-restrictions-at-summit",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ANKARA, 8 Temmuz - Türkiye Cumhurbaşkanı Tayyip Erdogan, Çarşamba günü yaptığı açıklamada, NATO müttefiklerinin aralarındaki savunma sanayi kısıtlamalarını kaldırması gerektiğini belirtti ve Ankara'nın Avrupa'ya özel bazı girişimlere katılma isteğini dile getirdi.",
+          "group" : "NATO defense restrictions",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/erdogan-urges-nato-allies-to-lift-defence-industry-restrictions-at-summit",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/erdogan-urges-nato-allies-to-lift-defence-industry-restrictions-at-summit",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/erdogan-urges-nato-allies-to-lift-defence-industry-restrictions-at-summit"
+            }
+          ],
+          "titleTR" : "Erdogan NATO zirvesinde savunma sanayi kısıtlamalarının kaldırılmasını istedi"
+        },
+        {
+          "atomID" : "https:\/\/balkaninsight.com\/2026\/07\/06\/erdogan-uses-nato-summit-to-flex-turkeys-geopolitical-muscles\/bi\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Batılı askeri ittifakın Ankara zirvesi, Türkiye Cumhurbaşkanı için ülkesinin stratejik önemini yurt dışında sergileme ve iç politikada etkisini artırma fırsatı sunuyor. Bu zirve, Türkiye'nin jeopolitik önemini vurgulamak için bir platform olarak değerlendiriliyor.",
+          "group" : "Turkey NATO leverage",
+          "id" : "https:\/\/balkaninsight.com\/2026\/07\/06\/erdogan-uses-nato-summit-to-flex-turkeys-geopolitical-muscles\/bi\/",
+          "link" : "https:\/\/balkaninsight.com\/2026\/07\/06\/erdogan-uses-nato-summit-to-flex-turkeys-geopolitical-muscles\/bi\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Balkan Insight",
+              "url" : "https:\/\/balkaninsight.com\/2026\/07\/06\/erdogan-uses-nato-summit-to-flex-turkeys-geopolitical-muscles\/bi\/"
+            }
+          ],
+          "titleTR" : "Erdogan NATO zirvesinde Türkiye'nin jeopolitik önemini vurguluyor"
+        }
+      ],
+      "packetSpot" : "Cumhurbaşkanı Erdogan, NATO zirvesini savunma sanayi kısıtlamalarının kaldırılması ve Türkiye'nin jeopolitik öneminin vurgulanması için kullanıyor.",
+      "packetTitle" : "Erdogan'ın NATO zirvesindeki stratejik gündemi",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "illustrationName" : "2956E0AB-EB5D-5FA6-8B96-AF5D71B77709.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/grist.org\/protest\/climate-activists-data-centers-green-new-deal\/",
+          "category" : "Technology",
+          "descriptionTR" : "İklim hareketi, çevreyi kirleten ve enerji tüketimi yüksek tesisleri durdurmak için yerel mücadelelerde yeni bir enerji buluyor. 2025'in siyasi kayıpları arasında, kitlesel federal işten çıkarmalar, kapatılan ajanslar ve temiz enerji harcamalarının kesilmesi yer aldı. Ancak, son on yılın belirleyici siyasi projelerinden biri neredeyse fark edilmeden sona erdi. 31 Aralık 2025'te, iklim, işçi ve sosyal adalet örgütlerinden oluşan Green New Deal Network resmen sona erdi.\nKoalisyonun sonsuza dek sürmesi beklenmiyordu, ancak Donald Trump'ın 2024'te yeniden seçilmesiyle hızlanan siyasi atmosfer, Joe Biden yönetimi altında elde edilen ivmenin bir gecede buharlaşmasına neden oldu. Trump, çevre düzenlemelerine ve iklim politikalarına karşı kapsamlı bir saldırı başlattığında, iklim hareketi değişim için nasıl mücadele edeceğini bilemez hale geldi. Kamuoyu, yaşam maliyeti gibi diğer konulara odaklanırken, federal hükümet hareketin davasına düşman oldu.\nGreen New Deal Network'ün kampanya ve siyaset direktörü Saul Levin, kişisel olarak ne yapacağını biliyordu: AI veri merkezleriyle mücadele. Yapay zeka patlaması, dijital bilgileri işleyen devasa tesislerin inşasında bir artış yarattı ve ülke genelindeki topluluklar, su kullanımı, artan enerji faturaları ve Büyük Teknoloji'nin kontrolü ele geçirmesi konusundaki endişeler nedeniyle bunların inşa edilmesini engellemeye çalışıyor. Levin, veri merkezlerine karşı olan insanlara yardımcı olmak için bir Signal sohbeti başlatmıştı. Şimdi bu sohbet, 40 eyalette yaklaşık 350 üyeye sahip ve Levin, onların hikayelerini yakalayan ve başarılarını vurgulayan yeni podcast'i 'The Hum' ile meşgul.\nBirçok iklim aktivisti benzer bir yol izliyor. Sera gazı emisyonları, hava ve su kirliliği ve sosyal adalet konularındaki endişeler, büyüyen veri merkezi karşıtı hareketle organik olarak uyum sağlıyor ve bu hareket, Green New Deal'in asla yapamadığı kadar geniş ve iki partili bir koalisyon çekti. 'İklim hareketi, bunun hem önemli hem de stratejik bir mücadele olduğunu giderek daha fazla fark ediyor,' dedi Evan Sutton, veri merkezlerine karşı olan insanları bir araya getirmeye yardımcı olan bir AI karşıtı savunucu.\nSunrise Movement, 2018'de Temsilci Nancy Pelosi'nin ofisini basarak Green New Deal talep eden ve fikri ulusal tartışmaya taşıyan üyeleriyle dikkat çekti. 'Ülke genelinde veri merkezi mücadelelerine olan ilginin arttığını kesinlikle gördük,' dedi grubun genel müdürü Aru Shiney-Ajay. Dallas, Denver, Pittsburgh ve Lansing, Michigan'daki yerel Sunrise merkezleri veri merkezlerini durdurmak için harekete geçiyor.\nİklim hareketinin bu mücadeleye katılmasının mantıklı bir nedeni var: Bu büyük ölçekli veri merkezleri, karbon emisyonlarının artmasına neden olabilir. Lawrence Berkeley Ulusal Laboratuvarı'nın yeni bir raporu, veri merkezlerinin 2024 ile 2030 arasında ABD elektrik talebindeki büyümenin yaklaşık üçte birini oluşturabileceğini buldu. Bu enerji açlığı, fosil yakıt olan doğal gaz için altyapının genişlemesini tetikliyor. Tipik bir AI veri merkezi, 100.000 hanenin tükettiği kadar elektrik talep ederken, inşa edilen en büyüklerinden bazıları bunun 20 katına kadar enerji kullanabilir, diyor Uluslararası Enerji Ajansı. Veri merkezlerinin hızlı genişlemesi, temiz enerjiye doğru ilerleme kaydettiğimiz büyük miktarda ilerlemeyi geri alabilir, dedi Shiney-Ajay. 'Bunu hafifletmek için ciddi bir şekilde politika geçirmezsek, iklimimiz için felaket olabilir.'\nBazı köklü çevre kuruluşları, büyük ölçekli veri merkezi inşaatlarının askıya alınmasını desteklemeye başladı. Bu ay Kongre'ye gönderilen ve ülke çapında bir moratoryum çağrısında bulunan bir mektup, çoğu çevre, iklim değişikliği veya çevresel adaletle ilgili olan 500'den fazla grup tarafından imzalandı — Greenpeace USA, Third Act, GreenLatinos ve Food and Water Watch gibi. Ancak ABD çevre hareketinin en büyük isimlerinden bazıları, Sierra Club, Doğal Kaynaklar Savunma Konseyi ve Nature Conservancy gibi, listede yoktu.\nBu, onların veri merkezlerinden yana oldukları anlamına gelmiyor. 'Veri merkezleri inşa etme spekülatif telaşı, tüketicilere, iklimimize ve topluluk sağlığına zarar veriyor, bu yüzden eyaletlerden ve federal hükümetten koruma talep ediyoruz,' dedi Sierra Club'ın baş danışmanı Jeremy Fisher bir e-posta açıklamasında. Kuruluş, Büyük Teknoloji'nin çevresel ve sağlık etkileri açısından daha yüksek bir standarda tabi tutulmasını savunuyor ve şirketlerin tesislerini fosil yakıtlar yerine temiz enerjiyle çalıştırmalarını talep ediyor. 'Veri merkezleri, çevremizi ve sağlığımızı, cüzdanlarımızı veya çevremizi tehdit etmeyen yenilenebilir enerjiyle çalıştırılabilir ve çalıştırılmalıdır,' dedi Fisher.\nWashington eyaletinde, örneğin, Amazon, Oregon'da devasa bir güneş çiftliği için Puget Sound Energy'yi bir açık artırmada geride bıraktı ve Amazon enerji tüketimi yüksek veri merkezleri inşa etmeye yarışırken, yenilenebilir kaynaklar için rekabet konusunda endişe yarattı. 'Bu güneş enerjisinin başka neyi güçlendireceği konusunu ne olacak?' dedi Meyer. 'Pastayı büyütmediniz. Sadece bir yerden başka bir yere kaydırdınız.'\nBüyük çevre grupları, Michigan Valisi Gretchen Whitmer gibi birçok Demokrat politikacıdan da ipuçları alıyor olabilir, ki bu politikacılar veri merkezi gelişimine dostça yaklaştılar. 'Ne yazık ki, bazı kuruluşlar, özellikle Demokrat Parti liderlerinin veya seçilmiş yetkililerin ana akım pozisyonlarını takip etme eğilimindedir,' dedi Meyer.\nMeyer, on yıl önce fracking'i yasaklama kampanyalarında saha organizatörü olarak çalışırken benzer bir dinamiğe tanık oldu: tabandan gelen enerji ile ana akım kurumlar arasında bir kopukluk. Köklü çevre grupları, tabandan gelen hareketlerden daha yavaş hareket etme eğilimindedir, dedi Valerie Costa, ABD'yi fosil yakıtlardan uzaklaştırmak için çalışan taban gruplarını destekleyen bir kar amacı gütmeyen kuruluş olan Oil and Gas Action Network'un eş yönetici direktörü. 'Taban hareketlerinin gerçekten iyi yaptığı şeylerden biri, daha acil tehditler olduğunda değişim yapmak ve hızlı bir şekilde yanıt verebilmek,' dedi Costa.\nBu, bu bahar beş büyük tesisin şehre gelebileceği haberleri çıktıktan sonra yeni büyük veri merkezleri için bir moratoryum geçirme çabasına katılan iklim aktivist grubu 350 Seattle'da yakın zamanda oynandı. Tüm projeler gerçekten inşa edilirse, Seattle'ın tipik bir günde kullandığı gücün yaklaşık üçte birini gerektireceklerdi. Seattle Şehir Konseyi, bu ayın başlarında moratoryumu oybirliğiyle kabul etti ve bu, ABD'de şimdiye kadar onayları askıya alan en büyük şehir oldu. İklim değişikliği gibi amorf ve ezici bir konuda çalışan yerel aktivistler için, somut, yerel bir sonuçla bir misyona dahil olmak canlandırıcıydı.\n'Bizim için, sadece bir şeyler yapmak isteyen ve bu güçsüzlüğü anlamlı bir şeye dönüştürmek isteyen insanlar için çok iyi bir başlangıç noktasıydı,' dedi Soapbox Project'in kurucusu ve CEO'su Nivi Achanta, moratoryumu savunan yerel bir iklim eylem grubu. Grubun Signal sohbeti, şehir konseyi politikayı tartarken hareketliydi: 'İnsanlar içkilerini çıkarıp patlamış mısırlarını alıyor ve bu şehir konseyi politikalarının gelişmesini izliyorlardı, bu genel iklim hareketinin dışında deneyimlediğim her şeyden çok daha eğlenceli,' dedi Achanta.\nWashington eyaletinde, ilerici iklim politikalarıyla tanınan, enerji tüketimi yüksek AI veri merkezleri tarafından yönlendirilen yeni doğal gaz altyapısı, her yıl yaklaşık 13.5 milyon metrik ton karbondioksit üretebilir, bu da eyaletin mevcut yıllık emisyonlarının yaklaşık yüzde 14'üne denk gelir. Bu, eyaletin İklim Taahhüt Yasası'nın gerektirdiği gibi 2050'ye kadar 1990 seviyelerinin yüzde 95 altına sera gazı emisyonlarını azaltma girişimini rayından çıkarabilir. Mavi bir eyalette bile, veri merkezlerine karşı muhalefetin başarılı olması için iki partili olması gerektiği anlayışı var, özellikle de çoğu veri merkezi kırsal alanlarda önerildiği için. 'Bir şeyler yapmak için sadece Batı Kıyısı'na veya Bellingham'dan Vancouver, Washington'a uzanan mavi koridora güvenemeyiz,' dedi Washington AI Direnişi gönüllü organizatörü Lauren Redfield.\nİklim aktivistleri yerel mücadelelere katılırken, kendilerini her konuda veya çok az konuda anlaşmadıkları insanlarla bir araya gelmiş bulabilirler. Veri merkezleri, Amerikalıları siyasi yelpazede birleştiren nadir bir konudur; Gallup'un anketine göre, Demokratların yüzde 75'i ve Cumhuriyetçilerin yüzde 63'ü bölgelerinde veri merkezleri inşa edilmesine karşı çıkıyor. Levin, 'The Hum' adlı programın sunucusu, Utah'taki punk müzisyenlerden Oregon'daki çiftçilere, Maryland'deki güzellik salonu çalışanlarına kadar her türlü insanın her türlü nedenle ortaya çıktığını söylüyor. Ancak farklılıkları, birlikte çalışmalarını engellemiyor.\n'Organizatörlerden tekrar tekrar duyuyoruz ki, 'İklim değişikliği için buradaysanız, ben buradayım çünkü bunun çirkin olacağını düşünüyorum ve o kişi burada çünkü AI'dan nefret ediyor' — hepimiz bunun kötü bir proje olduğunu düşünüyoruz,' dedi Levin.\nBu yılın ilk üç ayında, veri merkezi karşıtları en az 75 tesisi engelledi veya erteledi ve bu tesislerin değeri yaklaşık 130 milyar dolardı. Bu direnişin etkili olmasının bir nedeni, insan gücü — kasaba toplantılarına katılan, verandalarında buluşan ve başka şekillerde mücadeleye katılan yüz binlerce insan. Yalnızlık ve siyasi hayal kırıklığı çağında, bir şeylerin değiştiğine dair bir işaret.\n'Gerçekten umutluyum ki bu, toplulukları yerel siyasete yeniden dahil eden şey olacak,' dedi Redfield. 'Son birkaç yılda çok fazla kayıtsızlık gördük ve gerçekten umuyorum ki bu sivil katılım, toplumumuzu yeniden bir araya getirmemize yardımcı olabilir.'",
+          "group" : "Data center climate backlash",
+          "id" : "https:\/\/grist.org\/protest\/climate-activists-data-centers-green-new-deal\/",
+          "link" : "https:\/\/grist.org\/protest\/climate-activists-data-centers-green-new-deal\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/protest\/climate-activists-data-centers-green-new-deal\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/23\/un-ai-firms-to-reveal-full-environmental-impacts-data-centres-water-energy\/"
+            }
+          ],
+          "titleTR" : "İklim aktivistleri yeni bir hedef belirledi: Veri merkezleri"
+        }
+      ],
+      "packetSpot" : "BM ve iklim aktivistleri, yapay zeka veri merkezlerinin çevresel etkilerini incelemeye alıyor. Kaynak kullanımında şeffaflık ve yeni tesislere karşı yerel muhalefet ön planda.",
+      "packetTitle" : "BM ve iklim aktivistleri AI veri merkezlerini çevresel etkileri nedeniyle sorguluyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    },
+    {
+      "illustrationName" : "27076A49-3E02-5804-A71F-95FB11EFB7D2.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/07\/ugandan-farmers-launch-uk-court-case-against-east-african-oil-pipeline\/",
+          "category" : "Law",
+          "descriptionTR" : "Londra Yüksek Mahkemesi'nde açılan kitlesel fonlanan dava, Uganda yasalarının EACOP Ltd'ye uygulanmasını amaçlıyor. Fransız enerji şirketi TotalEnergies'in çoğunluk hissesine sahip olduğu tartışmalı 1.443 kilometrelik boru hattı, Uganda'dan Tanzanya'ya ham petrol taşımayı hedefliyor. Çiftçilerin avukatları, İngiltere merkezli bir kuruluşun Uganda yasalarını ihlal ettiğini savunuyor. Avaaz gibi kampanya grupları, bu davayı \"dünyanın en kötü petrol boru hatlarından birini durdurmak için son şans\" olarak nitelendiriyor. Racheal Tugume adlı davacılardan biri, boru hattı inşaatı nedeniyle yerinden edildiğini ve yerel ekosistemlerin zarar gördüğünü belirtiyor. Dava, Uganda'nın çevre koruma yasalarının yurtdışında uygulanması için ilk girişim olarak öne çıkıyor.",
+          "group" : "East Africa oil pipeline",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/07\/ugandan-farmers-launch-uk-court-case-against-east-african-oil-pipeline\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/07\/ugandan-farmers-launch-uk-court-case-against-east-african-oil-pipeline\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/07\/ugandan-farmers-launch-uk-court-case-against-east-african-oil-pipeline\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/ugandan-farmers-sue-totalenergies-oil-pipeline-project-in-uk-court\/"
+            }
+          ],
+          "titleTR" : "Ugandalı çiftçilerden Doğu Afrika petrol boru hattına İngiltere'de dava"
+        }
+      ],
+      "packetSpot" : "Dört Ugandalı çiftçi, İngiltere'de EACOP Ltd'ye karşı dava açarak, Uganda'nın çevre yasalarının İngiltere merkezli şirkete uygulanmasını talep ediyor. Dava, olası çevresel zararlar ve toplulukların yerinden edilmesi konusundaki endişeleri öne çıkarıyor.",
+      "packetTitle" : "Ugandalı çiftçilerden İngiltere'de EACOP'a dava",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 26
+    },
+    {
+      "illustrationName" : "466C0756-685A-5934-904A-5DB5A3B82C3C.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.newscientist.com\/article\/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "category" : "Science",
+          "descriptionTR" : "Bu Ağustos ayında Avrupa'nın bazı bölgelerinde tam güneş tutulması görülecek. Aynı zamanda gezegenin yaklaşık dörtte birinde kısmi tutulma yaşanacak. İşte nasıl izleyebileceğiniz.",
+          "group" : "Solar eclipse viewing",
+          "id" : "https:\/\/www.newscientist.com\/article\/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "link" : "https:\/\/www.newscientist.com\/article\/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Phys.org",
+              "url" : "https:\/\/phys.org\/news\/2026-07-total-solar-eclipse-due-august.html"
+            }
+          ],
+          "titleTR" : "2026 güneş tutulmasını nerede, ne zaman ve nasıl izleyebilirsiniz?"
+        }
+      ],
+      "packetSpot" : "2026 Ağustos'unda Avrupa'nın bazı bölgelerinde görülebilecek olan tam güneş tutulması, kuzey İspanya'da tam olarak izlenebilecek.",
+      "packetTitle" : "2026 Ağustos'unda Avrupa'da görülecek tam güneş tutulması",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 27
+    },
+    {
+      "illustrationName" : "3FD5620E-2507-5E47-90E6-13A3E9997799.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+          "category" : "Security",
+          "descriptionTR" : "Başbakan Sir Keir Starmer, Ankara'da yaklaşık bir düzine liderle programı görüşmek üzere bir araya gelecek.",
+          "group" : "Nato missile project",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "NATO müttefikleri yeni füze projesi için 37 milyar sterlin yatırım yapacak"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "NATO müttefikleri yeni füze projesine yatırım yapıyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 28
+    },
+    {
+      "items" : [
+
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Rusya, Ukrayna'nın petrol rafinerilerine yönelik insansız hava aracı saldırılarıyla yakıt sıkıntısı yaşıyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 29
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+          "category" : "Energy",
+          "descriptionTR" : "Moskova'da bile yetkililer yakıt tedarikini garanti edemiyor. Ekonomik baskı, görüşmelere veya gerginliğin tırmanmasına yol açar mı?",
+          "group" : "Russia fuel shortages",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/europe\/russia-fuel-shortages-cars-gasoline-lpg-b3011269.html"
+            }
+          ],
+          "titleTR" : "Rusya'daki yakıt sıkıntısı Putin'in Ukrayna stratejisini değiştirir mi?"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Rusya'daki yakıt sıkıntısı tedarik sorunlarına ve fiyat artışlarına yol açıyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 30
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/middle-east\/damaged-qatari-lng-tanker-awaits-salvage-after-strike-near-hormuz",
+          "category" : "Energy",
+          "descriptionTR" : "LONDRA\/DOHA, 8 Temmuz - Bir Katarlı LNG tankeri, Hürmüz Boğazı yakınlarında bir cismin isabet etmesi sonucu motor bölümünde yangın çıkmasının ardından Çarşamba günü Umman açıklarında mahsur kaldı. Ancak sektör kaynakları, geminin yükünün güvende olduğunu ve patlama riskinin şu an için düşük olduğunu belirtti.",
+          "group" : "Hormuz tanker attacks",
+          "id" : "https:\/\/www.straitstimes.com\/world\/middle-east\/damaged-qatari-lng-tanker-awaits-salvage-after-strike-near-hormuz",
+          "link" : "https:\/\/www.straitstimes.com\/world\/middle-east\/damaged-qatari-lng-tanker-awaits-salvage-after-strike-near-hormuz",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/damaged-qatari-lng-tanker-awaits-salvage-after-strike-near-hormuz"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/explainer-what-are-the-risks-of-an-lng-tanker-explosion"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/four-oil-and-gas-tankers-turn-back-from-hormuz-strait-after-vessel-attacks"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Sky News World",
+              "url" : "https:\/\/news.sky.com\/story\/qatari-tanker-hit-as-it-travelled-through-strait-of-hormuz-13561225"
+            }
+          ],
+          "titleTR" : "Katarlı LNG tankeri, Hürmüz yakınlarında cisim isabet etmesinin ardından Umman açıklarında kurtarılmayı bekliyor"
+        }
+      ],
+      "packetSpot" : "Bir Katarlı tanker, Hürmüz Boğazı'ndan geçerken bir cismin isabet etmesi sonucu ciddi hasar aldı ve Umman açıklarında mahsur kaldı.",
+      "packetTitle" : "Katarlı tanker Hürmüz Boğazı'nda cisim isabet etti",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 31
+    },
+    {
+      "illustrationName" : "A759F4CB-03CB-5BCF-B93F-08004933FD2B.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/france\/20260708-france-s-far-right-leader-le-pen-hits-campaign-trail-after-conviction-eu-embezzlement-case",
+          "category" : "Politics",
+          "descriptionTR" : "Fransa'nın aşırı sağ figürü Marine Le Pen, kamu fonlarını kötüye kullanmaktan mahkum edilmesine rağmen, temyiz mahkemesinin aday olmasına izin vermesi üzerine, ülkenin Loire Vadisi'ndeki küçük La Flèche kasabasında dördüncü cumhurbaşkanlığı kampanyasını başlattı.",
+          "group" : "French far-right campaign",
+          "id" : "https:\/\/www.france24.com\/en\/france\/20260708-france-s-far-right-leader-le-pen-hits-campaign-trail-after-conviction-eu-embezzlement-case",
+          "link" : "https:\/\/www.france24.com\/en\/france\/20260708-france-s-far-right-leader-le-pen-hits-campaign-trail-after-conviction-eu-embezzlement-case",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/france\/20260708-france-s-far-right-leader-le-pen-hits-campaign-trail-after-conviction-eu-embezzlement-case"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-le-pen-taking-a-gamble-in-decision-to-run-for-president"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/clyexverp0lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/europe\/marine-le-pen-verdict-election-campaign-france-b3011212.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/cheers-and-boos-for-le-pens-french-campaign-launch-after-guilty-verdict"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/political-survivor-le-pen-makes-her-boldest-gamble-yet-for-frances-presidency"
+            }
+          ],
+          "titleTR" : "Le Pen, AB fonlarını kötüye kullanma davasında mahkumiyetin ardından kampanya yolunda"
+        },
+        {
+          "atomID" : "https:\/\/www.politico.eu\/article\/france-marine-le-pen-jordan-bardella-2027-campaign\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "category" : "Politics",
+          "descriptionTR" : "Aşırı sağcı ikili, gelecek yılki Fransa cumhurbaşkanlığı seçimleri öncesinde kendilerini bir ekip olarak tanıtıyor. Marine Le Pen, şok edici bir mahkeme kararının 2027 umutlarını canlı tutmasının ardından, çarşamba günü La Flèche'de, yerine geçmeye hazırlanan koruyucu ile birlikte kampanya yoluna geri döndü. Le Pen, Fransa'nın güçlü cumhurbaşkanlığına aday olurken, Bardella'yı gelecekteki başbakanı olarak gösteren ortak bir listeyle yarışacaklarını vurguladı. Salı günü, bir temyiz mahkemesi Le Pen'i Avrupa Parlamentosu fonlarını kötüye kullanmaktan suçlu buldu. Le Pen, Fransa'nın en yüksek mahkemesine temyiz başvurusunda bulunmayı planlıyor ve bu da cezanın geçici olarak askıya alınmasına neden oluyor. Bardella, Le Pen'in aday olmasından ne rahatladığını ne de hayal kırıklığına uğradığını belirtti. Le Pen, Bardella'nın popülaritesinden yararlanarak, seçilirse onu başbakan olarak atayacağını vaat ediyor.",
+          "group" : "French far-right campaign",
+          "id" : "https:\/\/www.politico.eu\/article\/france-marine-le-pen-jordan-bardella-2027-campaign\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "link" : "https:\/\/www.politico.eu\/article\/france-marine-le-pen-jordan-bardella-2027-campaign\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "POLITICO Europe",
+              "url" : "https:\/\/www.politico.eu\/article\/france-marine-le-pen-jordan-bardella-2027-campaign\/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ],
+          "titleTR" : "Hukuki rahatlamanın ardından Le Pen, Bardella'yı ikinci adamı olarak gösteriyor"
+        }
+      ],
+      "packetSpot" : "Marine Le Pen, AB fonlarını kötüye kullanmaktan mahkumiyetinin onaylanmasına rağmen, mahkeme kararıyla aday olmasına izin verilmesinin ardından cumhurbaşkanlığı kampanyasını başlattı. Kampanya, Jordan Bardella'nın başbakan adayı olarak yer aldığı ortak bir listeyi içeriyor.",
+      "packetTitle" : "Marine Le Pen mahkeme kararının ardından cumhurbaşkanlığı kampanyasını başlattı",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 32
+    },
+    {
+      "illustrationName" : "8C76ACF9-A29D-59B8-B2CA-BC08C6D5906F.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+          "category" : "Politics",
+          "descriptionTR" : "Adeniyi Adeyemi'nin, başkanlığın haberi olmadan bir ajans için atama mektubu sahtelediği ve fon sağladığı iddia ediliyor.",
+          "group" : "Nigeria agency scandal",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c621xrrp6jeo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Nijerya Cumhurbaşkanı, ofisinde sahte ajansın nasıl kurulduğunu öğrenmek istiyor"
+        },
+        {
+          "atomID" : "https:\/\/www.premiumtimesng.com\/news\/headlines\/893772-house-of-reps-probes-%e2%82%a61-3-billion-vote-to-phantom-pfipc.html",
+          "category" : "Politics",
+          "descriptionTR" : "Milletvekilleri, yeni kuruluşların federal bütçeye dahil edilmeden önce uygulanan doğrulama prosedürlerini açıklamaları için Bütçe ve Ekonomik Planlama Bakanı ile Bütçe Ofisi Genel Müdürü'nü davet etme kararı aldı.",
+          "group" : "Nigerian phantom budget probe",
+          "id" : "https:\/\/www.premiumtimesng.com\/news\/headlines\/893772-house-of-reps-probes-%e2%82%a61-3-billion-vote-to-phantom-pfipc.html",
+          "link" : "https:\/\/www.premiumtimesng.com\/news\/headlines\/893772-house-of-reps-probes-%e2%82%a61-3-billion-vote-to-phantom-pfipc.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Premium Times Nigeria",
+              "url" : "https:\/\/www.premiumtimesng.com\/news\/headlines\/893772-house-of-reps-probes-%e2%82%a61-3-billion-vote-to-phantom-pfipc.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Premium Times Nigeria",
+              "url" : "https:\/\/www.premiumtimesng.com\/news\/headlines\/893776-senate-rejects-motion-to-probe-%e2%82%a61-3-billion-vote-for-so-called-pfipc-in-2026-budget.html"
+            }
+          ],
+          "titleTR" : "Temsilciler Meclisi, hayalet PFIPC'ye ayrılan 1.3 milyar naira bütçeyi araştırıyor"
+        }
+      ],
+      "packetSpot" : "Nijerya başkanlığında sahte bir ajansın kurulduğu iddiası ve bu hayali kuruluşa 1.3 milyar naira bütçe tahsisi etrafındaki tartışmalar öne çıkıyor.",
+      "packetTitle" : "Nijerya'da sahte ajans ve 1.3 milyar naira bütçe tahsisi iddiaları",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 33
+    },
+    {
+      "illustrationName" : "BF2CCA75-002C-5292-A249-F370B39A98F4.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/06\/french-football-federation-to-file-complaint-over-paraguayan-senator-s-racist-attack-on-mbappe?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "category" : "Human Rights",
+          "descriptionTR" : "Fransız Futbol Federasyonu (FFF), Paraguaylı senatör Celeste Amarilla'nın Fransa kaptanı Kylian Mbappé'ye yönelik ırkçı paylaşımları nedeniyle savcılığa şikayette bulunmayı planladığını ve yargı süreci başlatılması çağrısında bulunduğunu duyurdu.",
+          "group" : "Racism in football",
+          "id" : "https:\/\/en.mercopress.com\/2026\/07\/06\/french-football-federation-to-file-complaint-over-paraguayan-senator-s-racist-attack-on-mbappe?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link" : "https:\/\/en.mercopress.com\/2026\/07\/06\/french-football-federation-to-file-complaint-over-paraguayan-senator-s-racist-attack-on-mbappe?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "MercoPress",
+              "url" : "https:\/\/en.mercopress.com\/2026\/07\/06\/french-football-federation-to-file-complaint-over-paraguayan-senator-s-racist-attack-on-mbappe?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/sport\/football\/articles\/ckg557wxrzro?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Fransız Futbol Federasyonu, Paraguaylı senatörün Mbappé'ye yönelik ırkçı saldırısı için dava açmayı planlıyor"
+        }
+      ],
+      "packetSpot" : "Kylian Mbappé ve Fransız Futbol Federasyonu, Paraguaylı Senatör Celeste Amarilla'nın ırkçı sözlerine tepki gösterdi. Mbappé bu yorumları kınarken, FFF yasal şikayette bulunmayı planlıyor.",
+      "packetTitle" : "Mbappé ve Fransız Futbol Federasyonu'ndan Paraguaylı senatörün ırkçı sözlerine tepki",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 34
+    },
+    {
+      "illustrationName" : "35B9AECE-9C66-564C-A0CD-4269D7DF152D.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-quarterfinals-france-england-argentina-spain\/106891448",
+          "category" : "Sports",
+          "descriptionTR" : "Dünya Kupası'nda 48 takım sekize indi ve çeyrek finaller kapıda. Bu önemli maçlar hakkında bilmeniz gereken her şeyi öğrenin.",
+          "group" : "World Cup quarterfinals",
+          "id" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-quarterfinals-france-england-argentina-spain\/106891448",
+          "link" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-quarterfinals-france-england-argentina-spain\/106891448",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/world-cup-quarterfinals-france-england-argentina-spain\/106891448"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/sports\/2026\/7\/8\/fifa-world-cup-2026-biggest-takeaways-from-the-round-of-16-quarterfinals?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "Dünya Kupası çeyrek finalleri başlıyor: Bilmeniz gerekenler"
+        }
+      ],
+      "packetSpot" : "FIFA Dünya Kupası 2026, son 16 turunun ardından çeyrek finallere ulaştı. Turnuva ilerledikçe önemli bilgiler ve önizlemeler öne çıkıyor.",
+      "packetTitle" : "FIFA Dünya Kupası 2026 çeyrek final önizlemeleri ve analizleri",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 35
+    },
+    {
+      "illustrationName" : "D341FE87-F4CB-52DE-ABD0-A95475DD9EA4.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/sport\/football\/articles\/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+          "category" : "Sports",
+          "descriptionTR" : "FIFA başkanlığında 10 yılı geride bırakan Gianni Infantino'nun, Folarin Balogun tartışması nedeniyle zor durumda kalıp kalmayacağı merak konusu. Ancak bu durum Infantino'yu pek endişelendirmiyor gibi görünüyor.",
+          "group" : "FIFA governance",
+          "id" : "https:\/\/www.bbc.co.uk\/sport\/football\/articles\/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/sport\/football\/articles\/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/sport\/football\/articles\/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/8\/european-mps-call-for-probe-of-fifa-boss-infantino-over-red-card-suspension?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "Trump'ın müdahalesi Avrupa'da tepki çekse de Infantino'yu endişelendirmiyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Trump'ın Balogun müdahalesi sonrası Infantino'ya Avrupa'dan eleştiri",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 36
+    },
+    {
+      "illustrationName" : "0F24DC5B-0F5A-53B9-AEA4-DF5ADE4B7A44.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/fifa-trump-red-card-belgium\/687820\/?utm_source=feed",
+          "category" : "Sports",
+          "descriptionTR" : "The Atlantic Daily'nin bu sayısında, günün en büyük hikayelerine dair rehberlik sunuluyor. Bugün, ABD Erkek Milli Takımı'nın Seattle'da Belçika ile oynayacağı Dünya Kupası son 16 turu maçı öncesi, ABD'li taraftarların rahatlamasına ve Belçikalıların hayal kırıklığına neden olan bir gelişme yaşandı: Folarin Balogun'un kırmızı kart cezası kaldırıldı. Geçen hafta Bosna-Hersek karşısında aldığı kırmızı kart nedeniyle bir sonraki maçta oynaması yasaklanan Balogun için, Başkan Trump FIFA Başkanı Gianni Infantino'yu arayarak kararın gözden geçirilmesini istedi. FIFA, Balogun'un bir yıl denetimli serbestlik alacağını ancak bugünkü maçta oynayabileceğini duyurdu. Bu olay, yolsuzluğun yönetim üzerindeki aşındırıcı etkileri üzerine bir ders niteliğinde. FIFA'nın uzun süredir devam eden yolsuzluk geçmişi nedeniyle, kararın tarafsız bir şekilde alındığına kimse inanmayacak. Trump, FIFA'nın bu tarihinden ders çıkarmalı. FIFA, yolsuzluk iddialarıyla ünlü bir organizasyon. 2015'te Adalet Bakanlığı, üst düzey futbol yetkililerini çeşitli suçlamalarla itham etmişti. Infantino, FIFA'yı temizlemek için göreve getirildi ancak birçok gözlemci organizasyonun kalbinde yolsuzluk olduğunu düşünüyor. Infantino, Trump'ın çağrısının sonucu etkilemediğini öne sürdü. ABD Teknik Direktörü Mauricio Pochettino ise Balogun'un affının 'normal bir süreç' içinde gerçekleştiğini belirtti. Belçika ve Avrupa futbol federasyonları ise karara öfkeli. UEFA, 'Oyunun bütünlüğü tehlikede' uyarısında bulunuyor. Bu karar, ABD'nin ilerlemesi halinde yıllarca hatırlanacak. Adalet Bakanlığı ise başka bir yolsuzluk suçlamasıyla uğraşıyor. Trump yönetimi, FIFA'yı bir rol model olarak görebilir ancak federal hükümet, seçmenlere en kötüsünü düşündürecek kadar çok neden veriyor.",
+          "group" : "FIFA corruption controversy",
+          "id" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/fifa-trump-red-card-belgium\/687820\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/fifa-trump-red-card-belgium\/687820\/?utm_source=feed",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/fifa-trump-red-card-belgium\/687820\/?utm_source=feed"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/world-cup-red-card\/687815\/?utm_source=feed"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-07\/world-cup-fifa-belgium-us-folarin-balogun-donald-trump\/106889224"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-07\/folarin-balogun-usa-red-card-suspension-donald-trump-world-cup\/106887146"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "MercoPress",
+              "url" : "https:\/\/en.mercopress.com\/2026\/07\/06\/trump-admits-calling-fifa-over-a-red-card-the-reversal-for-the-us-striker-sparks-an-outcry?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+            }
+          ],
+          "titleTR" : "FIFA ve Trump: Kırmızı kart kararı üzerine bir uyarı hikayesi"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Trump'ın FIFA'nın Balogun kararı üzerindeki müdahalesi tartışma yaratıyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 37
+    },
+    {
+      "illustrationName" : "8123C8CD-54D8-5823-B59E-2B60791D4591.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/sport\/tennis\/articles\/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
+          "category" : "Sports",
+          "descriptionTR" : "İzlediğiniz şeyin normal olmadığını hatırlamakta fayda var - ama Novak Djokovic bir başka heyecan verici Wimbledon maçında sıradan olmaktan çok uzak.",
+          "group" : "Djokovic Wimbledon",
+          "id" : "https:\/\/www.bbc.co.uk\/sport\/tennis\/articles\/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/sport\/tennis\/articles\/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/sport\/tennis\/articles\/cy8wev0p0wno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC Australia News",
+              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-08\/wimbledon-2026-novak-djokovic-wins-epic-over-canadian\/106891408"
+            }
+          ],
+          "titleTR" : "'Bu normal değil' - ama olağanüstü Djokovic bir kez daha sınırları zorluyor"
+        }
+      ],
+      "packetSpot" : "Novak Djokovic, beş saat süren heyecan verici bir maçın ardından Wimbledon yarı finaline yükseldi ve Jannik Sinner ile karşılaşacak.",
+      "packetTitle" : "Novak Djokovic, Wimbledon yarı finaline yükseldi",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 38
+    },
+    {
+      "illustrationName" : "EFA28FED-83F3-5AD7-B616-0A20F9527CA0.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/video\/20260708-replay-macron-addresses-ukraine-greenland-at-nato-summit",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Fransa Cumhurbaşkanı Emmanuel Macron, NATO zirvesinin oturum aralarında gazetecilere yaptığı açıklamada, ABD Başkanı Donald Trump'ın Grönland hakkındaki yorumlarına atıfta bulunarak ABD'nin Grönland'ı ele geçireceğine inanmadığını söyledi. Ayrıca Ukrayna'daki savaş ve İran konularına da değindi.",
+          "group" : "NATO summit tensions",
+          "id" : "https:\/\/www.france24.com\/en\/video\/20260708-replay-macron-addresses-ukraine-greenland-at-nato-summit",
+          "link" : "https:\/\/www.france24.com\/en\/video\/20260708-replay-macron-addresses-ukraine-greenland-at-nato-summit",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-replay-macron-addresses-ukraine-greenland-at-nato-summit"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-replay-trump-zelenksy-meet-at-nato-summit"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/08\/world\/politics\/nato-summit-trump-defense\/"
+            }
+          ],
+          "titleTR" : "Macron, NATO zirvesinde Ukrayna ve Grönland hakkında konuştu"
+        },
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/trump-told-nato-leaders-he-wants-to-keep-us-in-alliance-source-says",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ANKARA, 8 Temmuz - ABD Başkanı Donald Trump, Çarşamba günü Ankara'da yapılan liderler toplantısında NATO müttefiklerine ABD'nin ittifakta kalmasını istediğini söyledi. Konuya aşina bir kaynak, Reuters'a konuştu.",
+          "group" : "NATO alliance tensions",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/trump-told-nato-leaders-he-wants-to-keep-us-in-alliance-source-says",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/trump-told-nato-leaders-he-wants-to-keep-us-in-alliance-source-says",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/trump-told-nato-leaders-he-wants-to-keep-us-in-alliance-source-says"
+            }
+          ],
+          "titleTR" : "Trump, NATO liderlerine ABD'nin ittifakta kalmasını istediğini söyledi"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "NATO zirvesinde Grönland ve ittifak birliği üzerine ABD ve Avrupa liderleri arasında gerilim",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 39
+    },
+    {
+      "illustrationName" : "59749EA2-916C-58A8-92D1-8DE6CA8A9113.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/08\/denmark-says-greenland-not-for-sale-after-trump-renews-call-for-us-control?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Danimarka Başbakanı Mette Frederiksen, Çarşamba günü yaptığı açıklamada, Grönland'ın \"satılık olmadığını\" ve ülkesinin topraklarının \"her karışını\" savunmaya hazır olduğunu yineledi. ABD Başkanı Donald Trump, Arktik bölgesinin Danimarka yerine ABD kontrolünde olması gerektiğini savunarak ilgisini yeniledi.",
+          "group" : "Greenland sovereignty dispute",
+          "id" : "https:\/\/en.mercopress.com\/2026\/07\/08\/denmark-says-greenland-not-for-sale-after-trump-renews-call-for-us-control?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link" : "https:\/\/en.mercopress.com\/2026\/07\/08\/denmark-says-greenland-not-for-sale-after-trump-renews-call-for-us-control?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "MercoPress",
+              "url" : "https:\/\/en.mercopress.com\/2026\/07\/08\/denmark-says-greenland-not-for-sale-after-trump-renews-call-for-us-control?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Independent World",
+              "url" : "https:\/\/www.independent.co.uk\/news\/world\/europe\/greenland-donald-trump-arctic-denmark-nato-b3011036.html"
+            }
+          ],
+          "titleTR" : "Danimarka, Trump'ın Grönland'ı ABD kontrolüne alma çağrısını reddetti: 'Satılık değil'"
+        }
+      ],
+      "packetSpot" : "Danimarka, ABD Başkanı Trump'ın Grönland'ı satın alma konusundaki yenilenen ilgisini kesin bir dille reddederek, bölgenin stratejik önemine ve egemenliğine vurgu yapıyor.",
+      "packetTitle" : "Danimarka, ABD'nin Grönland'a ilgisini stratejik kaygılarla reddediyor",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 40
+    },
+    {
+      "illustrationName" : "EA2950A2-C921-5E47-A561-B9F8665580EE.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.france24.com\/en\/video\/20260708-it-s-unbearable-france-hit-by-third-heatwave-in-two-months",
+          "category" : "Environment",
+          "descriptionTR" : "Fransa, iki ay içinde üçüncü sıcak hava dalgasıyla kavruluyor. Sıcaklıkların hafta boyunca artmaya devam etmesi bekleniyor. Météo France, 61 bölgede turuncu alarm verdi.",
+          "group" : "European heatwave crisis",
+          "id" : "https:\/\/www.france24.com\/en\/video\/20260708-it-s-unbearable-france-hit-by-third-heatwave-in-two-months",
+          "link" : "https:\/\/www.france24.com\/en\/video\/20260708-it-s-unbearable-france-hit-by-third-heatwave-in-two-months",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "France 24 World",
+              "url" : "https:\/\/www.france24.com\/en\/video\/20260708-it-s-unbearable-france-hit-by-third-heatwave-in-two-months"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/environment\/2026\/07\/08\/climate-change\/europe-heat-wave-grid-water\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2531992-europes-heatwave-is-the-hottest-and-most-humid-ever\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2531853-if-you-arent-terrified-by-this-heatwave-you-should-be\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+            }
+          ],
+          "titleTR" : "Fransa'da 'dayanılmaz' sıcak hava dalgası"
+        }
+      ],
+      "packetSpot" : "Avrupa, son aylarda üçüncü büyük sıcak hava dalgasını yaşıyor. Rekor sıcaklıklar ve benzeri görülmemiş nem seviyeleri enerji şebekeleri ve su kaynaklarını etkiliyor.",
+      "packetTitle" : "Avrupa'da üçüncü büyük sıcak hava dalgası: Rekor sıcaklıklar ve nem",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 41
+    },
+    {
+      "illustrationName" : "A3245646-72D8-5352-AC43-B414482852A5.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.newscientist.com\/article\/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "category" : "Environment",
+          "descriptionTR" : "Küresel ısınmayı azaltmak için önerilen, kutuplar yakınında güneş ışığını yansıtan parçacıklar püskürtme tekniği, ticari uçuşların sülfürik asit bulutlarının içinden geçmesine neden olabilir ve bu da yolcular ve mürettebat için tehlike oluşturabilir.",
+          "group" : "Geoengineering risks",
+          "id" : "https:\/\/www.newscientist.com\/article\/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "link" : "https:\/\/www.newscientist.com\/article\/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2532757-geoengineering-could-expose-plane-passengers-to-sulphuric-acid\/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+            }
+          ],
+          "titleTR" : "Jeomühendislik uçak yolcularını sülfürik aside maruz bırakabilir"
+        },
+        {
+          "atomID" : "https:\/\/www.sciencedaily.com\/releases\/2026\/06\/260626030448.htm",
+          "category" : "Environment",
+          "descriptionTR" : "Yeni bir çalışma, tüm jeomühendislik fikirlerinin eşit olmadığını ortaya koydu. Doğu Pasifik üzerinde deniz bulutlarının aydınlatılması, El Niño döngüsünü önemli ölçüde zayıflatarak küresel hava durumu modellerinde büyük değişikliklere yol açabilirken, stratosferik aerosol enjeksiyonu sistemi büyük ölçüde değiştirmedi. Araştırmacılar, gezegeni soğutma çabalarının, Dünya'nın ikliminin nasıl çalıştığı tam olarak anlaşılmadan uygulanması halinde beklenmedik sonuçlar doğurabileceğini hatırlatıyor.",
+          "group" : "Climate geoengineering risks",
+          "id" : "https:\/\/www.sciencedaily.com\/releases\/2026\/06\/260626030448.htm",
+          "link" : "https:\/\/www.sciencedaily.com\/releases\/2026\/06\/260626030448.htm",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-08T15:38:58Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ScienceDaily",
+              "url" : "https:\/\/www.sciencedaily.com\/releases\/2026\/06\/260626030448.htm"
+            }
+          ],
+          "titleTR" : "Popüler bir iklim çözümü küresel hava durumunda büyük değişikliklere yol açabilir"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Jeomühendislik tekniklerinin potansiyel tehlikeleri ve beklenmedik sonuçları",
+      "publishedAt" : "2026-07-08T15:38:58Z",
+      "sessionID" : "publish-draft",
+      "slot" : 42
     }
   ],
   "superPackets" : [
     {
       "slots" : [
         1,
-        2,
-        3
-      ],
-      "spot" : "This week, the conflict in Ukraine saw intensified aerial warfare as Ukrainian strikes on Crimea and drone attacks challenged Russian defenses, while Russian missile and drone assaults resulted in casualties in Kharkiv and Zaporizhzhia.",
-      "title" : "Escalation of Aerial Warfare in the Ukraine Conflict"
-    },
-    {
-      "slots" : [
-        5,
         13
       ],
-      "spot" : "This week, tensions in the Strait of Hormuz intensified as maritime security and energy challenges converged. The focus sharpened on the strategic importance of this vital corridor.",
-      "title" : "Escalating Tensions and Security Concerns in the Strait of Hormuz"
+      "spot" : "This week, the commercial space sector saw significant developments with major capital raises and ambitious transportation projects. The sources converge on the strategic moves by Blue Origin and SpaceX to expand their influence in space exploration and logistics.",
+      "title" : "Private Capital and Ambitious Projects in Commercial Space Ventures"
     },
     {
       "slots" : [
-        14,
-        15,
-        16,
-        19,
-        20
+        2,
+        6
       ],
-      "spot" : "This week, Europe is gripped by an unprecedented heatwave, causing widespread disruptions and health challenges. The intense temperatures are straining infrastructure and healthcare systems across the continent.",
-      "title" : "Europe's Record-Breaking Heatwave Intensifies"
+      "spot" : "This week, US foreign policy under Trump intensified with renewed military actions against Iran and unconventional diplomatic statements at the NATO Summit. The sources converge on escalating tensions and unorthodox geopolitical strategies.",
+      "title" : "US Foreign Policy Under Trump: Escalation and Unconventional Moves"
+    },
+    {
+      "slots" : [
+        4,
+        19,
+        35
+      ],
+      "spot" : "This week, the World Cup 2026 spotlighted dramatic matches and contentious refereeing decisions, as teams like Argentina and Belgium advanced amid protests and controversies.",
+      "title" : "World Cup 2026: Controversies and Quarterfinals"
+    },
+    {
+      "slots" : [
+        11,
+        23,
+        24,
+        39
+      ],
+      "spot" : "This week, the NATO summit highlighted intensified dynamics and strategic tensions, with discussions on defense commitments, geopolitical strategies, and territorial remarks converging.",
+      "title" : "NATO Summit Dynamics and Strategic Tensions"
+    },
+    {
+      "slots" : [
+        29,
+        30
+      ],
+      "spot" : "This week, Russia's fuel shortages have intensified, with sources converging on the impact of Ukraine's drone attacks on oil refineries. The situation is leading to supply issues and rising prices, highlighting a critical pressure point in the ongoing conflict.",
+      "title" : "Russia's Fuel Crisis Amidst Ongoing Conflict"
+    },
+    {
+      "slots" : [
+        8,
+        21
+      ],
+      "spot" : "This week, China faced intensified natural disasters as typhoons Bavi and Maysak unleashed floods and tornadoes, causing widespread devastation and loss of life.",
+      "title" : "Typhoon-Induced Disasters in China"
+    },
+    {
+      "slots" : [
+        36,
+        37
+      ],
+      "spot" : "This week, the intersection of politics and sports intensified as Trump's involvement in FIFA's Balogun case sparked controversy and criticism from European MPs. The sources converge on the implications of political interventions in international sports governance.",
+      "title" : "Trump's Influence on FIFA Decisions"
     }
   ],
   "week" : "2026-W28"
