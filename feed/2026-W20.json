@@ -1,437 +1,437 @@
 {
- "label": "11-17 MAYIS",
- "publishedAt": "2026-07-09T22:53:56Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W20",
+  "label": "11-17 MAYIS",
+  "publishedAt": "2026-07-10T18:47:13Z",
+  "slots": [
     {
-     "atomID": "445188fc-5038-11f1-b6aa-bd62d0b9a351",
-     "category": "",
-     "descriptionTR": "ABD Başkanı Donald Trump, Cuma günü Çin'den ayrılırken piyasaları fazla etkilemeyen iş anlaşmalarını öne çıkardı. Pekin, Washington'u Tayvan konusunu yanlış ele almaması konusunda uyardı ve İran ile savaşın asla başlamaması gerektiğini belirtti. Trump'ın, Amerika'nın ana stratejik ve ekonomik rakibi olan Çin'e yaptığı bu ziyaret, 2017'den bu yana bir ABD başkanının ilk ziyaretiydi ve yaklaşan ara seçimler öncesinde onay oranlarını artırmayı hedefliyordu.",
-     "group": "",
-     "id": "445188fc-5038-11f1-b6aa-bd62d0b9a351",
-     "link": "https://www.france24.com/en/video/20260515-trump-leaves-beijing-with-few-wins-many-warm-words-for-xi",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/video/20260515-trump-leaves-beijing-with-few-wins-many-warm-words-for-xi"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Trump Pekin'den az kazançla, Xi için sıcak sözlerle ayrıldı"
+      "slot": 1,
+      "packetTitle": "Trump'ın Pekin ziyareti: Diplomatik temaslar ve ekonomik görüşmeler",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-15T12:00:00Z",
+      "items": [
+        {
+          "atomID": "445188fc-5038-11f1-b6aa-bd62d0b9a351",
+          "id": "445188fc-5038-11f1-b6aa-bd62d0b9a351",
+          "link": "https://www.france24.com/en/video/20260515-trump-leaves-beijing-with-few-wins-many-warm-words-for-xi",
+          "titleTR": "Trump Pekin'den az kazançla, Xi için sıcak sözlerle ayrıldı",
+          "descriptionTR": "ABD Başkanı Donald Trump, Cuma günü Çin'den ayrılırken piyasaları fazla etkilemeyen iş anlaşmalarını öne çıkardı. Pekin, Washington'u Tayvan konusunu yanlış ele almaması konusunda uyardı ve İran ile savaşın asla başlamaması gerektiğini belirtti. Trump'ın, Amerika'nın ana stratejik ve ekonomik rakibi olan Çin'e yaptığı bu ziyaret, 2017'den bu yana bir ABD başkanının ilk ziyaretiydi ve yaklaşan ara seçimler öncesinde onay oranlarını artırmayı hedefliyordu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260515-trump-leaves-beijing-with-few-wins-many-warm-words-for-xi"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "packetTitle": "İsrail'in güney Lübnan'daki saldırılarının ardından cenazeler ve kayıplar",
+      "packetSpot": "İsrail'in güney Lübnan'a düzenlediği hava saldırılarında aralarında sağlık görevlileri ve çocukların da bulunduğu birçok kişi hayatını kaybetti; kurbanlar için cenaze törenleri düzenleniyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-13T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778706505",
+          "id": "https://www.aljazeera.com/?t=1778706505",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
+          "titleTR": "İsrail saldırısında ölen iki Lübnanlı sağlık görevlisi için cenaze töreni",
+          "descriptionTR": "İsrail saldırısında hayatını kaybeden iki Lübnanlı sağlık görevlisinin cenaze törenine yüzlerce kişi katıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c1k2zekj8y9o#1",
+          "id": "https://www.bbc.com/news/articles/c1k2zekj8y9o#1",
+          "link": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Lübnan sağlık bakanlığı: İsrail'in güney Lübnan'a saldırılarında 22 kişi öldü",
+          "descriptionTR": "Beyrut'un güneyine düzenlenen hava saldırılarında sekiz çocuğun da aralarında bulunduğu 22 kişinin öldüğü bildiriliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "Teknoloji dünyasında fonlama hareketliliği",
+      "packetSpot": "Teknoloji şirketleri, projelerini ilerletmek için önemli fonlar sağlıyor; bu projeler arasında robotik ve veri pazarları da bulunuyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-13T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://techcrunch.com/?p=3122201",
+          "id": "https://techcrunch.com/?p=3122201",
+          "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
+          "titleTR": "Rivian'dan ayrılan Mind Robotics 400 milyon dolar daha topladı",
+          "descriptionTR": "İlk olarak 2025'in sonlarında ortaya çıkan Mind Robotics, bugüne kadar toplamda 1 milyar dolardan fazla fon topladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://techcrunch.com/?p=3122194",
+          "id": "https://techcrunch.com/?p=3122194",
+          "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+          "titleTR": "Origin Lab, video oyunu şirketlerinin verilerini satması için 8 milyon dolar topladı",
+          "descriptionTR": "Origin Lab, AI laboratuvarlarının yüksek kaliteli lisanslı verileri satın alabileceği ve video oyunu şirketlerinin bu verileri satabileceği bir pazar yeri olarak hizmet verecek.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "Küresel çatışma ve gerilimler",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-15T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778522517",
+          "id": "https://www.aljazeera.com/?t=1778522517",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss",
+          "titleTR": "Kongo'daki son şiddet olayları ateşkes çabalarını baltalayabilir mi?",
+          "descriptionTR": "Ülkenin kuzeydoğusunda daha az bilinen silahlı gruplar bir dizi saldırı gerçekleştirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-11T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778514451",
+          "id": "https://www.aljazeera.com/?t=1778514451",
+          "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
+          "titleTR": "İngiltere, İran için saldırı planladığı iddia edilen ağa yaptırım uyguluyor",
+          "descriptionTR": "İngiltere, milyarlarca doları aklamak ve İran destekli düşmanca faaliyetler planlamakla suçlanan kişilerin mal varlıklarını dondurdu ve seyahatlerini yasakladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-11T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778509858",
+          "id": "https://www.aljazeera.com/?t=1778509858",
+          "link": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
+          "titleTR": "Filipinli senatör, Duterte'nin uyuşturucu savaşı nedeniyle ICC tutuklamasından kaçtı",
+          "descriptionTR": "Senatör Ronald Dela Rosa, hakkında çıkarılan uyuşturucu savaşı tutuklama emrinden kaçtı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-11T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778517722",
+          "id": "https://www.aljazeera.com/?t=1778517722",
+          "link": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
+          "titleTR": "Shireen Abu Akleh davasındaki cezasızlık, İsrail'in basına yönelik saldırılarını nasıl körüklüyor?",
+          "descriptionTR": "Hak savunucuları, ABD vatandaşı ve Al Jazeera gazetecisinin öldürülmesinin cezasız kalmasının, daha fazla suistimali mümkün kıldığını söylüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-11T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778521264",
+          "id": "https://www.aljazeera.com/?t=1778521264",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
+          "titleTR": "Trump, İran'ın teklifini reddettikten sonra ateşkesin 'yaşam destek ünitesinde' olduğunu söyledi",
+          "descriptionTR": "ABD Başkanı Donald Trump, İran ile ateşkesin, Tahran'ın son teklifini reddettikten sonra 'yaşam destek ünitesinde' olduğunu söyledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-11T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c9d3g6deljyo#2",
+          "id": "https://www.bbc.com/news/articles/c9d3g6deljyo#2",
+          "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Güney Lübnan'da Hizbullah desteği sürüyor, ateşkes İsrail ile savaşı durduramıyor",
+          "descriptionTR": "İsrail'in devam eden saldırılarına ve işgaline rağmen, güneydeki birçok kişi silahlı grubun kendilerini savunabilecek tek güç olduğuna inanıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778860476",
+          "id": "https://www.aljazeera.com/?t=1778860476",
+          "link": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
+          "titleTR": "Zelenskiy, Rusya'nın Kiev'de 24 kişiyi öldüren saldırısına yanıt vereceklerini söyledi",
+          "descriptionTR": "Ukrayna hava kuvvetleri, Perşembe günü gerçekleşen saldırının savaşın başlangıcından bu yana en büyük hava saldırısının bir parçası olduğunu belirtti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "e363cc40-5040-11f1-83cd-87fc336aee78",
+          "id": "e363cc40-5040-11f1-83cd-87fc336aee78",
+          "link": "https://www.france24.com/en/video/20260515-at-least-78-dead-5-000-displaced-in-gang-clashes-in-haiti-since-saturday",
+          "titleTR": "Haiti'deki çete çatışmalarında en az 78 ölü, 5.000 kişi yerinden edildi",
+          "descriptionTR": "Haiti başkentinin banliyölerinde çeteler arasında çıkan çatışmalarda Cumartesi gününden bu yana en az 78 kişi öldü, bunlar arasında 10 masum sivil de bulunuyor. Birleşmiş Milletler Haiti Ofisi (BINUH) tarafından Perşembe günü AFP'ye verilen geçici bilançoya göre, Karayipler'in en yoksul ülkesi olan Haiti, çete şiddetiyle sarsılıyor. Durum son iki yılda giderek kötüleşti. Hafta sonundan bu yana şiddet olayları yaklaşık 5.300 kişiyi yerinden etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260515-at-least-78-dead-5-000-displaced-in-gang-clashes-in-haiti-since-saturday"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "Spor dünyasında dikkat çeken başarılar",
+      "packetSpot": "Spor dünyasında dikkat çeken başarılar arasında, kadınlar T20 kriketinde dünya rekoru ve Güney Afrikalı bir sanatçının Dünya Kupası açılışında sahne alması yer alıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-15T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778872920",
+          "id": "https://www.aljazeera.com/?t=1778872920",
+          "link": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss",
+          "titleTR": "Pakistanlı Fatima Sana kadınlar T20'de en hızlı 50 rekorunu kırdı",
+          "descriptionTR": "Pakistan kaptanı Sana, Karachi'de Zimbabwe'ye karşı oynadığı maçta 15 topta 50 sayı yaparak maç kazandıran bir performans sergiledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "c22588e6-503d-11f1-8cef-87fc336aee78",
+          "id": "c22588e6-503d-11f1-8cef-87fc336aee78",
+          "link": "https://www.france24.com/en/video/20260515-rising-star-of-south-african-music-tyla-to-headline-us-world-cup-opening",
+          "titleTR": "Güney Afrikalı müzik yıldızı Tyla, ABD Dünya Kupası açılışında sahne alacak",
+          "descriptionTR": "Bu yılki Met Gala'da büyük beğeni toplayan Tyla, 2026 FIFA Dünya Kupası'nın Kuzey Amerika'daki iki açılış töreninde Güney Afrika'yı temsil edecek. Güney Afrika'nın iki Grammy ödüllü sanatçısı Tyla, dünyanın en büyük sanatçılarından biri olarak gösteriliyor. FRANCE 24 ekibi, Güney Afrika müziğinin bu yükselen yıldızını tanıtıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260515-rising-star-of-south-african-music-tyla-to-headline-us-world-cup-opening"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "packetTitle": "Yeni eğlence girişimleri: Bravo ve Wordle",
+      "packetSpot": "Yeni eğlence girişimleri arasında Bravo'nun senaryosuz mikro dramaları ve Wordle'ın TV oyun şovuna uyarlanması yer alıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://techcrunch.com/?p=3121166",
+          "id": "https://techcrunch.com/?p=3121166",
+          "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
+          "titleTR": "Bravo, Peacock uygulaması için senaryosuz mikro dramalar üretiyor",
+          "descriptionTR": "ReelShort ve DramaBox gibi mikro drama uygulamaları sessizce milyarlar kazanırken, Peacock Pazartesi günü yaptığı açıklamada, Peacock uygulamasında yayınlanacak iki senaryosuz Bravo mikro dramasını başlatmayı planladığını duyurdu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-11T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://techcrunch.com/?p=3121140",
+          "id": "https://techcrunch.com/?p=3121140",
+          "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
+          "titleTR": "NYT'nin Wordle oyunu TV şovuna dönüşüyor",
+          "descriptionTR": "Bu, The Times'ın bir eğlence programı için bir TV yayıncısıyla ilk iş birliği olacak ve medya şirketinin basılı gelirlerin düşmeye devam etmesiyle sürdürülebilir bir dijital abonelik işi kurma çabasındaki bir başka dönüşümünü temsil ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-11T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "packetTitle": "İş kazaları ve dalış trajedileri",
+      "packetSpot": "Son dönemde iş yerlerinde ve dalış aktivitelerinde meydana gelen kazalar can kayıplarına yol açtı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-15T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/05/15/two-more-workers-die-in-workplace-accidents_d6c02a30-6031-48c4-baaa-4b7c87a215ff.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/05/15/two-more-workers-die-in-workplace-accidents_d6c02a30-6031-48c4-baaa-4b7c87a215ff.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/05/15/two-more-workers-die-in-workplace-accidents_d6c02a30-6031-48c4-baaa-4b7c87a215ff.html",
+          "titleTR": "İtalya'da iki işçi daha iş kazalarında hayatını kaybetti",
+          "descriptionTR": "Val Venosta ve Brescia yakınlarında iki erkek yaşamını yitirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/05/15/two-more-workers-die-in-workplace-accidents_d6c02a30-6031-48c4-baaa-4b7c87a215ff.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c62e0p7rd2ro#0",
+          "id": "https://www.bbc.com/news/articles/c62e0p7rd2ro#0",
+          "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Maldivler'de mağara dalışı sırasında beş İtalyan öldü",
+          "descriptionTR": "İtalyanlardan dördü Cenova Üniversitesi ekibindendi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Trump'ın Pekin ziyareti: Diplomatik temaslar ve ekonomik görüşmeler",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
+  ],
+  "superPackets": [
     {
-     "atomID": "https://www.aljazeera.com/?t=1778706505",
-     "category": "",
-     "descriptionTR": "İsrail saldırısında hayatını kaybeden iki Lübnanlı sağlık görevlisinin cenaze törenine yüzlerce kişi katıldı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778706505",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss"
-      }
-     ],
-     "titleTR": "İsrail saldırısında ölen iki Lübnanlı sağlık görevlisi için cenaze töreni"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c1k2zekj8y9o#1",
-     "category": "",
-     "descriptionTR": "Beyrut'un güneyine düzenlenen hava saldırılarında sekiz çocuğun da aralarında bulunduğu 22 kişinin öldüğü bildiriliyor.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c1k2zekj8y9o#1",
-     "link": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Lübnan sağlık bakanlığı: İsrail'in güney Lübnan'a saldırılarında 22 kişi öldü"
+      "title": "Bölgesel çatışmaların artışı ve küresel yansımaları",
+      "spot": "Bu hafta Orta Doğu ve ötesindeki bölgesel çatışmalar şiddetlendi; İsrail'in Lübnan'daki saldırıları, DR Kongo ve Ukrayna'daki şiddet olayları uluslararası odak noktası oldu. Kaynaklar, artan küresel gerginlikler ve bunların geniş çaplı etkileri üzerinde birleşiyor.",
+      "slots": [
+        2,
+        4
+      ]
     }
-   ],
-   "packetSpot": "İsrail'in güney Lübnan'a düzenlediği hava saldırılarında aralarında sağlık görevlileri ve çocukların da bulunduğu birçok kişi hayatını kaybetti; kurbanlar için cenaze törenleri düzenleniyor.",
-   "packetTitle": "İsrail'in güney Lübnan'daki saldırılarının ardından cenazeler ve kayıplar",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://techcrunch.com/?p=3122201",
-     "category": "",
-     "descriptionTR": "İlk olarak 2025'in sonlarında ortaya çıkan Mind Robotics, bugüne kadar toplamda 1 milyar dolardan fazla fon topladı.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3122201",
-     "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/"
-      }
-     ],
-     "titleTR": "Rivian'dan ayrılan Mind Robotics 400 milyon dolar daha topladı"
-    },
-    {
-     "atomID": "https://techcrunch.com/?p=3122194",
-     "category": "",
-     "descriptionTR": "Origin Lab, AI laboratuvarlarının yüksek kaliteli lisanslı verileri satın alabileceği ve video oyunu şirketlerinin bu verileri satabileceği bir pazar yeri olarak hizmet verecek.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3122194",
-     "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/"
-      }
-     ],
-     "titleTR": "Origin Lab, video oyunu şirketlerinin verilerini satması için 8 milyon dolar topladı"
-    }
-   ],
-   "packetSpot": "Teknoloji şirketleri, projelerini ilerletmek için önemli fonlar sağlıyor; bu projeler arasında robotik ve veri pazarları da bulunuyor.",
-   "packetTitle": "Teknoloji dünyasında fonlama hareketliliği",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778522517",
-     "category": "",
-     "descriptionTR": "Ülkenin kuzeydoğusunda daha az bilinen silahlı gruplar bir dizi saldırı gerçekleştirdi.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778522517",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Kongo'daki son şiddet olayları ateşkes çabalarını baltalayabilir mi?"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778514451",
-     "category": "",
-     "descriptionTR": "İngiltere, milyarlarca doları aklamak ve İran destekli düşmanca faaliyetler planlamakla suçlanan kişilerin mal varlıklarını dondurdu ve seyahatlerini yasakladı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778514451",
-     "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss"
-      }
-     ],
-     "titleTR": "İngiltere, İran için saldırı planladığı iddia edilen ağa yaptırım uyguluyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778509858",
-     "category": "",
-     "descriptionTR": "Senatör Ronald Dela Rosa, hakkında çıkarılan uyuşturucu savaşı tutuklama emrinden kaçtı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778509858",
-     "link": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Filipinli senatör, Duterte'nin uyuşturucu savaşı nedeniyle ICC tutuklamasından kaçtı"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778517722",
-     "category": "",
-     "descriptionTR": "Hak savunucuları, ABD vatandaşı ve Al Jazeera gazetecisinin öldürülmesinin cezasız kalmasının, daha fazla suistimali mümkün kıldığını söylüyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778517722",
-     "link": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Shireen Abu Akleh davasındaki cezasızlık, İsrail'in basına yönelik saldırılarını nasıl körüklüyor?"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778521264",
-     "category": "",
-     "descriptionTR": "ABD Başkanı Donald Trump, İran ile ateşkesin, Tahran'ın son teklifini reddettikten sonra 'yaşam destek ünitesinde' olduğunu söyledi.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778521264",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Trump, İran'ın teklifini reddettikten sonra ateşkesin 'yaşam destek ünitesinde' olduğunu söyledi"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c9d3g6deljyo#2",
-     "category": "",
-     "descriptionTR": "İsrail'in devam eden saldırılarına ve işgaline rağmen, güneydeki birçok kişi silahlı grubun kendilerini savunabilecek tek güç olduğuna inanıyor.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c9d3g6deljyo#2",
-     "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Güney Lübnan'da Hizbullah desteği sürüyor, ateşkes İsrail ile savaşı durduramıyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778860476",
-     "category": "",
-     "descriptionTR": "Ukrayna hava kuvvetleri, Perşembe günü gerçekleşen saldırının savaşın başlangıcından bu yana en büyük hava saldırısının bir parçası olduğunu belirtti.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778860476",
-     "link": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Zelenskiy, Rusya'nın Kiev'de 24 kişiyi öldüren saldırısına yanıt vereceklerini söyledi"
-    },
-    {
-     "atomID": "e363cc40-5040-11f1-83cd-87fc336aee78",
-     "category": "",
-     "descriptionTR": "Haiti başkentinin banliyölerinde çeteler arasında çıkan çatışmalarda Cumartesi gününden bu yana en az 78 kişi öldü, bunlar arasında 10 masum sivil de bulunuyor. Birleşmiş Milletler Haiti Ofisi (BINUH) tarafından Perşembe günü AFP'ye verilen geçici bilançoya göre, Karayipler'in en yoksul ülkesi olan Haiti, çete şiddetiyle sarsılıyor. Durum son iki yılda giderek kötüleşti. Hafta sonundan bu yana şiddet olayları yaklaşık 5.300 kişiyi yerinden etti.",
-     "group": "",
-     "id": "e363cc40-5040-11f1-83cd-87fc336aee78",
-     "link": "https://www.france24.com/en/video/20260515-at-least-78-dead-5-000-displaced-in-gang-clashes-in-haiti-since-saturday",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/video/20260515-at-least-78-dead-5-000-displaced-in-gang-clashes-in-haiti-since-saturday"
-      }
-     ],
-     "titleTR": "Haiti'deki çete çatışmalarında en az 78 ölü, 5.000 kişi yerinden edildi"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Küresel çatışma ve gerilimler",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778872920",
-     "category": "",
-     "descriptionTR": "Pakistan kaptanı Sana, Karachi'de Zimbabwe'ye karşı oynadığı maçta 15 topta 50 sayı yaparak maç kazandıran bir performans sergiledi.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778872920",
-     "link": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/sports/2026/5/15/pakistans-fatima-sana-breaks-record-for-fastest-50-in-womens-t20is?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Pakistanlı Fatima Sana kadınlar T20'de en hızlı 50 rekorunu kırdı"
-    },
-    {
-     "atomID": "c22588e6-503d-11f1-8cef-87fc336aee78",
-     "category": "",
-     "descriptionTR": "Bu yılki Met Gala'da büyük beğeni toplayan Tyla, 2026 FIFA Dünya Kupası'nın Kuzey Amerika'daki iki açılış töreninde Güney Afrika'yı temsil edecek. Güney Afrika'nın iki Grammy ödüllü sanatçısı Tyla, dünyanın en büyük sanatçılarından biri olarak gösteriliyor. FRANCE 24 ekibi, Güney Afrika müziğinin bu yükselen yıldızını tanıtıyor.",
-     "group": "",
-     "id": "c22588e6-503d-11f1-8cef-87fc336aee78",
-     "link": "https://www.france24.com/en/video/20260515-rising-star-of-south-african-music-tyla-to-headline-us-world-cup-opening",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/video/20260515-rising-star-of-south-african-music-tyla-to-headline-us-world-cup-opening"
-      }
-     ],
-     "titleTR": "Güney Afrikalı müzik yıldızı Tyla, ABD Dünya Kupası açılışında sahne alacak"
-    }
-   ],
-   "packetSpot": "Spor dünyasında dikkat çeken başarılar arasında, kadınlar T20 kriketinde dünya rekoru ve Güney Afrikalı bir sanatçının Dünya Kupası açılışında sahne alması yer alıyor.",
-   "packetTitle": "Spor dünyasında dikkat çeken başarılar",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 5
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://techcrunch.com/?p=3121166",
-     "category": "",
-     "descriptionTR": "ReelShort ve DramaBox gibi mikro drama uygulamaları sessizce milyarlar kazanırken, Peacock Pazartesi günü yaptığı açıklamada, Peacock uygulamasında yayınlanacak iki senaryosuz Bravo mikro dramasını başlatmayı planladığını duyurdu.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3121166",
-     "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/"
-      }
-     ],
-     "titleTR": "Bravo, Peacock uygulaması için senaryosuz mikro dramalar üretiyor"
-    },
-    {
-     "atomID": "https://techcrunch.com/?p=3121140",
-     "category": "",
-     "descriptionTR": "Bu, The Times'ın bir eğlence programı için bir TV yayıncısıyla ilk iş birliği olacak ve medya şirketinin basılı gelirlerin düşmeye devam etmesiyle sürdürülebilir bir dijital abonelik işi kurma çabasındaki bir başka dönüşümünü temsil ediyor.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3121140",
-     "link": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/"
-      }
-     ],
-     "titleTR": "NYT'nin Wordle oyunu TV şovuna dönüşüyor"
-    }
-   ],
-   "packetSpot": "Yeni eğlence girişimleri arasında Bravo'nun senaryosuz mikro dramaları ve Wordle'ın TV oyun şovuna uyarlanması yer alıyor.",
-   "packetTitle": "Yeni eğlence girişimleri: Bravo ve Wordle",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 6
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/05/15/two-more-workers-die-in-workplace-accidents_d6c02a30-6031-48c4-baaa-4b7c87a215ff.html",
-     "category": "",
-     "descriptionTR": "Val Venosta ve Brescia yakınlarında iki erkek yaşamını yitirdi.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/05/15/two-more-workers-die-in-workplace-accidents_d6c02a30-6031-48c4-baaa-4b7c87a215ff.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/05/15/two-more-workers-die-in-workplace-accidents_d6c02a30-6031-48c4-baaa-4b7c87a215ff.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/05/15/two-more-workers-die-in-workplace-accidents_d6c02a30-6031-48c4-baaa-4b7c87a215ff.html"
-      }
-     ],
-     "titleTR": "İtalya'da iki işçi daha iş kazalarında hayatını kaybetti"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c62e0p7rd2ro#0",
-     "category": "",
-     "descriptionTR": "İtalyanlardan dördü Cenova Üniversitesi ekibindendi.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c62e0p7rd2ro#0",
-     "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Maldivler'de mağara dalışı sırasında beş İtalyan öldü"
-    }
-   ],
-   "packetSpot": "Son dönemde iş yerlerinde ve dalış aktivitelerinde meydana gelen kazalar can kayıplarına yol açtı.",
-   "packetTitle": "İş kazaları ve dalış trajedileri",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 7
-  }
- ],
- "superPackets": [
-  {
-   "slots": [
-    2,
-    4
-   ],
-   "spot": "Bu hafta Orta Doğu ve ötesindeki bölgesel çatışmalar şiddetlendi; İsrail'in Lübnan'daki saldırıları, DR Kongo ve Ukrayna'daki şiddet olayları uluslararası odak noktası oldu. Kaynaklar, artan küresel gerginlikler ve bunların geniş çaplı etkileri üzerinde birleşiyor.",
-   "title": "Bölgesel çatışmaların artışı ve küresel yansımaları"
-  }
- ],
- "week": "2026-W20"
+  ]
 }

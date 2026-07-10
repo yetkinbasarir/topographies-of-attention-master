@@ -1,702 +1,702 @@
 {
- "label": "25-31 MAYIS",
- "publishedAt": "2026-07-09T22:53:56Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W22",
+  "label": "25-31 MAYIS",
+  "publishedAt": "2026-07-10T18:47:13Z",
+  "slots": [
     {
-     "atomID": "93b2bbd2-5a01-11f1-8eb2-f9265712b2ce",
-     "category": "",
-     "descriptionTR": "FRANCE 24 muhabiri Renée Davis, Beyrut'tan bildirdiğine göre, İsrail ordusu güney Lübnan'daki Sur kentinde yaşayan halka yeni bir hava saldırısı dalgası öncesinde evlerini terk etmeleri çağrısı yaptı.",
-     "group": "",
-     "id": "93b2bbd2-5a01-11f1-8eb2-f9265712b2ce",
-     "link": "https://www.france24.com/en/more-than-100-000-people-live-in-this-city-israel-urges-tyre-residents-to-leave-homes",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/more-than-100-000-people-live-in-this-city-israel-urges-tyre-residents-to-leave-homes"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss"
-      }
-     ],
-     "titleTR": "İsrail, Sur sakinlerine evlerini terk etmeleri çağrısında bulundu"
+      "slot": 1,
+      "packetTitle": "İsrail'in Sur'da tahliye çağrısı ve bombardıman tehdidi",
+      "packetSpot": "İsrail, güney Lübnan'daki Sur kenti için tahliye emri verdi; olası hava saldırıları öncesinde sakinlerin bölgeyi terk etmeleri istendi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "93b2bbd2-5a01-11f1-8eb2-f9265712b2ce",
+          "id": "93b2bbd2-5a01-11f1-8eb2-f9265712b2ce",
+          "link": "https://www.france24.com/en/more-than-100-000-people-live-in-this-city-israel-urges-tyre-residents-to-leave-homes",
+          "titleTR": "İsrail, Sur sakinlerine evlerini terk etmeleri çağrısında bulundu",
+          "descriptionTR": "FRANCE 24 muhabiri Renée Davis, Beyrut'tan bildirdiğine göre, İsrail ordusu güney Lübnan'daki Sur kentinde yaşayan halka yeni bir hava saldırısı dalgası öncesinde evlerini terk etmeleri çağrısı yaptı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/more-than-100-000-people-live-in-this-city-israel-urges-tyre-residents-to-leave-homes"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "packetTitle": "ABD'de FIFA'nın Dünya Kupası bilet fiyatları soruşturuluyor",
+      "packetSpot": "New York ve New Jersey, FIFA'nın Dünya Kupası bilet satışlarına yönelik sahte kıtlık ve yüksek fiyatlar iddialarıyla ilgili bir soruşturma başlattı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "0d82172e-59ed-11f1-b568-f1798e4abd75",
+          "id": "0d82172e-59ed-11f1-b568-f1798e4abd75",
+          "link": "https://www.france24.com/en/sport/20260527-new-york-and-new-jersey-subpoena-fifa-in-world-cup-ticket-sales-investigation",
+          "titleTR": "New York ve New Jersey, Dünya Kupası bilet satışları soruşturmasında FIFA'ya celp gönderdi",
+          "descriptionTR": "New York ve New Jersey eyaletleri, Çarşamba günü FIFA'nın Dünya Kupası bilet satışlarına yönelik bir soruşturma başlattı. Yetkililer, uluslararası futbol federasyonunu \"sahte kıtlık ve imkansız derecede yüksek fiyatlar\" ile suçluyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/sport/20260527-new-york-and-new-jersey-subpoena-fifa-in-world-cup-ticket-sales-investigation"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.com/news/2026/05/27/nj-ny-world-cup-ticket-price-investigation-00937921?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "Matthew Perry'nin asistanına ölümcül ketamin enjeksiyonu cezası",
+      "packetSpot": "Matthew Perry'nin asistanı, ona ölümcül dozda ketamin enjekte ettiği için 41 ay hapis cezasına çarptırıldı. Bu karar, uzun süren bir soruşturmanın sonucunu oluşturuyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3355090/assistant-who-gave-matthew-perry-fatal-ketamine-dose-gets-41-months-prison?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/united-states-canada/article/3355090/assistant-who-gave-matthew-perry-fatal-ketamine-dose-gets-41-months-prison?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3355090/assistant-who-gave-matthew-perry-fatal-ketamine-dose-gets-41-months-prison?utm_source=rss_feed",
+          "titleTR": "Matthew Perry'ye ölümcül ketamin dozu veren asistana 41 ay hapis",
+          "descriptionTR": "Friends dizisinin yıldızı Matthew Perry'ye halüsinojenik ketaminin ölümcül dozunu enjekte eden kişisel asistan, Çarşamba günü 41 ay federal hapis cezasına çarptırıldı. Bu karar, aktörün ölümünde rol oynadıklarını kabul eden beş kişinin yargılanmasının sonunu işaret ediyor. Yargıç Sherilyn Garnett, Ekim 2023'te Los Angeles'taki evinde Perry'yi yüzüstü ve cansız halde bir jakuzide bulan Kenneth Iwamasa için cezayı verdi. Federal savcılar, Iwamasa'nın...",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3355090/assistant-who-gave-matthew-perry-fatal-ketamine-dose-gets-41-months-prison?utm_source=rss_feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/crime/matthew-perry-assistant-jail-ketamine-kenneth-iwamasa-b2984748.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "Spor sakatlıkları engelleri",
+      "packetSpot": "Rugby ve futbolda önemli oyuncular, büyük turnuvalar öncesi sakatlıklar nedeniyle engellerle karşılaşıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-25T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.abc.net.au/news/2026-05-26/mitch-moses-ruled-ouf-of-state-of-origin-game-i-for-blues/106721562",
+          "id": "https://www.abc.net.au/news/2026-05-26/mitch-moses-ruled-ouf-of-state-of-origin-game-i-for-blues/106721562",
+          "link": "https://www.abc.net.au/news/2026-05-26/mitch-moses-ruled-ouf-of-state-of-origin-game-i-for-blues/106721562",
+          "titleTR": "Riskli bulundu: Blues, Origin maçı öncesi sakatlık şoku yaşadı",
+          "descriptionTR": "NSW Blues, çarşamba gecesi oynanacak State of Origin açılış maçında beş numara Mitchell Moses'un hamstring sakatlığı nedeniyle forma giyemeyeceğini doğruladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-25T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-05-26/mitch-moses-ruled-ouf-of-state-of-origin-game-i-for-blues/106721562"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.abc.net.au/news/2026-05-26/riley-mcgree-to-miss-fifa-world-cup-for-socceroos/106721264",
+          "id": "https://www.abc.net.au/news/2026-05-26/riley-mcgree-to-miss-fifa-world-cup-for-socceroos/106721264",
+          "link": "https://www.abc.net.au/news/2026-05-26/riley-mcgree-to-miss-fifa-world-cup-for-socceroos/106721264",
+          "titleTR": "Socceroos'a Dünya Kupası öncesi sakatlık darbesi: Yıldız orta saha yok",
+          "descriptionTR": "Socceroos, önümüzdeki ay yapılacak FIFA Dünya Kupası öncesi büyük bir sakatlık şokuyla karşı karşıya kaldı; orta saha oyuncusu Riley McGree turnuvada yer alamayacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-25T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-05-26/riley-mcgree-to-miss-fifa-world-cup-for-socceroos/106721264"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "State of Origin I'deki dramatik anlar",
+      "packetSpot": "State of Origin I, önemli bir geri dönüş, oyuncu ihraçları ve tartışmalı kararlarla dikkat çekti.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.abc.net.au/news/2026-05-28/state-of-origin-i-nsw-blues-qld-maroons-analysis/106729836",
+          "id": "https://www.abc.net.au/news/2026-05-28/state-of-origin-i-nsw-blues-qld-maroons-analysis/106729836",
+          "link": "https://www.abc.net.au/news/2026-05-28/state-of-origin-i-nsw-blues-qld-maroons-analysis/106729836",
+          "titleTR": "Genç kurtarıcı ve bir dua, Blues'a inanılmaz bir Origin zaferi getirdi",
+          "descriptionTR": "Blues, State of Origin I'de Maroons karşısında kahramanlara ihtiyaç duyduğunda, bir çaylak ve sahadaki en yaşlı oyuncuya güvendi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-05-28/state-of-origin-i-nsw-blues-qld-maroons-analysis/106729836"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.abc.net.au/news/2026-05-27/kalyn-ponga-send-off-state-of-origin-i-reaction/106730106",
+          "id": "https://www.abc.net.au/news/2026-05-27/kalyn-ponga-send-off-state-of-origin-i-reaction/106730106",
+          "link": "https://www.abc.net.au/news/2026-05-27/kalyn-ponga-send-off-state-of-origin-i-reaction/106730106",
+          "titleTR": "Kalyn Ponga'nın Origin'den ihraç edilmesi, Queensland efsanesini 'şokta' bıraktı",
+          "descriptionTR": "Maroons'un büyük ismi Darren Lockyer, Kalyn Ponga'nın State of Origin'in sonlarında ihraç edilmesi kararının Queenslandliler için kabul edilmesinin zor olacağını belirtti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-05-27/kalyn-ponga-send-off-state-of-origin-i-reaction/106730106"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.abc.net.au/news/2026-05-27/state-of-origin-i-nsw-blues-queensland-maroons-five-quick-hits/106729716",
+          "id": "https://www.abc.net.au/news/2026-05-27/state-of-origin-i-nsw-blues-queensland-maroons-five-quick-hits/106729716",
+          "link": "https://www.abc.net.au/news/2026-05-27/state-of-origin-i-nsw-blues-queensland-maroons-five-quick-hits/106729716",
+          "titleTR": "Hızlı notlar: Blues'un seçim riski karşılığını verdi, bunker tartışma yarattı",
+          "descriptionTR": "Blues son dakikalara kadar beklerken, Maroons 12 oyuncuyla tamamladı ve bunker, oyuncuların, yorumcuların ve izleyicilerin tepkisini çekti. İşte State of Origin I'den beş hızlı not.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-05-27/state-of-origin-i-nsw-blues-queensland-maroons-five-quick-hits/106729716"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.abc.net.au/news/2026-05-27/state-of-origin-game-1-live-updates-blues-vs-maroons/106724102",
+          "id": "https://www.abc.net.au/news/2026-05-27/state-of-origin-game-1-live-updates-blues-vs-maroons/106724102",
+          "link": "https://www.abc.net.au/news/2026-05-27/state-of-origin-game-1-live-updates-blues-vs-maroons/106724102",
+          "titleTR": "Maroons, Kalyn Ponga'nın geç ihraç edilmesinin ardından Origin I'de 20-0'lık üstünlüğü kaybetti",
+          "descriptionTR": "James Tedesco, State of Origin I'de son 90 saniyede muhteşem bir try yaparak, Queensland fullback'i Kalyn Ponga'nın omuz darbesi nedeniyle ihraç edilmesinin ardından 20 puanlık bir geri dönüşü tamamladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-05-27/state-of-origin-game-1-live-updates-blues-vs-maroons/106724102"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "packetTitle": "Ulaşım kazaları",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1779709984",
+          "id": "https://www.aljazeera.com/?t=1779709984",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/paraglider-survives-mid-air-collision-with-plane-over-austria?traffic_source=rss",
+          "titleTR": "Avusturya'da yamaç paraşütçüsü uçakla havada çarpıştı, hayatta kaldı",
+          "descriptionTR": "Avusturya'da bir yamaç paraşütçüsü, uçakla havada çarpışmasına rağmen hayatta kaldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-25T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/paraglider-survives-mid-air-collision-with-plane-over-austria?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/05/29/school-bus-and-car-collide-eight-children-injured_0da48f45-f98f-4d42-abb3-63b284d0c43e.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/05/29/school-bus-and-car-collide-eight-children-injured_0da48f45-f98f-4d42-abb3-63b284d0c43e.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/05/29/school-bus-and-car-collide-eight-children-injured_0da48f45-f98f-4d42-abb3-63b284d0c43e.html",
+          "titleTR": "Okul servisi ve araba çarpıştı, sekiz çocuk yaralandı",
+          "descriptionTR": "Trapani bölgesinde meydana gelen kazada, iki öğrencinin ağır yaralandığı bildiriliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-29T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/05/29/school-bus-and-car-collide-eight-children-injured_0da48f45-f98f-4d42-abb3-63b284d0c43e.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "packetTitle": "Trump'ın Hürmüz Boğazı tehditleri",
+      "packetSpot": "Trump'ın Hürmüz Boğazı hakkındaki açıklamaları, artan söylemleri ve potansiyel jeopolitik gerilimleri yansıtıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1779915147",
+          "id": "https://www.aljazeera.com/?t=1779915147",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
+          "titleTR": "Trump: Hürmüz Boğazı'nı kimse kontrol edemeyecek",
+          "descriptionTR": "Donald Trump, Tahran ile yapılacak herhangi bir anlaşma kapsamında İran'ın Hürmüz Boğazı'nı kontrol etmesine izin vermeyeceğini söyledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1779908633",
+          "id": "https://www.aljazeera.com/?t=1779908633",
+          "link": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
+          "titleTR": "Trump, Hürmüz Boğazı çıkmazı nedeniyle Umman'ı tehdit eder gibi görünüyor",
+          "descriptionTR": "ABD Başkanı, Umman'ın 'herkes gibi davranacağını, aksi takdirde onları patlatmak zorunda kalacaklarını' belirterek ABD müttefiki Umman'a uyarıda bulundu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "b2984702",
+          "id": "b2984702",
+          "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-oman-cabinet-meeting-hormuz-b2984702.html",
+          "titleTR": "Trump, bir başka egemen ülkeyi 'patlatmakla' tehdit etti",
+          "descriptionTR": "Trump, Hürmüz Boğazı'nın geleceği hakkında konuşurken, Abraham Anlaşmaları talebinin İran ile barış görüşmelerinin ilerlemesini durdurma tehdidi oluşturduğunu belirtti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-oman-cabinet-meeting-hormuz-b2984702.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "packetTitle": "Çevresel eğilimler",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://en.mercopress.com/2026/05/27/western-europe-breaks-heat-records-in-mid-spring-with-deaths-in-united-kingdom-and-france?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "id": "https://en.mercopress.com/2026/05/27/western-europe-breaks-heat-records-in-mid-spring-with-deaths-in-united-kingdom-and-france?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link": "https://en.mercopress.com/2026/05/27/western-europe-breaks-heat-records-in-mid-spring-with-deaths-in-united-kingdom-and-france?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "titleTR": "Batı Avrupa'da bahar ortasında sıcaklık rekorları kırıldı",
+          "descriptionTR": "Birçok Batı Avrupa ülkesi, bu hafta boreal bahar için tarihi sıcaklık rekorlarını kırdı. Birleşik Krallık ve Fransa'daki ulusal hava durumu servisleri tarafından \"benzeri görülmemiş\" olarak tanımlanan bu sıcak hava dalgası, en az on kişinin ölümüne neden oldu ve kıtanın sağlık hizmetlerini zorladı. Bilim camiası, bu tür aşırı olayları insan kaynaklı iklim değişikliğiyle doğrudan ilişkilendiriyor. Salı günü yayımlanan bir çalışmaya göre, sıcaklık artışlarının \"öncelikle insan kaynaklı iklim değişikliğine atfedildiği\" belirtildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "MercoPress",
+              "url": "https://en.mercopress.com/2026/05/27/western-europe-breaks-heat-records-in-mid-spring-with-deaths-in-united-kingdom-and-france?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.mongabay.com/?post_type=short-article&p=320163",
+          "id": "https://news.mongabay.com/?post_type=short-article&p=320163",
+          "link": "https://news.mongabay.com/short-article/2026/05/reintroduced-platypus-population-tracking-well-in-australias-oldest-national-park/",
+          "titleTR": "Avustralya'nın en eski milli parkında ornitorenkler yeniden doğaya kazandırıldı",
+          "descriptionTR": "Avustralya'nın en eski milli parkına yeniden kazandırılan ornitorenkler üremeye başladı ve şu anda 20 bireyden oluşan bir popülasyonla iyi bir seyir izliyor. Yarı sucul ve yumurtlayan bir memeli olan ornitorenk (Ornithorhynchus anatinus), 50 yılı aşkın bir süredir Sidney'in güneyinde yer alan koruma altındaki Royal National Park'ta bulunmuyordu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Mongabay",
+              "url": "https://news.mongabay.com/short-article/2026/05/reintroduced-platypus-population-tracking-well-in-australias-oldest-national-park/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "packetTitle": "Ortadoğu çatışmaları",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1779667505",
+          "id": "https://www.aljazeera.com/?t=1779667505",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss",
+          "titleTR": "Trump'ın savaş döngüsü: Tırmanış, geri çekilme, tekrar",
+          "descriptionTR": "Trump, savaşın bataklığında sıkışmış durumda ve İran direnişini sürdürürken olumsuz haberlerden rahatsız.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-25T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1779693387",
+          "id": "https://www.aljazeera.com/?t=1779693387",
+          "link": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
+          "titleTR": "İsrail, Lübnan'daki saldırılarda üç kişiyi öldürdü, daha fazla tahliye emri verdi",
+          "descriptionTR": "İsrail, güney Lübnan'daki birçok köy ve kasabaya saldırılar düzenliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-25T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.politico.eu/?post_type=article&p=8497604",
+          "id": "https://www.politico.eu/?post_type=article&p=8497604",
+          "link": "https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-pleads-with-us-donald-trump-for-patriots-to-fight-russian-bombardment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "titleTR": "Zelenskyy, Trump'tan Rus bombardımanına karşı Patriot füzeleri talep ediyor",
+          "descriptionTR": "Ukrayna, daha fazla füze savunması istiyor ancak Ortadoğu'daki savaş nedeniyle talep artmış durumda.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-pleads-with-us-donald-trump-for-patriots-to-fight-russian-bombardment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "packetTitle": "Patlamalar güvenlik sorunlarını öne çıkarıyor",
+      "packetSpot": "Çin'deki kömür madeninde ve Blue Origin roket testinde yaşanan patlamalar, güvenlik konularını gündeme taşıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://techcrunch.com/?p=3127620",
+          "id": "https://techcrunch.com/?p=3127620",
+          "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+          "titleTR": "Blue Origin'in New Glenn roketi Florida'daki testte patladı",
+          "descriptionTR": "Bu patlama, Jeff Bezos'un uzay şirketi için büyük bir aksilik olarak değerlendiriliyor ve SpaceX ile rekabet çabalarını etkileyebilir.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-29T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1779705138",
+          "id": "https://www.aljazeera.com/?t=1779705138",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/surveillance-video-shows-moment-of-china-coal-mine-blast?traffic_source=rss",
+          "titleTR": "Çin'deki kömür madeni patlaması kamerada",
+          "descriptionTR": "Çin'de bir kömür madeninde meydana gelen güçlü patlama, güvenlik kameraları tarafından kaydedildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-25T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/surveillance-video-shows-moment-of-china-coal-mine-blast?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 11,
+      "packetTitle": "Yargı süreçleri ve cezalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.abc.net.au/news/2026-05-27/concussion-kids-research-mcri-trial/106534866",
+          "id": "https://www.abc.net.au/news/2026-05-27/concussion-kids-research-mcri-trial/106534866",
+          "link": "https://www.abc.net.au/news/2026-05-27/concussion-kids-research-mcri-trial/106534866",
+          "titleTR": "Macy'nin sönükleşen hayatı, yeni bir deneme ile canlandı",
+          "descriptionTR": "Okul gezisinde geçirdiği sarsıntı sonrası Macy, eski enerjisini kaybetmişti. Ancak çocuklara yardımcı olmayı amaçlayan bir deneme, onun büyük bir iyileşme göstermesini sağladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-05-27/concussion-kids-research-mcri-trial/106534866"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489",
+          "id": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489",
+          "link": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489",
+          "titleTR": "Almanya'nın en çok aranan kadını, yıllar sonra hapse mahkum edildi",
+          "descriptionTR": "Ünlü Baader-Meinhof çetesinin eski bir üyesi, yıllarca süren kaçışının ardından bir dizi silahlı soygun nedeniyle hapse mahkum edildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again",
+          "id": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again",
+          "link": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again",
+          "titleTR": "Avusturya'daki bıçaklı saldırı davasında yargılanan Suriyeli, tekrar öldürebileceğini söyledi",
+          "descriptionTR": "VİYANA, 27 Mayıs - Avusturya'nın Villach kasabasında gerçekleşen ölümcül bıçaklı saldırı nedeniyle Çarşamba günü yargılanmaya başlayan 24 yaşındaki Kürt Suriyeli mülteci, mahkemede tekrar öldürebileceğini söyledi. Avusturya medyası duruşmayı takip etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 12,
+      "packetTitle": "Başarılar ve ödüller",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/news/hong-kong/society/article/3355084/3-scientists-win-hong-kongs-shaw-prize-developing-therapy-rare-leukaemia?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/hong-kong/society/article/3355084/3-scientists-win-hong-kongs-shaw-prize-developing-therapy-rare-leukaemia?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/hong-kong/society/article/3355084/3-scientists-win-hong-kongs-shaw-prize-developing-therapy-rare-leukaemia?utm_source=rss_feed",
+          "titleTR": "3 bilim insanı nadir görülen lösemi tedavisiyle Hong Kong Shaw Ödülü'nü kazandı",
+          "descriptionTR": "Çin anakarası ve Fransa'dan üç yaşam bilimci, nadir görülen bir lösemi türünü ölümcül olmaktan çıkarıp yaygın olarak tedavi edilebilir hale getiren bir terapi geliştirdikleri için Hong Kong'un Shaw Ödülü'nü kazandı. Profesör Emerita Anne Dejean, Profesör Hugues de The ve Profesör Chen Zhu, Shaw Ödülü'nün yaşam bilimleri ve tıp dalındaki ödülünü eşit paylarla kazandı. Bu ödül, 'Doğu'nun Nobel'i' olarak anılıyor. Üç akademisyen, akut löseminin moleküler ve hücresel temellerini keşfetmeleri nedeniyle tanındı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/hong-kong/society/article/3355084/3-scientists-win-hong-kongs-shaw-prize-developing-therapy-rare-leukaemia?utm_source=rss_feed"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.japantimes.co.jp/article/641918/",
+          "id": "https://www.japantimes.co.jp/article/641918/",
+          "link": "https://www.japantimes.co.jp/sports/2026/05/27/sumo/komusubi-title-wakatakakage/",
+          "titleTR": "Nadir komusubi unvanı Wakatakakage'nin geleceği için umut veriyor",
+          "descriptionTR": "Wakatakakage, 1931'den bu yana komusubi sıralamasında sumonun en önemli ödülünü kazanan sadece 11. kişi oldu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/sports/2026/05/27/sumo/komusubi-title-wakatakakage/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://balkaninsight.com/?p=1114422",
+          "id": "https://balkaninsight.com/?p=1114422",
+          "link": "https://balkaninsight.com/2026/05/29/kosovo-coming-of-age-film-shows-local-stories-can-connect-internationally/bi/",
+          "titleTR": "Kosova'dan gelen yaş hikayesi filmi yerel hikayelerin uluslararası bağ kurabileceğini gösteriyor",
+          "descriptionTR": "Blerta Basholli, savaşla sarsılmış Kosova'da olgunlaşan bir kız hakkında çektiği filmin Cannes ödülü kazanmasının, yerel filmlerin Kosova sınırlarının ötesinde bir izleyici kitlesine ulaşabileceğini gösterdiğini söylüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-29T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/05/29/kosovo-coming-of-age-film-shows-local-stories-can-connect-internationally/bi/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 13,
+      "packetTitle": "Teknoloji ve ekonomi alanında stratejik duyurular",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/tech/tech-war/article/3355066/peking-university-unveils-3d-design-tool-power-huaweis-chip-ambitions?utm_source=rss_feed",
+          "id": "https://www.scmp.com/tech/tech-war/article/3355066/peking-university-unveils-3d-design-tool-power-huaweis-chip-ambitions?utm_source=rss_feed",
+          "link": "https://www.scmp.com/tech/tech-war/article/3355066/peking-university-unveils-3d-design-tool-power-huaweis-chip-ambitions?utm_source=rss_feed",
+          "titleTR": "Pekin Üniversitesi'nden Huawei'nin çip hedeflerine destek: 3D tasarım aracı",
+          "descriptionTR": "Pekin Üniversitesi'ndeki araştırmacılar, mikroçip tasarım yazılımında bir atılım gerçekleştirdiklerini iddia ediyor. Bu yenilik, ABD öncülüğündeki ticaret kısıtlamalarına rağmen Huawei Technologies'in ileri teknoloji yarı iletkenler üretme çabalarına kritik destek sunmayı amaçlıyor. Üniversitenin Entegre Devreler Okulu tarafından Salı günü duyurulan bu yenilik, elektronik tasarım otomasyonu (EDA) için bir prototip araç olarak tanıtıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/tech/tech-war/article/3355066/peking-university-unveils-3d-design-tool-power-huaweis-chip-ambitions?utm_source=rss_feed"
+            }
+          ]
+        },
+        {
+          "atomID": "https://techcrunch.com/?p=3126558",
+          "id": "https://techcrunch.com/?p=3126558",
+          "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+          "titleTR": "Meta, Instagram, Facebook ve WhatsApp için abonelik hizmetlerini başlatıyor",
+          "descriptionTR": "Meta, dünya genelinde Instagram, Facebook ve WhatsApp için ücretli abonelik planlarını devreye alıyor. Ayrıca, 'Meta One' abonelik markası altında yeni yapay zeka, içerik üreticisi ve iş odaklı hizmetler de test ediliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.japantimes.co.jp/article/641917/",
+          "id": "https://www.japantimes.co.jp/article/641917/",
+          "link": "https://www.japantimes.co.jp/business/2026/05/27/draft-budget-submit-date/",
+          "titleTR": "Japon hükümeti, 2026 mali yılı için ek bütçe taslağını sunacak",
+          "descriptionTR": "Orta Doğu'daki gerginlikler ışığında rezerv fonları artırmayı hedefleyen ve toplamda 3 trilyon yenin üzerinde olan ek bütçe taslağı, 3 Haziran'da sunulacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-27T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/05/27/draft-budget-submit-date/"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "İsrail, güney Lübnan'daki Sur kenti için tahliye emri verdi; olası hava saldırıları öncesinde sakinlerin bölgeyi terk etmeleri istendi.",
-   "packetTitle": "İsrail'in Sur'da tahliye çağrısı ve bombardıman tehdidi",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
+  ],
+  "superPackets": [
     {
-     "atomID": "0d82172e-59ed-11f1-b568-f1798e4abd75",
-     "category": "",
-     "descriptionTR": "New York ve New Jersey eyaletleri, Çarşamba günü FIFA'nın Dünya Kupası bilet satışlarına yönelik bir soruşturma başlattı. Yetkililer, uluslararası futbol federasyonunu \"sahte kıtlık ve imkansız derecede yüksek fiyatlar\" ile suçluyor.",
-     "group": "",
-     "id": "0d82172e-59ed-11f1-b568-f1798e4abd75",
-     "link": "https://www.france24.com/en/sport/20260527-new-york-and-new-jersey-subpoena-fifa-in-world-cup-ticket-sales-investigation",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/sport/20260527-new-york-and-new-jersey-subpoena-fifa-in-world-cup-ticket-sales-investigation"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "POLITICO Europe",
-       "url": "https://www.politico.com/news/2026/05/27/nj-ny-world-cup-ticket-price-investigation-00937921?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      }
-     ],
-     "titleTR": "New York ve New Jersey, Dünya Kupası bilet satışları soruşturmasında FIFA'ya celp gönderdi"
+      "title": "Ortadoğu'da artan gerilim ve yerinden edilmeler",
+      "spot": "Bu hafta Ortadoğu'da askeri hareketlilik ve yerinden edilme emirleri yoğunlaştı; İsrail'in Sur'daki tahliye direktifleri ve birçok ülkenin dahil olduğu çatışmalar öne çıkıyor.",
+      "slots": [
+        1,
+        9
+      ]
+    },
+    {
+      "title": "Avustralya sporunda yüksek riskli anlar",
+      "spot": "Bu hafta, Avustralya sporunun yoğunluğu hissedilirken, State of Origin serisindeki sakatlıklar ve dramatik gelişmeler dikkat çekti. Bu yüksek baskılı durumların kesişimi, spor dünyasının öngörülemez doğasını vurguluyor.",
+      "slots": [
+        4,
+        5
+      ]
     }
-   ],
-   "packetSpot": "New York ve New Jersey, FIFA'nın Dünya Kupası bilet satışlarına yönelik sahte kıtlık ve yüksek fiyatlar iddialarıyla ilgili bir soruşturma başlattı.",
-   "packetTitle": "ABD'de FIFA'nın Dünya Kupası bilet fiyatları soruşturuluyor",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3355090/assistant-who-gave-matthew-perry-fatal-ketamine-dose-gets-41-months-prison?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "Friends dizisinin yıldızı Matthew Perry'ye halüsinojenik ketaminin ölümcül dozunu enjekte eden kişisel asistan, Çarşamba günü 41 ay federal hapis cezasına çarptırıldı. Bu karar, aktörün ölümünde rol oynadıklarını kabul eden beş kişinin yargılanmasının sonunu işaret ediyor. Yargıç Sherilyn Garnett, Ekim 2023'te Los Angeles'taki evinde Perry'yi yüzüstü ve cansız halde bir jakuzide bulan Kenneth Iwamasa için cezayı verdi. Federal savcılar, Iwamasa'nın...",
-     "group": "",
-     "id": "https://www.scmp.com/news/world/united-states-canada/article/3355090/assistant-who-gave-matthew-perry-fatal-ketamine-dose-gets-41-months-prison?utm_source=rss_feed",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3355090/assistant-who-gave-matthew-perry-fatal-ketamine-dose-gets-41-months-prison?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/news/world/united-states-canada/article/3355090/assistant-who-gave-matthew-perry-fatal-ketamine-dose-gets-41-months-prison?utm_source=rss_feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Independent World",
-       "url": "https://www.independent.co.uk/news/world/americas/crime/matthew-perry-assistant-jail-ketamine-kenneth-iwamasa-b2984748.html"
-      }
-     ],
-     "titleTR": "Matthew Perry'ye ölümcül ketamin dozu veren asistana 41 ay hapis"
-    }
-   ],
-   "packetSpot": "Matthew Perry'nin asistanı, ona ölümcül dozda ketamin enjekte ettiği için 41 ay hapis cezasına çarptırıldı. Bu karar, uzun süren bir soruşturmanın sonucunu oluşturuyor.",
-   "packetTitle": "Matthew Perry'nin asistanına ölümcül ketamin enjeksiyonu cezası",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.abc.net.au/news/2026-05-26/mitch-moses-ruled-ouf-of-state-of-origin-game-i-for-blues/106721562",
-     "category": "",
-     "descriptionTR": "NSW Blues, çarşamba gecesi oynanacak State of Origin açılış maçında beş numara Mitchell Moses'un hamstring sakatlığı nedeniyle forma giyemeyeceğini doğruladı.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-05-26/mitch-moses-ruled-ouf-of-state-of-origin-game-i-for-blues/106721562",
-     "link": "https://www.abc.net.au/news/2026-05-26/mitch-moses-ruled-ouf-of-state-of-origin-game-i-for-blues/106721562",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-05-26/mitch-moses-ruled-ouf-of-state-of-origin-game-i-for-blues/106721562"
-      }
-     ],
-     "titleTR": "Riskli bulundu: Blues, Origin maçı öncesi sakatlık şoku yaşadı"
-    },
-    {
-     "atomID": "https://www.abc.net.au/news/2026-05-26/riley-mcgree-to-miss-fifa-world-cup-for-socceroos/106721264",
-     "category": "",
-     "descriptionTR": "Socceroos, önümüzdeki ay yapılacak FIFA Dünya Kupası öncesi büyük bir sakatlık şokuyla karşı karşıya kaldı; orta saha oyuncusu Riley McGree turnuvada yer alamayacak.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-05-26/riley-mcgree-to-miss-fifa-world-cup-for-socceroos/106721264",
-     "link": "https://www.abc.net.au/news/2026-05-26/riley-mcgree-to-miss-fifa-world-cup-for-socceroos/106721264",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-05-26/riley-mcgree-to-miss-fifa-world-cup-for-socceroos/106721264"
-      }
-     ],
-     "titleTR": "Socceroos'a Dünya Kupası öncesi sakatlık darbesi: Yıldız orta saha yok"
-    }
-   ],
-   "packetSpot": "Rugby ve futbolda önemli oyuncular, büyük turnuvalar öncesi sakatlıklar nedeniyle engellerle karşılaşıyor.",
-   "packetTitle": "Spor sakatlıkları engelleri",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.abc.net.au/news/2026-05-28/state-of-origin-i-nsw-blues-qld-maroons-analysis/106729836",
-     "category": "",
-     "descriptionTR": "Blues, State of Origin I'de Maroons karşısında kahramanlara ihtiyaç duyduğunda, bir çaylak ve sahadaki en yaşlı oyuncuya güvendi.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-05-28/state-of-origin-i-nsw-blues-qld-maroons-analysis/106729836",
-     "link": "https://www.abc.net.au/news/2026-05-28/state-of-origin-i-nsw-blues-qld-maroons-analysis/106729836",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-05-28/state-of-origin-i-nsw-blues-qld-maroons-analysis/106729836"
-      }
-     ],
-     "titleTR": "Genç kurtarıcı ve bir dua, Blues'a inanılmaz bir Origin zaferi getirdi"
-    },
-    {
-     "atomID": "https://www.abc.net.au/news/2026-05-27/kalyn-ponga-send-off-state-of-origin-i-reaction/106730106",
-     "category": "",
-     "descriptionTR": "Maroons'un büyük ismi Darren Lockyer, Kalyn Ponga'nın State of Origin'in sonlarında ihraç edilmesi kararının Queenslandliler için kabul edilmesinin zor olacağını belirtti.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-05-27/kalyn-ponga-send-off-state-of-origin-i-reaction/106730106",
-     "link": "https://www.abc.net.au/news/2026-05-27/kalyn-ponga-send-off-state-of-origin-i-reaction/106730106",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-05-27/kalyn-ponga-send-off-state-of-origin-i-reaction/106730106"
-      }
-     ],
-     "titleTR": "Kalyn Ponga'nın Origin'den ihraç edilmesi, Queensland efsanesini 'şokta' bıraktı"
-    },
-    {
-     "atomID": "https://www.abc.net.au/news/2026-05-27/state-of-origin-i-nsw-blues-queensland-maroons-five-quick-hits/106729716",
-     "category": "",
-     "descriptionTR": "Blues son dakikalara kadar beklerken, Maroons 12 oyuncuyla tamamladı ve bunker, oyuncuların, yorumcuların ve izleyicilerin tepkisini çekti. İşte State of Origin I'den beş hızlı not.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-05-27/state-of-origin-i-nsw-blues-queensland-maroons-five-quick-hits/106729716",
-     "link": "https://www.abc.net.au/news/2026-05-27/state-of-origin-i-nsw-blues-queensland-maroons-five-quick-hits/106729716",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-05-27/state-of-origin-i-nsw-blues-queensland-maroons-five-quick-hits/106729716"
-      }
-     ],
-     "titleTR": "Hızlı notlar: Blues'un seçim riski karşılığını verdi, bunker tartışma yarattı"
-    },
-    {
-     "atomID": "https://www.abc.net.au/news/2026-05-27/state-of-origin-game-1-live-updates-blues-vs-maroons/106724102",
-     "category": "",
-     "descriptionTR": "James Tedesco, State of Origin I'de son 90 saniyede muhteşem bir try yaparak, Queensland fullback'i Kalyn Ponga'nın omuz darbesi nedeniyle ihraç edilmesinin ardından 20 puanlık bir geri dönüşü tamamladı.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-05-27/state-of-origin-game-1-live-updates-blues-vs-maroons/106724102",
-     "link": "https://www.abc.net.au/news/2026-05-27/state-of-origin-game-1-live-updates-blues-vs-maroons/106724102",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-05-27/state-of-origin-game-1-live-updates-blues-vs-maroons/106724102"
-      }
-     ],
-     "titleTR": "Maroons, Kalyn Ponga'nın geç ihraç edilmesinin ardından Origin I'de 20-0'lık üstünlüğü kaybetti"
-    }
-   ],
-   "packetSpot": "State of Origin I, önemli bir geri dönüş, oyuncu ihraçları ve tartışmalı kararlarla dikkat çekti.",
-   "packetTitle": "State of Origin I'deki dramatik anlar",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 5
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1779709984",
-     "category": "",
-     "descriptionTR": "Avusturya'da bir yamaç paraşütçüsü, uçakla havada çarpışmasına rağmen hayatta kaldı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1779709984",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/paraglider-survives-mid-air-collision-with-plane-over-austria?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/paraglider-survives-mid-air-collision-with-plane-over-austria?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Avusturya'da yamaç paraşütçüsü uçakla havada çarpıştı, hayatta kaldı"
-    },
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/05/29/school-bus-and-car-collide-eight-children-injured_0da48f45-f98f-4d42-abb3-63b284d0c43e.html",
-     "category": "",
-     "descriptionTR": "Trapani bölgesinde meydana gelen kazada, iki öğrencinin ağır yaralandığı bildiriliyor.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/05/29/school-bus-and-car-collide-eight-children-injured_0da48f45-f98f-4d42-abb3-63b284d0c43e.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/05/29/school-bus-and-car-collide-eight-children-injured_0da48f45-f98f-4d42-abb3-63b284d0c43e.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/05/29/school-bus-and-car-collide-eight-children-injured_0da48f45-f98f-4d42-abb3-63b284d0c43e.html"
-      }
-     ],
-     "titleTR": "Okul servisi ve araba çarpıştı, sekiz çocuk yaralandı"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Ulaşım kazaları",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 6
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1779915147",
-     "category": "",
-     "descriptionTR": "Donald Trump, Tahran ile yapılacak herhangi bir anlaşma kapsamında İran'ın Hürmüz Boğazı'nı kontrol etmesine izin vermeyeceğini söyledi.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1779915147",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Trump: Hürmüz Boğazı'nı kimse kontrol edemeyecek"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1779908633",
-     "category": "",
-     "descriptionTR": "ABD Başkanı, Umman'ın 'herkes gibi davranacağını, aksi takdirde onları patlatmak zorunda kalacaklarını' belirterek ABD müttefiki Umman'a uyarıda bulundu.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1779908633",
-     "link": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Trump, Hürmüz Boğazı çıkmazı nedeniyle Umman'ı tehdit eder gibi görünüyor"
-    },
-    {
-     "atomID": "b2984702",
-     "category": "",
-     "descriptionTR": "Trump, Hürmüz Boğazı'nın geleceği hakkında konuşurken, Abraham Anlaşmaları talebinin İran ile barış görüşmelerinin ilerlemesini durdurma tehdidi oluşturduğunu belirtti.",
-     "group": "",
-     "id": "b2984702",
-     "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-oman-cabinet-meeting-hormuz-b2984702.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Independent World",
-       "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-oman-cabinet-meeting-hormuz-b2984702.html"
-      }
-     ],
-     "titleTR": "Trump, bir başka egemen ülkeyi 'patlatmakla' tehdit etti"
-    }
-   ],
-   "packetSpot": "Trump'ın Hürmüz Boğazı hakkındaki açıklamaları, artan söylemleri ve potansiyel jeopolitik gerilimleri yansıtıyor.",
-   "packetTitle": "Trump'ın Hürmüz Boğazı tehditleri",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 7
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://en.mercopress.com/2026/05/27/western-europe-breaks-heat-records-in-mid-spring-with-deaths-in-united-kingdom-and-france?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-     "category": "",
-     "descriptionTR": "Birçok Batı Avrupa ülkesi, bu hafta boreal bahar için tarihi sıcaklık rekorlarını kırdı. Birleşik Krallık ve Fransa'daki ulusal hava durumu servisleri tarafından \"benzeri görülmemiş\" olarak tanımlanan bu sıcak hava dalgası, en az on kişinin ölümüne neden oldu ve kıtanın sağlık hizmetlerini zorladı. Bilim camiası, bu tür aşırı olayları insan kaynaklı iklim değişikliğiyle doğrudan ilişkilendiriyor. Salı günü yayımlanan bir çalışmaya göre, sıcaklık artışlarının \"öncelikle insan kaynaklı iklim değişikliğine atfedildiği\" belirtildi.",
-     "group": "",
-     "id": "https://en.mercopress.com/2026/05/27/western-europe-breaks-heat-records-in-mid-spring-with-deaths-in-united-kingdom-and-france?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-     "link": "https://en.mercopress.com/2026/05/27/western-europe-breaks-heat-records-in-mid-spring-with-deaths-in-united-kingdom-and-france?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "MercoPress",
-       "url": "https://en.mercopress.com/2026/05/27/western-europe-breaks-heat-records-in-mid-spring-with-deaths-in-united-kingdom-and-france?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-      }
-     ],
-     "titleTR": "Batı Avrupa'da bahar ortasında sıcaklık rekorları kırıldı"
-    },
-    {
-     "atomID": "https://news.mongabay.com/?post_type=short-article&p=320163",
-     "category": "",
-     "descriptionTR": "Avustralya'nın en eski milli parkına yeniden kazandırılan ornitorenkler üremeye başladı ve şu anda 20 bireyden oluşan bir popülasyonla iyi bir seyir izliyor. Yarı sucul ve yumurtlayan bir memeli olan ornitorenk (Ornithorhynchus anatinus), 50 yılı aşkın bir süredir Sidney'in güneyinde yer alan koruma altındaki Royal National Park'ta bulunmuyordu.",
-     "group": "",
-     "id": "https://news.mongabay.com/?post_type=short-article&p=320163",
-     "link": "https://news.mongabay.com/short-article/2026/05/reintroduced-platypus-population-tracking-well-in-australias-oldest-national-park/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Mongabay",
-       "url": "https://news.mongabay.com/short-article/2026/05/reintroduced-platypus-population-tracking-well-in-australias-oldest-national-park/"
-      }
-     ],
-     "titleTR": "Avustralya'nın en eski milli parkında ornitorenkler yeniden doğaya kazandırıldı"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Çevresel eğilimler",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 8
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1779667505",
-     "category": "",
-     "descriptionTR": "Trump, savaşın bataklığında sıkışmış durumda ve İran direnişini sürdürürken olumsuz haberlerden rahatsız.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1779667505",
-     "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/25/trumps-war-loop-escalate-retreat-repeat?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Trump'ın savaş döngüsü: Tırmanış, geri çekilme, tekrar"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1779693387",
-     "category": "",
-     "descriptionTR": "İsrail, güney Lübnan'daki birçok köy ve kasabaya saldırılar düzenliyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1779693387",
-     "link": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders?traffic_source=rss"
-      }
-     ],
-     "titleTR": "İsrail, Lübnan'daki saldırılarda üç kişiyi öldürdü, daha fazla tahliye emri verdi"
-    },
-    {
-     "atomID": "https://www.politico.eu/?post_type=article&p=8497604",
-     "category": "",
-     "descriptionTR": "Ukrayna, daha fazla füze savunması istiyor ancak Ortadoğu'daki savaş nedeniyle talep artmış durumda.",
-     "group": "",
-     "id": "https://www.politico.eu/?post_type=article&p=8497604",
-     "link": "https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-pleads-with-us-donald-trump-for-patriots-to-fight-russian-bombardment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "POLITICO Europe",
-       "url": "https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-pleads-with-us-donald-trump-for-patriots-to-fight-russian-bombardment/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      }
-     ],
-     "titleTR": "Zelenskyy, Trump'tan Rus bombardımanına karşı Patriot füzeleri talep ediyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Ortadoğu çatışmaları",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 9
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://techcrunch.com/?p=3127620",
-     "category": "",
-     "descriptionTR": "Bu patlama, Jeff Bezos'un uzay şirketi için büyük bir aksilik olarak değerlendiriliyor ve SpaceX ile rekabet çabalarını etkileyebilir.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3127620",
-     "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/"
-      }
-     ],
-     "titleTR": "Blue Origin'in New Glenn roketi Florida'daki testte patladı"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1779705138",
-     "category": "",
-     "descriptionTR": "Çin'de bir kömür madeninde meydana gelen güçlü patlama, güvenlik kameraları tarafından kaydedildi.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1779705138",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/surveillance-video-shows-moment-of-china-coal-mine-blast?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/surveillance-video-shows-moment-of-china-coal-mine-blast?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Çin'deki kömür madeni patlaması kamerada"
-    }
-   ],
-   "packetSpot": "Çin'deki kömür madeninde ve Blue Origin roket testinde yaşanan patlamalar, güvenlik konularını gündeme taşıyor.",
-   "packetTitle": "Patlamalar güvenlik sorunlarını öne çıkarıyor",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 10
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.abc.net.au/news/2026-05-27/concussion-kids-research-mcri-trial/106534866",
-     "category": "",
-     "descriptionTR": "Okul gezisinde geçirdiği sarsıntı sonrası Macy, eski enerjisini kaybetmişti. Ancak çocuklara yardımcı olmayı amaçlayan bir deneme, onun büyük bir iyileşme göstermesini sağladı.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-05-27/concussion-kids-research-mcri-trial/106534866",
-     "link": "https://www.abc.net.au/news/2026-05-27/concussion-kids-research-mcri-trial/106534866",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-05-27/concussion-kids-research-mcri-trial/106534866"
-      }
-     ],
-     "titleTR": "Macy'nin sönükleşen hayatı, yeni bir deneme ile canlandı"
-    },
-    {
-     "atomID": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489",
-     "category": "",
-     "descriptionTR": "Ünlü Baader-Meinhof çetesinin eski bir üyesi, yıllarca süren kaçışının ardından bir dizi silahlı soygun nedeniyle hapse mahkum edildi.",
-     "group": "",
-     "id": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489",
-     "link": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Sky News World",
-       "url": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489"
-      }
-     ],
-     "titleTR": "Almanya'nın en çok aranan kadını, yıllar sonra hapse mahkum edildi"
-    },
-    {
-     "atomID": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again",
-     "category": "",
-     "descriptionTR": "VİYANA, 27 Mayıs - Avusturya'nın Villach kasabasında gerçekleşen ölümcül bıçaklı saldırı nedeniyle Çarşamba günü yargılanmaya başlayan 24 yaşındaki Kürt Suriyeli mülteci, mahkemede tekrar öldürebileceğini söyledi. Avusturya medyası duruşmayı takip etti.",
-     "group": "",
-     "id": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again",
-     "link": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Straits Times World",
-       "url": "https://www.straitstimes.com/world/europe/syrian-on-trial-for-austrian-knife-attack-says-he-would-kill-again"
-      }
-     ],
-     "titleTR": "Avusturya'daki bıçaklı saldırı davasında yargılanan Suriyeli, tekrar öldürebileceğini söyledi"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Yargı süreçleri ve cezalar",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 11
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.scmp.com/news/hong-kong/society/article/3355084/3-scientists-win-hong-kongs-shaw-prize-developing-therapy-rare-leukaemia?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "Çin anakarası ve Fransa'dan üç yaşam bilimci, nadir görülen bir lösemi türünü ölümcül olmaktan çıkarıp yaygın olarak tedavi edilebilir hale getiren bir terapi geliştirdikleri için Hong Kong'un Shaw Ödülü'nü kazandı. Profesör Emerita Anne Dejean, Profesör Hugues de The ve Profesör Chen Zhu, Shaw Ödülü'nün yaşam bilimleri ve tıp dalındaki ödülünü eşit paylarla kazandı. Bu ödül, 'Doğu'nun Nobel'i' olarak anılıyor. Üç akademisyen, akut löseminin moleküler ve hücresel temellerini keşfetmeleri nedeniyle tanındı.",
-     "group": "",
-     "id": "https://www.scmp.com/news/hong-kong/society/article/3355084/3-scientists-win-hong-kongs-shaw-prize-developing-therapy-rare-leukaemia?utm_source=rss_feed",
-     "link": "https://www.scmp.com/news/hong-kong/society/article/3355084/3-scientists-win-hong-kongs-shaw-prize-developing-therapy-rare-leukaemia?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/news/hong-kong/society/article/3355084/3-scientists-win-hong-kongs-shaw-prize-developing-therapy-rare-leukaemia?utm_source=rss_feed"
-      }
-     ],
-     "titleTR": "3 bilim insanı nadir görülen lösemi tedavisiyle Hong Kong Shaw Ödülü'nü kazandı"
-    },
-    {
-     "atomID": "https://www.japantimes.co.jp/article/641918/",
-     "category": "",
-     "descriptionTR": "Wakatakakage, 1931'den bu yana komusubi sıralamasında sumonun en önemli ödülünü kazanan sadece 11. kişi oldu.",
-     "group": "",
-     "id": "https://www.japantimes.co.jp/article/641918/",
-     "link": "https://www.japantimes.co.jp/sports/2026/05/27/sumo/komusubi-title-wakatakakage/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Japan Times",
-       "url": "https://www.japantimes.co.jp/sports/2026/05/27/sumo/komusubi-title-wakatakakage/"
-      }
-     ],
-     "titleTR": "Nadir komusubi unvanı Wakatakakage'nin geleceği için umut veriyor"
-    },
-    {
-     "atomID": "https://balkaninsight.com/?p=1114422",
-     "category": "",
-     "descriptionTR": "Blerta Basholli, savaşla sarsılmış Kosova'da olgunlaşan bir kız hakkında çektiği filmin Cannes ödülü kazanmasının, yerel filmlerin Kosova sınırlarının ötesinde bir izleyici kitlesine ulaşabileceğini gösterdiğini söylüyor.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1114422",
-     "link": "https://balkaninsight.com/2026/05/29/kosovo-coming-of-age-film-shows-local-stories-can-connect-internationally/bi/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/05/29/kosovo-coming-of-age-film-shows-local-stories-can-connect-internationally/bi/"
-      }
-     ],
-     "titleTR": "Kosova'dan gelen yaş hikayesi filmi yerel hikayelerin uluslararası bağ kurabileceğini gösteriyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Başarılar ve ödüller",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 12
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.scmp.com/tech/tech-war/article/3355066/peking-university-unveils-3d-design-tool-power-huaweis-chip-ambitions?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "Pekin Üniversitesi'ndeki araştırmacılar, mikroçip tasarım yazılımında bir atılım gerçekleştirdiklerini iddia ediyor. Bu yenilik, ABD öncülüğündeki ticaret kısıtlamalarına rağmen Huawei Technologies'in ileri teknoloji yarı iletkenler üretme çabalarına kritik destek sunmayı amaçlıyor. Üniversitenin Entegre Devreler Okulu tarafından Salı günü duyurulan bu yenilik, elektronik tasarım otomasyonu (EDA) için bir prototip araç olarak tanıtıldı.",
-     "group": "",
-     "id": "https://www.scmp.com/tech/tech-war/article/3355066/peking-university-unveils-3d-design-tool-power-huaweis-chip-ambitions?utm_source=rss_feed",
-     "link": "https://www.scmp.com/tech/tech-war/article/3355066/peking-university-unveils-3d-design-tool-power-huaweis-chip-ambitions?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/tech/tech-war/article/3355066/peking-university-unveils-3d-design-tool-power-huaweis-chip-ambitions?utm_source=rss_feed"
-      }
-     ],
-     "titleTR": "Pekin Üniversitesi'nden Huawei'nin çip hedeflerine destek: 3D tasarım aracı"
-    },
-    {
-     "atomID": "https://techcrunch.com/?p=3126558",
-     "category": "",
-     "descriptionTR": "Meta, dünya genelinde Instagram, Facebook ve WhatsApp için ücretli abonelik planlarını devreye alıyor. Ayrıca, 'Meta One' abonelik markası altında yeni yapay zeka, içerik üreticisi ve iş odaklı hizmetler de test ediliyor.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3126558",
-     "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
-      }
-     ],
-     "titleTR": "Meta, Instagram, Facebook ve WhatsApp için abonelik hizmetlerini başlatıyor"
-    },
-    {
-     "atomID": "https://www.japantimes.co.jp/article/641917/",
-     "category": "",
-     "descriptionTR": "Orta Doğu'daki gerginlikler ışığında rezerv fonları artırmayı hedefleyen ve toplamda 3 trilyon yenin üzerinde olan ek bütçe taslağı, 3 Haziran'da sunulacak.",
-     "group": "",
-     "id": "https://www.japantimes.co.jp/article/641917/",
-     "link": "https://www.japantimes.co.jp/business/2026/05/27/draft-budget-submit-date/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Japan Times",
-       "url": "https://www.japantimes.co.jp/business/2026/05/27/draft-budget-submit-date/"
-      }
-     ],
-     "titleTR": "Japon hükümeti, 2026 mali yılı için ek bütçe taslağını sunacak"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Teknoloji ve ekonomi alanında stratejik duyurular",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 13
-  }
- ],
- "superPackets": [
-  {
-   "slots": [
-    1,
-    9
-   ],
-   "spot": "Bu hafta Ortadoğu'da askeri hareketlilik ve yerinden edilme emirleri yoğunlaştı; İsrail'in Sur'daki tahliye direktifleri ve birçok ülkenin dahil olduğu çatışmalar öne çıkıyor.",
-   "title": "Ortadoğu'da artan gerilim ve yerinden edilmeler"
-  },
-  {
-   "slots": [
-    4,
-    5
-   ],
-   "spot": "Bu hafta, Avustralya sporunun yoğunluğu hissedilirken, State of Origin serisindeki sakatlıklar ve dramatik gelişmeler dikkat çekti. Bu yüksek baskılı durumların kesişimi, spor dünyasının öngörülemez doğasını vurguluyor.",
-   "title": "Avustralya sporunda yüksek riskli anlar"
-  }
- ],
- "week": "2026-W22"
+  ]
 }

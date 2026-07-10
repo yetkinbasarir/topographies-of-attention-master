@@ -1,422 +1,422 @@
 {
- "label": "6-12 NİSAN",
- "publishedAt": "2026-07-09T22:53:57Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W15",
+  "label": "6-12 NİSAN",
+  "publishedAt": "2026-07-10T18:47:12Z",
+  "slots": [
     {
-     "atomID": "https://www.bbc.com/news/articles/cx2vpz1kwreo#0",
-     "category": "",
-     "descriptionTR": "Düşman topraklarından çıkarılması için yapılan operasyon son derece karmaşıktı ve birçok ABD hükümet kurumu bu operasyona dahil oldu.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/cx2vpz1kwreo#0",
-     "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "ABD'li havacının İran'da kurtarılma operasyonu nasıl gerçekleşti?"
+      "slot": 1,
+      "packetTitle": "ABD'li havacının İran'da kurtarılması ve Trump'ın sızıntıya tepkisi",
+      "packetSpot": "ABD'li havacının İran'da kurtarılması, ABD kurumlarının karmaşık operasyonlarını içerirken, Trump sızıntı detayları için bir gazeteciye dava açmakla tehdit etti.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-06T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/cx2vpz1kwreo#0",
+          "id": "https://www.bbc.com/news/articles/cx2vpz1kwreo#0",
+          "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "ABD'li havacının İran'da kurtarılma operasyonu nasıl gerçekleşti?",
+          "descriptionTR": "Düşman topraklarından çıkarılması için yapılan operasyon son derece karmaşıktı ve birçok ABD hükümet kurumu bu operasyona dahil oldu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775505155",
+          "id": "https://www.aljazeera.com/?t=1775505155",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss",
+          "titleTR": "Trump, İran'daki havacı kurtarma sızıntısı nedeniyle gazeteciyi hapse atmakla tehdit etti",
+          "descriptionTR": "Trump, İran'da ABD'li havacının kurtarılmasıyla ilgili haber yapan gazeteciden kaynağını açıklamasını istedi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss"
+            }
+          ]
+        }
+      ]
     },
     {
-     "atomID": "https://www.aljazeera.com/?t=1775505155",
-     "category": "",
-     "descriptionTR": "Trump, İran'da ABD'li havacının kurtarılmasıyla ilgili haber yapan gazeteciden kaynağını açıklamasını istedi.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775505155",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/video-trump-threatens-to-jail-reporter-over-iran-airman-rescue-leak?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Trump, İran'daki havacı kurtarma sızıntısı nedeniyle gazeteciyi hapse atmakla tehdit etti"
+      "slot": 2,
+      "packetTitle": "NASA'nın Artemis II görevi Dünya'ya inişe hazırlanıyor",
+      "packetSpot": "NASA'nın Artemis II görevi, rekor kıran yolculuğundan dönerken Dünya'ya yeniden giriş ve iniş için hazırlanıyor, bu da önemli bir dönüm noktası olarak öne çıkıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-10T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://techcrunch.com/?p=3111361",
+          "id": "https://techcrunch.com/?p=3111361",
+          "link": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
+          "titleTR": "NASA'nın Artemis II'nin Dünya'ya inişini nasıl izleyebilirsiniz",
+          "descriptionTR": "NASA'nın Artemis II görevi, Dünya'dan daha önceki görevlerden daha uzağa yolculuk yaptı. Mürettebatın Pasifik Okyanusu'na inişini nasıl izleyebileceğinizi buradan öğrenebilirsiniz.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/nasas-artemis-ii-prepares-for-splashdown-on-earth?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "ABD Yüksek Mahkemesi'nin kararı, Steve Bannon davasının düşmesi için kapı aralıyor",
+      "packetSpot": "ABD Yüksek Mahkemesi, Steve Bannon'un ceza davasının düşmesine yol açabilecek bir karar verdi ve iddianamenin alt mahkeme tarafından gözden geçirilmesine olanak tanıdı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-06T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775498049",
+          "id": "https://www.aljazeera.com/?t=1775498049",
+          "link": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss",
+          "titleTR": "ABD Yüksek Mahkemesi, Steve Bannon'un ceza davasının düşmesi için yolu açtı",
+          "descriptionTR": "ABD Başkanı Donald Trump'ın müttefiki olan Steve Bannon, 2022'deki mahkumiyetinin ardından dört aylık bir hapis cezası çekti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "Seçim güvenliği endişeleri",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-10T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://balkaninsight.com/?p=1111215",
+          "id": "https://balkaninsight.com/?p=1111215",
+          "link": "https://balkaninsight.com/2026/04/06/concerns-mount-over-hungarys-election-monitoring-and-integrity/rd/",
+          "titleTR": "Macaristan seçimlerinde gözlemci tartışmaları",
+          "descriptionTR": "Macaristan seçimleri, birçok uluslararası kuruluşun gözlemcileri tarafından izlenecek ancak bazı gözlemcilerin yetkinlikleri sorgulanıyor. Aynı zamanda, yeni bir belgesel ülkenin seçim sistemine dair endişeleri artırıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/04/06/concerns-mount-over-hungarys-election-monitoring-and-integrity/rd/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775850261",
+          "id": "https://www.aljazeera.com/?t=1775850261",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss",
+          "titleTR": "Macaristan seçimleri neden uluslararası alanda önemli?",
+          "descriptionTR": "Washington, Moskova, Kiev ve Brüksel, seçim sonuçlarını merakla bekliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775849059",
+          "id": "https://www.aljazeera.com/?t=1775849059",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/who-are-perus-presidential-candidates?traffic_source=rss",
+          "titleTR": "Peru'nun başkan adayları kimler?",
+          "descriptionTR": "Peru'da seçmenler, pazar günü yeni bir başkan ve kongre üyeleri seçmek için sandık başına gidiyor. Peki, adaylar kimler?",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/who-are-perus-presidential-candidates?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://balkaninsight.com/?p=1111648",
+          "id": "https://balkaninsight.com/?p=1111648",
+          "link": "https://balkaninsight.com/2026/04/10/arte-europe-weekly-hungary-elections-is-this-the-end-of-orban/bi/",
+          "titleTR": "ARTE Europe Weekly: Macaristan seçimleri: Orban'ın sonu mu?",
+          "descriptionTR": "Anketlere göre, Macaristan Başbakanı 16 yıl sonra pazar günü çoğunluğunu kaybedebilir.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/04/10/arte-europe-weekly-hungary-elections-is-this-the-end-of-orban/bi/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "Ortadoğu'da artan çatışmalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-08T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775490301",
+          "id": "https://www.aljazeera.com/?t=1775490301",
+          "link": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
+          "titleTR": "Lübnan'daki Hizbullah ve Yemen'deki Husiler, İran ile birlikte İsrail'e saldırdı iddiası",
+          "descriptionTR": "Yemen'deki Husiler, İran ve Lübnan'daki Hizbullah'ın desteğiyle İsrail'e saldırdıklarını iddia ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c77md512n71o#0",
+          "id": "https://www.bbc.com/news/articles/c77md512n71o#0",
+          "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Gazze'de İsrail saldırıları ve Hamas ile milisler arasında çatışmalar: On ölü",
+          "descriptionTR": "İsrail saldırılarının, Maghazi kampı yakınlarında İsrail destekli bir milisle çatışan Hamas güvenlik personelini hedef aldığı bildiriliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775677750",
+          "id": "https://www.aljazeera.com/?t=1775677750",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
+          "titleTR": "ABD-İran ateşkesi sonrası İsrail'in Lübnan'a yönelik saldırıları hakkında bilinmesi gerekenler",
+          "descriptionTR": "ABD ve İran arasında bir ateşkes anlaşmasına varılmasının ertesi günü, İsrail'in Lübnan'a yönelik yoğun bombardıman gerçekleştirdiği bildiriliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "packetTitle": "Gündemdeki yüksek profilli davalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-10T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775500867",
+          "id": "https://www.aljazeera.com/?t=1775500867",
+          "link": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss",
+          "titleTR": "Rusya, eski Kursk valisini Ukrayna bağlantılı yolsuzluk soruşturmasında hapse attı",
+          "descriptionTR": "Alexei Smirnov, Ukrayna sınırında tahkimat inşa eden firmalardan rüşvet almak suçundan hüküm giydi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://balkaninsight.com/?p=1111351",
+          "id": "https://balkaninsight.com/?p=1111351",
+          "link": "https://balkaninsight.com/2026/04/06/romania-indicts-two-over-alleged-russian-linked-sabotage-plot/bi/",
+          "titleTR": "Romanya, Rusya bağlantılı sabotaj planı iddiasıyla iki kişiyi suçladı",
+          "descriptionTR": "Ukrayna'ya patlayıcı paketler göndermeyi planladıkları iddiasıyla tutuklanan iki kişi, Bükreş'te sabotaj girişimi suçlamasıyla yargılanıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/04/06/romania-indicts-two-over-alleged-russian-linked-sabotage-plot/bi/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://techcrunch.com/?p=3109630",
+          "id": "https://techcrunch.com/?p=3109630",
+          "link": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
+          "titleTR": "Apple, App Store mücadelesini tekrar Yüksek Mahkeme'ye taşıyor",
+          "descriptionTR": "Apple, Epic Games ile olan App Store mücadelesinde, dış ödemelerden ücret alma yeteneğini sınırlayan karara itiraz ederek Yüksek Mahkeme'den inceleme talep etmeyi planlıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775682204",
+          "id": "https://www.aljazeera.com/?t=1775682204",
+          "link": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss",
+          "titleTR": "Savcılar, Tiger Woods'un reçeteli ilaç kayıtlarını talep ediyor",
+          "descriptionTR": "Woods, Florida'da geçen hafta alkollü araç kullanma davasında suçsuz olduğunu beyan etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1775845107",
+          "id": "https://www.aljazeera.com/?t=1775845107",
+          "link": "https://www.aljazeera.com/news/2026/4/10/prince-harry-sued-for-defamation-by-sentebale-charity-he-co-founded?traffic_source=rss",
+          "titleTR": "Prens Harry, kurucusu olduğu Sentebale vakfı tarafından iftira davasıyla karşı karşıya",
+          "descriptionTR": "Prens Harry'nin sözcüsü, \"hakaret edici ve zarar verici\" iftira iddiasını \"kesin bir dille\" reddettiğini açıkladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/4/10/prince-harry-sued-for-defamation-by-sentebale-charity-he-co-founded?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "packetTitle": "Ülkelerin politika değişiklikleri",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-10T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://balkaninsight.com/?p=1111060",
+          "id": "https://balkaninsight.com/?p=1111060",
+          "link": "https://balkaninsight.com/2026/04/06/kosovo-wants-to-integrate-serbian-run-institutions-but-serbs-are-resisting/bi/",
+          "titleTR": "Kosova, Sırp kurumlarını entegre etmek istiyor ama direnişle karşılaşıyor",
+          "descriptionTR": "Kosova'nın, Sırp yönetimindeki 'paralel' eğitim ve sağlık kurumlarını kendi sistemine entegre etme planları, yerel Sırplar arasında huzursuzluk yaratıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/04/06/kosovo-wants-to-integrate-serbian-run-institutions-but-serbs-are-resisting/bi/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://balkaninsight.com/?p=1111612",
+          "id": "https://balkaninsight.com/?p=1111612",
+          "link": "https://balkaninsight.com/2026/04/10/does-turkey-want-to-protect-children-on-social-media-or-increase-surveillance/bi/",
+          "titleTR": "Türkiye sosyal medyada çocukları mı korumak istiyor yoksa gözetimi mi artırıyor?",
+          "descriptionTR": "Türkiye'nin, kimlik doğrulaması olmadan sosyal medya platformlarına erişimi kısıtlamayı planlaması, anonimliği azaltacak ve sansürü daha da sıkılaştıracak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/04/10/does-turkey-want-to-protect-children-on-social-media-or-increase-surveillance/bi/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://techcrunch.com/?p=3111315",
+          "id": "https://techcrunch.com/?p=3111315",
+          "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+          "titleTR": "Fransa, ABD teknolojisine bağımlılığı azaltmak için Windows'tan Linux'a geçiyor",
+          "descriptionTR": "Fransa'nın Windows'tan Linux'a geçişi, Amerikan teknoloji devlerine olan bağımlılığı azaltma çabalarının son adımı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "ABD'li havacının İran'da kurtarılması, ABD kurumlarının karmaşık operasyonlarını içerirken, Trump sızıntı detayları için bir gazeteciye dava açmakla tehdit etti.",
-   "packetTitle": "ABD'li havacının İran'da kurtarılması ve Trump'ın sızıntıya tepkisi",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://techcrunch.com/?p=3111361",
-     "category": "",
-     "descriptionTR": "NASA'nın Artemis II görevi, Dünya'dan daha önceki görevlerden daha uzağa yolculuk yaptı. Mürettebatın Pasifik Okyanusu'na inişini nasıl izleyebileceğinizi buradan öğrenebilirsiniz.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3111361",
-     "link": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/nasas-artemis-ii-prepares-for-splashdown-on-earth?traffic_source=rss"
-      }
-     ],
-     "titleTR": "NASA'nın Artemis II'nin Dünya'ya inişini nasıl izleyebilirsiniz"
-    }
-   ],
-   "packetSpot": "NASA'nın Artemis II görevi, rekor kıran yolculuğundan dönerken Dünya'ya yeniden giriş ve iniş için hazırlanıyor, bu da önemli bir dönüm noktası olarak öne çıkıyor.",
-   "packetTitle": "NASA'nın Artemis II görevi Dünya'ya inişe hazırlanıyor",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1775498049",
-     "category": "",
-     "descriptionTR": "ABD Başkanı Donald Trump'ın müttefiki olan Steve Bannon, 2022'deki mahkumiyetinin ardından dört aylık bir hapis cezası çekti.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775498049",
-     "link": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "ABD Yüksek Mahkemesi, Steve Bannon'un ceza davasının düşmesi için yolu açtı"
-    }
-   ],
-   "packetSpot": "ABD Yüksek Mahkemesi, Steve Bannon'un ceza davasının düşmesine yol açabilecek bir karar verdi ve iddianamenin alt mahkeme tarafından gözden geçirilmesine olanak tanıdı.",
-   "packetTitle": "ABD Yüksek Mahkemesi'nin kararı, Steve Bannon davasının düşmesi için kapı aralıyor",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://balkaninsight.com/?p=1111215",
-     "category": "",
-     "descriptionTR": "Macaristan seçimleri, birçok uluslararası kuruluşun gözlemcileri tarafından izlenecek ancak bazı gözlemcilerin yetkinlikleri sorgulanıyor. Aynı zamanda, yeni bir belgesel ülkenin seçim sistemine dair endişeleri artırıyor.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1111215",
-     "link": "https://balkaninsight.com/2026/04/06/concerns-mount-over-hungarys-election-monitoring-and-integrity/rd/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/04/06/concerns-mount-over-hungarys-election-monitoring-and-integrity/rd/"
-      }
-     ],
-     "titleTR": "Macaristan seçimlerinde gözlemci tartışmaları"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1775850261",
-     "category": "",
-     "descriptionTR": "Washington, Moskova, Kiev ve Brüksel, seçim sonuçlarını merakla bekliyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775850261",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/4/10/why-is-hungarys-election-so-important-on-the-international-stage?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Macaristan seçimleri neden uluslararası alanda önemli?"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1775849059",
-     "category": "",
-     "descriptionTR": "Peru'da seçmenler, pazar günü yeni bir başkan ve kongre üyeleri seçmek için sandık başına gidiyor. Peki, adaylar kimler?",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775849059",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/who-are-perus-presidential-candidates?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/who-are-perus-presidential-candidates?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Peru'nun başkan adayları kimler?"
-    },
-    {
-     "atomID": "https://balkaninsight.com/?p=1111648",
-     "category": "",
-     "descriptionTR": "Anketlere göre, Macaristan Başbakanı 16 yıl sonra pazar günü çoğunluğunu kaybedebilir.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1111648",
-     "link": "https://balkaninsight.com/2026/04/10/arte-europe-weekly-hungary-elections-is-this-the-end-of-orban/bi/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/04/10/arte-europe-weekly-hungary-elections-is-this-the-end-of-orban/bi/"
-      }
-     ],
-     "titleTR": "ARTE Europe Weekly: Macaristan seçimleri: Orban'ın sonu mu?"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Seçim güvenliği endişeleri",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1775490301",
-     "category": "",
-     "descriptionTR": "Yemen'deki Husiler, İran ve Lübnan'daki Hizbullah'ın desteğiyle İsrail'e saldırdıklarını iddia ediyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775490301",
-     "link": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Lübnan'daki Hizbullah ve Yemen'deki Husiler, İran ile birlikte İsrail'e saldırdı iddiası"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c77md512n71o#0",
-     "category": "",
-     "descriptionTR": "İsrail saldırılarının, Maghazi kampı yakınlarında İsrail destekli bir milisle çatışan Hamas güvenlik personelini hedef aldığı bildiriliyor.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c77md512n71o#0",
-     "link": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Gazze'de İsrail saldırıları ve Hamas ile milisler arasında çatışmalar: On ölü"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1775677750",
-     "category": "",
-     "descriptionTR": "ABD ve İran arasında bir ateşkes anlaşmasına varılmasının ertesi günü, İsrail'in Lübnan'a yönelik yoğun bombardıman gerçekleştirdiği bildiriliyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775677750",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/what-to-know-about-israels-strikes-on-lebanon-amid-us-iran-ceasefire?traffic_source=rss"
-      }
-     ],
-     "titleTR": "ABD-İran ateşkesi sonrası İsrail'in Lübnan'a yönelik saldırıları hakkında bilinmesi gerekenler"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Ortadoğu'da artan çatışmalar",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 5
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1775500867",
-     "category": "",
-     "descriptionTR": "Alexei Smirnov, Ukrayna sınırında tahkimat inşa eden firmalardan rüşvet almak suçundan hüküm giydi.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775500867",
-     "link": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/4/6/russia-jails-former-kursk-governor-in-ukraine-incursion-linked-graft-probe?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Rusya, eski Kursk valisini Ukrayna bağlantılı yolsuzluk soruşturmasında hapse attı"
-    },
-    {
-     "atomID": "https://balkaninsight.com/?p=1111351",
-     "category": "",
-     "descriptionTR": "Ukrayna'ya patlayıcı paketler göndermeyi planladıkları iddiasıyla tutuklanan iki kişi, Bükreş'te sabotaj girişimi suçlamasıyla yargılanıyor.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1111351",
-     "link": "https://balkaninsight.com/2026/04/06/romania-indicts-two-over-alleged-russian-linked-sabotage-plot/bi/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/04/06/romania-indicts-two-over-alleged-russian-linked-sabotage-plot/bi/"
-      }
-     ],
-     "titleTR": "Romanya, Rusya bağlantılı sabotaj planı iddiasıyla iki kişiyi suçladı"
-    },
-    {
-     "atomID": "https://techcrunch.com/?p=3109630",
-     "category": "",
-     "descriptionTR": "Apple, Epic Games ile olan App Store mücadelesinde, dış ödemelerden ücret alma yeteneğini sınırlayan karara itiraz ederek Yüksek Mahkeme'den inceleme talep etmeyi planlıyor.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3109630",
-     "link": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/"
-      }
-     ],
-     "titleTR": "Apple, App Store mücadelesini tekrar Yüksek Mahkeme'ye taşıyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1775682204",
-     "category": "",
-     "descriptionTR": "Woods, Florida'da geçen hafta alkollü araç kullanma davasında suçsuz olduğunu beyan etti.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775682204",
-     "link": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/sports/2026/4/8/prosecutors-move-to-subpoena-tiger-woods-prescription-drug-records?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Savcılar, Tiger Woods'un reçeteli ilaç kayıtlarını talep ediyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1775845107",
-     "category": "",
-     "descriptionTR": "Prens Harry'nin sözcüsü, \"hakaret edici ve zarar verici\" iftira iddiasını \"kesin bir dille\" reddettiğini açıkladı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1775845107",
-     "link": "https://www.aljazeera.com/news/2026/4/10/prince-harry-sued-for-defamation-by-sentebale-charity-he-co-founded?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/4/10/prince-harry-sued-for-defamation-by-sentebale-charity-he-co-founded?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Prens Harry, kurucusu olduğu Sentebale vakfı tarafından iftira davasıyla karşı karşıya"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Gündemdeki yüksek profilli davalar",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 6
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://balkaninsight.com/?p=1111060",
-     "category": "",
-     "descriptionTR": "Kosova'nın, Sırp yönetimindeki 'paralel' eğitim ve sağlık kurumlarını kendi sistemine entegre etme planları, yerel Sırplar arasında huzursuzluk yaratıyor.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1111060",
-     "link": "https://balkaninsight.com/2026/04/06/kosovo-wants-to-integrate-serbian-run-institutions-but-serbs-are-resisting/bi/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/04/06/kosovo-wants-to-integrate-serbian-run-institutions-but-serbs-are-resisting/bi/"
-      }
-     ],
-     "titleTR": "Kosova, Sırp kurumlarını entegre etmek istiyor ama direnişle karşılaşıyor"
-    },
-    {
-     "atomID": "https://balkaninsight.com/?p=1111612",
-     "category": "",
-     "descriptionTR": "Türkiye'nin, kimlik doğrulaması olmadan sosyal medya platformlarına erişimi kısıtlamayı planlaması, anonimliği azaltacak ve sansürü daha da sıkılaştıracak.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1111612",
-     "link": "https://balkaninsight.com/2026/04/10/does-turkey-want-to-protect-children-on-social-media-or-increase-surveillance/bi/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/04/10/does-turkey-want-to-protect-children-on-social-media-or-increase-surveillance/bi/"
-      }
-     ],
-     "titleTR": "Türkiye sosyal medyada çocukları mı korumak istiyor yoksa gözetimi mi artırıyor?"
-    },
-    {
-     "atomID": "https://techcrunch.com/?p=3111315",
-     "category": "",
-     "descriptionTR": "Fransa'nın Windows'tan Linux'a geçişi, Amerikan teknoloji devlerine olan bağımlılığı azaltma çabalarının son adımı.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3111315",
-     "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"
-      }
-     ],
-     "titleTR": "Fransa, ABD teknolojisine bağımlılığı azaltmak için Windows'tan Linux'a geçiyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Ülkelerin politika değişiklikleri",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 7
-  }
- ],
- "week": "2026-W15"
+  ]
 }

@@ -1,557 +1,557 @@
 {
- "label": "15-21 HAZİRAN",
- "publishedAt": "2026-07-09T22:53:55Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W25",
+  "label": "15-21 HAZİRAN",
+  "publishedAt": "2026-07-10T18:47:14Z",
+  "slots": [
     {
-     "atomID": "https://www.bbc.com/news/articles/c1eyg37qyqjo#0",
-     "category": "",
-     "descriptionTR": "Pulmoner fibrozis rahatsızlığı bulunan Veliaht Prenses Mette-Marit, şimdi hastanede birkaç hafta boyunca iyileşme sürecinde olacak.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c1eyg37qyqjo#0",
-     "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News Europe",
-       "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Norveç veliaht prensesi başarılı akciğer nakli geçirdi, saray doğruladı"
+      "slot": 1,
+      "packetTitle": "Norveç Veliaht Prensesi Mette-Marit'in başarılı akciğer nakli",
+      "packetSpot": "Norveç Veliaht Prensesi Mette-Marit, başarılı bir akciğer nakli geçirdi ve hastanede birkaç hafta boyunca iyileşme sürecinde olacak.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-17T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/c1eyg37qyqjo#0",
+          "id": "https://www.bbc.com/news/articles/c1eyg37qyqjo#0",
+          "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Norveç veliaht prensesi başarılı akciğer nakli geçirdi, saray doğruladı",
+          "descriptionTR": "Pulmoner fibrozis rahatsızlığı bulunan Veliaht Prenses Mette-Marit, şimdi hastanede birkaç hafta boyunca iyileşme sürecinde olacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "packetTitle": "Obama Başkanlık Merkezi Chicago'da açıldı",
+      "packetSpot": "Obama Başkanlık Merkezi Chicago'da açıldı; Barack Obama'nın birlik çağrısı yaptığı etkinlikte ünlü sanatçıların eserleri sergilendi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-19T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum",
+          "id": "https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum",
+          "link": "https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum",
+          "titleTR": "Obama Başkanlık Merkezi açıldı: Sanat dolu bir kampüs ve ABD tarihine umut dolu bir bakış",
+          "descriptionTR": "Chicago'nun güney yakasında yer alan geniş kampüs, etkileyici bir müze ve Mark Bradford, Maya Lin, Richard Hunt, Martin Puryear gibi birçok sanatçının eserlerini barındırıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-19T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/obama-opens-presidential-centre-with-call-for-unity?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "İsrail-Lübnan hattında gerilim artıyor",
+      "packetSpot": "İsrail'in Lübnan'daki saldırıları ve Hizbullah ile çatışmalar yoğunlaştı; can kayıpları ve uluslararası eleştiriler gündemde.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-19T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781557018",
+          "id": "https://www.aljazeera.com/?t=1781557018",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
+          "titleTR": "Lübnan'da İsrail saldırısını haberleştiren gazeteci yaralandı",
+          "descriptionTR": "Press TV muhabiri, güney Lübnan'daki İsrail saldırılarını görüntülerken şarapnel parçalarıyla yaralandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781556398",
+          "id": "https://www.aljazeera.com/?t=1781556398",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+          "titleTR": "7 yaşındaki çocuk, Gazze'deki İsrail saldırısında ölen babası ve kardeşini anıyor",
+          "descriptionTR": "7 yaşındaki çocuk, Gazze'deki İsrail saldırısında ölen babası ve kardeşini anıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c7vyn17g832o#0",
+          "id": "https://www.bbc.com/news/articles/c7vyn17g832o#0",
+          "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Trump'ın eleştirilerine rağmen İsrail Lübnan'a yeni saldırılar düzenliyor",
+          "descriptionTR": "Salı günü konuşan Trump, İsrail Başbakanı Benjamin Netanyahu'nun Lübnan konusunda \"daha sorumlu davranması\" gerektiğini söyledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781840478",
+          "id": "https://www.aljazeera.com/?t=1781840478",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
+          "titleTR": "İsrail güney Lübnan'da Hizbullah ile ani çatışma artışında saldırılar düzenliyor",
+          "descriptionTR": "İsrail, güney Lübnan'da Hizbullah ile ani çatışma artışında saldırılar düzenliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-19T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "Dünya Kupası maçları ve performanslar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-17T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781557154",
+          "id": "https://www.aljazeera.com/?t=1781557154",
+          "link": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss",
+          "titleTR": "Mısır ve Belçika Dünya Kupası grup maçında 1-1 berabere kaldı",
+          "descriptionTR": "Emam Ashour'un ilk uluslararası golü Mısır'a üstünlük sağladı, ancak deneyimli Romelu Lukaku'nun zorladığı kendi kalesine golle Belçika eşitliği sağladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781547785",
+          "id": "https://www.aljazeera.com/?t=1781547785",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss",
+          "titleTR": "İran ve Yeni Zelanda Dünya Kupası 2026 maçı canlı yayında",
+          "descriptionTR": "Los Angeles'tan canlı ön izleme, protesto haberleri, skor, takım kadroları, fotoğraflar ve metin yorumları akışını takip edin.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/sport/football/articles/c7590ln3l06o#2",
+          "id": "https://www.bbc.com/sport/football/articles/c7590ln3l06o#2",
+          "link": "https://www.bbc.com/sport/football/articles/c7590ln3l06o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "LinkedIn'de keşfedilen Dublin doğumlu Cape Verde yıldızı Dünya Kupası şansı yakaladı",
+          "descriptionTR": "Dünya Kupası'nda oynayan en küçük ülkelerden biri olan Cape Verde, kadrosunda bankada çalışmış Dublin doğumlu bir savunmacıyla yüksek hedefler peşinde.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/sport/football/articles/c7590ln3l06o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/clyer09rd1ro#2",
+          "id": "https://www.bbc.com/news/articles/clyer09rd1ro#2",
+          "link": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss",
+          "titleTR": "'En büyük his': Cape Verde'liler İspanya ile berabere kalmanın sevincini BBC'ye anlattı",
+          "descriptionTR": "Küçük ada ülkesi İspanya ile 0-0 berabere kalınca başkent Praia'nın sokakları coşkulu kutlamalarla sarsıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781720217",
+          "id": "https://www.aljazeera.com/?t=1781720217",
+          "link": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss",
+          "titleTR": "Yoane Wissa ile tanışın: DR Kongo'nun Dünya Kupası'ndaki ilk golünü atan oyuncu",
+          "descriptionTR": "2021'de neredeyse görme yetisini kaybeden Wissa, DR Kongo'nun Dünya Kupası'na tarihi dönüşünü işaret eden kafa golünü attı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781728537",
+          "id": "https://www.aljazeera.com/?t=1781728537",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss",
+          "titleTR": "Hırvat taraftarlar Dallas'ta İngiltere maçı öncesi kovboy tarzıyla coştu",
+          "descriptionTR": "Binlerce Hırvat taraftar, İngiltere ile karşılaşma öncesi Dallas şehir merkezini kırmızı-beyaz bir denize dönüştürdü.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "Devam eden soruşturmalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-17T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/06/15/milan-transport-men-exchanged-upskirted-images-of-passengers_424f1789-9a2d-421f-9f0c-bd8b1e975d2d.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/06/15/milan-transport-men-exchanged-upskirted-images-of-passengers_424f1789-9a2d-421f-9f0c-bd8b1e975d2d.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/06/15/milan-transport-men-exchanged-upskirted-images-of-passengers_424f1789-9a2d-421f-9f0c-bd8b1e975d2d.html",
+          "titleTR": "Milano'da ulaşım çalışanlarının yolcuların uygunsuz görüntülerini paylaştığı iddiası",
+          "descriptionTR": "ATM iç soruşturma başlattı, savcıların da soruşturma açması bekleniyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/06/15/milan-transport-men-exchanged-upskirted-images-of-passengers_424f1789-9a2d-421f-9f0c-bd8b1e975d2d.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/06/15/ghost-bank-discovered-moving-100-million-a-year-in-drugs-and-goods_43ff3fab-ff13-4b28-9cd9-b35a4f56e1d8.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/06/15/ghost-bank-discovered-moving-100-million-a-year-in-drugs-and-goods_43ff3fab-ff13-4b28-9cd9-b35a4f56e1d8.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/06/15/ghost-bank-discovered-moving-100-million-a-year-in-drugs-and-goods_43ff3fab-ff13-4b28-9cd9-b35a4f56e1d8.html",
+          "titleTR": "Prato'da 'hayalet banka' keşfedildi: Yılda 100 milyon euro değerinde uyuşturucu ve mal kaçırıyor",
+          "descriptionTR": "Çinli, Arnavut ve İtalyan mafya klanları tarafından yönetildiği iddia ediliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/06/15/ghost-bank-discovered-moving-100-million-a-year-in-drugs-and-goods_43ff3fab-ff13-4b28-9cd9-b35a4f56e1d8.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/06/17/significant-evidence-found-during-search-of-home-of-sarajevo-sniper-suspect_e9aae58f-a40f-458d-93aa-9f0bc40f1aa5.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/06/17/significant-evidence-found-during-search-of-home-of-sarajevo-sniper-suspect_e9aae58f-a40f-458d-93aa-9f0bc40f1aa5.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/06/17/significant-evidence-found-during-search-of-home-of-sarajevo-sniper-suspect_e9aae58f-a40f-458d-93aa-9f0bc40f1aa5.html",
+          "titleTR": "Sarajevo keskin nişancı zanlısının evinde 'önemli' kanıtlar bulundu",
+          "descriptionTR": "Boşnakları öldürmek için seyahat ettiği iddia edilen dört kişi arasında yer alıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/06/17/significant-evidence-found-during-search-of-home-of-sarajevo-sniper-suspect_e9aae58f-a40f-458d-93aa-9f0bc40f1aa5.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "packetTitle": "Kültürel etkinlikler ve fuarlar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-19T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/politics/2026/06/15/meloni-attacks-book-fairs-request-publishers-sign-anti-fascism-declaration_5042714e-1f7f-4001-9152-7840ff806d92.html",
+          "id": "https://www.ansa.it/english/news/politics/2026/06/15/meloni-attacks-book-fairs-request-publishers-sign-anti-fascism-declaration_5042714e-1f7f-4001-9152-7840ff806d92.html",
+          "link": "https://www.ansa.it/english/news/politics/2026/06/15/meloni-attacks-book-fairs-request-publishers-sign-anti-fascism-declaration_5042714e-1f7f-4001-9152-7840ff806d92.html",
+          "titleTR": "Meloni, kitap fuarının anti-faşizm deklarasyonu talebine karşı çıktı",
+          "descriptionTR": "Başbakan, 'Bu sansür' dedi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/politics/2026/06/15/meloni-attacks-book-fairs-request-publishers-sign-anti-fascism-declaration_5042714e-1f7f-4001-9152-7840ff806d92.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/06/17/world-buffalo-congress-returns-to-italy-after-nearly-20-years_195863e4-a78a-4866-a52e-88baf6e9243b.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/06/17/world-buffalo-congress-returns-to-italy-after-nearly-20-years_195863e4-a78a-4866-a52e-88baf6e9243b.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/06/17/world-buffalo-congress-returns-to-italy-after-nearly-20-years_195863e4-a78a-4866-a52e-88baf6e9243b.html",
+          "titleTR": "World Buffalo Kongresi yaklaşık 20 yıl sonra İtalya'ya dönüyor",
+          "descriptionTR": "Etkinlik, 28-30 Ekim tarihlerinde Sorrento'da, buffalo mozzarella tedarik zincirine odaklanacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/06/17/world-buffalo-congress-returns-to-italy-after-nearly-20-years_195863e4-a78a-4866-a52e-88baf6e9243b.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/06/19/in-pictures-basel-social-club",
+          "id": "https://www.theartnewspaper.com/2026/06/19/in-pictures-basel-social-club",
+          "link": "https://www.theartnewspaper.com/2026/06/19/in-pictures-basel-social-club",
+          "titleTR": "Fotoğraflarla: Basel Social Club",
+          "descriptionTR": "Bu yıl, şehrin yeni fuarı, eski bir ofis kompleksini kullanarak iş dünyasını altüst ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-19T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/06/19/in-pictures-basel-social-club"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/06/19/artists-forge-new-paths-at-basel-social-club",
+          "id": "https://www.theartnewspaper.com/2026/06/19/artists-forge-new-paths-at-basel-social-club",
+          "link": "https://www.theartnewspaper.com/2026/06/19/artists-forge-new-paths-at-basel-social-club",
+          "titleTR": "Sanatçılar Basel Social Club'da yeni yollar açıyor",
+          "descriptionTR": "Platformun beşinci edisyonu, eski bir UBS eğitim merkezinde gerçekleşiyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-19T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/06/19/artists-forge-new-paths-at-basel-social-club"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "packetTitle": "Öne çıkan davalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-19T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781718934",
+          "id": "https://www.aljazeera.com/?t=1781718934",
+          "link": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
+          "titleTR": "Huawei CFO'su Meng Wanzhou'nun itirafları ABD'deki davada kullanılabilecek",
+          "descriptionTR": "Meng Wanzhou, 2021'de Huawei'nin İran'da yasa dışı iş yaptığını söylemişti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781727358",
+          "id": "https://www.aljazeera.com/?t=1781727358",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/gilgo-beach-killer-sentenced-to-life-without-parole?traffic_source=rss",
+          "titleTR": "Gilgo Beach seri katili ömür boyu hapis cezasına çarptırıldı",
+          "descriptionTR": "New York'ta Gilgo Beach seri katili Rex Heuermann, sekiz kadının cinayetinden dolayı ömür boyu hapis cezası aldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/gilgo-beach-killer-sentenced-to-life-without-parole?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/ce8jgr3vggno#1",
+          "id": "https://www.bbc.com/news/articles/ce8jgr3vggno#1",
+          "link": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Nijeryalı adam evinin önünde insan dışkısı bulundurmaktan hapse atıldı",
+          "descriptionTR": "Komşular, mülkten gelen kokunun dayanılmaz hale geldiğini ve evde rahatça vakit geçirmenin imkansız olduğunu söyledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/sport/football/articles/c20y18z7le1o#0",
+          "id": "https://www.bbc.com/sport/football/articles/c20y18z7le1o#0",
+          "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Fas kaptanı Hakimi tecavüz suçlamasıyla yargılanacak",
+          "descriptionTR": "Fransız savcılar, Fas kaptanı Achraf Hakimi'nin 2023 yılına dayanan tecavüz suçlamalarıyla yargılanacağını doğruladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-19T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "packetTitle": "Siyasi seçimler ve sonuçlar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-19T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781721661",
+          "id": "https://www.aljazeera.com/?t=1781721661",
+          "link": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
+          "titleTR": "Lula'dan Trump'a: Brezilya seçimlerine karışma",
+          "descriptionTR": "Lula, Trump'ın müttefiki olan sağcı aday Flavio Bolsonaro'ya karşı yeniden seçilmek için zorlu bir yarışta.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781845053",
+          "id": "https://www.aljazeera.com/?t=1781845053",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/burnham-by-election-victory-raises-stakes-for-starmer?traffic_source=rss",
+          "titleTR": "Burnham ara seçimi zaferi Starmer için baskıyı artırıyor",
+          "descriptionTR": "Andy Burnham, yakından takip edilen Makerfield ara seçimlerini kazandı; bu sonuç, İngiltere Başbakanı üzerindeki incelemeleri yoğunlaştırabilir.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-19T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/burnham-by-election-victory-raises-stakes-for-starmer?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781822622",
+          "id": "https://www.aljazeera.com/?t=1781822622",
+          "link": "https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer?traffic_source=rss",
+          "titleTR": "Andy Burnham, İngiltere'deki önemli ara seçimi kazandı, Starmer'a meydan okuma yolunu açıyor",
+          "descriptionTR": "Greater Manchester belediye başkanının Makerfield'deki zaferi, Starmer'ı başbakanlık koltuğundan indirme girişimi için yolu açıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-19T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer?traffic_source=rss"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "Norveç Veliaht Prensesi Mette-Marit, başarılı bir akciğer nakli geçirdi ve hastanede birkaç hafta boyunca iyileşme sürecinde olacak.",
-   "packetTitle": "Norveç Veliaht Prensesi Mette-Marit'in başarılı akciğer nakli",
-   "publishedAt": "2026-07-09T22:53:55Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum",
-     "category": "",
-     "descriptionTR": "Chicago'nun güney yakasında yer alan geniş kampüs, etkileyici bir müze ve Mark Bradford, Maya Lin, Richard Hunt, Martin Puryear gibi birçok sanatçının eserlerini barındırıyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum",
-     "link": "https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/obama-opens-presidential-centre-with-call-for-unity?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Obama Başkanlık Merkezi açıldı: Sanat dolu bir kampüs ve ABD tarihine umut dolu bir bakış"
-    }
-   ],
-   "packetSpot": "Obama Başkanlık Merkezi Chicago'da açıldı; Barack Obama'nın birlik çağrısı yaptığı etkinlikte ünlü sanatçıların eserleri sergilendi.",
-   "packetTitle": "Obama Başkanlık Merkezi Chicago'da açıldı",
-   "publishedAt": "2026-07-09T22:53:55Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781557018",
-     "category": "",
-     "descriptionTR": "Press TV muhabiri, güney Lübnan'daki İsrail saldırılarını görüntülerken şarapnel parçalarıyla yaralandı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781557018",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Lübnan'da İsrail saldırısını haberleştiren gazeteci yaralandı"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781556398",
-     "category": "",
-     "descriptionTR": "7 yaşındaki çocuk, Gazze'deki İsrail saldırısında ölen babası ve kardeşini anıyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781556398",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss"
-      }
-     ],
-     "titleTR": "7 yaşındaki çocuk, Gazze'deki İsrail saldırısında ölen babası ve kardeşini anıyor"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c7vyn17g832o#0",
-     "category": "",
-     "descriptionTR": "Salı günü konuşan Trump, İsrail Başbakanı Benjamin Netanyahu'nun Lübnan konusunda \"daha sorumlu davranması\" gerektiğini söyledi.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c7vyn17g832o#0",
-     "link": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Trump'ın eleştirilerine rağmen İsrail Lübnan'a yeni saldırılar düzenliyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781840478",
-     "category": "",
-     "descriptionTR": "İsrail, güney Lübnan'da Hizbullah ile ani çatışma artışında saldırılar düzenliyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781840478",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss"
-      }
-     ],
-     "titleTR": "İsrail güney Lübnan'da Hizbullah ile ani çatışma artışında saldırılar düzenliyor"
-    }
-   ],
-   "packetSpot": "İsrail'in Lübnan'daki saldırıları ve Hizbullah ile çatışmalar yoğunlaştı; can kayıpları ve uluslararası eleştiriler gündemde.",
-   "packetTitle": "İsrail-Lübnan hattında gerilim artıyor",
-   "publishedAt": "2026-07-09T22:53:55Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781557154",
-     "category": "",
-     "descriptionTR": "Emam Ashour'un ilk uluslararası golü Mısır'a üstünlük sağladı, ancak deneyimli Romelu Lukaku'nun zorladığı kendi kalesine golle Belçika eşitliği sağladı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781557154",
-     "link": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Mısır ve Belçika Dünya Kupası grup maçında 1-1 berabere kaldı"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781547785",
-     "category": "",
-     "descriptionTR": "Los Angeles'tan canlı ön izleme, protesto haberleri, skor, takım kadroları, fotoğraflar ve metin yorumları akışını takip edin.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781547785",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss"
-      }
-     ],
-     "titleTR": "İran ve Yeni Zelanda Dünya Kupası 2026 maçı canlı yayında"
-    },
-    {
-     "atomID": "https://www.bbc.com/sport/football/articles/c7590ln3l06o#2",
-     "category": "",
-     "descriptionTR": "Dünya Kupası'nda oynayan en küçük ülkelerden biri olan Cape Verde, kadrosunda bankada çalışmış Dublin doğumlu bir savunmacıyla yüksek hedefler peşinde.",
-     "group": "",
-     "id": "https://www.bbc.com/sport/football/articles/c7590ln3l06o#2",
-     "link": "https://www.bbc.com/sport/football/articles/c7590ln3l06o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News Europe",
-       "url": "https://www.bbc.com/sport/football/articles/c7590ln3l06o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "LinkedIn'de keşfedilen Dublin doğumlu Cape Verde yıldızı Dünya Kupası şansı yakaladı"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/clyer09rd1ro#2",
-     "category": "",
-     "descriptionTR": "Küçük ada ülkesi İspanya ile 0-0 berabere kalınca başkent Praia'nın sokakları coşkulu kutlamalarla sarsıldı.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/clyer09rd1ro#2",
-     "link": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/clyer09rd1ro?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "'En büyük his': Cape Verde'liler İspanya ile berabere kalmanın sevincini BBC'ye anlattı"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781720217",
-     "category": "",
-     "descriptionTR": "2021'de neredeyse görme yetisini kaybeden Wissa, DR Kongo'nun Dünya Kupası'na tarihi dönüşünü işaret eden kafa golünü attı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781720217",
-     "link": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Yoane Wissa ile tanışın: DR Kongo'nun Dünya Kupası'ndaki ilk golünü atan oyuncu"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781728537",
-     "category": "",
-     "descriptionTR": "Binlerce Hırvat taraftar, İngiltere ile karşılaşma öncesi Dallas şehir merkezini kırmızı-beyaz bir denize dönüştürdü.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781728537",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Hırvat taraftarlar Dallas'ta İngiltere maçı öncesi kovboy tarzıyla coştu"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Dünya Kupası maçları ve performanslar",
-   "publishedAt": "2026-07-09T22:53:55Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/06/15/milan-transport-men-exchanged-upskirted-images-of-passengers_424f1789-9a2d-421f-9f0c-bd8b1e975d2d.html",
-     "category": "",
-     "descriptionTR": "ATM iç soruşturma başlattı, savcıların da soruşturma açması bekleniyor.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/06/15/milan-transport-men-exchanged-upskirted-images-of-passengers_424f1789-9a2d-421f-9f0c-bd8b1e975d2d.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/06/15/milan-transport-men-exchanged-upskirted-images-of-passengers_424f1789-9a2d-421f-9f0c-bd8b1e975d2d.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/06/15/milan-transport-men-exchanged-upskirted-images-of-passengers_424f1789-9a2d-421f-9f0c-bd8b1e975d2d.html"
-      }
-     ],
-     "titleTR": "Milano'da ulaşım çalışanlarının yolcuların uygunsuz görüntülerini paylaştığı iddiası"
-    },
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/06/15/ghost-bank-discovered-moving-100-million-a-year-in-drugs-and-goods_43ff3fab-ff13-4b28-9cd9-b35a4f56e1d8.html",
-     "category": "",
-     "descriptionTR": "Çinli, Arnavut ve İtalyan mafya klanları tarafından yönetildiği iddia ediliyor.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/06/15/ghost-bank-discovered-moving-100-million-a-year-in-drugs-and-goods_43ff3fab-ff13-4b28-9cd9-b35a4f56e1d8.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/06/15/ghost-bank-discovered-moving-100-million-a-year-in-drugs-and-goods_43ff3fab-ff13-4b28-9cd9-b35a4f56e1d8.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/06/15/ghost-bank-discovered-moving-100-million-a-year-in-drugs-and-goods_43ff3fab-ff13-4b28-9cd9-b35a4f56e1d8.html"
-      }
-     ],
-     "titleTR": "Prato'da 'hayalet banka' keşfedildi: Yılda 100 milyon euro değerinde uyuşturucu ve mal kaçırıyor"
-    },
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/06/17/significant-evidence-found-during-search-of-home-of-sarajevo-sniper-suspect_e9aae58f-a40f-458d-93aa-9f0bc40f1aa5.html",
-     "category": "",
-     "descriptionTR": "Boşnakları öldürmek için seyahat ettiği iddia edilen dört kişi arasında yer alıyor.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/06/17/significant-evidence-found-during-search-of-home-of-sarajevo-sniper-suspect_e9aae58f-a40f-458d-93aa-9f0bc40f1aa5.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/06/17/significant-evidence-found-during-search-of-home-of-sarajevo-sniper-suspect_e9aae58f-a40f-458d-93aa-9f0bc40f1aa5.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/06/17/significant-evidence-found-during-search-of-home-of-sarajevo-sniper-suspect_e9aae58f-a40f-458d-93aa-9f0bc40f1aa5.html"
-      }
-     ],
-     "titleTR": "Sarajevo keskin nişancı zanlısının evinde 'önemli' kanıtlar bulundu"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Devam eden soruşturmalar",
-   "publishedAt": "2026-07-09T22:53:55Z",
-   "sessionID": "produce-week-py",
-   "slot": 5
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.ansa.it/english/news/politics/2026/06/15/meloni-attacks-book-fairs-request-publishers-sign-anti-fascism-declaration_5042714e-1f7f-4001-9152-7840ff806d92.html",
-     "category": "",
-     "descriptionTR": "Başbakan, 'Bu sansür' dedi.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/politics/2026/06/15/meloni-attacks-book-fairs-request-publishers-sign-anti-fascism-declaration_5042714e-1f7f-4001-9152-7840ff806d92.html",
-     "link": "https://www.ansa.it/english/news/politics/2026/06/15/meloni-attacks-book-fairs-request-publishers-sign-anti-fascism-declaration_5042714e-1f7f-4001-9152-7840ff806d92.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/politics/2026/06/15/meloni-attacks-book-fairs-request-publishers-sign-anti-fascism-declaration_5042714e-1f7f-4001-9152-7840ff806d92.html"
-      }
-     ],
-     "titleTR": "Meloni, kitap fuarının anti-faşizm deklarasyonu talebine karşı çıktı"
-    },
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/06/17/world-buffalo-congress-returns-to-italy-after-nearly-20-years_195863e4-a78a-4866-a52e-88baf6e9243b.html",
-     "category": "",
-     "descriptionTR": "Etkinlik, 28-30 Ekim tarihlerinde Sorrento'da, buffalo mozzarella tedarik zincirine odaklanacak.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/06/17/world-buffalo-congress-returns-to-italy-after-nearly-20-years_195863e4-a78a-4866-a52e-88baf6e9243b.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/06/17/world-buffalo-congress-returns-to-italy-after-nearly-20-years_195863e4-a78a-4866-a52e-88baf6e9243b.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/06/17/world-buffalo-congress-returns-to-italy-after-nearly-20-years_195863e4-a78a-4866-a52e-88baf6e9243b.html"
-      }
-     ],
-     "titleTR": "World Buffalo Kongresi yaklaşık 20 yıl sonra İtalya'ya dönüyor"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/06/19/in-pictures-basel-social-club",
-     "category": "",
-     "descriptionTR": "Bu yıl, şehrin yeni fuarı, eski bir ofis kompleksini kullanarak iş dünyasını altüst ediyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/06/19/in-pictures-basel-social-club",
-     "link": "https://www.theartnewspaper.com/2026/06/19/in-pictures-basel-social-club",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/06/19/in-pictures-basel-social-club"
-      }
-     ],
-     "titleTR": "Fotoğraflarla: Basel Social Club"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/06/19/artists-forge-new-paths-at-basel-social-club",
-     "category": "",
-     "descriptionTR": "Platformun beşinci edisyonu, eski bir UBS eğitim merkezinde gerçekleşiyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/06/19/artists-forge-new-paths-at-basel-social-club",
-     "link": "https://www.theartnewspaper.com/2026/06/19/artists-forge-new-paths-at-basel-social-club",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/06/19/artists-forge-new-paths-at-basel-social-club"
-      }
-     ],
-     "titleTR": "Sanatçılar Basel Social Club'da yeni yollar açıyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Kültürel etkinlikler ve fuarlar",
-   "publishedAt": "2026-07-09T22:53:55Z",
-   "sessionID": "produce-week-py",
-   "slot": 6
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781718934",
-     "category": "",
-     "descriptionTR": "Meng Wanzhou, 2021'de Huawei'nin İran'da yasa dışı iş yaptığını söylemişti.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781718934",
-     "link": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Huawei CFO'su Meng Wanzhou'nun itirafları ABD'deki davada kullanılabilecek"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781727358",
-     "category": "",
-     "descriptionTR": "New York'ta Gilgo Beach seri katili Rex Heuermann, sekiz kadının cinayetinden dolayı ömür boyu hapis cezası aldı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781727358",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/gilgo-beach-killer-sentenced-to-life-without-parole?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/gilgo-beach-killer-sentenced-to-life-without-parole?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Gilgo Beach seri katili ömür boyu hapis cezasına çarptırıldı"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/ce8jgr3vggno#1",
-     "category": "",
-     "descriptionTR": "Komşular, mülkten gelen kokunun dayanılmaz hale geldiğini ve evde rahatça vakit geçirmenin imkansız olduğunu söyledi.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/ce8jgr3vggno#1",
-     "link": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/ce8jgr3vggno?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Nijeryalı adam evinin önünde insan dışkısı bulundurmaktan hapse atıldı"
-    },
-    {
-     "atomID": "https://www.bbc.com/sport/football/articles/c20y18z7le1o#0",
-     "category": "",
-     "descriptionTR": "Fransız savcılar, Fas kaptanı Achraf Hakimi'nin 2023 yılına dayanan tecavüz suçlamalarıyla yargılanacağını doğruladı.",
-     "group": "",
-     "id": "https://www.bbc.com/sport/football/articles/c20y18z7le1o#0",
-     "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News Europe",
-       "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Fas kaptanı Hakimi tecavüz suçlamasıyla yargılanacak"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Öne çıkan davalar",
-   "publishedAt": "2026-07-09T22:53:55Z",
-   "sessionID": "produce-week-py",
-   "slot": 7
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781721661",
-     "category": "",
-     "descriptionTR": "Lula, Trump'ın müttefiki olan sağcı aday Flavio Bolsonaro'ya karşı yeniden seçilmek için zorlu bir yarışta.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781721661",
-     "link": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Lula'dan Trump'a: Brezilya seçimlerine karışma"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781845053",
-     "category": "",
-     "descriptionTR": "Andy Burnham, yakından takip edilen Makerfield ara seçimlerini kazandı; bu sonuç, İngiltere Başbakanı üzerindeki incelemeleri yoğunlaştırabilir.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781845053",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/burnham-by-election-victory-raises-stakes-for-starmer?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/burnham-by-election-victory-raises-stakes-for-starmer?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Burnham ara seçimi zaferi Starmer için baskıyı artırıyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781822622",
-     "category": "",
-     "descriptionTR": "Greater Manchester belediye başkanının Makerfield'deki zaferi, Starmer'ı başbakanlık koltuğundan indirme girişimi için yolu açıyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781822622",
-     "link": "https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:55Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/6/19/andy-burnham-wins-crucial-uk-by-election-in-blow-to-keir-starmer?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Andy Burnham, İngiltere'deki önemli ara seçimi kazandı, Starmer'a meydan okuma yolunu açıyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Siyasi seçimler ve sonuçlar",
-   "publishedAt": "2026-07-09T22:53:55Z",
-   "sessionID": "produce-week-py",
-   "slot": 8
-  }
- ],
- "week": "2026-W25"
+  ]
 }

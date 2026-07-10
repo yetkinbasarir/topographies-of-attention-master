@@ -1,1173 +1,1173 @@
 {
- "label": "26 OCAK - 1 ŞUBAT",
- "publishedAt": "2026-07-09T22:53:59Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W05",
+  "label": "26 OCAK - 1 ŞUBAT",
+  "publishedAt": "2026-07-10T18:47:11Z",
+  "slots": [
     {
-     "atomID": "96ebb122-fc97-11f0-98ab-efa5ccc3ce7d",
-     "category": "",
-     "descriptionTR": "ABD Göçmenlik ve Gümrük Muhafaza biriminin Milano-Cortina Kış Olimpiyatları için İtalya'ya konuşlandırılacağı ancak devriye yapmayacağı, sadece danışmanlık rolü üstleneceği Washington Büyükelçisi tarafından Çarşamba günü açıklandı. ICE'nin ABD'deki sert göçmenlik uygulamaları nedeniyle bu konuşlandırma İtalyanları kızdırdı.",
-     "group": "",
-     "id": "96ebb122-fc97-11f0-98ab-efa5ccc3ce7d",
-     "link": "https://www.france24.com/en/europe/20260128-ice-winter-olympics-italy-advisory-us-ambassador",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/europe/20260128-ice-winter-olympics-italy-advisory-us-ambassador"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/politics/2026/01/26/ice-will-only-handle-vance-rubios-security-at-milano-cortina-governor_ddf9d6ab-7f82-4f15-ae25-5d035c7411d4.html"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/politics/2026/01/26/ice-not-set-to-operate-at-milano-cortina-2026-police-sources_973ef20b-2be7-444c-b2bf-3a6d51a34148.html"
-      }
-     ],
-     "titleTR": "ABD, ICE'nin İtalya Kış Olimpiyatları'nda sadece danışmanlık yapacağını açıkladı"
-    }
-   ],
-   "packetSpot": "ICE'nin Milano-Cortina 2026 Kış Olimpiyatları'nda sadece güvenlik danışmanlığı yapacağı, İtalyan ve ABD yetkilileri tarafından doğrulandı.",
-   "packetTitle": "Milano-Cortina 2026 Kış Olimpiyatları'nda ICE'nin danışmanlık rolü",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
-    {
-     "atomID": "b71950cc-fafc-11f0-8aa4-834672c9f2da",
-     "category": "",
-     "descriptionTR": "Avrupa Birliği ülkeleri, Pazartesi günü Rus gazı ithalatını 2027 sonuna kadar yasaklama planına nihai onayı vererek yasalaşmasını sağladı. Bu politika, AB'nin eski en büyük gaz tedarikçisiyle bağlarını koparma taahhüdünü yasal olarak bağlayıcı hale getiriyor. FRANCE 24'ten Emerald Maxwell bildiriyor.",
-     "group": "",
-     "id": "b71950cc-fafc-11f0-8aa4-834672c9f2da",
-     "link": "https://www.france24.com/en/eu-countries-final-approval-to-russian-gas-ban-four-years-after-full-scale-invasion-of-ukraine",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/eu-countries-final-approval-to-russian-gas-ban-four-years-after-full-scale-invasion-of-ukraine"
-      }
-     ],
-     "titleTR": "AB ülkeleri, Ukrayna'nın tam ölçekli işgalinden dört yıl sonra Rus gazı yasağını onayladı"
+      "slot": 1,
+      "packetTitle": "Milano-Cortina 2026 Kış Olimpiyatları'nda ICE'nin danışmanlık rolü",
+      "packetSpot": "ICE'nin Milano-Cortina 2026 Kış Olimpiyatları'nda sadece güvenlik danışmanlığı yapacağı, İtalyan ve ABD yetkilileri tarafından doğrulandı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "96ebb122-fc97-11f0-98ab-efa5ccc3ce7d",
+          "id": "96ebb122-fc97-11f0-98ab-efa5ccc3ce7d",
+          "link": "https://www.france24.com/en/europe/20260128-ice-winter-olympics-italy-advisory-us-ambassador",
+          "titleTR": "ABD, ICE'nin İtalya Kış Olimpiyatları'nda sadece danışmanlık yapacağını açıkladı",
+          "descriptionTR": "ABD Göçmenlik ve Gümrük Muhafaza biriminin Milano-Cortina Kış Olimpiyatları için İtalya'ya konuşlandırılacağı ancak devriye yapmayacağı, sadece danışmanlık rolü üstleneceği Washington Büyükelçisi tarafından Çarşamba günü açıklandı. ICE'nin ABD'deki sert göçmenlik uygulamaları nedeniyle bu konuşlandırma İtalyanları kızdırdı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/europe/20260128-ice-winter-olympics-italy-advisory-us-ambassador"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/politics/2026/01/26/ice-will-only-handle-vance-rubios-security-at-milano-cortina-governor_ddf9d6ab-7f82-4f15-ae25-5d035c7411d4.html"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/politics/2026/01/26/ice-not-set-to-operate-at-milano-cortina-2026-police-sources_973ef20b-2be7-444c-b2bf-3a6d51a34148.html"
+            }
+          ]
+        }
+      ]
     },
     {
-     "atomID": "https://www.politico.eu/?post_type=pro&p=7827873",
-     "category": "",
-     "descriptionTR": "AB'nin Rus fosil yakıtlarına yönelik tarihi yasağı, ilk büyük sınavına doğru ilerliyor.",
-     "group": "",
-     "id": "https://www.politico.eu/?post_type=pro&p=7827873",
-     "link": "https://www.politico.eu/article/hungary-slovakia-vow-to-sue-eu-over-russian-gas-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "POLITICO Europe",
-       "url": "https://www.politico.eu/article/hungary-slovakia-vow-to-sue-eu-over-russian-gas-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      }
-     ],
-     "titleTR": "Macaristan ve Slovakya, Rus gazı yasağı nedeniyle AB'yi dava etmeye hazırlanıyor"
-    }
-   ],
-   "packetSpot": "AB, Rus gazı ithalatını 2027'ye kadar yasaklama planını tamamladı; Macaristan ve Slovakya'dan hukuki itirazlarla karşılaşıyor.",
-   "packetTitle": "AB'nin Rus gazı yasağına Macaristan ve Slovakya'dan hukuki itirazlar",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "668d94b0-fad9-11f0-85d1-21e0a128d3c4",
-     "category": "",
-     "descriptionTR": "Fransa Cumhurbaşkanı Emmanuel Macron, 15 yaş altındaki çocuklar için sosyal medya kullanımını yasaklayan yasayı hızlandırma planlarını açıkladı ve eylül ayına kadar yürürlüğe girmesini hedefliyor. Bu adım, Avustralya'nın Instagram, TikTok ve YouTube gibi popüler platformları 16 yaş altına yasaklamasının ardından geldi. Macron ayrıca okullarda cep telefonu yasağını da destekliyor ve taslak yasa Fransa parlamentosuna sunulacak. FRANCE 24'ten Angela Diffley detayları aktarıyor.",
-     "group": "",
-     "id": "668d94b0-fad9-11f0-85d1-21e0a128d3c4",
-     "link": "https://www.france24.com/en/france-s-macron-vows-to-speed-up-social-media-ban-for-under-15s",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/france-s-macron-vows-to-speed-up-social-media-ban-for-under-15s"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News Europe",
-       "url": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Fransa Cumhurbaşkanı Macron, 15 yaş altına sosyal medya yasağını hızlandırma sözü verdi"
-    }
-   ],
-   "packetSpot": "Fransa, 15 yaş altındaki çocuklar için sosyal medya kullanımını yasaklamaya yönelik yasayı hızla uygulamaya koymayı planlıyor. Cumhurbaşkanı Macron ve Başbakan Lecornu bu değişikliği destekliyor.",
-   "packetTitle": "Fransa'da 15 yaş altına sosyal medya yasağı için hızlı adımlar",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "f1ded16a-fc95-11f0-9b70-b3a5c053dced",
-     "category": "",
-     "descriptionTR": "FRANCE 24'ten Sharon Gaffney ile konuşan Toronto Üniversitesi'nden Çin Siyaseti Profesörü Lynette Ong, Merkezi Askeri Komisyon Başkan Yardımcısı General Zhang Youxia'nın görevden alınmasının Xi Jinping'in uzun bir tasfiye serisinin son halkası olduğunu ve bu durumun Başkan Xi'nin yargısını sorgulattığını belirtiyor. Zhang Youxia'nın disiplin ve yasaları ciddi şekilde ihlal ettiği şüphesiyle soruşturma altında olduğu bildiriliyor.",
-     "group": "",
-     "id": "f1ded16a-fc95-11f0-9b70-b3a5c053dced",
-     "link": "https://www.france24.com/en/tv-shows/a-propos/20260128-xi-jinping-s-repeated-purges-cast-doubt-on-his-judgment-observer-says",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/tv-shows/a-propos/20260128-xi-jinping-s-repeated-purges-cast-doubt-on-his-judgment-observer-says"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Sky News World",
-       "url": "https://news.sky.com/story/xis-purge-of-top-general-paints-a-fascinating-picture-of-power-and-control-within-a-ruthless-and-unforgiving-system-13499060"
-      }
-     ],
-     "titleTR": "Xi Jinping'in tekrarlayan tasfiyeleri liderlik yargısını sorgulatıyor"
-    }
-   ],
-   "packetSpot": "Üst düzey askeri yetkili General Zhang Youxia'nın ciddi ihlaller nedeniyle soruşturma altında olması, Xi Jinping'in bir başka önemli tasfiyesini işaret ediyor. Bu gelişme, Xi'nin liderlik kararlarını mercek altına alıyor.",
-   "packetTitle": "Xi Jinping'in General Zhang Youxia tasfiyesi liderlik tartışmalarını alevlendiriyor",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.scmp.com/news/world/europe/article/3341310/eu-lawmakers-divided-over-resuming-work-us-trade-deal-after-greenland-crisis?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "Avrupa Parlamentosu, ABD Başkanı Donald Trump'ın Grönland'ı satın alma talepleri ve tarif tehditleri nedeniyle askıya aldığı ABD ile ticaret anlaşmasını yeniden ele alıp almama kararını gelecek haftaya erteledi. Parlamento ticaret komitesinin, Pazartesi ve Salı günleri yapılacak oylamalarda tutumunu belirlemesi bekleniyordu ve meclis başkanı Roberta Metsola, süreci yeniden rayına oturtmak için görüşmelerin yakında başlayabileceğini söyledi. Ancak Alman...",
-     "group": "",
-     "id": "https://www.scmp.com/news/world/europe/article/3341310/eu-lawmakers-divided-over-resuming-work-us-trade-deal-after-greenland-crisis?utm_source=rss_feed",
-     "link": "https://www.scmp.com/news/world/europe/article/3341310/eu-lawmakers-divided-over-resuming-work-us-trade-deal-after-greenland-crisis?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/news/world/europe/article/3341310/eu-lawmakers-divided-over-resuming-work-us-trade-deal-after-greenland-crisis?utm_source=rss_feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "POLITICO Europe",
-       "url": "https://www.politico.eu/article/eu-parliament-us-trade-deal-approval-us-donald-trump-proof-safeguards/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      }
-     ],
-     "titleTR": "AB milletvekilleri, Grönland krizi sonrası ABD ticaret anlaşmasını yeniden ele almayı tartışıyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "AB Parlamentosu, ABD ticaret anlaşmasını yeniden gündeme almayı tartışıyor",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 5
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/01/30/uk-museum-directors-join-prime-minister-cultural-mission-china",
-     "category": "",
-     "descriptionTR": "Ziyaret, ilişkileri güçlendirme amacı taşıyor; hükümet, başbakanın Çin ile anlaşmazlık yaşanan konuları da gündeme getireceğini belirtti.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/01/30/uk-museum-directors-join-prime-minister-cultural-mission-china",
-     "link": "https://www.theartnewspaper.com/2026/01/30/uk-museum-directors-join-prime-minister-cultural-mission-china",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/01/30/uk-museum-directors-join-prime-minister-cultural-mission-china"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Straits Times World",
-       "url": "https://www.straitstimes.com/world/europe/uk-pm-starmer-heading-to-china-aiming-to-reset-ties"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/1/30/what-do-china-and-the-uk-want-from-each-other?traffic_source=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "POLITICO Europe",
-       "url": "https://www.politico.eu/article/5-things-we-learned-following-keir-starmer-around-china-all-week/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      }
-     ],
-     "titleTR": "İngiliz müze yöneticileri başbakanla Çin'e kültürel misyon için gidiyor"
-    }
-   ],
-   "packetSpot": "İngiltere Başbakanı Keir Starmer'ın Çin ziyareti, Pekin ile yeniden angajman çabası olarak öne çıkıyor; ticaret, yatırım ve kültürel bağlara odaklanılıyor.",
-   "packetTitle": "İngiltere Başbakanı Keir Starmer'ın Çin ziyareti: Yeniden angajman çabası",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 6
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.straitstimes.com/world/europe/storm-kristin-kills-at-least-three-in-portugal-barrels-into-spain",
-     "category": "",
-     "descriptionTR": "LIZBON/MADRİD, 28 Ocak - Fırtına Kristin, Çarşamba günü Portekiz'in orta ve kuzey kesimlerinde en az üç kişinin ölümüne ve 800.000'den fazla kişinin elektriksiz kalmasına neden oldu. Ağaçları devirdi, evlere zarar verdi ve kara ile demiryolu trafiğini aksattıktan sonra İspanya'ya doğru ilerledi.",
-     "group": "",
-     "id": "https://www.straitstimes.com/world/europe/storm-kristin-kills-at-least-three-in-portugal-barrels-into-spain",
-     "link": "https://www.straitstimes.com/world/europe/storm-kristin-kills-at-least-three-in-portugal-barrels-into-spain",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Straits Times World",
-       "url": "https://www.straitstimes.com/world/europe/storm-kristin-kills-at-least-three-in-portugal-barrels-into-spain"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News Europe",
-       "url": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Fırtına Kristin Portekiz'de en az üç can aldı, İspanya'ya ilerliyor"
-    }
-   ],
-   "packetSpot": "Fırtına Kristin, Portekiz'de birçok can kaybına ve geniş çaplı elektrik kesintilerine neden oldu, 800.000'den fazla kişi etkilendi.",
-   "packetTitle": "Fırtına Kristin Portekiz'de can kayıplarına ve elektrik kesintilerine yol açtı",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 7
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.scmp.com/news/world/americas/article/3341603/plane-crash-colombia-kills-15-including-politician?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "Kuzeydoğu Kolombiya'da Çarşamba günü meydana gelen uçak kazasında, aralarında bir yerel milletvekilinin de bulunduğu 15 kişi hayatını kaybetti. Devlet hava yolu şirketi Satena'ya ait Beechcraft 1900 çift motorlu turboprop uçak, Venezuela sınırındaki Cucuta'dan Ocana kasabasına kısa bir uçuş için kalkış yaptı. Satena, uçuşun 12. dakikasında hava trafik kontrolünün uçakla iletişimi kaybettiğini bildirdi. Kazanın nedeni belirtilmedi ve uçağın acil durum sinyalinin etkinleştirilmediği aktarıldı.",
-     "group": "",
-     "id": "https://www.scmp.com/news/world/americas/article/3341603/plane-crash-colombia-kills-15-including-politician?utm_source=rss_feed",
-     "link": "https://www.scmp.com/news/world/americas/article/3341603/plane-crash-colombia-kills-15-including-politician?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/news/world/americas/article/3341603/plane-crash-colombia-kills-15-including-politician?utm_source=rss_feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/1/28/colombian-lawmaker-among-15-missing-in-plane-disappearance?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Kolombiya'da uçak kazası: 15 ölü, aralarında bir politikacı da var"
-    }
-   ],
-   "packetSpot": "Kuzeydoğu Kolombiya'da meydana gelen uçak kazasında, aralarında yerel bir milletvekilinin de bulunduğu 15 kişi hayatını kaybetti. Kazaya, devlet hava yolu şirketi Satena tarafından işletilen Beechcraft 1900 tipi uçak karıştı.",
-   "packetTitle": "Kolombiya'daki uçak kazasında 15 kişi hayatını kaybetti, aralarında bir milletvekili de var",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 8
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "ABD Merkez Bankası, yılın ilk politika toplantısında faiz oranlarını çarşamba günü sabit tuttu. Merkez bankası, ABD Başkanı Donald Trump'ın artan faiz indirimi baskılarına direnirken, güçlü ekonomik büyümeyi gerekçe gösterdi. Fed'in 10'a 2 oyla aldığı karar, oranları yüzde 3.50 ile 3.75 arasında tutuyor ve yetkililer dünyanın en büyük ekonomisi hakkında daha fazla veri beklerken bu sonuç geniş çapta bekleniyordu. Karar açıklamasında, politika yapıcılar ekonomik faaliyetin \"genişlediğini\" belirtti.",
-     "group": "",
-     "id": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/tv-shows/business/20260128-fed-defies-trump-to-hold-interest-rates-steady"
-      }
-     ],
-     "titleTR": "ABD Merkez Bankası, Trump'ın baskısına rağmen faiz oranlarını sabit tuttu"
-    }
-   ],
-   "packetSpot": "ABD Merkez Bankası, Başkan Donald Trump'ın faiz indirimi baskılarına rağmen faiz oranlarını sabit tutma kararı aldı. Bu karar, siyasi gerilimler arasında Fed'in bağımsız politika yapma taahhüdünü vurguluyor.",
-   "packetTitle": "ABD Merkez Bankası, Trump'ın baskısına rağmen faiz oranlarını sabit tuttu",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 9
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.abc.net.au/news/2026-01-30/tennis-alcaraz-zverev-australian-open-semifinal-analysis/106289980",
-     "category": "",
-     "descriptionTR": "Grand slam turnuvalarının son aşamalarında farklar çok ince olabilir. Carlos Alcaraz ve Alexander Zverev, bu gerçeği unutulmaz bir klasikle bizzat deneyimledi.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-01-30/tennis-alcaraz-zverev-australian-open-semifinal-analysis/106289980",
-     "link": "https://www.abc.net.au/news/2026-01-30/tennis-alcaraz-zverev-australian-open-semifinal-analysis/106289980",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-01-30/tennis-alcaraz-zverev-australian-open-semifinal-analysis/106289980"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Japan Times",
-       "url": "https://www.japantimes.co.jp/sports/2026/01/30/tennis/alcaraz-wins-epic-semifinals/"
-      }
-     ],
-     "titleTR": "Alcaraz, Avustralya Açık'ta ince farklarla zafere ulaştı"
-    }
-   ],
-   "packetSpot": "Carlos Alcaraz, Alexander Zverev'i zorlu bir Avustralya Açık yarı final maçında mağlup ederek dayanıklılık ve becerisini beş set boyunca sergiledi.",
-   "packetTitle": "Carlos Alcaraz ve Alexander Zverev'in Avustralya Açık yarı finalindeki epik mücadelesi",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 10
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://news.sky.com/story/what-do-we-know-about-the-number-of-people-killed-in-iran-protests-13501129",
-     "category": "",
-     "descriptionTR": "İran'daki ölümcül protestolarda binlerce kişinin öldüğü bildiriliyor, ancak ölümler hala doğrulanıyor ve çelişkili raporlar mevcut. İşte bildiklerimiz.",
-     "group": "",
-     "id": "https://news.sky.com/story/what-do-we-know-about-the-number-of-people-killed-in-iran-protests-13501129",
-     "link": "https://news.sky.com/story/what-do-we-know-about-the-number-of-people-killed-in-iran-protests-13501129",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Sky News World",
-       "url": "https://news.sky.com/story/what-do-we-know-about-the-number-of-people-killed-in-iran-protests-13501129"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Sky News World",
-       "url": "https://news.sky.com/story/the-doctors-who-want-you-to-know-what-happened-inside-iran-13500411"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "İran protestolarında kaç kişinin öldüğüne dair bildiklerimiz"
+      "slot": 2,
+      "packetTitle": "AB'nin Rus gazı yasağına Macaristan ve Slovakya'dan hukuki itirazlar",
+      "packetSpot": "AB, Rus gazı ithalatını 2027'ye kadar yasaklama planını tamamladı; Macaristan ve Slovakya'dan hukuki itirazlarla karşılaşıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "b71950cc-fafc-11f0-8aa4-834672c9f2da",
+          "id": "b71950cc-fafc-11f0-8aa4-834672c9f2da",
+          "link": "https://www.france24.com/en/eu-countries-final-approval-to-russian-gas-ban-four-years-after-full-scale-invasion-of-ukraine",
+          "titleTR": "AB ülkeleri, Ukrayna'nın tam ölçekli işgalinden dört yıl sonra Rus gazı yasağını onayladı",
+          "descriptionTR": "Avrupa Birliği ülkeleri, Pazartesi günü Rus gazı ithalatını 2027 sonuna kadar yasaklama planına nihai onayı vererek yasalaşmasını sağladı. Bu politika, AB'nin eski en büyük gaz tedarikçisiyle bağlarını koparma taahhüdünü yasal olarak bağlayıcı hale getiriyor. FRANCE 24'ten Emerald Maxwell bildiriyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/eu-countries-final-approval-to-russian-gas-ban-four-years-after-full-scale-invasion-of-ukraine"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.politico.eu/?post_type=pro&p=7827873",
+          "id": "https://www.politico.eu/?post_type=pro&p=7827873",
+          "link": "https://www.politico.eu/article/hungary-slovakia-vow-to-sue-eu-over-russian-gas-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "titleTR": "Macaristan ve Slovakya, Rus gazı yasağı nedeniyle AB'yi dava etmeye hazırlanıyor",
+          "descriptionTR": "AB'nin Rus fosil yakıtlarına yönelik tarihi yasağı, ilk büyük sınavına doğru ilerliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/hungary-slovakia-vow-to-sue-eu-over-russian-gas-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ]
     },
     {
-     "atomID": "tag:theatlantic.com,2026:50-685746",
-     "category": "",
-     "descriptionTR": "9 Ocak'ta, rejim karşıtı protestolar İran'ı sardı ve Başkan Trump, kuzeydoğudaki Mashhad kentinin muhalefetin eline geçtiğini ilan etti. 26 Aralık'tan 14 Ocak'a kadar Mashhad'daydım. O haftalarda tanık olduklarım, Amerikan başkanının açıklamalarından ve devlet propagandası ya da muhalefet medyasının anlatılarından çok daha karmaşıktı. Mashhad, İran'ın ikinci büyük şehri ve İslam Cumhuriyeti'nin manevi başkenti. Protestolar, Aralık ortasında ekonomik sıkıntıların ifadesi olarak Mashhad'da başladı. Hükümetin reformları, temel ihtiyaç maddelerinin fiyatlarının aniden artmasına neden oldu. 8 Ocak akşamı, Reza Pahlavi ülke genelinde protesto çağrısı yaptı ve ABD'li yetkililerden kışkırtıcı mesajlar geldi. İnternet erişimi ve tüm iletişim hizmetleri kesildi. Mashhad'daki protestoların boyutu ve şiddeti arttı. Trump, Mashhad'da bir milyondan fazla kişinin protesto ettiğini iddia etti, ancak bu sayı abartılı görünüyor. 10 Ocak'ta şehir sakinleşti, ancak güvenlik güçleri daha görünür ve silahlıydı. Devlet medyası, şehirlerde düzenin sağlandığını iddia etti. Ancak muhalefet medyası, İran'ın tam ölçekli bir devrim içinde olduğunu bildirdi. Mashhad'daki olaylar, İran'ın geleceğine dair dört senaryo arasında küresel spekülasyonlara yol açtı.",
-     "group": "",
-     "id": "tag:theatlantic.com,2026:50-685746",
-     "link": "https://www.theatlantic.com/international/2026/01/what-i-saw-mashhad-iran/685746/?utm_source=feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Atlantic",
-       "url": "https://www.theatlantic.com/international/2026/01/what-i-saw-mashhad-iran/685746/?utm_source=feed"
-      }
-     ],
-     "titleTR": "Mashhad'da gördüklerim"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Mashhad'daki protestolar ve İran'ın sert müdahalesi",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 11
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.straitstimes.com/world/united-states/former-cnn-anchor-don-lemon-arrested-over-minnesota-church-protest",
-     "category": "",
-     "descriptionTR": "Minnesota'daki bir kilisede gerçekleşen protesto sırasında federal yasayı ihlal ettiği iddiasıyla tutuklandı.",
-     "group": "",
-     "id": "https://www.straitstimes.com/world/united-states/former-cnn-anchor-don-lemon-arrested-over-minnesota-church-protest",
-     "link": "https://www.straitstimes.com/world/united-states/former-cnn-anchor-don-lemon-arrested-over-minnesota-church-protest",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Straits Times World",
-       "url": "https://www.straitstimes.com/world/united-states/former-cnn-anchor-don-lemon-arrested-over-minnesota-church-protest"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Independent World",
-       "url": "https://www.independent.co.uk/news/world/americas/us-politics/don-lemon-arrested-minnesota-protest-b2910933.html"
-      }
-     ],
-     "titleTR": "Eski CNN sunucusu Don Lemon, Minnesota'daki kilise protestosunda tutuklandı"
-    }
-   ],
-   "packetSpot": "Don Lemon, eski CNN sunucusu, Minnesota'daki bir kilise protestosunda federal yasayı ihlal ettiği iddiasıyla tutuklandı. Kaynaklar, orada gazetecilik amacıyla bulunduğunu aktarıyor.",
-   "packetTitle": "Don Lemon'ın Minnesota'daki kilise protestosunda tutuklanması",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 12
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.scmp.com/news/china/diplomacy/article/3341315/xi-meet-uruguays-orsi-first-latin-america-china-visit-us-capture-maduro?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "Uruguay Devlet Başkanı Yamandú Orsi, önümüzdeki hafta Çin'e gidiyor. Bu ziyaretin, Ocak ayı başlarında ABD'nin Venezuela Devlet Başkanı Nicolas Maduro'yu yakalamasından bu yana bir Latin Amerika liderinin Pekin'e yapacağı ilk ziyaret olması bekleniyor. Pekin, ziyaretin siyasi diyaloğu güçlendirmeye ve ekonomik işbirliğini genişletmeye odaklanacağını belirtiyor. Çin Dışişleri Bakanlığı'na göre, devlet ziyareti 1-7 Şubat tarihleri arasında gerçekleşecek ve Batı yarımküredeki gergin bir döneme denk geliyor.",
-     "group": "",
-     "id": "https://www.scmp.com/news/china/diplomacy/article/3341315/xi-meet-uruguays-orsi-first-latin-america-china-visit-us-capture-maduro?utm_source=rss_feed",
-     "link": "https://www.scmp.com/news/china/diplomacy/article/3341315/xi-meet-uruguays-orsi-first-latin-america-china-visit-us-capture-maduro?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/news/china/diplomacy/article/3341315/xi-meet-uruguays-orsi-first-latin-america-china-visit-us-capture-maduro?utm_source=rss_feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "MercoPress",
-       "url": "https://en.mercopress.com/2026/01/30/uruguay-s-orsi-heads-to-china-with-large-delegation-to-deepen-trade-and-strategic-ties?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-      }
-     ],
-     "titleTR": "Xi, Uruguaylı Orsi ile ABD'nin Maduro'yu yakalamasından sonra ilk kez buluşacak"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Uruguay Devlet Başkanı Orsi'nin Çin ziyareti: Ticaret ve siyasi ilişkiler güçlenecek",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 13
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.japantimes.co.jp/article/636770/",
-     "category": "",
-     "descriptionTR": "Maliyet azaltımı, iş süreçlerinin sadeleştirilmesi, yatırımın azaltılması ve varlık satışları yoluyla sağlanacak.",
-     "group": "",
-     "id": "https://www.japantimes.co.jp/article/636770/",
-     "link": "https://www.japantimes.co.jp/business/2026/01/26/companies/tepco-new-biz-plan/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Japan Times",
-       "url": "https://www.japantimes.co.jp/business/2026/01/26/companies/tepco-new-biz-plan/"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Nikkei Asia",
-       "url": "https://asia.nikkei.com/business/energy/tepco-puts-capital-tie-ups-at-center-of-updated-turnaround-plan"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Nikkei Asia",
-       "url": "https://asia.nikkei.com/editor-s-picks/interview/fukushima-operator-tepco-open-to-ties-with-telecoms-manufacturers-president"
-      }
-     ],
-     "titleTR": "Tepco, yeni iş planı kapsamında 10 yılda 3,1 trilyon yen maliyet azaltmayı hedefliyor"
-    }
-   ],
-   "packetSpot": "TEPCO'nun yeni iş stratejisi, sermaye ortaklıklarını içeriyor ve önümüzdeki on yıl içinde maliyetleri 3,1 trilyon yen azaltmayı hedefliyor.",
-   "packetTitle": "TEPCO'nun yeni stratejisi: sermaye ortaklıkları ve maliyet azaltma",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 14
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.japantimes.co.jp/article/636969/",
-     "category": "",
-     "descriptionTR": "Toplam sayı, bir önceki yıla göre %11.7 artış gösterdi ve hızla yaşlanan ülkede ciddi iş gücü sıkıntısının yaşandığı bir döneme denk geliyor.",
-     "group": "",
-     "id": "https://www.japantimes.co.jp/article/636969/",
-     "link": "https://www.japantimes.co.jp/news/2026/01/30/japan/foreign-workers-record-high/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/01/30/japan/foreign-workers-record-high/"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Nikkei Asia",
-       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-s-foreign-workforce-tops-2.5m-for-first-time"
-      }
-     ],
-     "titleTR": "Japonya'daki yabancı işçi sayısı 2025'te 2.57 milyona ulaştı"
-    }
-   ],
-   "packetSpot": "Japonya'daki yabancı işçi sayısı, geçen yıla göre %11.7 artışla rekor seviyeye ulaşarak 2.57 milyona çıktı. Bu artış, ülkenin ciddi iş gücü sıkıntısıyla karşı karşıya olduğu bir dönemde gerçekleşiyor.",
-   "packetTitle": "Japonya'da yabancı işçi sayısı 2.5 milyonu aştı",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 15
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.politico.eu/?post_type=article&p=7845057",
-     "category": "",
-     "descriptionTR": "İslam Devrim Muhafızları Ordusu, binlerce ölümden sorumlu tutuluyor ve AB ülkeleri grubu terör listesine eklemeye yakın.",
-     "group": "",
-     "id": "https://www.politico.eu/?post_type=article&p=7845057",
-     "link": "https://www.politico.eu/article/eu-move-blacklist-iran-islamic-revolutionary-guard-corps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "POLITICO Europe",
-       "url": "https://www.politico.eu/article/eu-move-blacklist-iran-islamic-revolutionary-guard-corps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News Europe",
-       "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "AB, İran'ın uygulayıcı ordusunu kara listeye almayı planlıyor"
-    }
-   ],
-   "packetSpot": "AB, ölümcül baskılardaki rolleri nedeniyle İran Devrim Muhafızları'nı terör örgütü olarak listelemeye doğru ilerliyor.",
-   "packetTitle": "AB, İran Devrim Muhafızları'nı terör listesine almayı düşünüyor",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 16
-  },
-  {
-   "items": [
-    {
-     "atomID": "d6a017e4-fe23-11f0-bd26-1decb4a05f55",
-     "category": "",
-     "descriptionTR": "Bu akşamki yayında: IŞİD, Nijer'in başkentindeki havalimanına düzenlenen ölümcül saldırının sorumluluğunu üstlendi. Askeri yönetim, saldırganları desteklemekle Benin, Fransa ve Fildişi Sahili'ni suçluyor. Ayrıca, Etiyopya'da Tigray bölgesinde yenilenen çatışma korkuları var. Bu hafta yaşanan çatışmalar, kırılgan barış anlaşmasının geleceği hakkında soru işaretleri doğuruyor. Ve üst üste ikinci yıl, En İyi Afrika Müzik Performansı Grammy Ödülü için birçok Nijeryalı sanatçı yarışıyor. Lagos'ta, farklı müzik türlerinden Fransız sanatçılar ve Nijeryalı Afrobeats yetenekleri bir araya geldi.",
-     "group": "",
-     "id": "d6a017e4-fe23-11f0-bd26-1decb4a05f55",
-     "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260130-islamic-state-group-claims-responsibilty-for-a-deadly-attack-on-niger-s-airport-in-the-capital",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260130-islamic-state-group-claims-responsibilty-for-a-deadly-attack-on-niger-s-airport-in-the-capital"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Straits Times World",
-       "url": "https://www.straitstimes.com/world/islamic-state-claims-deadly-attack-on-airport-in-niger-capital"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/1/30/isil-claims-deadly-attack-on-air-base-near-niger?traffic_source=rss"
-      }
-     ],
-     "titleTR": "IŞİD, Nijer'in başkentindeki havalimanı saldırısını üstlendi"
-    }
-   ],
-   "packetSpot": "IŞİD, Niamey Havalimanı'na düzenlenen ölümcül saldırının sorumluluğunu üstlendi. Nijer'in askeri lideri, Fransa, Benin ve Fildişi Sahili'ni saldırıya karışmakla suçladı.",
-   "packetTitle": "Niamey Havalimanı'na saldırı: IŞİD üstlendi, Nijer'den yabancı ülkelere suçlama",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 17
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.straitstimes.com/world/europe/balkans-truck-protests-against-eu-rules-risk-fuel-shortages",
-     "category": "",
-     "descriptionTR": "BELGRAD/SARAYBOSNA, 28 Ocak - Batı Balkanlar'daki kamyon şoförlerinin bu hafta AB ülkeleriyle olan sınırdaki kargo terminallerini bloke etmesi, kısıtlayıcı AB giriş kurallarına karşı protesto olarak yakıt sıkıntısı ve iş kayıpları riskini beraberinde getiriyor.",
-     "group": "",
-     "id": "https://www.straitstimes.com/world/europe/balkans-truck-protests-against-eu-rules-risk-fuel-shortages",
-     "link": "https://www.straitstimes.com/world/europe/balkans-truck-protests-against-eu-rules-risk-fuel-shortages",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Straits Times World",
-       "url": "https://www.straitstimes.com/world/europe/balkans-truck-protests-against-eu-rules-risk-fuel-shortages"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/01/26/truckers-across-western-balkans-block-borders-over-new-eu-travel-rules/"
-      }
-     ],
-     "titleTR": "Balkanlar'da kamyon protestoları yakıt sıkıntısı riskini artırıyor"
-    }
-   ],
-   "packetSpot": "Batı Balkanlar'dan kamyon şoförleri, yeni AB giriş kurallarını protesto etmek için AB ülkeleriyle olan sınırları kapatıyor; bu durum yakıt sıkıntısı ve iş kesintisi riskini beraberinde getiriyor.",
-   "packetTitle": "Batı Balkanlar'da kamyon şoförleri AB giriş kurallarını protesto ediyor",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 18
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.straitstimes.com/world/europe/uk-right-wing-reform-attracts-another-conservative-defector-suella-braverman",
-     "category": "",
-     "descriptionTR": "LONDRA, 26 Ocak - Eski içişleri bakanı ve İngiliz milletvekili Suella Braverman, Pazartesi günü Nigel Farage'ın sağcı partisi Reform UK'ye katılan son önemli Muhafazakar oldu ve eski partisinin göçmenlik konusunda seçmenlere yalan söylediğini iddia etti.",
-     "group": "",
-     "id": "https://www.straitstimes.com/world/europe/uk-right-wing-reform-attracts-another-conservative-defector-suella-braverman",
-     "link": "https://www.straitstimes.com/world/europe/uk-right-wing-reform-attracts-another-conservative-defector-suella-braverman",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Straits Times World",
-       "url": "https://www.straitstimes.com/world/europe/uk-right-wing-reform-attracts-another-conservative-defector-suella-braverman"
-      }
-     ],
-     "titleTR": "İngiltere'de sağcı Reform, Suella Braverman'ı saflarına kattı"
+      "slot": 3,
+      "packetTitle": "Fransa'da 15 yaş altına sosyal medya yasağı için hızlı adımlar",
+      "packetSpot": "Fransa, 15 yaş altındaki çocuklar için sosyal medya kullanımını yasaklamaya yönelik yasayı hızla uygulamaya koymayı planlıyor. Cumhurbaşkanı Macron ve Başbakan Lecornu bu değişikliği destekliyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "668d94b0-fad9-11f0-85d1-21e0a128d3c4",
+          "id": "668d94b0-fad9-11f0-85d1-21e0a128d3c4",
+          "link": "https://www.france24.com/en/france-s-macron-vows-to-speed-up-social-media-ban-for-under-15s",
+          "titleTR": "Fransa Cumhurbaşkanı Macron, 15 yaş altına sosyal medya yasağını hızlandırma sözü verdi",
+          "descriptionTR": "Fransa Cumhurbaşkanı Emmanuel Macron, 15 yaş altındaki çocuklar için sosyal medya kullanımını yasaklayan yasayı hızlandırma planlarını açıkladı ve eylül ayına kadar yürürlüğe girmesini hedefliyor. Bu adım, Avustralya'nın Instagram, TikTok ve YouTube gibi popüler platformları 16 yaş altına yasaklamasının ardından geldi. Macron ayrıca okullarda cep telefonu yasağını da destekliyor ve taslak yasa Fransa parlamentosuna sunulacak. FRANCE 24'ten Angela Diffley detayları aktarıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/france-s-macron-vows-to-speed-up-social-media-ban-for-under-15s"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
     },
     {
-     "atomID": "https://www.politico.eu/?post_type=article&p=7828506",
-     "category": "",
-     "descriptionTR": "Muhafazakarlar, eski içişleri bakanını hedef alan gazetecilere gönderilen açıklamanın yanlışlıkla gönderildiğini savunurken, 'çukur siyaseti' yapmakla suçlanıyor.",
-     "group": "",
-     "id": "https://www.politico.eu/?post_type=article&p=7828506",
-     "link": "https://www.politico.eu/article/tories-retract-mental-health-briefing-against-reform-defector-suella-braverman/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "POLITICO Europe",
-       "url": "https://www.politico.eu/article/tories-retract-mental-health-briefing-against-reform-defector-suella-braverman/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      }
-     ],
-     "titleTR": "Muhafazakarlar, Reform UK'ye geçen Suella Braverman'a yönelik 'akıl sağlığı' brifingini geri çekti"
+      "slot": 4,
+      "packetTitle": "Xi Jinping'in General Zhang Youxia tasfiyesi liderlik tartışmalarını alevlendiriyor",
+      "packetSpot": "Üst düzey askeri yetkili General Zhang Youxia'nın ciddi ihlaller nedeniyle soruşturma altında olması, Xi Jinping'in bir başka önemli tasfiyesini işaret ediyor. Bu gelişme, Xi'nin liderlik kararlarını mercek altına alıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "f1ded16a-fc95-11f0-9b70-b3a5c053dced",
+          "id": "f1ded16a-fc95-11f0-9b70-b3a5c053dced",
+          "link": "https://www.france24.com/en/tv-shows/a-propos/20260128-xi-jinping-s-repeated-purges-cast-doubt-on-his-judgment-observer-says",
+          "titleTR": "Xi Jinping'in tekrarlayan tasfiyeleri liderlik yargısını sorgulatıyor",
+          "descriptionTR": "FRANCE 24'ten Sharon Gaffney ile konuşan Toronto Üniversitesi'nden Çin Siyaseti Profesörü Lynette Ong, Merkezi Askeri Komisyon Başkan Yardımcısı General Zhang Youxia'nın görevden alınmasının Xi Jinping'in uzun bir tasfiye serisinin son halkası olduğunu ve bu durumun Başkan Xi'nin yargısını sorgulattığını belirtiyor. Zhang Youxia'nın disiplin ve yasaları ciddi şekilde ihlal ettiği şüphesiyle soruşturma altında olduğu bildiriliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/tv-shows/a-propos/20260128-xi-jinping-s-repeated-purges-cast-doubt-on-his-judgment-observer-says"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/xis-purge-of-top-general-paints-a-fascinating-picture-of-power-and-control-within-a-ruthless-and-unforgiving-system-13499060"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "AB Parlamentosu, ABD ticaret anlaşmasını yeniden gündeme almayı tartışıyor",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/news/world/europe/article/3341310/eu-lawmakers-divided-over-resuming-work-us-trade-deal-after-greenland-crisis?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/europe/article/3341310/eu-lawmakers-divided-over-resuming-work-us-trade-deal-after-greenland-crisis?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/europe/article/3341310/eu-lawmakers-divided-over-resuming-work-us-trade-deal-after-greenland-crisis?utm_source=rss_feed",
+          "titleTR": "AB milletvekilleri, Grönland krizi sonrası ABD ticaret anlaşmasını yeniden ele almayı tartışıyor",
+          "descriptionTR": "Avrupa Parlamentosu, ABD Başkanı Donald Trump'ın Grönland'ı satın alma talepleri ve tarif tehditleri nedeniyle askıya aldığı ABD ile ticaret anlaşmasını yeniden ele alıp almama kararını gelecek haftaya erteledi. Parlamento ticaret komitesinin, Pazartesi ve Salı günleri yapılacak oylamalarda tutumunu belirlemesi bekleniyordu ve meclis başkanı Roberta Metsola, süreci yeniden rayına oturtmak için görüşmelerin yakında başlayabileceğini söyledi. Ancak Alman...",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3341310/eu-lawmakers-divided-over-resuming-work-us-trade-deal-after-greenland-crisis?utm_source=rss_feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/eu-parliament-us-trade-deal-approval-us-donald-trump-proof-safeguards/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "packetTitle": "İngiltere Başbakanı Keir Starmer'ın Çin ziyareti: Yeniden angajman çabası",
+      "packetSpot": "İngiltere Başbakanı Keir Starmer'ın Çin ziyareti, Pekin ile yeniden angajman çabası olarak öne çıkıyor; ticaret, yatırım ve kültürel bağlara odaklanılıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-30T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/01/30/uk-museum-directors-join-prime-minister-cultural-mission-china",
+          "id": "https://www.theartnewspaper.com/2026/01/30/uk-museum-directors-join-prime-minister-cultural-mission-china",
+          "link": "https://www.theartnewspaper.com/2026/01/30/uk-museum-directors-join-prime-minister-cultural-mission-china",
+          "titleTR": "İngiliz müze yöneticileri başbakanla Çin'e kültürel misyon için gidiyor",
+          "descriptionTR": "Ziyaret, ilişkileri güçlendirme amacı taşıyor; hükümet, başbakanın Çin ile anlaşmazlık yaşanan konuları da gündeme getireceğini belirtti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-30T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/01/30/uk-museum-directors-join-prime-minister-cultural-mission-china"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/uk-pm-starmer-heading-to-china-aiming-to-reset-ties"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/1/30/what-do-china-and-the-uk-want-from-each-other?traffic_source=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/5-things-we-learned-following-keir-starmer-around-china-all-week/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "packetTitle": "Fırtına Kristin Portekiz'de can kayıplarına ve elektrik kesintilerine yol açtı",
+      "packetSpot": "Fırtına Kristin, Portekiz'de birçok can kaybına ve geniş çaplı elektrik kesintilerine neden oldu, 800.000'den fazla kişi etkilendi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/storm-kristin-kills-at-least-three-in-portugal-barrels-into-spain",
+          "id": "https://www.straitstimes.com/world/europe/storm-kristin-kills-at-least-three-in-portugal-barrels-into-spain",
+          "link": "https://www.straitstimes.com/world/europe/storm-kristin-kills-at-least-three-in-portugal-barrels-into-spain",
+          "titleTR": "Fırtına Kristin Portekiz'de en az üç can aldı, İspanya'ya ilerliyor",
+          "descriptionTR": "LIZBON/MADRİD, 28 Ocak - Fırtına Kristin, Çarşamba günü Portekiz'in orta ve kuzey kesimlerinde en az üç kişinin ölümüne ve 800.000'den fazla kişinin elektriksiz kalmasına neden oldu. Ağaçları devirdi, evlere zarar verdi ve kara ile demiryolu trafiğini aksattıktan sonra İspanya'ya doğru ilerledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/storm-kristin-kills-at-least-three-in-portugal-barrels-into-spain"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "packetTitle": "Kolombiya'daki uçak kazasında 15 kişi hayatını kaybetti, aralarında bir milletvekili de var",
+      "packetSpot": "Kuzeydoğu Kolombiya'da meydana gelen uçak kazasında, aralarında yerel bir milletvekilinin de bulunduğu 15 kişi hayatını kaybetti. Kazaya, devlet hava yolu şirketi Satena tarafından işletilen Beechcraft 1900 tipi uçak karıştı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/news/world/americas/article/3341603/plane-crash-colombia-kills-15-including-politician?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/americas/article/3341603/plane-crash-colombia-kills-15-including-politician?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/americas/article/3341603/plane-crash-colombia-kills-15-including-politician?utm_source=rss_feed",
+          "titleTR": "Kolombiya'da uçak kazası: 15 ölü, aralarında bir politikacı da var",
+          "descriptionTR": "Kuzeydoğu Kolombiya'da Çarşamba günü meydana gelen uçak kazasında, aralarında bir yerel milletvekilinin de bulunduğu 15 kişi hayatını kaybetti. Devlet hava yolu şirketi Satena'ya ait Beechcraft 1900 çift motorlu turboprop uçak, Venezuela sınırındaki Cucuta'dan Ocana kasabasına kısa bir uçuş için kalkış yaptı. Satena, uçuşun 12. dakikasında hava trafik kontrolünün uçakla iletişimi kaybettiğini bildirdi. Kazanın nedeni belirtilmedi ve uçağın acil durum sinyalinin etkinleştirilmediği aktarıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/americas/article/3341603/plane-crash-colombia-kills-15-including-politician?utm_source=rss_feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/1/28/colombian-lawmaker-among-15-missing-in-plane-disappearance?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "packetTitle": "ABD Merkez Bankası, Trump'ın baskısına rağmen faiz oranlarını sabit tuttu",
+      "packetSpot": "ABD Merkez Bankası, Başkan Donald Trump'ın faiz indirimi baskılarına rağmen faiz oranlarını sabit tutma kararı aldı. Bu karar, siyasi gerilimler arasında Fed'in bağımsız politika yapma taahhüdünü vurguluyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed",
+          "titleTR": "ABD Merkez Bankası, Trump'ın baskısına rağmen faiz oranlarını sabit tuttu",
+          "descriptionTR": "ABD Merkez Bankası, yılın ilk politika toplantısında faiz oranlarını çarşamba günü sabit tuttu. Merkez bankası, ABD Başkanı Donald Trump'ın artan faiz indirimi baskılarına direnirken, güçlü ekonomik büyümeyi gerekçe gösterdi. Fed'in 10'a 2 oyla aldığı karar, oranları yüzde 3.50 ile 3.75 arasında tutuyor ve yetkililer dünyanın en büyük ekonomisi hakkında daha fazla veri beklerken bu sonuç geniş çapta bekleniyordu. Karar açıklamasında, politika yapıcılar ekonomik faaliyetin \"genişlediğini\" belirtti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3341596/us-federal-reserve-holds-interest-rates-steady-defying-trump-pressure?utm_source=rss_feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/tv-shows/business/20260128-fed-defies-trump-to-hold-interest-rates-steady"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "packetTitle": "Carlos Alcaraz ve Alexander Zverev'in Avustralya Açık yarı finalindeki epik mücadelesi",
+      "packetSpot": "Carlos Alcaraz, Alexander Zverev'i zorlu bir Avustralya Açık yarı final maçında mağlup ederek dayanıklılık ve becerisini beş set boyunca sergiledi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-30T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.abc.net.au/news/2026-01-30/tennis-alcaraz-zverev-australian-open-semifinal-analysis/106289980",
+          "id": "https://www.abc.net.au/news/2026-01-30/tennis-alcaraz-zverev-australian-open-semifinal-analysis/106289980",
+          "link": "https://www.abc.net.au/news/2026-01-30/tennis-alcaraz-zverev-australian-open-semifinal-analysis/106289980",
+          "titleTR": "Alcaraz, Avustralya Açık'ta ince farklarla zafere ulaştı",
+          "descriptionTR": "Grand slam turnuvalarının son aşamalarında farklar çok ince olabilir. Carlos Alcaraz ve Alexander Zverev, bu gerçeği unutulmaz bir klasikle bizzat deneyimledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-30T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-01-30/tennis-alcaraz-zverev-australian-open-semifinal-analysis/106289980"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/sports/2026/01/30/tennis/alcaraz-wins-epic-semifinals/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 11,
+      "packetTitle": "Mashhad'daki protestolar ve İran'ın sert müdahalesi",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-30T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://news.sky.com/story/what-do-we-know-about-the-number-of-people-killed-in-iran-protests-13501129",
+          "id": "https://news.sky.com/story/what-do-we-know-about-the-number-of-people-killed-in-iran-protests-13501129",
+          "link": "https://news.sky.com/story/what-do-we-know-about-the-number-of-people-killed-in-iran-protests-13501129",
+          "titleTR": "İran protestolarında kaç kişinin öldüğüne dair bildiklerimiz",
+          "descriptionTR": "İran'daki ölümcül protestolarda binlerce kişinin öldüğü bildiriliyor, ancak ölümler hala doğrulanıyor ve çelişkili raporlar mevcut. İşte bildiklerimiz.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-30T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/what-do-we-know-about-the-number-of-people-killed-in-iran-protests-13501129"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/the-doctors-who-want-you-to-know-what-happened-inside-iran-13500411"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "tag:theatlantic.com,2026:50-685746",
+          "id": "tag:theatlantic.com,2026:50-685746",
+          "link": "https://www.theatlantic.com/international/2026/01/what-i-saw-mashhad-iran/685746/?utm_source=feed",
+          "titleTR": "Mashhad'da gördüklerim",
+          "descriptionTR": "9 Ocak'ta, rejim karşıtı protestolar İran'ı sardı ve Başkan Trump, kuzeydoğudaki Mashhad kentinin muhalefetin eline geçtiğini ilan etti. 26 Aralık'tan 14 Ocak'a kadar Mashhad'daydım. O haftalarda tanık olduklarım, Amerikan başkanının açıklamalarından ve devlet propagandası ya da muhalefet medyasının anlatılarından çok daha karmaşıktı. Mashhad, İran'ın ikinci büyük şehri ve İslam Cumhuriyeti'nin manevi başkenti. Protestolar, Aralık ortasında ekonomik sıkıntıların ifadesi olarak Mashhad'da başladı. Hükümetin reformları, temel ihtiyaç maddelerinin fiyatlarının aniden artmasına neden oldu. 8 Ocak akşamı, Reza Pahlavi ülke genelinde protesto çağrısı yaptı ve ABD'li yetkililerden kışkırtıcı mesajlar geldi. İnternet erişimi ve tüm iletişim hizmetleri kesildi. Mashhad'daki protestoların boyutu ve şiddeti arttı. Trump, Mashhad'da bir milyondan fazla kişinin protesto ettiğini iddia etti, ancak bu sayı abartılı görünüyor. 10 Ocak'ta şehir sakinleşti, ancak güvenlik güçleri daha görünür ve silahlıydı. Devlet medyası, şehirlerde düzenin sağlandığını iddia etti. Ancak muhalefet medyası, İran'ın tam ölçekli bir devrim içinde olduğunu bildirdi. Mashhad'daki olaylar, İran'ın geleceğine dair dört senaryo arasında küresel spekülasyonlara yol açtı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Atlantic",
+              "url": "https://www.theatlantic.com/international/2026/01/what-i-saw-mashhad-iran/685746/?utm_source=feed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 12,
+      "packetTitle": "Don Lemon'ın Minnesota'daki kilise protestosunda tutuklanması",
+      "packetSpot": "Don Lemon, eski CNN sunucusu, Minnesota'daki bir kilise protestosunda federal yasayı ihlal ettiği iddiasıyla tutuklandı. Kaynaklar, orada gazetecilik amacıyla bulunduğunu aktarıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-30T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.straitstimes.com/world/united-states/former-cnn-anchor-don-lemon-arrested-over-minnesota-church-protest",
+          "id": "https://www.straitstimes.com/world/united-states/former-cnn-anchor-don-lemon-arrested-over-minnesota-church-protest",
+          "link": "https://www.straitstimes.com/world/united-states/former-cnn-anchor-don-lemon-arrested-over-minnesota-church-protest",
+          "titleTR": "Eski CNN sunucusu Don Lemon, Minnesota'daki kilise protestosunda tutuklandı",
+          "descriptionTR": "Minnesota'daki bir kilisede gerçekleşen protesto sırasında federal yasayı ihlal ettiği iddiasıyla tutuklandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-30T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/united-states/former-cnn-anchor-don-lemon-arrested-over-minnesota-church-protest"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/us-politics/don-lemon-arrested-minnesota-protest-b2910933.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 13,
+      "packetTitle": "Uruguay Devlet Başkanı Orsi'nin Çin ziyareti: Ticaret ve siyasi ilişkiler güçlenecek",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/news/china/diplomacy/article/3341315/xi-meet-uruguays-orsi-first-latin-america-china-visit-us-capture-maduro?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/china/diplomacy/article/3341315/xi-meet-uruguays-orsi-first-latin-america-china-visit-us-capture-maduro?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3341315/xi-meet-uruguays-orsi-first-latin-america-china-visit-us-capture-maduro?utm_source=rss_feed",
+          "titleTR": "Xi, Uruguaylı Orsi ile ABD'nin Maduro'yu yakalamasından sonra ilk kez buluşacak",
+          "descriptionTR": "Uruguay Devlet Başkanı Yamandú Orsi, önümüzdeki hafta Çin'e gidiyor. Bu ziyaretin, Ocak ayı başlarında ABD'nin Venezuela Devlet Başkanı Nicolas Maduro'yu yakalamasından bu yana bir Latin Amerika liderinin Pekin'e yapacağı ilk ziyaret olması bekleniyor. Pekin, ziyaretin siyasi diyaloğu güçlendirmeye ve ekonomik işbirliğini genişletmeye odaklanacağını belirtiyor. Çin Dışişleri Bakanlığı'na göre, devlet ziyareti 1-7 Şubat tarihleri arasında gerçekleşecek ve Batı yarımküredeki gergin bir döneme denk geliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3341315/xi-meet-uruguays-orsi-first-latin-america-china-visit-us-capture-maduro?utm_source=rss_feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "MercoPress",
+              "url": "https://en.mercopress.com/2026/01/30/uruguay-s-orsi-heads-to-china-with-large-delegation-to-deepen-trade-and-strategic-ties?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 14,
+      "packetTitle": "TEPCO'nun yeni stratejisi: sermaye ortaklıkları ve maliyet azaltma",
+      "packetSpot": "TEPCO'nun yeni iş stratejisi, sermaye ortaklıklarını içeriyor ve önümüzdeki on yıl içinde maliyetleri 3,1 trilyon yen azaltmayı hedefliyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.japantimes.co.jp/article/636770/",
+          "id": "https://www.japantimes.co.jp/article/636770/",
+          "link": "https://www.japantimes.co.jp/business/2026/01/26/companies/tepco-new-biz-plan/",
+          "titleTR": "Tepco, yeni iş planı kapsamında 10 yılda 3,1 trilyon yen maliyet azaltmayı hedefliyor",
+          "descriptionTR": "Maliyet azaltımı, iş süreçlerinin sadeleştirilmesi, yatırımın azaltılması ve varlık satışları yoluyla sağlanacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/business/2026/01/26/companies/tepco-new-biz-plan/"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/energy/tepco-puts-capital-tie-ups-at-center-of-updated-turnaround-plan"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/editor-s-picks/interview/fukushima-operator-tepco-open-to-ties-with-telecoms-manufacturers-president"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 15,
+      "packetTitle": "Japonya'da yabancı işçi sayısı 2.5 milyonu aştı",
+      "packetSpot": "Japonya'daki yabancı işçi sayısı, geçen yıla göre %11.7 artışla rekor seviyeye ulaşarak 2.57 milyona çıktı. Bu artış, ülkenin ciddi iş gücü sıkıntısıyla karşı karşıya olduğu bir dönemde gerçekleşiyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-30T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.japantimes.co.jp/article/636969/",
+          "id": "https://www.japantimes.co.jp/article/636969/",
+          "link": "https://www.japantimes.co.jp/news/2026/01/30/japan/foreign-workers-record-high/",
+          "titleTR": "Japonya'daki yabancı işçi sayısı 2025'te 2.57 milyona ulaştı",
+          "descriptionTR": "Toplam sayı, bir önceki yıla göre %11.7 artış gösterdi ve hızla yaşlanan ülkede ciddi iş gücü sıkıntısının yaşandığı bir döneme denk geliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-30T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/01/30/japan/foreign-workers-record-high/"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-s-foreign-workforce-tops-2.5m-for-first-time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 16,
+      "packetTitle": "AB, İran Devrim Muhafızları'nı terör listesine almayı düşünüyor",
+      "packetSpot": "AB, ölümcül baskılardaki rolleri nedeniyle İran Devrim Muhafızları'nı terör örgütü olarak listelemeye doğru ilerliyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.politico.eu/?post_type=article&p=7845057",
+          "id": "https://www.politico.eu/?post_type=article&p=7845057",
+          "link": "https://www.politico.eu/article/eu-move-blacklist-iran-islamic-revolutionary-guard-corps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "titleTR": "AB, İran'ın uygulayıcı ordusunu kara listeye almayı planlıyor",
+          "descriptionTR": "İslam Devrim Muhafızları Ordusu, binlerce ölümden sorumlu tutuluyor ve AB ülkeleri grubu terör listesine eklemeye yakın.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/eu-move-blacklist-iran-islamic-revolutionary-guard-corps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 17,
+      "packetTitle": "Niamey Havalimanı'na saldırı: IŞİD üstlendi, Nijer'den yabancı ülkelere suçlama",
+      "packetSpot": "IŞİD, Niamey Havalimanı'na düzenlenen ölümcül saldırının sorumluluğunu üstlendi. Nijer'in askeri lideri, Fransa, Benin ve Fildişi Sahili'ni saldırıya karışmakla suçladı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-30T12:00:00Z",
+      "items": [
+        {
+          "atomID": "d6a017e4-fe23-11f0-bd26-1decb4a05f55",
+          "id": "d6a017e4-fe23-11f0-bd26-1decb4a05f55",
+          "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260130-islamic-state-group-claims-responsibilty-for-a-deadly-attack-on-niger-s-airport-in-the-capital",
+          "titleTR": "IŞİD, Nijer'in başkentindeki havalimanı saldırısını üstlendi",
+          "descriptionTR": "Bu akşamki yayında: IŞİD, Nijer'in başkentindeki havalimanına düzenlenen ölümcül saldırının sorumluluğunu üstlendi. Askeri yönetim, saldırganları desteklemekle Benin, Fransa ve Fildişi Sahili'ni suçluyor. Ayrıca, Etiyopya'da Tigray bölgesinde yenilenen çatışma korkuları var. Bu hafta yaşanan çatışmalar, kırılgan barış anlaşmasının geleceği hakkında soru işaretleri doğuruyor. Ve üst üste ikinci yıl, En İyi Afrika Müzik Performansı Grammy Ödülü için birçok Nijeryalı sanatçı yarışıyor. Lagos'ta, farklı müzik türlerinden Fransız sanatçılar ve Nijeryalı Afrobeats yetenekleri bir araya geldi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-30T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260130-islamic-state-group-claims-responsibilty-for-a-deadly-attack-on-niger-s-airport-in-the-capital"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/islamic-state-claims-deadly-attack-on-airport-in-niger-capital"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/1/30/isil-claims-deadly-attack-on-air-base-near-niger?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 18,
+      "packetTitle": "Batı Balkanlar'da kamyon şoförleri AB giriş kurallarını protesto ediyor",
+      "packetSpot": "Batı Balkanlar'dan kamyon şoförleri, yeni AB giriş kurallarını protesto etmek için AB ülkeleriyle olan sınırları kapatıyor; bu durum yakıt sıkıntısı ve iş kesintisi riskini beraberinde getiriyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/balkans-truck-protests-against-eu-rules-risk-fuel-shortages",
+          "id": "https://www.straitstimes.com/world/europe/balkans-truck-protests-against-eu-rules-risk-fuel-shortages",
+          "link": "https://www.straitstimes.com/world/europe/balkans-truck-protests-against-eu-rules-risk-fuel-shortages",
+          "titleTR": "Balkanlar'da kamyon protestoları yakıt sıkıntısı riskini artırıyor",
+          "descriptionTR": "BELGRAD/SARAYBOSNA, 28 Ocak - Batı Balkanlar'daki kamyon şoförlerinin bu hafta AB ülkeleriyle olan sınırdaki kargo terminallerini bloke etmesi, kısıtlayıcı AB giriş kurallarına karşı protesto olarak yakıt sıkıntısı ve iş kayıpları riskini beraberinde getiriyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/balkans-truck-protests-against-eu-rules-risk-fuel-shortages"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/01/26/truckers-across-western-balkans-block-borders-over-new-eu-travel-rules/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 19,
+      "packetTitle": "Suella Braverman'ın Reform UK'ye katılması ve Muhafazakar Parti'nin tartışmalı tepkisi",
+      "packetSpot": "Eski Muhafazakar içişleri bakanı Suella Braverman, Reform UK'ye katıldı ve bu durum Muhafazakar Parti'nin kendisine yönelik eleştirel bir brifingi geri çekmesiyle tartışma yarattı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/uk-right-wing-reform-attracts-another-conservative-defector-suella-braverman",
+          "id": "https://www.straitstimes.com/world/europe/uk-right-wing-reform-attracts-another-conservative-defector-suella-braverman",
+          "link": "https://www.straitstimes.com/world/europe/uk-right-wing-reform-attracts-another-conservative-defector-suella-braverman",
+          "titleTR": "İngiltere'de sağcı Reform, Suella Braverman'ı saflarına kattı",
+          "descriptionTR": "LONDRA, 26 Ocak - Eski içişleri bakanı ve İngiliz milletvekili Suella Braverman, Pazartesi günü Nigel Farage'ın sağcı partisi Reform UK'ye katılan son önemli Muhafazakar oldu ve eski partisinin göçmenlik konusunda seçmenlere yalan söylediğini iddia etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/uk-right-wing-reform-attracts-another-conservative-defector-suella-braverman"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.politico.eu/?post_type=article&p=7828506",
+          "id": "https://www.politico.eu/?post_type=article&p=7828506",
+          "link": "https://www.politico.eu/article/tories-retract-mental-health-briefing-against-reform-defector-suella-braverman/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "titleTR": "Muhafazakarlar, Reform UK'ye geçen Suella Braverman'a yönelik 'akıl sağlığı' brifingini geri çekti",
+          "descriptionTR": "Muhafazakarlar, eski içişleri bakanını hedef alan gazetecilere gönderilen açıklamanın yanlışlıkla gönderildiğini savunurken, 'çukur siyaseti' yapmakla suçlanıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/tories-retract-mental-health-briefing-against-reform-defector-suella-braverman/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 20,
+      "packetTitle": "Güney Kore'nin eski first lady'si Kim Keon Hee yolsuzluk ve rüşvetten hapis cezası aldı",
+      "packetSpot": "Güney Kore'nin eski first lady'si Kim Keon Hee, yolsuzluk ve rüşvet suçlarından 20 ay hapis cezasına çarptırıldı. Ayrıca bir elmas kolyeyi iade etmesi ve nakit parayı geri ödemesi emredildi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952",
+          "id": "https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952",
+          "link": "https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952",
+          "titleTR": "Güney Kore'nin eski first lady'si yolsuzluktan 20 ay hapis cezası aldı",
+          "descriptionTR": "Güney Kore'nin eski başkanı Yoon Suk Yeol'un eşi, sıkıyönetim girişimi nedeniyle görevden alınan, yolsuzluk suçlamasıyla 20 ay hapis cezasına çarptırıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cj3vpe8zme8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/01/28/asia-pacific/politics/south-korea-first-lady-corruption/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 21,
+      "packetTitle": "Avustralya Açık'ta zorlu mücadeleler ve aşırı sıcaklar",
+      "packetSpot": "Avustralya Açık'ta oyuncular, aşırı sıcaklar ve zorlu rakiplerle mücadele ederek çeyrek ve yarı finalleri heyecanlı hale getirdi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-30T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422",
+          "id": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422",
+          "link": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422",
+          "titleTR": "Avustralya Açık'ta de Minaur'un çeyrek finali öncesi sıcaklık 45°C'yi bulacak",
+          "descriptionTR": "Avustralya Açık'ın 10. gününde rekor sıcaklıklar bekleniyor. Tekler çeyrek finalleri başlarken, Alex de Minaur ve bir numaralı seribaşı Carlos Alcaraz karşılaşması öne çıkıyor. Canlı takip edin.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.abc.net.au/news/2026-01-27/australian-open-alex-de-minaur-carlos-alcaraz-quarterfinal/106269964",
+          "id": "https://www.abc.net.au/news/2026-01-27/australian-open-alex-de-minaur-carlos-alcaraz-quarterfinal/106269964",
+          "link": "https://www.abc.net.au/news/2026-01-27/australian-open-alex-de-minaur-carlos-alcaraz-quarterfinal/106269964",
+          "titleTR": "De Minaur, Avustralya Açık'ta kavurucu sıcak ve dünya bir numarasına karşı",
+          "descriptionTR": "Dünya bir numarası Carlos Alcaraz, Alex de Minaur'u daha önceki tüm karşılaşmalarında mağlup etti, ancak Avustralyalı oyuncu çeyrek final öncesi yılgın değil.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ABC Australia News",
+              "url": "https://www.abc.net.au/news/2026-01-27/australian-open-alex-de-minaur-carlos-alcaraz-quarterfinal/106269964"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/sports/2026/01/30/australian-open-sinner-loses-to-djokovic-in-thrilling-5-set-semi_a8fe5613-c2d8-4ff5-ac19-f95665a4675d.html",
+          "id": "https://www.ansa.it/english/news/sports/2026/01/30/australian-open-sinner-loses-to-djokovic-in-thrilling-5-set-semi_a8fe5613-c2d8-4ff5-ac19-f95665a4675d.html",
+          "link": "https://www.ansa.it/english/news/sports/2026/01/30/australian-open-sinner-loses-to-djokovic-in-thrilling-5-set-semi_a8fe5613-c2d8-4ff5-ac19-f95665a4675d.html",
+          "titleTR": "Avustralya Açık: Sinner, Djokovic'e 5 setlik heyecanlı yarı finalde kaybetti",
+          "descriptionTR": "İtalyan oyuncunun üst üste üçüncü şampiyonluk hedefi, 6-3, 3-6, 6-4, 4-6, 4-6'lık yenilgiyle sona erdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-30T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/sports/2026/01/30/australian-open-sinner-loses-to-djokovic-in-thrilling-5-set-semi_a8fe5613-c2d8-4ff5-ac19-f95665a4675d.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 22,
+      "packetTitle": "Heyelan felaketleri dünya gündeminde",
+      "packetSpot": "Endonezya ve Sicilya'da meydana gelen heyelanlar can kayıplarına, tahliyelere ve devam eden arama çalışmalarına yol açtı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1769448544",
+          "id": "https://www.aljazeera.com/?t=1769448544",
+          "link": "https://www.aljazeera.com/news/2026/1/26/death-toll-from-indonesia-landslide-rises-to-17-as-dozens-remain-missing?traffic_source=rss",
+          "titleTR": "Endonezya'daki heyelanda ölü sayısı 17'ye yükseldi, onlarca kişi kayıp",
+          "descriptionTR": "Batı Cava'daki heyelanda kaybolan 42 kişi arasında Endonezya'nın seçkin deniz kuvvetlerinden 19 üye bulunuyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/1/26/death-toll-from-indonesia-landslide-rises-to-17-as-dozens-remain-missing?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1769448629",
+          "id": "https://www.aljazeera.com/?t=1769448629",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/26/massive-search-underway-for-dozens-missing-in-deadly-indonesia-landslide?traffic_source=rss",
+          "titleTR": "Endonezya'daki ölümcül heyelanda kaybolanlar için büyük arama çalışması",
+          "descriptionTR": "Endonezya'daki heyelanda, 19'u seçkin deniz kuvvetlerinden olmak üzere en az 80 kişi kayıp.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/massive-search-underway-for-dozens-missing-in-deadly-indonesia-landslide?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/01/26/1000-evacuated-as-landslide-leaves-homes-on-the-precipice-in-sicilian-town_dc155b8b-ba36-4fdf-b604-fab4462429d1.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/01/26/1000-evacuated-as-landslide-leaves-homes-on-the-precipice-in-sicilian-town_dc155b8b-ba36-4fdf-b604-fab4462429d1.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/01/26/1000-evacuated-as-landslide-leaves-homes-on-the-precipice-in-sicilian-town_dc155b8b-ba36-4fdf-b604-fab4462429d1.html",
+          "titleTR": "Sicilya'da heyelan nedeniyle 1,000 kişi tahliye edildi",
+          "descriptionTR": "Niscemi'de evler uçurumun kenarında; durum dramatik.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/01/26/1000-evacuated-as-landslide-leaves-homes-on-the-precipice-in-sicilian-town_dc155b8b-ba36-4fdf-b604-fab4462429d1.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/over-1000-people-evacuated-after-landslide-in-sicily",
+          "id": "https://www.straitstimes.com/world/europe/over-1000-people-evacuated-after-landslide-in-sicily",
+          "link": "https://www.straitstimes.com/world/europe/over-1000-people-evacuated-after-landslide-in-sicily",
+          "titleTR": "Sicilya'daki heyelan sonrası 1,000'den fazla kişi tahliye edildi",
+          "descriptionTR": "25 Ocak'taki heyelan sonrasında ölüm ya da yaralanma bildirilmedi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/over-1000-people-evacuated-after-landslide-in-sicily"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 23,
+      "packetTitle": "AB'nin Grok AI soruşturması: Derin sahtecilik endişeleri",
+      "packetSpot": "AB, kadınlar ve çocuklarla ilgili derin sahtecilik endişeleri nedeniyle AI teknolojileri hakkında soruşturma başlattı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1769434588",
+          "id": "https://www.aljazeera.com/?t=1769434588",
+          "link": "https://www.aljazeera.com/news/2026/1/26/eu-launches-probe-into-grok-ai-feature-creating-deepfakes-of-women-minors?traffic_source=rss",
+          "titleTR": "AB, Musk'ın Grok AI özelliğini kadınlar ve çocuklarla ilgili derin sahtecilikler nedeniyle soruşturuyor",
+          "descriptionTR": "Avrupa Komisyonu, AI aracının yasal yükümlülüklerini yerine getirip getirmediğini inceleyeceğini açıkladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/1/26/eu-launches-probe-into-grok-ai-feature-creating-deepfakes-of-women-minors?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/",
+          "id": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/",
+          "link": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/",
+          "titleTR": "AB, Grok'un cinselleştirilmiş derin sahtecilikleri nedeniyle xAI hakkında resmi soruşturma başlattı",
+          "descriptionTR": "Elon Musk'ın şirketi, günlük cirosunun yüzde 6'sına kadar para cezasıyla karşı karşıya kalabilir.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 24,
+      "packetTitle": "Alex Pretti'nin öldürülmesi üzerine tartışmalar büyüyor",
+      "packetSpot": "Minneapolis'te ICE ajanları tarafından öldürülen Alex Pretti'nin ölümü, federal göçmenlik taktikleri üzerinde protestolar ve incelemeler başlattı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "1db8c5be-faf4-11f0-8565-37af375eab1a",
+          "id": "1db8c5be-faf4-11f0-8565-37af375eab1a",
+          "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260126-video-evidence-of-alex-pretti-s-killing-contradicts-trump-administration-s-account",
+          "titleTR": "Alex Pretti'nin öldürülmesine dair video kanıtlar Trump yönetiminin anlatımını çürütüyor",
+          "descriptionTR": "37 yaşındaki yoğun bakım hemşiresi Alex Pretti, Minneapolis'te vurularak öldürüldü. Bu olay, aynı şehirde Renee Good'un ölümcül şekilde vurulmasından sadece haftalar sonra gerçekleşti. İç Güvenlik Bakanlığı, Pretti'nin \"silah salladığı\", \"yerli terörist\" olduğu ve federal ajanlara saldırgan bir şekilde yaklaştığını iddia ediyor... ancak video kanıtlar Trump yönetiminin \"resmi\" olay anlatımını doğrudan çürütüyor. Vedika Bahl, Truth or Fake programında olayın birçok açıdan incelemesini yapıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260126-video-evidence-of-alex-pretti-s-killing-contradicts-trump-administration-s-account"
+            }
+          ]
+        },
+        {
+          "atomID": "fb5ee8b2-faf4-11f0-a6e9-834672c9f2da",
+          "id": "fb5ee8b2-faf4-11f0-a6e9-834672c9f2da",
+          "link": "https://www.france24.com/en/trump-administration-s-response-to-alex-pretti-killing-raises-questions-of-principles-vs-hypocrisy",
+          "titleTR": "Trump yönetiminin Alex Pretti'nin öldürülmesine tepkisi 'ilke mi ikiyüzlülük mü' sorusunu gündeme getiriyor",
+          "descriptionTR": "FRANCE 24'ten Mark Owen ile konuşan Hamline Üniversitesi Siyaset Bilimi Profesörü David Schultz, Minneapolis'teki protestolar sırasında yoğun bakım hemşiresi Alex Pretti'nin öldürülmesine Trump yönetiminin verdiği tepkinin, silah sahipliği ile ilgili 'ilke mi ikiyüzlülük mü' sorusunu gündeme getirdiğini söylüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/trump-administration-s-response-to-alex-pretti-killing-raises-questions-of-principles-vs-hypocrisy"
+            }
+          ]
+        },
+        {
+          "atomID": "09db7706-fae7-11f0-9aca-a129214f5c46",
+          "id": "09db7706-fae7-11f0-9aca-a129214f5c46",
+          "link": "https://www.france24.com/en/tv-shows/the-debate/20260126-above-the-law-outrage-over-ice-killings-in-minneapolis",
+          "titleTR": "Yasanın üstünde mi? Minneapolis'teki ICE cinayetleri öfke yaratıyor",
+          "descriptionTR": "Renée Good'un vurularak öldürülmesinden 17 gün sonra, Minneapolis'te maskeli Göçmenlik ve Gümrük Muhafaza ajanları bu kez 37 yaşındaki ABD vatandaşı Alex Pretti'yi öldürdü. Yine, kurbanların yerli terörist gibi davrandığını iddia eden resmi anlatımla çelişen video kanıtlar var. Kanıtlar bozulmadan veya yok edilmeden önce toplama yarışı, medya yankı odaları ve yukarıdan izleyen bir ABD başkanı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/tv-shows/the-debate/20260126-above-the-law-outrage-over-ice-killings-in-minneapolis"
+            }
+          ]
+        },
+        {
+          "atomID": "69190e26-fade-11f0-8a5b-21e0a128d3c4",
+          "id": "69190e26-fade-11f0-8a5b-21e0a128d3c4",
+          "link": "https://www.france24.com/en/ice-killings-a-watershed-moment-trump-republicans-risk-breaking-with-the-american-people",
+          "titleTR": "ICE cinayetleri 'dönüm noktası': Trump ve Cumhuriyetçiler Amerikan halkıyla ters düşme riski taşıyor",
+          "descriptionTR": "Nadia Massih, eski New York Eyalet Meclisi Üyesi Kenny Burgos'u (D) ağırlıyor. Burgos, bir ICE ajanı tarafından Alex Pretti'nin öldürülmesini, Amerikan siyasi bilincinde gerçek bir \"dönüm noktası\" olarak nitelendiriyor. Burgos, hem siyasi hem de kişisel bakış açılarından konuşarak, göçmen topluluklarının ötesine yayılan sessiz korkuyu dile getiriyor. ICE'in şiddet içeren taktikleri, yasal göçmenleri ve ABD vatandaşlarını da hedef alarak, Amerikan demokrasisinin ruhuyla yüzleşen bir ülke olarak korku yayıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/ice-killings-a-watershed-moment-trump-republicans-risk-breaking-with-the-american-people"
+            }
+          ]
+        },
+        {
+          "atomID": "42fd7c1c-fada-11f0-9eda-21e0a128d3c4",
+          "id": "42fd7c1c-fada-11f0-9eda-21e0a128d3c4",
+          "link": "https://www.france24.com/en/ice-under-scrutiny-amid-rising-protests-over-deadly-shootings",
+          "titleTR": "Ölümcül saldırılar üzerine artan protestolar arasında ICE inceleme altında",
+          "descriptionTR": "Minneapolis'te göçmenlik ajanları tarafından ikinci bir ABD vatandaşının öldürülmesinin ardından ABD'de protestolar devam ediyor. 2002 yılında kurulan ICE, Trump yönetimi altında yoğun bir şekilde kullanıldı ve kitlesel sınır dışı etme ve agresif taktiklere odaklandı. Ajansın hızlı genişlemesi ve tartışmalı operasyonları, ABD vatandaşlarını ve belgeli göçmenleri sınır dışı etmeyi de içeren faaliyetleri, yeni işe alınanların eğitimi ve denetimi konusunda endişeler yarattı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/ice-under-scrutiny-amid-rising-protests-over-deadly-shootings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 25,
+      "packetTitle": "Seyahat eğilimleri değişiyor",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-26T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://techcrunch.com/?p=3086313",
+          "id": "https://techcrunch.com/?p=3086313",
+          "link": "https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/",
+          "titleTR": "2026 GDC'ye uluslararası katılım, güvenlik endişeleri ve ICE varlığı nedeniyle azalıyor",
+          "descriptionTR": "Uluslararası oyun endüstrisinden birçok kişi, ICE varlığının artması ve diğer endişeler nedeniyle 2026 Oyun Geliştiricileri Konferansı'na katılmaktan kaçınıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/"
+            }
+          ]
+        },
+        {
+          "atomID": "b2908061",
+          "id": "b2908061",
+          "link": "https://www.independent.co.uk/news/world/americas/us-politics/canada-boycott-ski-slopes-trump-b2908061.html",
+          "titleTR": "Kanadalılar, Trump ile ilgili siyasi gerilimler nedeniyle ABD kayak merkezlerinden uzak duruyor",
+          "descriptionTR": "Kanadalı turistlerin ABD'yi ziyaret sayısı 2025'te 12 ay boyunca sürekli azaldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-26T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/us-politics/canada-boycott-ski-slopes-trump-b2908061.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 26,
+      "packetTitle": "Minneapolis'taki ICE olayları ve siyasi yankıları",
+      "packetSpot": "Minneapolis'te ICE tarafından gerçekleştirilen silahlı olaylar, ajansın güç kullanımı ve siyasi etkileri konusunda endişeleri artırdı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-01-28T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed",
+          "id": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed",
+          "titleTR": "ICE'in ölümcül olayları, Trump'ın federal yetki kullanımına dair korkuları artırıyor",
+          "descriptionTR": "Amerika daha önce de yoğun siyasi kutuplaşma yaşadı. Ancak, bir federal kolluk kuvveti ajansını potansiyel bir siyasi güç aracı haline getiren bir başkanlık dönemiyle karşılaşmadı. Donald Trump'ın ikinci başkanlık döneminde, ABD Göçmenlik ve Gümrük Muhafaza (ICE) ajansı tam da böyle bir riskle karşı karşıya. 11 Eylül sonrası İç Güvenlik Bakanlığı'nın özel bir kolu olarak kurulan ICE, göçmenlik yasalarını uygulamak ve ulusötesi suç ağlarıyla mücadele etmek amacıyla oluşturulmuştu. Yıllık... ",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3341597/us-agents-who-shot-minneapolis-man-alex-pretti-placed-leave?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/united-states-canada/article/3341597/us-agents-who-shot-minneapolis-man-alex-pretti-placed-leave?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3341597/us-agents-who-shot-minneapolis-man-alex-pretti-placed-leave?utm_source=rss_feed",
+          "titleTR": "Minneapolis'te Alex Pretti'yi vuran ABD ajanları izne çıkarıldı",
+          "descriptionTR": "Minneapolis'te bir protestocunun ölümcül şekilde vurulmasına karışan iki göçmenlik ajanı izne çıkarıldı, ABD Gümrük ve Sınır Koruma sözcüsü Çarşamba günü yaptığı açıklamada belirtti. Başkan Donald Trump, olayla ilgili tepkilerle mücadele ederken, “Olayda yer alan iki memur idari izne çıkarıldı. Bu standart bir protokoldür,” dedi. Yoğun bakım hemşiresi Alex Pretti, kamuflaj giymiş memurlar tarafından yere yatırıldıktan sonra Cumartesi günü birden fazla kez vuruldu...",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-28T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3341597/us-agents-who-shot-minneapolis-man-alex-pretti-placed-leave?utm_source=rss_feed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 27,
+      "packetTitle": "ABD'de göçmenlik baskısına karşı ulusal protestolar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-02-02T12:00:00Z",
+      "items": [
+        {
+          "atomID": "036100d2-fe23-11f0-bba8-db06c9678dcb",
+          "id": "036100d2-fe23-11f0-bba8-db06c9678dcb",
+          "link": "https://www.france24.com/en/americas/20260130-pictures-thousands-march-cities-across-usanational-shutdown-immigration-crackdown-ice",
+          "titleTR": "ABD genelinde binlerce kişi 'ulusal kapanma' protestosunda yürüdü",
+          "descriptionTR": "Trump yönetiminin göçmenlik baskısına karşı öfkesini göstermek için Minneapolis ve diğer ABD şehirlerinde binlerce protestocu Cuma günü sokaklara döküldü. Minneapolis'te federal ajanlar tarafından öldürülen Alex Pretti ve Renée Good'un ardından bir eylem günü çağrısına yanıt olarak bu katılım gerçekleşti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-01-30T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/americas/20260130-pictures-thousands-march-cities-across-usanational-shutdown-immigration-crackdown-ice"
+            }
+          ]
+        },
+        {
+          "atomID": "b2910665",
+          "id": "b2910665",
+          "link": "https://www.independent.co.uk/news/world/americas/ice-minnesota-trump-homan-alex-pretti-shooting-latest-b2910665.html",
+          "titleTR": "Minnesota ICE canlı: Bruce Springsteen, Renee Good ve Alex Pretti için düzenlenen bağış etkinliğinde sahne aldı, ülke genelinde protestolar patlak verdi",
+          "descriptionTR": "Springsteen'in Cuma günü sahneye çıkarken gitarında 'Başkanı Tutuklayın' yazdığı bildirildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-02-02T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/ice-minnesota-trump-homan-alex-pretti-shooting-latest-b2910665.html"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "Eski Muhafazakar içişleri bakanı Suella Braverman, Reform UK'ye katıldı ve bu durum Muhafazakar Parti'nin kendisine yönelik eleştirel bir brifingi geri çekmesiyle tartışma yarattı.",
-   "packetTitle": "Suella Braverman'ın Reform UK'ye katılması ve Muhafazakar Parti'nin tartışmalı tepkisi",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 19
-  },
-  {
-   "items": [
+  ],
+  "superPackets": [
     {
-     "atomID": "https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952",
-     "category": "",
-     "descriptionTR": "Güney Kore'nin eski başkanı Yoon Suk Yeol'un eşi, sıkıyönetim girişimi nedeniyle görevden alınan, yolsuzluk suçlamasıyla 20 ay hapis cezasına çarptırıldı.",
-     "group": "",
-     "id": "https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952",
-     "link": "https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Sky News World",
-       "url": "https://news.sky.com/story/south-koreas-former-first-lady-kim-keon-hee-jailed-for-20-months-for-corruption-13499952"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cj3vpe8zme8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Japan Times",
-       "url": "https://www.japantimes.co.jp/news/2026/01/28/asia-pacific/politics/south-korea-first-lady-corruption/"
-      }
-     ],
-     "titleTR": "Güney Kore'nin eski first lady'si yolsuzluktan 20 ay hapis cezası aldı"
+      "title": "Avustralya Açık'ta yoğun mücadeleler",
+      "spot": "Bu hafta Avustralya Açık, hem kortta hem de aşırı sıcak hava koşullarına karşı yoğun mücadelelere sahne oldu. Carlos Alcaraz ve Jannik Sinner gibi oyuncular heyecan verici performanslar sergiledi.",
+      "slots": [
+        10,
+        21
+      ]
+    },
+    {
+      "title": "ICE ile ilgili ölümler ve göçmenlik politikaları üzerine ülke çapında tepkiler",
+      "spot": "Bu hafta, ICE ajanları tarafından Alex Pretti'nin öldürülmesiyle ilgili tartışmalar yoğunlaştı ve göçmenlik politikalarına ve federal otoriteye karşı ülke çapında protestoları tetikledi. Olaylar, Trump yönetiminin göçmenlik uygulamalarını ele alış biçimine yönelik artan kamuoyu tepkisini ve incelemesini öne çıkarıyor.",
+      "slots": [
+        24,
+        26,
+        27
+      ]
     }
-   ],
-   "packetSpot": "Güney Kore'nin eski first lady'si Kim Keon Hee, yolsuzluk ve rüşvet suçlarından 20 ay hapis cezasına çarptırıldı. Ayrıca bir elmas kolyeyi iade etmesi ve nakit parayı geri ödemesi emredildi.",
-   "packetTitle": "Güney Kore'nin eski first lady'si Kim Keon Hee yolsuzluk ve rüşvetten hapis cezası aldı",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 20
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422",
-     "category": "",
-     "descriptionTR": "Avustralya Açık'ın 10. gününde rekor sıcaklıklar bekleniyor. Tekler çeyrek finalleri başlarken, Alex de Minaur ve bir numaralı seribaşı Carlos Alcaraz karşılaşması öne çıkıyor. Canlı takip edin.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422",
-     "link": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-01-27/australian-open-2026-live-alex-de-minaur-alcaraz-sabalenka-gauff/106272422"
-      }
-     ],
-     "titleTR": "Avustralya Açık'ta de Minaur'un çeyrek finali öncesi sıcaklık 45°C'yi bulacak"
-    },
-    {
-     "atomID": "https://www.abc.net.au/news/2026-01-27/australian-open-alex-de-minaur-carlos-alcaraz-quarterfinal/106269964",
-     "category": "",
-     "descriptionTR": "Dünya bir numarası Carlos Alcaraz, Alex de Minaur'u daha önceki tüm karşılaşmalarında mağlup etti, ancak Avustralyalı oyuncu çeyrek final öncesi yılgın değil.",
-     "group": "",
-     "id": "https://www.abc.net.au/news/2026-01-27/australian-open-alex-de-minaur-carlos-alcaraz-quarterfinal/106269964",
-     "link": "https://www.abc.net.au/news/2026-01-27/australian-open-alex-de-minaur-carlos-alcaraz-quarterfinal/106269964",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ABC Australia News",
-       "url": "https://www.abc.net.au/news/2026-01-27/australian-open-alex-de-minaur-carlos-alcaraz-quarterfinal/106269964"
-      }
-     ],
-     "titleTR": "De Minaur, Avustralya Açık'ta kavurucu sıcak ve dünya bir numarasına karşı"
-    },
-    {
-     "atomID": "https://www.ansa.it/english/news/sports/2026/01/30/australian-open-sinner-loses-to-djokovic-in-thrilling-5-set-semi_a8fe5613-c2d8-4ff5-ac19-f95665a4675d.html",
-     "category": "",
-     "descriptionTR": "İtalyan oyuncunun üst üste üçüncü şampiyonluk hedefi, 6-3, 3-6, 6-4, 4-6, 4-6'lık yenilgiyle sona erdi.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/sports/2026/01/30/australian-open-sinner-loses-to-djokovic-in-thrilling-5-set-semi_a8fe5613-c2d8-4ff5-ac19-f95665a4675d.html",
-     "link": "https://www.ansa.it/english/news/sports/2026/01/30/australian-open-sinner-loses-to-djokovic-in-thrilling-5-set-semi_a8fe5613-c2d8-4ff5-ac19-f95665a4675d.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/sports/2026/01/30/australian-open-sinner-loses-to-djokovic-in-thrilling-5-set-semi_a8fe5613-c2d8-4ff5-ac19-f95665a4675d.html"
-      }
-     ],
-     "titleTR": "Avustralya Açık: Sinner, Djokovic'e 5 setlik heyecanlı yarı finalde kaybetti"
-    }
-   ],
-   "packetSpot": "Avustralya Açık'ta oyuncular, aşırı sıcaklar ve zorlu rakiplerle mücadele ederek çeyrek ve yarı finalleri heyecanlı hale getirdi.",
-   "packetTitle": "Avustralya Açık'ta zorlu mücadeleler ve aşırı sıcaklar",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 21
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1769448544",
-     "category": "",
-     "descriptionTR": "Batı Cava'daki heyelanda kaybolan 42 kişi arasında Endonezya'nın seçkin deniz kuvvetlerinden 19 üye bulunuyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1769448544",
-     "link": "https://www.aljazeera.com/news/2026/1/26/death-toll-from-indonesia-landslide-rises-to-17-as-dozens-remain-missing?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/1/26/death-toll-from-indonesia-landslide-rises-to-17-as-dozens-remain-missing?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Endonezya'daki heyelanda ölü sayısı 17'ye yükseldi, onlarca kişi kayıp"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1769448629",
-     "category": "",
-     "descriptionTR": "Endonezya'daki heyelanda, 19'u seçkin deniz kuvvetlerinden olmak üzere en az 80 kişi kayıp.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1769448629",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/1/26/massive-search-underway-for-dozens-missing-in-deadly-indonesia-landslide?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/26/massive-search-underway-for-dozens-missing-in-deadly-indonesia-landslide?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Endonezya'daki ölümcül heyelanda kaybolanlar için büyük arama çalışması"
-    },
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/01/26/1000-evacuated-as-landslide-leaves-homes-on-the-precipice-in-sicilian-town_dc155b8b-ba36-4fdf-b604-fab4462429d1.html",
-     "category": "",
-     "descriptionTR": "Niscemi'de evler uçurumun kenarında; durum dramatik.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/01/26/1000-evacuated-as-landslide-leaves-homes-on-the-precipice-in-sicilian-town_dc155b8b-ba36-4fdf-b604-fab4462429d1.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/01/26/1000-evacuated-as-landslide-leaves-homes-on-the-precipice-in-sicilian-town_dc155b8b-ba36-4fdf-b604-fab4462429d1.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/01/26/1000-evacuated-as-landslide-leaves-homes-on-the-precipice-in-sicilian-town_dc155b8b-ba36-4fdf-b604-fab4462429d1.html"
-      }
-     ],
-     "titleTR": "Sicilya'da heyelan nedeniyle 1,000 kişi tahliye edildi"
-    },
-    {
-     "atomID": "https://www.straitstimes.com/world/europe/over-1000-people-evacuated-after-landslide-in-sicily",
-     "category": "",
-     "descriptionTR": "25 Ocak'taki heyelan sonrasında ölüm ya da yaralanma bildirilmedi.",
-     "group": "",
-     "id": "https://www.straitstimes.com/world/europe/over-1000-people-evacuated-after-landslide-in-sicily",
-     "link": "https://www.straitstimes.com/world/europe/over-1000-people-evacuated-after-landslide-in-sicily",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Straits Times World",
-       "url": "https://www.straitstimes.com/world/europe/over-1000-people-evacuated-after-landslide-in-sicily"
-      }
-     ],
-     "titleTR": "Sicilya'daki heyelan sonrası 1,000'den fazla kişi tahliye edildi"
-    }
-   ],
-   "packetSpot": "Endonezya ve Sicilya'da meydana gelen heyelanlar can kayıplarına, tahliyelere ve devam eden arama çalışmalarına yol açtı.",
-   "packetTitle": "Heyelan felaketleri dünya gündeminde",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 22
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1769434588",
-     "category": "",
-     "descriptionTR": "Avrupa Komisyonu, AI aracının yasal yükümlülüklerini yerine getirip getirmediğini inceleyeceğini açıkladı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1769434588",
-     "link": "https://www.aljazeera.com/news/2026/1/26/eu-launches-probe-into-grok-ai-feature-creating-deepfakes-of-women-minors?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/1/26/eu-launches-probe-into-grok-ai-feature-creating-deepfakes-of-women-minors?traffic_source=rss"
-      }
-     ],
-     "titleTR": "AB, Musk'ın Grok AI özelliğini kadınlar ve çocuklarla ilgili derin sahtecilikler nedeniyle soruşturuyor"
-    },
-    {
-     "atomID": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/",
-     "category": "",
-     "descriptionTR": "Elon Musk'ın şirketi, günlük cirosunun yüzde 6'sına kadar para cezasıyla karşı karşıya kalabilir.",
-     "group": "",
-     "id": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/",
-     "link": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Ars Technica",
-       "url": "https://arstechnica.com/tech-policy/2026/01/eu-launches-formal-investigation-of-xai-over-groks-sexualized-deepfakes/"
-      }
-     ],
-     "titleTR": "AB, Grok'un cinselleştirilmiş derin sahtecilikleri nedeniyle xAI hakkında resmi soruşturma başlattı"
-    }
-   ],
-   "packetSpot": "AB, kadınlar ve çocuklarla ilgili derin sahtecilik endişeleri nedeniyle AI teknolojileri hakkında soruşturma başlattı.",
-   "packetTitle": "AB'nin Grok AI soruşturması: Derin sahtecilik endişeleri",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 23
-  },
-  {
-   "items": [
-    {
-     "atomID": "1db8c5be-faf4-11f0-8565-37af375eab1a",
-     "category": "",
-     "descriptionTR": "37 yaşındaki yoğun bakım hemşiresi Alex Pretti, Minneapolis'te vurularak öldürüldü. Bu olay, aynı şehirde Renee Good'un ölümcül şekilde vurulmasından sadece haftalar sonra gerçekleşti. İç Güvenlik Bakanlığı, Pretti'nin \"silah salladığı\", \"yerli terörist\" olduğu ve federal ajanlara saldırgan bir şekilde yaklaştığını iddia ediyor... ancak video kanıtlar Trump yönetiminin \"resmi\" olay anlatımını doğrudan çürütüyor. Vedika Bahl, Truth or Fake programında olayın birçok açıdan incelemesini yapıyor.",
-     "group": "",
-     "id": "1db8c5be-faf4-11f0-8565-37af375eab1a",
-     "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260126-video-evidence-of-alex-pretti-s-killing-contradicts-trump-administration-s-account",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260126-video-evidence-of-alex-pretti-s-killing-contradicts-trump-administration-s-account"
-      }
-     ],
-     "titleTR": "Alex Pretti'nin öldürülmesine dair video kanıtlar Trump yönetiminin anlatımını çürütüyor"
-    },
-    {
-     "atomID": "fb5ee8b2-faf4-11f0-a6e9-834672c9f2da",
-     "category": "",
-     "descriptionTR": "FRANCE 24'ten Mark Owen ile konuşan Hamline Üniversitesi Siyaset Bilimi Profesörü David Schultz, Minneapolis'teki protestolar sırasında yoğun bakım hemşiresi Alex Pretti'nin öldürülmesine Trump yönetiminin verdiği tepkinin, silah sahipliği ile ilgili 'ilke mi ikiyüzlülük mü' sorusunu gündeme getirdiğini söylüyor.",
-     "group": "",
-     "id": "fb5ee8b2-faf4-11f0-a6e9-834672c9f2da",
-     "link": "https://www.france24.com/en/trump-administration-s-response-to-alex-pretti-killing-raises-questions-of-principles-vs-hypocrisy",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/trump-administration-s-response-to-alex-pretti-killing-raises-questions-of-principles-vs-hypocrisy"
-      }
-     ],
-     "titleTR": "Trump yönetiminin Alex Pretti'nin öldürülmesine tepkisi 'ilke mi ikiyüzlülük mü' sorusunu gündeme getiriyor"
-    },
-    {
-     "atomID": "09db7706-fae7-11f0-9aca-a129214f5c46",
-     "category": "",
-     "descriptionTR": "Renée Good'un vurularak öldürülmesinden 17 gün sonra, Minneapolis'te maskeli Göçmenlik ve Gümrük Muhafaza ajanları bu kez 37 yaşındaki ABD vatandaşı Alex Pretti'yi öldürdü. Yine, kurbanların yerli terörist gibi davrandığını iddia eden resmi anlatımla çelişen video kanıtlar var. Kanıtlar bozulmadan veya yok edilmeden önce toplama yarışı, medya yankı odaları ve yukarıdan izleyen bir ABD başkanı.",
-     "group": "",
-     "id": "09db7706-fae7-11f0-9aca-a129214f5c46",
-     "link": "https://www.france24.com/en/tv-shows/the-debate/20260126-above-the-law-outrage-over-ice-killings-in-minneapolis",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/tv-shows/the-debate/20260126-above-the-law-outrage-over-ice-killings-in-minneapolis"
-      }
-     ],
-     "titleTR": "Yasanın üstünde mi? Minneapolis'teki ICE cinayetleri öfke yaratıyor"
-    },
-    {
-     "atomID": "69190e26-fade-11f0-8a5b-21e0a128d3c4",
-     "category": "",
-     "descriptionTR": "Nadia Massih, eski New York Eyalet Meclisi Üyesi Kenny Burgos'u (D) ağırlıyor. Burgos, bir ICE ajanı tarafından Alex Pretti'nin öldürülmesini, Amerikan siyasi bilincinde gerçek bir \"dönüm noktası\" olarak nitelendiriyor. Burgos, hem siyasi hem de kişisel bakış açılarından konuşarak, göçmen topluluklarının ötesine yayılan sessiz korkuyu dile getiriyor. ICE'in şiddet içeren taktikleri, yasal göçmenleri ve ABD vatandaşlarını da hedef alarak, Amerikan demokrasisinin ruhuyla yüzleşen bir ülke olarak korku yayıyor.",
-     "group": "",
-     "id": "69190e26-fade-11f0-8a5b-21e0a128d3c4",
-     "link": "https://www.france24.com/en/ice-killings-a-watershed-moment-trump-republicans-risk-breaking-with-the-american-people",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/ice-killings-a-watershed-moment-trump-republicans-risk-breaking-with-the-american-people"
-      }
-     ],
-     "titleTR": "ICE cinayetleri 'dönüm noktası': Trump ve Cumhuriyetçiler Amerikan halkıyla ters düşme riski taşıyor"
-    },
-    {
-     "atomID": "42fd7c1c-fada-11f0-9eda-21e0a128d3c4",
-     "category": "",
-     "descriptionTR": "Minneapolis'te göçmenlik ajanları tarafından ikinci bir ABD vatandaşının öldürülmesinin ardından ABD'de protestolar devam ediyor. 2002 yılında kurulan ICE, Trump yönetimi altında yoğun bir şekilde kullanıldı ve kitlesel sınır dışı etme ve agresif taktiklere odaklandı. Ajansın hızlı genişlemesi ve tartışmalı operasyonları, ABD vatandaşlarını ve belgeli göçmenleri sınır dışı etmeyi de içeren faaliyetleri, yeni işe alınanların eğitimi ve denetimi konusunda endişeler yarattı.",
-     "group": "",
-     "id": "42fd7c1c-fada-11f0-9eda-21e0a128d3c4",
-     "link": "https://www.france24.com/en/ice-under-scrutiny-amid-rising-protests-over-deadly-shootings",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/ice-under-scrutiny-amid-rising-protests-over-deadly-shootings"
-      }
-     ],
-     "titleTR": "Ölümcül saldırılar üzerine artan protestolar arasında ICE inceleme altında"
-    }
-   ],
-   "packetSpot": "Minneapolis'te ICE ajanları tarafından öldürülen Alex Pretti'nin ölümü, federal göçmenlik taktikleri üzerinde protestolar ve incelemeler başlattı.",
-   "packetTitle": "Alex Pretti'nin öldürülmesi üzerine tartışmalar büyüyor",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 24
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://techcrunch.com/?p=3086313",
-     "category": "",
-     "descriptionTR": "Uluslararası oyun endüstrisinden birçok kişi, ICE varlığının artması ve diğer endişeler nedeniyle 2026 Oyun Geliştiricileri Konferansı'na katılmaktan kaçınıyor.",
-     "group": "",
-     "id": "https://techcrunch.com/?p=3086313",
-     "link": "https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "TechCrunch",
-       "url": "https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/"
-      }
-     ],
-     "titleTR": "2026 GDC'ye uluslararası katılım, güvenlik endişeleri ve ICE varlığı nedeniyle azalıyor"
-    },
-    {
-     "atomID": "b2908061",
-     "category": "",
-     "descriptionTR": "Kanadalı turistlerin ABD'yi ziyaret sayısı 2025'te 12 ay boyunca sürekli azaldı.",
-     "group": "",
-     "id": "b2908061",
-     "link": "https://www.independent.co.uk/news/world/americas/us-politics/canada-boycott-ski-slopes-trump-b2908061.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Independent World",
-       "url": "https://www.independent.co.uk/news/world/americas/us-politics/canada-boycott-ski-slopes-trump-b2908061.html"
-      }
-     ],
-     "titleTR": "Kanadalılar, Trump ile ilgili siyasi gerilimler nedeniyle ABD kayak merkezlerinden uzak duruyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Seyahat eğilimleri değişiyor",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 25
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "Amerika daha önce de yoğun siyasi kutuplaşma yaşadı. Ancak, bir federal kolluk kuvveti ajansını potansiyel bir siyasi güç aracı haline getiren bir başkanlık dönemiyle karşılaşmadı. Donald Trump'ın ikinci başkanlık döneminde, ABD Göçmenlik ve Gümrük Muhafaza (ICE) ajansı tam da böyle bir riskle karşı karşıya. 11 Eylül sonrası İç Güvenlik Bakanlığı'nın özel bir kolu olarak kurulan ICE, göçmenlik yasalarını uygulamak ve ulusötesi suç ağlarıyla mücadele etmek amacıyla oluşturulmuştu. Yıllık... ",
-     "group": "",
-     "id": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed",
-     "link": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/opinion/world-opinion/article/3341509/ice-fatal-shootings-raise-fear-over-trumps-use-federal-authority?utm_source=rss_feed"
-      }
-     ],
-     "titleTR": "ICE'in ölümcül olayları, Trump'ın federal yetki kullanımına dair korkuları artırıyor"
-    },
-    {
-     "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3341597/us-agents-who-shot-minneapolis-man-alex-pretti-placed-leave?utm_source=rss_feed",
-     "category": "",
-     "descriptionTR": "Minneapolis'te bir protestocunun ölümcül şekilde vurulmasına karışan iki göçmenlik ajanı izne çıkarıldı, ABD Gümrük ve Sınır Koruma sözcüsü Çarşamba günü yaptığı açıklamada belirtti. Başkan Donald Trump, olayla ilgili tepkilerle mücadele ederken, “Olayda yer alan iki memur idari izne çıkarıldı. Bu standart bir protokoldür,” dedi. Yoğun bakım hemşiresi Alex Pretti, kamuflaj giymiş memurlar tarafından yere yatırıldıktan sonra Cumartesi günü birden fazla kez vuruldu...",
-     "group": "",
-     "id": "https://www.scmp.com/news/world/united-states-canada/article/3341597/us-agents-who-shot-minneapolis-man-alex-pretti-placed-leave?utm_source=rss_feed",
-     "link": "https://www.scmp.com/news/world/united-states-canada/article/3341597/us-agents-who-shot-minneapolis-man-alex-pretti-placed-leave?utm_source=rss_feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "South China Morning Post",
-       "url": "https://www.scmp.com/news/world/united-states-canada/article/3341597/us-agents-who-shot-minneapolis-man-alex-pretti-placed-leave?utm_source=rss_feed"
-      }
-     ],
-     "titleTR": "Minneapolis'te Alex Pretti'yi vuran ABD ajanları izne çıkarıldı"
-    }
-   ],
-   "packetSpot": "Minneapolis'te ICE tarafından gerçekleştirilen silahlı olaylar, ajansın güç kullanımı ve siyasi etkileri konusunda endişeleri artırdı.",
-   "packetTitle": "Minneapolis'taki ICE olayları ve siyasi yankıları",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 26
-  },
-  {
-   "items": [
-    {
-     "atomID": "036100d2-fe23-11f0-bba8-db06c9678dcb",
-     "category": "",
-     "descriptionTR": "Trump yönetiminin göçmenlik baskısına karşı öfkesini göstermek için Minneapolis ve diğer ABD şehirlerinde binlerce protestocu Cuma günü sokaklara döküldü. Minneapolis'te federal ajanlar tarafından öldürülen Alex Pretti ve Renée Good'un ardından bir eylem günü çağrısına yanıt olarak bu katılım gerçekleşti.",
-     "group": "",
-     "id": "036100d2-fe23-11f0-bba8-db06c9678dcb",
-     "link": "https://www.france24.com/en/americas/20260130-pictures-thousands-march-cities-across-usanational-shutdown-immigration-crackdown-ice",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "France 24 World",
-       "url": "https://www.france24.com/en/americas/20260130-pictures-thousands-march-cities-across-usanational-shutdown-immigration-crackdown-ice"
-      }
-     ],
-     "titleTR": "ABD genelinde binlerce kişi 'ulusal kapanma' protestosunda yürüdü"
-    },
-    {
-     "atomID": "b2910665",
-     "category": "",
-     "descriptionTR": "Springsteen'in Cuma günü sahneye çıkarken gitarında 'Başkanı Tutuklayın' yazdığı bildirildi.",
-     "group": "",
-     "id": "b2910665",
-     "link": "https://www.independent.co.uk/news/world/americas/ice-minnesota-trump-homan-alex-pretti-shooting-latest-b2910665.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:59Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Independent World",
-       "url": "https://www.independent.co.uk/news/world/americas/ice-minnesota-trump-homan-alex-pretti-shooting-latest-b2910665.html"
-      }
-     ],
-     "titleTR": "Minnesota ICE canlı: Bruce Springsteen, Renee Good ve Alex Pretti için düzenlenen bağış etkinliğinde sahne aldı, ülke genelinde protestolar patlak verdi"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "ABD'de göçmenlik baskısına karşı ulusal protestolar",
-   "publishedAt": "2026-07-09T22:53:59Z",
-   "sessionID": "produce-week-py",
-   "slot": 27
-  }
- ],
- "superPackets": [
-  {
-   "slots": [
-    10,
-    21
-   ],
-   "spot": "Bu hafta Avustralya Açık, hem kortta hem de aşırı sıcak hava koşullarına karşı yoğun mücadelelere sahne oldu. Carlos Alcaraz ve Jannik Sinner gibi oyuncular heyecan verici performanslar sergiledi.",
-   "title": "Avustralya Açık'ta yoğun mücadeleler"
-  },
-  {
-   "slots": [
-    24,
-    26,
-    27
-   ],
-   "spot": "Bu hafta, ICE ajanları tarafından Alex Pretti'nin öldürülmesiyle ilgili tartışmalar yoğunlaştı ve göçmenlik politikalarına ve federal otoriteye karşı ülke çapında protestoları tetikledi. Olaylar, Trump yönetiminin göçmenlik uygulamalarını ele alış biçimine yönelik artan kamuoyu tepkisini ve incelemesini öne çıkarıyor.",
-   "title": "ICE ile ilgili ölümler ve göçmenlik politikaları üzerine ülke çapında tepkiler"
-  }
- ],
- "week": "2026-W05"
+  ]
 }

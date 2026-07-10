@@ -1,347 +1,347 @@
 {
- "label": "8-14 HAZİRAN",
- "publishedAt": "2026-07-09T22:53:56Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W24",
+  "label": "8-14 HAZİRAN",
+  "publishedAt": "2026-07-10T18:47:13Z",
+  "slots": [
     {
-     "atomID": "https://www.bbc.com/news/articles/cdep497r256o#2",
-     "category": "",
-     "descriptionTR": "Pekin, stratejik açıdan hayati ancak derinlemesine öngörülemez bir ortak üzerindeki etkisini yeniden tesis etmeye çalışıyor.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/cdep497r256o#2",
-     "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/6/8/how-significant-is-xi-jinpings-visit-to-north-korea?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Xi Jinping Kuzey Kore'de: Dostluk mu, koz mu?"
-    }
-   ],
-   "packetSpot": "Xi Jinping'in Kuzey Kore ziyareti, Pekin'in öngörülemez müttefikine olan etkisini yeniden tesis etme çabasını vurguluyor.",
-   "packetTitle": "Xi Jinping'in Kuzey Kore ziyareti stratejik ilişkileri öne çıkarıyor",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.bbc.com/news/articles/cn75l36vdd8o#0",
-     "category": "",
-     "descriptionTR": "Kiev, Moskova'nın işgal ettiği bölgelere askeri ve sivil malzeme sağlamasını zorlaştırıyor.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/cn75l36vdd8o#0",
-     "link": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News Europe",
-       "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Rusya'nın yakıt krizi, Ukrayna'nın işgal altındaki bölgelere saldırılarıyla derinleşiyor"
-    }
-   ],
-   "packetSpot": "Ukrayna'nın Rusya'nın işgal altındaki bölgelere yönelik artan askeri saldırıları, Rusya'nın yakıt krizini derinleştiriyor ve Moskova'nın tedarik çabalarını zorlaştırıyor.",
-   "packetTitle": "Ukrayna'nın işgal altındaki bölgelere yönelik saldırıları Rusya'nın yakıt krizini derinleştiriyor",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781108630",
-     "category": "",
-     "descriptionTR": "Johannesburg yakınlarında 12 kişinin hayatını kaybettiği toplu saldırıda en az 10 şüpheli için insan avı sürüyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781108630",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Johannesburg'da en az 10 saldırganla toplu saldırı"
-    }
-   ],
-   "packetSpot": "Johannesburg'da 12 kişinin ölümüne ve çok sayıda kişinin yaralanmasına neden olan toplu saldırının ardından insan avı devam ediyor. Yetkililer, saldırıya karışan en az 10 şüpheliyi arıyor.",
-   "packetTitle": "Johannesburg'daki toplu saldırı sonrası insan avı sürüyor",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.bbc.com/news/articles/cy8d9e4lzv1o#2",
-     "category": "",
-     "descriptionTR": "SpaceX, borsaya açılarak şirketi, piyasayı ve Elon Musk'ın servetini dönüştürebilecek bir adım atmaya hazırlanıyor.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/cy8d9e4lzv1o#2",
-     "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "SpaceX'in borsaya açılması Musk'ın en büyük kumarı olabilir"
+      "slot": 1,
+      "packetTitle": "Xi Jinping'in Kuzey Kore ziyareti stratejik ilişkileri öne çıkarıyor",
+      "packetSpot": "Xi Jinping'in Kuzey Kore ziyareti, Pekin'in öngörülemez müttefikine olan etkisini yeniden tesis etme çabasını vurguluyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-08T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/cdep497r256o#2",
+          "id": "https://www.bbc.com/news/articles/cdep497r256o#2",
+          "link": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Xi Jinping Kuzey Kore'de: Dostluk mu, koz mu?",
+          "descriptionTR": "Pekin, stratejik açıdan hayati ancak derinlemesine öngörülemez bir ortak üzerindeki etkisini yeniden tesis etmeye çalışıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cdep497r256o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/6/8/how-significant-is-xi-jinpings-visit-to-north-korea?traffic_source=rss"
+            }
+          ]
+        }
+      ]
     },
     {
-     "atomID": "https://www.bbc.com/news/videos/c4gyx0x1d5ro#3",
-     "category": "",
-     "descriptionTR": "BBC'den Samira Hussain, SpaceX'in tarihi halka arzı hakkında bilmeniz gereken her şeyi açıklıyor.",
-     "group": "",
-     "id": "https://www.bbc.com/news/videos/c4gyx0x1d5ro#3",
-     "link": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "SpaceX'in borsa açılımı hakkında bilmeniz gereken üç şey"
+      "slot": 2,
+      "packetTitle": "Ukrayna'nın işgal altındaki bölgelere yönelik saldırıları Rusya'nın yakıt krizini derinleştiriyor",
+      "packetSpot": "Ukrayna'nın Rusya'nın işgal altındaki bölgelere yönelik artan askeri saldırıları, Rusya'nın yakıt krizini derinleştiriyor ve Moskova'nın tedarik çabalarını zorlaştırıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-08T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/cn75l36vdd8o#0",
+          "id": "https://www.bbc.com/news/articles/cn75l36vdd8o#0",
+          "link": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Rusya'nın yakıt krizi, Ukrayna'nın işgal altındaki bölgelere saldırılarıyla derinleşiyor",
+          "descriptionTR": "Kiev, Moskova'nın işgal ettiği bölgelere askeri ve sivil malzeme sağlamasını zorlaştırıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
     },
     {
-     "atomID": "https://www.bbc.com/news/videos/cvgjx68nyvmo#3",
-     "category": "",
-     "descriptionTR": "BBC'den Michelle Fleury, 2002'de Elon Musk ile birlikte şirketin kurucularından biri olan Tom Mueller ile konuştu.",
-     "group": "",
-     "id": "https://www.bbc.com/news/videos/cvgjx68nyvmo#3",
-     "link": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "'Ben bir numaralı çalışanım': SpaceX kurucu ortağı şirketin borsa açılımına tepki veriyor"
+      "slot": 3,
+      "packetTitle": "Johannesburg'daki toplu saldırı sonrası insan avı sürüyor",
+      "packetSpot": "Johannesburg'da 12 kişinin ölümüne ve çok sayıda kişinin yaralanmasına neden olan toplu saldırının ardından insan avı devam ediyor. Yetkililer, saldırıya karışan en az 10 şüpheliyi arıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-10T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781108630",
+          "id": "https://www.aljazeera.com/?t=1781108630",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss",
+          "titleTR": "Johannesburg'da en az 10 saldırganla toplu saldırı",
+          "descriptionTR": "Johannesburg yakınlarında 12 kişinin hayatını kaybettiği toplu saldırıda en az 10 şüpheli için insan avı sürüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "SpaceX'in borsa macerası",
+      "packetSpot": "SpaceX'in borsaya açılması büyük ilgi ve analizlere neden oluyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-12T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/cy8d9e4lzv1o#2",
+          "id": "https://www.bbc.com/news/articles/cy8d9e4lzv1o#2",
+          "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "SpaceX'in borsaya açılması Musk'ın en büyük kumarı olabilir",
+          "descriptionTR": "SpaceX, borsaya açılarak şirketi, piyasayı ve Elon Musk'ın servetini dönüştürebilecek bir adım atmaya hazırlanıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/videos/c4gyx0x1d5ro#3",
+          "id": "https://www.bbc.com/news/videos/c4gyx0x1d5ro#3",
+          "link": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
+          "titleTR": "SpaceX'in borsa açılımı hakkında bilmeniz gereken üç şey",
+          "descriptionTR": "BBC'den Samira Hussain, SpaceX'in tarihi halka arzı hakkında bilmeniz gereken her şeyi açıklıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-12T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/videos/cvgjx68nyvmo#3",
+          "id": "https://www.bbc.com/news/videos/cvgjx68nyvmo#3",
+          "link": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "'Ben bir numaralı çalışanım': SpaceX kurucu ortağı şirketin borsa açılımına tepki veriyor",
+          "descriptionTR": "BBC'den Michelle Fleury, 2002'de Elon Musk ile birlikte şirketin kurucularından biri olan Tom Mueller ile konuştu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-12T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "Kosova ve Ermenistan seçim sonuçları ve tepkiler",
+      "packetSpot": "Kosova ve Ermenistan'daki son seçimler önemli sonuçlar ve tepkilerle karşılandı; iptal çağrıları gündemde.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-12T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/cvgel990n51o#0",
+          "id": "https://www.bbc.com/news/articles/cvgel990n51o#0",
+          "link": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Rus baskısına rağmen Ermenistan'ın Batı yanlısı hükümeti seçimi kazandı",
+          "descriptionTR": "Başbakan Nikol Paşinyan'ın Sivil Sözleşme Partisi, oyların neredeyse %50'sini alarak diğer rakiplerini rahatça geride bıraktı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://balkaninsight.com/?p=1115228",
+          "id": "https://balkaninsight.com/?p=1115228",
+          "link": "https://balkaninsight.com/2026/06/08/eu-congratulates-kurti-on-kosovo-election-win-urges-compromise/bi/",
+          "titleTR": "AB'den Kurti'ye Kosova seçim zaferi tebriği ve 'uzlaşma' çağrısı",
+          "descriptionTR": "Vetevendosje, bir seçim zaferi daha kazandı; ancak azalan oy oranı, hükümet kurmak için diğer partilerle işbirliği yapma gerekliliğine işaret ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/06/08/eu-congratulates-kurti-on-kosovo-election-win-urges-compromise/bi/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781270846",
+          "id": "https://www.aljazeera.com/?t=1781270846",
+          "link": "https://www.aljazeera.com/news/2026/6/12/pro-russian-opposition-party-calls-for-armenian-election-result-annulment?traffic_source=rss",
+          "titleTR": "Rusya yanlısı muhalefet partisi Ermenistan seçim sonucunun iptalini istedi",
+          "descriptionTR": "Güçlü Ermenistan, iktidardaki Sivil Sözleşme partisinin Pazar günü yapılan seçimi usulsüzlüklerle kazandığını iddia ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-12T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/6/12/pro-russian-opposition-party-calls-for-armenian-election-result-annulment?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "packetTitle": "Askeri çatışmalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-12T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/c5yzm2nzgr2o#0",
+          "id": "https://www.bbc.com/news/articles/c5yzm2nzgr2o#0",
+          "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Ukrayna, Rusya'nın derinliklerindeki askeri tesise füze isabet ettiğini söylüyor",
+          "descriptionTR": "Ukrayna ordusu, ayrıca Rusya'daki bir petrol rafinerisi ve Karadeniz'deki bir \"gölge filo\" petrol tankerine saldırı düzenlediğini belirtiyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/cvg57nk373lo#0",
+          "id": "https://www.bbc.com/news/articles/cvg57nk373lo#0",
+          "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Pakistan'ın Afganistan'daki hava saldırıları gerilimi yeniden alevlendiriyor",
+          "descriptionTR": "Yeni saldırılar, iki ülke arasındaki huzursuz sınır bölgesinde haftalar süren nispi sakinliğin ardından geldi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1781266956",
+          "id": "https://www.aljazeera.com/?t=1781266956",
+          "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
+          "titleTR": "Ukrayna, Rus lojistiğine saldırıları ikiye katlayarak toprak kazandığını iddia ediyor",
+          "descriptionTR": "Ukrayna, 'kilitlenme' stratejisinin Rus tedarik hatlarını kesintiye uğratarak işe yaradığını söylüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-12T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "packetTitle": "Dünya genelinde yangın olayları",
+      "packetSpot": "ABD'de havai fişek taşıyan bir kamyonun yanması ve Hong Kong'da ölümcül bir yangın dahil olmak üzere yangınla ilgili olaylar meydana geldi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-06-10T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/videos/cgmdgz8kk7xo#3",
+          "id": "https://www.bbc.com/news/videos/cgmdgz8kk7xo#3",
+          "link": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "ABD'de havai fişek taşıyan kamyon yandı, gökyüzü renklendi",
+          "descriptionTR": "Olayda kimse yaralanmadı; sürücüler erken bir 4 Temmuz gösterisi izledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c04yldyezyeo#0",
+          "id": "https://www.bbc.com/news/articles/c04yldyezyeo#0",
+          "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Hong Kong'daki ölümcül yangınla ilgili adam öldürme suçlamaları",
+          "descriptionTR": "Geçen yıl Wang Fuk Court'ta meydana gelen yangın, Hong Kong'un 70 yıldır gördüğü en ölümcül yangındı ve 168 kişinin ölümüne yol açtı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-06-10T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "SpaceX'in borsaya açılması büyük ilgi ve analizlere neden oluyor.",
-   "packetTitle": "SpaceX'in borsa macerası",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  },
-  {
-   "items": [
+  ],
+  "superPackets": [
     {
-     "atomID": "https://www.bbc.com/news/articles/cvgel990n51o#0",
-     "category": "",
-     "descriptionTR": "Başbakan Nikol Paşinyan'ın Sivil Sözleşme Partisi, oyların neredeyse %50'sini alarak diğer rakiplerini rahatça geride bıraktı.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/cvgel990n51o#0",
-     "link": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News Europe",
-       "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Rus baskısına rağmen Ermenistan'ın Batı yanlısı hükümeti seçimi kazandı"
-    },
-    {
-     "atomID": "https://balkaninsight.com/?p=1115228",
-     "category": "",
-     "descriptionTR": "Vetevendosje, bir seçim zaferi daha kazandı; ancak azalan oy oranı, hükümet kurmak için diğer partilerle işbirliği yapma gerekliliğine işaret ediyor.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1115228",
-     "link": "https://balkaninsight.com/2026/06/08/eu-congratulates-kurti-on-kosovo-election-win-urges-compromise/bi/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/06/08/eu-congratulates-kurti-on-kosovo-election-win-urges-compromise/bi/"
-      }
-     ],
-     "titleTR": "AB'den Kurti'ye Kosova seçim zaferi tebriği ve 'uzlaşma' çağrısı"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781270846",
-     "category": "",
-     "descriptionTR": "Güçlü Ermenistan, iktidardaki Sivil Sözleşme partisinin Pazar günü yapılan seçimi usulsüzlüklerle kazandığını iddia ediyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781270846",
-     "link": "https://www.aljazeera.com/news/2026/6/12/pro-russian-opposition-party-calls-for-armenian-election-result-annulment?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/6/12/pro-russian-opposition-party-calls-for-armenian-election-result-annulment?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Rusya yanlısı muhalefet partisi Ermenistan seçim sonucunun iptalini istedi"
+      "title": "Artan askeri saldırılar ve stratejik etkileri",
+      "spot": "Bu hafta, askeri saldırıların yoğunluğu arttı; Ukrayna, Rus lojistik hedeflerini vururken, Pakistan Afganistan'da hava saldırıları düzenledi. Kaynaklar, bu tırmanışların stratejik etkileri üzerinde yoğunlaşıyor.",
+      "slots": [
+        2,
+        6
+      ]
     }
-   ],
-   "packetSpot": "Kosova ve Ermenistan'daki son seçimler önemli sonuçlar ve tepkilerle karşılandı; iptal çağrıları gündemde.",
-   "packetTitle": "Kosova ve Ermenistan seçim sonuçları ve tepkiler",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 5
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.bbc.com/news/articles/c5yzm2nzgr2o#0",
-     "category": "",
-     "descriptionTR": "Ukrayna ordusu, ayrıca Rusya'daki bir petrol rafinerisi ve Karadeniz'deki bir \"gölge filo\" petrol tankerine saldırı düzenlediğini belirtiyor.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c5yzm2nzgr2o#0",
-     "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Ukrayna, Rusya'nın derinliklerindeki askeri tesise füze isabet ettiğini söylüyor"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/cvg57nk373lo#0",
-     "category": "",
-     "descriptionTR": "Yeni saldırılar, iki ülke arasındaki huzursuz sınır bölgesinde haftalar süren nispi sakinliğin ardından geldi.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/cvg57nk373lo#0",
-     "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Pakistan'ın Afganistan'daki hava saldırıları gerilimi yeniden alevlendiriyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1781266956",
-     "category": "",
-     "descriptionTR": "Ukrayna, 'kilitlenme' stratejisinin Rus tedarik hatlarını kesintiye uğratarak işe yaradığını söylüyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1781266956",
-     "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Ukrayna, Rus lojistiğine saldırıları ikiye katlayarak toprak kazandığını iddia ediyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Askeri çatışmalar",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 6
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.bbc.com/news/videos/cgmdgz8kk7xo#3",
-     "category": "",
-     "descriptionTR": "Olayda kimse yaralanmadı; sürücüler erken bir 4 Temmuz gösterisi izledi.",
-     "group": "",
-     "id": "https://www.bbc.com/news/videos/cgmdgz8kk7xo#3",
-     "link": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "ABD'de havai fişek taşıyan kamyon yandı, gökyüzü renklendi"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c04yldyezyeo#0",
-     "category": "",
-     "descriptionTR": "Geçen yıl Wang Fuk Court'ta meydana gelen yangın, Hong Kong'un 70 yıldır gördüğü en ölümcül yangındı ve 168 kişinin ölümüne yol açtı.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c04yldyezyeo#0",
-     "link": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c04yldyezyeo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Hong Kong'daki ölümcül yangınla ilgili adam öldürme suçlamaları"
-    }
-   ],
-   "packetSpot": "ABD'de havai fişek taşıyan bir kamyonun yanması ve Hong Kong'da ölümcül bir yangın dahil olmak üzere yangınla ilgili olaylar meydana geldi.",
-   "packetTitle": "Dünya genelinde yangın olayları",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 7
-  }
- ],
- "superPackets": [
-  {
-   "slots": [
-    2,
-    6
-   ],
-   "spot": "Bu hafta, askeri saldırıların yoğunluğu arttı; Ukrayna, Rus lojistik hedeflerini vururken, Pakistan Afganistan'da hava saldırıları düzenledi. Kaynaklar, bu tırmanışların stratejik etkileri üzerinde yoğunlaşıyor.",
-   "title": "Artan askeri saldırılar ve stratejik etkileri"
-  }
- ],
- "week": "2026-W24"
+  ]
 }

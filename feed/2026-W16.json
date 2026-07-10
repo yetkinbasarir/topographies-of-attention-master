@@ -1,321 +1,321 @@
 {
- "label": "13-19 NİSAN",
- "publishedAt": "2026-07-09T22:53:57Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W16",
+  "label": "13-19 NİSAN",
+  "publishedAt": "2026-07-10T18:47:13Z",
+  "slots": [
     {
-     "atomID": "tag:theatlantic.com,2026:50-686781",
-     "category": "",
-     "descriptionTR": "Viktor Orbán'ın seçimdeki yenilgisi, Macar lider kadar Donald Trump ve yardımcısı J. D. Vance için de bir kayıp olarak değerlendiriliyor. Amerikan liderlerinin bir yabancı seçimde bu kadar açık müdahalede bulunması nadir görülürken, tercih ettikleri adayın bu kadar kötü sonuç alması da dikkat çekici. Trump, hayal kırıklığına uğratan kişilerden uzaklaşma eğiliminde olsa da, Orbán ile kurduğu sıkı bağ nedeniyle bu sefer bu durumdan kolayca sıyrılması zor görünüyor. Orbán'ın kampanyalarında Trump yanlısı semboller yoğun bir şekilde kullanılırken, Péter Magyar liderliğindeki muhalefet farklı bir imaj çizdi. Budapeşte sokaklarında Orbán'ın 16 yıllık iktidarının sona ermesini kutlayan kalabalıklar, havai fişekler ve Avrupa Birliği bayraklarıyla coştu. Trump, uluslararası aşırı sağ bloğun lideri olarak kendini görse de, Orbán'ın yenilgisi bu imajı zedeleyebilir. Orbán, Trump'ın 2016'daki zaferinden sonra popülist partileri harekete geçiren bir figür olmuştu. Ancak bu seçimdeki yenilgisi, Washington-Budapeşte hattında son on yılda gelişen aşırı sağcı ağın çözülmesine yol açabilir. Seçim sürecinde, Orbán'ın Magyar'ı Brüksel'in ajanı olarak göstermeye çalışması ve Magyar'ın da Orbán'ı Rusya ile gizli işbirliği yapmakla suçlaması, yabancı etki tartışmalarını alevlendirdi. Trump ve Vance'in Orbán'a verdiği destek, Amerikan hükümetinin seçimdeki rolü konusunda soru işaretleri yaratıyor. Trump'ın Orbán'a verdiği destek, Amerikan iç siyasetindeki müdahalelerine benzer şekilde gerçekleşti. Ancak bu destek, Macar seçmenler arasında beklenen etkiyi yaratmadı ve Trump'ın son dakika vaatleri, sosyal medyada olumsuz tepkilere yol açtı. Orbán'ın son mitingindeki düşük katılım ve ekonomik sorunlar, seçim sonucunu etkileyen diğer faktörler arasında yer aldı.",
-     "group": "",
-     "id": "tag:theatlantic.com,2026:50-686781",
-     "link": "https://www.theatlantic.com/national-security/2026/04/viktor-orbans-loss-was-also-a-defeat-for-maga/686781/?utm_source=feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Atlantic",
-       "url": "https://www.theatlantic.com/national-security/2026/04/viktor-orbans-loss-was-also-a-defeat-for-maga/686781/?utm_source=feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Atlantic",
-       "url": "https://www.theatlantic.com/photography/2026/04/photos-hungarians-cheer-orbans-loss/686782/?utm_source=feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "POLITICO Europe",
-       "url": "https://www.politico.eu/article/hungary-viktor-orban-out-who-eu-next-disruptor-in-chief/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-      }
-     ],
-     "titleTR": "Viktor Orbán'ın yenilgisi MAGA için ne anlama geliyor?"
+      "slot": 1,
+      "packetTitle": "Péter Magyar'ın zaferi, Viktor Orbán'ın 16 yıllık iktidarını sona erdirdi",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-13T12:00:00Z",
+      "items": [
+        {
+          "atomID": "tag:theatlantic.com,2026:50-686781",
+          "id": "tag:theatlantic.com,2026:50-686781",
+          "link": "https://www.theatlantic.com/national-security/2026/04/viktor-orbans-loss-was-also-a-defeat-for-maga/686781/?utm_source=feed",
+          "titleTR": "Viktor Orbán'ın yenilgisi MAGA için ne anlama geliyor?",
+          "descriptionTR": "Viktor Orbán'ın seçimdeki yenilgisi, Macar lider kadar Donald Trump ve yardımcısı J. D. Vance için de bir kayıp olarak değerlendiriliyor. Amerikan liderlerinin bir yabancı seçimde bu kadar açık müdahalede bulunması nadir görülürken, tercih ettikleri adayın bu kadar kötü sonuç alması da dikkat çekici. Trump, hayal kırıklığına uğratan kişilerden uzaklaşma eğiliminde olsa da, Orbán ile kurduğu sıkı bağ nedeniyle bu sefer bu durumdan kolayca sıyrılması zor görünüyor. Orbán'ın kampanyalarında Trump yanlısı semboller yoğun bir şekilde kullanılırken, Péter Magyar liderliğindeki muhalefet farklı bir imaj çizdi. Budapeşte sokaklarında Orbán'ın 16 yıllık iktidarının sona ermesini kutlayan kalabalıklar, havai fişekler ve Avrupa Birliği bayraklarıyla coştu. Trump, uluslararası aşırı sağ bloğun lideri olarak kendini görse de, Orbán'ın yenilgisi bu imajı zedeleyebilir. Orbán, Trump'ın 2016'daki zaferinden sonra popülist partileri harekete geçiren bir figür olmuştu. Ancak bu seçimdeki yenilgisi, Washington-Budapeşte hattında son on yılda gelişen aşırı sağcı ağın çözülmesine yol açabilir. Seçim sürecinde, Orbán'ın Magyar'ı Brüksel'in ajanı olarak göstermeye çalışması ve Magyar'ın da Orbán'ı Rusya ile gizli işbirliği yapmakla suçlaması, yabancı etki tartışmalarını alevlendirdi. Trump ve Vance'in Orbán'a verdiği destek, Amerikan hükümetinin seçimdeki rolü konusunda soru işaretleri yaratıyor. Trump'ın Orbán'a verdiği destek, Amerikan iç siyasetindeki müdahalelerine benzer şekilde gerçekleşti. Ancak bu destek, Macar seçmenler arasında beklenen etkiyi yaratmadı ve Trump'ın son dakika vaatleri, sosyal medyada olumsuz tepkilere yol açtı. Orbán'ın son mitingindeki düşük katılım ve ekonomik sorunlar, seçim sonucunu etkileyen diğer faktörler arasında yer aldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Atlantic",
+              "url": "https://www.theatlantic.com/national-security/2026/04/viktor-orbans-loss-was-also-a-defeat-for-maga/686781/?utm_source=feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Atlantic",
+              "url": "https://www.theatlantic.com/photography/2026/04/photos-hungarians-cheer-orbans-loss/686782/?utm_source=feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/hungary-viktor-orban-out-who-eu-next-disruptor-in-chief/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "packetTitle": "ABD'nin İran'a yönelik deniz ablukası ve ateşkes gerilimleri",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-13T12:00:00Z",
+      "items": [
+        {
+          "atomID": "tag:theatlantic.com,2026:50-686792",
+          "id": "tag:theatlantic.com,2026:50-686792",
+          "link": "https://www.theatlantic.com/national-security/2026/04/trump-bullying-limit-iran-war/686792/?utm_source=feed",
+          "titleTR": "Trump, İran'a karşı 'en az kötü seçenek' stratejisine yöneliyor",
+          "descriptionTR": "Trump yönetimi, İran'a yönelik bombardımanlarla elde edemediği sonuçları ekonomik baskı yoluyla elde etmeyi planlıyor. ABD ve İsrail güçlerinin altı haftalık saldırıları İran'ı teslim olmaya zorlamadı ve İslamabad'daki görüşmeler sonuçsuz kalınca, ABD İran'a deniz ablukası uygulayacağını duyurdu. Bu strateji, Trump'ın orijinal hedeflerinden ne kadar uzaklaşıldığını gösteriyor. ABD, İran'ın ekonomik yaşamını zorlaştırarak müzakerelerde avantaj elde etmeyi hedefliyor. İran'ın enerji ihracatına bağımlılığı nedeniyle, Hürmüz Boğazı'na yönelik abluka, ekonomik baskı için 'en az kötü seçenek' olarak değerlendiriliyor. Ancak bu adım, ABD donanmasını İran güçleri veya vekilleriyle karşı karşıya getirebilir. Abluka, ABD'nin İran'ı ekonomik olarak zorlayarak müzakere masasına çekme çabasının bir parçası. Ancak bu süreçte dünya ekonomisi de zarar görebilir. Trump'ın liderlik konusundaki itibarı da risk altında. Trump'ın Avrupa'daki müttefikleri İran savaşına katılmayı reddetti ve İsrail Başbakanı Netanyahu, Trump'ın taleplerine rağmen Lübnan ile savaşı durdurmadı. Trump'ın Papa Leo XIV'e yönelik eleştirileri de uluslararası liderler arasında tepki çekti. Ablukanın nasıl işleyeceği konusunda Beyaz Saray ve Pentagon'dan fazla bilgi verilmedi. ABD'nin geçmişte Küba ve Venezuela'ya yönelik uyguladığı ablukalar gibi, bu abluka da uluslararası hukukta savaş ilanı olarak değerlendiriliyor. İran'ın ablukaya nasıl yanıt vereceği belirsizliğini koruyor. İran, asimetrik taktiklerle karşılık verebilir. Ablukanın başarılı olması durumunda bile, ticaretin normale dönmesi zaman alabilir. Trump, petrol fiyatlarının seçimlere kadar düşebileceğini belirtti. Ancak çatışma başladığından beri ticaret yavaşladı ve umutlar suya düştü. ABD ve İran, ateşkes sona ermeden önce müzakerelere dönebilir. Çin, İngiltere ve Fransa gibi ülkeler de barışçıl çözümler arayışında.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Atlantic",
+              "url": "https://www.theatlantic.com/national-security/2026/04/trump-bullying-limit-iran-war/686792/?utm_source=feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "Papa Leo XIV, Trump'ın eleştirilerine karşı İtalya'dan gelen desteği arkasına alıyor",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-13T12:00:00Z",
+      "items": [
+        {
+          "atomID": "tag:theatlantic.com,2026:50-686784",
+          "id": "tag:theatlantic.com,2026:50-686784",
+          "link": "https://www.theatlantic.com/newsletters/2026/04/trump-vs-pope-contradictory-message/686784/?utm_source=feed",
+          "titleTR": "Başkanın meseli",
+          "descriptionTR": "The Atlantic Daily'nin bu sayısında, günün en büyük hikayeleri, yeni fikirler ve kültür önerileri yer alıyor. Birçok kişi pazar günleri stres yaşar, ancak bunların çoğu, kendini küresel kaosun ortasında bulan ve birkaç ay içinde zorlu bir ara seçimle karşı karşıya olan bir başkan değildir. ABD Başkanı'nın sosyal medyadaki haftalık patlamaları genellikle pazar günü başlar ve ertesi sabahın erken saatlerine kadar devam eder. İran ile müzakerelerin başarısızlığı, aylardır artan benzin fiyatları ve Trump'ın müttefiki Viktor Orbán'ın Macaristan'da aldığı yenilgi, Trump'ın sinirlerini bozdu. Ancak bu haftanın en dikkat çekici konusu, Trump'ın Venezuela'ya saldırısı ve İran'daki savaş konusundaki eleştirileriyle öne çıkan Papa Leo XIV oldu. Trump, dini her şeyi kendi çıkarına hizmet eden bir araç olarak gördüğünü gösteren paylaşımlar yaptı. Trump, Truth Social'da \"Papa Leo suç konusunda ZAYIF ve dış politika için berbat\" diye yazdı. \"ABD Başkanı'nı eleştiren bir Papa istemiyorum çünkü ben tam olarak seçildiğim şeyi, REKOR DÜŞÜK SUÇ ORANLARI ve TARİHTEKİ EN BÜYÜK BORSAYI yaratarak yapıyorum.\" Trump, Leo XIV'ün sadece mevcut yönetimle iyi geçineceği düşünüldüğü için seçildiğini iddia etti. Trump ayrıca Leo'nun Demokrat stratejist David Axelrod ile görüşmesine de kızdı. \"Leo, Papa olarak işini yapmalı, sağduyulu olmalı, Radikal Sol'a hizmet etmeyi bırakmalı ve Büyük bir Papa olmalı, politikacı değil,\" dedi Trump. Kırk altı dakika sonra, Trump kendisini bir İsa figürü olarak tasvir eden bir illüstrasyon paylaştı. İllüstrasyon, Trump'ın bazı müttefikleri tarafından küfür ve hatta şeytani bir sahiplenme olarak nitelendirildi; başkan daha sonra resmi sildi ve gazetecilere, resmin onu bir doktor olarak tasvir ettiğine inandığını söyledi. Burada çok fazla çelişki var. Örneğin, Trump, Leo'nun siyaseti bırakmasını isterken, Papa'nın suç konusundaki politika duruşunu eleştiriyor. Burada neye atıfta bulunduğu bir muamma. (Katolik Kilisesi'nin bir ceza indirimi gündemi olduğu söylenebilir: İsa, Peygamber Yeşaya'yı alıntılayarak, mahkumlara özgürlük vaaz etmek için gönderildiğini söyledi ve ilk papa Petrus, en az bir kez hapsedildi ve muhtemelen İsa'yı savunduğu için idam edildi. Öte yandan, Vatikan Şehri, bazı hesaplara göre, dünyadaki en yüksek kişi başına suç oranına sahip, bu da çoğunlukla yankesicilikten kaynaklanıyor.) Trump'ın dini ve siyaseti birleştirmede sorun yaşamadığı da açık; İsa benzeri imaj ve Savunma Bakanı Pete Hegseth'in savaş konusundaki agresif söylemi bunu gösteriyor. Trump'ın herhangi bir kamu figüründen gelen eleştirilere (veya algılanan eleştirilere) refleksif tepkisi, onları sosyal medyada hedef almak oluyor. Bu siyah-beyaz dünya görüşü, İsa'dan çok, ölümü çarmıha gerilme olarak tasvir edilen başka bir dini lider olan Mani'ye daha çok benziyor. Leo'ya yönelik tirad, MAGA sağındaki bazı figürler arasında artan Katolik karşıtı duyguların son örneği. Trump'ın yönetiminde, Dışişleri Bakanı Marco Rubio ve Başkan Yardımcısı J. D. Vance gibi dindar Katolikler var, ancak bazıları, Vance gibi, Leo ve selefi Francis ile zaman zaman anlaşmazlık yaşadı. Geçen hafta The Free Press, Pentagon'un bir Vatikan yetkilisini çağırdığını bildirdi, bu tür bir toplantının ilk kez yapıldığı biliniyor. İki taraf da raporu küçümsedi, ancak Trump'ın paylaşımı aralarındaki sürtüşmeyi göz ardı etmeyi zorlaştırıyor. Bugün Cezayir'e uçarken gazetecilere konuşan Leo, \"Ne Trump yönetiminden ne de İncil'deki mesajı yüksek sesle dile getirmekten korkmuyorum,\" dedi. Trump'tan daha ölçülü olsa da, o da karşılık verebileceğini gösterdi ve Truth Social hakkında \"İronik—sitelerin adı bile. Daha fazla söze gerek yok,\" diyerek alay etti. Ancak Leo, Trump'ın kastettiği şekilde seçim siyasetine karışmaktan uzak durduğunu belirtirken, sosyal konular hakkında konuşma hakkını savundu ve İsa'nın \"barışçılar kutsanmıştır\" sözünü alıntıladı. Barış, yoksulluk ve ayrıcalık meseleleri Hristiyanlığın merkezindedir ve bu konuları nasıl ve ne kadar ele alacağı, dini benimseyen herhangi bir laik lider için—hatta herhangi bir birey için—bir zorluktur. Trump'ın teolojik vizyonu, Norman Vincent Peale'den, 20. yüzyılın ortalarında popüler bir Protestan vaizinden etkilenmiş olabilir. Peale, Pozitif Düşüncenin Gücü adlı kitabı yazdı ve mutluluk ve maddi zenginliği vurgulayan bir Hristiyanlık versiyonuyla Trump ailesi gibi cemaat üyelerini çekti. Ancak bu versiyon, takipçilerinden daha az şey talep ediyor gibi görünüyordu, oysa İsa, İncil'de tekrar tekrar kendisini takip etmenin sıradan bir iş olmadığını söylüyor. Yetişkinlik döneminde, Trump, 2016 seçimlerinde Hristiyanları kazanmasına rağmen, dindarlık veya kutsal yazılarla ilgili aşinalık belirtileri göstermedi. 2024'teki bir suikast girişiminden kurtulduktan sonra, Trump daha açık bir şekilde dini bir dil kullanmaya başladı ve cennete girme şansını kamuoyunda tartıştı. Ancak söylemi, davranışlarında net bir değişiklik, geçmiş günahlar için bağışlanma arayışı veya kiliseye katılımında artışla eşleşmedi. Barış, yoksulluk ve ayrıcalık meseleleri öncelikli görünmüyor: Nobel Ödülü peşinde bir barış elçisi olarak kendini kısa bir süre tasvir ettikten sonra, şimdi askeri macerayı kucakladı; ekonomik kargaşaya omuz silkti; ve göçmenlik uygulamaları konusundaki inanç liderlerinin endişelerini göz ardı etti. Trump, Hristiyanlığın ikonografik ve örgütsel gücünü iyi anlıyor, ancak bunun üzerinde herhangi bir kısıtlama yaratması gerektiği fikrini reddediyor gibi görünüyor. İlgili: Katolik Kilisesi ve Trump yönetimi anlaşamıyor. Peter Wehner: MAGA İsa gerçek İsa değil.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Atlantic",
+              "url": "https://www.theatlantic.com/newsletters/2026/04/trump-vs-pope-contradictory-message/686784/?utm_source=feed"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "Seçim gelişmeleri",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-17T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1776104885",
+          "id": "https://www.aljazeera.com/?t=1776104885",
+          "link": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss",
+          "titleTR": "Benin'de hükümet adayı Wadagni başkanlık seçiminde önde",
+          "descriptionTR": "Yeni başkan, ülkenin kuzeyinde ciddi güvenlik sorunları ve yaşam standartlarına yönelik zorluklarla karşı karşıya.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://balkaninsight.com/?p=1111702",
+          "id": "https://balkaninsight.com/?p=1111702",
+          "link": "https://balkaninsight.com/2026/04/13/balkan-leaders-congratulate-magyar-on-hungary-win-orban-allies-regretful/bi/",
+          "titleTR": "Balkan liderleri, Macaristan zaferi için Magyar'ı tebrik etti; Orban müttefikleri üzgün",
+          "descriptionTR": "Balkanlar'daki liderler, Viktor Orban'ın Fidesz partisini mağlup eden Peter Magyar ve Tisza Partisi'ni tebrik etti – Orban'ın Sırp müttefikleri de mağlup olan sağcı lideri övdü.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/04/13/balkan-leaders-congratulate-magyar-on-hungary-win-orban-allies-regretful/bi/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://balkaninsight.com/?p=1111661",
+          "id": "https://balkaninsight.com/?p=1111661",
+          "link": "https://balkaninsight.com/2026/04/13/a-loss-for-moscow-and-mar-a-lago-orbans-once-unassailable-rule-in-hungary-ends/rd/",
+          "titleTR": "Mar-a-Lago ve Moskova için kayıp: Orban'ın Macaristan'daki hükümranlığı sona erdi",
+          "descriptionTR": "Çocuk istismarı skandalı, ekonominin ve hizmetlerin kötü durumu ve iyi organize olmuş bir partiye sahip karizmatik bir eski içeri dönük kişi, Macaristan'ın güçlü liderini devirmek için gerekli unsurlardı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/04/13/a-loss-for-moscow-and-mar-a-lago-orbans-once-unassailable-rule-in-hungary-ends/rd/"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c4gd0l2x8j2o#0",
+          "id": "https://www.bbc.com/news/articles/c4gd0l2x8j2o#0",
+          "link": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Peru'da seçim, oy pusulası teslimatındaki aksaklık nedeniyle ikinci güne sarktı",
+          "descriptionTR": "Teknik ve lojistik sorunlar, yeni başkan ve Kongre üyelerini seçen Peruluların pazartesi günü de oy kullanmaya devam etmesine neden oldu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c62k3vvln5mo#1",
+          "id": "https://www.bbc.com/news/articles/c62k3vvln5mo#1",
+          "link": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Carney, üç ara seçimde oylar sayılırken Liberal çoğunluk hükümetine yakın",
+          "descriptionTR": "Bir koltuk daha, birkaç Muhafazakarın ayrılmasının ardından Kanada Başbakanı'nın iktidarını pekiştirebilir.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c74vwdpj7kdo#1",
+          "id": "https://www.bbc.com/news/articles/c74vwdpj7kdo#1",
+          "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Önde gelen aday, cinsel taciz iddiaları nedeniyle California valilik yarışından çekildi",
+          "descriptionTR": "Önde gelen Demokrat müttefikler, valilik yarışından çekilmesi için baskıyı artırdı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-13T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1776417612",
+          "id": "https://www.aljazeera.com/?t=1776417612",
+          "link": "https://www.aljazeera.com/news/2026/4/17/bulgaria-elections-whos-running-and-whats-at-stake?traffic_source=rss",
+          "titleTR": "Bulgaristan seçimleri: Kimler aday ve ne tehlikede?",
+          "descriptionTR": "Bulgaristan, siyasi ve sosyal bölünmeler nedeniyle son dört yılda yedi ulusal seçim yaptı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/4/17/bulgaria-elections-whos-running-and-whats-at-stake?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "Yeni kültürel alanlar açılıyor",
+      "packetSpot": "Yeni müze alanları açılarak taze kültürel deneyimler sunuyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-17T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/04/15/los-angeles-county-museum-of-art-new-david-geffen-galleries-reframe-6000-years-history",
+          "id": "https://www.theartnewspaper.com/2026/04/15/los-angeles-county-museum-of-art-new-david-geffen-galleries-reframe-6000-years-history",
+          "link": "https://www.theartnewspaper.com/2026/04/15/los-angeles-county-museum-of-art-new-david-geffen-galleries-reframe-6000-years-history",
+          "titleTR": "Los Angeles County Museum of Art'ta yeni David Geffen Galerileri 6.000 yıllık tarihi yeniden çerçeveliyor",
+          "descriptionTR": "20 yıllık bir çalışmanın ürünü olan geniş beton yapı, 19 Nisan'da açılıyor. Los Angeles bölgesine sıcak bir odak noktası sunmayı ve yerel topluma hizmet etmeyi amaçlıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/04/15/los-angeles-county-museum-of-art-new-david-geffen-galleries-reframe-6000-years-history"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/04/15/a-fresh-look-at-contemporary-culture-gus-casely-hayford-director-of-va-east-takes-us-inside-the-new-london-museum",
+          "id": "https://www.theartnewspaper.com/2026/04/15/a-fresh-look-at-contemporary-culture-gus-casely-hayford-director-of-va-east-takes-us-inside-the-new-london-museum",
+          "link": "https://www.theartnewspaper.com/2026/04/15/a-fresh-look-at-contemporary-culture-gus-casely-hayford-director-of-va-east-takes-us-inside-the-new-london-museum",
+          "titleTR": "Çağdaş kültüre taze bir bakış: V&A East direktörü Gus Casely-Hayford yeni Londra müzesini tanıtıyor",
+          "descriptionTR": "Bu ay açılacak olan Stratford merkezli müze, geçen yıl Mayıs ayında açıldığından beri 500.000 ziyaretçi çeken V&A East Storehouse'un başarısı üzerine inşa etmeyi hedefliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-15T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/04/15/a-fresh-look-at-contemporary-culture-gus-casely-hayford-director-of-va-east-takes-us-inside-the-new-london-museum"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/04/17/restored-victorian-greenhouse-links-green-wood-cemetery-to-its-living-neighbours",
+          "id": "https://www.theartnewspaper.com/2026/04/17/restored-victorian-greenhouse-links-green-wood-cemetery-to-its-living-neighbours",
+          "link": "https://www.theartnewspaper.com/2026/04/17/restored-victorian-greenhouse-links-green-wood-cemetery-to-its-living-neighbours",
+          "titleTR": "Restore edilen Viktorya dönemi serası Brooklyn'deki Green-Wood Mezarlığı'nı yaşayan komşularına bağlıyor",
+          "descriptionTR": "Bu hafta sonu açılacak olan Green-House, 1895 tarihli dökme demir ve cam yapıyı içeriyor ve ünlü mezarlığın 'yeni ön kapısı' olarak hizmet veriyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-17T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/04/17/restored-victorian-greenhouse-links-green-wood-cemetery-to-its-living-neighbours"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Péter Magyar'ın zaferi, Viktor Orbán'ın 16 yıllık iktidarını sona erdirdi",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
+  ],
+  "superPackets": [
     {
-     "atomID": "tag:theatlantic.com,2026:50-686792",
-     "category": "",
-     "descriptionTR": "Trump yönetimi, İran'a yönelik bombardımanlarla elde edemediği sonuçları ekonomik baskı yoluyla elde etmeyi planlıyor. ABD ve İsrail güçlerinin altı haftalık saldırıları İran'ı teslim olmaya zorlamadı ve İslamabad'daki görüşmeler sonuçsuz kalınca, ABD İran'a deniz ablukası uygulayacağını duyurdu. Bu strateji, Trump'ın orijinal hedeflerinden ne kadar uzaklaşıldığını gösteriyor. ABD, İran'ın ekonomik yaşamını zorlaştırarak müzakerelerde avantaj elde etmeyi hedefliyor. İran'ın enerji ihracatına bağımlılığı nedeniyle, Hürmüz Boğazı'na yönelik abluka, ekonomik baskı için 'en az kötü seçenek' olarak değerlendiriliyor. Ancak bu adım, ABD donanmasını İran güçleri veya vekilleriyle karşı karşıya getirebilir. Abluka, ABD'nin İran'ı ekonomik olarak zorlayarak müzakere masasına çekme çabasının bir parçası. Ancak bu süreçte dünya ekonomisi de zarar görebilir. Trump'ın liderlik konusundaki itibarı da risk altında. Trump'ın Avrupa'daki müttefikleri İran savaşına katılmayı reddetti ve İsrail Başbakanı Netanyahu, Trump'ın taleplerine rağmen Lübnan ile savaşı durdurmadı. Trump'ın Papa Leo XIV'e yönelik eleştirileri de uluslararası liderler arasında tepki çekti. Ablukanın nasıl işleyeceği konusunda Beyaz Saray ve Pentagon'dan fazla bilgi verilmedi. ABD'nin geçmişte Küba ve Venezuela'ya yönelik uyguladığı ablukalar gibi, bu abluka da uluslararası hukukta savaş ilanı olarak değerlendiriliyor. İran'ın ablukaya nasıl yanıt vereceği belirsizliğini koruyor. İran, asimetrik taktiklerle karşılık verebilir. Ablukanın başarılı olması durumunda bile, ticaretin normale dönmesi zaman alabilir. Trump, petrol fiyatlarının seçimlere kadar düşebileceğini belirtti. Ancak çatışma başladığından beri ticaret yavaşladı ve umutlar suya düştü. ABD ve İran, ateşkes sona ermeden önce müzakerelere dönebilir. Çin, İngiltere ve Fransa gibi ülkeler de barışçıl çözümler arayışında.",
-     "group": "",
-     "id": "tag:theatlantic.com,2026:50-686792",
-     "link": "https://www.theatlantic.com/national-security/2026/04/trump-bullying-limit-iran-war/686792/?utm_source=feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Atlantic",
-       "url": "https://www.theatlantic.com/national-security/2026/04/trump-bullying-limit-iran-war/686792/?utm_source=feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Trump, İran'a karşı 'en az kötü seçenek' stratejisine yöneliyor"
+      "title": "Küresel siyasi liderlikte değişimler",
+      "spot": "Bu hafta, birçok ülkede siyasi liderlikte önemli değişimler gözlemlendi. Özellikle Macaristan'ın Viktor Orbán'ın uzun süredir devam eden yönetiminden uzaklaşması dikkat çekiyor. Bu sonuçlar, dünya genelinde daha geniş bir siyasi yeniden hizalanma ve seçim sürprizleri eğilimini işaret ediyor.",
+      "slots": [
+        1,
+        4
+      ]
     }
-   ],
-   "packetSpot": "",
-   "packetTitle": "ABD'nin İran'a yönelik deniz ablukası ve ateşkes gerilimleri",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "tag:theatlantic.com,2026:50-686784",
-     "category": "",
-     "descriptionTR": "The Atlantic Daily'nin bu sayısında, günün en büyük hikayeleri, yeni fikirler ve kültür önerileri yer alıyor. Birçok kişi pazar günleri stres yaşar, ancak bunların çoğu, kendini küresel kaosun ortasında bulan ve birkaç ay içinde zorlu bir ara seçimle karşı karşıya olan bir başkan değildir. ABD Başkanı'nın sosyal medyadaki haftalık patlamaları genellikle pazar günü başlar ve ertesi sabahın erken saatlerine kadar devam eder. İran ile müzakerelerin başarısızlığı, aylardır artan benzin fiyatları ve Trump'ın müttefiki Viktor Orbán'ın Macaristan'da aldığı yenilgi, Trump'ın sinirlerini bozdu. Ancak bu haftanın en dikkat çekici konusu, Trump'ın Venezuela'ya saldırısı ve İran'daki savaş konusundaki eleştirileriyle öne çıkan Papa Leo XIV oldu. Trump, dini her şeyi kendi çıkarına hizmet eden bir araç olarak gördüğünü gösteren paylaşımlar yaptı. Trump, Truth Social'da \"Papa Leo suç konusunda ZAYIF ve dış politika için berbat\" diye yazdı. \"ABD Başkanı'nı eleştiren bir Papa istemiyorum çünkü ben tam olarak seçildiğim şeyi, REKOR DÜŞÜK SUÇ ORANLARI ve TARİHTEKİ EN BÜYÜK BORSAYI yaratarak yapıyorum.\" Trump, Leo XIV'ün sadece mevcut yönetimle iyi geçineceği düşünüldüğü için seçildiğini iddia etti. Trump ayrıca Leo'nun Demokrat stratejist David Axelrod ile görüşmesine de kızdı. \"Leo, Papa olarak işini yapmalı, sağduyulu olmalı, Radikal Sol'a hizmet etmeyi bırakmalı ve Büyük bir Papa olmalı, politikacı değil,\" dedi Trump. Kırk altı dakika sonra, Trump kendisini bir İsa figürü olarak tasvir eden bir illüstrasyon paylaştı. İllüstrasyon, Trump'ın bazı müttefikleri tarafından küfür ve hatta şeytani bir sahiplenme olarak nitelendirildi; başkan daha sonra resmi sildi ve gazetecilere, resmin onu bir doktor olarak tasvir ettiğine inandığını söyledi. Burada çok fazla çelişki var. Örneğin, Trump, Leo'nun siyaseti bırakmasını isterken, Papa'nın suç konusundaki politika duruşunu eleştiriyor. Burada neye atıfta bulunduğu bir muamma. (Katolik Kilisesi'nin bir ceza indirimi gündemi olduğu söylenebilir: İsa, Peygamber Yeşaya'yı alıntılayarak, mahkumlara özgürlük vaaz etmek için gönderildiğini söyledi ve ilk papa Petrus, en az bir kez hapsedildi ve muhtemelen İsa'yı savunduğu için idam edildi. Öte yandan, Vatikan Şehri, bazı hesaplara göre, dünyadaki en yüksek kişi başına suç oranına sahip, bu da çoğunlukla yankesicilikten kaynaklanıyor.) Trump'ın dini ve siyaseti birleştirmede sorun yaşamadığı da açık; İsa benzeri imaj ve Savunma Bakanı Pete Hegseth'in savaş konusundaki agresif söylemi bunu gösteriyor. Trump'ın herhangi bir kamu figüründen gelen eleştirilere (veya algılanan eleştirilere) refleksif tepkisi, onları sosyal medyada hedef almak oluyor. Bu siyah-beyaz dünya görüşü, İsa'dan çok, ölümü çarmıha gerilme olarak tasvir edilen başka bir dini lider olan Mani'ye daha çok benziyor. Leo'ya yönelik tirad, MAGA sağındaki bazı figürler arasında artan Katolik karşıtı duyguların son örneği. Trump'ın yönetiminde, Dışişleri Bakanı Marco Rubio ve Başkan Yardımcısı J. D. Vance gibi dindar Katolikler var, ancak bazıları, Vance gibi, Leo ve selefi Francis ile zaman zaman anlaşmazlık yaşadı. Geçen hafta The Free Press, Pentagon'un bir Vatikan yetkilisini çağırdığını bildirdi, bu tür bir toplantının ilk kez yapıldığı biliniyor. İki taraf da raporu küçümsedi, ancak Trump'ın paylaşımı aralarındaki sürtüşmeyi göz ardı etmeyi zorlaştırıyor. Bugün Cezayir'e uçarken gazetecilere konuşan Leo, \"Ne Trump yönetiminden ne de İncil'deki mesajı yüksek sesle dile getirmekten korkmuyorum,\" dedi. Trump'tan daha ölçülü olsa da, o da karşılık verebileceğini gösterdi ve Truth Social hakkında \"İronik—sitelerin adı bile. Daha fazla söze gerek yok,\" diyerek alay etti. Ancak Leo, Trump'ın kastettiği şekilde seçim siyasetine karışmaktan uzak durduğunu belirtirken, sosyal konular hakkında konuşma hakkını savundu ve İsa'nın \"barışçılar kutsanmıştır\" sözünü alıntıladı. Barış, yoksulluk ve ayrıcalık meseleleri Hristiyanlığın merkezindedir ve bu konuları nasıl ve ne kadar ele alacağı, dini benimseyen herhangi bir laik lider için—hatta herhangi bir birey için—bir zorluktur. Trump'ın teolojik vizyonu, Norman Vincent Peale'den, 20. yüzyılın ortalarında popüler bir Protestan vaizinden etkilenmiş olabilir. Peale, Pozitif Düşüncenin Gücü adlı kitabı yazdı ve mutluluk ve maddi zenginliği vurgulayan bir Hristiyanlık versiyonuyla Trump ailesi gibi cemaat üyelerini çekti. Ancak bu versiyon, takipçilerinden daha az şey talep ediyor gibi görünüyordu, oysa İsa, İncil'de tekrar tekrar kendisini takip etmenin sıradan bir iş olmadığını söylüyor. Yetişkinlik döneminde, Trump, 2016 seçimlerinde Hristiyanları kazanmasına rağmen, dindarlık veya kutsal yazılarla ilgili aşinalık belirtileri göstermedi. 2024'teki bir suikast girişiminden kurtulduktan sonra, Trump daha açık bir şekilde dini bir dil kullanmaya başladı ve cennete girme şansını kamuoyunda tartıştı. Ancak söylemi, davranışlarında net bir değişiklik, geçmiş günahlar için bağışlanma arayışı veya kiliseye katılımında artışla eşleşmedi. Barış, yoksulluk ve ayrıcalık meseleleri öncelikli görünmüyor: Nobel Ödülü peşinde bir barış elçisi olarak kendini kısa bir süre tasvir ettikten sonra, şimdi askeri macerayı kucakladı; ekonomik kargaşaya omuz silkti; ve göçmenlik uygulamaları konusundaki inanç liderlerinin endişelerini göz ardı etti. Trump, Hristiyanlığın ikonografik ve örgütsel gücünü iyi anlıyor, ancak bunun üzerinde herhangi bir kısıtlama yaratması gerektiği fikrini reddediyor gibi görünüyor. İlgili: Katolik Kilisesi ve Trump yönetimi anlaşamıyor. Peter Wehner: MAGA İsa gerçek İsa değil.",
-     "group": "",
-     "id": "tag:theatlantic.com,2026:50-686784",
-     "link": "https://www.theatlantic.com/newsletters/2026/04/trump-vs-pope-contradictory-message/686784/?utm_source=feed",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Atlantic",
-       "url": "https://www.theatlantic.com/newsletters/2026/04/trump-vs-pope-contradictory-message/686784/?utm_source=feed"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Başkanın meseli"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Papa Leo XIV, Trump'ın eleştirilerine karşı İtalya'dan gelen desteği arkasına alıyor",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1776104885",
-     "category": "",
-     "descriptionTR": "Yeni başkan, ülkenin kuzeyinde ciddi güvenlik sorunları ve yaşam standartlarına yönelik zorluklarla karşı karşıya.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1776104885",
-     "link": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/4/13/government-candidate-wadagni-on-course-to-win-benin-presidential-vote?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Benin'de hükümet adayı Wadagni başkanlık seçiminde önde"
-    },
-    {
-     "atomID": "https://balkaninsight.com/?p=1111702",
-     "category": "",
-     "descriptionTR": "Balkanlar'daki liderler, Viktor Orban'ın Fidesz partisini mağlup eden Peter Magyar ve Tisza Partisi'ni tebrik etti – Orban'ın Sırp müttefikleri de mağlup olan sağcı lideri övdü.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1111702",
-     "link": "https://balkaninsight.com/2026/04/13/balkan-leaders-congratulate-magyar-on-hungary-win-orban-allies-regretful/bi/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/04/13/balkan-leaders-congratulate-magyar-on-hungary-win-orban-allies-regretful/bi/"
-      }
-     ],
-     "titleTR": "Balkan liderleri, Macaristan zaferi için Magyar'ı tebrik etti; Orban müttefikleri üzgün"
-    },
-    {
-     "atomID": "https://balkaninsight.com/?p=1111661",
-     "category": "",
-     "descriptionTR": "Çocuk istismarı skandalı, ekonominin ve hizmetlerin kötü durumu ve iyi organize olmuş bir partiye sahip karizmatik bir eski içeri dönük kişi, Macaristan'ın güçlü liderini devirmek için gerekli unsurlardı.",
-     "group": "",
-     "id": "https://balkaninsight.com/?p=1111661",
-     "link": "https://balkaninsight.com/2026/04/13/a-loss-for-moscow-and-mar-a-lago-orbans-once-unassailable-rule-in-hungary-ends/rd/",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Balkan Insight",
-       "url": "https://balkaninsight.com/2026/04/13/a-loss-for-moscow-and-mar-a-lago-orbans-once-unassailable-rule-in-hungary-ends/rd/"
-      }
-     ],
-     "titleTR": "Mar-a-Lago ve Moskova için kayıp: Orban'ın Macaristan'daki hükümranlığı sona erdi"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c4gd0l2x8j2o#0",
-     "category": "",
-     "descriptionTR": "Teknik ve lojistik sorunlar, yeni başkan ve Kongre üyelerini seçen Peruluların pazartesi günü de oy kullanmaya devam etmesine neden oldu.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c4gd0l2x8j2o#0",
-     "link": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Peru'da seçim, oy pusulası teslimatındaki aksaklık nedeniyle ikinci güne sarktı"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c62k3vvln5mo#1",
-     "category": "",
-     "descriptionTR": "Bir koltuk daha, birkaç Muhafazakarın ayrılmasının ardından Kanada Başbakanı'nın iktidarını pekiştirebilir.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c62k3vvln5mo#1",
-     "link": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c62k3vvln5mo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Carney, üç ara seçimde oylar sayılırken Liberal çoğunluk hükümetine yakın"
-    },
-    {
-     "atomID": "https://www.bbc.com/news/articles/c74vwdpj7kdo#1",
-     "category": "",
-     "descriptionTR": "Önde gelen Demokrat müttefikler, valilik yarışından çekilmesi için baskıyı artırdı.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c74vwdpj7kdo#1",
-     "link": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c74vwdpj7kdo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "titleTR": "Önde gelen aday, cinsel taciz iddiaları nedeniyle California valilik yarışından çekildi"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1776417612",
-     "category": "",
-     "descriptionTR": "Bulgaristan, siyasi ve sosyal bölünmeler nedeniyle son dört yılda yedi ulusal seçim yaptı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1776417612",
-     "link": "https://www.aljazeera.com/news/2026/4/17/bulgaria-elections-whos-running-and-whats-at-stake?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/4/17/bulgaria-elections-whos-running-and-whats-at-stake?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Bulgaristan seçimleri: Kimler aday ve ne tehlikede?"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Seçim gelişmeleri",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/04/15/los-angeles-county-museum-of-art-new-david-geffen-galleries-reframe-6000-years-history",
-     "category": "",
-     "descriptionTR": "20 yıllık bir çalışmanın ürünü olan geniş beton yapı, 19 Nisan'da açılıyor. Los Angeles bölgesine sıcak bir odak noktası sunmayı ve yerel topluma hizmet etmeyi amaçlıyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/04/15/los-angeles-county-museum-of-art-new-david-geffen-galleries-reframe-6000-years-history",
-     "link": "https://www.theartnewspaper.com/2026/04/15/los-angeles-county-museum-of-art-new-david-geffen-galleries-reframe-6000-years-history",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/04/15/los-angeles-county-museum-of-art-new-david-geffen-galleries-reframe-6000-years-history"
-      }
-     ],
-     "titleTR": "Los Angeles County Museum of Art'ta yeni David Geffen Galerileri 6.000 yıllık tarihi yeniden çerçeveliyor"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/04/15/a-fresh-look-at-contemporary-culture-gus-casely-hayford-director-of-va-east-takes-us-inside-the-new-london-museum",
-     "category": "",
-     "descriptionTR": "Bu ay açılacak olan Stratford merkezli müze, geçen yıl Mayıs ayında açıldığından beri 500.000 ziyaretçi çeken V&A East Storehouse'un başarısı üzerine inşa etmeyi hedefliyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/04/15/a-fresh-look-at-contemporary-culture-gus-casely-hayford-director-of-va-east-takes-us-inside-the-new-london-museum",
-     "link": "https://www.theartnewspaper.com/2026/04/15/a-fresh-look-at-contemporary-culture-gus-casely-hayford-director-of-va-east-takes-us-inside-the-new-london-museum",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/04/15/a-fresh-look-at-contemporary-culture-gus-casely-hayford-director-of-va-east-takes-us-inside-the-new-london-museum"
-      }
-     ],
-     "titleTR": "Çağdaş kültüre taze bir bakış: V&A East direktörü Gus Casely-Hayford yeni Londra müzesini tanıtıyor"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/04/17/restored-victorian-greenhouse-links-green-wood-cemetery-to-its-living-neighbours",
-     "category": "",
-     "descriptionTR": "Bu hafta sonu açılacak olan Green-House, 1895 tarihli dökme demir ve cam yapıyı içeriyor ve ünlü mezarlığın 'yeni ön kapısı' olarak hizmet veriyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/04/17/restored-victorian-greenhouse-links-green-wood-cemetery-to-its-living-neighbours",
-     "link": "https://www.theartnewspaper.com/2026/04/17/restored-victorian-greenhouse-links-green-wood-cemetery-to-its-living-neighbours",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/04/17/restored-victorian-greenhouse-links-green-wood-cemetery-to-its-living-neighbours"
-      }
-     ],
-     "titleTR": "Restore edilen Viktorya dönemi serası Brooklyn'deki Green-Wood Mezarlığı'nı yaşayan komşularına bağlıyor"
-    }
-   ],
-   "packetSpot": "Yeni müze alanları açılarak taze kültürel deneyimler sunuyor.",
-   "packetTitle": "Yeni kültürel alanlar açılıyor",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 5
-  }
- ],
- "superPackets": [
-  {
-   "slots": [
-    1,
-    4
-   ],
-   "spot": "Bu hafta, birçok ülkede siyasi liderlikte önemli değişimler gözlemlendi. Özellikle Macaristan'ın Viktor Orbán'ın uzun süredir devam eden yönetiminden uzaklaşması dikkat çekiyor. Bu sonuçlar, dünya genelinde daha geniş bir siyasi yeniden hizalanma ve seçim sürprizleri eğilimini işaret ediyor.",
-   "title": "Küresel siyasi liderlikte değişimler"
-  }
- ],
- "week": "2026-W16"
+  ]
 }

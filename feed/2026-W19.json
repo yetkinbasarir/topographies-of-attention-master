@@ -1,327 +1,327 @@
 {
- "label": "4-10 MAYIS",
- "publishedAt": "2026-07-09T22:53:56Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W19",
+  "label": "4-10 MAYIS",
+  "publishedAt": "2026-07-10T18:47:13Z",
+  "slots": [
     {
-     "atomID": "https://www.bbc.com/news/articles/c7941rgy4lyo#0",
-     "category": "",
-     "descriptionTR": "Trump'ın uzun süredir destekçisi ve eski New York Belediye Başkanı Giuliani'nin hastanede olduğu, sözcüsü tarafından bildirildi.",
-     "group": "",
-     "id": "https://www.bbc.com/news/articles/c7941rgy4lyo#0",
-     "link": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "BBC News World",
-       "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Eski New York Belediye Başkanı Rudy Giuliani kritik durumda hastanede"
+      "slot": 1,
+      "packetTitle": "Rudy Giuliani'nin hastaneye kaldırılması",
+      "packetSpot": "Eski New York Belediye Başkanı ve Trump müttefiki Rudy Giuliani'nin kritik ama stabil bir durumda hastaneye kaldırıldığı bildirildi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-04T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.bbc.com/news/articles/c7941rgy4lyo#0",
+          "id": "https://www.bbc.com/news/articles/c7941rgy4lyo#0",
+          "link": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Eski New York Belediye Başkanı Rudy Giuliani kritik durumda hastanede",
+          "descriptionTR": "Trump'ın uzun süredir destekçisi ve eski New York Belediye Başkanı Giuliani'nin hastanede olduğu, sözcüsü tarafından bildirildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-04T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "packetTitle": "Venedik Bienali'nde öne çıkanlar",
+      "packetSpot": "Venedik Bienali, Fas'ın ilk katılımı ve Hollanda pavyonundaki benzersiz sanatsal ifadelerle birlikte Endonezya tarihine dair özgün çalışmalarla dikkat çekiyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-06T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/politics/2026/05/04/iran-not-taking-part-in-controversy-hit-venice-biennale_26334d9c-f132-46e4-b485-f0fbf3a6fed5.html",
+          "id": "https://www.ansa.it/english/news/politics/2026/05/04/iran-not-taking-part-in-controversy-hit-venice-biennale_26334d9c-f132-46e4-b485-f0fbf3a6fed5.html",
+          "link": "https://www.ansa.it/english/news/politics/2026/05/04/iran-not-taking-part-in-controversy-hit-venice-biennale_26334d9c-f132-46e4-b485-f0fbf3a6fed5.html",
+          "titleTR": "İran, tartışmalı Venedik Bienali'ne katılmıyor",
+          "descriptionTR": "Rusya ve İsrail dahil 100 ulusal katılım var.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-04T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/politics/2026/05/04/iran-not-taking-part-in-controversy-hit-venice-biennale_26334d9c-f132-46e4-b485-f0fbf3a6fed5.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/05/04/morocco-pavilion-venice-biennale-amina-agueznay-craft-traditions",
+          "id": "https://www.theartnewspaper.com/2026/05/04/morocco-pavilion-venice-biennale-amina-agueznay-craft-traditions",
+          "link": "https://www.theartnewspaper.com/2026/05/04/morocco-pavilion-venice-biennale-amina-agueznay-craft-traditions",
+          "titleTR": "Fas, Bienal'de zanaat geleneklerini keşfederek sahne alıyor",
+          "descriptionTR": "Sanatçı Amina Agueznay, Arsenale'de 300 metrekarelik yerleştirme gerçekleştirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-04T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/05/04/morocco-pavilion-venice-biennale-amina-agueznay-craft-traditions"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/05/06/i-wanted-to-catch-the-desperation-dries-verhoeven-on-turning-the-dutch-pavilion-into-a-bunker-for-the-venice-biennale",
+          "id": "https://www.theartnewspaper.com/2026/05/06/i-wanted-to-catch-the-desperation-dries-verhoeven-on-turning-the-dutch-pavilion-into-a-bunker-for-the-venice-biennale",
+          "link": "https://www.theartnewspaper.com/2026/05/06/i-wanted-to-catch-the-desperation-dries-verhoeven-on-turning-the-dutch-pavilion-into-a-bunker-for-the-venice-biennale",
+          "titleTR": "Dries Verhoeven, Hollanda pavyonunu sığınak haline getiriyor",
+          "descriptionTR": "Açık ve aydınlık olan Hollanda pavyonu, karanlık bir sığınak alanına dönüştürüldü; ziyaretçiler burada ham bir vokal performans deneyimleyecek.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/05/06/i-wanted-to-catch-the-desperation-dries-verhoeven-on-turning-the-dutch-pavilion-into-a-bunker-for-the-venice-biennale"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/05/06/muscle-memory-natasha-tonteys-wild-venice-installation-explodes-perceptions-of-indonesian-history",
+          "id": "https://www.theartnewspaper.com/2026/05/06/muscle-memory-natasha-tonteys-wild-venice-installation-explodes-perceptions-of-indonesian-history",
+          "link": "https://www.theartnewspaper.com/2026/05/06/muscle-memory-natasha-tonteys-wild-venice-installation-explodes-perceptions-of-indonesian-history",
+          "titleTR": "Natasha Tontey'nin Venedik'teki çılgın yerleştirmesi Endonezya tarihini yeniden yorumluyor",
+          "descriptionTR": "Sanatçının Ateneo Veneto'daki B-filmi esintili projesi, Permesta direniş hareketinin göz ardı edilen üyesi Len Karamoy'un hikayesini yeniden canlandırıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/05/06/muscle-memory-natasha-tonteys-wild-venice-installation-explodes-perceptions-of-indonesian-history"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade",
+          "id": "https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade",
+          "link": "https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade",
+          "titleTR": "Lee Ufan: 'Yapılmış ve yapılmamış şeyleri bir araya getirmeye çalışıyorum'",
+          "descriptionTR": "Güney Koreli sanatçı, Bienal sırasında Venedik'teki Piazza San Marco'da sergilenen eserinin doğal ve endüstriyel unsurları nasıl birleştirdiğini ve nefes almayı nasıl öğrendiğini anlatıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "Gözaltılar üzerine soruşturmalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-06T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/05/04/abduction-probe-opened-in-rome-over-israels-flotilla-interception_8170089c-6f80-4470-84ac-1415e8ae8338.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/05/04/abduction-probe-opened-in-rome-over-israels-flotilla-interception_8170089c-6f80-4470-84ac-1415e8ae8338.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/05/04/abduction-probe-opened-in-rome-over-israels-flotilla-interception_8170089c-6f80-4470-84ac-1415e8ae8338.html",
+          "titleTR": "Roma'da İsrail'in filotilla müdahalesi üzerine adam kaçırma soruşturması açıldı",
+          "descriptionTR": "Üç şikayet dosyası açıldı, bunlardan ikisi Avila ve Abu Keshek ile ilgili.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-04T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/05/04/abduction-probe-opened-in-rome-over-israels-flotilla-interception_8170089c-6f80-4470-84ac-1415e8ae8338.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778070900",
+          "id": "https://www.aljazeera.com/?t=1778070900",
+          "link": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims?traffic_source=rss",
+          "titleTR": "BM, İsrail'den Gazze filotilla aktivistlerini serbest bırakmasını ve kötü muamele iddialarını soruşturmasını talep ediyor",
+          "descriptionTR": "İsrail, Saif Abu Keshek ve Thiago de Avila'yı 'derhal ve koşulsuz' serbest bırakmalı, diyor insan hakları ofisi sözcüsü.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778069364",
+          "id": "https://www.aljazeera.com/?t=1778069364",
+          "link": "https://www.aljazeera.com/news/2026/5/6/burkina-faso-authorities-accused-of-secretly-detaining-prominent-journalist?traffic_source=rss",
+          "titleTR": "Burkina Faso yetkilileri, tanınmış gazeteciyi gizlice gözaltında tutmakla suçlanıyor",
+          "descriptionTR": "RSF, yaptığı soruşturmada Atiana Serge Oulon'un Ouagadougou'daki bir villada tutulduğunu tespit ettiğini belirtiyor; bu, yetkililerin açıklamalarıyla çelişiyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/6/burkina-faso-authorities-accused-of-secretly-detaining-prominent-journalist?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "ABD-İran gerilimi",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-08T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1777873826",
+          "id": "https://www.aljazeera.com/?t=1777873826",
+          "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
+          "titleTR": "Trump'tan yeni Hormuz görevi: İran savaşı 66. gününde neler oluyor?",
+          "descriptionTR": "Trump, İran'ın barış önerisine ABD'den yanıt aldığını açıklamasının ardından yeni bir Hormuz görevi başlattı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-04T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778069835",
+          "id": "https://www.aljazeera.com/?t=1778069835",
+          "link": "https://www.aljazeera.com/news/2026/5/6/araghchi-in-beijing-how-china-could-shape-the-direction-of-the-us-iran-war?traffic_source=rss",
+          "titleTR": "Araghchi Pekin'de: Çin, ABD-İran savaşının yönünü nasıl etkileyebilir?",
+          "descriptionTR": "Analistler, Hürmüz Boğazı'nın yeniden açılması konusunda ABD ve Çin'in ortak çıkarlarının barışa giden bir yol oluşturabileceğini söylüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-06T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/6/araghchi-in-beijing-how-china-could-shape-the-direction-of-the-us-iran-war?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778263719",
+          "id": "https://www.aljazeera.com/?t=1778263719",
+          "link": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
+          "titleTR": "Trump, Rusya-Ukrayna savaşında üç günlük ateşkes ilan etti",
+          "descriptionTR": "ABD Başkanı, ateşkesin her iki ülkeden 1.000 savaş esirinin takasını da içereceğini belirtti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "Çatışma bölgeleri",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-05-08T12:00:00Z",
+      "items": [
+        {
+          "atomID": "41cdb825-cc47-4176-9a89-6add55873d63",
+          "id": "41cdb825-cc47-4176-9a89-6add55873d63",
+          "link": "https://www.spiegel.de/international/world/forced-mercenaries-how-russia-dupes-kenyans-into-fighting-in-ukraine-a-41cdb825-cc47-4176-9a89-6add55873d63#ref=rss",
+          "titleTR": "Rusya'nın Kenyalıları Ukrayna'da savaşa zorladığı iddiası",
+          "descriptionTR": "Rusya'da kamyon şoförlüğü yapacağını düşünen biri ve yarışa katılmak için davet edildiğini söyleyen bir diğeri, kendilerini Putin'in savaşında savaşırken bulduklarını iddia ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-04T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Spiegel International",
+              "url": "https://www.spiegel.de/international/world/forced-mercenaries-how-russia-dupes-kenyans-into-fighting-in-ukraine-a-41cdb825-cc47-4176-9a89-6add55873d63#ref=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778259634",
+          "id": "https://www.aljazeera.com/?t=1778259634",
+          "link": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
+          "titleTR": "Libya'nın en büyük petrol rafinerisi çatışmalar sırasında faaliyetlerini durdurdu",
+          "descriptionTR": "Zaviye rafinerisi, yakınlarda meydana gelen patlamalar ve silah sesleri nedeniyle 'önleyici bir tedbir' olarak kapatıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1778267821",
+          "id": "https://www.aljazeera.com/?t=1778267821",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
+          "titleTR": "Al Jazeera muhabiri İsrail'in Lübnan'a yönelik saldırılarını yerinde izledi",
+          "descriptionTR": "İsrail, güney Lübnan'daki saldırılarını artırdı. Al Jazeera'dan Obaida Hitto, Tyre'dan bildirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-05-08T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "Eski New York Belediye Başkanı ve Trump müttefiki Rudy Giuliani'nin kritik ama stabil bir durumda hastaneye kaldırıldığı bildirildi.",
-   "packetTitle": "Rudy Giuliani'nin hastaneye kaldırılması",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.ansa.it/english/news/politics/2026/05/04/iran-not-taking-part-in-controversy-hit-venice-biennale_26334d9c-f132-46e4-b485-f0fbf3a6fed5.html",
-     "category": "",
-     "descriptionTR": "Rusya ve İsrail dahil 100 ulusal katılım var.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/politics/2026/05/04/iran-not-taking-part-in-controversy-hit-venice-biennale_26334d9c-f132-46e4-b485-f0fbf3a6fed5.html",
-     "link": "https://www.ansa.it/english/news/politics/2026/05/04/iran-not-taking-part-in-controversy-hit-venice-biennale_26334d9c-f132-46e4-b485-f0fbf3a6fed5.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/politics/2026/05/04/iran-not-taking-part-in-controversy-hit-venice-biennale_26334d9c-f132-46e4-b485-f0fbf3a6fed5.html"
-      }
-     ],
-     "titleTR": "İran, tartışmalı Venedik Bienali'ne katılmıyor"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/05/04/morocco-pavilion-venice-biennale-amina-agueznay-craft-traditions",
-     "category": "",
-     "descriptionTR": "Sanatçı Amina Agueznay, Arsenale'de 300 metrekarelik yerleştirme gerçekleştirdi.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/05/04/morocco-pavilion-venice-biennale-amina-agueznay-craft-traditions",
-     "link": "https://www.theartnewspaper.com/2026/05/04/morocco-pavilion-venice-biennale-amina-agueznay-craft-traditions",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/05/04/morocco-pavilion-venice-biennale-amina-agueznay-craft-traditions"
-      }
-     ],
-     "titleTR": "Fas, Bienal'de zanaat geleneklerini keşfederek sahne alıyor"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/05/06/i-wanted-to-catch-the-desperation-dries-verhoeven-on-turning-the-dutch-pavilion-into-a-bunker-for-the-venice-biennale",
-     "category": "",
-     "descriptionTR": "Açık ve aydınlık olan Hollanda pavyonu, karanlık bir sığınak alanına dönüştürüldü; ziyaretçiler burada ham bir vokal performans deneyimleyecek.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/05/06/i-wanted-to-catch-the-desperation-dries-verhoeven-on-turning-the-dutch-pavilion-into-a-bunker-for-the-venice-biennale",
-     "link": "https://www.theartnewspaper.com/2026/05/06/i-wanted-to-catch-the-desperation-dries-verhoeven-on-turning-the-dutch-pavilion-into-a-bunker-for-the-venice-biennale",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/05/06/i-wanted-to-catch-the-desperation-dries-verhoeven-on-turning-the-dutch-pavilion-into-a-bunker-for-the-venice-biennale"
-      }
-     ],
-     "titleTR": "Dries Verhoeven, Hollanda pavyonunu sığınak haline getiriyor"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/05/06/muscle-memory-natasha-tonteys-wild-venice-installation-explodes-perceptions-of-indonesian-history",
-     "category": "",
-     "descriptionTR": "Sanatçının Ateneo Veneto'daki B-filmi esintili projesi, Permesta direniş hareketinin göz ardı edilen üyesi Len Karamoy'un hikayesini yeniden canlandırıyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/05/06/muscle-memory-natasha-tonteys-wild-venice-installation-explodes-perceptions-of-indonesian-history",
-     "link": "https://www.theartnewspaper.com/2026/05/06/muscle-memory-natasha-tonteys-wild-venice-installation-explodes-perceptions-of-indonesian-history",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/05/06/muscle-memory-natasha-tonteys-wild-venice-installation-explodes-perceptions-of-indonesian-history"
-      }
-     ],
-     "titleTR": "Natasha Tontey'nin Venedik'teki çılgın yerleştirmesi Endonezya tarihini yeniden yorumluyor"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade",
-     "category": "",
-     "descriptionTR": "Güney Koreli sanatçı, Bienal sırasında Venedik'teki Piazza San Marco'da sergilenen eserinin doğal ve endüstriyel unsurları nasıl birleştirdiğini ve nefes almayı nasıl öğrendiğini anlatıyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade",
-     "link": "https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade"
-      }
-     ],
-     "titleTR": "Lee Ufan: 'Yapılmış ve yapılmamış şeyleri bir araya getirmeye çalışıyorum'"
-    }
-   ],
-   "packetSpot": "Venedik Bienali, Fas'ın ilk katılımı ve Hollanda pavyonundaki benzersiz sanatsal ifadelerle birlikte Endonezya tarihine dair özgün çalışmalarla dikkat çekiyor.",
-   "packetTitle": "Venedik Bienali'nde öne çıkanlar",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/05/04/abduction-probe-opened-in-rome-over-israels-flotilla-interception_8170089c-6f80-4470-84ac-1415e8ae8338.html",
-     "category": "",
-     "descriptionTR": "Üç şikayet dosyası açıldı, bunlardan ikisi Avila ve Abu Keshek ile ilgili.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/05/04/abduction-probe-opened-in-rome-over-israels-flotilla-interception_8170089c-6f80-4470-84ac-1415e8ae8338.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/05/04/abduction-probe-opened-in-rome-over-israels-flotilla-interception_8170089c-6f80-4470-84ac-1415e8ae8338.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/05/04/abduction-probe-opened-in-rome-over-israels-flotilla-interception_8170089c-6f80-4470-84ac-1415e8ae8338.html"
-      }
-     ],
-     "titleTR": "Roma'da İsrail'in filotilla müdahalesi üzerine adam kaçırma soruşturması açıldı"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778070900",
-     "category": "",
-     "descriptionTR": "İsrail, Saif Abu Keshek ve Thiago de Avila'yı 'derhal ve koşulsuz' serbest bırakmalı, diyor insan hakları ofisi sözcüsü.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778070900",
-     "link": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/6/un-demands-israel-release-gaza-flotilla-activists-investigate-abuse-claims?traffic_source=rss"
-      }
-     ],
-     "titleTR": "BM, İsrail'den Gazze filotilla aktivistlerini serbest bırakmasını ve kötü muamele iddialarını soruşturmasını talep ediyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778069364",
-     "category": "",
-     "descriptionTR": "RSF, yaptığı soruşturmada Atiana Serge Oulon'un Ouagadougou'daki bir villada tutulduğunu tespit ettiğini belirtiyor; bu, yetkililerin açıklamalarıyla çelişiyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778069364",
-     "link": "https://www.aljazeera.com/news/2026/5/6/burkina-faso-authorities-accused-of-secretly-detaining-prominent-journalist?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/6/burkina-faso-authorities-accused-of-secretly-detaining-prominent-journalist?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Burkina Faso yetkilileri, tanınmış gazeteciyi gizlice gözaltında tutmakla suçlanıyor"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Gözaltılar üzerine soruşturmalar",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1777873826",
-     "category": "",
-     "descriptionTR": "Trump, İran'ın barış önerisine ABD'den yanıt aldığını açıklamasının ardından yeni bir Hormuz görevi başlattı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1777873826",
-     "link": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/4/iran-war-whats-happening-on-day-66-as-trump-announces-hormuz-mission?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Trump'tan yeni Hormuz görevi: İran savaşı 66. gününde neler oluyor?"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778069835",
-     "category": "",
-     "descriptionTR": "Analistler, Hürmüz Boğazı'nın yeniden açılması konusunda ABD ve Çin'in ortak çıkarlarının barışa giden bir yol oluşturabileceğini söylüyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778069835",
-     "link": "https://www.aljazeera.com/news/2026/5/6/araghchi-in-beijing-how-china-could-shape-the-direction-of-the-us-iran-war?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/6/araghchi-in-beijing-how-china-could-shape-the-direction-of-the-us-iran-war?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Araghchi Pekin'de: Çin, ABD-İran savaşının yönünü nasıl etkileyebilir?"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778263719",
-     "category": "",
-     "descriptionTR": "ABD Başkanı, ateşkesin her iki ülkeden 1.000 savaş esirinin takasını da içereceğini belirtti.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778263719",
-     "link": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Trump, Rusya-Ukrayna savaşında üç günlük ateşkes ilan etti"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "ABD-İran gerilimi",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  },
-  {
-   "items": [
-    {
-     "atomID": "41cdb825-cc47-4176-9a89-6add55873d63",
-     "category": "",
-     "descriptionTR": "Rusya'da kamyon şoförlüğü yapacağını düşünen biri ve yarışa katılmak için davet edildiğini söyleyen bir diğeri, kendilerini Putin'in savaşında savaşırken bulduklarını iddia ediyor.",
-     "group": "",
-     "id": "41cdb825-cc47-4176-9a89-6add55873d63",
-     "link": "https://www.spiegel.de/international/world/forced-mercenaries-how-russia-dupes-kenyans-into-fighting-in-ukraine-a-41cdb825-cc47-4176-9a89-6add55873d63#ref=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Spiegel International",
-       "url": "https://www.spiegel.de/international/world/forced-mercenaries-how-russia-dupes-kenyans-into-fighting-in-ukraine-a-41cdb825-cc47-4176-9a89-6add55873d63#ref=rss"
-      }
-     ],
-     "titleTR": "Rusya'nın Kenyalıları Ukrayna'da savaşa zorladığı iddiası"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778259634",
-     "category": "",
-     "descriptionTR": "Zaviye rafinerisi, yakınlarda meydana gelen patlamalar ve silah sesleri nedeniyle 'önleyici bir tedbir' olarak kapatıldı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778259634",
-     "link": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Libya'nın en büyük petrol rafinerisi çatışmalar sırasında faaliyetlerini durdurdu"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1778267821",
-     "category": "",
-     "descriptionTR": "İsrail, güney Lübnan'daki saldırılarını artırdı. Al Jazeera'dan Obaida Hitto, Tyre'dan bildirdi.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1778267821",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:56Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Al Jazeera muhabiri İsrail'in Lübnan'a yönelik saldırılarını yerinde izledi"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Çatışma bölgeleri",
-   "publishedAt": "2026-07-09T22:53:56Z",
-   "sessionID": "produce-week-py",
-   "slot": 5
-  }
- ],
- "week": "2026-W19"
+  ]
 }

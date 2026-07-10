@@ -1,241 +1,241 @@
 {
- "label": "20-26 NİSAN",
- "publishedAt": "2026-07-09T22:53:57Z",
- "slots": [
-  {
-   "items": [
+  "week": "2026-W17",
+  "label": "20-26 NİSAN",
+  "publishedAt": "2026-07-10T18:47:13Z",
+  "slots": [
     {
-     "atomID": "https://www.theartnewspaper.com/2026/04/22/caravaggio-and-rubens-works-destroyed-by-fire-in-second-world-war-are-brought-back-to-digital-life",
-     "category": "",
-     "descriptionTR": "Berlin'deki Gemäldegalerie, güvenlik amacıyla bir kulede saklanan ancak yok olan yüzlerce eseri dijitalleştirdi.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/04/22/caravaggio-and-rubens-works-destroyed-by-fire-in-second-world-war-are-brought-back-to-digital-life",
-     "link": "https://www.theartnewspaper.com/2026/04/22/caravaggio-and-rubens-works-destroyed-by-fire-in-second-world-war-are-brought-back-to-digital-life",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/04/22/caravaggio-and-rubens-works-destroyed-by-fire-in-second-world-war-are-brought-back-to-digital-life"
-      }
-     ],
-     "titleTR": "Caravaggio ve Rubens'in İkinci Dünya Savaşı'nda yok olan eserleri dijital ortamda yeniden hayat buluyor"
+      "slot": 1,
+      "packetTitle": "Sanat ve eser restorasyonları",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-22T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/04/22/caravaggio-and-rubens-works-destroyed-by-fire-in-second-world-war-are-brought-back-to-digital-life",
+          "id": "https://www.theartnewspaper.com/2026/04/22/caravaggio-and-rubens-works-destroyed-by-fire-in-second-world-war-are-brought-back-to-digital-life",
+          "link": "https://www.theartnewspaper.com/2026/04/22/caravaggio-and-rubens-works-destroyed-by-fire-in-second-world-war-are-brought-back-to-digital-life",
+          "titleTR": "Caravaggio ve Rubens'in İkinci Dünya Savaşı'nda yok olan eserleri dijital ortamda yeniden hayat buluyor",
+          "descriptionTR": "Berlin'deki Gemäldegalerie, güvenlik amacıyla bir kulede saklanan ancak yok olan yüzlerce eseri dijitalleştirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-22T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/04/22/caravaggio-and-rubens-works-destroyed-by-fire-in-second-world-war-are-brought-back-to-digital-life"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/04/20/diego-rivera-museo-anahuacalli-donation-grandson-150000-objects",
+          "id": "https://www.theartnewspaper.com/2026/04/20/diego-rivera-museo-anahuacalli-donation-grandson-150000-objects",
+          "link": "https://www.theartnewspaper.com/2026/04/20/diego-rivera-museo-anahuacalli-donation-grandson-150000-objects",
+          "titleTR": "Diego Rivera'nın torunundan Meksiko City'deki Museo Anahuacalli'ye 150.000'den fazla obje bağışı",
+          "descriptionTR": "Farklı dönemlere ait seramikler, tekstil ürünleri, fotoğraflar ve Rivera ile Kahlo'nun kişisel arşivlerinden belgeler içeren eklektik koleksiyon.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-20T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/04/20/diego-rivera-museo-anahuacalli-donation-grandson-150000-objects"
+            }
+          ]
+        }
+      ]
     },
     {
-     "atomID": "https://www.theartnewspaper.com/2026/04/20/diego-rivera-museo-anahuacalli-donation-grandson-150000-objects",
-     "category": "",
-     "descriptionTR": "Farklı dönemlere ait seramikler, tekstil ürünleri, fotoğraflar ve Rivera ile Kahlo'nun kişisel arşivlerinden belgeler içeren eklektik koleksiyon.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/04/20/diego-rivera-museo-anahuacalli-donation-grandson-150000-objects",
-     "link": "https://www.theartnewspaper.com/2026/04/20/diego-rivera-museo-anahuacalli-donation-grandson-150000-objects",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/04/20/diego-rivera-museo-anahuacalli-donation-grandson-150000-objects"
-      }
-     ],
-     "titleTR": "Diego Rivera'nın torunundan Meksiko City'deki Museo Anahuacalli'ye 150.000'den fazla obje bağışı"
+      "slot": 2,
+      "packetTitle": "Sanat sergileri: Tarih ve kültürün izinde",
+      "packetSpot": "Çeşitli temalar ve tarihsel anmalarla dolu sanat sergileri duyuruldu.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/04/20/british-art-showexhibiting-uks-most-exciting-art-in-past-five-yearsannounces-line-up-for-tenth-edition",
+          "id": "https://www.theartnewspaper.com/2026/04/20/british-art-showexhibiting-uks-most-exciting-art-in-past-five-yearsannounces-line-up-for-tenth-edition",
+          "link": "https://www.theartnewspaper.com/2026/04/20/british-art-showexhibiting-uks-most-exciting-art-in-past-five-yearsannounces-line-up-for-tenth-edition",
+          "titleTR": "British Art Show, İngiltere'nin 'en heyecan verici' sanatını sergiliyor",
+          "descriptionTR": "Küratör Ekow Eshun tarafından düzenlenen \"A Chorus of Strangers\", Alex Margo Arden, Alvaro Barrington, Lubna Chowdhary ve Jesse Darling gibi sanatçıları içeriyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-20T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/04/20/british-art-showexhibiting-uks-most-exciting-art-in-past-five-yearsannounces-line-up-for-tenth-edition"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/04/24/chernobyl-40-years-on-paula-rego-at-munch-in-oslo-glucks-flower-painting",
+          "id": "https://www.theartnewspaper.com/2026/04/24/chernobyl-40-years-on-paula-rego-at-munch-in-oslo-glucks-flower-painting",
+          "link": "https://www.theartnewspaper.com/2026/04/24/chernobyl-40-years-on-paula-rego-at-munch-in-oslo-glucks-flower-painting",
+          "titleTR": "Çernobil'in 40. yılı, Oslo'da Paula Rego ve Gluck'un çiçek resmi",
+          "descriptionTR": "Bu haftaki podcast bölümünde Ben Luke, Çernobil nükleer felaketinin 40. yılını anan sergiyi, Paula Rego'nun Norveçli ekspresyonist Edvard Munch'a olan ilgisini ve Cambridge'deki Kettle's Yard'da yeni bir grup sergisinde yer alan Gluck'un çiçekli natürmortunu keşfediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-24T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/04/24/chernobyl-40-years-on-paula-rego-at-munch-in-oslo-glucks-flower-painting"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/04/24/village-where-van-gogh-spent-final-days-celebrates-most-distinguished-visitor",
+          "id": "https://www.theartnewspaper.com/2026/04/24/village-where-van-gogh-spent-final-days-celebrates-most-distinguished-visitor",
+          "link": "https://www.theartnewspaper.com/2026/04/24/village-where-van-gogh-spent-final-days-celebrates-most-distinguished-visitor",
+          "titleTR": "Van Gogh'un son günlerini geçirdiği köy, ünlü ziyaretçisini kutluyor",
+          "descriptionTR": "Sanatçının yolculuğunun son durağı olan Auvers-sur-Oise'da iki sergi açıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-24T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/04/24/village-where-van-gogh-spent-final-days-celebrates-most-distinguished-visitor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "Öne çıkan davalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/politics/2026/04/20/fdi-regional-councillor-indicted-for-corruption_fb9030a9-20c9-4297-9858-7da5c0109625.html",
+          "id": "https://www.ansa.it/english/news/politics/2026/04/20/fdi-regional-councillor-indicted-for-corruption_fb9030a9-20c9-4297-9858-7da5c0109625.html",
+          "link": "https://www.ansa.it/english/news/politics/2026/04/20/fdi-regional-councillor-indicted-for-corruption_fb9030a9-20c9-4297-9858-7da5c0109625.html",
+          "titleTR": "FdI bölgesel meclis üyesi yolsuzluktan yargılanacak",
+          "descriptionTR": "Sicilya'nın turizm sorumlusu Elvira Amata, rüşvet suçlamasıyla mahkemeye sevk edildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-20T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/politics/2026/04/20/fdi-regional-councillor-indicted-for-corruption_fb9030a9-20c9-4297-9858-7da5c0109625.html"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1776878333",
+          "id": "https://www.aljazeera.com/?t=1776878333",
+          "link": "https://www.aljazeera.com/news/2026/4/22/us-suspect-accused-of-stealing-kristi-noems-purse-sentenced-to-three-years?traffic_source=rss",
+          "titleTR": "ABD'de Kristi Noem'in çantasını çalan zanlıya üç yıl hapis cezası",
+          "descriptionTR": "Başkan Trump, suç olaylarını Washington, DC'ye Ulusal Muhafızların konuşlandırılmasını gerekçelendirmek için kullandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-22T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/4/22/us-suspect-accused-of-stealing-kristi-noems-purse-sentenced-to-three-years?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/04/24/woman-gets-24-years-for-murdering-her-two-newborns-in-successive-years_33df1cf3-824d-4122-be84-ec90f06bea74.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/04/24/woman-gets-24-years-for-murdering-her-two-newborns-in-successive-years_33df1cf3-824d-4122-be84-ec90f06bea74.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/04/24/woman-gets-24-years-for-murdering-her-two-newborns-in-successive-years_33df1cf3-824d-4122-be84-ec90f06bea74.html",
+          "titleTR": "Kadın, iki yeni doğan bebeğini öldürmekten 24 yıl hapis cezası aldı",
+          "descriptionTR": "Chiara Petrolini, iki bebeğin kasten öldürülmesinden suçlu bulundu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-24T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/04/24/woman-gets-24-years-for-murdering-her-two-newborns-in-successive-years_33df1cf3-824d-4122-be84-ec90f06bea74.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "Ortadoğu'daki çatışmaların küresel etkileri",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1776716189",
+          "id": "https://www.aljazeera.com/?t=1776716189",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/20/how-is-the-iran-war-affecting-the-russia-ukraine-conflict?traffic_source=rss",
+          "titleTR": "İran'a yönelik savaş Rusya-Ukrayna çatışmasını nasıl etkiliyor?",
+          "descriptionTR": "Küresel enerji krizi her iki taraf için de sonuçlar doğuruyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-20T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/4/20/how-is-the-iran-war-affecting-the-russia-ukraine-conflict?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1776715732",
+          "id": "https://www.aljazeera.com/?t=1776715732",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/funerals-held-across-lebanon-during-10-day-ceasefire?traffic_source=rss",
+          "titleTR": "Lübnan'da 10 günlük ateşkes süresince cenaze törenleri düzenleniyor",
+          "descriptionTR": "Lübnan genelinde yas tutanlar, İsrail ile yaşanan savaşın kurbanlarını 10 günlük ateşkes sırasında toprağa veriyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-20T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/funerals-held-across-lebanon-during-10-day-ceasefire?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1776985753",
+          "id": "https://www.aljazeera.com/?t=1776985753",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
+          "titleTR": "İran savaşı canlı: Lübnan ateşkesi uzatıldı; Trump, Tahran'ın zamanının daraldığını söyledi",
+          "descriptionTR": "Gazze Sağlık Bakanlığı'na göre, İsrail'in Gazze'deki devam eden savaşında ölü sayısı 72.568'e, yaralı sayısı ise 172.338'e ulaştı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-04-24T12:00:00Z",
+          "sources": [
+            {
+              "originalLanguage": "en",
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss"
+            }
+          ]
+        }
+      ]
     }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Sanat ve eser restorasyonları",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 1
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/04/20/british-art-showexhibiting-uks-most-exciting-art-in-past-five-yearsannounces-line-up-for-tenth-edition",
-     "category": "",
-     "descriptionTR": "Küratör Ekow Eshun tarafından düzenlenen \"A Chorus of Strangers\", Alex Margo Arden, Alvaro Barrington, Lubna Chowdhary ve Jesse Darling gibi sanatçıları içeriyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/04/20/british-art-showexhibiting-uks-most-exciting-art-in-past-five-yearsannounces-line-up-for-tenth-edition",
-     "link": "https://www.theartnewspaper.com/2026/04/20/british-art-showexhibiting-uks-most-exciting-art-in-past-five-yearsannounces-line-up-for-tenth-edition",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/04/20/british-art-showexhibiting-uks-most-exciting-art-in-past-five-yearsannounces-line-up-for-tenth-edition"
-      }
-     ],
-     "titleTR": "British Art Show, İngiltere'nin 'en heyecan verici' sanatını sergiliyor"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/04/24/chernobyl-40-years-on-paula-rego-at-munch-in-oslo-glucks-flower-painting",
-     "category": "",
-     "descriptionTR": "Bu haftaki podcast bölümünde Ben Luke, Çernobil nükleer felaketinin 40. yılını anan sergiyi, Paula Rego'nun Norveçli ekspresyonist Edvard Munch'a olan ilgisini ve Cambridge'deki Kettle's Yard'da yeni bir grup sergisinde yer alan Gluck'un çiçekli natürmortunu keşfediyor.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/04/24/chernobyl-40-years-on-paula-rego-at-munch-in-oslo-glucks-flower-painting",
-     "link": "https://www.theartnewspaper.com/2026/04/24/chernobyl-40-years-on-paula-rego-at-munch-in-oslo-glucks-flower-painting",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/04/24/chernobyl-40-years-on-paula-rego-at-munch-in-oslo-glucks-flower-painting"
-      }
-     ],
-     "titleTR": "Çernobil'in 40. yılı, Oslo'da Paula Rego ve Gluck'un çiçek resmi"
-    },
-    {
-     "atomID": "https://www.theartnewspaper.com/2026/04/24/village-where-van-gogh-spent-final-days-celebrates-most-distinguished-visitor",
-     "category": "",
-     "descriptionTR": "Sanatçının yolculuğunun son durağı olan Auvers-sur-Oise'da iki sergi açıldı.",
-     "group": "",
-     "id": "https://www.theartnewspaper.com/2026/04/24/village-where-van-gogh-spent-final-days-celebrates-most-distinguished-visitor",
-     "link": "https://www.theartnewspaper.com/2026/04/24/village-where-van-gogh-spent-final-days-celebrates-most-distinguished-visitor",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "The Art Newspaper",
-       "url": "https://www.theartnewspaper.com/2026/04/24/village-where-van-gogh-spent-final-days-celebrates-most-distinguished-visitor"
-      }
-     ],
-     "titleTR": "Van Gogh'un son günlerini geçirdiği köy, ünlü ziyaretçisini kutluyor"
-    }
-   ],
-   "packetSpot": "Çeşitli temalar ve tarihsel anmalarla dolu sanat sergileri duyuruldu.",
-   "packetTitle": "Sanat sergileri: Tarih ve kültürün izinde",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 2
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.ansa.it/english/news/politics/2026/04/20/fdi-regional-councillor-indicted-for-corruption_fb9030a9-20c9-4297-9858-7da5c0109625.html",
-     "category": "",
-     "descriptionTR": "Sicilya'nın turizm sorumlusu Elvira Amata, rüşvet suçlamasıyla mahkemeye sevk edildi.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/politics/2026/04/20/fdi-regional-councillor-indicted-for-corruption_fb9030a9-20c9-4297-9858-7da5c0109625.html",
-     "link": "https://www.ansa.it/english/news/politics/2026/04/20/fdi-regional-councillor-indicted-for-corruption_fb9030a9-20c9-4297-9858-7da5c0109625.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/politics/2026/04/20/fdi-regional-councillor-indicted-for-corruption_fb9030a9-20c9-4297-9858-7da5c0109625.html"
-      }
-     ],
-     "titleTR": "FdI bölgesel meclis üyesi yolsuzluktan yargılanacak"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1776878333",
-     "category": "",
-     "descriptionTR": "Başkan Trump, suç olaylarını Washington, DC'ye Ulusal Muhafızların konuşlandırılmasını gerekçelendirmek için kullandı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1776878333",
-     "link": "https://www.aljazeera.com/news/2026/4/22/us-suspect-accused-of-stealing-kristi-noems-purse-sentenced-to-three-years?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/2026/4/22/us-suspect-accused-of-stealing-kristi-noems-purse-sentenced-to-three-years?traffic_source=rss"
-      }
-     ],
-     "titleTR": "ABD'de Kristi Noem'in çantasını çalan zanlıya üç yıl hapis cezası"
-    },
-    {
-     "atomID": "https://www.ansa.it/english/news/general_news/2026/04/24/woman-gets-24-years-for-murdering-her-two-newborns-in-successive-years_33df1cf3-824d-4122-be84-ec90f06bea74.html",
-     "category": "",
-     "descriptionTR": "Chiara Petrolini, iki bebeğin kasten öldürülmesinden suçlu bulundu.",
-     "group": "",
-     "id": "https://www.ansa.it/english/news/general_news/2026/04/24/woman-gets-24-years-for-murdering-her-two-newborns-in-successive-years_33df1cf3-824d-4122-be84-ec90f06bea74.html",
-     "link": "https://www.ansa.it/english/news/general_news/2026/04/24/woman-gets-24-years-for-murdering-her-two-newborns-in-successive-years_33df1cf3-824d-4122-be84-ec90f06bea74.html",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "ANSA English",
-       "url": "https://www.ansa.it/english/news/general_news/2026/04/24/woman-gets-24-years-for-murdering-her-two-newborns-in-successive-years_33df1cf3-824d-4122-be84-ec90f06bea74.html"
-      }
-     ],
-     "titleTR": "Kadın, iki yeni doğan bebeğini öldürmekten 24 yıl hapis cezası aldı"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Öne çıkan davalar",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 3
-  },
-  {
-   "items": [
-    {
-     "atomID": "https://www.aljazeera.com/?t=1776716189",
-     "category": "",
-     "descriptionTR": "Küresel enerji krizi her iki taraf için de sonuçlar doğuruyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1776716189",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/4/20/how-is-the-iran-war-affecting-the-russia-ukraine-conflict?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/inside-story/2026/4/20/how-is-the-iran-war-affecting-the-russia-ukraine-conflict?traffic_source=rss"
-      }
-     ],
-     "titleTR": "İran'a yönelik savaş Rusya-Ukrayna çatışmasını nasıl etkiliyor?"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1776715732",
-     "category": "",
-     "descriptionTR": "Lübnan genelinde yas tutanlar, İsrail ile yaşanan savaşın kurbanlarını 10 günlük ateşkes sırasında toprağa veriyor.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1776715732",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/funerals-held-across-lebanon-during-10-day-ceasefire?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/funerals-held-across-lebanon-during-10-day-ceasefire?traffic_source=rss"
-      }
-     ],
-     "titleTR": "Lübnan'da 10 günlük ateşkes süresince cenaze törenleri düzenleniyor"
-    },
-    {
-     "atomID": "https://www.aljazeera.com/?t=1776985753",
-     "category": "",
-     "descriptionTR": "Gazze Sağlık Bakanlığı'na göre, İsrail'in Gazze'deki devam eden savaşında ölü sayısı 72.568'e, yaralı sayısı ise 172.338'e ulaştı.",
-     "group": "",
-     "id": "https://www.aljazeera.com/?t=1776985753",
-     "link": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
-     "newsValue": 5,
-     "publishedAt": "2026-07-09T22:53:57Z",
-     "sources": [
-      {
-       "originalLanguage": "en",
-       "sourceName": "Al Jazeera English",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss"
-      }
-     ],
-     "titleTR": "İran savaşı canlı: Lübnan ateşkesi uzatıldı; Trump, Tahran'ın zamanının daraldığını söyledi"
-    }
-   ],
-   "packetSpot": "",
-   "packetTitle": "Ortadoğu'daki çatışmaların küresel etkileri",
-   "publishedAt": "2026-07-09T22:53:57Z",
-   "sessionID": "produce-week-py",
-   "slot": 4
-  }
- ],
- "week": "2026-W17"
+  ]
 }

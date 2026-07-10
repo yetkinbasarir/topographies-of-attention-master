@@ -1,14 +1,14 @@
 {
   "week": "2026-W02",
   "label": "5-11 OCAK",
-  "publishedAt": "2026-07-10T16:18:58Z",
+  "publishedAt": "2026-07-10T19:03:34Z",
   "slots": [
     {
       "slot": 1,
       "packetTitle": "İran'daki protestolar ve Trump'ın askeri tehditleri",
       "packetSpot": "",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.scmp.com/news/world/middle-east/article/3339413/trump-says-protest-hit-iran-big-trouble-again-threatens-military-strike?utm_source=rss_feed",
@@ -19,7 +19,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "South China Morning Post",
@@ -37,7 +37,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -55,7 +55,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Atlantic",
@@ -71,7 +71,7 @@
       "packetTitle": "2025'te Tesla'nın satışları düşerken BYD küresel EV lideri oluyor",
       "packetSpot": "Tesla'nın yıllık satışları 2025'te %9 düşerek üst üste ikinci kez düşüş yaşarken, BYD küresel elektrikli araç satışlarında Tesla'yı geride bıraktı.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-07T12:00:00Z",
       "items": [
         {
           "atomID": "https://techcrunch.com/?p=3079456",
@@ -82,7 +82,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "TechCrunch",
@@ -100,7 +100,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "South China Morning Post",
@@ -116,7 +116,7 @@
       "packetTitle": "Hamburg'da 'Beyaz Kaplan' davası: Çocuklara karşı çevrimiçi suçlar iddiasıyla yargılama başladı",
       "packetSpot": "Hamburg'da 'Beyaz Kaplan' olarak bilinen şahsın çocuklara karşı işlediği iddia edilen çevrimiçi suçlar nedeniyle yargılandığı dava başladı.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.scmp.com/news/world/europe/article/3339408/online-predator-white-tiger-trial-germany-over-crimes-against-children?utm_source=rss_feed",
@@ -127,7 +127,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "South China Morning Post",
@@ -143,7 +143,7 @@
       "packetTitle": "Brigitte Macron'a yönelik siber zorbalık davasında mahkeme kararı",
       "packetSpot": "Paris'te bir mahkeme, Brigitte Macron'a yönelik cinsiyetine dair yanlış iddialara odaklanan siber zorbalık nedeniyle 10 kişiyi mahkum etti.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-05T12:00:00Z",
       "items": [
         {
           "atomID": "d4fc6bc6-ea7e-11f0-b6c2-597c8d26def0",
@@ -154,7 +154,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "France 24 World",
@@ -170,7 +170,7 @@
       "packetTitle": "Donald Trump'ın dış politikası Avrupa'da endişe yaratıyor",
       "packetSpot": "",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.politico.eu/?post_type=article&p=7739838",
@@ -181,7 +181,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "POLITICO Europe",
@@ -197,7 +197,7 @@
       "packetTitle": "AB-Mercosur ticaret anlaşması imza öncesi AB içi muhalefetle karşı karşıya",
       "packetSpot": "AB-Mercosur Serbest Ticaret Anlaşması'nın imzalanması Paraguay'da planlanıyor, ancak özellikle Fransa'dan gelen iç muhalefet nedeniyle AB içinde tartışmalar sürüyor. On yıllardır süren müzakereler, ekonomik faydalar ile tarımsal endişeler arasındaki gerilimi gözler önüne seriyor.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "cce13ef8-ed71-11f0-b3e9-b7acb8826bf8",
@@ -208,7 +208,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "France 24 World",
@@ -224,7 +224,7 @@
       "packetTitle": "Crans-Montana yangını sonrası",
       "packetSpot": "Crans-Montana'daki trajik yangın ve sonrasını ele alan birçok makale var.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-i-saw-traces-of-tragedy-i-suffer-as-father-and-grandfather-says_df199b9f-f262-4c80-a7a2-9c01a29af4ac.html",
@@ -235,7 +235,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -253,7 +253,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -271,7 +271,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -289,7 +289,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "France 24 World",
@@ -307,7 +307,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -325,7 +325,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "South China Morning Post",
@@ -343,7 +343,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Independent World",
@@ -361,7 +361,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Japan Times",
@@ -379,7 +379,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Straits Times World",
@@ -397,7 +397,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Straits Times World",
@@ -415,7 +415,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "BBC News Europe",
@@ -433,7 +433,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "BBC News World",
@@ -451,7 +451,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "BBC News World",
@@ -469,7 +469,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "BBC News Europe",
@@ -487,7 +487,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -505,7 +505,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "South China Morning Post",
@@ -521,7 +521,7 @@
       "packetTitle": "Yüksek profilli davalar",
       "packetSpot": "",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.aljazeera.com/?t=1767387462",
@@ -532,7 +532,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -550,7 +550,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -568,7 +568,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -586,7 +586,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "South China Morning Post",
@@ -604,7 +604,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Independent World",
@@ -622,7 +622,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Independent World",
@@ -640,7 +640,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "France 24 World",
@@ -658,7 +658,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "France 24 World",
@@ -676,7 +676,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -694,7 +694,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -712,7 +712,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -730,7 +730,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "TechCrunch",
@@ -748,7 +748,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -766,7 +766,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "BBC News World",
@@ -784,7 +784,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -802,7 +802,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "Balkan Insight",
@@ -820,7 +820,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Japan Times",
@@ -836,7 +836,7 @@
       "packetTitle": "Venezuela krizi ve ABD'nin rolü",
       "packetSpot": "Maduro'nun yakalanması ve ABD'nin Venezuela üzerindeki etkisi birçok kaynakta öne çıkıyor.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.aljazeera.com/?t=1767641689",
@@ -847,7 +847,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -865,7 +865,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "France 24 World",
@@ -883,7 +883,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "MercoPress",
@@ -901,7 +901,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "MercoPress",
@@ -919,7 +919,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "MercoPress",
@@ -937,7 +937,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "South China Morning Post",
@@ -955,7 +955,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Independent World",
@@ -973,7 +973,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Independent World",
@@ -991,7 +991,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "BBC News World",
@@ -1009,7 +1009,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -1025,7 +1025,7 @@
       "packetTitle": "Güney Karolina'da kızamık salgını",
       "packetSpot": "Güney Karolina'daki kızamık salgınına dair çeşitli raporlar, artan vaka sayısını ve salgının kontrol altına alınmasındaki zorlukları ele alıyor.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.aljazeera.com/?t=1767379557",
@@ -1036,7 +1036,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -1054,7 +1054,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "Ars Technica",
@@ -1070,7 +1070,7 @@
       "packetTitle": "Minneapolis'ta ICE operasyonu ve yankıları",
       "packetSpot": "",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.aljazeera.com/?t=1767822286",
@@ -1081,7 +1081,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -1099,7 +1099,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "France 24 World",
@@ -1117,7 +1117,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "South China Morning Post",
@@ -1135,7 +1135,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Atlantic",
@@ -1153,7 +1153,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Independent World",
@@ -1171,7 +1171,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Independent World",
@@ -1189,7 +1189,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Independent World",
@@ -1207,7 +1207,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -1225,7 +1225,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -1243,7 +1243,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Atlantic",
@@ -1259,7 +1259,7 @@
       "packetTitle": "Dikkat çeken sanat müzayedeleri",
       "packetSpot": "",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-07T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.theartnewspaper.com/2026/01/02/sweet-jesustrump-auctions-off-a-christ-painting-made-in-ten-minutes",
@@ -1270,7 +1270,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Art Newspaper",
@@ -1288,7 +1288,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "Sky News World",
@@ -1306,7 +1306,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Art Newspaper",
@@ -1322,7 +1322,7 @@
       "packetTitle": "Ukrayna'da çatışma",
       "packetSpot": "",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-09T12:00:00Z",
       "items": [
         {
           "atomID": "d6dae682-e800-11f0-bae1-b1ee92af0285",
@@ -1333,7 +1333,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "France 24 World",
@@ -1351,7 +1351,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-07T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -1369,7 +1369,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Japan Times",
@@ -1387,7 +1387,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Straits Times World",
@@ -1405,7 +1405,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-09T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Straits Times World",
@@ -1421,7 +1421,7 @@
       "packetTitle": "Grok'un yapay zeka ile üretilen deepfake'leri inceleme altında",
       "packetSpot": "Çeşitli raporlar, Grok'un yapay zeka ile üretilen deepfake'leri üzerine devam eden soruşturmaları öne çıkarıyor.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-01-05T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.politico.eu/?post_type=pro&p=7711932",
@@ -1432,7 +1432,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "POLITICO Europe",
@@ -1450,7 +1450,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-02T12:00:00Z",
           "sources": [
             {
               "sourceName": "POLITICO Europe",
@@ -1468,7 +1468,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-01-05T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Straits Times World",
@@ -1482,16 +1482,16 @@
   ],
   "superPackets": [
     {
-      "title": "Trump's Escalating Military Rhetoric and Global Tensions",
-      "spot": "This week saw an intensification of Trump's aggressive military rhetoric, heightening tensions in Iran and raising concerns in Europe. The sources converge on the potential global impact of these escalating threats.",
+      "title": "Trump'ın tırmanan askeri söylemi ve küresel gerilimler",
+      "spot": "Trump'ın sertleşen askeri söylemi İran'da gerilimi yükseltiyor; agresif dış politikası Avrupa'da da endişe yaratıyor.",
       "slots": [
         1,
         5
       ]
     },
     {
-      "title": "Legal and Political Turmoil Surrounding Venezuela",
-      "spot": "This week, the legal and political turmoil surrounding Venezuela intensified with high-profile trials and US involvement in the crisis. The sources converge on the courtroom drama involving Maduro and the broader geopolitical implications of his arrest.",
+      "title": "Venezuela'da hukuki ve siyasi çalkantı",
+      "spot": "Venezuela'yı saran hukuki ve siyasi çalkantı derinleşiyor; yüksek profilli davalar ve ABD'nin rolü krizi keskinleştiriyor.",
       "slots": [
         8,
         9

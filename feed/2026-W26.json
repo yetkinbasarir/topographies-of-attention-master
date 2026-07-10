@@ -1,14 +1,14 @@
 {
   "week": "2026-W26",
   "label": "22-28 HAZİRAN",
-  "publishedAt": "2026-07-10T16:18:58Z",
+  "publishedAt": "2026-07-10T18:47:14Z",
   "slots": [
     {
       "slot": 1,
       "packetTitle": "Vatikan, Raphael'in Loggialarının restorasyonuna başladı",
       "packetSpot": "Vatikan, Raphael'in Loggialarındaki ünlü freskler ve süslemeler üzerinde çalışan 20'den fazla uzmanın yer aldığı önemli bir restorasyon projesine başladı.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-06-24T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/24/restoration-of-raphaels-loggia-in-vatican-begins_015b33da-b20a-44d6-ae1d-caa56b93bb97.html",
@@ -19,7 +19,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-24T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -35,7 +35,7 @@
       "packetTitle": "Lucknow'da ölümcül yangınlar",
       "packetSpot": "Hindistan'ın Lucknow kentinde bir animasyon stüdyosu ve bir dershanede çıkan iki yangın, önemli can kayıplarına yol açtı.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-06-22T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.aljazeera.com/?t=1782146590",
@@ -46,7 +46,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -64,7 +64,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "Al Jazeera English",
@@ -80,7 +80,7 @@
       "packetTitle": "Öne çıkan müzayedeler: Cardinale'in mücevherleri, nadir tabut plakası ve Zabludowicz koleksiyonu",
       "packetSpot": "Öne çıkan müzayedeler arasında Claudia Cardinale'in mücevherleri, nadir bir tabut plakası ve Zabludowicz koleksiyonu yer alıyor.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-06-26T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/claudia-cardinales-jewels-up-for-auction-at-christies_f1d77aaf-932a-4fc8-bb71-ffc648941cc5.html",
@@ -91,7 +91,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -109,7 +109,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Art Newspaper",
@@ -127,7 +127,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-26T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Art Newspaper",
@@ -143,7 +143,7 @@
       "packetTitle": "Sanat ve sporda önemli atamalar",
       "packetSpot": "Son atamalar arasında Venedik Film Festivali, Crystal Bridges, İtalyan futbol federasyonu ve AC Milan'daki yeni görevler yer alıyor.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-06-24T12:00:00Z",
       "items": [
         {
           "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/ben-hania-blumberg-casetti-giannoli-to-sadat-join-venice-film-fest_f98f56cb-8d61-4e59-9d30-a486046eb8d8.html",
@@ -154,7 +154,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -172,7 +172,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-24T12:00:00Z",
           "sources": [
             {
               "sourceName": "The Art Newspaper",
@@ -190,7 +190,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -208,7 +208,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
@@ -224,7 +224,7 @@
       "packetTitle": "Avrupa'da kırmızı sıcaklık uyarıları yayılıyor",
       "packetSpot": "Fransa ve İtalya dahil olmak üzere Avrupa'nın birçok şehrinde kırmızı sıcaklık uyarıları verildi.",
       "sessionID": "produce-week-py",
-      "publishedAt": "2026-07-10T16:18:58Z",
+      "publishedAt": "2026-06-22T12:00:00Z",
       "items": [
         {
           "atomID": "https://news.mongabay.com/?post_type=short-article&p=321556",
@@ -235,7 +235,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "Mongabay",
@@ -253,7 +253,7 @@
           "category": "",
           "group": "",
           "newsValue": 5,
-          "publishedAt": "2026-07-10T16:18:58Z",
+          "publishedAt": "2026-06-22T12:00:00Z",
           "sources": [
             {
               "sourceName": "ANSA English",
