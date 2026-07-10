@@ -3,88 +3,11 @@
   "feedVersion" : "1.0",
   "weeks" : [
     {
-      "label" : "3-9 AĞUSTOS",
-      "packetCount" : 6,
-      "publishedAt" : "2026-06-30T01:48:28Z",
-      "url" : "feed\/2026-W32.json",
-      "week" : "2026-W32"
-    },
-    {
-      "label" : "27 TEMMUZ - 2 AĞUSTOS",
-      "packetCount" : 6,
-      "publishedAt" : "2026-06-30T00:49:02Z",
-      "url" : "feed\/2026-W31.json",
-      "week" : "2026-W31"
-    },
-    {
-      "label" : "20-26 TEMMUZ",
-      "packetCount" : 38,
-      "publishedAt" : "2026-06-29T22:30:53Z",
-      "url" : "feed\/2026-W30.json",
-      "week" : "2026-W30"
-    },
-    {
-      "label" : "13-19 TEMMUZ",
-      "packetCount" : 20,
-      "publishedAt" : "2026-06-27T01:36:57Z",
-      "url" : "feed\/2026-W29.json",
-      "week" : "2026-W29"
-    },
-    {
       "label" : "6-12 TEMMUZ",
       "packetCount" : 42,
       "publishedAt" : "2026-07-08T15:38:58Z",
       "url" : "feed\/2026-W28.json",
       "week" : "2026-W28"
-    },
-    {
-      "label" : "29 HAZİRAN - 5 TEMMUZ",
-      "packetCount" : 20,
-      "publishedAt" : "2026-06-19T02:18:38Z",
-      "url" : "feed\/2026-W27.json",
-      "week" : "2026-W27"
-    },
-    {
-      "label" : "22-28 HAZİRAN",
-      "packetCount" : 25,
-      "publishedAt" : "2026-06-11T23:25:16Z",
-      "url" : "feed\/2026-W26.json",
-      "week" : "2026-W26"
-    },
-    {
-      "label" : "18-24 MAYIS",
-      "packetCount" : 2,
-      "publishedAt" : "2026-06-11T21:57:01Z",
-      "url" : "feed\/2026-W21.json",
-      "week" : "2026-W21"
-    },
-    {
-      "label" : "25-31 MAYIS",
-      "packetCount" : 1,
-      "publishedAt" : "2026-06-11T09:57:39Z",
-      "url" : "feed\/2026-W22.json",
-      "week" : "2026-W22"
-    },
-    {
-      "label" : "15-21 HAZİRAN",
-      "packetCount" : 1,
-      "publishedAt" : "2026-06-11T09:56:14Z",
-      "url" : "feed\/2026-W25.json",
-      "week" : "2026-W25"
-    },
-    {
-      "label" : "8-14 HAZİRAN",
-      "packetCount" : 18,
-      "publishedAt" : "2026-06-10T19:04:48Z",
-      "url" : "feed\/2026-W24.json",
-      "week" : "2026-W24"
-    },
-    {
-      "label" : "1-7 HAZİRAN",
-      "packetCount" : 1,
-      "publishedAt" : "2026-06-11T10:00:24Z",
-      "url" : "feed\/2026-W23.json",
-      "week" : "2026-W23"
     }
   ]
 }
