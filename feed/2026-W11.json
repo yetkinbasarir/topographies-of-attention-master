@@ -1,0 +1,601 @@
+{
+ "label": "9-15 MART",
+ "publishedAt": "2026-07-09T22:53:58Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://en.mercopress.com/2026/03/09/iran-names-mojtaba-khamenei-supreme-leader-as-war-widens-to-oil-and-water-infrastructure?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "category": "",
+     "descriptionTR": "İran, Pazar günü Mojtaba Khamenei'yi yeni dini lideri olarak atadı. Bu atama, İsrail ve ABD ile olan çatışmaların derinleştiği ve sınır ötesi saldırıların yakıt depoları, enerji yolları ve tuzdan arındırma tesislerini hedef aldığı bir dönemde gerçekleşti. 88 üyeli Uzmanlar Meclisi, halefin seçilmesinden sorumlu olan bu dini organ, Khamenei'nin \"kesin bir oyla\" atandığını belirtti ve ona devletin tüm meselelerinde nihai otorite verdi.",
+     "group": "",
+     "id": "https://en.mercopress.com/2026/03/09/iran-names-mojtaba-khamenei-supreme-leader-as-war-widens-to-oil-and-water-infrastructure?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "link": "https://en.mercopress.com/2026/03/09/iran-names-mojtaba-khamenei-supreme-leader-as-war-widens-to-oil-and-water-infrastructure?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/03/09/iran-names-mojtaba-khamenei-supreme-leader-as-war-widens-to-oil-and-water-infrastructure?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/what-to-know-about-irans-new-supreme-leader-mojtaba-khamenei?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/inside-story/2026/3/9/who-is-irans-new-supreme-leader?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İran, Mojtaba Khamenei'yi dini lider olarak atadı; çatışmalar enerji ve su altyapısına sıçradı"
+    }
+   ],
+   "packetSpot": "Mojtaba Khamenei, Ali Khamenei'nin yerine İran'ın yeni dini lideri olarak atanırken, bölgesel çatışmaların ve ulusal krizin yoğunlaştığı bir dönemde bu değişiklik gerçekleşti.",
+   "packetTitle": "Mojtaba Khamenei'nin İran'ın yeni dini lideri olarak atanması ve bölgesel gerilimler",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "news691922882",
+     "category": "",
+     "descriptionTR": "Uzmanların, önce dört ayak üzerinde yaşamına başladığını, yetişkinlikte ise sadece iki ayak üzerinde yürümeyi öğrendiğini düşündüğü \"tuhaf\" bir timsah akrabası, yeni bir çalışmada ortaya kondu. Sonselasuchus cedrus adı verilen bu eski sürüngen, çoğu ornithomimid dinozorlarına benzeyen bir görünüme sahip olan shuvosaurid grubunun bir parçasıydı ve Geç Triyasik dönemde (yaklaşık 225-201 milyon yıl önce) aynı manzarayı paylaştı.",
+     "group": "",
+     "id": "news691922882",
+     "link": "https://phys.org/news/2026-03-peculiar-crocodile-ancestor-life-legs.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Phys.org",
+       "url": "https://phys.org/news/2026-03-peculiar-crocodile-ancestor-life-legs.html"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2518365-ancient-weirdo-reptile-graduated-from-4-legs-to-2-in-adolescence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "'Tuhaf' timsah atası önce dört ayak üzerinde, sonra iki ayak üzerinde yürümeyi öğrendi"
+    }
+   ],
+   "packetSpot": "Triyasik döneme ait bir timsah atası olan Sonselasuchus cedrus'un, fosil çalışmalarına göre, olgunlaştıkça dört ayaktan iki ayağa geçiş yaptığı bildiriliyor.",
+   "packetTitle": "Sonselasuchus cedrus: Timsah atası dört ayaktan iki ayağa geçiş yapıyor",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "2518316-weve-only-just-confirmed-that-homo-habilis-really-existed|2518316",
+     "category": "",
+     "descriptionTR": "Tür adı iyi bilinse de Homo habilis hakkında kesin olarak çok az şey biliyorduk. Köşe yazarı Michael Marshall, ilk insanlar olarak kabul edilen bu homininler hakkında yeni fosillerin bize neler anlattığını açıklıyor.",
+     "group": "",
+     "id": "2518316-weve-only-just-confirmed-that-homo-habilis-really-existed|2518316",
+     "link": "https://www.newscientist.com/article/2518316-weve-only-just-confirmed-that-homo-habilis-really-existed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2518316-weve-only-just-confirmed-that-homo-habilis-really-existed/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "Homo habilis'in gerçekten var olduğu yeni doğrulandı"
+    },
+    {
+     "atomID": "2518607-a-daily-multivitamin-may-slightly-slow-rates-of-ageing|2518607",
+     "category": "",
+     "descriptionTR": "Her gün multivitamin almak yaşlanma hızını biraz yavaşlatabilir, ancak bunun sağlığımız açısından ne kadar önemli olduğu belirsiz.",
+     "group": "",
+     "id": "2518607-a-daily-multivitamin-may-slightly-slow-rates-of-ageing|2518607",
+     "link": "https://www.newscientist.com/article/2518607-a-daily-multivitamin-may-slightly-slow-rates-of-ageing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2518607-a-daily-multivitamin-may-slightly-slow-rates-of-ageing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "Günlük multivitamin yaşlanma hızını biraz yavaşlatabilir"
+    },
+    {
+     "atomID": "2518339-singing-dogs-may-show-the-evolutionary-roots-of-musicality|2518339",
+     "category": "",
+     "descriptionTR": "Bazı Samoyed köpekleri, çalınan müziğe bağlı olarak ulumalarının tonunu ayarlayarak, kurt atalarından miras almış olabilecekleri bir vokal yeteneği sergiliyor.",
+     "group": "",
+     "id": "2518339-singing-dogs-may-show-the-evolutionary-roots-of-musicality|2518339",
+     "link": "https://www.newscientist.com/article/2518339-singing-dogs-may-show-the-evolutionary-roots-of-musicality/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2518339-singing-dogs-may-show-the-evolutionary-roots-of-musicality/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "'Şarkı söyleyen' köpekler müzikalitenin evrimsel kökenlerini gösterebilir"
+    },
+    {
+     "atomID": "2518516-the-first-apes-to-walk-upright-may-have-evolved-in-europe|2518516",
+     "category": "",
+     "descriptionTR": "Bulgaristan'da bulunan tek bir uyluk kemiği, Afrika'daki bilinen homininlerden önce iki ayak üzerinde yürüyen bir maymun veya erken hominini temsil ediyor olabilir, ancak kanıtlar kesin değil.",
+     "group": "",
+     "id": "2518516-the-first-apes-to-walk-upright-may-have-evolved-in-europe|2518516",
+     "link": "https://www.newscientist.com/article/2518516-the-first-apes-to-walk-upright-may-have-evolved-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2518516-the-first-apes-to-walk-upright-may-have-evolved-in-europe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "İlk iki ayak üzerinde yürüyen maymunlar Avrupa'da evrimleşmiş olabilir"
+    },
+    {
+     "atomID": "2518324-seti-may-have-missed-alien-signals-because-of-space-weather|2518324",
+     "category": "",
+     "descriptionTR": "SETI, uzak zeki yaşam tarafından gönderilmiş olabilecek keskin ve belirgin bir radyo sinyali dinlemek için onlarca yıl harcadı. Ancak araştırmacılar, uzay havasının bu tür sinyalleri bozabileceğini ve bulanıklaştırabileceğini düşünüyor, bu da SETI'nin yanlış bir şey aradığı anlamına gelebilir.",
+     "group": "",
+     "id": "2518324-seti-may-have-missed-alien-signals-because-of-space-weather|2518324",
+     "link": "https://www.newscientist.com/article/2518324-seti-may-have-missed-alien-signals-because-of-space-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2518324-seti-may-have-missed-alien-signals-because-of-space-weather/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "SETI uzay havası nedeniyle uzaylı sinyallerini kaçırmış olabilir"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
+     "category": "",
+     "descriptionTR": "Araştırmacılar, dinamik davranışlara sahip proteinlerin evrimini yönlendirmek için ışık kullanan optovolution adlı bir yöntem geliştirdi. Maya hücrelerini, hayatta kalmalarının proteinlerin doğru zamanda durum değiştirmesine bağlı olduğu şekilde mühendislik yaparak, en iyi performans gösteren varyantları hızla seçebildiler. Bu teknik, farklı renklere tepki veren yeni ışığa duyarlı proteinler ve geliştirilmiş optogenetik sistemler üretti. Hatta iki sinyal mevcut olduğunda genleri aktive eden küçük bir mantık kapısı gibi davranan bir protein bile evrimleştirdi.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm"
+      }
+     ],
+     "titleTR": "Işık rehberliğinde evrim, anahtarlama, algılama ve hesaplama yapabilen proteinler yarattı"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
+     "category": "",
+     "descriptionTR": "Araştırmacılar, hücre çekirdeğindeki insan DNA'sına bağlı yüzlerce metabolik enzim buldu. Farklı dokular ve kanserler, bu enzimlerin benzersiz desenlerini göstererek bir 'nükleer metabolik parmak izi' oluşturuyor. Bazı enzimler, hasarlı DNA'nın etrafında toplanarak onarıma yardımcı oluyor. Bu keşif, metabolizma ile gen düzenlemesi arasında beklenmedik bir bağlantı ortaya koyuyor ve kanserlerin nasıl büyüdüğünü ve tedaviye nasıl yanıt verdiğini etkileyebilir.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm"
+      }
+     ],
+     "titleTR": "Hücre çekirdeğinde gizli metabolizma işliyor"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260308201623.htm",
+     "category": "",
+     "descriptionTR": "Bilim insanları, tuzlu su ve tatlı suyun karışımından elektrik üreten 'mavi enerji'yi önemli ölçüde artırmanın bir yolunu buldu. Nanoporeları sürtünmeyi azaltan bir su tabakası oluşturan lipid molekülleriyle kaplayarak, iyonların çok daha verimli geçişini sağladılar ve süreci oldukça seçici tuttular. Prototip membranları, mevcut teknolojilerden iki ila üç kat daha fazla güç üretti. Bu keşif, ozmotik enerjiyi pratik bir yenilenebilir enerji kaynağına dönüştürmeye yardımcı olabilir.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260308201623.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260308201623.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260308201623.htm"
+      }
+     ],
+     "titleTR": "Bilim insanları, mavi enerjiyi süper şarj eden kaygan nanoporelar yarattı"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
+     "category": "",
+     "descriptionTR": "Fizikçiler uzun süredir, küçük parçacıkları yöneten kuantum mekaniği ile yıldızların, gezegenlerin ve evrenin yapısını açıklayan Einstein'ın yerçekimi teorisini birleştirmekte zorlanıyor. TU Wien'deki araştırmacılar, şimdi bu hedefe doğru yeni bir adım atarak, parçacıkların eğri uzay-zamanda izlediği yollar olan jeodeziklerden birini yeniden düşünerek ilerleme kaydetti. Bu yolların kuantum versiyonunu oluşturarak, 'kuantum' uzay-zamanda hareket eden parçacıkların klasik göreliliğin öngördüğü yollardan biraz sapabileceğini gösterdiler.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260308201613.htm"
+      }
+     ],
+     "titleTR": "Parçacıklar Einstein'ın yollarını takip etmeyebilir"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260308201604.htm",
+     "category": "",
+     "descriptionTR": "DNA, bir zamanlar tek bir tür olarak düşünülen birçok hayvanın aslında birkaç gizli tür olabileceğini ortaya koyuyor. Ancak Borneo'nun dişli kurbağaları üzerindeki araştırmalar, türler arasındaki çizginin bulanık olabileceğini gösteriyor—bu da hangi vahşi yaşamın en çok korunması gerektiğine karar verirken önemli bir zorluk oluşturuyor.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260308201604.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260308201604.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260308201604.htm"
+      }
+     ],
+     "titleTR": "Bilim insanları, Borneo'nun 'dişli kurbağaları' arasında gizli türler keşfetti"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260308201601.htm",
+     "category": "",
+     "descriptionTR": "Bitkiler hücrelerinde sürekli olarak oksijenle jonglörlük yapıyor, ancak bilim insanları şimdi bu dengenin nasıl çalıştığına dair şaşırtıcı bir dönüş keşfetti. Helsinki Üniversitesi'ndeki araştırmacılar, mitokondrilerin—hücrenin enerji jeneratörleri—fotosentezden sorumlu yapılar olan kloroplastlardan aktif olarak oksijen çekebileceğini buldu. Bu daha önce bilinmeyen etkileşim, mitokondrilerin bitki hücrelerinde oksijeni etkili bir şekilde 'boşaltabileceğini', fotosentezi ve bitkilerin strese yanıt vermesine yardımcı olan reaktif moleküllerin üretimini değiştirebileceğini gösteriyor.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260308201601.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260308201601.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260308201601.htm"
+      }
+     ],
+     "titleTR": "Bilim insanları bitki hücrelerinde oksijen çekişmesini keşfetti"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260307213238.htm",
+     "category": "",
+     "descriptionTR": "NASA'nın DART uzay aracı, Dimorphos adlı asteroit uyduya kasıtlı olarak çarptığında, sadece asteroidin yerel yörüngesini değiştirmekle kalmadı—aynı zamanda tüm asteroit çiftinin Güneş etrafındaki yörüngesini hafifçe kaydırdı. Çarpma, uzaya enkaz fırlatarak uzay aracının darbesinin gücünü iki katına çıkardı ve sistemin güneş yörüngesini küçük ama ölçülebilir bir miktarda itti. Bu, insanların ilk kez bir gök cisminin Güneş etrafındaki yörüngesini değiştirdiği anlamına geliyor. Sonuç, uzay aracı çarpmalarını gelecekteki bir gezegen savunma stratejisi olarak kullanma olasılığını güçlendiriyor.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260307213238.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260307213238.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260307213238.htm"
+      }
+     ],
+     "titleTR": "NASA'nın DART asteroit çarpması gelecekteki tehditleri saptırabileceğimizi gösteriyor"
+    },
+    {
+     "atomID": "2518748-parkinsons-disease-may-reduce-enjoyment-of-pleasant-smells|2518748",
+     "category": "",
+     "descriptionTR": "Parkinson hastalığı olan insanlar için \"dünya farklı kokuyor\", bu keşif doktorların durumu daha erken fark etmelerine yardımcı olabilir.",
+     "group": "",
+     "id": "2518748-parkinsons-disease-may-reduce-enjoyment-of-pleasant-smells|2518748",
+     "link": "https://www.newscientist.com/article/2518748-parkinsons-disease-may-reduce-enjoyment-of-pleasant-smells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2518748-parkinsons-disease-may-reduce-enjoyment-of-pleasant-smells/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "Parkinson hastalığı hoş kokuların keyfini azaltabilir"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm",
+     "category": "",
+     "descriptionTR": "Kuzey Denizi altındaki Silverpit Krateri hakkındaki uzun süredir devam eden tartışma nihayet çözüldü. Bilim insanları, yaklaşık 43–46 milyon yıl önce deniz tabanına çarpan yaklaşık 160 metrelik bir asteroidin krateri oluşturduğunu şimdi doğruluyor. Yeni sismik görüntüleme ve kaya örneklerindeki nadir şoklanmış mineraller, kritik kanıtı sağladı. Çarpma, devasa bir bulutun gökyüzüne yükselmesine ve 100 metre yüksekliğinde bir tsunaminin serbest kalmasına neden olmuş olmalı.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm"
+      }
+     ],
+     "titleTR": "Kuzey Denizi'ne dev bir asteroit çarptı ve 100 metre yüksekliğinde tsunami tetikledi"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260311004716.htm",
+     "category": "",
+     "descriptionTR": "Araştırmacılar, gelecekteki mahsullerin karbondioksiti daha verimli bir şekilde yakalamasına yardımcı olabilecek bir moleküler hileyi keşfetti. RbcS-STAR adı verilen benzersiz bir protein özelliği, ana fotosentez enzimi Rubisco'nun yoğun bölmelere toplanmasına neden olarak daha etkili çalışmasına yardımcı oluyor. Bilim insanları bu özelliği diğer bitkilere eklediklerinde, Rubisco aynı şekilde yeniden organize oldu. Bu bulgu, büyük mahsullerde daha verimli fotosentez mühendisliği yapma olasılığını artırıyor.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260311004716.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260311004716.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260311004716.htm"
+      }
+     ],
+     "titleTR": "Bilim insanları, mahsul verimini artırabilecek küçük bitki hilesi keşfetti"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260311004708.htm",
+     "category": "",
+     "descriptionTR": "Derin deniz suları ısındıkça, okyanus kimyasını dengede tutmaya yardımcı olan mikroplar için sorun bekleniyordu. Ancak araştırmacılar, Nitrosopumilus maritimus'un daha sıcak, demir sınırlı koşullara uyum sağlayabildiğini buldu. Bu mikroplar, deniz yaşamını destekleyen anahtar azot reaksiyonlarını kontrol ettikleri için, uyum yetenekleri okyanus verimliliğini sürdürebilir. Isınan bir dünyada, deniz besin döngülerini şekillendirmede daha büyük bir rol oynayabilirler.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260311004708.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260311004708.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260311004708.htm"
+      }
+     ],
+     "titleTR": "Okyanus ısınması, deniz besinlerini kontrol eden küçük mikrobu süper şarj edebilir"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Bilimsel keşifler",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773086409",
+     "category": "",
+     "descriptionTR": "İsrail, onlarca yıldır savaşlar ve suikastlar yoluyla Hizbullah'ı zayıflatmaya çalıştı. Peki, bu grup nasıl ayakta kalmayı başardı?",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773086409",
+     "link": "https://www.aljazeera.com/video/the-take-2/2026/3/9/aje-onl-tt_lbn_50yearsofisrinvasions_av_v3-090326?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/the-take-2/2026/3/9/aje-onl-tt_lbn_50yearsofisrinvasions_av_v3-090326?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail'in Hizbullah'a karşı savaşı neden bitmiyor?"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773059861",
+     "category": "",
+     "descriptionTR": "İran'daki saldırılar devam ederken, ABD Başkanı Trump değişken hedefler ortaya koydu. Ancak bu hedeflerin gerçekleşme olasılığı nedir?",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773059861",
+     "link": "https://www.aljazeera.com/news/2026/3/9/what-is-the-us-endgame-in-iran-as-the-war-escalates?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/9/what-is-the-us-endgame-in-iran-as-the-war-escalates?traffic_source=rss"
+      }
+     ],
+     "titleTR": "ABD-İsrail gerilimi artarken Trump'ın İran'daki hedefi ne?"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773254563",
+     "category": "",
+     "descriptionTR": "İsrail ve İran arasında füzeler uçuşuyor, ancak sansür ve erişim kısıtlamaları nedeniyle savaşın büyük bir kısmı gözlerden uzak kalıyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773254563",
+     "link": "https://www.aljazeera.com/video/the-take-2/2026/3/11/aje-onl-isr_mediacensorship_av_v2_1-110326?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/the-take-2/2026/3/11/aje-onl-isr_mediacensorship_av_v2_1-110326?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Gizli savaş alanı: İsrail-İran çatışmasında sansür"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Ortadoğu'daki çatışmaların karmaşık seyri",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/03/260308201616.htm",
+     "category": "",
+     "descriptionTR": "Sırbistan'da bulunan tarih öncesi toplu mezar, yaklaşık 2.800 yıl önce çoğunluğu kadın ve çocuk olan 77'den fazla kişinin kasıtlı olarak öldürüldüğünü ortaya koyuyor. Genetik kanıtlar, kurbanların farklı topluluklardan geldiğini ve katliamın Demir Çağı Avrupa'sındaki şiddetli toprak mücadeleleri sırasında hesaplanmış bir mesaj olabileceğini gösteriyor.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/03/260308201616.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/03/260308201616.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/03/260308201616.htm"
+      }
+     ],
+     "titleTR": "Sırbistan'da Demir Çağı'na ait kadın ve çocuk katliamı ortaya çıkarıldı"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773260124",
+     "category": "",
+     "descriptionTR": "Güney Lübnan'dan kaçan aileler, İsrail saldırılarından sonra Sidon'da bir okulda korunma arıyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773260124",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/11/displaced-lebanese-families-seek-refuge-in-school-shelter?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/displaced-lebanese-families-seek-refuge-in-school-shelter?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Lübnanlı aileler okul sığınağında korunma arıyor"
+    },
+    {
+     "atomID": "urn:uuid:9dc0d041-0c49-44bc-ba5d-d367d1eaacda",
+     "category": "",
+     "descriptionTR": "Ortadoğu'daki son çatışma tırmanışının üzerinden on günden fazla süre geçerken, bölgedeki sağlık sistemleri yaralanmalar ve yerinden edilmelerin artması, sağlık hizmetlerine yönelik saldırıların devam etmesi ve halk sağlığı risklerinin yükselmesiyle zorlanıyor. İran'da ulusal sağlık otoriteleri 1300'den fazla ölüm ve 9000 yaralanma bildirirken, Lübnan'da en az 570 ölüm ve 1400'den fazla yaralanma rapor ediliyor. İsrail'de ise yetkililer 15 ölüm ve 2142 yaralanma bildiriyor. Aynı zamanda, çatışma hayat kurtarmayı amaçlayan hizmetleri de etkiliyor. İran'da WHO, 28 Şubat'tan bu yana sağlık hizmetlerine yönelik 18 saldırıyı doğruladı, bu saldırılarda 8 sağlık çalışanı hayatını kaybetti. Aynı dönemde Lübnan'da sağlık hizmetlerine yönelik 25 saldırı 16 ölüm ve 29 yaralanmaya neden oldu. Bu saldırılar sadece can kaybına yol açmakla kalmıyor, aynı zamanda toplulukları en çok ihtiyaç duydukları anda bakımdan mahrum bırakıyor. Sağlık çalışanları, hastalar ve sağlık tesisleri her zaman uluslararası insancıl hukuk kapsamında korunmalıdır. Anlık etkilerin ötesinde, çatışma daha geniş halk sağlığı riskleri yaratıyor. Mevcut tahminler, İran'da 100.000'den fazla kişinin güvensizlik nedeniyle ülkenin diğer bölgelerine taşındığını ve Lübnan'da 700.000'e kadar kişinin iç göçmen olduğunu gösteriyor. Birçoğu kalabalık toplu barınaklarda, kötüleşen halk sağlığı koşulları altında, güvenli su, sanitasyon ve hijyene sınırlı erişimle yaşıyor. Bu koşullar, özellikle kadınlar ve çocuklar gibi en savunmasız nüfuslar için solunum yolu enfeksiyonları, ishal hastalıkları ve diğer bulaşıcı hastalıklar riskini artırıyor. Çevresel tehlikeler de artan bir endişe kaynağı. İran'da, petrol yangınları ve hasar gören altyapıdan çıkan duman, yakın toplulukları solunum problemleri, göz ve cilt tahrişi ve kirlenmiş su ve gıda kaynaklarına maruz bırakıyor. Sağlık hizmetlerine erişim, birçok ülkede giderek daha fazla kısıtlanıyor. Lübnan'da, İsrail ordusunun tahliye emirleri sonrasında 49 birinci basamak sağlık merkezi ve beş hastane kapandı, tıbbi ihtiyaçlar artarken temel hizmetlerin erişilebilirliğini azalttı. İşgal altındaki Filistin topraklarında, artan hareket kısıtlamaları ve kontrol noktası kapatmaları, Batı Şeria'daki birkaç valilikte ambulans ve mobil kliniklerin erişimini geciktiriyor. Gazze'de, 28 Şubat'tan bu yana tıbbi tahliyeler askıya alınmış durumda, hastaneler ise ilaç, tıbbi malzeme ve yakıt sıkıntısı nedeniyle zorlanmaya devam ediyor. Yakıt, acil ve travma bakımı, anne ve yenidoğan hizmetleri ve bulaşıcı hastalıkların yönetimi gibi temel sağlık hizmetlerine öncelik vermek için rasyonel olarak kullanılıyor. Geçici hava sahası kısıtlamaları, WHO'nun Dubai'deki küresel lojistik merkezinden tıbbi malzeme hareketini aksattı. 25 ülkeye yönelik 1,5 milyondan fazla kişiye fayda sağlaması planlanan 50'den fazla acil tedarik talebi etkileniyor ve bu da önemli birikimlere neden oluyor. Mevcut öncelikli sevkiyatlar, Gazze yanıtını desteklemek için Mısır'ın Al Arish kentine planlanan malzemeleri ve Lübnan ve Afganistan için planlananları içeriyor. İlk sevkiyatın, Mozambik için kolera yanıt malzemelerini içermesi ve önümüzdeki hafta merkezden ayrılması bekleniyor. Tırmanış, Doğu Akdeniz Bölgesi'ndeki insani ihtiyaçların zaten dünyanın en yüksek seviyelerinden biri olduğu bir dönemde gerçekleşiyor. Bölge genelinde, 115 milyon kişi insani yardıma ihtiyaç duyuyor - küresel olarak ihtiyaç duyanların neredeyse yarısı - ve insani sağlık acil durum çağrıları %70 oranında yetersiz finanse ediliyor. Sağlık hizmetlerinin korunması, sürdürülebilir insani erişim ve insani sağlık yanıtı için daha güçlü mali ve operasyonel destek olmadan, savunmasız nüfuslar üzerindeki yük ve zaten kırılgan olan sağlık sistemleri üzerindeki baskı artmaya devam edecek. WHO, tüm taraflara sivilleri ve sağlık hizmetlerini koruma, engelsiz ve sürdürülebilir insani erişim sağlama ve çatışmanın azaltılması için çaba gösterme çağrısında bulunuyor, böylece topluluklar toparlanmaya başlayabilir ve barışa doğru ilerleyebilir.",
+     "group": "",
+     "id": "urn:uuid:9dc0d041-0c49-44bc-ba5d-d367d1eaacda",
+     "link": "https://www.who.int/news/item/11-03-2026-conflict-deepens-health-crisis-across-middle-east--who-says",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "World Health Organization",
+       "url": "https://www.who.int/news/item/11-03-2026-conflict-deepens-health-crisis-across-middle-east--who-says"
+      }
+     ],
+     "titleTR": "Çatışma Ortadoğu'da sağlık krizini derinleştiriyor, WHO'ya göre"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Ortadoğu'da çatışmaların sivil halk ve sağlık sistemleri üzerindeki etkisi",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.ansa.it/english/news/politics/2026/03/11/four-pd-councillors-probed-for-global-sumud-flotilla-protest_fa119dce-8d6e-4bd3-8661-87b93df478f9.html",
+     "category": "",
+     "descriptionTR": "1 Ekim'de tren yolları işgal edildi.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/politics/2026/03/11/four-pd-councillors-probed-for-global-sumud-flotilla-protest_fa119dce-8d6e-4bd3-8661-87b93df478f9.html",
+     "link": "https://www.ansa.it/english/news/politics/2026/03/11/four-pd-councillors-probed-for-global-sumud-flotilla-protest_fa119dce-8d6e-4bd3-8661-87b93df478f9.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/11/four-pd-councillors-probed-for-global-sumud-flotilla-protest_fa119dce-8d6e-4bd3-8661-87b93df478f9.html"
+      }
+     ],
+     "titleTR": "Dört PD meclis üyesi Global Sumud Flotilla protestosu nedeniyle soruşturuluyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773410310",
+     "category": "",
+     "descriptionTR": "Savaşa rağmen, Tahran'daki Kudüs Günü yürüyüşlerinde binlerce kişi İsrail ve ABD'ye karşı öfkesini dile getirdi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773410310",
+     "link": "https://www.aljazeera.com/gallery/2026/3/13/thousands-march-worldwide-in-solidarity-with-palestine-iran-on-al-quds-day?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/gallery/2026/3/13/thousands-march-worldwide-in-solidarity-with-palestine-iran-on-al-quds-day?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Dünya genelinde binlerce kişi Filistin ve İran'la dayanışma için yürüdü"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Dünya genelinde protestolar",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://techcrunch.com/?p=3101699",
+     "category": "",
+     "descriptionTR": "inDrive, KraveMart'ı satın alarak, Foodpanda'nın hakim olduğu pazarda market teslimatını genişletiyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3101699",
+     "link": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/"
+      }
+     ],
+     "titleTR": "inDrive, Pakistan'da KraveMart'ı satın alarak market teslimatını güçlendiriyor"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3101695",
+     "category": "",
+     "descriptionTR": "Forethought, zamanının ilerisinde bir girişim olarak 2018'de TechCrunch Battlefield'ın kazananı olmuştu.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3101695",
+     "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/"
+      }
+     ],
+     "titleTR": "Zendesk, müşteri hizmetleri girişimi Forethought'u satın aldı"
+    }
+   ],
+   "packetSpot": "Teknoloji sektöründeki son satın almalar arasında inDrive'ın KraveMart'ı ve Zendesk'in Forethought'u satın alması yer alıyor.",
+   "packetTitle": "Teknoloji sektöründe satın almalar",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 7
+  }
+ ],
+ "superPackets": [
+  {
+   "slots": [
+    1,
+    4,
+    5,
+    6
+   ],
+   "spot": "Bu hafta Ortadoğu'da çatışmalar ve liderlik değişimleri artarak bölgesel istikrarsızlığı derinleştiriyor. Birbirine bağlı krizler altyapıyı, sivil güvenliğini etkiliyor ve küresel protestoları tetikliyor.",
+   "title": "Ortadoğu'da artan gerginlikler ve insani etkileri"
+  }
+ ],
+ "week": "2026-W11"
+}

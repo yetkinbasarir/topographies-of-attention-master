@@ -1,0 +1,809 @@
+{
+ "label": "2-8 MART",
+ "publishedAt": "2026-07-09T22:53:58Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/c93wwq1n542o#0",
+     "category": "",
+     "descriptionTR": "İspanya Başbakanı, ABD Başkanı Donald Trump'ın ülkesine yönelik ticareti sonlandırma tehdidine güçlü bir yanıt verdi.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c93wwq1n542o#0",
+     "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/4/spain-denies-white-house-claim-it-agreed-to-cooperate-with-us-military?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/2/spain-refuses-to-let-us-use-bases-for-iran-attacks?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İspanya Başbakanı Pedro Sánchez'den Trump'ın ticaret tehdidine yanıt: 'Savaşa hayır'"
+    },
+    {
+     "atomID": "90f749de-162d-11f1-adc8-7f26e0184e97",
+     "category": "",
+     "descriptionTR": "Orta Doğu'daki çatışma genişlerken, Avrupa ülkeleri ortak bir ses bulmakta zorlanıyor. AB Komisyonu Başkanı Ursula von der Leyen, İran'da kalıcı çözümün yalnızca diplomasiyle sağlanabileceğini söylerken, İspanya Başbakanı Pedro Sánchez ABD'nin saldırılarını açıkça kınayan tek lider oldu. FRANCE 24'ten Douglas Herbert daha fazlasını aktarıyor.",
+     "group": "",
+     "id": "90f749de-162d-11f1-adc8-7f26e0184e97",
+     "link": "https://www.france24.com/en/europe-scrambles-to-find-a-united-voice-over-middle-east-conflict",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/europe-scrambles-to-find-a-united-voice-over-middle-east-conflict"
+      }
+     ],
+     "titleTR": "Avrupa, Orta Doğu çatışması karşısında ortak bir ses bulmakta zorlanıyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "İspanya'nın ABD'nin İran'daki askeri eylemlerine karşı tutumu ve Avrupa'nın diplomatik çabaları",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "fb9ed474-1631-11f1-a984-f3946ba47f7c",
+     "category": "",
+     "descriptionTR": "İran Kızılayı'na göre, ABD-İsrail kampanyası sonucunda İran'da en az 555 kişi hayatını kaybetti ve ülke genelinde 130'dan fazla şehir saldırıya uğradı. ABD, Kuveyt'in \"yanlışlıkla\" üç F-35 savaş uçağını düşürdüğünü de açıkladı. FRANCE 24'ten Reza Sayah, Tahran'dan bildirdi.",
+     "group": "",
+     "id": "fb9ed474-1631-11f1-a984-f3946ba47f7c",
+     "link": "https://www.france24.com/en/hundreds-killed-in-iran-as-us-and-israeli-strike-targets-include-civilian-areas",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/hundreds-killed-in-iran-as-us-and-israeli-strike-targets-include-civilian-areas"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/israeli-city-hit-as-airforce-announces-new-strikes-in-iran"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/6/us-and-israel-attacking-iran-at-record-pace-war-monitor-says?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/us-israeli-strikes-hit-housing-hospitals-and-more-in-tehran?traffic_source=rss"
+      }
+     ],
+     "titleTR": "ABD ve İsrail'in İran'daki saldırılarında yüzlerce kişi öldü"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "ABD-İsrail saldırıları İran'da yoğunlaşıyor",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.politico.eu/?post_type=article&p=8029812",
+     "category": "",
+     "descriptionTR": "Donald Trump'ın mirası, İran rejimine yönelik iddia edilen saldırıyla birlikte daha da netleşti; bu, Trump döneminde yıkılan son 20. yüzyıl kalıntılarından biri olarak öne çıkıyor.",
+     "group": "",
+     "id": "https://www.politico.eu/?post_type=article&p=8029812",
+     "link": "https://www.politico.com/news/magazine/2026/03/02/trump-buries-the-20th-century-00806414?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.com/news/magazine/2026/03/02/trump-buries-the-20th-century-00806414?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/trump-this-was-the-best-chance-to-strike-irans-sick-and-sinister?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Trump 20. yüzyılı gömüyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Trump'ın İran'a yönelik saldırı iddiası ve mirası",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "8808a0f0-1634-11f1-a80a-596881879c5c",
+     "category": "",
+     "descriptionTR": "Fransa Cumhurbaşkanı Emmanuel Macron, ülkenin nükleer silahların potansiyel kullanımı konusundaki doktrinini güncelliyor. Macron'un, Fransa'nın balistik füze denizaltılarına ev sahipliği yapan askeri üsten yaptığı bu önemli konuşmayı canlı izlemek için yukarıdaki oynatıcıya tıklayın.",
+     "group": "",
+     "id": "8808a0f0-1634-11f1-a80a-596881879c5c",
+     "link": "https://www.france24.com/en/france/20260302-macron-unveils-france-nuclear-strategy-eu-counter-russian-aggression-wavering-us",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/france/20260302-macron-unveils-france-nuclear-strategy-eu-counter-russian-aggression-wavering-us"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/2/france-to-increase-nuclear-warheads-lend-nuclear-aircraft-to-europe-allies?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/macron-announces-increase-in-number-of-frances-nuclear-warheads/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "Macron, Rusya'nın saldırganlığı ve belirsiz ABD karşısında nükleer stratejisini açıkladı"
+    }
+   ],
+   "packetSpot": "Fransa Cumhurbaşkanı Emmanuel Macron, Rusya ve Çin'den gelen tehditlere dikkat çekerek Fransa'nın nükleer savaş başlıklarını artırmayı ve Avrupa müttefiklerine nükleer uçaklar sunmayı içeren yeni bir nükleer strateji açıkladı.",
+   "packetTitle": "Macron'un yeni Fransız nükleer stratejisi küresel gerilimler eşliğinde",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/videos/cn71jg14dnyo#3",
+     "category": "",
+     "descriptionTR": "ABD Savunma Bakanı Pete Hegseth, operasyonun kapsamı veya süresi hakkında fazla detay vermedi, birçok soru yanıtsız kaldı.",
+     "group": "",
+     "id": "https://www.bbc.com/news/videos/cn71jg14dnyo#3",
+     "link": "https://www.bbc.com/news/videos/cn71jg14dnyo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/videos/cn71jg14dnyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.com/news/2026/03/02/hegseth-doesnt-rule-out-u-s-troops-in-iran-00806748?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "Hegseth'ten İran saldırıları hakkında: 'Bu Irak değil, bu sonsuz değil'"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "ABD'nin İran'a olası askeri müdahale tartışmaları",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "78ffad28-162b-11f1-8256-7f26e0184e97",
+     "category": "",
+     "descriptionTR": "ABD ve İsrail'in İslam Cumhuriyeti'ne yönelik saldırılarının ardından İran'ın Körfez ülkelerine yönelik misilleme hamleleri dikkat çekiyor. Bu durum, Orta Doğu'daki durumu tam ölçekli bir bölgesel savaşa dönüştürme riski taşıyor.",
+     "group": "",
+     "id": "78ffad28-162b-11f1-8256-7f26e0184e97",
+     "link": "https://www.france24.com/en/iran-continues-to-target-gulf-states-in-response-to-us-israel-strikes",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/iran-continues-to-target-gulf-states-in-response-to-us-israel-strikes"
+      }
+     ],
+     "titleTR": "İran, ABD-İsrail saldırılarına misilleme olarak Körfez ülkelerine yöneliyor"
+    },
+    {
+     "atomID": "https://www.japantimes.co.jp/article/638300/",
+     "category": "",
+     "descriptionTR": "Çin'in komşu ülkelerdeki büyükelçilikleri ve konsoloslukları tarafından kurulan çalışma grupları, tahliye edilenlere yardım edecek. Bu bilgi, bir dışişleri bakanlığı sözcüsü tarafından basın toplantısında paylaşıldı.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/638300/",
+     "link": "https://www.japantimes.co.jp/news/2026/03/02/asia-pacific/society/iran-conflict-china-evacuation-update/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/03/02/asia-pacific/society/iran-conflict-china-evacuation-update/"
+      }
+     ],
+     "titleTR": "Çin: İran çatışmasında bir Çin vatandaşı öldü, 3 binden fazla kişi tahliye edildi"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/articles/c1e9qpy90g3o#1",
+     "category": "",
+     "descriptionTR": "Azerbaycan Cumhurbaşkanı İlham Aliyev, insansız hava aracı saldırılarını \"terör eylemi\" olarak nitelendiriyor ve silahlı kuvvetleri yüksek alarma geçiriyor.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c1e9qpy90g3o#1",
+     "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Azerbaycan, sınırını aşan savaş nedeniyle İran'a öfkeli"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "İran'ın misilleme hamleleri Körfez ülkeleri, Çin ve Azerbaycan'ı etkiliyor",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  },
+  {
+   "items": [
+    {
+     "atomID": "3cd09b9a-1627-11f1-a44b-052dcbd046a0",
+     "category": "",
+     "descriptionTR": "ABD Merkez Komutanlığı (CENTCOM), Pazartesi günü Kuveyt savunmasının \"görünüşe göre dost ateşi\" sonucu üç ABD askeri jetini vurduğunu ve tüm mürettebatın güvenli bir şekilde kurtarıldığını açıkladı.",
+     "group": "",
+     "id": "3cd09b9a-1627-11f1-a44b-052dcbd046a0",
+     "link": "https://www.france24.com/en/middle-east/20260302-kuwait-downs-three-us-jets-friendly-fire-crews-survived-centcom-says",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/middle-east/20260302-kuwait-downs-three-us-jets-friendly-fire-crews-survived-centcom-says"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/us-kuwait-accidentally-shot-down-3-american-jets/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/03/02/world/us-warplanes-mistakenly-shot-down/"
+      }
+     ],
+     "titleTR": "Kuveyt, dost ateşiyle üç ABD jetini vurdu; mürettebat sağ kurtuldu, CENTCOM açıkladı"
+    }
+   ],
+   "packetSpot": "Kuveyt hava savunması, dost ateşi sonucu üç ABD askeri jetini yanlışlıkla vurdu; tüm mürettebat sağ kurtuldu.",
+   "packetTitle": "Kuveyt'in dost ateşiyle ABD jetlerini yanlışlıkla vurması",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 7
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/cj32750e7j6o#1",
+     "category": "",
+     "descriptionTR": "İsrail'in Hizbullah kalesinden ayrılmaları için yaptığı benzeri görülmemiş uyarı sonrası büyük trafik sıkışıklıkları oluştu; İsrail, Lübnan genelinde saldırılarını artırıyor.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cj32750e7j6o#1",
+     "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/israel-strikes-lebanon-as-iran-conflict-spills-over/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "İsrail'in Beyrut'u vurması sonrası tahliye uyarısı paniğe yol açtı"
+    }
+   ],
+   "packetSpot": "İsrail, Hizbullah'ın saldırılarına yanıt olarak Lübnan'da, Beyrut dahil olmak üzere, askeri operasyonlarını yoğunlaştırdı. Bu durum, siviller arasında büyük bir panik ve hareketliliğe yol açtı.",
+   "packetTitle": "İsrail, Hizbullah saldırıları sonrası Lübnan'daki operasyonlarını artırıyor",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 8
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1772644900",
+     "category": "",
+     "descriptionTR": "Başbakan Keir Starmer'ın liderliğindeki İşçi Partisi'nden bir milletvekilinin eşi de tutuklananlar arasında, yerel medya bildiriyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1772644900",
+     "link": "https://www.aljazeera.com/news/2026/3/4/british-police-arrest-three-men-on-suspicion-of-spying-for-china?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/4/british-police-arrest-three-men-on-suspicion-of-spying-for-china?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "İngiltere polisi Çin için casusluk şüphesiyle üç kişiyi tutukladı"
+    }
+   ],
+   "packetSpot": "İngiltere polisi, Çin için casusluk yaptıkları şüphesiyle aralarında İşçi Partisi milletvekilinin eşinin de bulunduğu üç kişiyi tutukladı. Tutuklamalar, Çin istihbarat servislerine yardım iddialarına yönelik bir soruşturmanın parçası olarak gerçekleşti.",
+   "packetTitle": "İngiltere'de Çin için casusluk şüphesiyle üç kişi tutuklandı",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 9
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://techcrunch.com/?post_type=tc_video&p=3100087",
+     "category": "",
+     "descriptionTR": "Pentagon, Anthropic'i tedarik zinciri riski olarak resmen tanımladı. Bu durum, askeriye ile AI modellerinin kontrolü, otonom silahlar ve kitlesel iç gözetim kullanımı konularında anlaşmaya varılamamasının ardından geldi. Anthropic'in 200 milyon dolarlık sözleşmesi bozulurken, Savunma Bakanlığı OpenAI'ye yöneldi. OpenAI teklifi kabul etti ve ardından ChatGPT kaldırmaları %295 arttı. Riskler artmaya devam ederken, sınırsız kontrol ne kadar olmalı sorusu gündemdeki yerini koruyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?post_type=tc_video&p=3100087",
+     "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Anthropic'in Pentagon anlaşması, federal sözleşmeler peşindeki girişimler için uyarı niteliğinde"
+    }
+   ],
+   "packetSpot": "Anthropic, Pentagon tarafından tedarik zinciri riski olarak tanımlanmasına itiraz ediyor. Bu, ABD'li bir şirket için bir ilk. İtiraz, AI kontrolü üzerine başarısız bir sözleşme müzakeresinin ardından geldi.",
+   "packetTitle": "Anthropic, Pentagon'un tedarik zinciri riski tanımına itiraz ediyor",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 10
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1772479402",
+     "category": "",
+     "descriptionTR": "İsrail Başbakanı Benjamin Netanyahu, İran'ın füze saldırısında 9 kişinin öldüğü Beit Shemesh bölgesini ziyaret etti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1772479402",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-iran-would-threaten-all-of-humanity-with-nuclear-weapon?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/netanyahu-iran-would-threaten-all-of-humanity-with-nuclear-weapon?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Netanyahu: İran'ın nükleer silahı tüm insanlığı tehdit eder"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1772468586",
+     "category": "",
+     "descriptionTR": "Trump ve Netanyahu'nun bu savaştaki nedenleri çok farklı ve bu durum yakında ortaya çıkacak.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1772468586",
+     "link": "https://www.aljazeera.com/opinions/2026/3/2/us-and-israeli-interests-may-soon-diverge-on-iran?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/opinions/2026/3/2/us-and-israeli-interests-may-soon-diverge-on-iran?traffic_source=rss"
+      }
+     ],
+     "titleTR": "ABD ve İsrail'in İran konusundaki çıkarları yakında ayrışabilir"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1772470690",
+     "category": "",
+     "descriptionTR": "Trump, son açıklamasında ABD'nin İran'dan 'neredeyse tehdit altında' olduğunu belirterek saldırıların aciliyetini sorgulattı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1772470690",
+     "link": "https://www.aljazeera.com/news/2026/3/2/trump-says-iran-war-projected-to-last-4-to-5-weeks-could-go-far-longer?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/2/trump-says-iran-war-projected-to-last-4-to-5-weeks-could-go-far-longer?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Trump: İran savaşı 4-5 hafta sürebilir, daha uzun da olabilir"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1772473133",
+     "category": "",
+     "descriptionTR": "Eski ABD diplomatı Henry Ensher, gelecekteki İran liderliğinin nükleer caydırıcılığı savunma gerekliliği olarak görebileceği konusunda uyarıda bulundu.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1772473133",
+     "link": "https://www.aljazeera.com/video/quotable/2026/3/2/this-war-might-push-iran-to-a-bomb-faster?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/quotable/2026/3/2/this-war-might-push-iran-to-a-bomb-faster?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Bu savaş İran'ı daha hızlı bir şekilde nükleer silaha itebilir"
+    },
+    {
+     "atomID": "0b281e3a-1639-11f1-86f4-332a1a361488",
+     "category": "",
+     "descriptionTR": "Orta Doğu'daki savaş, Suudi Arabistan ve Kuveyt'teki petrol rafinerileri yakınlarındaki drone saldırılarıyla İran'ın büyük enerji altyapısını hedef aldığını gösteriyor ve küresel ekonomi için önemli bir risk oluşturuyor.",
+     "group": "",
+     "id": "0b281e3a-1639-11f1-86f4-332a1a361488",
+     "link": "https://www.france24.com/en/middle-east/20260302-as-iran-targets-oil-infrastructure-middle-east-war-threatens-global-economy",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/middle-east/20260302-as-iran-targets-oil-infrastructure-middle-east-war-threatens-global-economy"
+      }
+     ],
+     "titleTR": "İran petrol altyapısını hedef alırken, Orta Doğu savaşı küresel ekonomiyi tehdit ediyor"
+    },
+    {
+     "atomID": "https://www.politico.eu/?post_type=pro&p=8029452",
+     "category": "",
+     "descriptionTR": "Uzun süreli bir çatışma olasılığı, dört yılın en büyük enerji şokunu tetikledi.",
+     "group": "",
+     "id": "https://www.politico.eu/?post_type=pro&p=8029452",
+     "link": "https://www.politico.eu/article/oil-euro-dollar-iran-us-israel-conflict/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/oil-euro-dollar-iran-us-israel-conflict/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "İran çatışması patlak verirken petrol fiyatları yükseldi, euro düştü"
+    },
+    {
+     "atomID": "https://www.japantimes.co.jp/article/638297/",
+     "category": "",
+     "descriptionTR": "Japonya, hukuk düzenine güçlü desteğini ABD ile olan sağlam ittifakını sürdürme ihtiyacıyla dengelemeye çalışıyor.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/638297/",
+     "link": "https://www.japantimes.co.jp/news/2026/03/02/japan/politics/japan-iran-trump-us-rule-of-law/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/03/02/japan/politics/japan-iran-trump-us-rule-of-law/"
+      }
+     ],
+     "titleTR": "Trump'ın İran saldırıları Japonya'yı zorlu bir duruma sokuyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1772658080",
+     "category": "",
+     "descriptionTR": "Trump, Kongre savaş yetkilerini tartışırken İran'a saldırılar başlattı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1772658080",
+     "link": "https://www.aljazeera.com/video/the-take-2/2026/3/4/aje-onl-tt_usa_usairanwed_av_v2-040326?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/the-take-2/2026/3/4/aje-onl-tt_usa_usairanwed_av_v2-040326?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Washington, Trump'ı İran konusunda neden durduramıyor?"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1772650869",
+     "category": "",
+     "descriptionTR": "Siyaset bilimci Vali Nasr, 'ABD'nin bu savaşta kontrolü kaybettiği bir senaryodayız' diyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1772650869",
+     "link": "https://www.aljazeera.com/video/the-bottom-line/2026/3/4/iran-war-redrawing-the-map-of-the-middle-east-israeli-style?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/the-bottom-line/2026/3/4/iran-war-redrawing-the-map-of-the-middle-east-israeli-style?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İran savaşı: Orta Doğu'nun haritası İsrail tarzında mı yeniden çiziliyor?"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3099230",
+     "category": "",
+     "descriptionTR": "ABD, İran'a hava saldırılarına devam ederken, Anthropic modelleri birçok hedefleme kararında kullanılıyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3099230",
+     "link": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/"
+      }
+     ],
+     "titleTR": "ABD ordusu hala Claude'u kullanıyor, ancak savunma teknolojisi müşterileri kaçıyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "İran çatışması: Gelişmeler ve yankılar",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 11
+  },
+  {
+   "items": [
+    {
+     "atomID": "urn:id:8502",
+     "category": "",
+     "descriptionTR": "İlya Repin'in 1885'te ilk kez yasaklanan İvan Grozni başyapıtı, Rusya'nın en tartışmalı tablolarından biri olmaya devam ediyor. Aeon Video'da izleyin.",
+     "group": "",
+     "id": "urn:id:8502",
+     "link": "https://aeon.co/videos/why-this-once-banned-russian-painting-remains-controversial?utm_source=rss-feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Aeon Essays",
+       "url": "https://aeon.co/videos/why-this-once-banned-russian-painting-remains-controversial?utm_source=rss-feed"
+      }
+     ],
+     "titleTR": "Büyük sanatın açıklaması: 16 Kasım 1581'de İvan Grozni ve oğlu İvan"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/03/02/blockbuster-show-on-ancient-egyptian-pharaoh-ramses-ii-opens-in-london",
+     "category": "",
+     "descriptionTR": "Mısır hükümeti ile işbirliği içinde düzenlenen sergi, dünya turunun son durağı olarak Londra'ya geldi.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/03/02/blockbuster-show-on-ancient-egyptian-pharaoh-ramses-ii-opens-in-london",
+     "link": "https://www.theartnewspaper.com/2026/03/02/blockbuster-show-on-ancient-egyptian-pharaoh-ramses-ii-opens-in-london",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/03/02/blockbuster-show-on-ancient-egyptian-pharaoh-ramses-ii-opens-in-london"
+      }
+     ],
+     "titleTR": "Antik Mısır firavunu II. Ramses üzerine büyük sergi Londra'da açıldı"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/03/02/the-year-of-andre-malraux-france-salutes-its-pioneering-intellectual",
+     "category": "",
+     "descriptionTR": "Fransa'nın ilk kültür bakanı ve sanat kuramcısı olan yazar, ölümünün 50. yılında 130'dan fazla etkinlik, sergi ve kitapla anılıyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/03/02/the-year-of-andre-malraux-france-salutes-its-pioneering-intellectual",
+     "link": "https://www.theartnewspaper.com/2026/03/02/the-year-of-andre-malraux-france-salutes-its-pioneering-intellectual",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/03/02/the-year-of-andre-malraux-france-salutes-its-pioneering-intellectual"
+      }
+     ],
+     "titleTR": "André Malraux yılı: Fransa öncü entelektüelini sergilerle selamlıyor"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/03/04/the-wang-contemporary-opens-manhattan-chinatown",
+     "category": "",
+     "descriptionTR": "Alexander Wang ve annesi Ying tarafından kurulan Wang Contemporary, 58 Bowery'de Lunar New Year'e denk gelen bir MSCHF enstalasyonu ile açıldı.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/03/04/the-wang-contemporary-opens-manhattan-chinatown",
+     "link": "https://www.theartnewspaper.com/2026/03/04/the-wang-contemporary-opens-manhattan-chinatown",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/03/04/the-wang-contemporary-opens-manhattan-chinatown"
+      }
+     ],
+     "titleTR": "Asya çağdaş sanatı için yeni bir yuva Manhattan Chinatown'da açıldı"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/03/04/he-always-had-spirituality-spanish-exhibition-unpicks-picassos-religious-influences",
+     "category": "",
+     "descriptionTR": "Burgos'un Gotik katedralinde düzenlenen sergi, sanatçının kariyerinin altı on yılını kapsayan 44 eseri bir araya getiriyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/03/04/he-always-had-spirituality-spanish-exhibition-unpicks-picassos-religious-influences",
+     "link": "https://www.theartnewspaper.com/2026/03/04/he-always-had-spirituality-spanish-exhibition-unpicks-picassos-religious-influences",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/03/04/he-always-had-spirituality-spanish-exhibition-unpicks-picassos-religious-influences"
+      }
+     ],
+     "titleTR": "'Her zaman bir maneviyatı vardı': İspanyol sergisi Picasso'nun dini etkilerini inceliyor"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/03/04/can-you-feel-the-love-tonight-elton-johns-cosy-family-portrait-captured-by-catherine-opie",
+     "category": "",
+     "descriptionTR": "Oğulları, eşi David ve köpekleriyle birlikte çekilen fotoğraf, Londra'daki National Portrait Gallery'de sergileniyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/03/04/can-you-feel-the-love-tonight-elton-johns-cosy-family-portrait-captured-by-catherine-opie",
+     "link": "https://www.theartnewspaper.com/2026/03/04/can-you-feel-the-love-tonight-elton-johns-cosy-family-portrait-captured-by-catherine-opie",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/03/04/can-you-feel-the-love-tonight-elton-johns-cosy-family-portrait-captured-by-catherine-opie"
+      }
+     ],
+     "titleTR": "Bu gece aşkı hissedebiliyor musunuz? Elton John'un samimi aile portresi Catherine Opie tarafından çekildi"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/03/06/big-review-the-woman-question-1550-2025",
+     "category": "",
+     "descriptionTR": "Yüzyıllar boyunca uzanan eserler, kadın haklarının ne kadar zorlu kazanıldığını ve sürekli tehdit altında olduğunu vurgulayan bir sergide bir araya getirildi.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/03/06/big-review-the-woman-question-1550-2025",
+     "link": "https://www.theartnewspaper.com/2026/03/06/big-review-the-woman-question-1550-2025",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/03/06/big-review-the-woman-question-1550-2025"
+      }
+     ],
+     "titleTR": "Büyük İnceleme | Kadın Sorunu 1550-2025 ★★★★½"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Öne çıkan sanat sergileri",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 12
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://techcrunch.com/?p=3098455",
+     "category": "",
+     "descriptionTR": "Teknoloji çalışanları, Savunma Bakanlığı'nın Anthropic'i \"tedarik zinciri riski\" olarak tanımlamasını geri çekmesi ve konuyu sessizce çözmesi için açık bir mektup imzaladı.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3098455",
+     "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
+      }
+     ],
+     "titleTR": "Teknoloji çalışanları, DOD ve Kongre'yi Anthropic etiketini geri çekmeye çağırıyor"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3098421",
+     "category": "",
+     "descriptionTR": "Barış Bakanlığı adlı bir hacker grubu, ICE'nin kitlesel sınır dışı kampanyasını protesto etmek ve bu kampanyaya yardım eden şirketleri hedef almak için İç Güvenlik Bakanlığı'nın belirli bir ofisini hacklediklerini açıkladı.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3098421",
+     "link": "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/"
+      }
+     ],
+     "titleTR": "Hacktivistler, ICE sözleşme verilerini yayımlamak için İç Güvenlik Bakanlığı'nı hacklediklerini iddia ediyor"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/general_news/2026/03/06/neo-fascist-proselytism-among-armed-forces-in-turin_a180ebc4-62cf-4e55-9fd9-95c134cd89f8.html",
+     "category": "",
+     "descriptionTR": "Carabinieri, La Barriera-Avanguardia Torino Grubu'nun faaliyetleri hakkında rapor verdi.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/general_news/2026/03/06/neo-fascist-proselytism-among-armed-forces-in-turin_a180ebc4-62cf-4e55-9fd9-95c134cd89f8.html",
+     "link": "https://www.ansa.it/english/news/general_news/2026/03/06/neo-fascist-proselytism-among-armed-forces-in-turin_a180ebc4-62cf-4e55-9fd9-95c134cd89f8.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/general_news/2026/03/06/neo-fascist-proselytism-among-armed-forces-in-turin_a180ebc4-62cf-4e55-9fd9-95c134cd89f8.html"
+      }
+     ],
+     "titleTR": "Torino'da silahlı kuvvetler arasında neo-faşist propaganda"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Güvenlik ve gözetim endişeleri",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 13
+  }
+ ],
+ "superPackets": [
+  {
+   "slots": [
+    2,
+    3,
+    5,
+    6,
+    11
+   ],
+   "spot": "Bu hafta ABD-İsrail-İran gerilimi tırmanışa geçti, bu durum Orta Doğu dinamiklerinde olası bir değişimi ve küresel ekonomik etkileri işaret ediyor.",
+   "title": "ABD-İsrail-İran gerilimi ve küresel yansımalar"
+  },
+  {
+   "slots": [
+    10,
+    13
+   ],
+   "spot": "Bu hafta, hükümetin teknoloji iş birliklerinde güvenlik riskleri konusundaki endişeler arttı; kaynaklar Anthropic'in Pentagon ile olan sözleşmesine ve daha geniş gözetim meselelerine odaklanıyor.",
+   "title": "Hükümet ve teknoloji iş birliklerinde güvenlik riskleri"
+  }
+ ],
+ "week": "2026-W10"
+}

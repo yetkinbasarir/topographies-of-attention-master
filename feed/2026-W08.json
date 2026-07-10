@@ -1,0 +1,260 @@
+{
+ "label": "16-22 ŞUBAT",
+ "publishedAt": "2026-07-09T22:53:58Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.japantimes.co.jp/article/637684/",
+     "category": "",
+     "descriptionTR": "24 yaşındaki Naveed Akram, 14 Aralık'taki saldırıyla ilgili 59 suçlamayla karşı karşıya; bunlar arasında 15 cinayet, 40 kasten öldürmeye teşebbüs ve bir terör suçu yer alıyor.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/637684/",
+     "link": "https://www.japantimes.co.jp/news/2026/02/16/asia-pacific/crime-legal/bondi-beach-gunman-first-court/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/02/16/asia-pacific/crime-legal/bondi-beach-gunman-first-court/"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Bondi Beach saldırısının zanlısı ilk kez mahkemede"
+    }
+   ],
+   "packetSpot": "Naveed Akram, Bondi Beach saldırısının zanlısı olarak 59 suçlamayla ilk kez mahkemeye çıktı; suçlamalar arasında cinayet ve terör suçu da bulunuyor.",
+   "packetTitle": "Naveed Akram Bondi Beach saldırısı suçlamalarıyla mahkemede",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/c93wq6xqgy1o#1",
+     "category": "",
+     "descriptionTR": "Seedance'in güncellemesinden sonra, Disney'in fikri mülkiyeti olan Spider-Man ve diğer karakterleri içeren videolar viral hale geldi.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c93wq6xqgy1o#1",
+     "link": "https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/"
+      }
+     ],
+     "titleTR": "Disney'den gelen hukuki tehdit sonrası ByteDance AI video uygulamasını sınırlayacak"
+    }
+   ],
+   "packetSpot": "ByteDance, Seedance 2.0 AI uygulamasının Disney ve Hollywood'a ait fikri mülkiyetleri izinsiz kullanması nedeniyle hukuki ve kamuoyu tepkisiyle karşı karşıya.",
+   "packetTitle": "ByteDance'in Seedance 2.0 uygulaması Disney'in tepkisini çekiyor",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://balkaninsight.com/?p=1107789",
+     "category": "",
+     "descriptionTR": "Kosova Kurtuluş Ordusu'nun dört eski liderinin savunması, kapanış konuşmalarında savcılığın delilleri seçici kullandığını, tarihi gerçekleri göz ardı ettiğini ve suçlarla onları ilişkilendiren tanıklar bulamadığını belirtti.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1107789",
+     "link": "https://balkaninsight.com/2026/02/16/kosovo-ex-guerrilla-leaders-defence-claims-prosecution-failed-to-prove-guilt/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/02/16/kosovo-ex-guerrilla-leaders-defence-claims-prosecution-failed-to-prove-guilt/"
+      }
+     ],
+     "titleTR": "Kosova eski gerilla liderlerinin savunması, suçun kanıtlanmadığını iddia ediyor"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1107753",
+     "category": "",
+     "descriptionTR": "Kasım 2024'te Iber-Lepenc kanalında meydana gelen patlamayla suçlanan üç kişi, Priştine'deki Temel Mahkeme'de terör suçlamalarını reddetti.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1107753",
+     "link": "https://balkaninsight.com/2026/02/16/kosovo-canal-attack-suspects-plead-not-guilty-to-terrorism-charges/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/02/16/kosovo-canal-attack-suspects-plead-not-guilty-to-terrorism-charges/"
+      }
+     ],
+     "titleTR": "Kosova kanal saldırısı şüphelileri terör suçlamalarını reddetti"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1107984",
+     "category": "",
+     "descriptionTR": "Lahey'deki yargılamalarının sonunda, Kosova Kurtuluş Ordusu'nun dört eski lideri masumiyetlerini vurguladı ve halkın özgürlük mücadelesi olarak hatırladıkları şeyle gurur duyduklarını ifade etti.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1107984",
+     "link": "https://balkaninsight.com/2026/02/18/kosovo-ex-guerrilla-leaders-say-justice-demands-acquittal-at-trials-end/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/02/18/kosovo-ex-guerrilla-leaders-say-justice-demands-acquittal-at-trials-end/"
+      }
+     ],
+     "titleTR": "Kosova eski gerilla liderleri, yargılamanın sonunda beraat talep ediyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Kosova'da yargı süreçleri",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "news690478081",
+     "category": "",
+     "descriptionTR": "Hükümetler ve şirketler, net sıfır hedeflerinden kısa vadeli emisyon azaltımlarına kadar iklim taahhütlerini yerine getirmek için yarışırken, Cornell araştırmacıları bu taahhütlerin nasıl kaydedilip doğrulandığını iyileştirmek amacıyla blockchain tabanlı bir platform geliştirdi. Karbon kayıtları, emisyon azaltımlarının belgelenmesi, üçüncü taraf doğrulama ve alınıp satılabilen karbon kredilerinin verilmesi için birer depo görevi görüyor. Ancak Cornell araştırmacılarına göre, çoğu kaydın işleyişindeki kusurlar zayıf doğrulama standartlarına, çift sayımlara ve bir ürün veya hizmetin çevre dostu olduğuna dair yanıltıcı iddialara yol açabiliyor.",
+     "group": "",
+     "id": "news690478081",
+     "link": "https://phys.org/news/2026-02-blockchain-platform-credibility-carbon-registries.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Phys.org",
+       "url": "https://phys.org/news/2026-02-blockchain-platform-credibility-carbon-registries.html"
+      }
+     ],
+     "titleTR": "Yeni blockchain platformu karbon kayıtlarına güvenilirlik kazandırıyor"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/business/2026/02/18/meloni-says-decree-will-separate-ets-from-renewable-energy-prices_a12e94a7-c4cd-4b6b-a219-b1cd627c937a.html",
+     "category": "",
+     "descriptionTR": "Başbakan, AB onayı gerektiren çok cesur bir önlem olduğunu belirtti.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/business/2026/02/18/meloni-says-decree-will-separate-ets-from-renewable-energy-prices_a12e94a7-c4cd-4b6b-a219-b1cd627c937a.html",
+     "link": "https://www.ansa.it/english/news/business/2026/02/18/meloni-says-decree-will-separate-ets-from-renewable-energy-prices_a12e94a7-c4cd-4b6b-a219-b1cd627c937a.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/business/2026/02/18/meloni-says-decree-will-separate-ets-from-renewable-energy-prices_a12e94a7-c4cd-4b6b-a219-b1cd627c937a.html"
+      }
+     ],
+     "titleTR": "Meloni, ETS'nin yenilenebilir enerji fiyatlarından ayrılacağını duyurdu"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/business/2026/02/18/meloni-says-2-irap-increase-for-energy-production-companies_a54dc599-4a1b-41ae-809b-ea7d007af814.html",
+     "category": "",
+     "descriptionTR": "Bu fonlarla sistem maliyetlerini azaltıyoruz. Cam ve seramik sektörüne özel yardım sağlanacak.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/business/2026/02/18/meloni-says-2-irap-increase-for-energy-production-companies_a54dc599-4a1b-41ae-809b-ea7d007af814.html",
+     "link": "https://www.ansa.it/english/news/business/2026/02/18/meloni-says-2-irap-increase-for-energy-production-companies_a54dc599-4a1b-41ae-809b-ea7d007af814.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/business/2026/02/18/meloni-says-2-irap-increase-for-energy-production-companies_a54dc599-4a1b-41ae-809b-ea7d007af814.html"
+      }
+     ],
+     "titleTR": "Meloni, enerji üretim şirketleri için %2 IRAP artışı açıkladı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Enerji ve çevre duyuruları",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.ansa.it/english/news/vatican/2026/02/16/st.-peters-basilicas-to-get-new-apps-services-font-for-400th_a619a6a4-5bb4-4121-a0de-dad850440f23.html",
+     "category": "",
+     "descriptionTR": "Teras barı genişletilecek ve yeni 'Michelangelus' yazı stili tanıtılacak.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/vatican/2026/02/16/st.-peters-basilicas-to-get-new-apps-services-font-for-400th_a619a6a4-5bb4-4121-a0de-dad850440f23.html",
+     "link": "https://www.ansa.it/english/news/vatican/2026/02/16/st.-peters-basilicas-to-get-new-apps-services-font-for-400th_a619a6a4-5bb4-4121-a0de-dad850440f23.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/vatican/2026/02/16/st.-peters-basilicas-to-get-new-apps-services-font-for-400th_a619a6a4-5bb4-4121-a0de-dad850440f23.html"
+      }
+     ],
+     "titleTR": "St. Peter's Bazilikası 400. yıl için yeni uygulamalar ve hizmetler alıyor"
+    },
+    {
+     "atomID": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
+     "category": "",
+     "descriptionTR": "Apple etkinliğin canlı izlenip izlenemeyeceğini henüz doğrulamadı, ancak Ars gelişmeleri aktaracak.",
+     "group": "",
+     "id": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
+     "link": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/"
+      }
+     ],
+     "titleTR": "Apple, 4 Mart'ta \"Özel Deneyim\" etkinliğiyle yeni Mac ve iPad'leri tanıtacak"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1107741",
+     "category": "",
+     "descriptionTR": "Bakanlar ve diğer üst düzey yetkilileri mahkeme tarafından görevden alınmaktan koruyacak yasal değişiklik önerisi, yolsuzlukla mücadele soruşturmalarını engelleme girişimi olarak eleştiriliyor.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1107741",
+     "link": "https://balkaninsight.com/2026/02/16/albanian-ruling-party-proposes-law-granting-senior-officials-immunity/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/02/16/albanian-ruling-party-proposes-law-granting-senior-officials-immunity/"
+      }
+     ],
+     "titleTR": "Arnavutluk İktidar Partisi, üst düzey yetkililere dokunulmazlık sağlayacak yasa önerdi"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Yeni girişimler ve yükseltmeler",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  }
+ ],
+ "week": "2026-W08"
+}

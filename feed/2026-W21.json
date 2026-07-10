@@ -1,0 +1,405 @@
+{
+ "label": "18-24 MAYIS",
+ "publishedAt": "2026-07-09T22:53:56Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/cm2p0n44drvo#1",
+     "category": "",
+     "descriptionTR": "Yakıt maliyetlerine karşı düzenlenen protestolar nedeniyle başkent Nairobi'deki ana yollar büyük ölçüde boş kalırken, binlerce yolcu mahsur kaldı.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cm2p0n44drvo#1",
+     "link": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protests-over-fuel-price-hikes-turn-deadly-in-kenya?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Kenya'da yüksek yakıt fiyatlarına karşı grevlerde dört kişi öldü"
+    }
+   ],
+   "packetSpot": "Kenya'da yakıt fiyatlarındaki artışa karşı düzenlenen protestolar ölümlere neden oldu; Nairobi'de büyük aksaklıklar yaşanıyor.",
+   "packetTitle": "Kenya'da yakıt fiyatı protestoları ölümlere yol açtı",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/c332mngz25vo#1",
+     "category": "",
+     "descriptionTR": "Geçen hafta Maldivler'de hayatını kaybeden beş İtalyan dalgıcın cesetleri bulundu. Yetkililer, BBC'ye yaptıkları açıklamada durumu doğruladı.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c332mngz25vo#1",
+     "link": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/general_news/2026/05/18/bodies-of-four-italian-divers-who-died-in-maldives-located_14df2ae9-25ea-4e7a-a6b1-040be88a21af.html"
+      }
+     ],
+     "titleTR": "Maldivler'de kaybolan İtalyan dalgıçların cesetleri bulundu"
+    }
+   ],
+   "packetSpot": "Maldivler'de kaybolan İtalyan dalgıçların cesetleri bulundu; kurtarma çalışmaları sürüyor.",
+   "packetTitle": "Maldivler'de kaybolan İtalyan dalgıçların cesetleri bulundu",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/cq6pz60p996o#0",
+     "category": "",
+     "descriptionTR": "Medya raporlarına göre, altı Amerikalıdan biri semptomlar gösteriyor. Kongo'daki bir eyalette 390 vaka bildirildi.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cq6pz60p996o#0",
+     "link": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Kongo DC'deki Ebola salgınında en az 100 ölüm, altı Amerikalı risk altında"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/articles/cz72p75zg4qo#0",
+     "category": "",
+     "descriptionTR": "Kongo DC'deki Ebola salgını, nadir bir türü içeriyor ve çatışmadan etkilenen bir bölgede gerçekleşiyor.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cz72p75zg4qo#0",
+     "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Ebola nedir ve bu salgını durdurmak neden bu kadar zor?"
+    }
+   ],
+   "packetSpot": "Kongo Demokratik Cumhuriyeti'ndeki Ebola salgını, nadir bir türün etkisiyle ve çatışma bölgesinde meydana gelmesiyle dikkat çekiyor; ölü sayısı önemli ölçüde arttı.",
+   "packetTitle": "Kongo DC'deki Ebola salgını: Nadir bir tür ve çatışma bölgesi",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.ansa.it/english/news/business/2026/05/18/enel-buys-7-solar-power-plants-in-the-us-for-$140-million_0f21742a-8e35-4771-9b3b-0e61cf3584ef.html",
+     "category": "",
+     "descriptionTR": "Bu santrallerin toplam kapasitesi 270 megavat.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/business/2026/05/18/enel-buys-7-solar-power-plants-in-the-us-for-$140-million_0f21742a-8e35-4771-9b3b-0e61cf3584ef.html",
+     "link": "https://www.ansa.it/english/news/business/2026/05/18/enel-buys-7-solar-power-plants-in-the-us-for-$140-million_0f21742a-8e35-4771-9b3b-0e61cf3584ef.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/business/2026/05/18/enel-buys-7-solar-power-plants-in-the-us-for-$140-million_0f21742a-8e35-4771-9b3b-0e61cf3584ef.html"
+      }
+     ],
+     "titleTR": "Enel, ABD'de 7 güneş enerjisi santrali satın aldı"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3123572",
+     "category": "",
+     "descriptionTR": "2022'de kurulan New York merkezli Stainless, API'lerle etkileşim için kullanılan yazılım geliştirme kitlerinin (SDK'ler) oluşturulması ve bakımının otomasyonu konusunda öne çıkmıştı.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3123572",
+     "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+      }
+     ],
+     "titleTR": "Anthropic, OpenAI, Google ve Cloudflare tarafından kullanılan dev araçlar girişimini satın aldı"
+    }
+   ],
+   "packetSpot": "Enerji sektöründeki önemli satın almalar arasında Enel'in güneş enerjisi santrallerini alması ve Anthropic'in bir yazılım geliştirme araçları girişimini satın alması öne çıkıyor.",
+   "packetTitle": "Enerji sektöründe dikkat çeken satın almalar",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/05/18/record-breaking-turin-book-fair-closes-with-254000-visitors_d53e33d2-ff76-4d85-af82-0d97101207cd.html",
+     "category": "",
+     "descriptionTR": "2027 edisyonu 13-17 Mayıs tarihleri arasında Lazio ve Katalan edebiyatını konuk edecek.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/lifestyle/arts/2026/05/18/record-breaking-turin-book-fair-closes-with-254000-visitors_d53e33d2-ff76-4d85-af82-0d97101207cd.html",
+     "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/05/18/record-breaking-turin-book-fair-closes-with-254000-visitors_d53e33d2-ff76-4d85-af82-0d97101207cd.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/lifestyle/arts/2026/05/18/record-breaking-turin-book-fair-closes-with-254000-visitors_d53e33d2-ff76-4d85-af82-0d97101207cd.html"
+      }
+     ],
+     "titleTR": "Torino Kitap Fuarı rekor katılımla kapandı: 254,000 ziyaretçi"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/05/22/untitled-art-houston-fair-launches-four-prizes",
+     "category": "",
+     "descriptionTR": "Ödüller, fuarda yapılacak alımlar için toplamda 113,200 dolara kadar destek sağlayacak.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/05/22/untitled-art-houston-fair-launches-four-prizes",
+     "link": "https://www.theartnewspaper.com/2026/05/22/untitled-art-houston-fair-launches-four-prizes",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/05/22/untitled-art-houston-fair-launches-four-prizes"
+      }
+     ],
+     "titleTR": "Untitled Art, Houston fuarında dört yeni ödül başlatacak"
+    }
+   ],
+   "packetSpot": "Önemli kültürel etkinlikler arasında rekor katılımla kapanan Torino Kitap Fuarı ve Houston fuarının yeni sanat ödüllerini duyurması yer aldı.",
+   "packetTitle": "Kitap ve sanat fuarları",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "urn:uuid:cc4370dc-7a82-4a0e-bced-81f9c876a004",
+     "category": "",
+     "descriptionTR": "Dünya Sağlık Asamblesi'nin (WHA79) yetmiş dokuzuncu oturumu bugün Cenevre, İsviçre'de başladı. Dominik Cumhuriyeti'nden Dr. Víctor Elías Atallah Lajam, Asamble Başkanı seçildi. Libya'dan Dr. Mohamed Ali Al-Ghouj, Mali'den Dr. Assa Badiallo Touré, Polonya'dan Mrs. Katarzyna Drążek -Laskowska, Nepal'den Mrs. Neesha Mehta ve Papua Yeni Gine'den Mr. Elias Kapavore Başkan Yardımcısı olarak seçildi. Komite A ve Komite B'nin başkanları sırasıyla Kazakistan'dan Dr. Timur Sultangaziyev ve Gana'dan Dr. Kwabena Mintah Akandoh oldu. İsviçre Konfederasyonu adına Federal Konsey Üyesi H.E. Elisabeth Baume‑Schneider, ev sahibi ülke adına Asamble'ye hitap etti. Ardından Gana Cumhurbaşkanı ve Onur Konuğu H.E. John Dramani Mahama'nın konuşması dinlendi. Delegeler ayrıca Birleşmiş Milletler Genel Sekreteri H.E. António Guterres, Suriye Arap Cumhuriyeti Başkanı H.E. Ahmad Al Sharaa ve Barbados Başbakanı H.E. Mia Mottley'nin video mesajlarını izledi. Dünya Sağlık Örgütü Genel Direktörü Dr. Tedros Adhanom Ghebreyesus, Asamble'ye hitap ettikten sonra Dr. Tore Godal, Dr. Merceline Dahl-Regis, Dr. Mike Ryan ve Dr. Heba El Sewedy'ye Küresel Sağlık Ödülleri'ni takdim etti. İspanya Başbakanı H.E. Pedro Sanchez, öğleden sonra oturumunun sonunda Asamble'ye hitap etti.",
+     "group": "",
+     "id": "urn:uuid:cc4370dc-7a82-4a0e-bced-81f9c876a004",
+     "link": "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "World Health Organization",
+       "url": "https://www.who.int/news/item/18-05-2026-world-health-assembly-opens-in-geneva--switzerland"
+      }
+     ],
+     "titleTR": "Dünya Sağlık Asamblesi Cenevre'de başladı"
+    },
+    {
+     "atomID": "urn:uuid:77dd2524-1432-4fe4-aa06-34f47b13b125",
+     "category": "",
+     "descriptionTR": "Cenevre'deki yetmiş dokuzuncu Dünya Sağlık Asamblesi'nde, Dünya Sağlık Örgütü Genel Direktörü Dr. Tedros Adhanom Ghebreyesus, dört lideri Küresel Sağlık Ödülü ile onurlandırdı. Bu yılki ödül sahipleri Dr. Tore Godal, Dr. Merceline Dahl-Regis, Dr. Mike Ryan ve Dr. Heba El Sewedy oldu. Ödüller, Dünya Sağlık Asamblesi'nin “Küresel sağlığı yeniden şekillendirmek: ortak bir sorumluluk” teması altında gerçekleştirilen Yüksek Düzeyde Hoş Geldiniz oturumunda takdim edildi. 2019 yılında kurulan Genel Direktör'ün Küresel Sağlık Ödülleri, liderlikleri ve bağlılıkları sayesinde dünya genelinde sağlık sonuçlarında somut iyileşmeler sağlayan bireyleri tanımaktadır. Dr. Tedros, “Küresel Sağlık Liderleri Ödülleri'ni, küresel sağlığa olağanüstü katkılarda bulunan dört kişiye takdim etmekten onur duyuyorum” dedi. Dr. Tore Godal, bağışıklama ve bulaşıcı hastalıklar alanındaki dönüştürücü liderliği ile tanındı. Kariyeri boyunca aşıları küresel bir kalkınma önceliği haline getirdi ve Gavi, Aşı İttifakı, Roll Back Malaria ve CEPI gibi büyük girişimlerin kurulmasına yardımcı oldu. Ayrıca WHO'nun Tropikal Hastalıklar Programı'nı yönetirken ihmal edilen hastalıklara karşı mücadelede önemli bir rol oynadı ve cüzzam ve sıtma çalışmalarını genişletti. Dr. Merceline Dahl-Regis, Amerika kıtasında ve ötesinde bağışıklama ve hastalıkların ortadan kaldırılmasına yönelik yaşam boyu bağlılığı ile tanındı. Dr. Mike Ryan, sağlık acil durumlarına hazırlık ve müdahale konusundaki liderliği ile onurlandırıldı. Dr. Heba Elsewedy, insani yardım ve sosyal adalete olan bağlılığı nedeniyle ödül aldı. 2013 yılında kurduğu Ahl Masr Vakfı aracılığıyla travma ve yanık yaralanmalarının önlenmesi ve tedavisine yönelik kapsamlı yaklaşımlar geliştirdi.",
+     "group": "",
+     "id": "urn:uuid:77dd2524-1432-4fe4-aa06-34f47b13b125",
+     "link": "https://www.who.int/news/item/18-05-2026-director-general-presents-award-for-global-health-to-four-distinguished-leaders",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "World Health Organization",
+       "url": "https://www.who.int/news/item/18-05-2026-director-general-presents-award-for-global-health-to-four-distinguished-leaders"
+      }
+     ],
+     "titleTR": "Genel Direktör, dört lideri Küresel Sağlık Ödülü ile onurlandırdı"
+    },
+    {
+     "atomID": "urn:uuid:050f2106-2a45-44b0-9166-1c83b1719bae",
+     "category": "",
+     "descriptionTR": "Bugün, Dünya Sağlık Asamblesi, küresel sağlığa katkıları görev tanımının ötesine geçen bireyleri ve kurumları tanıdı. Dominik Cumhuriyeti'nden Dr. Víctor Elias Atallah Lajam, yetmiş dokuzuncu Dünya Sağlık Asamblesi Başkanı olarak, son 40 yıldır bu ödülleri sağlayan vakıfların temsilcileri ve Dünya Sağlık Örgütü Genel Direktörü Dr. Tedros Adhanom Ghebreyesus ile birlikte altı ödül sahibini onurlandırdı. 2026 ödülleri, birincil sağlık hizmetlerini geliştirme, eşitsizlikleri azaltma ve sağlık hedefini herkes için daha yakın hale getirme konusundaki olağanüstü bağlılıklarını kutluyor. WHO Yürütme Kurulu tarafından Şubat 2026'da seçilen 2026 ödül sahipleri, bilimsel mükemmeliyet, yenilikçilik ve topluluk katılımı yoluyla sağlık sonuçlarını iyileştirme konusundaki ortak taahhüdü yansıtıyor. Çalışmaları, birincil sağlık hizmeti sistemlerini güçlendirmekten hastalık kontrolünü ilerletmeye, toplulukları güçlendirmeye ve en savunmasız nüfuslar için temel hizmetlere erişimi genişletmeye kadar uzanıyor. Bu yıl, 2006'da Dünya Sağlık Asamblesi sırasında beklenmedik bir şekilde vefat eden WHO'nun altıncı Genel Direktörü Dr. LEE Jong-wook'un ölümünün 20. yıl dönümünü işaret ediyor. Bugün verilen ödüllerden biri olan Dr. LEE Jong-wook Halk Sağlığı Anma Ödülü, onun küresel sağlığa olan kalıcı katkısını onurlandırıyor. 2026 halk sağlığı ödülleri kazananları arasında Sasakawa Sağlık Ödülü'nü alan Banconi Toplum Sağlığı Derneği (ASACOBA), Mali; Birleşik Arap Emirlikleri Sağlık Vakfı Ödülü'nü alan Dr. Worawit Tontiwattanasap, Tayland; Kuveyt Sağlık Tanıtım Vakfı'nın Sağlıklı Yaşlanmayı Teşvik Ödülü'nü alan Profesör Bruno Vellas, Fransa; SingHealth, Singapur; Dr. LEE Jong-wook Halk Sağlığı Anma Ödülü'nü alan Profesör Mohammad Abul Faiz, Bangladeş; Nelson Mandela Sağlık Tanıtım Ödülü'nü alan Dr. Amr Mohamed Kandeel, Mısır yer alıyor.",
+     "group": "",
+     "id": "urn:uuid:050f2106-2a45-44b0-9166-1c83b1719bae",
+     "link": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "World Health Organization",
+       "url": "https://www.who.int/news/item/20-05-2026-seventy-ninth-world-health-assembly-honours-global-champions-advancing-primary-health-care"
+      }
+     ],
+     "titleTR": "Yetmiş dokuzuncu Dünya Sağlık Asamblesi'nde birincil sağlık hizmetlerini geliştiren liderler onurlandırıldı"
+    }
+   ],
+   "packetSpot": "Cenevre'de düzenlenen Dünya Sağlık Asamblesi'nde küresel sağlık başarıları için ödüller verildi.",
+   "packetTitle": "Dünya Sağlık Asamblesi'nde küresel sağlık ödülleri sahiplerini buldu",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/cqjpglyjwjeo#0",
+     "category": "",
+     "descriptionTR": "Yetkililere göre, İsrail ile Lübnan'daki silahlı grup Hizbullah arasındaki çatışmalarda, Mart ayından bu yana süren nominal ateşkese rağmen ölü sayısı 3 bini aştı.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cqjpglyjwjeo#0",
+     "link": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "İsrail'in Lübnan'a yönelik saldırılarında ölü sayısı 3 bini geçti"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1779310188",
+     "category": "",
+     "descriptionTR": "Filistinli sakinlerin aktardığına göre, İsrailli yerleşimciler araçları yaktı, ırkçı grafitiler yazdı ve yeni karakollar kurdu.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1779310188",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrailli yerleşimciler Batı Şeria'da araçları yaktı, karavanlar kurdu"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1779488504",
+     "category": "",
+     "descriptionTR": "64 yaşındaki Najia Abu Lehia, yıllardır eşiyle birlikte Hac yapmayı hayal ediyordu.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1779488504",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/israeli-blockade-traps-would-be-hajj-pilgrim-in-gaza?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail ablukası Gazze'de Hac hayalini engelliyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Ortadoğu'daki çatışmaların insan maliyeti",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 7
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1779302331",
+     "category": "",
+     "descriptionTR": "Rodrigo Paz, haftalardır süren gösteriler ve kötü ekonomik koşullar nedeniyle baskı altında.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1779302331",
+     "link": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/5/20/bolivian-president-to-reshuffle-cabinet-amid-anti-government-protests?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Bolivya'da hükümet karşıtı protestolar kabine değişikliği baskısı yaratıyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1779472530",
+     "category": "",
+     "descriptionTR": "Protestolar kontrolden çıkmış durumda ve Başkan Rodrigo Paz'ın istifası isteniyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1779472530",
+     "link": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Bolivya krizde: Sosyal huzursuzluk ve istifa talepleri artıyor"
+    },
+    {
+     "atomID": "https://news.mongabay.com/?post_type=short-article&p=320039",
+     "category": "",
+     "descriptionTR": "21 Mayıs'ta, Kenya'nın güneydoğusundaki Sakwa'da yaşayanlar, evlerinin yakınına, Victoria Gölü kıyısına kurulması planlanan nükleer santrale karşı protesto düzenledi. Siaya County'de bulunan Sakwa, Luo kabilesine ev sahipliği yapıyor ve Kenya'nın Uganda ve Tanzanya ile paylaştığı Afrika'nın en büyük tatlı su gölü kıyısında yer alıyor.",
+     "group": "",
+     "id": "https://news.mongabay.com/?post_type=short-article&p=320039",
+     "link": "https://news.mongabay.com/short-article/2026/05/kenyan-communities-protest-planned-nuclear-plant-near-lake-victoria/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Mongabay",
+       "url": "https://news.mongabay.com/short-article/2026/05/kenyan-communities-protest-planned-nuclear-plant-near-lake-victoria/"
+      }
+     ],
+     "titleTR": "Kenya'da nükleer santral planına karşı topluluklar protesto düzenliyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Bolivya ve Kenya'da protestolar ve siyasi huzursuzluk",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 8
+  }
+ ],
+ "superPackets": [
+  {
+   "slots": [
+    1,
+    8
+   ],
+   "spot": "Bu hafta Kenya ve Bolivya'da önemli huzursuzluklarla birlikte protestolar dünya genelinde yoğunlaştı. Kaynaklar, yaygın memnuniyetsizliğin ölümcül çatışmalar ve siyasi kargaşa ile birlikte anıldığını aktarıyor.",
+   "title": "Dünyada protesto ve siyasi huzursuzluk artışı"
+  }
+ ],
+ "week": "2026-W21"
+}

@@ -1,0 +1,421 @@
+{
+ "label": "29 HAZİRAN - 5 TEMMUZ",
+ "publishedAt": "2026-07-09T22:53:53Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1782744760",
+     "category": "",
+     "descriptionTR": "İsrailli insan hakları grubu B’Tselem, 'Filistinli çocuk ve gençlerin eşi görülmemiş şekilde öldürülmesini' kınadı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1782744760",
+     "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attacks-kill-four-men-and-a-boy-in-gaza-and-a-teenager-in-west-bank?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail saldırıları Gazze'de sekiz, Batı Şeria'da bir genci öldürdü"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1782758357",
+     "category": "",
+     "descriptionTR": "Afgan köylüler, Taliban ile müttefik savaşçıları hedef alan gece yarısı Pakistan saldırılarının ardından yıkılan evleri inceledi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1782758357",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/pakistani-strikes-kill-dozens-of-afghan-villagers?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Pakistan saldırıları Afgan köylerinde onlarca kişiyi öldürdü"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1782757482",
+     "category": "",
+     "descriptionTR": "İsrail güçleri, güney Suriye'deki bir köyü topçu ateşi ve aydınlatma fişekleriyle gece boyunca vurdu.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1782757482",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail, güney Suriye'de saldırılar ve baskınlar düzenledi"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1782928267",
+     "category": "",
+     "descriptionTR": "Wafa haber ajansına göre, Gazze'deki bir hastane ve akaryakıt istasyonu yakınında İsrail insansız hava aracı saldırısı en az üç kişiyi öldürdü.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1782928267",
+     "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail, 'ateşkes'e rağmen Gazze'de üç Filistinliyi öldürdü"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Ortadoğu'da askeri çatışmalar sürüyor",
+   "publishedAt": "2026-07-09T22:53:53Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://techcrunch.com/?p=3137386",
+     "category": "",
+     "descriptionTR": "Google, Gemini'nin kişiselleştirilmiş AI görüntü oluşturma hizmetini ABD'deki uygun ücretsiz kullanıcılara genişletiyor. Bu hizmet, bağlı Google uygulamalarından alınan veriler ve ilgi alanlarına göre görüntü oluşturabiliyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3137386",
+     "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
+      }
+     ],
+     "titleTR": "Gemini'nin kişiselleştirilmiş AI görüntü oluşturması ABD'de ücretsiz oldu"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3137285",
+     "category": "",
+     "descriptionTR": "Kobo kullanıcıları artık okuma ilerlemelerini otomatik olarak StoryGraph'a senkronize edebiliyor. Bu sayede kitapları, okuma istatistiklerini ve meydan okumaları Amazon'un Goodreads'ine ihtiyaç duymadan takip etmek daha kolay hale geliyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3137285",
+     "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/"
+      }
+     ],
+     "titleTR": "Amazon dikkat: Kobo eReader artık Goodreads'e rakip"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3137259",
+     "category": "",
+     "descriptionTR": "Uber, şehirde yeni bir otonom araç ortaklığı başlatmaya hazırlandığını ancak ortağını henüz açıklamadığını belirtti.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3137259",
+     "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/"
+      }
+     ],
+     "titleTR": "Waymo ve Uber Phoenix'te sessizce yollarını ayırdı"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3137152",
+     "category": "",
+     "descriptionTR": "TIDAL, bir sanatçıyı veya grubu taklit etmeye çalışan AI tarafından üretilen müzikleri kaldırmak için otomatik araçlar kullanacağını açıkladı.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3137152",
+     "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+      }
+     ],
+     "titleTR": "TIDAL, AI müziğe karşı harekete geçiyor: Gelir kapatma"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3138192",
+     "category": "",
+     "descriptionTR": "Açık kaynak modellerin barındırılmasında uzmanlaşmış AI neocloud sağlayıcısı, en son 2025'in başlarında 3.3 milyar dolar değerleme ile fon toplamıştı.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3138192",
+     "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/"
+      }
+     ],
+     "titleTR": "Neocloud Together AI, 800 milyon dolar toplayarak 8.3 milyar dolar değerine ulaştı"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3138022",
+     "category": "",
+     "descriptionTR": "CEO Erik Voorhees, Venice AI'nin yıllık gelir oranının 70 milyon doları aştığını ve şirketin halihazırda karlı olduğunu belirtti.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3138022",
+     "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/"
+      }
+     ],
+     "titleTR": "Venice AI, 65 milyon dolarlık Seri A ile unicorn oldu"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Teknoloji sektöründe değişimler",
+   "publishedAt": "2026-07-09T22:53:53Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1782762762",
+     "category": "",
+     "descriptionTR": "Bir dizi üst düzey politikacı, tutuklama dalgası kapsamında gözaltına alındı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1782762762",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/inside-story/2026/6/29/whats-behind-the-anti-corruption-crackdown-in-iraq?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Irak'taki yolsuzluk operasyonunun arka planı nedir?"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1116895",
+     "category": "",
+     "descriptionTR": "Zdravko Ponos, Mart 2025'te Sırp yetkililerin protestoculara karşı ses silahı kullandığı iddiası üzerine polis tarafından sorgulandı.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1116895",
+     "link": "https://balkaninsight.com/2026/07/01/serbian-opposition-leader-grilled-by-police-over-sound-cannon-allegations/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/07/01/serbian-opposition-leader-grilled-by-police-over-sound-cannon-allegations/bi/"
+      }
+     ],
+     "titleTR": "Sırp muhalefet lideri ses topu iddiaları nedeniyle sorgulandı"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1116865",
+     "category": "",
+     "descriptionTR": "Terörle mücadele polisi, Selanik'te iktidar partisi yetkililerinin evlerinin önüne yerleştirilen gaz tüpü bombaları nedeniyle beş kişinin yaralanmasının ardından soruşturma başlattı.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1116865",
+     "link": "https://balkaninsight.com/2026/07/01/greek-polices-anti-terrorist-unit-investigates-attacks-on-ruling-party-officials/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/07/01/greek-polices-anti-terrorist-unit-investigates-attacks-on-ruling-party-officials/bi/"
+      }
+     ],
+     "titleTR": "Yunan polisi, iktidar partisi yetkililerinin evlerine yapılan saldırıları araştırıyor"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1116978",
+     "category": "",
+     "descriptionTR": "Kosova savcıları, şüphelilerin para çalmak için baskı ve dolandırıcılık kullandığını ve ardından Telegram ve kripto para birimleri aracılığıyla İslam Devleti terörizmini finanse edip tespit edilmekten kaçındıklarını iddia ediyor.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1116978",
+     "link": "https://balkaninsight.com/2026/07/03/suspected-crypto-terror-financing-network-uncovered-in-kosovo/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/07/03/suspected-crypto-terror-financing-network-uncovered-in-kosovo/bi/"
+      }
+     ],
+     "titleTR": "Kosova'da şüpheli kripto terör finansmanı ağı ortaya çıkarıldı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Yolsuzluk soruşturmaları farklı bölgelerde gündemde",
+   "publishedAt": "2026-07-09T22:53:53Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/06/29/humans-hybrid-creatures-and-ancient-mythology-artist-koen-vanmechelen-on-the-inspirations-behind-his-venice-exhibition",
+     "category": "",
+     "descriptionTR": "Palazzo Rota Ivancich'teki heykel projesi, insan üstünlüğü kavramını sorgulamayı amaçlıyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/06/29/humans-hybrid-creatures-and-ancient-mythology-artist-koen-vanmechelen-on-the-inspirations-behind-his-venice-exhibition",
+     "link": "https://www.theartnewspaper.com/2026/06/29/humans-hybrid-creatures-and-ancient-mythology-artist-koen-vanmechelen-on-the-inspirations-behind-his-venice-exhibition",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/06/29/humans-hybrid-creatures-and-ancient-mythology-artist-koen-vanmechelen-on-the-inspirations-behind-his-venice-exhibition"
+      }
+     ],
+     "titleTR": "Koen Vanmechelen'in Venedik sergisi: İnsanlar, melez yaratıklar ve antik mitoloji"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/07/01/at-new-yorks-swiss-institute-soil-thornton-ponders-the-role-an-art-institution-can-play-in-the-face-of-a-housing-crisis",
+     "category": "",
+     "descriptionTR": "Sanatçının sergisi, kendi tahliye deneyiminden yola çıkarak şekilleniyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/07/01/at-new-yorks-swiss-institute-soil-thornton-ponders-the-role-an-art-institution-can-play-in-the-face-of-a-housing-crisis",
+     "link": "https://www.theartnewspaper.com/2026/07/01/at-new-yorks-swiss-institute-soil-thornton-ponders-the-role-an-art-institution-can-play-in-the-face-of-a-housing-crisis",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/07/01/at-new-yorks-swiss-institute-soil-thornton-ponders-the-role-an-art-institution-can-play-in-the-face-of-a-housing-crisis"
+      }
+     ],
+     "titleTR": "New York Swiss Institute'te SoiL Thornton, konut krizi karşısında sanat kurumlarının rolünü sorguluyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Sanat sergileri sosyal temalarla buluşuyor",
+   "publishedAt": "2026-07-09T22:53:53Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1782756796",
+     "category": "",
+     "descriptionTR": "Güney Afrika'da anti-göçmen protestoları nedeniyle binlerce belgesiz göçmen ülkeyi terk etmeye çalışıyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1782756796",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/undocumented-migrants-flee-south-africa-amid-rising-anti-immigrant-protests?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/undocumented-migrants-flee-south-africa-amid-rising-anti-immigrant-protests?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Güney Afrika'da belgesiz göçmenler protestolar nedeniyle kaçıyor"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1116779",
+     "category": "",
+     "descriptionTR": "Edi Rama, benzeri görülmemiş hükümet karşıtı protestolarla karşı karşıya kalırken, kendi Sosyalist Partisi'ndeki bazı milletvekilleri ve eski yetkililerin huzursuzluğuna rağmen saldırgan bir tutum sergilemeyi seçti.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1116779",
+     "link": "https://balkaninsight.com/2026/07/01/albanian-pms-response-to-protests-causing-unease-within-his-own-party/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/07/01/albanian-pms-response-to-protests-causing-unease-within-his-own-party/bi/"
+      }
+     ],
+     "titleTR": "Arnavutluk Başbakanı'nın protestolara yanıtı partisinde huzursuzluk yaratıyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Güney Afrika ve Arnavutluk'ta protestolar ve toplumsal huzursuzluk",
+   "publishedAt": "2026-07-09T22:53:53Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/06/29/mexico-veracruz-archaeological-discovery-unprecedented-characteristics",
+     "category": "",
+     "descriptionTR": "Günümüz Veracruz'unda bulunan benzersiz dekoratif ve mimari unsurlar, daha önce bilinmeyen bir gruba işaret edebilir.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/06/29/mexico-veracruz-archaeological-discovery-unprecedented-characteristics",
+     "link": "https://www.theartnewspaper.com/2026/06/29/mexico-veracruz-archaeological-discovery-unprecedented-characteristics",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/06/29/mexico-veracruz-archaeological-discovery-unprecedented-characteristics"
+      }
+     ],
+     "titleTR": "Batı Meksika'da pre-Hispanik arkeolojik keşif: 'Eşi benzeri görülmemiş' özellikler"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/07/01/ancient-maya-city-minanbe-discovered-mexican-jungle-campeche",
+     "category": "",
+     "descriptionTR": "Calakmul Biyosfer Rezervi'nde yer alan Minanbé, Maya Düşük Arazileri hakkında yeni bilgiler sunuyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/07/01/ancient-maya-city-minanbe-discovered-mexican-jungle-campeche",
+     "link": "https://www.theartnewspaper.com/2026/07/01/ancient-maya-city-minanbe-discovered-mexican-jungle-campeche",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:53Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/07/01/ancient-maya-city-minanbe-discovered-mexican-jungle-campeche"
+      }
+     ],
+     "titleTR": "Meksika ormanında bozulmamış antik Maya şehri keşfedildi"
+    }
+   ],
+   "packetSpot": "Meksika'da yapılan son arkeolojik keşifler, eşi benzeri görülmemiş özellikler ve bozulmamış antik şehirler ortaya çıkararak tarihi medeniyetlere dair yeni bilgiler sunuyor.",
+   "packetTitle": "Meksika'da arkeolojik keşifler: Tarihe ışık tutan bulgular",
+   "publishedAt": "2026-07-09T22:53:53Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  }
+ ],
+ "week": "2026-W27"
+}

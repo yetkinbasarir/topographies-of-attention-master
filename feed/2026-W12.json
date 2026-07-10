@@ -1,0 +1,323 @@
+{
+ "label": "16-22 MART",
+ "publishedAt": "2026-07-09T22:53:57Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773694696",
+     "category": "",
+     "descriptionTR": "Odisha, Hindistan'daki bir devlet hastanesinde acil müdahale ekipleri hastaları tahliye etti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773694696",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/ten-icu-patients-killed-in-hospital-fire-in-eastern-india?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Hindistan'da hastane yangınında 10 yoğun bakım hastası hayatını kaybetti"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773692611",
+     "category": "",
+     "descriptionTR": "Nahariya, İsrail'de bir konut binasına isabet eden Hezbollah roketi sonrası itfaiyeciler yangınla mücadele etti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773692611",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/hezbollah-rocket-hits-a-residential-building-in-israels-nahariya?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/hezbollah-rocket-hits-a-residential-building-in-israels-nahariya?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Hezbollah roketi İsrail'in Nahariya kentinde bir binaya isabet etti"
+    }
+   ],
+   "packetSpot": "Hindistan ve İsrail'de meydana gelen yangınlar can kaybına ve hasara yol açtı.",
+   "packetTitle": "Yangın olayları: Hindistan ve İsrail'de iki farklı trajedi",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773686913",
+     "category": "",
+     "descriptionTR": "ABD Başkanı, 'Trump: A Second Chance?' belgeseli nedeniyle BBC'ye 5 milyar dolar iftira, 5 milyar dolar adil olmayan ticaret uygulamaları için dava açtı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773686913",
+     "link": "https://www.aljazeera.com/news/2026/3/16/bbc-files-motion-asking-us-court-to-throw-out-trumps-10bn-lawsuit?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/16/bbc-files-motion-asking-us-court-to-throw-out-trumps-10bn-lawsuit?traffic_source=rss"
+      }
+     ],
+     "titleTR": "BBC, Trump'ın 10 milyar dolarlık davasının düşürülmesini talep ediyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773669364",
+     "category": "",
+     "descriptionTR": "Mohommad Nazeer Paktyawal'ın gözaltına alındıktan 24 saatten kısa bir süre sonra ölmesi üzerine ailesi ve savunucular tam bir soruşturma çağrısında bulundu.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773669364",
+     "link": "https://www.aljazeera.com/news/2026/3/16/outrage-as-afghan-asylum-seeker-who-fought-alongside-us-dies-in-ice-custody?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/16/outrage-as-afghan-asylum-seeker-who-fought-alongside-us-dies-in-ice-custody?traffic_source=rss"
+      }
+     ],
+     "titleTR": "ABD ile birlikte savaşan Afgan sığınmacının ICE gözetiminde ölmesi tepki çekti"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/general_news/2026/03/16/two-more-cops-under-investigation-in-milan-cinturrino-probe_0e751fa2-2fd2-4fd3-823f-7eddf9bd7906.html",
+     "category": "",
+     "descriptionTR": "En az 8 tanığa ön soruşturma talebi bildirildi.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/general_news/2026/03/16/two-more-cops-under-investigation-in-milan-cinturrino-probe_0e751fa2-2fd2-4fd3-823f-7eddf9bd7906.html",
+     "link": "https://www.ansa.it/english/news/general_news/2026/03/16/two-more-cops-under-investigation-in-milan-cinturrino-probe_0e751fa2-2fd2-4fd3-823f-7eddf9bd7906.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/general_news/2026/03/16/two-more-cops-under-investigation-in-milan-cinturrino-probe_0e751fa2-2fd2-4fd3-823f-7eddf9bd7906.html"
+      }
+     ],
+     "titleTR": "Milano Cinturrino soruşturmasında iki polis daha inceleme altında"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774024581",
+     "category": "",
+     "descriptionTR": "Harvard Üniversitesi, Trump Beyaz Sarayı'ndan gelen şikayeti 'başka bir bahane ve misilleme eylemi' olarak reddetti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774024581",
+     "link": "https://www.aljazeera.com/news/2026/3/20/trump-administration-seeks-billions-from-harvard-over-anti-semitism-claims?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/20/trump-administration-seeks-billions-from-harvard-over-anti-semitism-claims?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Trump yönetimi, Harvard'dan anti-Semitizm iddiaları nedeniyle milyarlar talep ediyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Öne çıkan soruşturmalar",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773688287",
+     "category": "",
+     "descriptionTR": "İsrail güçleri, \"sınırlı ve hedefli kara operasyonları\" duyurusunun ardından güney Lübnan'daki birçok kasabaya saldırı düzenledi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773688287",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/israeli-forces-in-southern-lebanon-as-ground-operation-announced?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail güney Lübnan'da kara operasyonu başlattı"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773858177",
+     "category": "",
+     "descriptionTR": "İsrail, İran'ın en büyük doğal gaz sahasına ait tesislere saldırarak gerilimi keskin bir şekilde artırdı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773858177",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-attacks-irans-major-gas-field-in-new-escalation?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-attacks-irans-major-gas-field-in-new-escalation?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail'den İran'ın büyük gaz sahasına saldırı"
+    }
+   ],
+   "packetSpot": "İsrail ile komşu bölgeler arasında askeri eylemler tırmanıyor.",
+   "packetTitle": "Ortadoğu'da artan askeri gerilim",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1773858244",
+     "category": "",
+     "descriptionTR": "ABD Merkez Bankası, iş gücü piyasasının soğuması ve İran baskıları arasında faiz oranlarını %3.5–3.75 aralığında sabit tuttu.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1773858244",
+     "link": "https://www.aljazeera.com/economy/2026/3/18/us-fed-keeps-interest-rates-steady-amid-economic-geopolitical-uncertainty?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/economy/2026/3/18/us-fed-keeps-interest-rates-steady-amid-economic-geopolitical-uncertainty?traffic_source=rss"
+      }
+     ],
+     "titleTR": "ABD Merkez Bankası belirsizlik ve İran baskıları ortasında faizleri sabit tuttu"
+    },
+    {
+     "atomID": "https://news.mongabay.com/?post_type=short-article&p=315923",
+     "category": "",
+     "descriptionTR": "Brezilya federal hükümeti, 6 Mart'ta Atlantik Okyanusu'ndaki kritik bir biyolojik çeşitlilik alanını korumak amacıyla büyük bir koruma alanı oluşturdu. Yeni oluşturulan Albardão deniz parkı ve kıyı çevre koruma alanı, en az 25 tehlike altındaki tür ve Pleistosen dönemi megafauna fosillerine ev sahipliği yapıyor. Yeni milli park, Brezilya kıyılarında yer alıyor.",
+     "group": "",
+     "id": "https://news.mongabay.com/?post_type=short-article&p=315923",
+     "link": "https://news.mongabay.com/short-article/2026/03/brazil-protects-huge-coastal-area-with-endangered-dolphins-and-megafauna-fossils/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Mongabay",
+       "url": "https://news.mongabay.com/short-article/2026/03/brazil-protects-huge-coastal-area-with-endangered-dolphins-and-megafauna-fossils/"
+      }
+     ],
+     "titleTR": "Brezilya, tehlike altındaki yunuslar ve megafauna fosilleri için büyük kıyı alanını koruma altına aldı"
+    }
+   ],
+   "packetSpot": "Ekonomik politikalar ve çevre korumalarıyla ilgili önemli kararlar alınıyor.",
+   "packetTitle": "Ekonomik ve çevresel kararlar",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://techcrunch.com/?p=3102891",
+     "category": "",
+     "descriptionTR": "Nvidia'nın yeni DLSS 5 teknolojisi, video oyunlarını daha gerçekçi hale getirmek için üretken yapay zeka ve yapılandırılmış grafik verilerini kullanıyor. CEO Jensen Huang, bu yaklaşımın zamanla diğer sektörlere de yayılabileceğini belirtiyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3102891",
+     "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/"
+      }
+     ],
+     "titleTR": "Nvidia'nın DLSS 5'i oyunlarda gerçekçiliği artırıyor"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3102218",
+     "category": "",
+     "descriptionTR": "GTC, Nvidia'nın her yıl düzenlediği ve genellikle yeni ürünler, ortaklıklar ve gelecekteki bilişim vizyonunun açıklandığı önemli bir etkinlik. Huang'ın konuşması, Nvidia'nın gelecekteki bilişim ve yapay zeka alanındaki rolüne odaklanacak.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3102218",
+     "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/"
+      }
+     ],
+     "titleTR": "Jensen Huang'ın Nvidia GTC 2026 konuşması nasıl izlenir?"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Nvidia'nın duyuruları",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774030365",
+     "category": "",
+     "descriptionTR": "Kudüs'ün Eski Şehri'nde, İran'dan gelen füze uyarısı sonrası bir patlama meydana geldiği bildirildi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774030365",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/explosion-hits-jerusalems-old-city-after-iran-missile-alert?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/explosion-hits-jerusalems-old-city-after-iran-missile-alert?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Kudüs'ün Eski Şehri'nde patlama: İran füzesi alarmı sonrası"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774022588",
+     "category": "",
+     "descriptionTR": "Kuveyt Şehri'nde, İran'ın ABD varlıklarını hedef aldığı iddiasıyla füzeler ve insansız hava araçları kullanıldığı sırada hava saldırısı sirenleri çaldı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774022588",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/air-raid-sirens-blare-during-eid-call-to-prayer-in-kuwait?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Kuveyt'te bayram namazı sırasında hava saldırısı sirenleri çaldı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Ortadoğu'da artan gerilimler",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  }
+ ],
+ "superPackets": [
+  {
+   "slots": [
+    3,
+    6
+   ],
+   "spot": "Bu hafta Ortadoğu'da gerginlikler ve çatışmalar askeri operasyonlar ve uyarılarla yoğunlaştı, bu da bölgenin değişken bir manzara sergilediğine işaret ediyor.",
+   "title": "Ortadoğu'da artan gerilim ve çatışmalar"
+  }
+ ],
+ "week": "2026-W12"
+}

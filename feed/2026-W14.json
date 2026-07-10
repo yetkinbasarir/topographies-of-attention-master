@@ -1,0 +1,273 @@
+{
+ "label": "30 MART - 5 NİSAN",
+ "publishedAt": "2026-07-09T22:53:57Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/cvg0128z41eo#1",
+     "category": "",
+     "descriptionTR": "İsrail Başbakanı, Kardinal Pierbattista Pizzaballa'nın İran saldırıları endişesiyle kiliseye girmemesi istendiğini belirtti.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cvg0128z41eo#1",
+     "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/30/israel-backtracks-after-italy-leads-outrage-at-denied-access-to-holy-sepulchre_06f95e8b-74c1-4abe-b723-fb31eb0295b4.html"
+      }
+     ],
+     "titleTR": "Latin Patriği Kudüs'teki kutsal alana giriş yapabilecek"
+    }
+   ],
+   "packetSpot": "İsrail, uluslararası eleştirilerin ardından Kudüs Latin Patriği Kardinal Pierbattista Pizzaballa'nın Kutsal Kabir'e girişine yönelik yasağı kaldırdı.",
+   "packetTitle": "Kutsal Kabir'e erişim krizi: Kardinal Pizzaballa'ya izin verildi",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://balkaninsight.com/?p=1110816",
+     "category": "",
+     "descriptionTR": "İktidardaki İlerici Parti, kırsal bölgelerde büyük zaferler kazanırdı. Ancak bu hafta sonu yapılan belediye seçim sonuçları, küçük kasabalarda bile zorlu bir mücadele vermeleri gerektiğini gösteriyor.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1110816",
+     "link": "https://balkaninsight.com/2026/03/30/hollow-victory-serbias-local-elections-suggest-ruling-party-is-losing-its-invincible-aura/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/03/30/hollow-victory-serbias-local-elections-suggest-ruling-party-is-losing-its-invincible-aura/bi/"
+      }
+     ],
+     "titleTR": "Sırbistan'daki yerel seçimler iktidar partisinin gücünü sorguluyor"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1110799",
+     "category": "",
+     "descriptionTR": "19 Nisan'daki erken genel seçimler öncesinde yetkililer, oy karşılığı nakit teklif edildiğine dair yüzlerce ihbar üzerine harekete geçiyor.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1110799",
+     "link": "https://balkaninsight.com/2026/03/30/bulgarian-police-act-on-voter-fraud-cases-ahead-of-election/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/03/30/bulgarian-police-act-on-voter-fraud-cases-ahead-of-election/bi/"
+      }
+     ],
+     "titleTR": "Bulgaristan polisi seçim öncesi oy sahtekarlığı iddialarına karşı harekete geçti"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1111027",
+     "category": "",
+     "descriptionTR": "Trump yanlısı bir muhafazakar düşünce kuruluşu, Sırbistan'daki yerel seçimlere gözlemci göndermediğini belirtti, ancak 'Küresel Koalisyonlar ve Dış Politika Koordinatörü'nün nasıl kayıtlı olduğu merak konusu.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1111027",
+     "link": "https://balkaninsight.com/2026/04/01/red-flags-raised-in-registration-of-pro-trump-observer-for-serbian-polls/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/04/01/red-flags-raised-in-registration-of-pro-trump-observer-for-serbian-polls/bi/"
+      }
+     ],
+     "titleTR": "Sırbistan seçimleri için Trump yanlısı 'gözlemci' kaydı tartışma yarattı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Avrupa'da seçim zorlukları",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "news694236304",
+     "category": "",
+     "descriptionTR": "Çarşamba günü üç erkek ve bir kadın, 1972'den bu yana Ay'a yapılacak ilk insanlı yolculuğa çıkmaya hazırlanıyor. Bu önemli görev, ABD'yi uzay keşfinde yeni bir çağa taşımayı hedefliyor.",
+     "group": "",
+     "id": "news694236304",
+     "link": "https://phys.org/news/2026-04-historic-moon-mission.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Phys.org",
+       "url": "https://phys.org/news/2026-04-historic-moon-mission.html"
+      }
+     ],
+     "titleTR": "Tarihi Ay görevi için geri sayım başladı"
+    },
+    {
+     "atomID": "news694235988",
+     "category": "",
+     "descriptionTR": "Jason Heath, ailesiyle birlikte kuzeydoğu Maine'den tatil için Güneş Eyaleti'ne gelmişti. Ancak kısa süre sonra NASA'nın Artemis 2 misyonunun fırlatılmasıyla 'tarihe tanıklık edeceklerini' öğrendiler.",
+     "group": "",
+     "id": "news694235988",
+     "link": "https://phys.org/news/2026-04-florida-tourists-witness-history-moon.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Phys.org",
+       "url": "https://phys.org/news/2026-04-florida-tourists-witness-history-moon.html"
+      }
+     ],
+     "titleTR": "Florida'da turistler Ay fırlatmasını 'tarihe tanıklık etmek' için toplandı"
+    },
+    {
+     "atomID": "news694235866",
+     "category": "",
+     "descriptionTR": "Haftalar süren yakıt sızıntıları ve diğer sorunların ardından, NASA Salı günü astronotların yarım asırdan fazla bir süredir Ay'a yapacağı ilk yolculuk öncesinde sorunsuz bir geri sayım gerçekleştirdi.",
+     "group": "",
+     "id": "news694235866",
+     "link": "https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Phys.org",
+       "url": "https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html"
+      }
+     ],
+     "titleTR": "NASA'nın ilk astronot fırlatması için Ay roketi ve hava durumu uygun"
+    }
+   ],
+   "packetSpot": "NASA'nın Artemis II görevi, Ay'a yapılacak tarihi insanlı fırlatma için hazırlanıyor.",
+   "packetTitle": "NASA'nın tarihi Ay görevi için geri sayım",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://balkaninsight.com/?p=1111073",
+     "category": "",
+     "descriptionTR": "Bosna-Hersek'in 2026 Dünya Kupası'na katılma hakkı kazanması, Saraybosna sokaklarında kutlamalara yol açtı. Sürekli siyasi krizlerin yaşandığı bir ortamda bu zafer, ilerleme için bir umut ışığı sundu.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1111073",
+     "link": "https://balkaninsight.com/2026/04/01/world-cup-qualification-brings-rare-sense-of-hope-to-bosnia/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/04/01/world-cup-qualification-brings-rare-sense-of-hope-to-bosnia/bi/"
+      }
+     ],
+     "titleTR": "Dünya Kupası'na katılım Bosna'da umut rüzgarları estirdi"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1110985",
+     "category": "",
+     "descriptionTR": "Bosna ve Türkiye, 2026 Dünya Kupası'na katılma hakkı kazandıkları için büyük sevinç yaşarken, Kosova'nın umutları ise kıl payı kaçan bir yenilgiyle suya düştü.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1110985",
+     "link": "https://balkaninsight.com/2026/04/01/bosnia-and-turkey-celebrate-world-cup-qualification-after-playoff-victories/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/04/01/bosnia-and-turkey-celebrate-world-cup-qualification-after-playoff-victories/bi/"
+      }
+     ],
+     "titleTR": "Bosna ve Türkiye, Dünya Kupası'na katılımı kutluyor"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/articles/cm296yv05eeo#0",
+     "category": "",
+     "descriptionTR": "DR Kongo, Dünya Kupası finallerine yalnızca ikinci kez katılma hakkı kazanarak Kinşasa'da büyük kutlamalara sahne oldu.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cm296yv05eeo#0",
+     "link": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/cm296yv05eeo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "DR Kongo, 52 yıl sonra Dünya Kupası'na katılımı ulusal tatil ilan etti"
+    }
+   ],
+   "packetSpot": "Bosna, Türkiye ve DR Kongo, 2026 Dünya Kupası'na katılma başarısını kutluyor.",
+   "packetTitle": "2026 Dünya Kupası'na katılım sevinci: Bosna, Türkiye ve DR Kongo",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1775239689",
+     "category": "",
+     "descriptionTR": "WHO Başkanı Tedros Adhanom Ghebreyesus, İran'daki sağlık tesislerine 'birden fazla saldırı' düzenlendiğini bildirdi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1775239689",
+     "link": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss"
+      }
+     ],
+     "titleTR": "WHO: 1 Mart'tan bu yana İran'da 20'den fazla sağlık tesisine saldırı"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1775239023",
+     "category": "",
+     "descriptionTR": "BAE, en büyük gaz tesisi Habshan'ın hava savunma sisteminin müdahalesi sonrası çıkan yangınlarla 'önemli hasar' gördüğünü açıkladı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1775239023",
+     "link": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/4/3/at-least-one-killed-at-uaes-habshan-gas-facility-after-intercepted-attack?traffic_source=rss"
+      }
+     ],
+     "titleTR": "BAE'nin Habshan gaz tesisine saldırı: En az bir kişi öldü"
+    }
+   ],
+   "packetSpot": "İran'daki sağlık tesisleri ve BAE'nin Habshan gaz tesisi son dönemde saldırılara maruz kaldı.",
+   "packetTitle": "Altyapıya yönelik saldırılar gündemde",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  }
+ ],
+ "week": "2026-W14"
+}

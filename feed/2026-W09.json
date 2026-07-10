@@ -1,0 +1,115 @@
+{
+ "label": "23 ŞUBAT - 1 MART",
+ "publishedAt": "2026-07-09T22:53:58Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1771876820",
+     "category": "",
+     "descriptionTR": "BAFTA Film Ödülleri'nde, Tourette sendromu olan bir misafir, BBC'nin yayını sırasında istem dışı olarak ırkçı bir hakaret bağırdı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1771876820",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/2/23/tourette-syndrome-campaigner-shouts-slur-at-bafta-ceremony?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/23/tourette-syndrome-campaigner-shouts-slur-at-bafta-ceremony?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Tourette sendromlu katılımcı BAFTA töreninde istem dışı hakaret etti"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1771863203",
+     "category": "",
+     "descriptionTR": "Ödüllü yönetmen Akinola Davies Jr'ın 'Özgür Filistin' dediği konuşmasının bir kısmı yayınlanmadı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1771863203",
+     "link": "https://www.aljazeera.com/news/2026/2/23/bbc-criticised-for-nixing-free-palestine-tribute-from-bafta-coverage?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/2/23/bbc-criticised-for-nixing-free-palestine-tribute-from-bafta-coverage?traffic_source=rss"
+      }
+     ],
+     "titleTR": "BBC, BAFTA yayınında 'Özgür Filistin' anmasına yer vermediği için eleştirildi"
+    }
+   ],
+   "packetSpot": "BAFTA Film Ödülleri, Tourette sendromu olayı ve sansürlenen bir konuşma nedeniyle tartışmalarla karşılaştı.",
+   "packetTitle": "BAFTA Film Ödülleri'nde tartışmalar",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/02/26/frieze-los-angeles-sales-report-vip-day-local-artists",
+     "category": "",
+     "descriptionTR": "VIP ön izlemesi, büyük ve küçük galerilerin işlerini hallettiği ve hatta Frieze'in yeni sahibinin dikkat çekici bir satın alma yaptığı bir gün oldu.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/02/26/frieze-los-angeles-sales-report-vip-day-local-artists",
+     "link": "https://www.theartnewspaper.com/2026/02/26/frieze-los-angeles-sales-report-vip-day-local-artists",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/02/26/frieze-los-angeles-sales-report-vip-day-local-artists"
+      }
+     ],
+     "titleTR": "Frieze, Los Angeles sanatçıları için hızlı satışlarla açıldı"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/02/26/patrick-martinezs-anti-ice-neons-greet-frieze-la-visitors",
+     "category": "",
+     "descriptionTR": "Los Angeles merkezli sanatçının parlak ve cesur eserleri, fuarın ana girişinde dikkat çekiyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/02/26/patrick-martinezs-anti-ice-neons-greet-frieze-la-visitors",
+     "link": "https://www.theartnewspaper.com/2026/02/26/patrick-martinezs-anti-ice-neons-greet-frieze-la-visitors",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/02/26/patrick-martinezs-anti-ice-neons-greet-frieze-la-visitors"
+      }
+     ],
+     "titleTR": "Patrick Martinez'in anti-Ice neonları Frieze LA ziyaretçilerini karşıladı"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/02/26/expert-eye-curator-cornelia-stokes-frieze-la-favourites",
+     "category": "",
+     "descriptionTR": "SFMoMA ve Afrika Diasporası Müzesi'nin yeni yardımcı küratörüyle fuarda bir gezinti.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/02/26/expert-eye-curator-cornelia-stokes-frieze-la-favourites",
+     "link": "https://www.theartnewspaper.com/2026/02/26/expert-eye-curator-cornelia-stokes-frieze-la-favourites",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:58Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/02/26/expert-eye-curator-cornelia-stokes-frieze-la-favourites"
+      }
+     ],
+     "titleTR": "Uzman gözüyle: Küratör Cornelia Stokes'un Frieze LA favorileri"
+    }
+   ],
+   "packetSpot": "Frieze Los Angeles, dikkat çekici satışlar, anti-Ice sanat enstalasyonları ve küratörlerin favorileriyle açıldı.",
+   "packetTitle": "Frieze Los Angeles'ta öne çıkanlar",
+   "publishedAt": "2026-07-09T22:53:58Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  }
+ ],
+ "week": "2026-W09"
+}

@@ -1,0 +1,2167 @@
+{
+ "label": "12-18 OCAK",
+ "publishedAt": "2026-07-09T22:53:59Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.straitstimes.com/world/paramount-sues-warner-bros-for-netflix-deal-details-plans-proxy-fight",
+     "category": "",
+     "descriptionTR": "Warner Bros Discovery yönetim kurulu, geçen hafta Paramount'un revize edilmiş teklifini reddetti.",
+     "group": "",
+     "id": "https://www.straitstimes.com/world/paramount-sues-warner-bros-for-netflix-deal-details-plans-proxy-fight",
+     "link": "https://www.straitstimes.com/world/paramount-sues-warner-bros-for-netflix-deal-details-plans-proxy-fight",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/paramount-sues-warner-bros-for-netflix-deal-details-plans-proxy-fight"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/gadgets/2026/01/paramount-sues-wbd-over-netflix-deal-wbd-says-paramounts-price-is-still-inadequate/"
+      }
+     ],
+     "titleTR": "Paramount, Netflix anlaşması için Warner Bros'a dava açtı"
+    }
+   ],
+   "packetSpot": "Paramount, Netflix anlaşmasıyla ilgili teklifinin Warner Bros Discovery tarafından reddedilmesini haksız bularak dava açtı. WBD, davayı asılsız olarak nitelendiriyor.",
+   "packetTitle": "Paramount ve Warner Bros Discovery arasında Netflix anlaşmazlığı",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/news/us/diplomacy/article/3339654/trump-says-countries-trade-iran-will-face-25-cent-tariffs-us?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump, Pazartesi günü İran'la ticari ilişkilerini sürdüren ülkelere yönelik geniş kapsamlı yeni gümrük vergilerini duyurdu. Trump, sosyal medya üzerinden yaptığı açıklamada, ABD'nin İran'la 'iş yapan' herhangi bir ülkeden ithal edilen tüm mal ve hizmetlere %25 gümrük vergisi uygulayacağını belirtti. Başkan, emri 'kesin ve nihai' olarak nitelendirdi. Emir küresel çapta olsa da, özellikle Çin ve Hindistan gibi büyük ekonomileri en çok etkilemesi bekleniyor.",
+     "group": "",
+     "id": "https://www.scmp.com/news/us/diplomacy/article/3339654/trump-says-countries-trade-iran-will-face-25-cent-tariffs-us?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/us/diplomacy/article/3339654/trump-says-countries-trade-iran-will-face-25-cent-tariffs-us?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/us/diplomacy/article/3339654/trump-says-countries-trade-iran-will-face-25-cent-tariffs-us?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/12/trump-says-any-country-doing-business-with-iran-will-face-25-percent-tariff?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Trump: İran'la ticaret yapan Çin ve diğer ülkeler %25 gümrük vergisiyle karşılaşacak"
+    }
+   ],
+   "packetSpot": "Başkan Trump, İran'la ticarete devam eden ülkelerden yapılan ithalata %25 gümrük vergisi getirdiğini duyurdu; bu karar Çin ve Hindistan gibi büyük ekonomileri hedef alıyor.",
+   "packetTitle": "Trump'tan İran'la ticaret yapan ülkelere %25 gümrük vergisi",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "4511bf42-f308-11f0-9769-ffb74992aff0",
+     "category": "",
+     "descriptionTR": "CIA başkanı, Venezuela'ya giderek ülkenin geçici lideri Delcy Rodríguez ile yaklaşık iki saat süren bir görüşme gerçekleştirdi. Bir ABD yetkilisi, bu üst düzey ABD yetkilisinin ziyaretinin, 3 Ocak'ta Venezuela Devlet Başkanı Nicolás Maduro'nun görevden alınmasının ardından bir 'güven inşa etme önlemi' olarak nitelendirildiğini belirtti.",
+     "group": "",
+     "id": "4511bf42-f308-11f0-9769-ffb74992aff0",
+     "link": "https://www.france24.com/en/americas/20260116-cia-chief-meets-venezuela-interim-leader-discuss-potential-opportunities",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/americas/20260116-cia-chief-meets-venezuela-interim-leader-discuss-potential-opportunities"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/americas/20260114-trump-calls-venezuela-interim-president-terrific-person"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/12/delcy-rodriguez-vows-to-rescue-nicolas-maduro-through-diplomacy?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      }
+     ],
+     "titleTR": "CIA başkanı, Venezuela'nın geçici lideriyle 'potansiyel fırsatları' görüşmek üzere bir araya geldi"
+    },
+    {
+     "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3339651/trump-meet-venezuela-opposition-leader-machado-white-house-thursday?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump, Perşembe günü Beyaz Saray'da Venezuela muhalefet lideri ve Nobel Barış Ödülü sahibi Maria Corina Machado'yu ağırlayacak. Bir üst düzey yönetim yetkilisi, bu bilgiyi Agence France-Presse'e aktardı. Machado, 3 Ocak'ta eski başkan Nicolás Maduro'nun ABD güçleri tarafından alıkonulmasının ardından Washington tarafından göz ardı edilmişti. Trump yönetimi, Venezuela'yı 'yöneteceğini' iddia ederken, Maduro'nun görevden alınmasından saatler sonra Trump, Machado'nun ülkeyi yönetmek için gerekli 'saygıya' sahip olmadığını belirtmişti.",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/united-states-canada/article/3339651/trump-meet-venezuela-opposition-leader-machado-white-house-thursday?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3339651/trump-meet-venezuela-opposition-leader-machado-white-house-thursday?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3339651/trump-meet-venezuela-opposition-leader-machado-white-house-thursday?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/americas/article/3339937/trump-praises-terrific-new-venezuela-leader-after-call?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/americas/article/3340230/machado-says-venezuela-will-be-free-support-trump?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/united-states/machado-vows-to-be-venezuela-president-when-the-right-time-comes"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/venezuelas-machado-is-confident-maduros-criminal-regime-will-end-13495117"
+      }
+     ],
+     "titleTR": "Trump, Perşembe günü Beyaz Saray'da Venezuela muhalefet lideri Machado ile görüşecek"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Maduro sonrası Venezuela'da diplomasi ve liderlik dinamikleri",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "2511036-pompeiis-public-baths-were-unhygienic-until-the-romans-took-over|2511036",
+     "category": "",
+     "descriptionTR": "Romalılar Pompeii'yi ele geçirmeden önce, ünlü kasaba Samnitler tarafından yönetiliyordu ve onların hamamlarında yıkanmak pek de hoş bir deneyim olmayabilirdi.",
+     "group": "",
+     "id": "2511036-pompeiis-public-baths-were-unhygienic-until-the-romans-took-over|2511036",
+     "link": "https://www.newscientist.com/article/2511036-pompeiis-public-baths-were-unhygienic-until-the-romans-took-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2511036-pompeiis-public-baths-were-unhygienic-until-the-romans-took-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/science/2026/01/switching-water-sources-improved-hygiene-of-pompeiis-public-baths/"
+      }
+     ],
+     "titleTR": "Pompeii hamamları Romalılar gelene kadar hijyenik değildi"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Pompeii hamamlarının hijyeninde Roma etkisi",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://news.sky.com/story/escaped-monkeys-run-wild-in-st-louis-as-ai-hinders-efforts-to-catch-them-13493505",
+     "category": "",
+     "descriptionTR": "Bir grup maymun, günlerdir ABD'deki bir şehirde serbestçe dolaşıyor ve yapay zeka, onları yakalama çabalarını karmaşıklaştırıyor.",
+     "group": "",
+     "id": "https://news.sky.com/story/escaped-monkeys-run-wild-in-st-louis-as-ai-hinders-efforts-to-catch-them-13493505",
+     "link": "https://news.sky.com/story/escaped-monkeys-run-wild-in-st-louis-as-ai-hinders-efforts-to-catch-them-13493505",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/escaped-monkeys-run-wild-in-st-louis-as-ai-hinders-efforts-to-catch-them-13493505"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Phys.org",
+       "url": "https://phys.org/news/2026-01-monkeys-loose-st-louis-ai.html"
+      }
+     ],
+     "titleTR": "Kaçan maymunlar şehirde dolaşıyor, AI yakalama çabalarını zorluyor"
+    }
+   ],
+   "packetSpot": "St. Louis'ta maymunlar kaçtı ve AI tarafından üretilen görüntüler, onları yakalama çabalarını karmaşıklaştırıyor.",
+   "packetTitle": "St. Louis'ta kaçan maymunları yakalama çabalarını AI karmaşıklaştırıyor",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/news/world/middle-east/article/3340233/trump-names-blair-and-rubio-gaza-board-peace?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump, Cuma günü Dışişleri Bakanı Marco Rubio ve eski İngiltere Başbakanı Tony Blair'i Gaza 'barış kurulu'nun kurucu üyeleri olarak atadı. Trump ayrıca özel elçisi Steve Witkoff, damadı Jared Kushner ve Dünya Bankası Başkanı Ajay Banga'yı yedi kişilik 'kurucu yürütme kurulu'na dahil etti. Beyaz Saray, Trump'ın kurulun başkanlığını yapacağını ve önümüzdeki haftalarda daha fazla üyenin açıklanacağını belirtti.",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/middle-east/article/3340233/trump-names-blair-and-rubio-gaza-board-peace?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3340233/trump-names-blair-and-rubio-gaza-board-peace?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3340233/trump-names-blair-and-rubio-gaza-board-peace?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/americas/us-politics/white-house-gaza-peace-kushner-rubio-blair-b2902266.html"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/tony-blair-gaza-governance-palestine-israel-hamas-peace/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "Trump, Blair ve Rubio'yu Gaza 'barış kuruluna' atadı"
+    },
+    {
+     "atomID": "https://news.sky.com/story/us-launches-phase-two-of-plan-to-end-gaza-conflict-including-creation-of-transitional-authority-13494283",
+     "category": "",
+     "descriptionTR": "Donald Trump'ın özel elçisi Steve Witkoff, Gaza'daki çatışmayı sona erdirme planının ikinci aşamasının başlatıldığını duyurdu.",
+     "group": "",
+     "id": "https://news.sky.com/story/us-launches-phase-two-of-plan-to-end-gaza-conflict-including-creation-of-transitional-authority-13494283",
+     "link": "https://news.sky.com/story/us-launches-phase-two-of-plan-to-end-gaza-conflict-including-creation-of-transitional-authority-13494283",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/us-launches-phase-two-of-plan-to-end-gaza-conflict-including-creation-of-transitional-authority-13494283"
+      }
+     ],
+     "titleTR": "ABD, Gaza çatışmasını sona erdirme planının ikinci aşamasını başlattı"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768589635",
+     "category": "",
+     "descriptionTR": "Filistinlilerin 'gıda, barınak, güvenlik' ihtiyaçları için sahada bir değişiklik olmazken, Trump'ın planı 'uzak, soyut' olarak görülüyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768589635",
+     "link": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/16/trump-names-tony-blair-jared-kushner-to-gaza-board-of-peace?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/gaza-buried-under-millions-of-tonnes-of-rubble?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail saldırıları sürerken Gaza yönetim komitesi Kahire'de toplandı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Gaza'da barış ve yönetim için uluslararası girişimler ve zorluklar",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.straitstimes.com/world/united-states/nyc-nurses-strike-as-15000-walk-from-manhattan-bronx-hospitals",
+     "category": "",
+     "descriptionTR": "Hemşireler sendikası, daha güvenli personel seviyeleri, daha iyi sağlık hakları ve daha fazla işyeri güvenliği önlemleri talep ettiklerini belirtti.",
+     "group": "",
+     "id": "https://www.straitstimes.com/world/united-states/nyc-nurses-strike-as-15000-walk-from-manhattan-bronx-hospitals",
+     "link": "https://www.straitstimes.com/world/united-states/nyc-nurses-strike-as-15000-walk-from-manhattan-bronx-hospitals",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/united-states/nyc-nurses-strike-as-15000-walk-from-manhattan-bronx-hospitals"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/12/mamdani-backs-striking-nyc-nurses-denounces-hospital-bosses-pay?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Manhattan ve Bronx'ta 15.000 hemşire grevde"
+    }
+   ],
+   "packetSpot": "New York'ta yaklaşık 15.000 hemşire, daha güvenli personel seviyeleri, daha iyi sağlık hakları ve artan işyeri güvenliği talepleriyle greve gitti. Mamdani gibi figürlerin destek verdiği grev, hastane yöneticilerinin maaşlarını eleştiriyor.",
+   "packetTitle": "New York'ta hemşireler daha iyi çalışma koşulları için grevde",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 7
+  },
+  {
+   "items": [
+    {
+     "atomID": "tag:theatlantic.com,2026:50-685611",
+     "category": "",
+     "descriptionTR": "Cuma günü, Rusya Polonya sınırına yakın büyük bir Ukrayna şehri olan Lviv'e Oreshnik isimli orta menzilli, nükleer başlık taşıyabilen balistik füze ile saldırdı. Güvenlik kamerası görüntüleri, gökyüzünde kısa süreli parlamalar, füzenin atmosferde ses hızının 10 katı hızla ilerleyen çoklu savaş başlıklarını ve ardından gelen etkiyi kaydetti. Lviv'i vuran füze nükleer bir yük taşımıyor olsa da, siyasi bir mesaj taşıyordu; özellikle Vladimir Putin köşeye sıkışmışken ve Donald Trump her zamankinden daha saldırgan bir tutum sergilerken. Oreshnik füzesi ateşlemek lojistik zorluklar getiriyor. Fırlatma, Rusya'nın nükleer üçlüsünün çekirdeği olan Stratejik Roket Kuvvetleri tarafından gerçekleştirilmelidir ve sürpriz olamaz. Moskova, misilleme saldırısını tetiklememek için Amerika Birleşik Devletleri'ni önceden bilgilendirir. Daha da önemlisi, nükleer yük olmadan füzenin askeri değeri sınırlıdır; Rusya, benzer hasarı çok daha düşük maliyetle verebilecek başka silahlara sahiptir. Rusya'nın bu silahı şu anda kullanmasının en mantıklı nedeni, Amerika'ya hala bir süper güç olduğunu ve Putin'in kontrolü elinde tuttuğunu hatırlatmaktır. Trump, Putin'e dostça yaklaşmış olabilir ama ona faydalı olmamıştır. Moskova, Trump'ın yeniden seçilmesinden sonra daha fazla ABD yaptırımı altında ve çok daha kötü bir ekonomiyle 2026'ya girdi ve masadaki barış önerilerinden hiçbirine katılmayı başaramadı. Kremlin, Özel Temsilci Steve Witkoff şehirdeyken her zaman gülümser ve Putin, ABD Başkanı'nın Volodymyr Zelensky ile görüşmelerinden önce Trump'ı arar, ancak Oreshnik Kremlin'in ifade aracıdır. Füzenin fırlatılması, Rusya'nın Trump'tan beklediği anlaşmanın büyük ölçüde ortadan kalktığı anlamına geliyor—özellikle de ABD kuvvetleri eski Venezuela Devlet Başkanı Nicolás Maduro'yu 3 Ocak'ta yakaladıktan sonra. [Okuyun: Maduro'nun Putin'e güvenemeyeceği nedenler] Birçok yorumcu ve köşe yazısı, Trump'ın Venezuela baskınının Rusya ve Çin'e hoş bir sinyal göndereceğini öne sürdü: Etki alanları geri döndü ve ABD, Batı Yarımküre'ye hakim olacak, Çin'in Tayvan'ı işgal etmesine ve Putin'in eski Varşova Paktı ülkelerine özgürce saldırmasına izin verecek. Ancak Pekin, Washington'un Güney Amerika'daki 17. rejim değişikliğine dayanarak onlarca yıllık Tayvan politikasını ciddi bir şekilde yeniden değerlendirmesi pek olası değil. Putin'e gelince, 2008'de Gürcistan'a saldırmak için George W. Bush'tan herhangi bir 'sinyal' almasına gerek yoktu. 2014'te Kırım'ı ilhak etmek ya da bir yıl sonra Suriye'ye müdahale etmek için Barack Obama'dan yeşil ışık almadı. Ve Joe Biden sözde kurallara dayalı uluslararası düzeni sürdürmesine rağmen, Putin 2022'de Ukrayna'ya tam ölçekli bir işgal başlattı. Amerikan bombaları Caracas'a düşmeden yıllar önce, Rus lider Avrupa'da İkinci Dünya Savaşı'ndan bu yana en büyük kara savaşını yürütüyordu ve kıta genelinde devam eden bir hibrit kampanya yürütüyordu. Maduro'nun konutuna ABD Özel Kuvvetleri'nin baskın düzenlemesi için Zelensky'nin suikast emrini vermesine gerek yoktu—Ukrayna Devlet Başkanı'nı öldürmek için defalarca denedi ve başarısız oldu. Moskova'daki beklenti, Amerika'nın dünyadan çekileceği yönündeydi, ancak son birkaç hafta içinde Washington, Nijerya, Suriye ve Venezuela'yı bombaladı ve İran'a (yine) tehditler savurdu, İslam Cumhuriyeti protestoculara ateş açarsa, ki bunu yaptı. Kremlin, ABD'nin ele geçirmekte kararlı olduğu bir petrol tankerini korumaya çalıştı—ona Rus bayrağı çektirerek, diplomatik uyarılar yaparak ve hatta Rus askeri gemileri, raporlara göre bir denizaltı da dahil olmak üzere, gölgeleyerek. ABD Sahil Güvenlik yine de gemiyi aldı ve ardından Venezuela yakınlarında ikinci bir tankeri ele geçirdi. 3 Ocak'ta, Rusya Güney Amerika'da büyük bir dayanak noktasını kaybetti. Son yirmi yılda, Moskova Venezuela'ya çoğunlukla Rus yapımı silahlar satın almak için 34 milyar dolar sağladı ve şimdi geri ödenmeyebilecek 3.15 milyar dolar kredi verdi. Rusya ayrıca geçen bahar Küba ile bir savunma işbirliği paktı imzaladı. Trump yönetimi de o ülkeyi tehdit ediyor ve Moskova, Washington'un Havana'ya baskın düzenlemesini engelleyecek bir konumda değil. Washington'un Moskova'ya yönelik söylemi de değişti. Newport News, Virginia'da gemi yapımcılarını ziyaret ederken, Savunma Bakanı Pete Hegseth, Venezuela operasyonu hakkında şaka yaptı: 'Görünüşe göre Rus hava savunmaları pek işe yaramadı, değil mi?' Venezuela konusunda Rusya ile bir tırmanışı önlemek için hangi önlemlerin alındığı sorulduğunda, Dışişleri Bakanı Marco Rubio, Moskova'nın duyabileceği en nahoş cümlelerden birini dile getirdi: 'Venezuela konusunda Rusya ile bir tırmanıştan endişe duymuyoruz.' Ardından, Rusya Dışişleri Bakanı Sergey Lavrov'a mutlu Noeller diledi. Putin'in misilleme seçenekleri en iyi ihtimalle sınırlıdır. Ukrayna, Rusya için ABD'nin Venezuela'da olduğu gibi olmalıydı—çok daha küçük bir komşuya karşı hızlı, zafer dolu bir savaş. Bu savaş şimdi Nazi Almanyası'na karşı Sovyet kampanyasından (1941–45) daha uzun sürdü. Ancak bu sefer, Avrupa'yı süpüren süvari, ordu yedekleri ve Sovyet tank bölümleri yok. Rusya, tanklarının çoğunu kaybetti. Venezuela ve Küba gibi müttefik rejimleri ABD'ye karşı savunabilecek bir donanması yok. Ukrayna'yı fethetmeye çalışarak geçirdiği yıllardan sonra, Putin Rusya'nın manevra alanını Ukrayna'nın sınırlarına kadar daralttı. Rusya'nın 'zaferi' şimdi, harabeler arasında bir Rus bayrağı dikilmiş yıkık bir köyden biraz daha fazlasını ifade ediyor. Yine de, başarı asla garanti değil: Putin, Kupiansk adlı küçük bir şehri ele geçirdiğini düşündü, ta ki Zelensky orada kendisinin bir videosunu yayınlayana kadar. Bu nedenle, Rusya'nın gücünü projelendirmek için son yollardan biri olan orta menzilli Oreshnik'in sembolik ateşlenmesi geliyor. Trump, özellikle nükleer olan her şeye veya onun deyimiyle 'n-kelimesine' karşı reaktiftir. Geçen yaz, Hindistan'a tarifeler ve Rus petrolü satın aldığı için ek bir ceza açıkladı ve eski Rusya Devlet Başkanı Dmitry Medvedev, Telegram'da Trump'ın 'yaşayan ölüler hakkında en sevdiği filmleri yeniden gözden geçirmesi ve efsanevi 'Ölü El'in ne kadar tehlikeli olabileceğini hatırlaması gerektiğini' söyledi—Rusya'nın Soğuk Savaş dönemi otomatik nükleer misilleme sistemine bir gönderme. Trump, Truth Social'da yanıt verdi: 'Rusya Federasyonu Güvenlik Konseyi Başkan Yardımcısı olan Rusya'nın Eski Başkanı Dmitry Medvedev'in son derece kışkırtıcı açıklamalarına dayanarak, bu aptalca ve kışkırtıcı açıklamaların sadece bunlar olmadığından emin olmak için iki nükleer denizaltının uygun bölgelere yerleştirilmesini emrettim.' Rus petrolüne yönelik yeni yaptırımlar, Rus tankerlerinin ele geçirilmesi ve Ukrayna'ya Amerikan silahlarının akışının devam etmesi, Putin'in ABD Başkanı ile elini defalarca fazla oynadığını gösteriyor. Putin için daha da kötüsü—ve muhtemelen dünya için—bu Trump savaş yolunda. Son basın toplantılarının çoğu, bir ülkeyi bombalamak veya rejim değiştirmekle ilgili referanslar içeriyordu (liste şimdi bir NATO ülkesini de içeriyor). Bu, gayrimenkul veya kripto para Trump'ı değil. Bu, Amerikalılar için 'ICE. Herkes için Delta Force' doktrinine indirgenen bir lider olan silahlı Trump. Cuma günü, Fox News'ten Peter Doocy, Trump'a Putin'i yakalamak için bir görev emri verip vermeyeceğini sordu. Trump, 'Gerekli olacağını sanmıyorum. Onunla her zaman harika bir ilişkim oldu.' dedi. Bu açıklama, Rus lider için derin bir hakaret olarak okundu. Yine de, bu yeni Trump versiyonuna mesaj göndermek için orta menzilli bir balistik füze fırlatmak, Putin'in planladığı şekilde sonuçlanmayabilir. Rusya'nın gücünü yeniden tesis etmek yerine, iki yaşlanan otoriter lideri nükleer stoklarla karşılıklı bir tırmanış yoluna sokma riski taşıyor—Rusya'nın tam ölçekli işgalinin başlangıcından bu yana ve belki de Soğuk Savaş'tan bu yana en tehlikeli gelişmelerden biri.",
+     "group": "",
+     "id": "tag:theatlantic.com,2026:50-685611",
+     "link": "https://www.theatlantic.com/international/2026/01/putin-oreshnik-lviv/685611/?utm_source=feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Atlantic",
+       "url": "https://www.theatlantic.com/international/2026/01/putin-oreshnik-lviv/685611/?utm_source=feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/europe/russia-says-it-hit-an-aircraft-repair-plant-in-ukraine-with-last-weeks-oreshnik-strike"
+      }
+     ],
+     "titleTR": "Putin'den Trump'a patlayıcı mesaj"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Rusya'nın Oreshnik füzesiyle Ukrayna'ya mesajı: Askeri hedef ve siyasi mesaj",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 8
+  },
+  {
+   "items": [
+    {
+     "atomID": "b83e0832-f18b-11f0-be21-af980ba7d673",
+     "category": "",
+     "descriptionTR": "ABD, Çarşamba günü yaptığı açıklamada, aralarında Rusya, İran, Brezilya, Mısır, Tayland, Nijerya ve Somali'nin de bulunduğu 75 ülkenin başvuru sahipleri için göçmen vizesi işlemlerini topluca askıya aldığını belirtti. Dondurma işlemi 21 Ocak'ta başlayacak ve bitiş tarihi belirlenmedi.",
+     "group": "",
+     "id": "b83e0832-f18b-11f0-be21-af980ba7d673",
+     "link": "https://www.france24.com/en/americas/20260114-us-suspends-immigrant-visa-processing-for-75-countries",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/americas/20260114-us-suspends-immigrant-visa-processing-for-75-countries"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/14/trump-administration-to-suspend-immigrant-visa-processing-for-75-countries?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/us-to-suspend-immigrant-visa-processing-for-75-countries-13494347"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/united-states/us-to-suspend-visa-processing-for-75-nations-next-week-fox-news-reports"
+      }
+     ],
+     "titleTR": "ABD, 75 ülke için göçmen vizesi işlemlerini durdurdu"
+    }
+   ],
+   "packetSpot": "ABD, aralarında Rusya, İran ve Brezilya'nın da bulunduğu 75 ülke için göçmen vizesi işlemlerini sonu belirsiz bir şekilde askıya aldığını duyurdu.",
+   "packetTitle": "ABD, 75 ülke için göçmen vizesi işlemlerini askıya aldı",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 9
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/c5yvgz7geyvo#1",
+     "category": "",
+     "descriptionTR": "Chiara Ferragni, Noel kekleri ve Paskalya yumurtaları tanıtımlarında tüketicileri yanıltmakla suçlanmıştı.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c5yvgz7geyvo#1",
+     "link": "https://www.bbc.com/news/articles/c5yvgz7geyvo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/c5yvgz7geyvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/europe/italian-judge-acquits-influencer-chiara-ferragni-over-charity-fraud-claims"
+      }
+     ],
+     "titleTR": "İtalyan influencer Chiara Ferragni kek dolandırıcılığı suçlamalarından aklandı"
+    }
+   ],
+   "packetSpot": "Chiara Ferragni, Noel kekleri ve Paskalya yumurtaları tanıtımlarında tüketicileri yanıltma ve hayır kurumu dolandırıcılığı iddialarıyla ilgili suçlamalardan beraat etti.",
+   "packetTitle": "Chiara Ferragni'nin dolandırıcılık suçlamalarından beraati",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 10
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.japantimes.co.jp/article/636233/",
+     "category": "",
+     "descriptionTR": "Başbakanın parlamentonun bir sonraki oturumunda erken seçim çağrısı yapması, çift taraflı bir kılıç olabilir.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/636233/",
+     "link": "https://www.japantimes.co.jp/news/2026/01/14/japan/politics/takaichi-ldp-snap-election-japan/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/01/14/japan/politics/takaichi-ldp-snap-election-japan/"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Nikkei Asia",
+       "url": "https://asia.nikkei.com/politics/behind-takaichi-s-decision-to-call-a-snap-japan-election"
+      }
+     ],
+     "titleTR": "Takaichi'den riskli ama potansiyel olarak kazançlı erken seçim hamlesi"
+    }
+   ],
+   "packetSpot": "Japonya Başbakanı Takaichi, riskli ancak potansiyel olarak kazançlı görülen bir hamleyle erken seçim kararı aldı. Kararın, parlamentonun bir sonraki oturumunda açıklanması bekleniyor.",
+   "packetTitle": "Japonya'da Takaichi'nin erken seçim kararı",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 11
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://techcrunch.com/?p=3082593",
+     "category": "",
+     "descriptionTR": "\"Müzisyenlerin müzik yapmaya devam etmelerini ve hayranların Bandcamp'ta buldukları müziğin insanlar tarafından yaratıldığına güvenmelerini istiyoruz,\" dedi şirket.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3082593",
+     "link": "https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/01/14/bandcamp-takes-a-stand-against-ai-music-banning-it-from-the-platform/"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/"
+      }
+     ],
+     "titleTR": "Bandcamp, yapay zeka müziğine karşı duruş sergiliyor ve platformdan yasaklıyor"
+    }
+   ],
+   "packetSpot": "Bandcamp, platformunda yapay zeka ile üretilen müziği yasakladığını duyurdu ve müzikte insan yaratıcılığının önemini vurguladı.",
+   "packetTitle": "Bandcamp, yapay zeka ile üretilen müziği yasaklıyor",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 12
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768598691",
+     "category": "",
+     "descriptionTR": "National Unity Platform, muhalefet başkan adayı Bobi Wine'ın gergin geçen seçimlerin ertesi günü evinden alındığını öne sürüyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768598691",
+     "link": "https://www.aljazeera.com/news/2026/1/16/ugandas-bobi-wine-taken-to-unknown-location-in-army-helicopter-party-says?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/16/ugandas-bobi-wine-taken-to-unknown-location-in-army-helicopter-party-says?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Uganda'da Bobi Wine'ın askeri helikopterle bilinmeyen bir yere götürüldüğü iddia ediliyor"
+    },
+    {
+     "atomID": "https://news.sky.com/story/people-power-opposition-supporters-shout-as-voting-count-in-uganda-election-turns-violent-13495174",
+     "category": "",
+     "descriptionTR": "Kampala'nın merkezindeki Kibuye kavşağında, silahlı askerler kapalı dükkanların önünde diz çökmemizi emrederken, silah sesleri ve ses bombalarının yankıları duyuluyor.",
+     "group": "",
+     "id": "https://news.sky.com/story/people-power-opposition-supporters-shout-as-voting-count-in-uganda-election-turns-violent-13495174",
+     "link": "https://news.sky.com/story/people-power-opposition-supporters-shout-as-voting-count-in-uganda-election-turns-violent-13495174",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/people-power-opposition-supporters-shout-as-voting-count-in-uganda-election-turns-violent-13495174"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/uganda-election-descends-into-deadly-violence-as-president-yoweri-museveni-looks-to-cling-to-power-13495081"
+      }
+     ],
+     "titleTR": "Uganda seçimlerinde oy sayımı sırasında şiddet olayları yaşanıyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Uganda seçimlerinde gerginlik ve askeri müdahaleler",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 13
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://techcrunch.com/?p=3083430",
+     "category": "",
+     "descriptionTR": "OpenAI, reklamların etkilediği kullanıcıların gördükleri üzerinde bir miktar kontrol sahibi olacağını belirtiyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3083430",
+     "link": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/"
+      }
+     ],
+     "titleTR": "ChatGPT kullanıcıları hedefli reklamlarla karşılaşacak"
+    }
+   ],
+   "packetSpot": "OpenAI, ChatGPT'ye reklam getirmeyi planlıyor; bu durum hem ücretsiz hem de ücretli kullanıcıları etkileyecek ve kullanıcılar reklam içeriği üzerinde bir miktar kontrol sahibi olacaklar.",
+   "packetTitle": "OpenAI, ChatGPT'ye reklam getirmeyi planlıyor",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 14
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/cj3vl3ezznno#1",
+     "category": "",
+     "descriptionTR": "Başkan, birkaç hava savunma sisteminin Cuma sabahı bir sevkiyat gelene kadar füzelerden yoksun olduğunu belirtti.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cj3vl3ezznno#1",
+     "link": "https://www.bbc.com/news/articles/cj3vl3ezznno?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/cj3vl3ezznno?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Zelenski: Ukrayna'nın hava savunma malzemeleri 'yetersiz'"
+    },
+    {
+     "atomID": "https://www.straitstimes.com/world/europe/ukraine-able-to-meet-only-60-of-electricity-need-after-russian-attacks",
+     "category": "",
+     "descriptionTR": "Bu durum, Ukrayna'nın savaşın en soğuk ve en karanlık kışıyla başa çıkmaya çalıştığı bir dönemde yaşanıyor.",
+     "group": "",
+     "id": "https://www.straitstimes.com/world/europe/ukraine-able-to-meet-only-60-of-electricity-need-after-russian-attacks",
+     "link": "https://www.straitstimes.com/world/europe/ukraine-able-to-meet-only-60-of-electricity-need-after-russian-attacks",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/europe/ukraine-able-to-meet-only-60-of-electricity-need-after-russian-attacks"
+      }
+     ],
+     "titleTR": "Rus saldırılarının ardından Ukrayna elektrik ihtiyacının sadece %60'ını karşılayabiliyor"
+    }
+   ],
+   "packetSpot": "Ukrayna, devam eden Rus saldırıları nedeniyle yetersiz hava savunma malzemeleri ve elektrik kesintileriyle karşı karşıya.",
+   "packetTitle": "Ukrayna'nın hava savunma ve elektrik sıkıntıları",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 15
+  },
+  {
+   "items": [
+    {
+     "atomID": "tag:theatlantic.com,2026:50-685607",
+     "category": "",
+     "descriptionTR": "13 Ocak 2026'da Minneapolis, Minnesota'da bir ev baskını sonrası federal göçmenlik ajanları öfkeli sakinlerle karşı karşıya kaldı. Federal ajanlar tarafından atılan göz yaşartıcı gaz, 13 Ocak 2026'da Minneapolis'te bir ev baskını sonrası geri çekilmeye çalışan sakinlerle çatışırken havayı doldurdu. Geçen hafta bir ICE memuru tarafından vurularak öldürülen Renee Good için yapılan geçici anıtı ziyaret eden insanlar, 13 Ocak 2026'da Minneapolis'te bir araya geldi. Roosevelt Lisesi öğrencileri, 12 Ocak 2026'da Minneapolis'te bir yürüyüş sırasında protesto etti. Bir federal göçmenlik memuru, 11 Ocak 2026'da Minneapolis'te bir kapıyı koçbaşıyla kırarak tutuklama yapmadan önce bir aile üyesinin tepkisiyle karşılaştı. ABD Sınır Devriyesi ajanları, 11 Ocak 2026'da St. Paul, Minnesota'da bir benzin istasyonunda vatandaşlık belgesi sunamayan bir adamın araba camını kırarak onu dışarı sürükleyip gözaltına aldı. Bir kişi, 11 Ocak 2026'da Minneapolis'te tutuklamalar yaptıktan sonra Sınır Devriyesi ajanlarına müstehcen el hareketleri yaptı. Geçen hafta bir ICE memuru tarafından vurularak öldürülen Renee Good'un olay yerine yakın bir yerde protestocular federal ajanlar tarafından tutuklandı, 13 Ocak 2026. ABD Sınır Devriyesi komutanı Gregory Bovino, 11 Ocak 2026'da Minneapolis'te protestoculara bağırdı. Federal ajanlar, 12 Ocak 2026'da Minneapolis'te ICE ajanları tarafından çarpılan bir sivilin arabasının yanında durdu. Federal ajanlar, 13 Ocak 2026'da Minneapolis'te bir göçmenlik uygulama operasyonu sırasında topluluk üyeleriyle çatışırken göz yaşartıcı gaz kullandı. Bir kişi, 13 Ocak 2026'da Minneapolis'te ICE ajanları tarafından bir konuttan insanlar tutuklandıktan sonra protestocularla karşı karşıya geldikleri olay yerinden bir çocuğu taşıyarak uzaklaştı. Bir sakin, 13 Ocak 2026'da Minneapolis'te iki kişinin gözaltına alınmasının ardından ICE ajanlarıyla karşı karşıya gelen insanları filme aldı. Bir protestocu, 13 Ocak 2026'da Minneapolis'te bir federal ajan tarafından biber gazı sıkılarak etkisiz hale getirildi. Gözlemciler, 13 Ocak 2026'da Minneapolis'te bir konuttan iki kişinin gözaltına alınmasının ardından federal ajanlarla karşı karşıya geldi. Bir Sınır Devriyesi ajanı, 13 Ocak 2026'da Minneapolis'te bir göçmenlik uygulama operasyonu sırasında bir sürücünün yüzünü taradı. Bir kişi, 11 Ocak 2026'da Minneapolis'te bir göçmenlik baskını sırasında kapısının dışına bakıyor. Bir federal ajan, 12 Ocak 2026'da bir sivilin arabasına çarpan ICE ajanlarıyla yaşanan bir olayın ardından bir isyan kontrol göz yaşartıcı gaz bombasını kaldırdı. Federal ajanlar, 13 Ocak 2026'da Minneapolis'te bir baskın sırasında bir aracın camını kırarak bir sürücüyü gözaltına aldı. İzleyiciler ve sakinler, 13 Ocak 2026'da Minneapolis'te bir ev baskını sonrası federal göçmenlik ajanlarıyla karşı karşıya geldi. Geçen hafta bir ICE memuru tarafından vurularak öldürülen Renee Good için yapılan geçici anıtı ziyaret eden insanlar, 13 Ocak 2026.",
+     "group": "",
+     "id": "tag:theatlantic.com,2026:50-685607",
+     "link": "https://www.theatlantic.com/photography/2026/01/photos-minneapolis-neighborhoods-vs-ice/685607/?utm_source=feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Atlantic",
+       "url": "https://www.theatlantic.com/photography/2026/01/photos-minneapolis-neighborhoods-vs-ice/685607/?utm_source=feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/americas/20260116-an-occupying-force-minneapolis-caught-up-in-trump-anti-immigration-surge"
+      }
+     ],
+     "titleTR": "Minneapolis mahalleleri ICE'e karşı"
+    },
+    {
+     "atomID": "b2901996",
+     "category": "",
+     "descriptionTR": "Hem ilericiler hem de ılımlılar, ICE'in yeterince parası olduğunu söylüyor. Ancak ajansla ne yapılması gerektiği konusunda anlaşamıyorlar, diye yazıyor Eric Garcia.",
+     "group": "",
+     "id": "b2901996",
+     "link": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-trump-ice-big-beautiful-bill-b2901996.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-trump-ice-big-beautiful-bill-b2901996.html"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/americas/us-politics/minnesota-lawsuit-dhs-renee-good-ice-b2899158.html"
+      }
+     ],
+     "titleTR": "Demokratlar, Trump'ın Minneapolis baskısı sırasında ICE'in büyük fonlarını hedef alıyor"
+    }
+   ],
+   "packetSpot": "Minneapolis, Trump yönetiminin sert göçmen karşıtı stratejisinin odak noktası haline geldi. ICE öncülüğündeki operasyonlar toplumsal çatışmalara ve protestolara yol açtı. Federal fonların artışı, uygulamaların yoğunlaşmasına neden olurken, yerel halk ve politikacılardan eleştiriler ve direnişle karşılaşıyor.",
+   "packetTitle": "Minneapolis'ta göçmen karşıtı uygulamalar ve toplumsal tepkiler",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 16
+  },
+  {
+   "items": [
+    {
+     "atomID": "46eeed4c-f300-11f0-bc87-b7822d5a5d94",
+     "category": "",
+     "descriptionTR": "Danimarka liderleri, Kopenhag'da bir ABD heyetini ağırlarken 'yumuşak güç diplomasisi'ni deniyor. Danimarkalı gazeteci Trine Villemann, FRANCE 24'e verdiği demeçte, on bir ABD milletvekilinin Danimarka ve Grönland'a desteklerini ifade etmek için Cuma günü şehri ziyaret ettiğini ve Başkan Donald Trump'ın Arktik adasındaki planlarının Amerikan halkının desteğini almadığını vurguladı.",
+     "group": "",
+     "id": "46eeed4c-f300-11f0-bc87-b7822d5a5d94",
+     "link": "https://www.france24.com/en/video/20260116-soft-power-diplomacy-denmark-hosts-us-delegation-amid-trump-s-arctic-threats-1",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/video/20260116-soft-power-diplomacy-denmark-hosts-us-delegation-amid-trump-s-arctic-threats-1"
+      }
+     ],
+     "titleTR": "‘Yumuşak güç diplomasisi’: Trump'ın Arktik tehditleri arasında Danimarka ABD heyetini ağırlıyor"
+    },
+    {
+     "atomID": "b2900542",
+     "category": "",
+     "descriptionTR": "Grönland ve Danimarka tarafından yayımlanan bir açıklamada, 'Jeopolitik gerilimler Arktik'e yayıldı' denildi.",
+     "group": "",
+     "id": "b2900542",
+     "link": "https://www.independent.co.uk/news/world/europe/greenland-denmark-jd-vance-trump-b2900542.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/europe/greenland-denmark-jd-vance-trump-b2900542.html"
+      }
+     ],
+     "titleTR": "ABD-Grönland görüşmelerinin ardından Danimarka 'temel anlaşmazlık' ilan etti, NATO müttefikleri askeri varlığı artırıyor"
+    }
+   ],
+   "packetSpot": "Danimarka, ABD-Grönland gerilimini ele almak için diplomatik çabalar yürütüyor. Kopenhag'da bir ABD heyetini ağırlayarak Danimarka ve Grönland'a destek vurgusu yaparken, ABD'nin Arktik'teki niyetlerine karşı çıkıyor.",
+   "packetTitle": "Danimarka'nın ABD-Grönland geriliminde diplomatik çabaları",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 17
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://en.mercopress.com/2026/01/16/lula-and-von-der-leyen-say-mercosur-eu-deal-advances-multilateralism?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "category": "",
+     "descriptionTR": "Brezilya Devlet Başkanı Luiz Inácio Lula da Silva ve Avrupa Komisyonu Başkanı Ursula von der Leyen, Mercosur ile Avrupa Birliği (AB) arasındaki serbest ticaret anlaşmasının Asunción'da imzalanmasının küresel ticaret, demokrasi ve çok taraflılık için faydalı olacağını belirtti.",
+     "group": "",
+     "id": "https://en.mercopress.com/2026/01/16/lula-and-von-der-leyen-say-mercosur-eu-deal-advances-multilateralism?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "link": "https://en.mercopress.com/2026/01/16/lula-and-von-der-leyen-say-mercosur-eu-deal-advances-multilateralism?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/16/lula-and-von-der-leyen-say-mercosur-eu-deal-advances-multilateralism?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      }
+     ],
+     "titleTR": "Lula ve von der Leyen: Mercosur-AB anlaşması çok taraflılığı ilerletiyor"
+    },
+    {
+     "atomID": "https://www.politico.eu/?post_type=article&p=7776603",
+     "category": "",
+     "descriptionTR": "António Costa, Brezilya Devlet Başkanı ile görüşmeyi kaçırdı ancak Paraguay'da ticaret anlaşmasını imzalamak üzere hazır bulunacak.",
+     "group": "",
+     "id": "https://www.politico.eu/?post_type=article&p=7776603",
+     "link": "https://www.politico.eu/article/council-chief-antonio-costa-misses-brazil-talks-mercosur-signing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/council-chief-antonio-costa-misses-brazil-talks-mercosur-signing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "Konsey Başkanı Costa, uçuş iptali nedeniyle Brezilya görüşmelerini kaçırdı, Mercosur imzasına katılacak"
+    }
+   ],
+   "packetSpot": "Mercosur-AB ticaret anlaşmasının Asunción'da imzalanması bekleniyor. Lula ve von der Leyen, anlaşmanın küresel ticaret ve çok taraflılık için faydalarını vurgularken, bazı yetkililerin karşılaştığı lojistik zorluklara rağmen önemini koruyor.",
+   "packetTitle": "Asunción'da Mercosur-AB ticaret anlaşması imzalanıyor: Liderler sahnede",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 18
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/news/china/diplomacy/article/3340232/trump-shrugs-concerns-over-canada-china-ev-deal-calls-it-good-thing?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump, Cuma günü, Ottawa'nın Çinli elektrikli araçlara uygulanan tarifeleri azaltmayı kabul ettiği Kanada-Çin ticaret anlaşmasına dair endişeleri önemsemediğini belirtti ve bunun Kanada Başbakanı Mark Carney için 'iyi bir şey' olduğunu söyledi. Trump, anlaşmanın daha önce duyurulması üzerine, 'Bu sorun değil. Yapması gereken de bu. Ticaret anlaşması imzalamak onun için iyi bir şey. Çin ile bir anlaşma yapabiliyorsanız, bunu yapmalısınız,' dedi. Bu açıklamalar sadece...",
+     "group": "",
+     "id": "https://www.scmp.com/news/china/diplomacy/article/3340232/trump-shrugs-concerns-over-canada-china-ev-deal-calls-it-good-thing?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/china/diplomacy/article/3340232/trump-shrugs-concerns-over-canada-china-ev-deal-calls-it-good-thing?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/china/diplomacy/article/3340232/trump-shrugs-concerns-over-canada-china-ev-deal-calls-it-good-thing?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "Trump, Kanada-Çin elektrikli araç anlaşmasına dair endişeleri önemsemiyor: 'İyi bir şey'"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Kanada-Çin elektrikli araç ticaret anlaşmasına karışık tepkiler",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 19
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.politico.eu/?post_type=article&p=7777824",
+     "category": "",
+     "descriptionTR": "Münih Güvenlik Konferansı sözcüsü, Tahran'ın protestoculara yönelik baskısı nedeniyle rejim temsilcilerine yapılan önceki davetlerin iptal edildiğini açıkladı.",
+     "group": "",
+     "id": "https://www.politico.eu/?post_type=article&p=7777824",
+     "link": "https://www.politico.eu/article/munich-security-conference-disinvites-iran-foreign-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/munich-security-conference-disinvites-iran-foreign-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "Münih Güvenlik Konferansı İranlı diplomatı davet listesinden çıkardı"
+    },
+    {
+     "atomID": "https://www.straitstimes.com/world/europe/no-impunity-for-those-behind-iran-crackdown-french-fm",
+     "category": "",
+     "descriptionTR": "Son günlerde İran'dan, protestocuların maruz kaldığı şiddetle ilgili birçok haber geliyor.",
+     "group": "",
+     "id": "https://www.straitstimes.com/world/europe/no-impunity-for-those-behind-iran-crackdown-french-fm",
+     "link": "https://www.straitstimes.com/world/europe/no-impunity-for-those-behind-iran-crackdown-french-fm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/europe/no-impunity-for-those-behind-iran-crackdown-french-fm"
+      }
+     ],
+     "titleTR": "Fransız bakandan İran'daki baskı için 'cezasızlık yok' mesajı"
+    }
+   ],
+   "packetSpot": "İran'ın protestoculara yönelik baskısına uluslararası tepkiler odakta. Münih Güvenlik Konferansı'nın İranlı diplomatı davet listesinden çıkarması ve Fransa'nın hesap sorulması çağrısı dikkat çekiyor.",
+   "packetTitle": "İran'daki protesto baskısına uluslararası tepkiler",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 20
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3339938/nasa-sends-4-astronauts-back-earth-first-medical-evacuation?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "Bir astronotun doktor bakımına ihtiyaç duyması nedeniyle Uluslararası Uzay İstasyonu'ndan ayrılan dört mürettebat üyesi, NASA'nın ilk tıbbi tahliyesinde Çarşamba günü geri döndü. ABD, Rusya ve Japonya'dan olan dört astronot, Perşembe sabahı erken saatlerde San Diego yakınlarında Pasifik'e iniş yapmayı hedefliyor. Bu karar, görevlerini bir aydan fazla kısaltıyor. NASA astronotu Zena Cardman, dönüş yolculuğu öncesinde \"Bu ayrılışın zamanlaması beklenmedikti,\" dedi, \"ama beni şaşırtmayan şey...\"",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/united-states-canada/article/3339938/nasa-sends-4-astronauts-back-earth-first-medical-evacuation?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3339938/nasa-sends-4-astronauts-back-earth-first-medical-evacuation?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3339938/nasa-sends-4-astronauts-back-earth-first-medical-evacuation?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/01/260116045344.htm"
+      }
+     ],
+     "titleTR": "NASA, ilk tıbbi tahliyede 4 astronotu Dünya'ya gönderdi"
+    }
+   ],
+   "packetSpot": "NASA, Uluslararası Uzay İstasyonu'ndan ilk tıbbi tahliyesini gerçekleştirdi. Tıbbi bir endişe nedeniyle Crew-11 planlanandan erken Dünya'ya getirildi. ABD, Rusya ve Japonya'dan astronotlardan oluşan ekip, SpaceX ile güvenli bir şekilde geri döndü.",
+   "packetTitle": "NASA'nın ISS'ten ilk tıbbi tahliyesi: Crew-11 Dünya'ya döndü",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 21
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/news/world/middle-east/article/3340229/trump-thanks-iran-cancelling-hanging-hundreds-political-prisoners?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump, Cuma günü İran hükümetine yüzlerce siyasi mahkumun idamını gerçekleştirmediği için teşekkür etti. Trump, Beyaz Saray'dan ayrılarak hafta sonunu Florida, Palm Beach'teki Mar-a-Lago malikanesinde geçirmeye giderken gazetecilere, 'İran, 800'den fazla kişinin idamını iptal etti' dedi. 'Ve bu iptali büyük bir saygıyla karşılıyorum' diye ekledi. Cumhuriyetçi başkan ayrıca bu durumu sosyal medya platformunda da dile getirdi.",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/middle-east/article/3340229/trump-thanks-iran-cancelling-hanging-hundreds-political-prisoners?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3340229/trump-thanks-iran-cancelling-hanging-hundreds-political-prisoners?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3340229/trump-thanks-iran-cancelling-hanging-hundreds-political-prisoners?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/donald-trump-praises-iran-for-halting-mass-executions?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Trump, İran'a yüzlerce siyasi mahkumun idamını 'durdurduğu' için teşekkür etti"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Trump'tan İran'a idamları durdurma teşekkürü",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 22
+  },
+  {
+   "items": [
+    {
+     "atomID": "c569df98-f2ff-11f0-a182-b7822d5a5d94",
+     "category": "",
+     "descriptionTR": "Mark Owen, We Are Iranian Students'in kurucularından Aida Tavakoli'yi ağırlıyor. Tavakoli, İran'da devletin karanlık örtüsü altında yaşanan insani krize dair çarpıcı bir bakış sunuyor. Tavakoli'nin sesi, uluslararası toplumu, özellikle BM Güvenlik Konseyi'ni, 'insanlığa karşı işlenen suçlar' karşısında harekete geçmeye çağırıyor. Tavakoli'nin tanıklığı, küresel demokratik idealler ile jeopolitik pragmatizm arasındaki derinleşen çatlağı gözler önüne seriyor ve sessizlik ile seçici öfke hakkında rahatsız edici sorular ortaya atıyor. Ortaya çıkan, eylem çağrısı ve hareketsizliğin bir suçlaması.",
+     "group": "",
+     "id": "c569df98-f2ff-11f0-a182-b7822d5a5d94",
+     "link": "https://www.france24.com/en/victims-of-a-slaughter-iranian-people-rising-up-for-decades-now-against-the-islamic-regime",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/victims-of-a-slaughter-iranian-people-rising-up-for-decades-now-against-the-islamic-regime"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/tv-shows/the-debate/20260112-blackout-over-iran-can-the-regime-keep-a-lid-on-the-nationwide-uprising"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260114-iran-protests-ai-and-dated-photos-mislead-about-pro-regime-rallies"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/asia-pacific/20260116-iran-protests-wane-amid-crackdown-us-backs-off-intervention-threats"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/arrests-reported-by-official-media-for-first-time-since-tehran-protests-began"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/update-blutige-proteste-im-iran-was-der-westen-tun-kann/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/he-was-shot-in-the-heart-the-teen-victims-of-irans-ruthless-crackdown-13493544"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/irans-rulers-are-more-exposed-than-ever-protestors-want-them-out-of-their-lives-13493448"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/16/iran-says-3000-people-arrested-as-antigovernment-protests-subside?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/europe/no-impunity-for-those-behind-iran-crackdown-french-fm"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/middle-east/son-of-irans-last-shah-appeals-for-more-pressure-to-help-protesters"
+      }
+     ],
+     "titleTR": "İran'da 'katliamın kurbanları': Halk yıllardır rejime karşı ayakta"
+    },
+    {
+     "atomID": "tag:theatlantic.com,2026:50-685608",
+     "category": "",
+     "descriptionTR": "İran'daki protestolar gerçek. Ülkenin ekonomik çaresizliği derin, ve milyonlarca vatandaş yozlaşmış ve baskıcı rejimin gitmesini istiyor. Protestolara yönelik şiddetli baskı da gerçek ve binlerce cana mal olduğu bildiriliyor. Ancak İran'dan gelen haberler, fotoğraflar ve videolar, AI manipülasyonu ve sahtecilik suçlamalarıyla dolu. Bu durum, gerçeğin bile şüpheye düşmesine neden oluyor. 'Yalancının kârı' olarak adlandırılan bu durum, İran'da kendini gösteriyor. AI tarafından üretilen veya geliştirilen çevrimiçi içerik, protesto hareketlerini anlamaya veya belgelemeye çalışanlar için küresel bir sorun haline geldi, çünkü ilgili tarafların anlatıları şekillendirmesine olanak tanıyor. 2025'te, Türkiye'deki gerçek protesto anlarının AI tarafından üretilmiş görüntüleri, olayların görünümünü bulanıklaştırdı ve Nepal'in Gen Z ayaklanması için bir seferberlik aracı haline geldi. Ancak İran, belki de en karmaşık alan. Çeşitli siyasi gruplar, yabancı hükümetler ve İran rejimi, mevcut olayların anlatısını şekillendirmek için yarışıyor. Ve gerçekliği üretme araçları hiç bu kadar gelişmiş ve erişilebilir olmamıştı. İran'ın bilgi ortamı, İslam Cumhuriyeti'nin resmi medyasına duyulan aşırı güvensizlik, hem rejimden hem de yabancı güçlerden gelen sosyal medya etki çabaları ve çevrimiçi içeriğin yaygın çarpıtılmasıyla şekillenmiştir. Bu çarpıtmalar, bazıları aldatıcı, bazıları dikkatsiz, bazıları iyi niyetli, İranlıların bu protestolar sırasında gerçekten ne söylediklerini veya yaptıklarını doğrulamayı zorlaştırıyor. Yalancının kârı, rejime diğerlerinden daha fazla yarar sağlıyor. İran'daki ülke çapındaki ayaklanma 28 Aralık'ta patlak verdi. Ve saatler içinde, rejim yanlısı hesaplar protestolardan gelen gerçek görüntüleri AI tarafından üretilmiş olarak nitelendirmeye başladı. Erken bir örnek, İran'ın 'tank adamı' fotoğrafı olarak bilinen bir resimle ilgiliydi. Kaynağı, 29 Aralık'ta Tahran'da güvenlik güçlerine karşı duran bir protestocuyu gösteren zoom lensle çekilmiş düşük kaliteli bir videoydu. BBC Persian muhabiri, aynı gün videodan bir ekran görüntüsü paylaştı ve bu görüntü, daha yüksek bir resim kalitesine sahipti ve dolaşmaya başladı. Olay gerçekti: Birden fazla açıdan ve doğrulayıcılar tarafından doğrulandı. Ancak bir noktada, biri bu bulanık orijinal ekran görüntüsünü daha keskin ve paylaşılabilir hale getirmek için AI düzenleme araçlarıyla geliştirdi. Rejim hesapları, AI geliştirmesinden kaynaklanan görünür eserleri, fotoğrafı ve diğer protesto görüntülerini reddetmek için fırsat olarak kullandı. 'Hepsi AI çorbası,' AI tarafından üretilmiş profil fotoğrafına sahip bir rejim hesabı yorumladı. 'Siyonistler daha fazla acınası olamaz diye düşündüğünüzde, yanıldığınızı kanıtlıyorlar.' Deepfake'ler AI'ya aldatıcı bir itibar kazandırdı. Ancak birçok yaygın kullanılan görüntü düzenleme aracı, daha iyi veya daha kötü için üretici AI yeteneklerini kullanıyor. Kamuoyu, bu araçların iyi niyetli kullanımını kötü niyetli sahtekarlıktan ayırt etmeyi genellikle bilmiyor. Ve bu, İslam Cumhuriyeti gibi kötü niyetli aktörlerin, sadece AI'yı değil, aynı zamanda onun yarattığı şüpheyi de hızlandırıcı olarak kullanmasına olanak tanıyor. Aynı model ses manipülasyonlarıyla da oynandı. 30 Aralık'ta, Mujahedin-e Khalq ile bağlantılı olduğunu iddia eden bir hesap—silahlı bir kanadı olan ve bir zamanlar ABD tarafından terör örgütü olarak tanımlanan tartışmalı bir sürgün muhalefet grubu olan MEK—protesto görüntülerine açıkça Pahlavi yanlısı sloganların dublajlandığı bir video yayınladı. Hesap daha sonra videonun manipüle edildiğini 'ifşa etti' ve monarşistlerin destek ürettiğini iddia etmek için kullandı. Saatler içinde, rejim yanlısı hesaplar bu içeriği yeniden paylaşarak Pahlavi yanlısı sloganların sahte olduğunu iddia etti. Dikkat çekici olan, sözde MEK hesabının hem manipüle edilmiş videoyu tanıtması hem de ilk olarak bunu çağırmasıydı. Dahası, rejim yanlısı hesaplar bu gönderiyi neredeyse anında yeniden yayınlamaya hazırdı. İranlı araştırmacılar uzun zamandır rejimin sosyal medyada muhalefet kişiliklerini kullanarak kafa karışıklığı yaratma, muhalefeti bölme ve otantik belgeleri itibarsızlaştırma çabalarını belgelediler ve rejim içinden sızan belgeler ve videolar bu uygulamayı doğruladı. Sözde MEK gönderisinin yayınlanmasından bir gün sonra, bir Rus propaganda hesabı AI ile geliştirilmiş 'tank adam' fotoğrafını ve iddia edilen manipüle edilmiş Pahlavi sesini yan yana koyarak, protestoların yabancı bir kurgu olduğuna dair kanıt olarak sundu. Döngü kapandı: muhtemelen bir rejim hesabı tarafından tanıtılan manipüle edilmiş içerik, rejim yanlısı sesler tarafından güçlendirildi, ardından Rusya devletine bağlı medya tarafından bir AI destekli Batı psikolojik operasyonunun kanıtı olarak toplandı. Bu döngü yeterince karmaşık değilse, rejimin suçlamalarının, monarşistler tarafından belgelenmiş en az bir manipülasyon örneğinden yararlandığını düşünün. 29 Aralık'ta, Londra merkezli monarşi yanlısı muhalefetle bağlantılı Farsça dilinde yayın yapan Manoto kanalı, Pahlavi lehine slogan atan kalabalıkların görüntülerini yayınladı. Ses gerçekti—ancak geçen ay şüpheli ölümü binlerce yas tutan çeken insan hakları avukatı Khosrow Alikhordi için bir anıttan izlenebilir. Alınmış ve alakasız protesto görüntülerine yerleştirilmişti. Sahte video düşman aktörler tarafından mı yerleştirildi yoksa kraliyetçi kamptan biri tarafından kasıtlı olarak mı oluşturuldu, etkisi aynıydı: kötü niyetli hesaplara tam olarak ihtiyaç duydukları emsali sağladı. Kraliyetçiler, kendi anlatılarına hizmet eden sahte içerik üreten veya dolaşıma sokan tek rejim karşıtı kamp değil. 30 Aralık'ta, Radio Farda ve diğer hesaplar, 'ne şah ne de lider' diye slogan atan protestocuların 2020 videosunu, sanki mevcut protestoların görüntüsüymüş gibi paylaştı. BBC Verify'den Shayan Sardarizadeh yanlış atıfı işaret etti. İslam Cumhuriyeti, otantik, yerli muhalefeti İsrail ve Amerikan komplolarına atfetme alışkanlığına sahiptir. Bu sözde yabancı kışkırtma daha sonra baskı için bir bahane haline gelir. Son kriz bu açıdan farklı değil—ancak şimdi yabancı aktörler, rejimin anlatısını güçlendirmek için sahte, yanıltıcı içerik paylaşarak yardım ediyor. İsrail, en azından geçen yazki 12 günlük savaştan bu yana İran'da rejim karşıtı ve İsrail yanlısı anlatıları desteklemek için AI tarafından üretilmiş içerik kullanıyor. Toronto Üniversitesi'ne bağlı bir araştırma ve politika merkezi olan Citizen Lab, Evin Hapishanesi'ne yapılan sözde cerrahi bir saldırının AI ile üretilmiş görüntülerine işaret ediyor, diğer örnekler arasında. Haaretz'in bir soruşturması, İsrail'in etki operasyonlarının İran monarşi yanlısı gruplarla uyumlu fikirleri teşvik ettiğini ortaya çıkardı. Geçen ayki protestolar başlamadan kısa bir süre önce, bir İsrailli diplomat, Haziran savaşındaki İran komuta merkezlerine yönelik dört iddia edilen saldırının montajını paylaştı, 'çok hassas' diye başlık attı. Analizimiz, dört klipten birinin İran devlet televizyonunda yayınlanan otantik görüntüler olduğunu, diğer üçünde ise AI tarafından üretilmiş izler olduğunu buldu. BBC Verify, video montajını 'İslamcılar ve Humeynicilerin Kabusu' ve 'Medya Savaş Uzmanı' olarak tanımlanan ve 120.000'den fazla takipçisi olan bir Instagram hesabına kadar izledi. Kullanıcılar hava saldırısı görüntülerinin manipüle edildiğini işaret ettiğinde, diplomat gönderiyi silmedi. Videonun bazı bölümlerinin AI tarafından manipüle edilmiş olabileceğini kabul etti, ancak videonun yine de İsrail'in operasyonlarının hassasiyetini gösterdiğini savundu—yani, açıkça sahte içerik olduğunu kabul ettiği halde, anlatmak istediği hikayeyi gösterdiği için videonun arkasında durdu. Belki benzer şekilde, 1 Ocak'ta İsrail Dışişleri Bakanlığı, Farsça dilinde X hesabında İran polisi iki protestocuyu su hortumuyla püskürtürken gösteren bir görüntü yayınladı. Görüntü AI ile değiştirilmişti: Bir gün önce BBC Persian'dan Farzad Seifikaran tarafından yayınlanan orijinal, protestocuların uzaktan hortumla püskürtüldüğünü ve ardından bir memurun hoparlörle yaklaştığını gösteriyor, hortumla değil. Bu tür müdahaleler, İslam Cumhuriyeti'ne karşı muhalefeti güçlendirmeyi amaçlayabilir, ancak sahte medya kullanımı başka, şüphesiz istenmeyen etkiler yaratıyor. İran sokaklarında neler olup bittiğini saklamakla çıkarı olan aktörler, yabancı güçler tarafından teşvik edilen güvenilmez içeriğin varlığını kullanarak, protestoların tüm belgelerinin yabancı bir aldatmaca olduğunu kamuoyuna ikna ediyor. Kâr yine İslam Cumhuriyeti'ne dönüyor. Bazen sorun tamamen manipülasyon değil, sadece parçalanmış bir gerçeği yakalamanın imkansızlığıdır. 29 Aralık'ta İran International, Malard kasabasındaki bir yürüyüşten görüntüler paylaştı ve kalabalık Pahlavi lehine slogan atıyordu. Başka bir kullanıcı aynı sokak ve aynı yürüyüşün farklı bir açıdan görüntüsünü paylaştı, ancak farklı duyulabilir sloganlarla. İlk görüntüleri paylaşan bir kullanıcı düzeltme yayınladı; diğerleri Pahlavi kampını yanlış bilgi yaymakla suçladı. Ancak o uzun sokakta, farklı kalabalıkların farklı anlarda farklı şeyler söylemediğini kim söyleyebilir? Bu epistemik bir sis. Aldatmaca olmadan bile, iyi niyetle hareket eden insanlar, gördüklerini doğrulamaya çalışanlar, neyin temsilci olduğunu bilemezler. Böyle bir bilgi her durumda kaçınılmazdır: İran, 90 milyondan fazla insanın yaşadığı ve tek bir video veya protesto sloganından genelleştirilemeyecek bir ülke. Gazeteciler, mahkemeler, insan hakları araştırmacıları ve protesto hareketleri her zaman ortak kanıt standartlarına dayanmıştır. Bugün, bu standartların çöktüğünde ne olduğunu görüyoruz. Herhangi bir görüntü sentetik olarak reddedilebildiğinde, iktidardakiler artık konuşmayı bastırmak zorunda değil. Sadece ortak bir gerçekliğe olan inancı zayıflatan sorular sormaları gerekiyor. Perşembe akşamından bu yana, İran rejimi ulusal bir internet kesintisi ve dış dünya ile iletişim karartması ile sisi neredeyse geçirilemez hale getirdi. Bulunduğum yerden, bilgi resmi daha da parçalandı. Doğrulanmış görüntüler damla damla akıyor; çıkanlar büyük ölçüde Starlink terminalleri aracılığıyla geçiyor. Diaspora İranlıları, aile üyelerine ulaşamıyor, telaş içinde. Ölüm sayısı rakamları vahşi bir şekilde değişiyor, belgelenme organizasyonları verilere erişmekte zorlanıyor: Aralık şimdi 12.000 ile 20.000 ölü arasında, ancak tam ölçek bilinmiyor. Deepfake Rapid Response Force'umuz, bazen AI olarak yanlış etiketlenen meşru insan hakları belgelerini doğrulamaya yardımcı olmaya çalışıyor. İnsan hakları örgütleri arasında ölüleri doğru bir şekilde saymak için büyük bir çaba var. Bu arada, rejim hesapları, İslam Cumhuriyeti lehine karşı protestolardan görüntüler yayıyor—bazı muhalefet hesaplarının AI tarafından üretildiğini öne sürdüğü ve resmi haber medyasının şiddetle gerçek olduğunu iddia ettiği klipler. Herkes her şeye güvensiz olmaya hazır ve kesinti, protestoların ölçeği, baskının ciddiyeti veya rejimin durumu hakkında hiçbir şeyin gerçek zamanlı olarak tanık olunamamasını sağlıyor. İran rejimi, muhalefetin güvenilirliğini baltalamak için kırk yılı aşkın bir süredir çalışıyor. Şimdi, AI sadece sahte üretme aracı değil, aynı zamanda bir retorik silah olarak da elinde. Her hata, eser ve hatta koruyucu bulanıklık, hiçbir şeyin güvenilir olmadığının kanıtı haline geliyor. Politika yapıcılar ve platformlar AI tespiti ve doğrulama yatırımı yaparsa, belki sıradan insanlar bu kadar karanlıkta savaşmaz veya kötü niyetli aktörler bu kadar kâr elde etmez. İranlıların ne istediği ve ne için savaştığı, yalnızca onların cevaplayabileceği bir sorudur. Ve onların cevabı duyulmayı hak ediyor—yabancı hükümetler tarafından şekillendirilmeden, rejim propagandacıları tarafından reddedilmeden veya başkalarının yaratmaya yardımcı olduğu sis içinde boğulmadan.",
+     "group": "",
+     "id": "tag:theatlantic.com,2026:50-685608",
+     "link": "https://www.theatlantic.com/international/2026/01/iran-disinformation-ai-protests-doubt/685608/?utm_source=feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Atlantic",
+       "url": "https://www.theatlantic.com/international/2026/01/iran-disinformation-ai-protests-doubt/685608/?utm_source=feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Atlantic",
+       "url": "https://www.theatlantic.com/international/2026/01/trump-iran-protests-irgc-khamenei/685648/?utm_source=feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Atlantic",
+       "url": "https://www.theatlantic.com/culture/2026/01/the-iranians-who-feel-betrayed-by-the-left/685644/?utm_source=feed"
+      }
+     ],
+     "titleTR": "İran'da şüphe nasıl bir silaha dönüştü?"
+    },
+    {
+     "atomID": "https://www.scmp.com/news/world/middle-east/article/3340223/iran-cleric-demands-death-protesters-threatens-trump-amid-unrest?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "İran'ın başkentinde Cuma namazını yöneten katı bir din adamı, ülke çapında baskı altında tutuklanan protestocular için idam cezası talep etti ve ABD Başkanı Donald Trump'ı doğrudan tehdit etti. Ayetullah Ahmed Hatemi'nin vaazı, İran İslam Cumhuriyeti'nde otoritelerini sorgulayan gösteriler karşısında yetkililerin öfkesini gösteriyor. İran devlet radyosu tarafından yayınlanan vaaz, namaz için toplananlardan 'Silahlı münafıklar idam edilmeli!' sloganları attırdı. İdamlar ve...",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/middle-east/article/3340223/iran-cleric-demands-death-protesters-threatens-trump-amid-unrest?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3340223/iran-cleric-demands-death-protesters-threatens-trump-amid-unrest?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3340223/iran-cleric-demands-death-protesters-threatens-trump-amid-unrest?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "İranlı din adamı protestocular için idam cezası talep ediyor, Trump'ı tehdit ediyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "İran protestoları: Baskı, küresel tepkiler ve dezenformasyon",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 23
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.thisiscolossal.com/?p=468021",
+     "category": "",
+     "descriptionTR": "Hilda Palafox, 'De Tierra y Susurros' sergisinde kadınlar ve doğa arasındaki bağı inceliyor. Bu tür hikayeler ve sanatçılar ilginizi çekiyorsa, Colossal Üyesi olarak bağımsız sanat yayıncılığını destekleyebilirsiniz.",
+     "group": "",
+     "id": "https://www.thisiscolossal.com/?p=468021",
+     "link": "https://www.thisiscolossal.com/2026/01/hilda-palafox-de-tierra-y-susurros-paintings/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Colossal",
+       "url": "https://www.thisiscolossal.com/2026/01/hilda-palafox-de-tierra-y-susurros-paintings/"
+      }
+     ],
+     "titleTR": "Hilda Palafox'un eserlerinde doğa ve kadın ilişkisi"
+    },
+    {
+     "atomID": "https://www.thisiscolossal.com/?p=468032",
+     "category": "",
+     "descriptionTR": "Hammond, uyku ve uyanıklık arasındaki geçiş halini keşfediyor. Bu tür hikayeler ve sanatçılar ilginizi çekiyorsa, Colossal Üyesi olarak bağımsız sanat yayıncılığını destekleyebilirsiniz.",
+     "group": "",
+     "id": "https://www.thisiscolossal.com/?p=468032",
+     "link": "https://www.thisiscolossal.com/2026/01/valerie-hammond-waking-dreams-wood-carvings-ink-drawings/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Colossal",
+       "url": "https://www.thisiscolossal.com/2026/01/valerie-hammond-waking-dreams-wood-carvings-ink-drawings/"
+      }
+     ],
+     "titleTR": "Valerie Hammond'un 'Waking Dreams' sergisi: Uyku ve uyanıklık arasında doğanın sürreal vizyonları"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/01/12/ai-weiwei-holds-first-india-solo-show-in-new-delhi",
+     "category": "",
+     "descriptionTR": "Nature Morte galerisinde satışa sunulacak sergi, Çinli sanatçının kariyerinden çeşitli eserleri içerecek. Hindistan'da artan sansür raporları arasında gerçekleşiyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/01/12/ai-weiwei-holds-first-india-solo-show-in-new-delhi",
+     "link": "https://www.theartnewspaper.com/2026/01/12/ai-weiwei-holds-first-india-solo-show-in-new-delhi",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/01/12/ai-weiwei-holds-first-india-solo-show-in-new-delhi"
+      }
+     ],
+     "titleTR": "Ai Weiwei'nin Hindistan'daki ilk solo sergisi Yeni Delhi'de açılıyor"
+    },
+    {
+     "atomID": "https://www.thisiscolossal.com/?p=468226",
+     "category": "",
+     "descriptionTR": "Nostalji duygusu, sürreal senaryolarla buluşuyor. Bu tür hikayeler ve sanatçılar ilginizi çekiyorsa, Colossal Üyesi olarak bağımsız sanat yayıncılığını destekleyebilirsiniz.",
+     "group": "",
+     "id": "https://www.thisiscolossal.com/?p=468226",
+     "link": "https://www.thisiscolossal.com/2026/01/paco-pomet-planet-circus-oil-paintings/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Colossal",
+       "url": "https://www.thisiscolossal.com/2026/01/paco-pomet-planet-circus-oil-paintings/"
+      }
+     ],
+     "titleTR": "Paco Pomet'in tuvalleri: Absürt senaryolar ve nostaljik dokunuşlar"
+    },
+    {
+     "atomID": "https://www.thisiscolossal.com/?p=468195",
+     "category": "",
+     "descriptionTR": "Sanatçı, çocukça hayal gücünü ve masalların gizemli atmosferini canlandırıyor. Bu tür hikayeler ve sanatçılar ilginizi çekiyorsa, Colossal Üyesi olarak bağımsız sanat yayıncılığını destekleyebilirsiniz.",
+     "group": "",
+     "id": "https://www.thisiscolossal.com/?p=468195",
+     "link": "https://www.thisiscolossal.com/2026/01/malene-hartmann-rasmussen-ceramic-sculptures-brutes/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Colossal",
+       "url": "https://www.thisiscolossal.com/2026/01/malene-hartmann-rasmussen-ceramic-sculptures-brutes/"
+      }
+     ],
+     "titleTR": "Malene Hartmann Rasmussen'in seramiklerinde doğadan esinlenen tuhaf kişilikler"
+    },
+    {
+     "atomID": "2510484-these-striking-photos-are-a-window-into-the-world-of-quantum-physics|2510484",
+     "category": "",
+     "descriptionTR": "David Severn, King’s College London’ın yeni 'Quantum Untangled' sergisi için kuantum fiziği üzerine çalışan bilim insanlarının fotoğraflarını çekti.",
+     "group": "",
+     "id": "2510484-these-striking-photos-are-a-window-into-the-world-of-quantum-physics|2510484",
+     "link": "https://www.newscientist.com/article/2510484-these-striking-photos-are-a-window-into-the-world-of-quantum-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2510484-these-striking-photos-are-a-window-into-the-world-of-quantum-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "Çarpıcı fotoğraflar kuantum fiziği dünyasına açılan bir pencere"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/01/14/from-pennies-to-a-beatles-record-haul-the-obsessive-work-of-rutherford-chang-goes-on-show-in-beijing",
+     "category": "",
+     "descriptionTR": "Post-konseptüalist sanatçının 'neredeyse korkutucu bir titizlikle' hazırladığı eserler, UCCA Çağdaş Sanat Merkezi'nde kutlanıyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/01/14/from-pennies-to-a-beatles-record-haul-the-obsessive-work-of-rutherford-chang-goes-on-show-in-beijing",
+     "link": "https://www.theartnewspaper.com/2026/01/14/from-pennies-to-a-beatles-record-haul-the-obsessive-work-of-rutherford-chang-goes-on-show-in-beijing",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/01/14/from-pennies-to-a-beatles-record-haul-the-obsessive-work-of-rutherford-chang-goes-on-show-in-beijing"
+      }
+     ],
+     "titleTR": "Rutherford Chang'in takıntılı çalışmaları Pekin'de sergileniyor"
+    },
+    {
+     "atomID": "https://www.thisiscolossal.com/?p=468266",
+     "category": "",
+     "descriptionTR": "Brüksel merkezli sanatçı, yiyecekleriyle oynamayı seviyor. Bu tür hikayeler ve sanatçılar ilginizi çekiyorsa, Colossal Üyesi olarak bağımsız sanat yayıncılığını destekleyebilirsiniz.",
+     "group": "",
+     "id": "https://www.thisiscolossal.com/?p=468266",
+     "link": "https://www.thisiscolossal.com/2026/01/eleonore-joulin-ceramic-food-vegetables-vases-lamps/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Colossal",
+       "url": "https://www.thisiscolossal.com/2026/01/eleonore-joulin-ceramic-food-vegetables-vases-lamps/"
+      }
+     ],
+     "titleTR": "Eléonore Joulin'in oyunbaz seramikleri: Yapraklı yeşillikler ve ekmek somunları"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Sanat sergileri",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 24
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768245647",
+     "category": "",
+     "descriptionTR": "Beyaz Saray, ABD'nin İran'a hava saldırıları düzenleyebileceğini ancak diplomatik çözümü tercih ettiğini belirtiyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768245647",
+     "link": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/12/trump-administration-says-still-considering-military-strikes-on-iran?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Trump yönetimi İran'a askeri saldırı seçeneğini değerlendiriyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768242262",
+     "category": "",
+     "descriptionTR": "Dışişleri bakanı, Trump'ın ABD müdahalesi tehdidinin ardından Washington'un diyalog yolunu seçmesini umduğunu söyledi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768242262",
+     "link": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/12/iranian-fm-araghchi-warns-iran-ready-for-war-if-us-wants-to-test-it?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İran Dışişleri Bakanı Araghchi: ABD savaşı test etmek isterse hazırız"
+    },
+    {
+     "atomID": "https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311",
+     "category": "",
+     "descriptionTR": "Donald Trump, Grönland ile bir anlaşma yapmak istediğini ve Arktik bölgesinin kontrolünü Rusya veya Çin'e bırakmayacağını söyledi.",
+     "group": "",
+     "id": "https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311",
+     "link": "https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311"
+      }
+     ],
+     "titleTR": "Trump, Grönland'ı almak istiyor ama Rusya ve Çin'e bırakmayacak"
+    },
+    {
+     "atomID": "b2898535",
+     "category": "",
+     "descriptionTR": "ABD başkanı, rejimin göstericilere yönelik sert baskısını sürdürmesi halinde İran'a saldırı tehdidinde bulundu.",
+     "group": "",
+     "id": "b2898535",
+     "link": "https://www.independent.co.uk/news/world/middle-east/iran-protests-trump-israel-latest-news-b2898623.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/middle-east/iran-protests-trump-israel-latest-news-b2898623.html"
+      }
+     ],
+     "titleTR": "İran son durumu: Trump protestolar nedeniyle askeri saldırıdan korkmuyor ama diplomasiyi öncelik görüyor"
+    },
+    {
+     "atomID": "b2898935",
+     "category": "",
+     "descriptionTR": "Tahran, İran Dışişleri Bakanı Abbas Araghchi ile Trump elçisi Steve Witkoff arasındaki görüşmelerin ardından ABD'yi ciddiyetsizlikle suçladı.",
+     "group": "",
+     "id": "b2898935",
+     "link": "https://www.independent.co.uk/news/world/middle-east/iran-us-dialogue-trump-protests-b2898935.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-dialogue-trump-protests-b2898935.html"
+      }
+     ],
+     "titleTR": "Trump'ın protestolar nedeniyle ciddi askeri eylem tehdidinin ardından İran diyalog kapısını araladı"
+    },
+    {
+     "atomID": "https://en.mercopress.com/2026/01/14/us-military-intervention-in-iran-more-likely-by-the-hour?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "category": "",
+     "descriptionTR": "Beyaz Saray, Salı günü İran'a askeri müdahale yönünde bir değişim sinyali verdi; insan hakları gözlemcileri ise ölüm oranlarının yükseldiği ve toplu infazların yakın olduğu konusunda uyardı.",
+     "group": "",
+     "id": "https://en.mercopress.com/2026/01/14/us-military-intervention-in-iran-more-likely-by-the-hour?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "link": "https://en.mercopress.com/2026/01/14/us-military-intervention-in-iran-more-likely-by-the-hour?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/14/us-military-intervention-in-iran-more-likely-by-the-hour?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      }
+     ],
+     "titleTR": "ABD'nin İran'a askeri müdahalesi her an daha olası hale geliyor"
+    },
+    {
+     "atomID": "https://www.scmp.com/news/world/middle-east/article/3339934/trump-claims-killing-iran-has-stopped-even-tehran-signals-executions-ahead?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump, Çarşamba günü İran'daki infaz planlarının durduğuna dair 'güvenilir kaynaklardan' bilgi aldığını belirtti; ancak Tahran, göstericilere yönelik hızlı yargılamalar ve infazlar planladığını işaret etti. Trump'ın detay vermeyen iddiaları, son günlerde protestocu İranlılara 'yardım yolda' dediği ve yönetiminin İran hükümetine yanıt vereceğini söylediği açıklamalarının ardından geldi.",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/middle-east/article/3339934/trump-claims-killing-iran-has-stopped-even-tehran-signals-executions-ahead?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3339934/trump-claims-killing-iran-has-stopped-even-tehran-signals-executions-ahead?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3339934/trump-claims-killing-iran-has-stopped-even-tehran-signals-executions-ahead?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "Trump, İran'da öldürmelerin durduğunu iddia ediyor, Tahran ise infaz sinyalleri veriyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "ABD-İran gerilimi: Askeri tehditler ve diplomasi arayışları",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 25
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-12/danielle-scott-wins-aerials-gold-at-lake-placid/106219716",
+     "category": "",
+     "descriptionTR": "Avustralyalı Danielle Scott, İtalya'daki Olimpiyatlar'dan bir ay önce Lake Placid'deki Dünya Kupası etkinliğinde aerials dalında altın madalya kazanarak yaklaşık üç yıllık altın madalya hasretine son verdi.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-12/danielle-scott-wins-aerials-gold-at-lake-placid/106219716",
+     "link": "https://www.abc.net.au/news/2026-01-12/danielle-scott-wins-aerials-gold-at-lake-placid/106219716",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-12/danielle-scott-wins-aerials-gold-at-lake-placid/106219716"
+      }
+     ],
+     "titleTR": "Danielle Scott, Kış Olimpiyatları öncesi Dünya Kupası'nda altın madalya kazandı"
+    },
+    {
+     "atomID": "643ff8f0-f18e-11f0-9101-af980ba7d673",
+     "category": "",
+     "descriptionTR": "Bu akşamki maçta Sadio Mane, dramatik bir golle Senegal'i Mısır karşısında 1-0'lık galibiyetle Afrika Uluslar Kupası finaline taşıdı. Uganda'daki seçimler öncesi internetin kapatılması ise Birleşmiş Milletler tarafından \"derin endişe verici\" olarak nitelendirildi ve bilgiye açık erişimin önemi vurgulandı.",
+     "group": "",
+     "id": "643ff8f0-f18e-11f0-9101-af980ba7d673",
+     "link": "https://www.france24.com/en/sadio-mane-takes-senegal-past-egypt-into-afcon-final",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/sadio-mane-takes-senegal-past-egypt-into-afcon-final"
+      }
+     ],
+     "titleTR": "Sadio Mane, Senegal'i AFCON finaline taşıdı"
+    },
+    {
+     "atomID": "cc316c74-f17e-11f0-b7f5-03ce2355760b",
+     "category": "",
+     "descriptionTR": "Senegal, iki kez Afrika'da Yılın Futbolcusu seçilen Sadio Mané'nin ikinci yarıda attığı golle, yedi kez şampiyon olan Mısır'ı eleyerek Afrika Uluslar Kupası finaline yükseldi.",
+     "group": "",
+     "id": "cc316c74-f17e-11f0-b7f5-03ce2355760b",
+     "link": "https://www.france24.com/en/sport/20260114-sadio-man%C3%A9-fires-senegal-into-africa-cup-of-nations-final-with-win-over-egypt",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/sport/20260114-sadio-man%C3%A9-fires-senegal-into-africa-cup-of-nations-final-with-win-over-egypt"
+      }
+     ],
+     "titleTR": "Sadio Mané, Senegal'i Afrika Uluslar Kupası finaline taşıdı"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-17/matteo-berrettini-illness-australian-open-tennis-alex-de-minaur/106240240",
+     "category": "",
+     "descriptionTR": "Alex de Minaur'un ilk tur rakibi Matteo Berrettini, Avustralya Açık'ın başlangıcına kadar iyileşmek için zamanla yarışıyor.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-17/matteo-berrettini-illness-australian-open-tennis-alex-de-minaur/106240240",
+     "link": "https://www.abc.net.au/news/2026-01-17/matteo-berrettini-illness-australian-open-tennis-alex-de-minaur/106240240",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-17/matteo-berrettini-illness-australian-open-tennis-alex-de-minaur/106240240"
+      }
+     ],
+     "titleTR": "Berrettini, de Minaur ile Avustralya Açık maçı öncesi hastalıkla mücadele ediyor"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-16/adelaide-international-kimberly-birrell-victoria-mboko/106237590",
+     "category": "",
+     "descriptionTR": "Kimberly Birrell için, son zamanlarda formda olan genç yetenek Victoria Mboko'ya karşı mücadele etmek baştan zorlu bir görevdi.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-16/adelaide-international-kimberly-birrell-victoria-mboko/106237590",
+     "link": "https://www.abc.net.au/news/2026-01-16/adelaide-international-kimberly-birrell-victoria-mboko/106237590",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-16/adelaide-international-kimberly-birrell-victoria-mboko/106237590"
+      }
+     ],
+     "titleTR": "Birrell ve Preston, Avustralya Açık hazırlık turnuvasında yarı finalde elendi"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Spor müsabakaları",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 26
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768235029",
+     "category": "",
+     "descriptionTR": "Starmer'ın, Musk'ın X platformunun Grok üzerinde kontrol sağlaması gerektiğini söylemesinin ardından baskı arttı; Downing Street platformdan çekilme tehdidinde bulundu.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768235029",
+     "link": "https://www.aljazeera.com/news/2026/1/12/uk-to-investigate-elon-musks-grok-over-deeply-disturbing-deepfakes?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/12/uk-to-investigate-elon-musks-grok-over-deeply-disturbing-deepfakes?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Birleşik Krallık, Elon Musk'ın Grok'unu 'derin endişe verici' derin sahtekarlıklar nedeniyle soruşturacak"
+    },
+    {
+     "atomID": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+     "category": "",
+     "descriptionTR": "AI özetleri, uzmanlar tarafından endişe verici olarak nitelendirilen yanlış karaciğer testi bilgileri sağladı.",
+     "group": "",
+     "id": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+     "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/"
+      }
+     ],
+     "titleTR": "Google, tehlikeli kusurlar bulunan AI sağlık özetlerini kaldırdı"
+    },
+    {
+     "atomID": "https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/",
+     "category": "",
+     "descriptionTR": "AT&T ve Verizon, FCC cezalarıyla jüri yargılaması hakkının ihlal edildiğini iddia ediyor.",
+     "group": "",
+     "id": "https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/",
+     "link": "https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/"
+      }
+     ],
+     "titleTR": "Yüksek Mahkeme, FCC'nin ceza verme yetkisini elinden alabilecek davayı ele alıyor"
+    },
+    {
+     "atomID": "https://news.sky.com/story/myanmar-accused-of-genocide-against-rohingya-minority-in-landmark-un-case-13493404",
+     "category": "",
+     "descriptionTR": "Myanmar, bu hafta Birleşmiş Milletler mahkemesinde açılan bir davada Rohingya etnik azınlığına karşı soykırım yapmakla suçlanıyor.",
+     "group": "",
+     "id": "https://news.sky.com/story/myanmar-accused-of-genocide-against-rohingya-minority-in-landmark-un-case-13493404",
+     "link": "https://news.sky.com/story/myanmar-accused-of-genocide-against-rohingya-minority-in-landmark-un-case-13493404",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/myanmar-accused-of-genocide-against-rohingya-minority-in-landmark-un-case-13493404"
+      }
+     ],
+     "titleTR": "Myanmar, Rohingya azınlığına karşı soykırım yapmakla suçlanıyor"
+    },
+    {
+     "atomID": "https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/",
+     "category": "",
+     "descriptionTR": "Kaliforniya Başsavcısı, Musk'ın çıplaklaştırıcı botunun ABD yasalarını ihlal edip etmediğini araştıracak.",
+     "group": "",
+     "id": "https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/",
+     "link": "https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/"
+      }
+     ],
+     "titleTR": "Musk, Grok'un çıplak çocuk cinsel görüntüleri ürettiğini reddediyor"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3082852",
+     "category": "",
+     "descriptionTR": "Kaliforniya başsavcısı, Elon Musk'ın xAI'sini, Grok adlı sohbet botunun gerçek kadınlar ve hatta çocukların rızası olmadan cinsel görüntülerini üretmeye başlamasının ardından resmi bir soruşturma başlattı.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3082852",
+     "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/"
+      }
+     ],
+     "titleTR": "Musk, Grok'un reşit olmayan cinsel görüntüleri ürettiğini bilmediğini iddia ediyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Soruşturmalar ve incelemeler",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 27
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.thisiscolossal.com/?p=468002",
+     "category": "",
+     "descriptionTR": "Yayınladığımız makalelerdeki görselleri interaktif bir şekilde görmenin yeni bir yolunu ekledik. Hikayeler ve sanatçılar sizin için önemli mi? Bağımsız sanat yayıncılığını desteklemek için ayda sadece 7 dolara Colossal Üyesi olun.",
+     "group": "",
+     "id": "https://www.thisiscolossal.com/?p=468002",
+     "link": "https://www.thisiscolossal.com/2026/01/colossal-slideshow-image-feature/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Colossal",
+       "url": "https://www.thisiscolossal.com/2026/01/colossal-slideshow-image-feature/"
+      }
+     ],
+     "titleTR": "Colossal yeni görüntü slayt gösterisi özelliğini tanıttı"
+    },
+    {
+     "atomID": "https://arstechnica.com/gaming/2026/01/civilization-vii-is-headed-to-iphone-and-ipad-with-arcade-edition/",
+     "category": "",
+     "descriptionTR": "Apple'ın platformları, klasik arcade oyunlarının yer aldığı Retrocade kütüphanesini de alıyor.",
+     "group": "",
+     "id": "https://arstechnica.com/gaming/2026/01/civilization-vii-is-headed-to-iphone-and-ipad-with-arcade-edition/",
+     "link": "https://arstechnica.com/gaming/2026/01/civilization-vii-is-headed-to-iphone-and-ipad-with-arcade-edition/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/gaming/2026/01/civilization-vii-is-headed-to-iphone-and-ipad-with-arcade-edition/"
+      }
+     ],
+     "titleTR": "Civilization VII, iPhone ve iPad'e 'Arcade Edition' ile geliyor"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3082820",
+     "category": "",
+     "descriptionTR": "Netflix, YouTube'un podcast alanındaki hakimiyetini kırmaya çalışırken, Pete Davidson ve Michael Irvin'in yer aldığı yeni orijinal içeriklerle geliyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3082820",
+     "link": "https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/01/14/netflixs-first-original-video-podcasts-feature-pete-davidson-and-michael-irvin/"
+      }
+     ],
+     "titleTR": "Netflix'in ilk orijinal video podcast'lerinde Pete Davidson ve Michael Irvin yer alıyor"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3082570",
+     "category": "",
+     "descriptionTR": "Daha önceki bir sosyal haber sitesinin yeniden başlatılması olan Digg, şimdi topluluklara odaklanan bir Reddit rakibi olarak yeniden piyasaya sürülüyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3082570",
+     "link": "https://techcrunch.com/2026/01/14/digg-launches-its-new-reddit-rival-to-the-public/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/01/14/digg-launches-its-new-reddit-rival-to-the-public/"
+      }
+     ],
+     "titleTR": "Digg, Reddit rakibi olarak yeniden piyasaya sürüldü"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Yeni teknoloji lansmanları",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 28
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768242499",
+     "category": "",
+     "descriptionTR": "Donald Trump'ın Grönland'ı ele geçirme tehditleri, adalıları, Danimarka'yı, Avrupa Birliği'ni ve NATO'yu tedirgin ediyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768242499",
+     "link": "https://www.aljazeera.com/video/inside-story/2026/1/12/could-the-us-really-take-over-greenland?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/inside-story/2026/1/12/could-the-us-really-take-over-greenland?traffic_source=rss"
+      }
+     ],
+     "titleTR": "ABD gerçekten Grönland'ı ele geçirebilir mi?"
+    },
+    {
+     "atomID": "056315ee-eff7-11f0-8a87-33b493b6f75e",
+     "category": "",
+     "descriptionTR": "Grönland hükümeti, ABD Başkanı Donald Trump'ın Amerika Birleşik Devletleri'nin Grönland'ı 'bir şekilde' alacağını söylemesinin ardından, Pazartesi günü yaptığı açıklamada, Arktik adasının ABD tarafından 'herhangi bir koşulda' ele geçirilmesini kabul edemeyeceğini belirtti. FRANCE 24'ten Monte Francis bildiriyor.",
+     "group": "",
+     "id": "056315ee-eff7-11f0-8a87-33b493b6f75e",
+     "link": "https://www.france24.com/en/greenland-rejects-us-takeover-under-any-circumstance-government-says",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/greenland-rejects-us-takeover-under-any-circumstance-government-says"
+      }
+     ],
+     "titleTR": "Grönland, ABD'nin ele geçirme teklifini 'her koşulda' reddediyor"
+    },
+    {
+     "atomID": "https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311",
+     "category": "",
+     "descriptionTR": "Donald Trump, Grönland ile bir anlaşma yapmak istediğini ve Rusya veya Çin'in Arktik bölgesini kontrol etmesine izin vermeyeceğini söyledi.",
+     "group": "",
+     "id": "https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311",
+     "link": "https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/trump-wants-a-deal-but-insists-us-will-acquire-greenland-one-way-or-the-other-13493311"
+      }
+     ],
+     "titleTR": "Trump anlaşma istiyor ama ABD'nin Grönland'ı 'bir şekilde' alacağını söylüyor"
+    },
+    {
+     "atomID": "41ef5236-f17b-11f0-899f-03ce2355760b",
+     "category": "",
+     "descriptionTR": "Oval Ofis'te televizyon için hazırlanmış bir drama yok; ABD Başkan Yardımcısı JD Vance, ABD Dışişleri Bakanı Marco Rubio ve Grönland ile Danimarka'nın dışişleri bakanları bir araya geldi. Trump yönetiminin Kopenhag'a Arktik bağımlılığı teslim etmesi için yaptığı baskıyı soracağız.",
+     "group": "",
+     "id": "41ef5236-f17b-11f0-899f-03ce2355760b",
+     "link": "https://www.france24.com/en/tv-shows/the-debate/20260114-why-greenland-trump-ups-pressure-as-denmark-dispatches-top-diplomat",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/tv-shows/the-debate/20260114-why-greenland-trump-ups-pressure-as-denmark-dispatches-top-diplomat"
+      }
+     ],
+     "titleTR": "Neden Grönland? Trump baskıyı artırıyor, Danimarka üst düzey diplomatını gönderiyor"
+    },
+    {
+     "atomID": "34f910b4-f15b-11f0-a847-c5c22ca8a472",
+     "category": "",
+     "descriptionTR": "Grönland ve Danimarka, Çarşamba günü Beyaz Saray'da ABD diplomatlarıyla yapılan 'açık, yapıcı' bir görüşmenin ardından ABD Başkanı Donald Trump'ın özerk bölgeyi satın alma arzusuyla ilgili olarak 'anlaşmazlıkta anlaştıklarını' söyledi.",
+     "group": "",
+     "id": "34f910b4-f15b-11f0-a847-c5c22ca8a472",
+     "link": "https://www.france24.com/en/americas/20260114-watch-live-denmark-greenland-fms-give-press-conference-after-white-house-meeting",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/americas/20260114-watch-live-denmark-greenland-fms-give-press-conference-after-white-house-meeting"
+      }
+     ],
+     "titleTR": "Danimarkalı yetkili, Grönland konusunda ABD ile 'temel anlaşmazlık' olduğunu belirtti"
+    },
+    {
+     "atomID": "https://news.sky.com/story/trump-restates-desire-to-take-over-greenland-as-poll-finds-most-americans-are-against-it-13494203",
+     "category": "",
+     "descriptionTR": "Donald Trump, Grönland'ı ABD için 'ulusal güvenlik amacıyla' ele geçirme isteğini bir kez daha dile getirdi ve bunun dışında bir şeyin 'kabul edilemez' olduğunu söyledi; oysa bir anket, Amerikalıların beşte birinden azının bu fikri desteklediğini ortaya koydu.",
+     "group": "",
+     "id": "https://news.sky.com/story/trump-restates-desire-to-take-over-greenland-as-poll-finds-most-americans-are-against-it-13494203",
+     "link": "https://news.sky.com/story/trump-restates-desire-to-take-over-greenland-as-poll-finds-most-americans-are-against-it-13494203",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/trump-restates-desire-to-take-over-greenland-as-poll-finds-most-americans-are-against-it-13494203"
+      }
+     ],
+     "titleTR": "Trump, Grönland'ı ele geçirme isteğini yineledi, anket Amerikalıların çoğunun karşı olduğunu gösteriyor"
+    },
+    {
+     "atomID": "tag:theatlantic.com,2026:50-685616",
+     "category": "",
+     "descriptionTR": "Donald Trump, hem bir kişi hem de bir başkan olarak birçok tuhaf saplantıya sahip. Beyaz Saray'ın Doğu Kanadı'nın yıkılması, Meksika Körfezi'nin yeniden adlandırılması gibi konulara odaklanıyor. Ancak Trump'ın Grönland'ı Danimarka'dan ele geçirme kararlılığı, belki de en tehlikeli saplantısı olabilir. Trump'ın bu tehdidi gerçekleştirmesi, Amerika'nın en önemli ittifakını parçalayabilir ve küresel bir felakete yol açabilir.",
+     "group": "",
+     "id": "tag:theatlantic.com,2026:50-685616",
+     "link": "https://www.theatlantic.com/ideas/2026/01/trump-greenland-risk-global-conflict/685616/?utm_source=feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Atlantic",
+       "url": "https://www.theatlantic.com/ideas/2026/01/trump-greenland-risk-global-conflict/685616/?utm_source=feed"
+      }
+     ],
+     "titleTR": "Trump küresel bir felaketi riske atıyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Grönland üzerindeki jeopolitik ilgi",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 29
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://arstechnica.com/space/2026/01/nasas-newest-telescope-will-play-an-outsize-role-in-finding-earth-2-0/",
+     "category": "",
+     "descriptionTR": "\"Bu sorunun ne kadar ciddi olduğu 2017 veya 2018 yılına kadar fark edilmedi.\"",
+     "group": "",
+     "id": "https://arstechnica.com/space/2026/01/nasas-newest-telescope-will-play-an-outsize-role-in-finding-earth-2-0/",
+     "link": "https://arstechnica.com/space/2026/01/nasas-newest-telescope-will-play-an-outsize-role-in-finding-earth-2-0/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/space/2026/01/nasas-newest-telescope-will-play-an-outsize-role-in-finding-earth-2-0/"
+      }
+     ],
+     "titleTR": "NASA, James Webb Uzay Teleskobu'ndan en iyi şekilde yararlanmak için yeni bir görev başlattı"
+    },
+    {
+     "atomID": "2511484-china-has-applied-to-launch-200000-satellites-but-what-are-they-for|2511484",
+     "category": "",
+     "descriptionTR": "Çin'in Uluslararası Telekomünikasyon Birliği'ne yaptığı başvuru, şimdiye kadar inşa edilen en büyük uydu mega takımyıldızını planladığını gösteriyor - ancak burada başka bir şey olabilir.",
+     "group": "",
+     "id": "2511484-china-has-applied-to-launch-200000-satellites-but-what-are-they-for|2511484",
+     "link": "https://www.newscientist.com/article/2511484-china-has-applied-to-launch-200000-satellites-but-what-are-they-for/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2511484-china-has-applied-to-launch-200000-satellites-but-what-are-they-for/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "Çin, 200.000 uydu fırlatmak için başvurdu, ama amaç ne?"
+    },
+    {
+     "atomID": "https://www.scmp.com/tech/tech-trends/article/3339901/openai-expects-another-seismic-shock-china-amid-speculation-new-deepseek-release?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "ABD ve Çin arasındaki yapay zeka endüstrisini domine etme yarışı, ChatGPT'nin yaratıcısı OpenAI'ye göre \"karmaşık ve tahmin edilmesi zor\" hale geldi. DeepSeek'in çığır açan akıl yürütme modeli R1'in 20 Ocak'taki ilk yıl dönümü öncesinde yayınlanan bir blog yazısında, OpenAI, Çin'den yeni bir 'sismik şok' olabileceğini belirtti. Hangzhou merkezli girişimin, Ay Yeni Yılı öncesinde büyük bir yeni sürüm çıkarabileceği yönündeki beklentiler arttı.",
+     "group": "",
+     "id": "https://www.scmp.com/tech/tech-trends/article/3339901/openai-expects-another-seismic-shock-china-amid-speculation-new-deepseek-release?utm_source=rss_feed",
+     "link": "https://www.scmp.com/tech/tech-trends/article/3339901/openai-expects-another-seismic-shock-china-amid-speculation-new-deepseek-release?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/tech/tech-trends/article/3339901/openai-expects-another-seismic-shock-china-amid-speculation-new-deepseek-release?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "OpenAI, Çin'den yeni bir 'sismik şok' bekliyor"
+    },
+    {
+     "atomID": "https://www.scmp.com/opinion/china-opinion/article/3339604/high-seas-treaty-chance-china-lead-marine-conservation?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "17 Ocak'ta, dünya okyanuslarının yaklaşık üçte ikisinde sessiz bir devrim gerçekleşecek. Yüksek Denizler Antlaşması olarak bilinen Birleşmiş Milletler'in çığır açan anlaşması, uluslararası sularda deniz biyoçeşitliliğini korumak için ilk yasal bağlayıcı küresel çerçeveyi oluşturacak. İlk kez, ulusal yetki alanlarının ötesindeki faaliyetler – endüstriyel balıkçılıktan derin deniz madenciliğine ve biyolojik keşiflere kadar – çevresel etki değerlendirmelerine tabi olacak.",
+     "group": "",
+     "id": "https://www.scmp.com/opinion/china-opinion/article/3339604/high-seas-treaty-chance-china-lead-marine-conservation?utm_source=rss_feed",
+     "link": "https://www.scmp.com/opinion/china-opinion/article/3339604/high-seas-treaty-chance-china-lead-marine-conservation?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/opinion/china-opinion/article/3339604/high-seas-treaty-chance-china-lead-marine-conservation?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "Yüksek Denizler Antlaşması, Çin için deniz korumada liderlik şansı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Uzay ve uydu girişimleri",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 30
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/c89qyv98lzdo#0",
+     "category": "",
+     "descriptionTR": "Nicki'nin gözü çökmüştü, ancak yeni bir jel enjeksiyon yöntemi sayesinde görme yetisi kurtarıldı.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c89qyv98lzdo#0",
+     "link": "https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Devrim niteliğindeki göz enjeksiyonu görme yetimi kurtardı"
+    },
+    {
+     "atomID": "2511053-is-there-an-evolutionary-reason-for-same-sex-sexual-behaviour|2511053",
+     "category": "",
+     "descriptionTR": "Maymunlar ve şempanzeler arasında yaygın olan eşcinsel davranışlar, geniş kapsamlı bir analizle hayatta kalma şansını artırdığına işaret ediyor.",
+     "group": "",
+     "id": "2511053-is-there-an-evolutionary-reason-for-same-sex-sexual-behaviour|2511053",
+     "link": "https://www.newscientist.com/article/2511053-is-there-an-evolutionary-reason-for-same-sex-sexual-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2511053-is-there-an-evolutionary-reason-for-same-sex-sexual-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "Eşcinsel davranışın evrimsel bir nedeni var mı?"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm",
+     "category": "",
+     "descriptionTR": "Araştırmacılar, hafif bilişsel bozukluğu olan kişilerin Alzheimer geliştirme olasılığını tahmin edebilen bir beyin aktivitesi deseni keşfetti. Noninvaziv bir beyin tarama tekniği ve özel bir analiz aracı kullanarak, teşhisten yıllar önce hafıza işlemesiyle ilgili elektrik sinyallerindeki ince değişiklikleri tespit ettiler. Bulgular, Alzheimer'ı erken tespit etmenin yeni bir yolunu işaret ediyor.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm"
+      }
+     ],
+     "titleTR": "Gizli beyin sinyali Alzheimer'ı erken tespit edebilir"
+    },
+    {
+     "atomID": "https://www.sciencedaily.com/releases/2026/01/260114084125.htm",
+     "category": "",
+     "descriptionTR": "Araştırmacılar, bebekleri erken yaşta etkileyen nadir bir diyabet türü keşfetti. Bu durum, insülin üreten hücrelerin düzgün çalışmasını engelleyen tek bir gendeki değişikliklerden kaynaklanıyor. Bu hücreler başarısız olduğunda, kan şekeri yükseliyor ve diyabet, genellikle nörolojik sorunlarla birlikte gelişiyor. Bulgular, uzun süredir devam eden bir tıbbi gizemi açıklamaya yardımcı oluyor ve diyabetin genel anlayışını derinleştiriyor.",
+     "group": "",
+     "id": "https://www.sciencedaily.com/releases/2026/01/260114084125.htm",
+     "link": "https://www.sciencedaily.com/releases/2026/01/260114084125.htm",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ScienceDaily",
+       "url": "https://www.sciencedaily.com/releases/2026/01/260114084125.htm"
+      }
+     ],
+     "titleTR": "Bilim insanları yenidoğanlarda gizli bir diyabet türü keşfetti"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Bilimsel keşifler",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 31
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/c78e07m02jzo#1",
+     "category": "",
+     "descriptionTR": "Marty Supreme yıldızı, Altın Küre'de büyük kazananlar arasında yer aldı ve Oscar yolculuğunda önemli bir adım attı.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c78e07m02jzo#1",
+     "link": "https://www.bbc.com/news/articles/c78e07m02jzo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/c78e07m02jzo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Chalamet, DiCaprio'yu geride bırakarak Altın Küre zaferi kazandı"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/01/12/shortlist-announced-for-prix-marcel-duchamp-frances-biggest-art-prize",
+     "category": "",
+     "descriptionTR": "Beş sanatçı, kazanana 35.000 € ve Paris Modern Sanat Müzesi'nde bir sergi sunan ödül için yarışıyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/01/12/shortlist-announced-for-prix-marcel-duchamp-frances-biggest-art-prize",
+     "link": "https://www.theartnewspaper.com/2026/01/12/shortlist-announced-for-prix-marcel-duchamp-frances-biggest-art-prize",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/01/12/shortlist-announced-for-prix-marcel-duchamp-frances-biggest-art-prize"
+      }
+     ],
+     "titleTR": "Fransa'nın en büyük sanat ödülü Prix Marcel Duchamp için kısa liste açıklandı"
+    },
+    {
+     "atomID": "https://www.japantimes.co.jp/article/636126/",
+     "category": "",
+     "descriptionTR": "Paul Thomas Anderson'ın screwball gerilim filmi ve TV'nin gençlik cinayet dizisi 'Adolescence' dörder ödül aldı, ancak gecenin son ödülü en büyük sürprizi oldu.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/636126/",
+     "link": "https://www.japantimes.co.jp/culture/2026/01/12/entertainment-news/golden-globes-winners/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/culture/2026/01/12/entertainment-news/golden-globes-winners/"
+      }
+     ],
+     "titleTR": "'One Battle After Another' ve 'Hamnet' Altın Küre'de zafer kazandı"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-14/geraldton-windsurfing-junior-world-champion-sarah-kenyon/106204048",
+     "category": "",
+     "descriptionTR": "Geraldton'dan rüzgar sörfçüsü Sarah Kenyon, sporun dünya gençler şampiyonasında sıkı bir mücadele sonrası zafer kazandı; bu şampiyona ilk kez bölgesel Batı Avustralya'da düzenlendi.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-14/geraldton-windsurfing-junior-world-champion-sarah-kenyon/106204048",
+     "link": "https://www.abc.net.au/news/2026-01-14/geraldton-windsurfing-junior-world-champion-sarah-kenyon/106204048",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-14/geraldton-windsurfing-junior-world-champion-sarah-kenyon/106204048"
+      }
+     ],
+     "titleTR": "Batı Avustralyalı rüzgar sörfçüsü, dünya gençler şampiyonluğunu evinde kazandı"
+    },
+    {
+     "atomID": "https://news.sky.com/story/amateur-tennis-player-jordan-smith-beats-jannik-sinner-as-he-wins-one-point-slam-in-australia-13494256",
+     "category": "",
+     "descriptionTR": "Bir amatör tenisçi, dünya ikincisi Jannik Sinner'ı yenerek kendisine milyon dolarlık bir ödül kazandırdı.",
+     "group": "",
+     "id": "https://news.sky.com/story/amateur-tennis-player-jordan-smith-beats-jannik-sinner-as-he-wins-one-point-slam-in-australia-13494256",
+     "link": "https://news.sky.com/story/amateur-tennis-player-jordan-smith-beats-jannik-sinner-as-he-wins-one-point-slam-in-australia-13494256",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/amateur-tennis-player-jordan-smith-beats-jannik-sinner-as-he-wins-one-point-slam-in-australia-13494256"
+      }
+     ],
+     "titleTR": "Amatör tenisçi, dünya ikincisi Sinner'ı yenerek milyon dolarlık ödülü kazandı"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/01/14/united-states-artists-reveals-fellows-2026",
+     "category": "",
+     "descriptionTR": "Görsel sanatçılar, dansçılar, yazarlar ve film yapımcıları dahil 50 alıcıdan her biri, 50.000 $'lık sınırsız bir hibe alacak.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/01/14/united-states-artists-reveals-fellows-2026",
+     "link": "https://www.theartnewspaper.com/2026/01/14/united-states-artists-reveals-fellows-2026",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/01/14/united-states-artists-reveals-fellows-2026"
+      }
+     ],
+     "titleTR": "United States Artists, 2026 bursiyerlerini açıkladı"
+    },
+    {
+     "atomID": "https://www.japantimes.co.jp/article/636237/",
+     "category": "",
+     "descriptionTR": "Ocak 2026'da Akutagawa ve Naoki Ödülleri, Makoto Toriyama, Ushio Hatakeyama ve Teru Shimazu'ya verildi.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/636237/",
+     "link": "https://www.japantimes.co.jp/culture/2026/01/14/books/akutagawa-prize-2026/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/culture/2026/01/14/books/akutagawa-prize-2026/"
+      }
+     ],
+     "titleTR": "Zaman ve tarih, Japonya'nın en prestijli kitap ödüllerinde büyük kazandı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Ödüller ve takdirler",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 32
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/business/china-business/article/3339544/chinas-weight-loss-drug-war-prices-slashed-80-obesity-crisis-worsens?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "Çin'de obezite krizi derinleşirken, yabancı ve yerli ilaç üreticileri, milyarlarca dolarlık kilo verme pazarında pay kapmak için fiyatları %80'e kadar düşürüyor. Novo Nordisk ve Eli Lilly gibi küresel ilaç devlerinin egemen olduğu sektörde rekabet, her iki şirketin de 2024'te Çin'de obezite ilaçları için onay almasıyla arttı. Novo Nordisk'in semaglutid patentinin Mart ayında Çin'de sona ermesiyle birlikte sektörün daha da değişmesi bekleniyor.",
+     "group": "",
+     "id": "https://www.scmp.com/business/china-business/article/3339544/chinas-weight-loss-drug-war-prices-slashed-80-obesity-crisis-worsens?utm_source=rss_feed",
+     "link": "https://www.scmp.com/business/china-business/article/3339544/chinas-weight-loss-drug-war-prices-slashed-80-obesity-crisis-worsens?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/business/china-business/article/3339544/chinas-weight-loss-drug-war-prices-slashed-80-obesity-crisis-worsens?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "Çin'de kilo verme ilaçlarında fiyat savaşı: Obezite krizi derinleşirken fiyatlar %80'e kadar düştü"
+    },
+    {
+     "atomID": "https://www.japantimes.co.jp/article/635203/",
+     "category": "",
+     "descriptionTR": "İlaç ve Tıbbi Cihazlar Ajansı'na göre, bazı kişilerin yan etkiler yaşadığına dair raporlar var.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/635203/",
+     "link": "https://www.japantimes.co.jp/news/2026/01/12/japan/society/diabetes-drug-weight-loss/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/01/12/japan/society/diabetes-drug-weight-loss/"
+      }
+     ],
+     "titleTR": "Doktorlar, kilo vermek için diyabet ilacı kullanımının risklerine karşı uyarıyor"
+    },
+    {
+     "atomID": "https://news.mongabay.com/?p=312938",
+     "category": "",
+     "descriptionTR": "JAKARTA — Endonezya, resmi olarak orman alanı olarak belirlenmiş bölgelerde plantasyon, madencilik veya diğer faaliyetler için kullanılan ülke genelinde 4 milyon hektardan fazla araziyi geri kazandı. Devam eden bu operasyon, yasa dışı kullanıma karşı ülkenin şimdiye kadarki en kapsamlı uygulama hamlesi.",
+     "group": "",
+     "id": "https://news.mongabay.com/?p=312938",
+     "link": "https://news.mongabay.com/2026/01/indonesia-says-4-million-hectares-of-plantation-mining-lands-reclaimed-in-crackdown/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Mongabay",
+       "url": "https://news.mongabay.com/2026/01/indonesia-says-4-million-hectares-of-plantation-mining-lands-reclaimed-in-crackdown/"
+      }
+     ],
+     "titleTR": "Endonezya, 4 milyon hektar plantasyon ve maden arazisini geri kazandı"
+    },
+    {
+     "atomID": "https://news.mongabay.com/?p=313048",
+     "category": "",
+     "descriptionTR": "Kolombiya'da ormansızlaşmanın 2025'te azaldığı görülüyor, tarihsel olarak orman kaybıyla mücadele eden birkaç bölgede kayda değer düşüşler yaşandı. Yılın ilk üç çeyreğinde tahminen 36,280 hektar orman kaybedildi, bu da aynı dönemde kaydedilen 48,500 hektara göre %25'lik bir düşüşe işaret ediyor.",
+     "group": "",
+     "id": "https://news.mongabay.com/?p=313048",
+     "link": "https://news.mongabay.com/2026/01/colombia-poised-for-another-drop-in-deforestation-in-2025-data-show/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Mongabay",
+       "url": "https://news.mongabay.com/2026/01/colombia-poised-for-another-drop-in-deforestation-in-2025-data-show/"
+      }
+     ],
+     "titleTR": "Kolombiya'da 2025'te ormansızlaşmada düşüş bekleniyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Sağlık ve çevre sorunları gündemde",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 33
+  }
+ ],
+ "superPackets": [
+  {
+   "slots": [
+    2,
+    22,
+    25
+   ],
+   "spot": "Bu hafta, Trump yönetiminin tarifeleri uygulaması ve askeri seçenekleri değerlendirmesiyle ABD ve İran arasındaki gerginlikler tırmandı; aynı zamanda diplomatik jestler de gündeme geldi.",
+   "title": "Trump yönetiminde ABD-İran ilişkileri"
+  },
+  {
+   "slots": [
+    8,
+    15
+   ],
+   "spot": "Bu hafta, Rusya-Ukrayna çatışmasında askeri hareketlilik ve stratejik zorluklar öne çıktı. Dikkatler, Rusya'nın füze saldırıları ile Ukrayna'nın hava savunma ve enerji sıkıntılarına odaklanıyor.",
+   "title": "Rusya-Ukrayna çatışmasında artan gerilim ve altyapı zorlukları"
+  },
+  {
+   "slots": [
+    9,
+    16
+   ],
+   "spot": "Bu hafta ABD, 75 ülke için vize işlemlerini askıya alarak ve uygulama önlemlerini artırarak göçmenlik önlemlerini yoğunlaştırdı; bu durum önemli toplumsal tepkilere yol açtı.",
+   "title": "ABD'nin göçmenlik önlemleri ve toplumsal tepkiler"
+  },
+  {
+   "slots": [
+    17,
+    29
+   ],
+   "spot": "Bu hafta, Grönland'ın jeopolitik önemi nedeniyle ABD ve Danimarka arasında gerilimler arttı. ABD'nin bölgedeki emelleri ve Danimarka'nın kararlı karşı çıkışı, diplomatik çabaları zorladı.",
+   "title": "ABD ile Danimarka arasında Groenland gerilimi"
+  },
+  {
+   "slots": [
+    20,
+    23
+   ],
+   "spot": "İran'ın protestoları bastırmasına yönelik küresel dikkat artıyor; uluslararası kuruluşlar ve ülkeler rejimin eylemlerine tepki gösteriyor. Kaynaklar, devam eden huzursuzluğa karşı diplomatik ve kamusal tepkilere odaklanıyor.",
+   "title": "İran'daki protesto baskısına uluslararası tepkiler"
+  }
+ ],
+ "week": "2026-W03"
+}

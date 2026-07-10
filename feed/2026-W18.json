@@ -1,0 +1,322 @@
+{
+ "label": "27 NİSAN - 3 MAYIS",
+ "publishedAt": "2026-07-09T22:53:57Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1777499763",
+     "category": "",
+     "descriptionTR": "Gazze'ye yardım götüren bir misyonun organizatörleri, gemilerinin İsrail askeri sürat tekneleri tarafından durdurulduğunu belirtiyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1777499763",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail, Gazze'ye giden Global Sumud Filosu'nu durdurdu"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1777498857",
+     "category": "",
+     "descriptionTR": "Gazze'ye abluka altında yardım götürmeyi amaçlayan filodaki 58 gemiden yedisi, Girit yakınlarında İsrail tarafından durduruldu.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1777498857",
+     "link": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail, Global Sumud gemilerini durdurdu ve aktivistlerden misyonu sonlandırmalarını istedi"
+    }
+   ],
+   "packetSpot": "İsrail, Gazze'ye doğru yola çıkan yardım gemilerini durdurarak aktivistlerden misyonlarını sonlandırmalarını istedi.",
+   "packetTitle": "Gazzeye yardım götüren filonun İsrail tarafından durdurulması",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "urn:id:8554",
+     "category": "",
+     "descriptionTR": "Nijerya'daki yemyeşil bir korunun derinliklerinde, bir sanatçı topluluğu Yorùbá ruhaniyetine ait olağanüstü anıtları koruyor.",
+     "group": "",
+     "id": "urn:id:8554",
+     "link": "https://aeon.co/videos/yoruba-spirituality-inspires-surreal-sculptures-in-this-sacred-grove",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Aeon Essays",
+       "url": "https://aeon.co/videos/yoruba-spirituality-inspires-surreal-sculptures-in-this-sacred-grove"
+      }
+     ],
+     "titleTR": "Afrika'nın kültürel simgeleri: Nijerya'daki Ọṣun-Òṣogbo Kutsal Korusu"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/05/01/paul-mccarthy-the-world-is-now-an-extreme-absurdity-the-work-is-a-reaction-to-that",
+     "category": "",
+     "descriptionTR": "Paris'te açılan sergisinde, deneyimli provokatör Paul McCarthy, Noel Baba motifine dönüşünü ve Alman oyuncu Lilith Stangenberg ile süregelen işbirliğini anlatıyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/05/01/paul-mccarthy-the-world-is-now-an-extreme-absurdity-the-work-is-a-reaction-to-that",
+     "link": "https://www.theartnewspaper.com/2026/05/01/paul-mccarthy-the-world-is-now-an-extreme-absurdity-the-work-is-a-reaction-to-that",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/05/01/paul-mccarthy-the-world-is-now-an-extreme-absurdity-the-work-is-a-reaction-to-that"
+      }
+     ],
+     "titleTR": "Paul McCarthy: 'Dünya artık aşırı bir saçmalık. İşlerim buna bir tepki'"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/05/01/exhibition-unearths-the-etruscans-and-their-enduring-cultural-influence",
+     "category": "",
+     "descriptionTR": "San Francisco'daki Legion of Honor'da, etkili medeniyeti keşfeden bir sergide yaklaşık 200 obje sergilenecek.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/05/01/exhibition-unearths-the-etruscans-and-their-enduring-cultural-influence",
+     "link": "https://www.theartnewspaper.com/2026/05/01/exhibition-unearths-the-etruscans-and-their-enduring-cultural-influence",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/05/01/exhibition-unearths-the-etruscans-and-their-enduring-cultural-influence"
+      }
+     ],
+     "titleTR": "ABD'deki sergi Etrüskleri ve kalıcı kültürel etkilerini gün yüzüne çıkarıyor"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/05/01/nancy-holts-land-art-lands-in-the-uk",
+     "category": "",
+     "descriptionTR": "Goodwood Art Foundation, ABD'li sanatçının İngiltere'deki ilk büyük sergisine ev sahipliği yapıyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/05/01/nancy-holts-land-art-lands-in-the-uk",
+     "link": "https://www.theartnewspaper.com/2026/05/01/nancy-holts-land-art-lands-in-the-uk",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/05/01/nancy-holts-land-art-lands-in-the-uk"
+      }
+     ],
+     "titleTR": "Kozmik, beton, toprak: Nancy Holt'un Arazi Sanatı İngiltere'de sergileniyor"
+    },
+    {
+     "atomID": "https://www.theartnewspaper.com/2026/05/01/gallery-weekend-berlin-perspectives",
+     "category": "",
+     "descriptionTR": "Perspectives adlı yeni bir bölüm, etkinliği tazelemek ve elitizm suçlamalarıyla mücadele etmek için yedi genç galeriyi davet ediyor.",
+     "group": "",
+     "id": "https://www.theartnewspaper.com/2026/05/01/gallery-weekend-berlin-perspectives",
+     "link": "https://www.theartnewspaper.com/2026/05/01/gallery-weekend-berlin-perspectives",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Art Newspaper",
+       "url": "https://www.theartnewspaper.com/2026/05/01/gallery-weekend-berlin-perspectives"
+      }
+     ],
+     "titleTR": "Berlin Galeri Haftası, kimlik kriziyle yüzleşirken saflarını açıyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Kültürel sergiler",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1777261511",
+     "category": "",
+     "descriptionTR": "Eski Tokyo Electron çalışanı 10 yıl hapis cezası alırken, diğer dört sanık 10 ay ile altı yıl arasında değişen cezalar aldı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1777261511",
+     "link": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Taiwan'da TSMC ticari sırlar davasında hapis cezaları verildi"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3117278",
+     "category": "",
+     "descriptionTR": "Musk'ın daha önce röportajlarda ve Walter Isaacson'un çok satan biyografisinde anlattığı hikaye, Salı günü ilk kez yemin altında dile getirildi.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3117278",
+     "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/"
+      }
+     ],
+     "titleTR": "OpenAI davasında Musk eski bir dostluğu yeniden gündeme getiriyor"
+    },
+    {
+     "atomID": "https://news.mongabay.com/?post_type=short-article&p=318573",
+     "category": "",
+     "descriptionTR": "Isiolo'daki Çevre ve Arazi Mahkemesi, İngiliz petrol devi BP'ye karşı açılan toplu davanın tam duruşmaya geçmesine karar verdi. Dava, 1980'lerdeki petrol aramalarından kalan zehirli atıkların Kenya'nın kuzeyinde yer altı sularını kirlettiği ve 500'den fazla insan ile binlerce hayvanın ölümüne yol açtığı iddiasını içeriyor.",
+     "group": "",
+     "id": "https://news.mongabay.com/?post_type=short-article&p=318573",
+     "link": "https://news.mongabay.com/short-article/2026/05/kenyan-court-allows-landmark-bp-toxic-waste-lawsuit-to-proceed/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Mongabay",
+       "url": "https://news.mongabay.com/short-article/2026/05/kenyan-court-allows-landmark-bp-toxic-waste-lawsuit-to-proceed/"
+      }
+     ],
+     "titleTR": "Kenya Mahkemesi, BP'nin zehirli atık davasının devamına izin verdi"
+    }
+   ],
+   "packetSpot": "Ticari sırlar, kişisel anlaşmazlıklar ve çevre davalarını içeren önemli davalar dünya genelinde devam ediyor.",
+   "packetTitle": "Dikkat çeken davalar",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1777248860",
+     "category": "",
+     "descriptionTR": "Washington ve Tahran'ın Pakistan'da ikinci tur görüşmeleri gerçekleştirememesi üzerine Brent petrol fiyatları yüzde 2'den fazla artış gösterdi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1777248860",
+     "link": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss"
+      }
+     ],
+     "titleTR": "ABD-İran barış görüşmelerinin duraksaması petrol fiyatlarını etkiliyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1777645266",
+     "category": "",
+     "descriptionTR": "Uzun zamandır beklenen anlaşma, 720 milyon potansiyel tüketici ile dünyanın en büyük serbest ticaret alanlarından birini oluşturuyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1777645266",
+     "link": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss"
+      }
+     ],
+     "titleTR": "AB'nin Mercosur ile ticaret anlaşması geçici olarak yürürlüğe girdi"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Uluslararası anlaşmalar ve ticaret dinamikleri",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "tag:theatlantic.com,2026:50-686997",
+     "category": "",
+     "descriptionTR": "James Jackson Kilpatrick, okul ayrımcılığını yasaklayan Yüksek Mahkeme kararını bir 'devrimci eylem' olarak nitelendirmişti. 1964 tarihli Medeni Haklar Yasası'nın bireysel özgürlüğü yok edeceğini savundu. Kilpatrick, 1965'teki bir yazısında, Oy Hakları Yasası'nın Anayasayı iptal edeceğini iddia etti. Bu görüşler, Louisiana v. Callais davasındaki Yüksek Mahkeme kararının arka planını oluşturuyor. Mahkeme, Louisiana'nın yeniden çizdiği seçim bölgelerinin 'anayasaya aykırı ırksal gerrymandering' olduğunu belirtti. Ancak, kararın etkisi, ırksal ayrımcılığı yasaklayan Oy Hakları Yasası'nın yeniden yazılması anlamına geliyor. Adalet Samuel Alito, siyasi avantajın ırksal olmayan bir amaç olarak kabul edilebileceğini belirtti. Bu karar, beyazların siyasi üstünlüğünü koruma çabası olarak değerlendiriliyor. Alito'nun görüşüne göre, siyah seçmenlerin Demokratları desteklemesi, ırksal ayrımcılığın siyasi bir amaç olarak görülmesine neden oluyor. Bu durum, azınlık seçmenlerin gücünü azaltabilir ve daha az beyaz olmayan temsilcinin Kongre'de yer almasına yol açabilir.",
+     "group": "",
+     "id": "tag:theatlantic.com,2026:50-686997",
+     "link": "https://www.theatlantic.com/ideas/2026/04/vra-supreme-court-callais-decision/686997/?utm_source=feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Atlantic",
+       "url": "https://www.theatlantic.com/ideas/2026/04/vra-supreme-court-callais-decision/686997/?utm_source=feed"
+      }
+     ],
+     "titleTR": "Seçmenlerin oy hakkı tehlikede mi?"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1777644681",
+     "category": "",
+     "descriptionTR": "İngiltere'nin Kent bölgesindeki kriket kulübü, eski uluslararası oyuncu Adam Hollioake liderliğinde, oyuncuların ruh sağlığını korumak amacıyla sosyal medya yorumlarını yasakladı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1777644681",
+     "link": "https://www.aljazeera.com/sports/2026/5/1/cricket-club-bans-social-media-comments-to-protect-players-mental-health?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/sports/2026/5/1/cricket-club-bans-social-media-comments-to-protect-players-mental-health?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Kriket kulübü, oyuncuların ruh sağlığını korumak için sosyal medya yorumlarını yasakladı"
+    },
+    {
+     "atomID": "https://news.mongabay.com/?post_type=short-article&p=318610",
+     "category": "",
+     "descriptionTR": "Kongo Demokratik Cumhuriyeti (KDC), ABD'ye 500.000 metrik ton bakır ihraç etmeyi planlıyor. Bu, devlet madencilik şirketi Gécamines SA tarafından Ocak ayında yapılan ihracat taahhüdünün beş katı. Gécamines aracılığıyla Kongo hükümetinin kendi bakırını ihraç etme niyeti gerçeğe dönüşüyor, diyor sözcü Jean-Claude Mputu.",
+     "group": "",
+     "id": "https://news.mongabay.com/?post_type=short-article&p=318610",
+     "link": "https://news.mongabay.com/short-article/2026/05/drc-copper-exports-to-us-set-to-surge-amid-warnings-of-corruption-risk/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Mongabay",
+       "url": "https://news.mongabay.com/short-article/2026/05/drc-copper-exports-to-us-set-to-surge-amid-warnings-of-corruption-risk/"
+      }
+     ],
+     "titleTR": "KDC'nin bakır ihracatı ABD'ye artacak, yolsuzluk riski uyarıları var"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Önemli kararlar",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  }
+ ],
+ "week": "2026-W18"
+}

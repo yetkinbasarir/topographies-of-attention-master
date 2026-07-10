@@ -1,0 +1,1278 @@
+{
+ "label": "19-25 OCAK",
+ "publishedAt": "2026-07-09T22:53:59Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/news/world/middle-east/article/3340481/syria-deal-kurdish-fighters-appears-unravel-islamic-state-prisoners-escape?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "Kürt internet sitesi Rudaw'a göre, Suriye'nin Şeddadi kentindeki bir hapishaneden yaklaşık 1.500 IŞİD üyesi kaçtı. Kürt liderliğindeki Suriye Demokratik Güçleri'nin sözcüsü bu bilgiyi aktardı. Daha önce, Suriye ordusu SDF kontrolündeki Şeddadi'deki bir hapishaneden 'birkaç' IŞİD militanının kaçtığını ve SDF'yi onları serbest bırakmakla suçladığını belirtmişti. Hapishane kaçışı, Suriye hükümeti ile yapılan kapsamlı bir anlaşmanın duyurulmasından bir gün sonra gerçekleşti.",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/middle-east/article/3340481/syria-deal-kurdish-fighters-appears-unravel-islamic-state-prisoners-escape?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/middle-east/article/3340481/syria-deal-kurdish-fighters-appears-unravel-islamic-state-prisoners-escape?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3340481/syria-deal-kurdish-fighters-appears-unravel-islamic-state-prisoners-escape?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/is-group-prisoners-are-big-issue-for-syrian-government-and-kurdish-sdf"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/kurds-march-in-iraqi-kurdistan-against-syrian-government-takeover-of-minority"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/middle-east/20260123-pressured-by-damascus-to-integrate-into-the-state-what-does-the-future-hold-for-syria-s-kurds"
+      }
+     ],
+     "titleTR": "Suriye'de Kürt savaşçılarla yapılan anlaşma çözülüyor mu? IŞİD mahkumları kaçtı"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768848362",
+     "category": "",
+     "descriptionTR": "Bazı çatışma raporlarına rağmen, Suriye ordusu ve Suriye Demokratik Güçleri (SDF) yeni bir ateşkesi uygulamaya koyuyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768848362",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/1/19/syrian-army-sdf-start-implementing-ceasefire-despite-clashes?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/syrian-army-sdf-start-implementing-ceasefire-despite-clashes?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/inside-story/2026/1/19/could-events-in-syria-have-a-wider-impact-for-kurds?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/19/isil-fighters-flee-jail-as-syrian-army-clashes-with-kurdish-led-sdf?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Suriye ordusu ve SDF, çatışmalara rağmen ateşkesi uygulamaya başladı"
+    },
+    {
+     "atomID": "https://news.sky.com/story/fighting-erupts-near-prisons-holding-is-extremists-in-syria-a-day-after-kurdish-led-sdf-agreed-ceasefire-with-damascus-13496377",
+     "category": "",
+     "descriptionTR": "Suriye devlet medyasının duyurduğu ateşkesten sadece bir gün sonra, Suriye hükümet güçleri ile Kürt liderliğindeki Suriye Demokratik Güçleri (SDF) arasında çatışma çıktı.",
+     "group": "",
+     "id": "https://news.sky.com/story/fighting-erupts-near-prisons-holding-is-extremists-in-syria-a-day-after-kurdish-led-sdf-agreed-ceasefire-with-damascus-13496377",
+     "link": "https://news.sky.com/story/fighting-erupts-near-prisons-holding-is-extremists-in-syria-a-day-after-kurdish-led-sdf-agreed-ceasefire-with-damascus-13496377",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/fighting-erupts-near-prisons-holding-is-extremists-in-syria-a-day-after-kurdish-led-sdf-agreed-ceasefire-with-damascus-13496377"
+      }
+     ],
+     "titleTR": "Ateşkesin ardından IŞİD militanlarının tutulduğu hapishaneler yakınında çatışma çıktı"
+    },
+    {
+     "atomID": "https://www.straitstimes.com/world/europe/syria-deal-could-remove-main-obstacle-to-turkey-pkk-peace-turkish-officials-say",
+     "category": "",
+     "descriptionTR": "İSTANBUL, 19 Ocak - Kürt güçlerin Suriye'de uzun süredir kontrol ettikleri toprakları Suriye hükümetine bırakmasıyla yapılan anlaşma, Türkiye'nin PKK ile on yıllardır süren çatışmasını sona erdirme çabalarını ilerletebilir, Türk politikacılar ve yetkililer Pazartesi günü söyledi.",
+     "group": "",
+     "id": "https://www.straitstimes.com/world/europe/syria-deal-could-remove-main-obstacle-to-turkey-pkk-peace-turkish-officials-say",
+     "link": "https://www.straitstimes.com/world/europe/syria-deal-could-remove-main-obstacle-to-turkey-pkk-peace-turkish-officials-say",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/europe/syria-deal-could-remove-main-obstacle-to-turkey-pkk-peace-turkish-officials-say"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/europe/kurdish-led-sdf-says-armed-group-attacks-islamic-state-prison-as-syrian-forces-tighten-grip"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/europe/explainer-how-syrias-government-has-redrawn-map-with-advances-against-the-kurds"
+      }
+     ],
+     "titleTR": "Suriye anlaşması Türkiye-PKK barışının önündeki engeli kaldırabilir mi?"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Suriye'de ateşkes zorlukları ve IŞİD mahkumlarının kaçışı",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://en.mercopress.com/2026/01/21/european-parliament-puts-eu-mercosur-trade-deal-on-hold-seeks-top-court-legal-opinion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "category": "",
+     "descriptionTR": "Avrupa Parlamentosu, Çarşamba günü AB-Mercosur ticaret anlaşmasının onay sürecini dondurmak ve anlaşmanın AB antlaşmalarıyla uyumlu olup olmadığını belirlemek için Avrupa Birliği Adalet Divanı'ndan (CJEU) hukuki görüş talep etmek üzere oy kullandı. Hareket, 334 lehte, 324 aleyhte ve 11 çekimser oyla kıl payı geçti ve iki blokun Asunción'da çeyrek asırlık müzakerelerin ardından imzaladığı anlaşmaya yeni bir belirsizlik kattı.",
+     "group": "",
+     "id": "https://en.mercopress.com/2026/01/21/european-parliament-puts-eu-mercosur-trade-deal-on-hold-seeks-top-court-legal-opinion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "link": "https://en.mercopress.com/2026/01/21/european-parliament-puts-eu-mercosur-trade-deal-on-hold-seeks-top-court-legal-opinion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/21/european-parliament-puts-eu-mercosur-trade-deal-on-hold-seeks-top-court-legal-opinion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/19/orsi-on-lula-s-absence-at-eu-mercosur-signing-any-absence-does-not-leave-a-good-impression?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/19/eu-mercosur-trade-deal-could-turn-south-america-into-a-critical-minerals-powerhouse?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/23/eu-ready-to-roll-out-mercosur-deal-once-south-american-ratifications-start-von-der-leyen-says?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      }
+     ],
+     "titleTR": "Avrupa Parlamentosu AB-Mercosur ticaret anlaşmasını askıya aldı, üst mahkemeden hukuki görüş istiyor"
+    },
+    {
+     "atomID": "https://www.politico.eu/?post_type=pro&p=7819128",
+     "category": "",
+     "descriptionTR": "İtalya ve Almanya'dan 20'den fazla bakan, daha yakın işbirliğini görüşmek üzere gösterişli bir Roma villasında bir araya geliyor.",
+     "group": "",
+     "id": "https://www.politico.eu/?post_type=pro&p=7819128",
+     "link": "https://www.politico.eu/article/meloni-joins-merz-in-calling-for-swift-implementation-of-eu-mercosur-trade-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/meloni-joins-merz-in-calling-for-swift-implementation-of-eu-mercosur-trade-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "Meloni, Merz ile birlikte AB-Mercosur ticaret anlaşmasının 'hızlı uygulanması' çağrısında bulunuyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "AB-Mercosur ticaret anlaşması hukuki ve siyasi engellerle karşı karşıya",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://en.mercopress.com/2026/01/21/chile-wildfires-death-toll-rises-to-20-as-authorities-report-widespread-destruction-and-arrest-a-suspect?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "category": "",
+     "descriptionTR": "Şili'nin güney merkezinde devam eden yangınlar nedeniyle teyit edilen can kaybı 20'ye yükseldi. Yetkililer, Biobío ve Ñuble bölgelerinde kırmızı alarm, felaket durumu ve gece sokağa çıkma yasağı uygularken, ekipler birden fazla aktif yangınla mücadele etmeye devam ediyor.",
+     "group": "",
+     "id": "https://en.mercopress.com/2026/01/21/chile-wildfires-death-toll-rises-to-20-as-authorities-report-widespread-destruction-and-arrest-a-suspect?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "link": "https://en.mercopress.com/2026/01/21/chile-wildfires-death-toll-rises-to-20-as-authorities-report-widespread-destruction-and-arrest-a-suspect?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/21/chile-wildfires-death-toll-rises-to-20-as-authorities-report-widespread-destruction-and-arrest-a-suspect?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/19/chile-wildfires-kill-at-least-18-boric-orders-curfew-and-declares-state-of-catastrophe?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "MercoPress",
+       "url": "https://en.mercopress.com/2026/01/21/uruguay-to-send-40-firefighters-to-chile-as-biobio-and-uble-wildfires-leave-at-least-20-dead?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+      }
+     ],
+     "titleTR": "Şili'deki yangınlarda can kaybı 20'ye yükseldi; yaygın yıkım ve bir şüpheli gözaltında"
+    },
+    {
+     "atomID": "https://www.straitstimes.com/world/chiles-fire-ravaged-communities-pull-together-as-frustrations-mount-over-state-response",
+     "category": "",
+     "descriptionTR": "CONCEPCION, Şili, 21 Ocak - Şili'nin güneyindeki Concepcion kenti yakınlarındaki yangınlar, aşırı sıcakların neden olduğu ölümcül yangının ardından bulutlu hava ve nemli havanın kıyı bölgesine serinlik getirmesiyle Çarşamba sabahı azalmaya başladı.",
+     "group": "",
+     "id": "https://www.straitstimes.com/world/chiles-fire-ravaged-communities-pull-together-as-frustrations-mount-over-state-response",
+     "link": "https://www.straitstimes.com/world/chiles-fire-ravaged-communities-pull-together-as-frustrations-mount-over-state-response",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/chiles-fire-ravaged-communities-pull-together-as-frustrations-mount-over-state-response"
+      }
+     ],
+     "titleTR": "Şili'de yangınlardan etkilenen topluluklar birleşiyor; devletin tepkisine yönelik hayal kırıklığı artıyor"
+    }
+   ],
+   "packetSpot": "Şili, yıkıcı yangınlarla mücadele ediyor; can kaybı artarken, topluluklar devletin tepkisine karşı birleşiyor.",
+   "packetTitle": "Şili'deki yangınlar: Artan can kaybı ve toplumsal dayanışma",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "f8c04c6c-f70d-11f0-b18b-d128643e11a1",
+     "category": "",
+     "descriptionTR": "Bu akşamki haberlere göre, ABD 75 ülkeden gelen kalıcı oturma izni vizesi başvurularını durdurdu; bunların arasında 26 Afrika ülkesi de bulunuyor. Ayrıca, Nijerya polisi daha önceki inkarlarını geri çekerek, hafta sonu kuzey Kaduna'daki üç kiliseden onlarca ibadetçinin kaçırıldığını doğruladı. Kenya'da ise eğitimli kadın motosiklet sürücüleri ve hemşirelerden oluşan bir ekip, hamile kadınların klinik ve hastanelere daha hızlı ulaşmasına yardımcı oluyor.",
+     "group": "",
+     "id": "f8c04c6c-f70d-11f0-b18b-d128643e11a1",
+     "link": "https://www.france24.com/en/us-visa-freeze-begins-for-26-african-countries",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/us-visa-freeze-begins-for-26-african-countries"
+      }
+     ],
+     "titleTR": "ABD, 26 Afrika ülkesi için vize işlemlerini durdurdu"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1769054046",
+     "category": "",
+     "descriptionTR": "ABD'de yeni bir hayat kurmayı planlayan Taylandlılar, kara listeye alınan ülkeler arasında yer almalarına şaşkınlıkla tepki gösteriyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1769054046",
+     "link": "https://www.aljazeera.com/news/2026/1/23/in-us-ally-thailand-feelings-of-betrayal-after-trumps-visa-freeze?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/23/in-us-ally-thailand-feelings-of-betrayal-after-trumps-visa-freeze?traffic_source=rss"
+      }
+     ],
+     "titleTR": "ABD'nin Tayland'ı da kapsayan vize dondurması hayal kırıklığı yarattı"
+    }
+   ],
+   "packetSpot": "ABD, 26'sı Afrika ülkesi ve Tayland olmak üzere 75 ülkeden gelen kalıcı oturma izni başvurularını dondurdu; bu durum geniş çapta endişe yaratıyor.",
+   "packetTitle": "ABD'nin vize dondurması Afrika ülkeleri ve Tayland'ı etkiliyor",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3340749/canada-court-overturns-government-order-shut-down-tiktoks-operations?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "Kanada federal mahkemesi, Çarşamba günü TikTok'un Kanada'daki faaliyetlerini durdurma kararını bozarak, kısa video uygulamasının şimdilik faaliyetlerine devam etmesine izin verdi ve Ottawa'ya davayı gözden geçirmesi talimatını verdi. Kasım 2024'te Kanada sanayi bakanlığı, ulusal güvenlik risklerini gerekçe göstererek TikTok'un işini feshetme kararı almıştı, ancak hükümet erişimi veya kullanıcıların içerik oluşturma yeteneğini engellemedi. TikTok, Kanada'da 14 milyondan fazla aylık kullanıcısı olduğunu belirterek karara itiraz etti...",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/united-states-canada/article/3340749/canada-court-overturns-government-order-shut-down-tiktoks-operations?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3340749/canada-court-overturns-government-order-shut-down-tiktoks-operations?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3340749/canada-court-overturns-government-order-shut-down-tiktoks-operations?utm_source=rss_feed"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.com/news/2026/01/21/canada-tiktok-court-ruling-00739237?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "Kanada mahkemesi TikTok'u kapatma kararını bozdu"
+    }
+   ],
+   "packetSpot": "Kanada federal mahkemesi, TikTok'un Kanada'daki faaliyetlerini durduracak hükümet kararını bozarak, dava incelenirken şirketin faaliyetlerine devam etmesine izin verdi.",
+   "packetTitle": "Kanada mahkemesi TikTok'u kapatma kararını bozdu",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690",
+     "category": "",
+     "descriptionTR": "ABD doğumlu Maya Joint, Avustralya Açık'ın üçüncü gününde ev sahibi slam'de ana tablo maçını kazanmak için korta çıkan yerel favorilerden biri. Canlı takip edin.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690",
+     "link": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-live-updates-jannik-sinner-naomi-osaka/106247690"
+      }
+     ],
+     "titleTR": "Canlı: Maya Joint, Avustralya Açık'ta ilk galibiyetini arıyor"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-quick-hits/106243998",
+     "category": "",
+     "descriptionTR": "Bir oyuncu tekerlekli sandalyeyle korttan çıkarılmak zorunda kalırken, Alja Tomljanović babasının kalabalıkta sessiz olmasını diledi. Avustralya Açık'tan kısa notlar burada.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-quick-hits/106243998",
+     "link": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-quick-hits/106243998",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-20/australian-open-2026-quick-hits/106243998"
+      }
+     ],
+     "titleTR": "Beş kısa not: Stan kazandı, Tomljanović babasına 'sessiz ol' dedi"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-19/australian-open-alexandra-eala-philippines-melbourne-park/106246520",
+     "category": "",
+     "descriptionTR": "Dünya sıralamasında 49. sırada yer alan Alexandra Eala, Avustralya Açık'ta kalabalığı neredeyse durma noktasına getiren bir ilgi çekti.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-19/australian-open-alexandra-eala-philippines-melbourne-park/106246520",
+     "link": "https://www.abc.net.au/news/2026-01-19/australian-open-alexandra-eala-philippines-melbourne-park/106246520",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-19/australian-open-alexandra-eala-philippines-melbourne-park/106246520"
+      }
+     ],
+     "titleTR": "'Kendimi çok sevildiğimi hissettim': Filipinli yıldız Avustralya Açık'ta coşku yarattı"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-19/australian-open-storm-hunter-reaches-second-round/106244620",
+     "category": "",
+     "descriptionTR": "Yırtılan Aşil tendonu Storm Hunter'ı emekliliğe zorlayacak gibi görünüyordu, ancak azmi sayesinde Melbourne'de ilk tur zaferini kazandı.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-19/australian-open-storm-hunter-reaches-second-round/106244620",
+     "link": "https://www.abc.net.au/news/2026-01-19/australian-open-storm-hunter-reaches-second-round/106244620",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-19/australian-open-storm-hunter-reaches-second-round/106244620"
+      }
+     ],
+     "titleTR": "Hunter, kariyerinin bittiğini düşündükten sonra ilham verici bir galibiyet aldı"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-19/australian-open-adam-walton-carlos-alcaraz-first-round/106244122",
+     "category": "",
+     "descriptionTR": "İlk tur rakipleri arasında Carlos Alcaraz kadar zorlu olanı yoktur, bunu Avustralyalı Adam Walton da deneyimledi.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-19/australian-open-adam-walton-carlos-alcaraz-first-round/106244122",
+     "link": "https://www.abc.net.au/news/2026-01-19/australian-open-adam-walton-carlos-alcaraz-first-round/106244122",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-19/australian-open-adam-walton-carlos-alcaraz-first-round/106244122"
+      }
+     ],
+     "titleTR": "Avustralya Açık'ta dünya bir numarasıyla oynamak nasıl bir şey?"
+    },
+    {
+     "atomID": "https://www.bbc.com/sport/tennis/articles/cr57ee6mr30o#0",
+     "category": "",
+     "descriptionTR": "Novak Djokovic, İspanyol Pedro Martinez'e karşı set vermeden kazandığı ilk tur galibiyetiyle Avustralya Açık'taki 100. zaferini bir servis ustalığı gösterisiyle elde etti.",
+     "group": "",
+     "id": "https://www.bbc.com/sport/tennis/articles/cr57ee6mr30o#0",
+     "link": "https://www.bbc.com/sport/tennis/articles/cr57ee6mr30o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/sport/tennis/articles/cr57ee6mr30o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Djokovic, Avustralya Açık'ta 100. galibiyetini kaydetti"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-22/australian-open-2026-live-novak-djokovic-kyrgios-kokkinakis/106256036",
+     "category": "",
+     "descriptionTR": "Avustralya Açık tekler ikinci turu, Novak Djokovic'in 101. galibiyetini aramasıyla devam ediyor; ardından Jannik Sinner ve Iga Swiatek korta çıkarken, Nick Kyrgios ve Thanasi Kokkinakis çiftler kampanyalarına başlıyor. Canlı takip edin.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-22/australian-open-2026-live-novak-djokovic-kyrgios-kokkinakis/106256036",
+     "link": "https://www.abc.net.au/news/2026-01-22/australian-open-2026-live-novak-djokovic-kyrgios-kokkinakis/106256036",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-22/australian-open-2026-live-novak-djokovic-kyrgios-kokkinakis/106256036"
+      }
+     ],
+     "titleTR": "Canlı: Novak Djokovic, Avustralya Açık'ın beşinci gününde merkez korta geri dönüyor"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-21/australian-open-zeynep-sonmez-turkiye-second-round-melbourne/106254442",
+     "category": "",
+     "descriptionTR": "Sadık destekçilerinin önünde, Türkiye'den Zeynep Sönmez, Melbourne Park'ta Avustralya Açık üçüncü tura yükselirken dikkat çekici bir performans sergiledi.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-21/australian-open-zeynep-sonmez-turkiye-second-round-melbourne/106254442",
+     "link": "https://www.abc.net.au/news/2026-01-21/australian-open-zeynep-sonmez-turkiye-second-round-melbourne/106254442",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-21/australian-open-zeynep-sonmez-turkiye-second-round-melbourne/106254442"
+      }
+     ],
+     "titleTR": "'Kendimi evde gibi hissettim': Elemelerden gelen Sönmez, Türk taraftarları coşturdu"
+    },
+    {
+     "atomID": "https://www.japantimes.co.jp/article/636546/",
+     "category": "",
+     "descriptionTR": "Başlık adayı Coco Gauff, Olga Danilovic'i kısa sürede mağlup ederek bir sonraki tura geçmeyi başardı.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/636546/",
+     "link": "https://www.japantimes.co.jp/sports/2026/01/21/tennis/alcaraz-sabalenka-pass-tests/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/sports/2026/01/21/tennis/alcaraz-sabalenka-pass-tests/"
+      }
+     ],
+     "titleTR": "Alcaraz ve Sabalenka, Avustralya Açık'ta erken testleri geçti"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-24/australian-open-2026-live-sinner-djokovic-osaka-inglis/106264358",
+     "category": "",
+     "descriptionTR": "Melbourne, sıcak hava dalgası koşullarına hazırlanırken, Avustralya Açık'ın yedinci günü, sıcaklıklar zirveye çıkmadan önce oyunları en üst düzeye çıkarmak için erken başlıyor; Jannik Sinner, Novak Djokovic ve Naomi Osaka, merkez kortta maçlarda yer alıyor. Canlı takip edin.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-24/australian-open-2026-live-sinner-djokovic-osaka-inglis/106264358",
+     "link": "https://www.abc.net.au/news/2026-01-24/australian-open-2026-live-sinner-djokovic-osaka-inglis/106264358",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-24/australian-open-2026-live-sinner-djokovic-osaka-inglis/106264358"
+      }
+     ],
+     "titleTR": "Canlı: Melbourne'deki sıcak hava dalgasını yenmek için erken başlangıç, Sinner, Djokovic, Osaka merkez kortta"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-24/heatwave-australian-open-explainer/106261014",
+     "category": "",
+     "descriptionTR": "Melbourne'de sıcaklıkların 40 dereceye ulaşması beklenirken, oyun Cumartesi günü daha erken başlayacak.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-24/heatwave-australian-open-explainer/106261014",
+     "link": "https://www.abc.net.au/news/2026-01-24/heatwave-australian-open-explainer/106261014",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-24/heatwave-australian-open-explainer/106261014"
+      }
+     ],
+     "titleTR": "Avustralya Açık, sıcak hava dalgası sırasında nasıl serin kalıyor?"
+    },
+    {
+     "atomID": "https://www.abc.net.au/news/2026-01-24/australian-open-tennis-alex-de-minaur-frances-tiafoe/106264260",
+     "category": "",
+     "descriptionTR": "Alex de Minaur, Avustralya Açık çeyrek finallerinin eşiğinde, ancak Melbourne Park'taki önceki görünümlerinden daha derin bir koşu yapabileceğinden emin.",
+     "group": "",
+     "id": "https://www.abc.net.au/news/2026-01-24/australian-open-tennis-alex-de-minaur-frances-tiafoe/106264260",
+     "link": "https://www.abc.net.au/news/2026-01-24/australian-open-tennis-alex-de-minaur-frances-tiafoe/106264260",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ABC Australia News",
+       "url": "https://www.abc.net.au/news/2026-01-24/australian-open-tennis-alex-de-minaur-frances-tiafoe/106264260"
+      }
+     ],
+     "titleTR": "De Minaur, Avustralya Açık'ta 'daha fazla ateş' ekleyen şeyi açıkladı"
+    }
+   ],
+   "packetSpot": "Avustralya Açık'ta Djokovic'in 100. galibiyeti ve turnuvada ilerleyen oyuncular gibi önemli performanslar ve kilometre taşları öne çıktı.",
+   "packetTitle": "Avustralya Açık'ta dikkat çeken anlar",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/videos/cn82xejl4e2o#3",
+     "category": "",
+     "descriptionTR": "BBC'den Guy Hedgecoe, geniş bir polis kordonunun bulunduğu olay yerini ziyaret etti.",
+     "group": "",
+     "id": "https://www.bbc.com/news/videos/cn82xejl4e2o#3",
+     "link": "https://www.bbc.com/news/videos/cn82xejl4e2o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/videos/cn82xejl4e2o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "İspanya'nın on yıldaki en kötü tren faciasının yaşandığı yerde"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/videos/c23r1rx5vp7o#3",
+     "category": "",
+     "descriptionTR": "Yolcular, Pazar akşamı Málaga ile Madrid arasında iki trenin çarpıştığı anı anlattı.",
+     "group": "",
+     "id": "https://www.bbc.com/news/videos/c23r1rx5vp7o#3",
+     "link": "https://www.bbc.com/news/videos/c23r1rx5vp7o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/videos/c23r1rx5vp7o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "İspanya tren kazasından kurtulanlar 'tam anlamıyla korkunç' anları anlattı"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/articles/clye22ljxw4o#0",
+     "category": "",
+     "descriptionTR": "Trenin raydan çıkmasına neyin sebep olduğu belirsizliğini koruyor, ancak yetkililer bir soruşturma başlatıldığını belirtiyor.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/clye22ljxw4o#0",
+     "link": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "İspanya'nın on yıldaki en kötü tren faciası hakkında bildiklerimiz"
+    },
+    {
+     "atomID": "9cf9cf9c-f56f-11f0-b3e5-1b6df0add5da",
+     "category": "",
+     "descriptionTR": "Güney İspanya'da yüksek hızlı tren çarpışmasında ölü sayısı Pazartesi günü 40'a yükseldi; hükümet, nedenlerine dair kapsamlı bir soruşturma sözü verdi. Pazar gecesi meydana gelen kaza, 2013'te Santiago de Compostela yakınlarında bir trenin raydan çıkması sonucu 80 kişinin öldüğü olaydan bu yana İspanya'nın en ölümcül tren kazası olarak kaydedildi. FRANCE 24'ten Emerald Maxwell'in haberi.",
+     "group": "",
+     "id": "9cf9cf9c-f56f-11f0-b3e5-1b6df0add5da",
+     "link": "https://www.france24.com/en/spain-seeks-answers-as-high-speed-train-crash-toll-rises-to-40",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/spain-seeks-answers-as-high-speed-train-crash-toll-rises-to-40"
+      }
+     ],
+     "titleTR": "İspanya'da yüksek hızlı tren kazasında ölü sayısı 40'a yükselirken yanıt aranıyor"
+    },
+    {
+     "atomID": "https://news.sky.com/story/what-we-know-so-far-about-the-fatal-train-crash-in-spain-13496110",
+     "category": "",
+     "descriptionTR": "Pazar günü güney İspanya'da iki yüksek hızlı trenin raydan çıkması sonucu en az 40 kişi öldü ve 170 kişi yaralandı.",
+     "group": "",
+     "id": "https://news.sky.com/story/what-we-know-so-far-about-the-fatal-train-crash-in-spain-13496110",
+     "link": "https://news.sky.com/story/what-we-know-so-far-about-the-fatal-train-crash-in-spain-13496110",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/what-we-know-so-far-about-the-fatal-train-crash-in-spain-13496110"
+      }
+     ],
+     "titleTR": "İspanya tren kazası: Ölümcül raydan çıkma hakkında şimdiye kadar bildiklerimiz"
+    },
+    {
+     "atomID": "b2902962",
+     "category": "",
+     "descriptionTR": "Córdoba yakınlarındaki ölümcül kaza, iki yolcu trenini raydan çıkardı ve Madrid ile Andalusia arasındaki demiryolu bağlantılarını durdurdu.",
+     "group": "",
+     "id": "b2902962",
+     "link": "https://www.independent.co.uk/news/world/europe/spain-train-collision-map-madrid-adamuz-cordoba-b2902962.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/europe/spain-train-collision-map-madrid-adamuz-cordoba-b2902962.html"
+      }
+     ],
+     "titleTR": "Haritalandı: İspanya'daki yüksek hızlı tren çarpışmasının gerçekleştiği yer"
+    },
+    {
+     "atomID": "b2903207",
+     "category": "",
+     "descriptionTR": "İspanya başbakanı, Cordoba yakınlarında trenlerin raydan çıkışına dair soruşturmada şeffaflık sözü verdi.",
+     "group": "",
+     "id": "b2903207",
+     "link": "https://www.independent.co.uk/news/world/europe/spain-train-crash-rail-operator-adamuz-b2903207.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/europe/spain-train-crash-rail-operator-adamuz-b2903207.html"
+      }
+     ],
+     "titleTR": "İspanyol demiryolu işletmecisine, korkunç kazadan önce raylarda 'ciddi aşınma' olduğu uyarısı yapılmıştı"
+    },
+    {
+     "atomID": "b2902884",
+     "category": "",
+     "descriptionTR": "Madrid'e giden tren, düz bir rayda raydan çıktıktan sonra karşı yönden saatte 200 km hızla gelen başka bir lokomotifle kafa kafaya çarpıştı.",
+     "group": "",
+     "id": "b2902884",
+     "link": "https://www.independent.co.uk/news/world/europe/spain-train-crash-high-speed-adamuz-cordoba-latest-news-b2902917.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Independent World",
+       "url": "https://www.independent.co.uk/news/world/europe/spain-train-crash-high-speed-adamuz-cordoba-latest-news-b2902917.html"
+      }
+     ],
+     "titleTR": "İspanya tren kazası son durum: 40 kişinin ölümüne neden olan çarpışmanın olası sebebi olarak kırık ray tespit edildi"
+    }
+   ],
+   "packetSpot": "İspanya'daki ölümcül tren kazasının soruşturması devam ediyor; kazanın nedenleri arasında raylardaki sorunlar ve ciddi aşınma uyarıları öne çıkıyor.",
+   "packetTitle": "İspanya'daki tren kazası soruşturması sürüyor",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 7
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768853740",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump, Gazze'yi yeniden inşa etmeyi amaçlayan 'Barış Kurulu' önerisini açıkladı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768853740",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/1/19/trumps-gaza-board-of-peace-draws-scepticism?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/19/trumps-gaza-board-of-peace-draws-scepticism?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Trump'ın Gazze için önerdiği 'Barış Kurulu' şüpheyle karşılandı"
+    },
+    {
+     "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3340480/allies-tepid-trumps-board-peace-invited-leaders-wondering-how-it-will-work?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump'ın uluslararası çatışmaları çözmek için önerdiği 'Barış Kurulu'na kalıcı bir yer için 1 milyar dolar ödeme daveti, kilit müttefikler tarafından soğuk karşılandı. Analistler, bu öneriyi BM Güvenlik Konseyi'nin paralı bir versiyonuna benzetiyor. Beyaz Saray, aralarında Rusya Devlet Başkanı Vladimir Putin, Macaristan Başbakanı Viktor Orban ve Kanada Başbakanı Mark Carney'nin de bulunduğu çeşitli dünya liderlerini kurulda yer almaya davet etti. İsrail de davet edilenler arasında... ",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/united-states-canada/article/3340480/allies-tepid-trumps-board-peace-invited-leaders-wondering-how-it-will-work?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/united-states-canada/article/3340480/allies-tepid-trumps-board-peace-invited-leaders-wondering-how-it-will-work?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3340480/allies-tepid-trumps-board-peace-invited-leaders-wondering-how-it-will-work?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "Trump'ın 'Barış Kurulu'na müttefiklerden soğuk tepki"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/articles/cn8jek4vv8ko#0",
+     "category": "",
+     "descriptionTR": "İsrail, Trump'ın yeni organizasyonuna katılmayı kamuoyuna duyuran son ülke oldu. Arnavutluk, Bahreyn, Macaristan, Fas ve BAE de katılanlar arasında.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cn8jek4vv8ko#0",
+     "link": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "İsrail Başbakanı Netanyahu, Trump'ın Barış Kurulu'na katılmayı kabul etti"
+    },
+    {
+     "atomID": "5e1a8cb0-f71a-11f0-8f9b-8592a1041567",
+     "category": "",
+     "descriptionTR": "Donald Trump'ın Davos'ta yarı özerk bölgeyi zorla almayacağını söylemesinin ardından Grönlandlılar rahat bir nefes aldı. Ancak, tetikte kalmaya devam ediyorlar. Grönland hükümeti, Çarşamba günü bölgede bir 'kriz' durumunda halka tavsiyelerde bulunan yeni bir el kitabı tanıttı. FRANCE 24'ten Monte Francis detayları aktarıyor.",
+     "group": "",
+     "id": "5e1a8cb0-f71a-11f0-8f9b-8592a1041567",
+     "link": "https://www.france24.com/en/greenland-government-unveils-new-crisis-handbook-amid-us-threats",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/greenland-government-unveils-new-crisis-handbook-amid-us-threats"
+      }
+     ],
+     "titleTR": "Grönland hükümeti, ABD tehditleri arasında yeni 'kriz' el kitabını tanıttı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Trump'ın Barış Kurulu önerisi dünya liderlerini düşündürüyor",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 8
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.scmp.com/news/world/europe/article/3340477/valentino-fashion-designer-stars-dies-aged-93-rome?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "Neredeyse yarım asır boyunca moda dünyasının vazgeçilmez isimlerinden biri olan İtalyan tasarımcı Valentino Garavani, 93 yaşında Roma'daki evinde hayatını kaybetti. Ölüm haberi, pazartesi günü vakfı tarafından duyuruldu. Vakıf, sosyal medyada yaptığı açıklamada, \"Valentino Garavani, hepimiz için sürekli bir rehber ve ilham kaynağı olmanın ötesinde, gerçek bir ışık, yaratıcılık ve vizyon kaynağıydı\" ifadelerine yer verdi. Cenazesi vakfın merkezinde sergilenecek.",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/europe/article/3340477/valentino-fashion-designer-stars-dies-aged-93-rome?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/europe/article/3340477/valentino-fashion-designer-stars-dies-aged-93-rome?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/europe/article/3340477/valentino-fashion-designer-stars-dies-aged-93-rome?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "Valentino, 93 yaşında Roma'da hayatını kaybetti"
+    },
+    {
+     "atomID": "1c9bae64-f570-11f0-996c-4ba72cd4a054",
+     "category": "",
+     "descriptionTR": "Jackie Kennedy'den Audrey Hepburn'e kadar dünyanın en zarif kadınlarını giydiren İtalyan tasarımcı Valentino Garavani, 93 yaşında hayatını kaybetti. Vakfı, pazartesi günü ölümünü duyurdu. Valentino'nun ölümü, bir diğer İtalyan moda efsanesi Giorgio Armani'nin vefatından sadece birkaç ay sonra gerçekleşti. Moda dünyası ve ötesinden gelen taziye mesajları dikkat çekti. FRANCE 24'ten Seema Gupta, Roma'dan bildiriyor.",
+     "group": "",
+     "id": "1c9bae64-f570-11f0-996c-4ba72cd4a054",
+     "link": "https://www.france24.com/en/tributes-pour-in-after-death-of-italian-designer-valentino",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/tributes-pour-in-after-death-of-italian-designer-valentino"
+      }
+     ],
+     "titleTR": "İtalyan tasarımcı Valentino'nun ölümü sonrası taziye mesajları yağdı"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/articles/ce8ee8yw33lo#1",
+     "category": "",
+     "descriptionTR": "Moda ve sinema dünyasından yıldızlar, moda tasarımcısı Valentino Garavani'nin cenaze töreni için cuma günü Roma'da bir araya geldi.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/ce8ee8yw33lo#1",
+     "link": "https://www.bbc.com/news/articles/ce8ee8yw33lo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/ce8ee8yw33lo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Anna Wintour ve Liz Hurley, Valentino'nun cenazesinde yas tutanlar arasında"
+    },
+    {
+     "atomID": "https://www.scmp.com/news/world/europe/article/3341069/stars-fashion-and-film-bid-farewell-haute-couture-emperor-valentino?utm_source=rss_feed",
+     "category": "",
+     "descriptionTR": "İtalya'nın 'haute couture imparatoru' Valentino, cuma günü Roma'da son yolculuğuna uğurlandı. Koleksiyonlarında öne çıkardığı kırmızı renk, siyah giysili yas tutanlar arasında da dikkat çekti. Donatella Versace, Tom Ford ve Maria Grazia Chiuri gibi moda dünyasının en büyük isimleri, Michelangelo tarafından tasarlanan ve antik Roma hamamlarının kalıntıları üzerine inşa edilen Santa Maria degli Angeli Bazilikası'nda toplandı. Valentino'nun kurucu ortağı Giancarlo Giammetti, şık bir kıyafetle...",
+     "group": "",
+     "id": "https://www.scmp.com/news/world/europe/article/3341069/stars-fashion-and-film-bid-farewell-haute-couture-emperor-valentino?utm_source=rss_feed",
+     "link": "https://www.scmp.com/news/world/europe/article/3341069/stars-fashion-and-film-bid-farewell-haute-couture-emperor-valentino?utm_source=rss_feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "South China Morning Post",
+       "url": "https://www.scmp.com/news/world/europe/article/3341069/stars-fashion-and-film-bid-farewell-haute-couture-emperor-valentino?utm_source=rss_feed"
+      }
+     ],
+     "titleTR": "Moda ve sinema dünyası, 'haute couture imparatoru' Valentino'ya veda etti"
+    }
+   ],
+   "packetSpot": "Ünlü İtalyan moda tasarımcısı Valentino Garavani'nin ölüm haberi, moda dünyasında derin bir üzüntü yarattı. Roma'da düzenlenen cenaze törenine birçok ünlü isim katıldı.",
+   "packetTitle": "Valentino'nun ölümü moda dünyasını yasa boğdu",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 9
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/cy7mev35x2lo#0",
+     "category": "",
+     "descriptionTR": "ABD Başkanı, Norveç'in prestijli ödülün kontrolünü elinde tuttuğunu iddia ederken, Norveç hükümeti bu kararla ilgisi olmadığını belirtiyor.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/cy7mev35x2lo#0",
+     "link": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Trump'tan Norveç liderine Nobel Ödülü üzerinden Grönland mesajı"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/articles/ceqz0llpnyqo#1",
+     "category": "",
+     "descriptionTR": "Trump, Şubat ayında özerk Danimarka bölgesini ele geçirme planlarına karşı çıkan sekiz ABD müttefikine yeni vergiler getireceğini söylüyor.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/ceqz0llpnyqo#1",
+     "link": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News Europe",
+       "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Danimarka Başbakanı: 'Avrupa şantaja boyun eğmeyecek'"
+    },
+    {
+     "atomID": "082f0cf6-f574-11f0-8577-6ba895fe99a8",
+     "category": "",
+     "descriptionTR": "FRANCE 24'ten Mark Owen ile konuşan Dublin Üniversitesi Clinton Enstitüsü'nden Uluslararası Politika Profesörü Scott Lucas, ABD'nin Grönland'ı ele geçirme planlarına karşı çıkan sekiz Avrupa ülkesine yönelik cezai tarifeler tehdidini gerçekleştirmesi durumunda Avrupa'nın 'aynı şekilde karşılık vermeye hazır olması gerektiğini' söylüyor.",
+     "group": "",
+     "id": "082f0cf6-f574-11f0-8577-6ba895fe99a8",
+     "link": "https://www.france24.com/en/greenland-threats-europe-must-be-ready-to-respond-in-kind-expert-says",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/greenland-threats-europe-must-be-ready-to-respond-in-kind-expert-says"
+      }
+     ],
+     "titleTR": "Grönland tehditleri: Avrupa 'aynı şekilde karşılık vermeye hazır olmalı', uzman görüşü"
+    },
+    {
+     "atomID": "https://news.sky.com/story/trumps-extraordinary-letter-to-norway-about-greenland-in-full-and-fact-checked-13496272",
+     "category": "",
+     "descriptionTR": "ABD Başkanı Donald Trump'ın Norveç Başbakanı'na Grönland'ın 'tam ve mutlak kontrolünü' ele geçirme talebiyle ilgili gönderdiği mektup olağanüstü.",
+     "group": "",
+     "id": "https://news.sky.com/story/trumps-extraordinary-letter-to-norway-about-greenland-in-full-and-fact-checked-13496272",
+     "link": "https://news.sky.com/story/trumps-extraordinary-letter-to-norway-about-greenland-in-full-and-fact-checked-13496272",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/trumps-extraordinary-letter-to-norway-about-greenland-in-full-and-fact-checked-13496272"
+      }
+     ],
+     "titleTR": "Trump'tan Norveç'e Grönland hakkında olağanüstü mektup"
+    },
+    {
+     "atomID": "https://www.japantimes.co.jp/article/636447/",
+     "category": "",
+     "descriptionTR": "ABD Başkanı, Grönland üzerindeki taleplerini Nobel Barış Ödülü'nü alamamasıyla ilişkilendirerek Norveç Başbakanı Jonas Gahr Store'a bir mektup gönderdi.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/636447/",
+     "link": "https://www.japantimes.co.jp/news/2026/01/19/world/politics/trump-greenland-nobel-prize/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/01/19/world/politics/trump-greenland-nobel-prize/"
+      }
+     ],
+     "titleTR": "Trump, Grönland tehditlerini Nobel Barış Ödülü ile ilişkilendiriyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Trump'ın Grönland talepleri uluslararası tepkilere yol açıyor",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 10
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1768846523",
+     "category": "",
+     "descriptionTR": "Radev'in yaklaşan erken seçim öncesinde kendi siyasi partisini kurması bekleniyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1768846523",
+     "link": "https://www.aljazeera.com/news/2026/1/19/bulgarias-president-says-he-is-stepping-down-ahead-of-snap-elections?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/19/bulgarias-president-says-he-is-stepping-down-ahead-of-snap-elections?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Bulgaristan Cumhurbaşkanı Rumen Radev erken seçim öncesi istifa edeceğini açıkladı"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1105513",
+     "category": "",
+     "descriptionTR": "Aylardır süren söylentilerin ardından Rumen Radev, Pazartesi günü istifa ettiğini açıkladı ve kendi partisinin kurulacağına dair güçlü ipuçları verdi.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1105513",
+     "link": "https://balkaninsight.com/2026/01/19/bulgarias-president-resigns-fuelling-speculation-about-new-party/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/01/19/bulgarias-president-resigns-fuelling-speculation-about-new-party/"
+      }
+     ],
+     "titleTR": "Bulgaristan Cumhurbaşkanı istifa etti, yeni parti spekülasyonları arttı"
+    },
+    {
+     "atomID": "https://www.politico.eu/?post_type=article&p=7790346",
+     "category": "",
+     "descriptionTR": "Rumen Radev, son yıllarda sürekli değişen hükümetler arasında ülkenin tek siyasi sabiti olmuştu.",
+     "group": "",
+     "id": "https://www.politico.eu/?post_type=article&p=7790346",
+     "link": "https://www.politico.eu/article/bulgarian-president-rumen-radev-resigns-ahead-parliamentary-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "POLITICO Europe",
+       "url": "https://www.politico.eu/article/bulgarian-president-rumen-radev-resigns-ahead-parliamentary-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ],
+     "titleTR": "Bulgaristan cumhurbaşkanının istifası, parlamentoya adaylık yolunu açıyor"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1105707",
+     "category": "",
+     "descriptionTR": "Cumhurbaşkanlığından bir yıl erken istifa eden Rumen Radev'in, bahar aylarında yapılacak parlamento seçimlerine katılmak için kendi partisini kurması bekleniyor. Ancak şansı ne kadar?",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1105707",
+     "link": "https://balkaninsight.com/2026/01/23/quitting-as-president-radev-promises-to-rescue-bulgaria-will-it-work/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/01/23/quitting-as-president-radev-promises-to-rescue-bulgaria-will-it-work/"
+      }
+     ],
+     "titleTR": "Cumhurbaşkanlığından istifa eden Radev, Bulgaristan'ı 'kurtarma' sözü verdi. Başarılı olacak mı?"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Rumen Radev'in istifası Bulgaristan'da siyasi spekülasyonları artırıyor",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 11
+  },
+  {
+   "items": [
+    {
+     "atomID": "578a6392-f57c-11f0-96d4-5d27421ed756",
+     "category": "",
+     "descriptionTR": "Bu akşamki yayında, Senegal halkı, ülkenin Fas'a karşı kazandığı AFCON zaferinin ardından şampiyonlarının dönüşünü bekliyor. Ülke genelinde milli tatil ilan edildi. Ayrıca, Kongo ordusu, M23 silahlı grubunun çekilmesinin ardından Uvira şehrinin kontrolünü yeniden ele geçirdiğini açıkladı. Güney Afrika, Mozambik ve Zimbabve'de ise şiddetli yağmurlar nehirleri ve altyapıyı zorladı.",
+     "group": "",
+     "id": "578a6392-f57c-11f0-96d4-5d27421ed756",
+     "link": "https://www.france24.com/en/senegal-awaits-return-of-afcon-champions",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/senegal-awaits-return-of-afcon-champions"
+      }
+     ],
+     "titleTR": "Senegal, AFCON şampiyonlarını bekliyor"
+    },
+    {
+     "atomID": "e3a34f0e-f574-11f0-babf-4ba72cd4a054",
+     "category": "",
+     "descriptionTR": "İran'daki protestolarda ölüm sayısı nedir? Aralık ayı sonlarında teokratik rejime karşı başlayan gösterilerden bu yana bildirilen sayı artmaya devam ediyor... Ancak ülkedeki internet kesintisi iletişimi zorlaştırdığı için kesin bir sayı doğrulamak her zamankinden daha zor. 19 Ocak itibarıyla, iki ana hak grubu neredeyse 4000 ölümü doğruladı, ancak bu rakamın önemli ölçüde düşük olduğu düşünülüyor. Vedika Bahl, Truth or Fake programında bildiklerimizi aktarıyor.",
+     "group": "",
+     "id": "e3a34f0e-f574-11f0-babf-4ba72cd4a054",
+     "link": "https://www.france24.com/en/iran-protests-what-we-know-about-the-varying-death-tolls",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/iran-protests-what-we-know-about-the-varying-death-tolls"
+      }
+     ],
+     "titleTR": "İran protestoları: Ölüm sayıları hakkında bildiklerimiz"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1769022864",
+     "category": "",
+     "descriptionTR": "Şehitler Vakfı, gösterilerde ölen 2.427 kişinin sivil ve güvenlik güçlerinden oluştuğunu belirtti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1769022864",
+     "link": "https://www.aljazeera.com/news/2026/1/21/at-least-3117-people-killed-during-iran-protests-state-media-reports?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/1/21/at-least-3117-people-killed-during-iran-protests-state-media-reports?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İran protestolarında en az 3.117 kişi öldü, devlet medyası bildiriyor"
+    },
+    {
+     "atomID": "70ceb27e-f877-11f0-838d-6f7941bd5e07",
+     "category": "",
+     "descriptionTR": "İran'da hükümet karşıtı protestolar sırasında iki haftalık kesintinin ardından internet erişimi kısmen geri geldi. Bu kısmi erişim, binlerce videonun ortaya çıkmasına olanak tanıyarak, Hamaney rejimi tarafından öldürülen protestocuların sayısı hakkında daha iyi bir fikir verdi. FRANCE 24'ten Ershad Alijani, etkilenen bölgeler veya öldürülen kişi sayısı hakkında daha fazla bilgi veriyor. Uyarı: bazı izleyiciler bu görüntüleri rahatsız edici bulabilir.",
+     "group": "",
+     "id": "70ceb27e-f877-11f0-838d-6f7941bd5e07",
+     "link": "https://www.france24.com/en/partial-return-of-internet-in-iran-reveals-wider-scale-of-killing",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/partial-return-of-internet-in-iran-reveals-wider-scale-of-killing"
+      }
+     ],
+     "titleTR": "İran'da internetin kısmen geri gelmesi, öldürülenlerin sayısını ortaya koyuyor"
+    }
+   ],
+   "packetSpot": "İran'da geniş çaplı protestolar yaşanırken, bildirilen yüksek ölüm sayıları dikkat çekiyor. İnternet kesintileri iletişimi zorlaştırıyor.",
+   "packetTitle": "İran'da protestolar ve baskı dalgası",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 12
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/",
+     "category": "",
+     "descriptionTR": "FCC, bu şovların eşit zaman kuralından muaf olduğu yönündeki uzun süredir devam eden görüşe itiraz ediyor.",
+     "group": "",
+     "id": "https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/",
+     "link": "https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Ars Technica",
+       "url": "https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/"
+      }
+     ],
+     "titleTR": "Trump'ın FCC'si eşit zaman kuralını gece şovlarına uygulamakla tehdit ediyor"
+    },
+    {
+     "atomID": "c4634e54-f714-11f0-ab15-8592a1041567",
+     "category": "",
+     "descriptionTR": "FRANCE 24'ten Sharon Gaffney ile konuşan Chicago Üniversitesi Harris Kamu Politikası Okulu'ndan Stone Zenginlik Eşitsizliği ve Hareketlilik Araştırma Merkezi Direktörü Steven Durlauf, ABD Başkanı Donald Trump'ın Avrupa ülkelerine yönelik planlanan tarifeleri iptal etme kararının ardından 'zararın kalıcı olduğunu' belirtti.",
+     "group": "",
+     "id": "c4634e54-f714-11f0-ab15-8592a1041567",
+     "link": "https://www.france24.com/en/tv-shows/a-propos/20260121-trump-backs-down-on-tariffs-but-the-damage-has-been-done-and-it-s-very-persistent-expert-says",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "France 24 World",
+       "url": "https://www.france24.com/en/tv-shows/a-propos/20260121-trump-backs-down-on-tariffs-but-the-damage-has-been-done-and-it-s-very-persistent-expert-says"
+      }
+     ],
+     "titleTR": "Trump gümrük tarifelerinden geri adım attı, ancak 'zarar kalıcı' diyor uzman"
+    },
+    {
+     "atomID": "https://news.sky.com/story/trump-attacks-on-nato-allies-and-calls-for-greenland-sideline-efforts-to-support-ukraine-13497086",
+     "category": "",
+     "descriptionTR": "Donald Trump'ın Grönland, Chagos adaları ve küresel güvenliğin geleceği konularında NATO müttefiklerine yönelik eleştirileri, Ukrayna'ya yeni destek sağlama planlarını gölgede bıraktı.",
+     "group": "",
+     "id": "https://news.sky.com/story/trump-attacks-on-nato-allies-and-calls-for-greenland-sideline-efforts-to-support-ukraine-13497086",
+     "link": "https://news.sky.com/story/trump-attacks-on-nato-allies-and-calls-for-greenland-sideline-efforts-to-support-ukraine-13497086",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/trump-attacks-on-nato-allies-and-calls-for-greenland-sideline-efforts-to-support-ukraine-13497086"
+      }
+     ],
+     "titleTR": "Trump'ın NATO müttefiklerine yönelik eleştirileri Ukrayna'yı destekleme çabalarını gölgede bırakıyor"
+    },
+    {
+     "atomID": "https://news.sky.com/story/i-was-in-helmand-with-uk-troops-draft-dodging-trumps-words-are-a-gut-punch-to-those-killed-13497851",
+     "category": "",
+     "descriptionTR": "Amerikan başkanının Davos'ta yarattığı zarar - ki bu önemliydi, ittifaklar daha da zedelendi - şimdi ise yaptığı yorumlarla bu durumu daha da kötüleştirdi; bu yorumlar hem saygısız hem de yanlış.",
+     "group": "",
+     "id": "https://news.sky.com/story/i-was-in-helmand-with-uk-troops-draft-dodging-trumps-words-are-a-gut-punch-to-those-killed-13497851",
+     "link": "https://news.sky.com/story/i-was-in-helmand-with-uk-troops-draft-dodging-trumps-words-are-a-gut-punch-to-those-killed-13497851",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/i-was-in-helmand-with-uk-troops-draft-dodging-trumps-words-are-a-gut-punch-to-those-killed-13497851"
+      }
+     ],
+     "titleTR": "Afganistan'da 457 İngiliz personel öldü. Trump'ın celp kaçaklığı iddiası tartışma yarattı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Trump'ın NATO ve gümrük tarifesi tartışmaları",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 13
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://news.sky.com/story/israeli-fire-kills-at-least-11-palestinians-in-gaza-hospital-officials-say-13497252",
+     "category": "",
+     "descriptionTR": "Hastane yetkililerine göre, İsrail güçleri Gazze'de en az 11 Filistinliyi öldürdü.",
+     "group": "",
+     "id": "https://news.sky.com/story/israeli-fire-kills-at-least-11-palestinians-in-gaza-hospital-officials-say-13497252",
+     "link": "https://news.sky.com/story/israeli-fire-kills-at-least-11-palestinians-in-gaza-hospital-officials-say-13497252",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Sky News World",
+       "url": "https://news.sky.com/story/israeli-fire-kills-at-least-11-palestinians-in-gaza-hospital-officials-say-13497252"
+      }
+     ],
+     "titleTR": "Gazze'de İsrail ateşi en az 11 Filistinliyi öldürdü, hastane yetkilileri bildiriyor"
+    },
+    {
+     "atomID": "https://www.straitstimes.com/world/middle-east/iran-deaths-went-beyond-protesters-hitting-bystanders-too-witnesses-say",
+     "category": "",
+     "descriptionTR": "ABD merkezli bir hak grubu, şu ana kadar 4.519 protesto bağlantılı ölümü doğruladı, 9.049 ölüm ise inceleme altında.",
+     "group": "",
+     "id": "https://www.straitstimes.com/world/middle-east/iran-deaths-went-beyond-protesters-hitting-bystanders-too-witnesses-say",
+     "link": "https://www.straitstimes.com/world/middle-east/iran-deaths-went-beyond-protesters-hitting-bystanders-too-witnesses-say",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/middle-east/iran-deaths-went-beyond-protesters-hitting-bystanders-too-witnesses-say"
+      }
+     ],
+     "titleTR": "İran'daki ölümler protestocuların ötesine geçti, tanıklar masumların da vurulduğunu söylüyor"
+    },
+    {
+     "atomID": "https://www.straitstimes.com/world/middle-east/iranian-cleric-says-iran-may-target-us-investments-in-region-if-attacked",
+     "category": "",
+     "descriptionTR": "DUBAİ, 23 Ocak - Etkili bir İranlı din adamı, İran'a yönelik herhangi bir ABD saldırısına misilleme olarak bölgedeki ABD bağlantılı yatırımlarının hedef alınabileceği konusunda uyardı, İran haber ajansları bildirdi.",
+     "group": "",
+     "id": "https://www.straitstimes.com/world/middle-east/iranian-cleric-says-iran-may-target-us-investments-in-region-if-attacked",
+     "link": "https://www.straitstimes.com/world/middle-east/iranian-cleric-says-iran-may-target-us-investments-in-region-if-attacked",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:59Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Straits Times World",
+       "url": "https://www.straitstimes.com/world/middle-east/iranian-cleric-says-iran-may-target-us-investments-in-region-if-attacked"
+      }
+     ],
+     "titleTR": "İranlı din adamı, saldırı durumunda İran'ın ABD yatırımlarını hedef alabileceğini söyledi"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Ortadoğu'da artan gerilimler",
+   "publishedAt": "2026-07-09T22:53:59Z",
+   "sessionID": "produce-week-py",
+   "slot": 14
+  }
+ ],
+ "superPackets": [
+  {
+   "slots": [
+    8,
+    10
+   ],
+   "spot": "Bu hafta Trump'ın uluslararası barış ve toprak müzakereleri için girişimleri yoğunlaştı; kaynaklar, küresel liderlerin stratejik tepkileri ve şüpheciliği üzerinde birleşiyor.",
+   "title": "Trump'ın uluslararası barış ve toprak hedefleri"
+  },
+  {
+   "slots": [
+    12,
+    14
+   ],
+   "spot": "Bu hafta Ortadoğu'da gerilim ve şiddet artarken, İran ve Gazze'de önemli can kayıpları bildirildi. İran'daki durum, protestolara yönelik sert baskıyı öne çıkarırken, bölgesel çatışmalar can almaya devam ediyor.",
+   "title": "Ortadoğu'da artan gerginlik ve şiddet"
+  }
+ ],
+ "week": "2026-W04"
+}

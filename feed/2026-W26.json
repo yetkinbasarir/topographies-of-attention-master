@@ -1,0 +1,268 @@
+{
+  "week": "2026-W26",
+  "label": "22-28 HAZİRAN",
+  "publishedAt": "2026-07-10T16:18:58Z",
+  "slots": [
+    {
+      "slot": 1,
+      "packetTitle": "Vatikan, Raphael'in Loggialarının restorasyonuna başladı",
+      "packetSpot": "Vatikan, Raphael'in Loggialarındaki ünlü freskler ve süslemeler üzerinde çalışan 20'den fazla uzmanın yer aldığı önemli bir restorasyon projesine başladı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/24/restoration-of-raphaels-loggia-in-vatican-begins_015b33da-b20a-44d6-ae1d-caa56b93bb97.html",
+          "id": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/24/restoration-of-raphaels-loggia-in-vatican-begins_015b33da-b20a-44d6-ae1d-caa56b93bb97.html",
+          "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/24/restoration-of-raphaels-loggia-in-vatican-begins_015b33da-b20a-44d6-ae1d-caa56b93bb97.html",
+          "titleTR": "Vatikan'da Raphael'in Loggiasının restorasyonu başladı",
+          "descriptionTR": "Dünya Mirası Alanı olan bu mekanda, muhteşem stuko, süslemeler ve freskler yeni bir ışıkla aydınlanıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/24/restoration-of-raphaels-loggia-in-vatican-begins_015b33da-b20a-44d6-ae1d-caa56b93bb97.html",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "packetTitle": "Lucknow'da ölümcül yangınlar",
+      "packetSpot": "Hindistan'ın Lucknow kentinde bir animasyon stüdyosu ve bir dershanede çıkan iki yangın, önemli can kayıplarına yol açtı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1782146590",
+          "id": "https://www.aljazeera.com/?t=1782146590",
+          "link": "https://www.aljazeera.com/news/2026/6/22/fire-at-animation-studio-in-indias-lucknow-kills-at-least-14?traffic_source=rss",
+          "titleTR": "Lucknow'daki animasyon stüdyosunda çıkan yangında en az 14 kişi öldü",
+          "descriptionTR": "Ticari bir binada kütüphane ve animasyon stüdyosunun bulunduğu alanda çıkan yangında, çoğunluğu üniversite öğrencisi olan en az 14 kişi hayatını kaybetti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/6/22/fire-at-animation-studio-in-indias-lucknow-kills-at-least-14?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1782159493",
+          "id": "https://www.aljazeera.com/?t=1782159493",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/15-killed-after-a-fire-ignited-in-a-coaching-centre-in-lucknow-india?traffic_source=rss",
+          "titleTR": "Lucknow'da bir dershanede çıkan yangında 15 kişi öldü",
+          "descriptionTR": "Lucknow, Hindistan'da bir dershanede çıkan yangında 15 kişi hayatını kaybetti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/15-killed-after-a-fire-ignited-in-a-coaching-centre-in-lucknow-india?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "Öne çıkan müzayedeler: Cardinale'in mücevherleri, nadir tabut plakası ve Zabludowicz koleksiyonu",
+      "packetSpot": "Öne çıkan müzayedeler arasında Claudia Cardinale'in mücevherleri, nadir bir tabut plakası ve Zabludowicz koleksiyonu yer alıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/claudia-cardinales-jewels-up-for-auction-at-christies_f1d77aaf-932a-4fc8-bb71-ffc648941cc5.html",
+          "id": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/claudia-cardinales-jewels-up-for-auction-at-christies_f1d77aaf-932a-4fc8-bb71-ffc648941cc5.html",
+          "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/claudia-cardinales-jewels-up-for-auction-at-christies_f1d77aaf-932a-4fc8-bb71-ffc648941cc5.html",
+          "titleTR": "Claudia Cardinale'in mücevherleri Christie's müzayedesinde",
+          "descriptionTR": "Bulgari'den Van Cleef'e, gelirin bir kısmı genç sanatçılar için bir vakfa gidecek.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/claudia-cardinales-jewels-up-for-auction-at-christies_f1d77aaf-932a-4fc8-bb71-ffc648941cc5.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/06/22/silver-coffin-plate-of-the-injured-queen-of-england-heads-to-treasure-house-fair",
+          "id": "https://www.theartnewspaper.com/2026/06/22/silver-coffin-plate-of-the-injured-queen-of-england-heads-to-treasure-house-fair",
+          "link": "https://www.theartnewspaper.com/2026/06/22/silver-coffin-plate-of-the-injured-queen-of-england-heads-to-treasure-house-fair",
+          "titleTR": "‘İngiltere'nin yaralı kraliçesi’nin tabut plakası Treasure House Fuarı'na gidiyor",
+          "descriptionTR": "Satıcı Martyn Downer'a göre, sürgündeki kraliçenin gümüş plakası, piyasada olacak tek İngiltere Kraliçesi tabut plakası olabilir.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/06/22/silver-coffin-plate-of-the-injured-queen-of-england-heads-to-treasure-house-fair",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/06/26/sale-of-controversial-zabludowicz-patrons-collection-finds-mixed-reception-at-christies-london",
+          "id": "https://www.theartnewspaper.com/2026/06/26/sale-of-controversial-zabludowicz-patrons-collection-finds-mixed-reception-at-christies-london",
+          "link": "https://www.theartnewspaper.com/2026/06/26/sale-of-controversial-zabludowicz-patrons-collection-finds-mixed-reception-at-christies-london",
+          "titleTR": "Christie's Londra'daki Zabludowicz koleksiyonu müzayedesinde neler satıldı?",
+          "descriptionTR": "Anita ve Poju Zabludowicz'in koleksiyonundan gelen eserlerin £15.4 milyonluk satışı, tahmin aralığında gerçekleşti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/06/26/sale-of-controversial-zabludowicz-patrons-collection-finds-mixed-reception-at-christies-london",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "Sanat ve sporda önemli atamalar",
+      "packetSpot": "Son atamalar arasında Venedik Film Festivali, Crystal Bridges, İtalyan futbol federasyonu ve AC Milan'daki yeni görevler yer alıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/ben-hania-blumberg-casetti-giannoli-to-sadat-join-venice-film-fest_f98f56cb-8d61-4e59-9d30-a486046eb8d8.html",
+          "id": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/ben-hania-blumberg-casetti-giannoli-to-sadat-join-venice-film-fest_f98f56cb-8d61-4e59-9d30-a486046eb8d8.html",
+          "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/ben-hania-blumberg-casetti-giannoli-to-sadat-join-venice-film-fest_f98f56cb-8d61-4e59-9d30-a486046eb8d8.html",
+          "titleTR": "Ben Hania, Blumberg, Casetti, Giannoli, To ve Sadat Venedik Film Festivali jürisine katılıyor",
+          "descriptionTR": "Oyuncu ve yönetmen Maggie Gyllenhaal jüri başkanı olarak belirlendi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/lifestyle/arts/2026/06/22/ben-hania-blumberg-casetti-giannoli-to-sadat-join-venice-film-fest_f98f56cb-8d61-4e59-9d30-a486046eb8d8.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/06/24/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "id": "https://www.theartnewspaper.com/2026/06/24/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "link": "https://www.theartnewspaper.com/2026/06/24/crystal-bridges-hires-courtenay-finn-chief-curator",
+          "titleTR": "Crystal Bridges, büyük genişlemenin ardından Courtenay Finn'i baş küratör olarak işe aldı",
+          "descriptionTR": "Daha önce Orange County Sanat Müzesi'nde baş küratör olan Finn, Ağustos ayında Crystal Bridges ve the Momentary'de göreve başlayacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/06/24/crystal-bridges-hires-courtenay-finn-chief-curator",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/sports/2026/06/22/giovanni-malago-elected-new-italian-soccer-fed-chief_3712a6f2-8237-459c-a33d-abdf4446c4a9.html",
+          "id": "https://www.ansa.it/english/news/sports/2026/06/22/giovanni-malago-elected-new-italian-soccer-fed-chief_3712a6f2-8237-459c-a33d-abdf4446c4a9.html",
+          "link": "https://www.ansa.it/english/news/sports/2026/06/22/giovanni-malago-elected-new-italian-soccer-fed-chief_3712a6f2-8237-459c-a33d-abdf4446c4a9.html",
+          "titleTR": "Giovanni Malagò yeni İtalyan futbol federasyonu başkanı seçildi",
+          "descriptionTR": "Eski Olimpiyat başkanı, Dünya Kupası elemelerindeki başarısızlığın ardından oyunu canlandırmakla görevlendirildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/sports/2026/06/22/giovanni-malago-elected-new-italian-soccer-fed-chief_3712a6f2-8237-459c-a33d-abdf4446c4a9.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/sports/2026/06/22/soccer-milan-to-replace-fired-executives-with-internal-managers-sources_939f329f-36e2-4cde-86c6-0b53072de470.html",
+          "id": "https://www.ansa.it/english/news/sports/2026/06/22/soccer-milan-to-replace-fired-executives-with-internal-managers-sources_939f329f-36e2-4cde-86c6-0b53072de470.html",
+          "link": "https://www.ansa.it/english/news/sports/2026/06/22/soccer-milan-to-replace-fired-executives-with-internal-managers-sources_939f329f-36e2-4cde-86c6-0b53072de470.html",
+          "titleTR": "Futbol: Milan, kovulan yöneticilerin yerine iç yönetici atayacak - kaynaklar",
+          "descriptionTR": "Cardinale daha merkezi bir rol üstlenecek, Amorim transferlerde büyük söz sahibi olacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/sports/2026/06/22/soccer-milan-to-replace-fired-executives-with-internal-managers-sources_939f329f-36e2-4cde-86c6-0b53072de470.html",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "Avrupa'da kırmızı sıcaklık uyarıları yayılıyor",
+      "packetSpot": "Fransa ve İtalya dahil olmak üzere Avrupa'nın birçok şehrinde kırmızı sıcaklık uyarıları verildi.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://news.mongabay.com/?post_type=short-article&p=321556",
+          "id": "https://news.mongabay.com/?post_type=short-article&p=321556",
+          "link": "https://news.mongabay.com/short-article/2026/06/france-sizzles-in-a-week-of-punishing-heat-as-red-alerts-spread/",
+          "titleTR": "Fransa'da kavurucu sıcaklar rekor kırıyor, kırmızı uyarılar yayılıyor",
+          "descriptionTR": "PARİS — Fransa, hafta boyunca 40 dereceyi aşan gündüz sıcaklıkları ve uyku kaçıran terli gecelerle kavurucu bir sıcak hava dalgasının etkisi altında. Ulusal hava durumu servisi Méteo France, Avrupa Birliği'nin en büyük ve en kalabalık ikinci ülkesi olan Fransa'nın büyük bir kısmında kırmızı uyarılar verildiğini bildirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Mongabay",
+              "url": "https://news.mongabay.com/short-article/2026/06/france-sizzles-in-a-week-of-punishing-heat-as-red-alerts-spread/",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/06/22/12-cities-on-red-heat-alert-today-15-tuesday-and-16-wednesday_146f8201-ee36-4fb5-b570-28f7ca2abd32.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/06/22/12-cities-on-red-heat-alert-today-15-tuesday-and-16-wednesday_146f8201-ee36-4fb5-b570-28f7ca2abd32.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/06/22/12-cities-on-red-heat-alert-today-15-tuesday-and-16-wednesday_146f8201-ee36-4fb5-b570-28f7ca2abd32.html",
+          "titleTR": "Bugün 12 şehirde, salı 15 ve çarşamba 16 şehirde kırmızı sıcaklık uyarısı",
+          "descriptionTR": "Tüm büyük şehirler, ardından salı günü Venedik, Viterbo ve Ancona, çarşamba günü ise Latina'da kırmızı uyarılar geçerli olacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/06/22/12-cities-on-red-heat-alert-today-15-tuesday-and-16-wednesday_146f8201-ee36-4fb5-b570-28f7ca2abd32.html",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

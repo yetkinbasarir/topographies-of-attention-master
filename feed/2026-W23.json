@@ -1,0 +1,450 @@
+{
+ "label": "1-7 HAZİRAN",
+ "publishedAt": "2026-07-09T22:53:56Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/c202rxp1z15o#0",
+     "category": "",
+     "descriptionTR": "İsrail Başbakanı, Hizbullah'ın kuzey İsrail'e yönelik roket ve drone saldırılarına yanıt olarak Beyrut'un güney banliyölerine saldırı emri verdi.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c202rxp1z15o#0",
+     "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "İran, İsrail'in Lübnan'daki saldırılarının ateşkesi tehdit ettiğini belirtti"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1780502363",
+     "category": "",
+     "descriptionTR": "ABD Başkanı, Lübnan saldırıları konusunda Netanyahu'ya sert sözler söylediğini kabul etti ancak İsrail liderini 'sevdiğini' belirtti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1780502363",
+     "link": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Netanyahu, Trump'ın eleştirisini doğrulamasının ardından ABD-İsrail gerilimini küçümsedi"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "İsrail'in Lübnan'daki saldırıları ve ABD-İsrail diplomatik gerilimleri",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1780334963",
+     "category": "",
+     "descriptionTR": "AI chatbot Claude'u işleten Anthropic, halka arzın büyüklüğü veya şartları hakkında bilgi vermedi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1780334963",
+     "link": "https://www.aljazeera.com/economy/2026/6/1/ai-giant-anthropic-files-for-us-ipo-as-investors-bet-big-on-ai-future?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/economy/2026/6/1/ai-giant-anthropic-files-for-us-ipo-as-investors-bet-big-on-ai-future?traffic_source=rss"
+      },
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "AI devi Anthropic, ABD'de halka arz için başvurdu"
+    }
+   ],
+   "packetSpot": "Anthropic, AI chatbot Claude'un geliştiricisi olarak ABD'de halka arz başvurusunda bulundu. Bu adım, AI sektörüne olan yatırımcı güvenini yansıtıyor.",
+   "packetTitle": "Anthropic'in ABD'de halka arz başvurusu: AI chatbot Claude'un arkasındaki şirket",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1780333127",
+     "category": "",
+     "descriptionTR": "Yüzlerce kişi, ABD vatandaşlarının virüse maruz kalması durumunda kullanılacak tesisin planlandığı alanın yakınında protesto düzenledi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1780333127",
+     "link": "https://www.aljazeera.com/news/2026/6/1/kenyans-protest-planned-us-ebola-quarantine-facility?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/6/1/kenyans-protest-planned-us-ebola-quarantine-facility?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Kenya'da ABD'nin Ebola karantina tesisine karşı protesto"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1780335390",
+     "category": "",
+     "descriptionTR": "Aktivistler, 2026 Dünya Kupası öncesinde kaybolan kişilere dikkat çekmek amacıyla stadyumlara kayıp afişleri astı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1780335390",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Meksika'da Dünya Kupası öncesi kayıp kişilere dikkat çekmek için stadyumlara afişler asıldı"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1780505406",
+     "category": "",
+     "descriptionTR": "Eski Somali Başbakanı Khaire, Mogadişu'da planlanan hükümet karşıtı protestolar öncesinde hükümet güçlerini kendisine saldırmakla suçladı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1780505406",
+     "link": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Mogadişu'da Somali cumhurbaşkanına karşı protestolar öncesi silah sesleri"
+    },
+    {
+     "atomID": "https://balkaninsight.com/?p=1115003",
+     "category": "",
+     "descriptionTR": "Trump'ın damadıyla bağlantılı koruma altındaki bölgede planlanan lüks tesise karşı protestolar artıyor; Başbakan Edi Rama projeyi güçlü bir şekilde savundu.",
+     "group": "",
+     "id": "https://balkaninsight.com/?p=1115003",
+     "link": "https://balkaninsight.com/2026/06/03/albanian-protests-mount-against-kushner-linked-luxury-resort/bi/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Balkan Insight",
+       "url": "https://balkaninsight.com/2026/06/03/albanian-protests-mount-against-kushner-linked-luxury-resort/bi/"
+      }
+     ],
+     "titleTR": "Arnavutluk'ta Kushner bağlantılı lüks tesise karşı protestolar artıyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Hükümet eylemlerine karşı küresel protestolar",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1780336693",
+     "category": "",
+     "descriptionTR": "Tire'deki Jabal Amel Hastanesi yakınlarına düzenlenen İsrail saldırısı, hastanenin servislerini ve tıbbi ekipmanlarını tahrip etti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1780336693",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İsrail saldırısı güney Lübnan'da hastaneye zarar verdi"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1780514165",
+     "category": "",
+     "descriptionTR": "Tire'deki Jabal Aamel Hastanesi, İsrail saldırısının yakın binaları yerle bir etmesiyle ağır hasar gördü, önemli tıbbi hizmetler etkilendi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1780514165",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Tire hastanesi yakınındaki İsrail saldırıları en genç hastayı riske attı"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1780686385",
+     "category": "",
+     "descriptionTR": "Gazze'nin merkezi Az-Zawayda'da aileler, gece boyunca süren İsrail saldırılarının ardından enkaz kaldırma çalışmaları yapıyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1780686385",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/families-clear-rubble-after-overnight-israeli-strikes-in-gaza?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Gazze'de gece boyunca süren İsrail saldırılarının ardından aileler enkaz kaldırıyor"
+    }
+   ],
+   "packetSpot": "İsrail'in askeri eylemleri, Lübnan ve Gazze'de hastaneler ve yerleşim alanlarını etkileyerek ciddi hasara ve sivil riskine yol açtı.",
+   "packetTitle": "İsrail saldırılarının siviller üzerindeki etkisi",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/czx2j0v8d2xo#0",
+     "category": "",
+     "descriptionTR": "Florida Başsavcısı James Uthmeier, OpenAI ve CEO'su Sam Altman'ı, ChatGPT'nin kitlesel saldırganlara yardım ettiğini iddia ederek dava etti.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/czx2j0v8d2xo#0",
+     "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Florida'da OpenAI'ye ChatGPT davası"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/general_news/2026/06/03/minetti-seeks-damages-from-fatto-cartabianca-and-report_453179e3-d99d-4cb1-be25-3a0f9119f242.html",
+     "category": "",
+     "descriptionTR": "Avukatlar, cinsel parti iddialarının asılsız olduğu gerekçesiyle dava açtı.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/general_news/2026/06/03/minetti-seeks-damages-from-fatto-cartabianca-and-report_453179e3-d99d-4cb1-be25-3a0f9119f242.html",
+     "link": "https://www.ansa.it/english/news/general_news/2026/06/03/minetti-seeks-damages-from-fatto-cartabianca-and-report_453179e3-d99d-4cb1-be25-3a0f9119f242.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/general_news/2026/06/03/minetti-seeks-damages-from-fatto-cartabianca-and-report_453179e3-d99d-4cb1-be25-3a0f9119f242.html"
+      }
+     ],
+     "titleTR": "Minetti, Fatto, Cartabianca ve Report'tan tazminat talep ediyor"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3130083",
+     "category": "",
+     "descriptionTR": "IBM ve iki yan kuruluşunun 2010'ların ortasında veri ihlaline uğradığı iddia ediliyor; eski bir siber güvenlik yöneticisi, IBM'in bu durumu gizlediğini ileri sürerek dava açtı.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3130083",
+     "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/"
+      }
+     ],
+     "titleTR": "Eski siber güvenlik yöneticisi IBM'i veri ihlallerini örtbas etmekle suçluyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Hukuki eylemler ve iddialar",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.ansa.it/english/news/business/2026/06/01/manufacturing-pmi-rises-to-52.9-in-may-a-record-high-since-april-2022_c71c0d32-f6bd-46ee-9b3a-6c2710021deb.html",
+     "category": "",
+     "descriptionTR": "Üst üste dördüncü ayda büyüme kaydedildi.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/business/2026/06/01/manufacturing-pmi-rises-to-52.9-in-may-a-record-high-since-april-2022_c71c0d32-f6bd-46ee-9b3a-6c2710021deb.html",
+     "link": "https://www.ansa.it/english/news/business/2026/06/01/manufacturing-pmi-rises-to-52.9-in-may-a-record-high-since-april-2022_c71c0d32-f6bd-46ee-9b3a-6c2710021deb.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/business/2026/06/01/manufacturing-pmi-rises-to-52.9-in-may-a-record-high-since-april-2022_c71c0d32-f6bd-46ee-9b3a-6c2710021deb.html"
+      }
+     ],
+     "titleTR": "İmalat PMI Mayıs'ta 52.9'a yükseldi, Nisan 2022'den bu yana en yüksek seviye"
+    },
+    {
+     "atomID": "tag:theatlantic.com,2026:50-687371",
+     "category": "",
+     "descriptionTR": "Son beş yıl öncesine kadar İspanya, ekonomik başarı hikayesi olarak görülmüyordu. Ancak pandemi sonrası İspanya'nın ekonomisi hızla büyüdü ve Avrupa'nın büyük ekonomileri gerilerken İspanya'nın ekonomik politikaları dikkat çekti. İspanya'nın ekonomik başarısı, sol politikaların uygulanması ve göçmenlerin entegrasyonu ile sağlandı. Ancak konut krizi, bu başarının sürdürülebilirliğini tehdit ediyor.",
+     "group": "",
+     "id": "tag:theatlantic.com,2026:50-687371",
+     "link": "https://www.theatlantic.com/ideas/2026/06/spain-economy-immigration-backlash/687371/?utm_source=feed",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Atlantic",
+       "url": "https://www.theatlantic.com/ideas/2026/06/spain-economy-immigration-backlash/687371/?utm_source=feed"
+      }
+     ],
+     "titleTR": "İspanyol istisnası"
+    },
+    {
+     "atomID": "https://techcrunch.com/?post_type=tc_video&p=3129388",
+     "category": "",
+     "descriptionTR": "Savunma teknolojisi şu anda oldukça popüler. Anduril ve Mach Industries değerlemelerini ikiye ve dörde katladı, ABD hükümeti savunma bütçesinde %40 artış öneriyor. Ancak, birçok yeni girişim bu alanda kaybolma riski taşıyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?post_type=tc_video&p=3129388",
+     "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/"
+      }
+     ],
+     "titleTR": "Savunma teknolojisi yatırımlarla dolup taşıyor, ama kimler kalıcı olacak?"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3129237",
+     "category": "",
+     "descriptionTR": "Alphabet'in 85 milyar dolarlık rekor hisse satışı, yatırımcıların yapay zeka ile ilgili tekliflere olan iştahını gösteriyor.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3129237",
+     "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
+      }
+     ],
+     "titleTR": "Alphabet, Google'ın yapay zeka işine 85 milyar dolarlık rekor yatırım yaptı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Ekonomik büyüme ve eğilimler",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.ansa.it/english/news/general_news/2026/06/01/ready-to-strike-like-in-modena-21-year-old-italo-moroccan-arrested-for_b014f0ab-7dca-4a0d-833a-fde00b4ecb6a.html",
+     "category": "",
+     "descriptionTR": "Brianza'da yaşayan İtalyan-Faslı, Fas'a uçmak üzereyken yakalandı.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/general_news/2026/06/01/ready-to-strike-like-in-modena-21-year-old-italo-moroccan-arrested-for_b014f0ab-7dca-4a0d-833a-fde00b4ecb6a.html",
+     "link": "https://www.ansa.it/english/news/general_news/2026/06/01/ready-to-strike-like-in-modena-21-year-old-italo-moroccan-arrested-for_b014f0ab-7dca-4a0d-833a-fde00b4ecb6a.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/general_news/2026/06/01/ready-to-strike-like-in-modena-21-year-old-italo-moroccan-arrested-for_b014f0ab-7dca-4a0d-833a-fde00b4ecb6a.html"
+      }
+     ],
+     "titleTR": "Modena'daki gibi saldırıya hazır: 21 yaşındaki İtalyan-Faslı terör suçlamasıyla tutuklandı"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/general_news/2026/06/03/two-pakistanis-arrested-after-four-farm-workers-burned-alive-in-mini_cd890b85-8f10-4ce4-a7e9-1c8f66daf1d8.html",
+     "category": "",
+     "descriptionTR": "Hayatta kalan bir kişi, çete liderlerinin kurbanlara ödeme yapmayı reddettiğini söyledi.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/general_news/2026/06/03/two-pakistanis-arrested-after-four-farm-workers-burned-alive-in-mini_cd890b85-8f10-4ce4-a7e9-1c8f66daf1d8.html",
+     "link": "https://www.ansa.it/english/news/general_news/2026/06/03/two-pakistanis-arrested-after-four-farm-workers-burned-alive-in-mini_cd890b85-8f10-4ce4-a7e9-1c8f66daf1d8.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/general_news/2026/06/03/two-pakistanis-arrested-after-four-farm-workers-burned-alive-in-mini_cd890b85-8f10-4ce4-a7e9-1c8f66daf1d8.html"
+      }
+     ],
+     "titleTR": "Dört tarım işçisinin minibüste yakılması sonrası iki Pakistanlı tutuklandı"
+    },
+    {
+     "atomID": "https://www.japantimes.co.jp/article/642343/",
+     "category": "",
+     "descriptionTR": "Adam, Aralık ayında gerçekleşen soyguna karıştığını kabul ederek, suçluları işe aldığını ve talimat verdiğini itiraf etti.",
+     "group": "",
+     "id": "https://www.japantimes.co.jp/article/642343/",
+     "link": "https://www.japantimes.co.jp/news/2026/06/05/japan/crime-legal/tachikawa-robbery-arrest/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:56Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "The Japan Times",
+       "url": "https://www.japantimes.co.jp/news/2026/06/05/japan/crime-legal/tachikawa-robbery-arrest/"
+      }
+     ],
+     "titleTR": "Batı Tokyo'da 15 milyon yenlik soygunla ilgili bir kişi tutuklandı"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Son dönemdeki tutuklamalar",
+   "publishedAt": "2026-07-09T22:53:56Z",
+   "sessionID": "produce-week-py",
+   "slot": 7
+  }
+ ],
+ "superPackets": [
+  {
+   "slots": [
+    1,
+    4
+   ],
+   "spot": "Bu hafta İsrail'in Lübnan ve Gazze'deki askeri operasyonları yoğunlaştı, sivilleri etkiledi ve uluslararası diplomatik ilişkileri zorladı.",
+   "title": "İsrail'in askeri hamleleri ve geniş çaplı etkileri"
+  }
+ ],
+ "week": "2026-W23"
+}

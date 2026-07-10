@@ -1,0 +1,439 @@
+{
+ "label": "23-29 MART",
+ "publishedAt": "2026-07-09T22:53:57Z",
+ "slots": [
+  {
+   "items": [
+    {
+     "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/03/23/elkann-says-future-of-freedom-guaranteed-for-repubblica-and-stampa_57cba6f9-19f5-49b7-a740-c971d47a9742.html",
+     "category": "",
+     "descriptionTR": "GEDI'nin Antenna'ya satıldığı gün ANSA ile yapılan röportaj.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/lifestyle/arts/2026/03/23/elkann-says-future-of-freedom-guaranteed-for-repubblica-and-stampa_57cba6f9-19f5-49b7-a740-c971d47a9742.html",
+     "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/03/23/elkann-says-future-of-freedom-guaranteed-for-repubblica-and-stampa_57cba6f9-19f5-49b7-a740-c971d47a9742.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/lifestyle/arts/2026/03/23/elkann-says-future-of-freedom-guaranteed-for-repubblica-and-stampa_57cba6f9-19f5-49b7-a740-c971d47a9742.html"
+      }
+     ],
+     "titleTR": "Elkann: Repubblica ve Stampa'nın özgürlük geleceği garanti altında"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/lifestyle/arts/2026/03/23/sale-of-la-repubblica-to-greek-antenna-group-completed_289682e7-bc7f-456a-8a86-19cbd54752d4.html",
+     "category": "",
+     "descriptionTR": "La Stampa'nın SAE'ye satılacağı Agnelli grubu tarafından doğrulandı.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/lifestyle/arts/2026/03/23/sale-of-la-repubblica-to-greek-antenna-group-completed_289682e7-bc7f-456a-8a86-19cbd54752d4.html",
+     "link": "https://www.ansa.it/english/news/lifestyle/arts/2026/03/23/sale-of-la-repubblica-to-greek-antenna-group-completed_289682e7-bc7f-456a-8a86-19cbd54752d4.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/lifestyle/arts/2026/03/23/sale-of-la-repubblica-to-greek-antenna-group-completed_289682e7-bc7f-456a-8a86-19cbd54752d4.html"
+      }
+     ],
+     "titleTR": "La Repubblica'nın Yunan Antenna grubuna satışı tamamlandı"
+    }
+   ],
+   "packetSpot": "İtalyan gazeteleri Repubblica ve La Stampa'nın yeni sahiplerine satılması, medya sahipliğinde önemli bir değişimi işaret ediyor.",
+   "packetTitle": "İtalyan gazetelerinin satışı: Yeni sahipler, medya özgürlüğü tartışmaları",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 1
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.ansa.it/english/news/politics/2026/03/23/meloni-govt-justice-reform-defeated-in-referendum_f9df3e3a-7ece-4df0-b459-525436f9c65f.html",
+     "category": "",
+     "descriptionTR": "Başbakan, İtalya'yı modernize etme fırsatının kaçırıldığını belirterek yola devam edeceklerini söyledi, muhalefet alternatifin hazır olduğunu ifade etti.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/politics/2026/03/23/meloni-govt-justice-reform-defeated-in-referendum_f9df3e3a-7ece-4df0-b459-525436f9c65f.html",
+     "link": "https://www.ansa.it/english/news/politics/2026/03/23/meloni-govt-justice-reform-defeated-in-referendum_f9df3e3a-7ece-4df0-b459-525436f9c65f.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/23/meloni-govt-justice-reform-defeated-in-referendum_f9df3e3a-7ece-4df0-b459-525436f9c65f.html"
+      }
+     ],
+     "titleTR": "Meloni hükümetinin adalet reformu referandumda yenildi"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/politics/2026/03/23/no-vote-wins-justice-reform-referendum_a528f111-07f8-4372-b9ac-b6543ec32a0e.html",
+     "category": "",
+     "descriptionTR": "Meloni yenilgiyi kabul etti, İtalya'yı modernize etme fırsatının kaçırıldığını belirterek yola devam edeceklerini söyledi.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/politics/2026/03/23/no-vote-wins-justice-reform-referendum_a528f111-07f8-4372-b9ac-b6543ec32a0e.html",
+     "link": "https://www.ansa.it/english/news/politics/2026/03/23/no-vote-wins-justice-reform-referendum_a528f111-07f8-4372-b9ac-b6543ec32a0e.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/23/no-vote-wins-justice-reform-referendum_a528f111-07f8-4372-b9ac-b6543ec32a0e.html"
+      }
+     ],
+     "titleTR": "Adalet reformu referandumunda 'Hayır' oyu kazandı"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/politics/2026/03/23/grosso-says-those-who-wanted-to-weaken-the-independence-of-the-judiciary_1d8c864f-75d6-4722-aa28-998eab3eea78.html",
+     "category": "",
+     "descriptionTR": "Hayır oyu lideri, 'Anayasa kesinlikle kazandı' dedi.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/politics/2026/03/23/grosso-says-those-who-wanted-to-weaken-the-independence-of-the-judiciary_1d8c864f-75d6-4722-aa28-998eab3eea78.html",
+     "link": "https://www.ansa.it/english/news/politics/2026/03/23/grosso-says-those-who-wanted-to-weaken-the-independence-of-the-judiciary_1d8c864f-75d6-4722-aa28-998eab3eea78.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/23/grosso-says-those-who-wanted-to-weaken-the-independence-of-the-judiciary_1d8c864f-75d6-4722-aa28-998eab3eea78.html"
+      }
+     ],
+     "titleTR": "Grosso: Yargı bağımsızlığını zayıflatmak isteyenler kaybetti"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/politics/2026/03/23/tajani-says-we-bow-to-the-will-of-the-people-we-did-everything-possible_09813978-42b1-4e03-aa79-25da39f643b9.html",
+     "category": "",
+     "descriptionTR": "FI lideri, reformun adaleti daha adil hale getireceğini ve İtalya'yı daha özgür kılacağını söyledi.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/politics/2026/03/23/tajani-says-we-bow-to-the-will-of-the-people-we-did-everything-possible_09813978-42b1-4e03-aa79-25da39f643b9.html",
+     "link": "https://www.ansa.it/english/news/politics/2026/03/23/tajani-says-we-bow-to-the-will-of-the-people-we-did-everything-possible_09813978-42b1-4e03-aa79-25da39f643b9.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/23/tajani-says-we-bow-to-the-will-of-the-people-we-did-everything-possible_09813978-42b1-4e03-aa79-25da39f643b9.html"
+      }
+     ],
+     "titleTR": "Tajani: Halkın iradesine saygı duyuyoruz, elimizden geleni yaptık"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/politics/2026/03/23/gratteri-says-no-victory-is-a-strong-and-clear-signal_4eb66c1a-fb19-4a87-af0b-fee510e9ce69.html",
+     "category": "",
+     "descriptionTR": "Reformların gerekli olduğunu, ancak haklara saygı gösterilerek uygulanması gerektiğini belirtti.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/politics/2026/03/23/gratteri-says-no-victory-is-a-strong-and-clear-signal_4eb66c1a-fb19-4a87-af0b-fee510e9ce69.html",
+     "link": "https://www.ansa.it/english/news/politics/2026/03/23/gratteri-says-no-victory-is-a-strong-and-clear-signal_4eb66c1a-fb19-4a87-af0b-fee510e9ce69.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/23/gratteri-says-no-victory-is-a-strong-and-clear-signal_4eb66c1a-fb19-4a87-af0b-fee510e9ce69.html"
+      }
+     ],
+     "titleTR": "Gratteri: Hayır zaferi güçlü ve net bir sinyal"
+    }
+   ],
+   "packetSpot": "Meloni hükümetinin adalet reformunun referandumda yenilgiye uğraması, İtalya'da çeşitli siyasi tepkilere ve tartışmalara yol açtı.",
+   "packetTitle": "İtalya'da adalet reformu referandumu sonrası siyasi yankılar",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 2
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774280595",
+     "category": "",
+     "descriptionTR": "Pilot ve yardımcı pilot hayatını kaybetti, toplamda 41 yolcu ile iki itfaiyeci hastaneye kaldırıldı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774280595",
+     "link": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/23/air-canada-crash-at-laguardia-airport-what-happened-who-were-the-victims?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Air Canada uçağı LaGuardia Havalimanı'nda düştü: Ne oldu, kurbanlar kimlerdi?"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774287282",
+     "category": "",
+     "descriptionTR": "Hava Kuvvetleri, uçakta 114 yolcu ve 11 mürettebat bulunduğunu belirtti; kazanın nedeni araştırılıyor.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774287282",
+     "link": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/23/colombian-military-plane-with-125-on-board-crashes-after-takeoff?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Kolombiya askeri uçağı kazasında en az bir kişi öldü, 77 kişi yaralandı"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774290250",
+     "category": "",
+     "descriptionTR": "CCTV görüntüleri, Air Canada uçağının New York LaGuardia Havalimanı'nda bir itfaiye aracına çarptığı anı kaydetti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774290250",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/stop-stop-stop-moment-air-canada-plane-crashes-into-truck?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/stop-stop-stop-moment-air-canada-plane-crashes-into-truck?traffic_source=rss"
+      }
+     ],
+     "titleTR": "‘Dur, dur, dur’: Air Canada uçağı itfaiye aracına çarptı"
+    },
+    {
+     "atomID": "https://www.bbc.com/news/articles/c8dlmrjn1l2o#0",
+     "category": "",
+     "descriptionTR": "Kolombiya savunma bakanı, olayın \"trajik bir kaza\" olduğunu söyledi ancak nedeni henüz net değil.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c8dlmrjn1l2o#0",
+     "link": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "Kolombiya Hava Kuvvetleri uçağı, çok sayıda askerle birlikte düştü"
+    }
+   ],
+   "packetSpot": "Son dönemde yaşanan havacılık kazaları, Air Canada ve Kolombiya askeri uçaklarının karıştığı olaylarla birlikte güvenlik endişelerini öne çıkarıyor.",
+   "packetTitle": "Havacılık kazaları gündemde",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 3
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.bbc.com/news/articles/c203rdxkezwo#0",
+     "category": "",
+     "descriptionTR": "BM'nin hava durumu ajansına göre, Dünya'nın iklimi kayıtlı tarihteki en dengesiz döneminde.",
+     "group": "",
+     "id": "https://www.bbc.com/news/articles/c203rdxkezwo#0",
+     "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "BBC News World",
+       "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "titleTR": "BM, El Niño yaklaşırken Dünya'nın ikliminin 'sınırlarının ötesine itildiği' konusunda uyarıyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774439658",
+     "category": "",
+     "descriptionTR": "İspanya başbakanı, İsrail'in Lübnan'da Gazze'de kullandığı taktikleri uyguladığını belirtti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774439658",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/spain-says-israel-seeks-to-repeat-gaza-destruction-in-lebanon?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/spain-says-israel-seeks-to-repeat-gaza-destruction-in-lebanon?traffic_source=rss"
+      }
+     ],
+     "titleTR": "İspanya, İsrail'in Lübnan'da 'Gazze yıkımını' tekrarlamak istediğini söylüyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774433321",
+     "category": "",
+     "descriptionTR": "BM insan hakları şefi Volker Turk, İran'a karşı savaşın bölgeye yayıldığını ve sivillerin bundan en çok etkilenenler olduğunu söyledi.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774433321",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/un-human-rights-chief-warns-war-on-iran-is-spreading?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/un-human-rights-chief-warns-war-on-iran-is-spreading?traffic_source=rss"
+      }
+     ],
+     "titleTR": "BM insan hakları şefi, İran'a karşı savaşın yayıldığı konusunda uyarıyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774649231",
+     "category": "",
+     "descriptionTR": "İran yanlısı Yemenli grup, Arap Yarımadası çevresindeki önemli deniz yollarını hedef alma kapasitesine sahip olduklarını açıkladı.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774649231",
+     "link": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Husiler, ABD-İsrail'in İran'a karşı savaşı sürerken 'tetikte olduklarını' belirtiyor"
+    },
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774650523",
+     "category": "",
+     "descriptionTR": "Husiler, ABD-İsrail'in İran'a karşı savaşında doğrudan askeri müdahale için hazır olduklarını belirtti.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774650523",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/fingers-on-the-trigger-for-military-intervention-houthis-warn?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Husiler, askeri müdahale için 'tetikte' olduklarını uyarıyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Artan çatışma uyarıları",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 4
+  },
+  {
+   "items": [
+    {
+     "atomID": "https://www.aljazeera.com/?t=1774435075",
+     "category": "",
+     "descriptionTR": "Mette Frederiksen, zorlu koalisyon görüşmelerinin ardından üçüncü kez başbakanlık için geri dönebilir.",
+     "group": "",
+     "id": "https://www.aljazeera.com/?t=1774435075",
+     "link": "https://www.aljazeera.com/news/2026/3/25/denmarks-pm-resigns-after-failing-to-secure-majority-in-general-election?traffic_source=rss",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "Al Jazeera English",
+       "url": "https://www.aljazeera.com/news/2026/3/25/denmarks-pm-resigns-after-failing-to-secure-majority-in-general-election?traffic_source=rss"
+      }
+     ],
+     "titleTR": "Danimarka Başbakanı genel seçimde çoğunluğu sağlayamayınca istifa etti"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/politics/2026/03/25/tourism-minister-santanche-caves-in-to-pressure-from-meloni-and-quits_fcdb4554-a317-4dc5-a97a-41d768a2a473.html",
+     "category": "",
+     "descriptionTR": "FDI Senatörü, sabıka kaydının temiz olduğunu belirtti.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/politics/2026/03/25/tourism-minister-santanche-caves-in-to-pressure-from-meloni-and-quits_fcdb4554-a317-4dc5-a97a-41d768a2a473.html",
+     "link": "https://www.ansa.it/english/news/politics/2026/03/25/tourism-minister-santanche-caves-in-to-pressure-from-meloni-and-quits_fcdb4554-a317-4dc5-a97a-41d768a2a473.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/25/tourism-minister-santanche-caves-in-to-pressure-from-meloni-and-quits_fcdb4554-a317-4dc5-a97a-41d768a2a473.html"
+      }
+     ],
+     "titleTR": "Turizm Bakanı Santanche, Meloni'nin baskısına dayanamayarak istifa etti"
+    },
+    {
+     "atomID": "https://www.ansa.it/english/news/politics/2026/03/25/justice-minister-nordio-not-quitting-after-referendum-defeat_b0868502-8a79-4e8e-9527-05c7b64482be.html",
+     "category": "",
+     "descriptionTR": "Başbakan, kendisine olan güvenini teyit ettiğini söylüyor.",
+     "group": "",
+     "id": "https://www.ansa.it/english/news/politics/2026/03/25/justice-minister-nordio-not-quitting-after-referendum-defeat_b0868502-8a79-4e8e-9527-05c7b64482be.html",
+     "link": "https://www.ansa.it/english/news/politics/2026/03/25/justice-minister-nordio-not-quitting-after-referendum-defeat_b0868502-8a79-4e8e-9527-05c7b64482be.html",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "ANSA English",
+       "url": "https://www.ansa.it/english/news/politics/2026/03/25/justice-minister-nordio-not-quitting-after-referendum-defeat_b0868502-8a79-4e8e-9527-05c7b64482be.html"
+      }
+     ],
+     "titleTR": "Adalet Bakanı Nordio, referandum yenilgisine rağmen istifa etmiyor"
+    }
+   ],
+   "packetSpot": "",
+   "packetTitle": "Avrupa'da siyasi istifalar",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 5
+  },
+  {
+   "items": [
+    {
+     "atomID": "2521032-meta-and-youtube-fined-3-million-for-harming-mental-health|2521032",
+     "category": "",
+     "descriptionTR": "Önemli bir davada, sosyal medya devleri Meta ve YouTube'un ihmalkar davrandıkları tespit edilerek bir kullanıcının ruh sağlığına zarar verdikleri için ceza ödemelerine karar verildi. Bu karar, sosyal platformların çalışma şekillerinde büyük değişikliklere yol açabilir.",
+     "group": "",
+     "id": "2521032-meta-and-youtube-fined-3-million-for-harming-mental-health|2521032",
+     "link": "https://www.newscientist.com/article/2521032-meta-and-youtube-fined-3-million-for-harming-mental-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "New Scientist",
+       "url": "https://www.newscientist.com/article/2521032-meta-and-youtube-fined-3-million-for-harming-mental-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home"
+      }
+     ],
+     "titleTR": "Meta ve YouTube'a ruh sağlığına zarar verdikleri için 3 milyon dolar ceza"
+    },
+    {
+     "atomID": "https://techcrunch.com/?p=3105827",
+     "category": "",
+     "descriptionTR": "Para miktarı kadar önemli olan, bu kararın Meta'ya karşı gençlere zarar verme konusunda türünün ilk örneği olan bir jüri kararı olmasıdır.",
+     "group": "",
+     "id": "https://techcrunch.com/?p=3105827",
+     "link": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
+     "newsValue": 5,
+     "publishedAt": "2026-07-09T22:53:57Z",
+     "sources": [
+      {
+       "originalLanguage": "en",
+       "sourceName": "TechCrunch",
+       "url": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/"
+      }
+     ],
+     "titleTR": "New Mexico, Meta'ya çocuk güvenliği konusunda ilk mahkeme yenilgisini yaşattı, ülke genelinde dikkatler burada"
+    }
+   ],
+   "packetSpot": "Meta, ruh sağlığı üzerindeki etkileri nedeniyle aldığı para cezaları ve çocuk güvenliği konusundaki mahkeme yenilgisi dahil olmak üzere hukuki zorluklarla karşı karşıya.",
+   "packetTitle": "Teknoloji devleri hukuki sorunlarla karşı karşıya",
+   "publishedAt": "2026-07-09T22:53:57Z",
+   "sessionID": "produce-week-py",
+   "slot": 6
+  }
+ ],
+ "week": "2026-W13"
+}

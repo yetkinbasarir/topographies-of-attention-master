@@ -1,0 +1,1501 @@
+{
+  "week": "2026-W02",
+  "label": "5-11 OCAK",
+  "publishedAt": "2026-07-10T16:18:58Z",
+  "slots": [
+    {
+      "slot": 1,
+      "packetTitle": "İran'daki protestolar ve Trump'ın askeri tehditleri",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/news/world/middle-east/article/3339413/trump-says-protest-hit-iran-big-trouble-again-threatens-military-strike?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/middle-east/article/3339413/trump-says-protest-hit-iran-big-trouble-again-threatens-military-strike?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3339413/trump-says-protest-hit-iran-big-trouble-again-threatens-military-strike?utm_source=rss_feed",
+          "titleTR": "Trump, protestolarla sarsılan İran'ın 'büyük sıkıntıda' olduğunu söyledi, askeri müdahale tehdidini yineledi",
+          "descriptionTR": "ABD Başkanı Donald Trump, İran'da büyük protestolarla karşı karşıya olan ülkenin 'büyük bir sıkıntı' içinde olduğunu belirtti ve askeri müdahale tehdidini yineledi. Trump, İran'da halkın, birkaç hafta önce kimsenin mümkün olduğunu düşünmediği bazı şehirleri ele geçirdiğini söyledi. Yaşam maliyetlerindeki artışa duyulan öfke ile başlayan protestolar, şimdi dini sistemin sona erdirilmesi çağrılarıyla devam ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/middle-east/article/3339413/trump-says-protest-hit-iran-big-trouble-again-threatens-military-strike?utm_source=rss_feed",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767380731",
+          "id": "https://www.aljazeera.com/?t=1767380731",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/2/iran-faces-growing-protests-amid-deepening-economic-crisis?traffic_source=rss",
+          "titleTR": "İran, derinleşen ekonomik krizle birlikte artan protestolarla karşı karşıya",
+          "descriptionTR": "İran'da ekonomik kriz derinleştikçe protestolar artıyor. Yükselen fiyatlar ve düşen yaşam standartları, halkın öfkesini körüklüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/1/2/iran-faces-growing-protests-amid-deepening-economic-crisis?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "tag:theatlantic.com,2026:50-685476",
+          "id": "tag:theatlantic.com,2026:50-685476",
+          "link": "https://www.theatlantic.com/ideas/2026/01/trump-threatens-iran-regime-change-red-line/685476/?utm_source=feed",
+          "titleTR": "Trump'ın 'İran Özgürlük Operasyonu'",
+          "descriptionTR": "ABD Başkanı Donald Trump, gece yarısı yaptığı bir sosyal medya paylaşımında, İran'da barışçıl protestocuların öldürülmesi durumunda ABD'nin müdahale edeceğini belirtti. Trump'ın bu açıklamaları, ABD'nin İran'a karşı askeri bir müdahale planladığı anlamına gelmese de, uluslararası arenada dikkat çekiyor. Trump'ın İsrail Başbakanı Benjamin Netanyahu ile yaptığı görüşmenin ardından bu tür açıklamalar yapması, İran'daki rejim değişikliği konusundaki tartışmaları yeniden alevlendirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Atlantic",
+              "url": "https://www.theatlantic.com/ideas/2026/01/trump-threatens-iran-regime-change-red-line/685476/?utm_source=feed",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "packetTitle": "2025'te Tesla'nın satışları düşerken BYD küresel EV lideri oluyor",
+      "packetSpot": "Tesla'nın yıllık satışları 2025'te %9 düşerek üst üste ikinci kez düşüş yaşarken, BYD küresel elektrikli araç satışlarında Tesla'yı geride bıraktı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://techcrunch.com/?p=3079456",
+          "id": "https://techcrunch.com/?p=3079456",
+          "link": "https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/",
+          "titleTR": "Tesla'nın yıllık satışları %9 düştü, BYD küresel EV lideri oldu",
+          "descriptionTR": "Tesla'nın yıllık satışları, ABD'deki federal vergi kredisinin kaldırılması ve Çinli otomobil üreticilerinin rekabeti nedeniyle üst üste ikinci yıl düşüş gösterdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/01/02/tesla-annual-sales-decline-9-as-its-overtaken-by-byd-as-global-ev-leader/",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.scmp.com/news/china/article/3339104/byds-win-teslas-defeat-fords-pivot-widening-gap-us-china-ev-markets?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/china/article/3339104/byds-win-teslas-defeat-fords-pivot-widening-gap-us-china-ev-markets?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/china/article/3339104/byds-win-teslas-defeat-fords-pivot-widening-gap-us-china-ev-markets?utm_source=rss_feed",
+          "titleTR": "BYD'nin zaferi, Tesla'nın yenilgisi, Ford'un dönüşü: ABD-Çin EV pazarlarındaki fark açılıyor",
+          "descriptionTR": "Elektrikli araçlarda Çin ile başa baş rekabet eden ABD'nin artık geride kaldığı yaygın bir görüş haline geldi – bu durum Detroit'te bile giderek daha fazla kabul ediliyor. Konu hakkında bir podcast'te konuşan ABD'li otomobil üreticisi Ford'un CEO'su, \"Tesla, GM veya Ford'un Çin'den gördüklerimizle gerçek bir rekabeti yok. Çin, küresel EV sahnesini tamamen domine ediyor ve Çin dışında daha da fazla.\" dedi. Geçtiğimiz on yıl boyunca, küresel elektrikli araç pazarı...",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/china/article/3339104/byds-win-teslas-defeat-fords-pivot-widening-gap-us-china-ev-markets?utm_source=rss_feed",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "packetTitle": "Hamburg'da 'Beyaz Kaplan' davası: Çocuklara karşı çevrimiçi suçlar iddiasıyla yargılama başladı",
+      "packetSpot": "Hamburg'da 'Beyaz Kaplan' olarak bilinen şahsın çocuklara karşı işlediği iddia edilen çevrimiçi suçlar nedeniyle yargılandığı dava başladı.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.scmp.com/news/world/europe/article/3339408/online-predator-white-tiger-trial-germany-over-crimes-against-children?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/europe/article/3339408/online-predator-white-tiger-trial-germany-over-crimes-against-children?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/europe/article/3339408/online-predator-white-tiger-trial-germany-over-crimes-against-children?utm_source=rss_feed",
+          "titleTR": "Almanya'da çocuklara karşı suç işlediği iddia edilen 'Beyaz Kaplan' yargılanıyor",
+          "descriptionTR": "Almanya'da bir gençlik mahkemesi, 'Beyaz Kaplan' olarak adlandırılan davayı Cuma günü başlattı. Davada, 21 yaşındaki Alman-İranlı sanık, 13 yaşındaki bir çocuğu intihara zorlamak da dahil olmak üzere birçok sadistik çevrimiçi suçla suçlanıyor. Sanık, Hamburg'daki duruşma için transfer edilirken diğer tutuklular tarafından 'Beyaz Kaplan' diye bağırılarak saldırıya uğradı. Sanığın avukatı Christiane Yueksel, mahkeme önünde gazetecilere yaptığı açıklamada bu durumu aktardı. Sanık, yasal gereklilikler nedeniyle sadece Shahriar J olarak kısmen tanımlandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3339408/online-predator-white-tiger-trial-germany-over-crimes-against-children?utm_source=rss_feed",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "packetTitle": "Brigitte Macron'a yönelik siber zorbalık davasında mahkeme kararı",
+      "packetSpot": "Paris'te bir mahkeme, Brigitte Macron'a yönelik cinsiyetine dair yanlış iddialara odaklanan siber zorbalık nedeniyle 10 kişiyi mahkum etti.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "d4fc6bc6-ea7e-11f0-b6c2-597c8d26def0",
+          "id": "d4fc6bc6-ea7e-11f0-b6c2-597c8d26def0",
+          "link": "https://www.france24.com/en/video/20260105-10-people-found-guilty-of-cyberbullying-france-s-first-lady-brigitte-macron",
+          "titleTR": "Brigitte Macron'a siber zorbalık yapan 10 kişi suçlu bulundu",
+          "descriptionTR": "Paris'te bir mahkeme, Fransa'nın first lady'si Brigitte Macron'a yönelik siber zorbalık suçlamasıyla 10 kişiyi suçlu buldu. Bu kişiler, Macron'un cinsiyeti ve cinselliği hakkında, erkek olarak doğduğuna dair yanlış iddialar da dahil olmak üzere, çevrimiçi yalanlar yaymakla suçlanıyordu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260105-10-people-found-guilty-of-cyberbullying-france-s-first-lady-brigitte-macron",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "packetTitle": "Donald Trump'ın dış politikası Avrupa'da endişe yaratıyor",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.politico.eu/?post_type=article&p=7739838",
+          "id": "https://www.politico.eu/?post_type=article&p=7739838",
+          "link": "https://www.politico.eu/article/europe-trump-relationship/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "titleTR": "Trump'ın 'Vahşi Batı' doktrini Avrupa'yı düşündürüyor",
+          "descriptionTR": "Avrupa ülkeleri, Donald Trump'a ne kadar ihtiyaç duyduklarını düşünmemeye çalışıyor. Bazı diplomatlar, bu konuyu düşünmenin zamanı geldiğini söylüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/europe-trump-relationship/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "packetTitle": "AB-Mercosur ticaret anlaşması imza öncesi AB içi muhalefetle karşı karşıya",
+      "packetSpot": "AB-Mercosur Serbest Ticaret Anlaşması'nın imzalanması Paraguay'da planlanıyor, ancak özellikle Fransa'dan gelen iç muhalefet nedeniyle AB içinde tartışmalar sürüyor. On yıllardır süren müzakereler, ekonomik faydalar ile tarımsal endişeler arasındaki gerilimi gözler önüne seriyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "cce13ef8-ed71-11f0-b3e9-b7acb8826bf8",
+          "id": "cce13ef8-ed71-11f0-b3e9-b7acb8826bf8",
+          "link": "https://www.france24.com/en/video/20260109-after-decades-of-negotiations-eu-mercosur-deal-hinges-on-france-and-italy",
+          "titleTR": "On yıllar süren müzakerelerin ardından AB-Mercosur anlaşması Fransa ve İtalya'ya bağlı",
+          "descriptionTR": "Avrupa Dış İlişkiler Konseyi'nden Politika Uzmanı Alberto Rizzi, uzun zamandır beklenen AB-Mercosur ticaret anlaşması etrafındaki değişen Avrupa siyasi hesaplarını aydınlatıyor. İtalya'nın anlaşmaya yönelik son desteği, ulusal ekonomik faydaların İtalyan çiftçilerin korunmasına karşı stratejik bir şekilde değerlendirildiğini gösteriyor. Rizzi, bunun tekdüze bir tehdit veya çözüm olarak görülmemesi gerektiği konusunda uyarıyor. Bu, modern demokrasilerin küresel karşılıklı bağımlılık ve kırsal dışlanma ile nasıl başa çıktıklarına dair bir vaka çalışmasıdır.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260109-after-decades-of-negotiations-eu-mercosur-deal-hinges-on-france-and-italy",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "packetTitle": "Crans-Montana yangını sonrası",
+      "packetSpot": "Crans-Montana'daki trajik yangın ve sonrasını ele alan birçok makale var.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-i-saw-traces-of-tragedy-i-suffer-as-father-and-grandfather-says_df199b9f-f262-4c80-a7a2-9c01a29af4ac.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-i-saw-traces-of-tragedy-i-suffer-as-father-and-grandfather-says_df199b9f-f262-4c80-a7a2-9c01a29af4ac.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-i-saw-traces-of-tragedy-i-suffer-as-father-and-grandfather-says_df199b9f-f262-4c80-a7a2-9c01a29af4ac.html",
+          "titleTR": "Tajani: Crans-Montana'da trajedinin izlerini gördüm, bir baba ve dede olarak acı çekiyorum",
+          "descriptionTR": "İtalya Dışişleri Bakanı, bar yangınının olduğu yeri ziyaret etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-i-saw-traces-of-tragedy-i-suffer-as-father-and-grandfather-says_df199b9f-f262-4c80-a7a2-9c01a29af4ac.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-evidently-something-went-wrong-with-safety-says-tajani_9cb21b0a-e999-4d56-ab65-686ea6b9a14e.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-evidently-something-went-wrong-with-safety-says-tajani_9cb21b0a-e999-4d56-ab65-686ea6b9a14e.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-evidently-something-went-wrong-with-safety-says-tajani_9cb21b0a-e999-4d56-ab65-686ea6b9a14e.html",
+          "titleTR": "Tajani: Crans-Montana'da belli ki güvenlikle ilgili bir sorun vardı",
+          "descriptionTR": "Dışişleri Bakanı, trajedi yerinde kapalı alanda havai fişek kullanımının 'anlamsız' olduğunu söyledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/01/02/crans-montana-evidently-something-went-wrong-with-safety-says-tajani_9cb21b0a-e999-4d56-ab65-686ea6b9a14e.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/01/02/one-italian-dead-six-missing-after-crans-montana-fire_1e5ad01c-924a-4224-bedf-712f87a0666a.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/01/02/one-italian-dead-six-missing-after-crans-montana-fire_1e5ad01c-924a-4224-bedf-712f87a0666a.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/01/02/one-italian-dead-six-missing-after-crans-montana-fire_1e5ad01c-924a-4224-bedf-712f87a0666a.html",
+          "titleTR": "Crans-Montana yangınında bir İtalyan öldü, altı kişi kayıp",
+          "descriptionTR": "13 İtalyan hastaneye kaldırıldı, Yeni Yıl partisinde alevler arasında kalan 112 kişi yaralandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/01/02/one-italian-dead-six-missing-after-crans-montana-fire_1e5ad01c-924a-4224-bedf-712f87a0666a.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "353969e2-e7f2-11f0-a961-ed42b1797ccc",
+          "id": "353969e2-e7f2-11f0-a961-ed42b1797ccc",
+          "link": "https://www.france24.com/en/video/20260102-crans-montana-fire-likely-caused-by-sparklers-on-champagne-bottles",
+          "titleTR": "Crans-Montana yangını muhtemelen şampanya şişelerindeki maytaplardan kaynaklandı",
+          "descriptionTR": "İlk araştırmalara göre, İsviçre kayak merkezi barında çıkan yangının, şampanya şişelerine takılan 'fıskiye mumları'nın tavana çok yakın taşınmasıyla başladığı belirtildi. Yerel savcı, ses yalıtımı için kullanılan tavan malzemesinin düzenlemelere uygun olup olmadığını inceleyeceklerini söyledi. FRANCE 24'ten Olivia Bizot olay yerinde.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260102-crans-montana-fire-likely-caused-by-sparklers-on-champagne-bottles",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/swiss-bar-fire-likely-cause-of-resort-blaze-identified-as-teen-educated-in-uk-named-among-missing-13489737",
+          "id": "https://news.sky.com/story/swiss-bar-fire-likely-cause-of-resort-blaze-identified-as-teen-educated-in-uk-named-among-missing-13489737",
+          "link": "https://news.sky.com/story/swiss-bar-fire-likely-cause-of-resort-blaze-identified-as-teen-educated-in-uk-named-among-missing-13489737",
+          "titleTR": "İsviçre tatil köyü yangınının olası nedeni belirlendi - İngiltere'de eğitim gören genç kayıplar arasında",
+          "descriptionTR": "Yetkililer, İsviçre kayak merkezindeki ölümcül yangının muhtemel nedeni olarak şampanya şişelerindeki maytapları belirledi. Kayıp gençlerin fotoğrafları ortaya çıkmaya başladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/swiss-bar-fire-likely-cause-of-resort-blaze-identified-as-teen-educated-in-uk-named-among-missing-13489737",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.scmp.com/news/world/europe/article/3338584/owner-swiss-bar-where-new-year-fire-killed-40-insists-safety-norms-were-followed?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/europe/article/3338584/owner-swiss-bar-where-new-year-fire-killed-40-insists-safety-norms-were-followed?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/europe/article/3338584/owner-swiss-bar-where-new-year-fire-killed-40-insists-safety-norms-were-followed?utm_source=rss_feed",
+          "titleTR": "Yeni Yıl yangınında 40 kişinin öldüğü İsviçre barının sahibi güvenlik normlarının takip edildiğini iddia ediyor",
+          "descriptionTR": "Yeni Yıl kutlamaları sırasında ölümcül bir yangın çıkan İsviçre kayak merkezi kasabasındaki barın sahibi, Cuma günü İsviçre medyasına güvenlik normlarının takip edildiğini söyledi. Jacques Moretti, eşi Jessica ile birlikte yönettiği Le Constellation barının son 10 yılda üç denetimden geçtiğini belirtti. Her şeyin düzenlemelere uygun yapıldığını söyledi. Güvenlik standartlarının saygı gösterilip gösterilmediği sorusu tartışılmaya devam ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3338584/owner-swiss-bar-where-new-year-fire-killed-40-insists-safety-norms-were-followed?utm_source=rss_feed",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "b2893021",
+          "id": "b2893021",
+          "link": "https://www.independent.co.uk/news/world/europe/switzerland-fire-crans-montana-ski-resort-bar-explosion-latest-news-b2893326.html",
+          "titleTR": "İsviçre yangınında son durum: Kayıp gençlerin aileleri bilgi bekliyor, ölümcül yangının olası nedeni belirlendi",
+          "descriptionTR": "İsviçre Polisi, popüler bir İsviçre kayak merkezindeki barda çıkan yangında yaklaşık 40 kişinin öldüğünü doğruladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/europe/switzerland-fire-crans-montana-ski-resort-bar-explosion-latest-news-b2893326.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.japantimes.co.jp/article/635758/",
+          "id": "https://www.japantimes.co.jp/article/635758/",
+          "link": "https://www.japantimes.co.jp/news/2026/01/02/world/swiss-investigators-fire/",
+          "titleTR": "İsviçreli araştırmacılar Yeni Yıl yangınının kurbanlarını tanımlamak için acele ediyor",
+          "descriptionTR": "Yangının nasıl başladığı henüz net değil, ancak yaklaşık 40 kişi öldü ve en az 115 kişi yaralandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/01/02/world/swiss-investigators-fire/",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/crans-montana-fire-its-likely-a-flashover-occurred-heres-what-that-means",
+          "id": "https://www.straitstimes.com/world/europe/crans-montana-fire-its-likely-a-flashover-occurred-heres-what-that-means",
+          "link": "https://www.straitstimes.com/world/europe/crans-montana-fire-its-likely-a-flashover-occurred-heres-what-that-means",
+          "titleTR": "Crans-Montana yangını: Muhtemelen bir alev sıçraması oldu. İşte bunun anlamı",
+          "descriptionTR": "Alev sıçraması, bir odanın hızla alevler içinde kalması durumudur.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/crans-montana-fire-its-likely-a-flashover-occurred-heres-what-that-means",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/crans-montana-fire-swiss-prosecutor-says-sparklers-likely-started-deadly-blaze",
+          "id": "https://www.straitstimes.com/world/europe/crans-montana-fire-swiss-prosecutor-says-sparklers-likely-started-deadly-blaze",
+          "link": "https://www.straitstimes.com/world/europe/crans-montana-fire-swiss-prosecutor-says-sparklers-likely-started-deadly-blaze",
+          "titleTR": "Crans-Montana yangını: İsviçreli savcı, ölümcül yangının muhtemelen şampanya maytaplarından başladığını söyledi",
+          "descriptionTR": "Mumlar, şampanya şişelerine takılmış ve tavana çok yakın tutulmuştu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/crans-montana-fire-swiss-prosecutor-says-sparklers-likely-started-deadly-blaze",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c62w3zpl4ldo#0",
+          "id": "https://www.bbc.com/news/articles/c62w3zpl4ldo#0",
+          "link": "https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "İsviçre kayak merkezi yangınında yaralanan 116 kişi belirlendi",
+          "descriptionTR": "Crans-Montana'da Yeni Yıl arifesinde bir barda çıkan yangında 40 kişi hayatını kaybetti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c62w3zpl4ldo?at_medium=RSS&at_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c74wexkd598o#1",
+          "id": "https://www.bbc.com/news/articles/c74wexkd598o#1",
+          "link": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Aileler, ölümcül yangından önce İsviçre kayak barının yıllarca denetlenmediğine şaşırdı",
+          "descriptionTR": "Crans-Montana'daki bir barda Yeni Yıl arifesinde çıkan yangında 40 kişi öldü ve 116 kişi yaralandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c74wexkd598o#1",
+          "id": "https://www.bbc.com/news/articles/c74wexkd598o#1",
+          "link": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Aileler, ölümcül yangından önce İsviçre kayak barının yıllarca denetlenmediğine şaşırdı",
+          "descriptionTR": "Crans-Montana'daki bir barda Yeni Yıl arifesinde çıkan yangında 40 kişi öldü ve 116 kişi yaralandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c4g0mq520zeo#0",
+          "id": "https://www.bbc.com/news/articles/c4g0mq520zeo#0",
+          "link": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
+          "titleTR": "İsviçre kayak barının sahibi ölümcül Yeni Yıl arifesi yangınından sonra gözaltında",
+          "descriptionTR": "Jacques Moretti, kaçma riski nedeniyle gözaltında tutuluyor, İsviçre medyası rapor ediyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "BBC News Europe",
+              "url": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/owners-of-swiss-bar-where-40-died-in-new-year-fire-are-detained-13492538",
+          "id": "https://news.sky.com/story/owners-of-swiss-bar-where-40-died-in-new-year-fire-are-detained-13492538",
+          "link": "https://news.sky.com/story/owners-of-swiss-bar-where-40-died-in-new-year-fire-are-detained-13492538",
+          "titleTR": "Yeni Yıl yangınında 40 kişinin öldüğü İsviçre barının sahipleri gözaltında",
+          "descriptionTR": "Jacques Moretti, Yeni Yıl arifesinde çıkan yangında 40 kişinin öldüğü barın ortak sahibi olarak gözaltına alındı, İsviçreli bir savcı söyledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/owners-of-swiss-bar-where-40-died-in-new-year-fire-are-detained-13492538",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.scmp.com/news/world/europe/article/3339409/swiss-bar-owner-put-pre-trial-detention-over-deadly-new-years-eve-fire?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/europe/article/3339409/swiss-bar-owner-put-pre-trial-detention-over-deadly-new-years-eve-fire?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/europe/article/3339409/swiss-bar-owner-put-pre-trial-detention-over-deadly-new-years-eve-fire?utm_source=rss_feed",
+          "titleTR": "Yeni Yıl arifesi yangını nedeniyle İsviçre bar sahibi ön duruşma gözaltına alındı",
+          "descriptionTR": "İsviçre, Yeni Yıl kutlamaları sırasında bir Alp barında çıkan yangında ölen 40 kişi için ulusal yas ilan etti. Savcılar, yöneticilerden birinin ön duruşma gözaltına alınmasını talep etti. Valais bölgesi başsavcısı Beatrice Pilloud, adamın kaçma riskini önlemek için gözaltına alınmasının gerektiğini belirtti. Adamın eşi ve ortak yöneticisi yargı denetimi altında serbest kalacak. İsviçre ticaret sicili, Fransız çifti...",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3339409/swiss-bar-owner-put-pre-trial-detention-over-deadly-new-years-eve-fire?utm_source=rss_feed",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "packetTitle": "Yüksek profilli davalar",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767387462",
+          "id": "https://www.aljazeera.com/?t=1767387462",
+          "link": "https://www.aljazeera.com/news/2026/1/2/us-judge-orders-dc-pipe-bomber-to-remain-in-custody-ahead-of-trial?traffic_source=rss",
+          "titleTR": "ABD yargıcı, DC boru bombası şüphelisinin duruşma öncesi tutuklu kalmasına karar verdi",
+          "descriptionTR": "Savcılar, Brian Cole'un 2020 seçimlerinin çalındığına dair Trump'ın yanlış iddialarını tekrarlayarak bomba yerleştirdiğini itiraf ettiğini söylüyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/1/2/us-judge-orders-dc-pipe-bomber-to-remain-in-custody-ahead-of-trial?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.ansa.it/english/news/general_news/2026/01/02/a-suspect-is-under-investigation-in-the-death-of-aurora-livoli-in-milan_ca912eb0-67b6-48c1-88f7-48390ce8b6d7.html",
+          "id": "https://www.ansa.it/english/news/general_news/2026/01/02/a-suspect-is-under-investigation-in-the-death-of-aurora-livoli-in-milan_ca912eb0-67b6-48c1-88f7-48390ce8b6d7.html",
+          "link": "https://www.ansa.it/english/news/general_news/2026/01/02/a-suspect-is-under-investigation-in-the-death-of-aurora-livoli-in-milan_ca912eb0-67b6-48c1-88f7-48390ce8b6d7.html",
+          "titleTR": "Milan'da Aurora Livoli'nin ölümüyle ilgili bir şüpheli soruşturma altında",
+          "descriptionTR": "57 yaşındaki Perulu, cesedin bulunmasından bir gün sonra soygun girişimi nedeniyle tutuklandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "ANSA English",
+              "url": "https://www.ansa.it/english/news/general_news/2026/01/02/a-suspect-is-under-investigation-in-the-death-of-aurora-livoli-in-milan_ca912eb0-67b6-48c1-88f7-48390ce8b6d7.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/anthony-joshuas-driver-charged-over-nigeria-crash-that-killed-two-13489745",
+          "id": "https://news.sky.com/story/anthony-joshuas-driver-charged-over-nigeria-crash-that-killed-two-13489745",
+          "link": "https://news.sky.com/story/anthony-joshuas-driver-charged-over-nigeria-crash-that-killed-two-13489745",
+          "titleTR": "Anthony Joshua'nın sürücüsü ölümcül Nijerya kazası nedeniyle suçlandı",
+          "descriptionTR": "Nijerya'da bir kamyona çarpan ve iki yolcunun ölümüne neden olan aracın sürücüsü, Anthony Joshua'nın yaralanmasına neden olan kazayla ilgili olarak suçlandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/anthony-joshuas-driver-charged-over-nigeria-crash-that-killed-two-13489745",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.scmp.com/sport/boxing/article/3338579/nigeria-police-charge-driver-fatal-anthony-joshua-car-crash-dangerous-driving?utm_source=rss_feed",
+          "id": "https://www.scmp.com/sport/boxing/article/3338579/nigeria-police-charge-driver-fatal-anthony-joshua-car-crash-dangerous-driving?utm_source=rss_feed",
+          "link": "https://www.scmp.com/sport/boxing/article/3338579/nigeria-police-charge-driver-fatal-anthony-joshua-car-crash-dangerous-driving?utm_source=rss_feed",
+          "titleTR": "Nijerya'daki ölümcül Anthony Joshua kazasında sürücü tehlikeli sürüşle suçlandı",
+          "descriptionTR": "Nijerya'nın güneybatısındaki Ogun eyaletinde polis, İngiliz boksör Anthony Joshua'yı taşıyan ve ölümcül bir kazaya karışan aracın sürücüsünü dikkatsiz ve tehlikeli sürüşle suçladı. Adeniyi Mobolaji Kayode, 46 yaşında, boksörü ve iki arkadaşını Lagos ve Ibadan'ı bağlayan yoğun bir otoyolda taşıyordu. Lexus SUV, pazartesi günü park halindeki bir kamyona çarptı. Kayode'nin...",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/sport/boxing/article/3338579/nigeria-police-charge-driver-fatal-anthony-joshua-car-crash-dangerous-driving?utm_source=rss_feed",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "b2893752",
+          "id": "b2893752",
+          "link": "https://www.independent.co.uk/news/world/americas/us-politics/ice-officer-guilty-sexual-abuse-immigrant-b2893752.html",
+          "titleTR": "Eski ICE memuru, gözaltındaki göçmeni cinsel istismar etmekten suçunu kabul etti",
+          "descriptionTR": "Louisiana'da bir gözaltı memuru, ABD'deki tesislerde artan kötü muamele ve ihmal raporları arasında, gözaltındaki bir göçmenle cinsel ilişki kurduğunu kabul etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/us-politics/ice-officer-guilty-sexual-abuse-immigrant-b2893752.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "b2893759",
+          "id": "b2893759",
+          "link": "https://www.independent.co.uk/news/world/americas/crime/uber-driver-dead-new-years-teen-charged-b2893759.html",
+          "titleTR": "Uber sürücüsü Yeni Yıl Günü ölü bulundu, 15 yaşındaki çocuk cinayetle suçlandı",
+          "descriptionTR": "Christian Simmons, 58 yaşındaki koca ve iki çocuk babası Cesar Tejada'nın 'anlamsız cinayeti' nedeniyle yetişkin olarak suçlandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/crime/uber-driver-dead-new-years-teen-charged-b2893759.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "e10ce08a-ea74-11f0-b656-cf8d44f5074b",
+          "id": "e10ce08a-ea74-11f0-b656-cf8d44f5074b",
+          "link": "https://www.france24.com/en/video/20260105-deposed-venezuelan-leader-maduro-pleads-not-guilty-in-us-court-appearance",
+          "titleTR": "Görevden alınan Venezuela lideri Maduro, ABD mahkemesinde suçsuz olduğunu iddia etti",
+          "descriptionTR": "Washington'daki muhabirimiz Fraser Jackson'dan daha fazla bilgi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260105-deposed-venezuelan-leader-maduro-pleads-not-guilty-in-us-court-appearance",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "e0090f88-ea74-11f0-b4fa-cf8d44f5074b",
+          "id": "e0090f88-ea74-11f0-b4fa-cf8d44f5074b",
+          "link": "https://www.france24.com/en/video/20260105-maduro-says-i-was-captured-as-he-pleads-not-guilty-to-drug-trafficking-charges",
+          "titleTR": "Maduro, uyuşturucu kaçakçılığı suçlamalarına karşı suçsuz olduğunu iddia etti",
+          "descriptionTR": "Nicolas Maduro, Venezuela'da iktidardan uzaklaştırılmasını haklı çıkarmak için Trump yönetimi tarafından kullanılan federal uyuşturucu kaçakçılığı suçlamalarına karşı suçsuz olduğunu iddia ederken, 'ülkemin başkanıyım' diyerek yakalanmasına itiraz etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260105-maduro-says-i-was-captured-as-he-pleads-not-guilty-to-drug-trafficking-charges",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/what-it-was-like-inside-nicolas-maduros-dramatic-court-hearing-13490924",
+          "id": "https://news.sky.com/story/what-it-was-like-inside-nicolas-maduros-dramatic-court-hearing-13490924",
+          "link": "https://news.sky.com/story/what-it-was-like-inside-nicolas-maduros-dramatic-court-hearing-13490924",
+          "titleTR": "Mahkemede Maduro'nun kamu galerisindeki bir adamla karşılaşması",
+          "descriptionTR": "Nicolas Maduro'yu görmeden önce duydum. Ayak bileği kelepçelerinin sesi, dolu bir mahkeme salonuna yakalanan Venezuela başkanının hemen dışarıda olduğunu haber veriyordu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/what-it-was-like-inside-nicolas-maduros-dramatic-court-hearing-13490924",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/humiliation-for-maduro-as-he-is-transferred-to-us-court-13490816",
+          "id": "https://news.sky.com/story/humiliation-for-maduro-as-he-is-transferred-to-us-court-13490816",
+          "link": "https://news.sky.com/story/humiliation-for-maduro-as-he-is-transferred-to-us-court-13490816",
+          "titleTR": "Maduro'nun ABD mahkemesine transferi sırasında aşağılanma",
+          "descriptionTR": "Bu olayın merkezinde aşağılanma var ve bu durum açıkça görüldü.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/humiliation-for-maduro-as-he-is-transferred-to-us-court-13490816",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/trump-brands-maduro8217s-plea-an-8216extraordinary-moment-in-history8217-as-deposed-venezuelan-leader-makes-first-us-court-appearance-13490879",
+          "id": "https://news.sky.com/story/trump-brands-maduro8217s-plea-an-8216extraordinary-moment-in-history8217-as-deposed-venezuelan-leader-makes-first-us-court-appearance-13490879",
+          "link": "https://news.sky.com/story/trump-brands-maduro8217s-plea-an-8216extraordinary-moment-in-history8217-as-deposed-venezuelan-leader-makes-first-us-court-appearance-13490879",
+          "titleTR": "Trump, Maduro'nun mahkeme duruşmasını 'tarihte olağanüstü bir an' olarak nitelendirdi",
+          "descriptionTR": "ABD Başkanı Donald Trump, yakalanan Venezuela liderinin ilk mahkeme duruşmasında, Nicolas Maduro'nun suçlamaları kabul etmesinin 'tarihte olağanüstü bir an' olduğunu söyledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/trump-brands-maduro8217s-plea-an-8216extraordinary-moment-in-history8217-as-deposed-venezuelan-leader-makes-first-us-court-appearance-13490879",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://techcrunch.com/?p=3079933",
+          "id": "https://techcrunch.com/?p=3079933",
+          "link": "https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/",
+          "titleTR": "Insight Partners, eski başkan yardımcısı Kate Lowry tarafından dava edildi",
+          "descriptionTR": "Insight Partners, eski başkan yardımcısı Kate Lowry tarafından dava edildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/01/05/insight-partners-sued-by-former-vice-president-kate-lowry/",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767820642",
+          "id": "https://www.aljazeera.com/?t=1767820642",
+          "link": "https://www.aljazeera.com/news/2026/1/7/nick-reiners-lawyer-resigns-amid-court-proceedings-for-rob-reiners-murder?traffic_source=rss",
+          "titleTR": "Nick Reiner'ın avukatı, Rob Reiner cinayet davasından çekildi",
+          "descriptionTR": "Alan Jackson, Aralık ayında annesini ve babasını öldürmekle suçlanan Nick Reiner'ın avukatlığından istifa etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/1/7/nick-reiners-lawyer-resigns-amid-court-proceedings-for-rob-reiners-murder?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c0ke5lx6kyno#1",
+          "id": "https://www.bbc.com/news/articles/c0ke5lx6kyno#1",
+          "link": "https://www.bbc.com/news/articles/c0ke5lx6kyno?at_medium=RSS&at_campaign=rss",
+          "titleTR": "Nick Reiner'ın avukatı cinayet davasından çekildi",
+          "descriptionTR": "Hollywood yönetmeni Rob Reiner'ın oğlu, Los Angeles mahkemesinde kamu avukatı tarafından temsil ediliyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c0ke5lx6kyno?at_medium=RSS&at_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/man-jailed-for-supplying-hundreds-of-small-boats-and-engines-to-channel-people-smugglers-13491372",
+          "id": "https://news.sky.com/story/man-jailed-for-supplying-hundreds-of-small-boats-and-engines-to-channel-people-smugglers-13491372",
+          "link": "https://news.sky.com/story/man-jailed-for-supplying-hundreds-of-small-boats-and-engines-to-channel-people-smugglers-13491372",
+          "titleTR": "Mülteci geçişlerinden milyonlar kazanan tekne ve motor tedarikçisi hapse atıldı",
+          "descriptionTR": "Bir Türk vatandaşı, İngiliz Kanalı'ndan sığınmacı taşımak için insan kaçakçılarına kullanılan binlerce küçük tekne ve motor tedarik etmekten suçlu bulunarak 11 yıl hapis cezasına çarptırıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/man-jailed-for-supplying-hundreds-of-small-boats-and-engines-to-channel-people-smugglers-13491372",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://balkaninsight.com/?p=1104964",
+          "id": "https://balkaninsight.com/?p=1104964",
+          "link": "https://balkaninsight.com/2026/01/09/serbian-appeals-court-violated-law-in-editors-murder-case/",
+          "titleTR": "Sırp Temyiz Mahkemesi, editörün cinayet davasında 'yasayı ihlal etti'",
+          "descriptionTR": "Belgrad Temyiz Mahkemesi'nin 1999 yılında muhalif gazeteci Slavko Curuvija'nın öldürülmesiyle ilgili dört Sırp güvenlik görevlisini beraat ettirmesinden üç yıl sonra, Yüksek Mahkeme, kararın yasayı ihlal ettiğini söyledi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Balkan Insight",
+              "url": "https://balkaninsight.com/2026/01/09/serbian-appeals-court-violated-law-in-editors-murder-case/",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.japantimes.co.jp/article/636040/",
+          "id": "https://www.japantimes.co.jp/article/636040/",
+          "link": "https://www.japantimes.co.jp/news/2026/01/09/japan/crime-legal/sdf-government-lawsuit/",
+          "titleTR": "Japon hükümeti, SDF subayının intiharı nedeniyle tazminat ödemeye mahkum edildi",
+          "descriptionTR": "Sapporo Bölge Mahkemesi'ne açılan davada, 19 yaşındaki GSDF üyesinin annesine 1.1 milyon yen tazminat ödenmesine karar verildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/01/09/japan/crime-legal/sdf-government-lawsuit/",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "packetTitle": "Venezuela krizi ve ABD'nin rolü",
+      "packetSpot": "Maduro'nun yakalanması ve ABD'nin Venezuela üzerindeki etkisi birçok kaynakta öne çıkıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767641689",
+          "id": "https://www.aljazeera.com/?t=1767641689",
+          "link": "https://www.aljazeera.com/news/2026/1/5/delcy-rodriguez-sworn-in-as-venezuelas-president-after-maduro-abduction?traffic_source=rss",
+          "titleTR": "Maduro'nun kaçırıldığı iddiasının ardından Delcy Rodriguez Venezuela'nın başkanı olarak yemin etti",
+          "descriptionTR": "Trump, Rodriguez'in Venezuela için ABD önceliklerine karşı gelmesi durumunda ciddi sonuçlarla karşılaşabileceğini belirtti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/1/5/delcy-rodriguez-sworn-in-as-venezuelas-president-after-maduro-abduction?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "eec86252-ea84-11f0-ba30-ed3abf19d5ea",
+          "id": "eec86252-ea84-11f0-ba30-ed3abf19d5ea",
+          "link": "https://www.france24.com/en/video/20260105-protests-outside-us-courtroom-in-new-york-where-maduro-was-heard",
+          "titleTR": "Maduro'nun dinlendiği New York'taki ABD mahkemesi önünde protestolar",
+          "descriptionTR": "New York'taki muhabirimiz Jessica Le Masurier'den daha fazla bilgi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/video/20260105-protests-outside-us-courtroom-in-new-york-where-maduro-was-heard",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://en.mercopress.com/2026/01/05/leftwing-governments-object-to-washington-s-abduction-of-maduro?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "id": "https://en.mercopress.com/2026/01/05/leftwing-governments-object-to-washington-s-abduction-of-maduro?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link": "https://en.mercopress.com/2026/01/05/leftwing-governments-object-to-washington-s-abduction-of-maduro?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "titleTR": "Solcu hükümetler Washington'un Maduro'yu kaçırdığı iddiasına itiraz ediyor",
+          "descriptionTR": "Brezilya, Şili, Kolombiya, Meksika, Uruguay ve İspanya hükümetleri, Nicolas Maduro'nun yakalanmasına yol açan ABD askeri operasyonuna ilişkin 'derin endişe ve reddetme' ifadelerini içeren ortak bir bildiri yayınladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "MercoPress",
+              "url": "https://en.mercopress.com/2026/01/05/leftwing-governments-object-to-washington-s-abduction-of-maduro?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://en.mercopress.com/2026/01/05/maduro-s-arrest-leaves-between-40-and-80-dead-including-32-cubans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "id": "https://en.mercopress.com/2026/01/05/maduro-s-arrest-leaves-between-40-and-80-dead-including-32-cubans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link": "https://en.mercopress.com/2026/01/05/maduro-s-arrest-leaves-between-40-and-80-dead-including-32-cubans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "titleTR": "Maduro'nun tutuklanması 32 Kübalı dahil 40 ila 80 kişinin ölümüne yol açtı",
+          "descriptionTR": "ABD Başkanı Donald Trump, Caracas'ta eski Venezuela lideri Nicolas Maduro'yu yakalamak için düzenlenen 'Mutlak Kararlılık Operasyonu' baskınında artan ölüm sayısını ele aldı ve yönetiminin Latin Amerika ülkeleriyle ilişkiler konusundaki yeni doktrinini açıkladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "MercoPress",
+              "url": "https://en.mercopress.com/2026/01/05/maduro-s-arrest-leaves-between-40-and-80-dead-including-32-cubans?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://en.mercopress.com/2026/01/05/paraguay-s-pena-approves-of-maduro-s-arrest-and-wishes-venezuelans-all-the-best?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "id": "https://en.mercopress.com/2026/01/05/paraguay-s-pena-approves-of-maduro-s-arrest-and-wishes-venezuelans-all-the-best?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link": "https://en.mercopress.com/2026/01/05/paraguay-s-pena-approves-of-maduro-s-arrest-and-wishes-venezuelans-all-the-best?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "titleTR": "Paraguaylı Peña, Maduro'nun tutuklanmasını onayladı ve Venezuelalılara en iyi dileklerini iletti",
+          "descriptionTR": "Paraguay Devlet Başkanı Santiago Peña, Bolivarcı lider Nicolas Maduro Moros'u New York'ta bir mahkemeye çıkarmak için Caracas'ta yapılan Washington müdahalesini kutladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "MercoPress",
+              "url": "https://en.mercopress.com/2026/01/05/paraguay-s-pena-approves-of-maduro-s-arrest-and-wishes-venezuelans-all-the-best?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.scmp.com/news/us/article/3338831/us-ouster-maduro-prompts-region-reassess-china-and-trumps-next-move-analysts?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/us/article/3338831/us-ouster-maduro-prompts-region-reassess-china-and-trumps-next-move-analysts?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/us/article/3338831/us-ouster-maduro-prompts-region-reassess-china-and-trumps-next-move-analysts?utm_source=rss_feed",
+          "titleTR": "ABD'nin Maduro'yu görevden alması bölgeyi Çin'i ve Trump'ın bir sonraki hamlesini yeniden değerlendirmeye zorluyor: analistler",
+          "descriptionTR": "Venezuela'nın cumhurbaşkanını yakalayan ABD askeri operasyonunun, Latin Amerika'daki hükümetleri, Washington harekete geçtiğinde Çin ve Rusya'nın ortaklarını ne kadar koruyabileceğini yeniden değerlendirmeye zorlaması muhtemel. ABD'nin bölgeye daha iddialı bir yaklaşım sinyali verdiği belirtiliyor. Operasyon, Başkan Nicolas Maduro'yu görevden alarak Venezuela'yı ABD yönetiminde bir 'geçiş' altına aldı ve Latin Amerika'da en doğrudan Amerikan askeri müdahalesini işaret etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/article/3338831/us-ouster-maduro-prompts-region-reassess-china-and-trumps-next-move-analysts?utm_source=rss_feed",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "b2894099",
+          "id": "b2894099",
+          "link": "https://www.independent.co.uk/news/world/americas/venezuela-trump-maduro-captured-new-york-colombia-live-updates-b2894393.html",
+          "titleTR": "Venezuela'daki son durum: Maduro mahkemede suçsuz olduğunu iddia ettikten sonra Trump yetkilileri Kongre'de sorgulanıyor",
+          "descriptionTR": "Savunma Bakanı Pete Hegseth, Başsavcı Pam Bondi ve Dışişleri Bakanı Marco Rubio kapalı kapılar ardında yapılan brifinge katılıyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/venezuela-trump-maduro-captured-new-york-colombia-live-updates-b2894393.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "b2894928",
+          "id": "b2894928",
+          "link": "https://www.independent.co.uk/news/world/americas/venezuela-government-nicolas-maduro-trump-b2894985.html",
+          "titleTR": "Venezuela, Maduro'nun tutuklanmasının ardından ABD'den bağımsızlık sinyali vermek istiyor",
+          "descriptionTR": "Trump yönetimi ile çalışacağına söz veren Maduro'nun eski başkan yardımcısı geçici başkan olarak yemin etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/venezuela-government-nicolas-maduro-trump-b2894985.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.bbc.com/news/articles/c5y2v8ngl14o#0",
+          "id": "https://www.bbc.com/news/articles/c5y2v8ngl14o#0",
+          "link": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+          "titleTR": "ABD, Venezuela petrolüyle bağlantılı iki 'gölge filo' tankerine el koydu",
+          "descriptionTR": "Gemiler, ABD kuvvetleri tarafından Kuzey Atlantik ve Karayip Denizi'nde sabahın erken saatlerinde yapılan operasyonlarda ele geçirildi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "BBC News World",
+              "url": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/us-intercepts-third-tanker-in-a-week-as-it-tightens-control-over-venezuelan-oil-13492557",
+          "id": "https://news.sky.com/story/us-intercepts-third-tanker-in-a-week-as-it-tightens-control-over-venezuelan-oil-13492557",
+          "link": "https://news.sky.com/story/us-intercepts-third-tanker-in-a-week-as-it-tightens-control-over-venezuelan-oil-13492557",
+          "titleTR": "ABD, Venezuela petrolü üzerindeki kontrolünü sıkılaştırırken bir hafta içinde üçüncü tankere el koydu",
+          "descriptionTR": "ABD ordusu, bir hafta içinde üçüncü petrol tankerine el koyduğunu açıkladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/us-intercepts-third-tanker-in-a-week-as-it-tightens-control-over-venezuelan-oil-13492557",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "packetTitle": "Güney Karolina'da kızamık salgını",
+      "packetSpot": "Güney Karolina'daki kızamık salgınına dair çeşitli raporlar, artan vaka sayısını ve salgının kontrol altına alınmasındaki zorlukları ele alıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767379557",
+          "id": "https://www.aljazeera.com/?t=1767379557",
+          "link": "https://www.aljazeera.com/news/2026/1/2/south-carolina-measles-outbreak-grows-to-185-cases-amid-vaccination-worries?traffic_source=rss",
+          "titleTR": "Güney Karolina'da kızamık vakaları 185'e ulaştı",
+          "descriptionTR": "Bu salgın, ABD'nin 2025 yılında son otuz yılın en yüksek yıllık kızamık vakası sayısını kaydetmesinin ardından ortaya çıktı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/news/2026/1/2/south-carolina-measles-outbreak-grows-to-185-cases-amid-vaccination-worries?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/",
+          "id": "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/",
+          "link": "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/",
+          "titleTR": "Güney Karolina'da kızamık yayılmaya devam ediyor; Salı'dan bu yana 99 yeni vaka",
+          "descriptionTR": "Birçok maruz kalma noktası nedeniyle yetkililer, insanların nerede enfekte olduğunu belirleyemiyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Ars Technica",
+              "url": "https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 11,
+      "packetTitle": "Minneapolis'ta ICE operasyonu ve yankıları",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767822286",
+          "id": "https://www.aljazeera.com/?t=1767822286",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/7/ice-agent-fatally-shoots-woman-during-minneapolis-immigration-raid?traffic_source=rss",
+          "titleTR": "Minneapolis'ta ICE ajanı bir kadını vurdu",
+          "descriptionTR": "Göçmenlik ve Gümrük Muhafaza (ICE) ajanı, geniş çaplı bir operasyon sırasında 37 yaşındaki bir kadını vurdu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/1/7/ice-agent-fatally-shoots-woman-during-minneapolis-immigration-raid?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "3082178c-ec16-11f0-96eb-6336599e1968",
+          "id": "3082178c-ec16-11f0-96eb-6336599e1968",
+          "link": "https://www.france24.com/en/americas/20260107-ice-officer-kills-driver-in-minneapolis",
+          "titleTR": "Minneapolis'ta ICE ajanı bir kadını öldürdü, tepkiler büyüyor",
+          "descriptionTR": "ABD Göçmenlik ve Gümrük Muhafaza (ICE) ajanı, Minneapolis'ta bir trafik durdurma sırasında bir kadını vurdu. Olay, şehir ve eyalet liderlerinden federal göçmenlik baskısına yönelik sert tepkilere yol açtı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/americas/20260107-ice-officer-kills-driver-in-minneapolis",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.scmp.com/news/world/united-states-canada/article/3339103/ice-agent-shoots-woman-dead-during-minneapolis-immigration-crackdown?utm_source=rss_feed",
+          "id": "https://www.scmp.com/news/world/united-states-canada/article/3339103/ice-agent-shoots-woman-dead-during-minneapolis-immigration-crackdown?utm_source=rss_feed",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3339103/ice-agent-shoots-woman-dead-during-minneapolis-immigration-crackdown?utm_source=rss_feed",
+          "titleTR": "Minneapolis'ta ICE ajanı bir kadını vurdu, tartışmalar sürüyor",
+          "descriptionTR": "Göçmenlik ve Gümrük Muhafaza ajanı, Minneapolis'ta bir kadını vurdu. Federal yetkililer olayın meşru müdafaa olduğunu iddia ederken, şehrin belediye başkanı olayı 'sorumsuzca' ve gereksiz buldu. Olay, Minneapolis şehir merkezinin güneyindeki bir mahallede, göçmen pazarlarının yakınında gerçekleşti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3339103/ice-agent-shoots-woman-dead-during-minneapolis-immigration-crackdown?utm_source=rss_feed",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "tag:theatlantic.com,2026:50-685541",
+          "id": "tag:theatlantic.com,2026:50-685541",
+          "link": "https://www.theatlantic.com/ideas/2026/01/deadly-shooting-minnesota/685541/?utm_source=feed",
+          "titleTR": "Minnesota'da ölümcül bir ICE çatışması",
+          "descriptionTR": "Federal bir göçmenlik ajanı Minneapolis'ta bir kadını vurdu. Olayın detayları henüz netleşmemiş olsa da, tanık videoları ve görgü tanıkları bazı ipuçları veriyor. Trump yönetimi, Minnesota'da Somali göçmenleri arasında refah dolandırıcılığına odaklanmış durumda. Olayın ardından Belediye Başkanı Jacob Frey, ICE operasyonunu sert bir dille eleştirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Atlantic",
+              "url": "https://www.theatlantic.com/ideas/2026/01/deadly-shooting-minnesota/685541/?utm_source=feed",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "b2896381",
+          "id": "b2896381",
+          "link": "https://www.independent.co.uk/news/world/americas/us-politics/minneapolis-ice-shooting-protests-live-updates-b2896381.html",
+          "titleTR": "Minneapolis ICE çatışması: 37 yaşındaki kadın kimliği belirlendi",
+          "descriptionTR": "Minnesota Valisi Tim Walz, olayın ardından Amerikalılara 'bu duruma karşı bizimle durun' çağrısı yaptı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/us-politics/minneapolis-ice-shooting-protests-live-updates-b2896381.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "b2896336",
+          "id": "b2896336",
+          "link": "https://www.independent.co.uk/news/world/americas/us-politics/minneapolis-ice-shooting-woman-minnesota-b2896336.html",
+          "titleTR": "Minnesota'da kaos: Minneapolis'ta Renee Nicole Good'un ICE tarafından vurulması",
+          "descriptionTR": "37 yaşındaki bir kadının ölümcül şekilde vurulması, yerel, eyalet ve federal yetkililer arasında keskin görüş ayrılıklarına yol açtı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/us-politics/minneapolis-ice-shooting-woman-minnesota-b2896336.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "b2896283",
+          "id": "b2896283",
+          "link": "https://www.independent.co.uk/news/world/americas/minneapolis-shooting-minnesota-ice-enforcement-b2896283.html",
+          "titleTR": "Minnesota'da öfke: ICE ajanı 37 yaşındaki kadını vurdu",
+          "descriptionTR": "Vurulan ve öldürülen kadın Renee Nicole Good olarak tanımlandı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Independent World",
+              "url": "https://www.independent.co.uk/news/world/americas/minneapolis-shooting-minnesota-ice-enforcement-b2896283.html",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767990333",
+          "id": "https://www.aljazeera.com/?t=1767990333",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/9/new-video-of-minneapolis-ice-shooting-surfaces?traffic_source=rss",
+          "titleTR": "Minneapolis ICE çatışmasına dair yeni video ortaya çıktı",
+          "descriptionTR": "Renee Nicole Good'un Minneapolis'ta ICE ajanı tarafından vurulmasına dair yeni bir video ortaya çıktı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/new-video-of-minneapolis-ice-shooting-surfaces?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767987949",
+          "id": "https://www.aljazeera.com/?t=1767987949",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/1/9/minnesotans-mourn-woman-killed-by-ice?traffic_source=rss",
+          "titleTR": "Minnesotalılar ICE tarafından vurulan kadını anıyor",
+          "descriptionTR": "Minneapolis, Minnesota'da ICE ajanları tarafından vurulan 37 yaşındaki Renee Nicole Good için anma törenleri düzenlendi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/1/9/minnesotans-mourn-woman-killed-by-ice?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "tag:theatlantic.com,2026:50-685565",
+          "id": "tag:theatlantic.com,2026:50-685565",
+          "link": "https://www.theatlantic.com/politics/2026/01/minneapolis-shooting-ice-dhs-guardrails/685565/?utm_source=feed",
+          "titleTR": "ICE nasıl kontrolsüz hale geldi?",
+          "descriptionTR": "Renee Nicole Good'un ICE ajanı tarafından vurulmasının ardından, DHS'nin Sivil Haklar ve Sivil Özgürlükler Ofisi'nin işlevsiz hale gelmesi tartışılıyor. Trump yönetimi, ICE'nin bütçesini artırırken, denetim gerekliliklerini azaltmış durumda.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Atlantic",
+              "url": "https://www.theatlantic.com/politics/2026/01/minneapolis-shooting-ice-dhs-guardrails/685565/?utm_source=feed",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 12,
+      "packetTitle": "Dikkat çeken sanat müzayedeleri",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/01/02/sweet-jesustrump-auctions-off-a-christ-painting-made-in-ten-minutes",
+          "id": "https://www.theartnewspaper.com/2026/01/02/sweet-jesustrump-auctions-off-a-christ-painting-made-in-ten-minutes",
+          "link": "https://www.theartnewspaper.com/2026/01/02/sweet-jesustrump-auctions-off-a-christ-painting-made-in-ten-minutes",
+          "titleTR": "Trump'ın Mar-a-Lago'daki etkinliğinde 10 dakikada yapılan İsa tablosu açık artırmaya çıktı",
+          "descriptionTR": "Vanessa Horabuena tarafından Mar-a-Lago'daki yılbaşı etkinliğinde canlı olarak yapılan eser açık artırmaya sunuldu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/01/02/sweet-jesustrump-auctions-off-a-christ-painting-made-in-ten-minutes",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://news.sky.com/story/massive-bluefin-tuna-sells-for-record-16324m-at-japan-auction-13490751",
+          "id": "https://news.sky.com/story/massive-bluefin-tuna-sells-for-record-16324m-at-japan-auction-13490751",
+          "link": "https://news.sky.com/story/massive-bluefin-tuna-sells-for-record-16324m-at-japan-auction-13490751",
+          "titleTR": "Rekor fiyata satılan dev orkinos: 'İyi görünen bir orkinos gördüğümde karşı koyamam'",
+          "descriptionTR": "243 kilogramlık dev mavi yüzgeçli orkinos, Japonya'daki bir açık artırmada 510 milyon yen (2.4 milyon £) karşılığında Japon bir suşi restoranına satıldı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Sky News World",
+              "url": "https://news.sky.com/story/massive-bluefin-tuna-sells-for-record-16324m-at-japan-auction-13490751",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.theartnewspaper.com/2026/01/07/jimmy-carter-paintings-objects-auction-christies",
+          "id": "https://www.theartnewspaper.com/2026/01/07/jimmy-carter-paintings-objects-auction-christies",
+          "link": "https://www.theartnewspaper.com/2026/01/07/jimmy-carter-paintings-objects-auction-christies",
+          "titleTR": "ABD eski başkanı Jimmy Carter'ın tabloları açık artırmaya çıkıyor",
+          "descriptionTR": "Eserler, ABD bağımsızlığının 250. yıl dönümünü kutlayan Christie's müzayedesinde yer alacak.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Art Newspaper",
+              "url": "https://www.theartnewspaper.com/2026/01/07/jimmy-carter-paintings-objects-auction-christies",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 13,
+      "packetTitle": "Ukrayna'da çatışma",
+      "packetSpot": "",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "d6dae682-e800-11f0-bae1-b1ee92af0285",
+          "id": "d6dae682-e800-11f0-bae1-b1ee92af0285",
+          "link": "https://www.france24.com/en/live-news/20260102-russia-scores-highest-ukraine-gains-since-first-year-of-war",
+          "titleTR": "Rusya, 2022 işgalinden bu yana Ukrayna'da en büyük toprak kazanımını elde etti",
+          "descriptionTR": "Rusya, 2025 yılında Ukrayna'nın 5.600 km²'den fazla toprağını ele geçirerek 2022'den bu yana en büyük ilerlemesini kaydetti. Bu gelişmeler yaşanırken, Kiev müttefik güvenlik görüşmelerine ev sahipliği yapmaya hazırlanıyor. Cephedeki baskı artarken, Başkan Volodymyr Zelensky, Kyrylo Budanov'u yeni başdanışmanı olarak atadı, Mykhailo Fedorov'u savunma bakanı olarak önerdi ve cephe hattındaki yerleşimlerden binlerce kişinin tahliye edilmesini emretti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "France 24 World",
+              "url": "https://www.france24.com/en/live-news/20260102-russia-scores-highest-ukraine-gains-since-first-year-of-war",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.aljazeera.com/?t=1767815142",
+          "id": "https://www.aljazeera.com/?t=1767815142",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/1/7/will-russia-accept-western-troops-in-ukraine?traffic_source=rss",
+          "titleTR": "Rusya, Batılı askerlerin Ukrayna'da bulunmasını kabul edecek mi?",
+          "descriptionTR": "Bir barış anlaşmasına varıldığında, Birleşik Krallık ve Fransa, sahada asker bulundurmayı taahhüt etti.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "Al Jazeera English",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/1/7/will-russia-accept-western-troops-in-ukraine?traffic_source=rss",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.japantimes.co.jp/article/636035/",
+          "id": "https://www.japantimes.co.jp/article/636035/",
+          "link": "https://www.japantimes.co.jp/news/2026/01/09/world/politics/russia-oreshnik-missile/",
+          "titleTR": "Rusya, NATO sınırına yakın hedefe hipersonik füze fırlattı",
+          "descriptionTR": "Rus askeri yetkilileri, bu hamlenin Rusya Devlet Başkanı Vladimir Putin'in konutlarından birine yapılan bir drone saldırısı girişimine yanıt olarak gerçekleştirildiğini belirtti. Kiev ise bu iddiayı yalanladı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/01/09/world/politics/russia-oreshnik-missile/",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/what-is-the-oreshnik-missile-that-russia-has-fired-at-ukraine",
+          "id": "https://www.straitstimes.com/world/europe/what-is-the-oreshnik-missile-that-russia-has-fired-at-ukraine",
+          "link": "https://www.straitstimes.com/world/europe/what-is-the-oreshnik-missile-that-russia-has-fired-at-ukraine",
+          "titleTR": "Rusya'nın Ukrayna'ya fırlattığı Oreshnik füzesi nedir?",
+          "descriptionTR": "9 Ocak - Rusya, Cuma günü Ukrayna'ya Oreshnik füzesi fırlattığını açıkladı. Bu silah hakkında bilmeniz gerekenler.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/what-is-the-oreshnik-missile-that-russia-has-fired-at-ukraine",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/analysis-putin-sends-warning-to-ukraine-and-west-with-weapon-not-used-since-2024",
+          "id": "https://www.straitstimes.com/world/europe/analysis-putin-sends-warning-to-ukraine-and-west-with-weapon-not-used-since-2024",
+          "link": "https://www.straitstimes.com/world/europe/analysis-putin-sends-warning-to-ukraine-and-west-with-weapon-not-used-since-2024",
+          "titleTR": "'Memnuniyetsiz' Putin, AB sınırındaki Ukrayna saldırısıyla Batı'ya mesaj gönderiyor",
+          "descriptionTR": "Analistler, bu hamlenin Rus liderin Venezuela dahil son dönemdeki dış politika başarısızlıklarına duyduğu memnuniyetsizliği gösterdiğini belirtiyor.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/analysis-putin-sends-warning-to-ukraine-and-west-with-weapon-not-used-since-2024",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slot": 14,
+      "packetTitle": "Grok'un yapay zeka ile üretilen deepfake'leri inceleme altında",
+      "packetSpot": "Çeşitli raporlar, Grok'un yapay zeka ile üretilen deepfake'leri üzerine devam eden soruşturmaları öne çıkarıyor.",
+      "sessionID": "produce-week-py",
+      "publishedAt": "2026-07-10T16:18:58Z",
+      "items": [
+        {
+          "atomID": "https://www.politico.eu/?post_type=pro&p=7711932",
+          "id": "https://www.politico.eu/?post_type=pro&p=7711932",
+          "link": "https://www.politico.eu/article/france-lawmaker-investigate-deepfakes-women-stripped-naked-grok-x/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "titleTR": "Fransa, Grok'un kadınları çıplak gösteren deepfake'lerini soruşturuyor",
+          "descriptionTR": "Yüzlerce kadın ve genç, sosyal medyada fotoğraflarının Grok tarafından 'çıplaklaştırıldığını' bildirdi.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/france-lawmaker-investigate-deepfakes-women-stripped-naked-grok-x/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.politico.eu/?post_type=pro&p=7711695",
+          "id": "https://www.politico.eu/?post_type=pro&p=7711695",
+          "link": "https://www.politico.eu/article/la-justice-etend-son-enquete-sur-x-aux-deepfakes-de-femmes-deshabillees-par-lia-grok/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "titleTR": "Fransa'da adalet, IA Grok'un deepfake'leriyle ilgili soruşturmasını genişletiyor",
+          "descriptionTR": "Milletvekilleri Arthur Delaporte ve Eric Bothorel, kullanıcıların isteği üzerine X'te yayınlanan binlerce görüntünün yapay zeka tarafından üretildiği yönünde şikayetlerde bulundu.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "POLITICO Europe",
+              "url": "https://www.politico.eu/article/la-justice-etend-son-enquete-sur-x-aux-deepfakes-de-femmes-deshabillees-par-lia-grok/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+              "originalLanguage": "en"
+            }
+          ]
+        },
+        {
+          "atomID": "https://www.straitstimes.com/world/europe/eu-says-it-is-seriously-looking-into-musks-grok-ai-over-sexual-deepfakes-of-minors",
+          "id": "https://www.straitstimes.com/world/europe/eu-says-it-is-seriously-looking-into-musks-grok-ai-over-sexual-deepfakes-of-minors",
+          "link": "https://www.straitstimes.com/world/europe/eu-says-it-is-seriously-looking-into-musks-grok-ai-over-sexual-deepfakes-of-minors",
+          "titleTR": "AB, Musk'ın Grok AI'ını çocuklara yönelik cinsel deepfake'ler nedeniyle ciddi şekilde inceliyor",
+          "descriptionTR": "Grok'un üreticisi xAI, Ocak ayında yapay zeka aracındaki kusurları gidermeye çalıştığını açıklamıştı.",
+          "category": "",
+          "group": "",
+          "newsValue": 5,
+          "publishedAt": "2026-07-10T16:18:58Z",
+          "sources": [
+            {
+              "sourceName": "The Straits Times World",
+              "url": "https://www.straitstimes.com/world/europe/eu-says-it-is-seriously-looking-into-musks-grok-ai-over-sexual-deepfakes-of-minors",
+              "originalLanguage": "en"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "superPackets": [
+    {
+      "title": "Trump's Escalating Military Rhetoric and Global Tensions",
+      "spot": "This week saw an intensification of Trump's aggressive military rhetoric, heightening tensions in Iran and raising concerns in Europe. The sources converge on the potential global impact of these escalating threats.",
+      "slots": [
+        1,
+        5
+      ]
+    },
+    {
+      "title": "Legal and Political Turmoil Surrounding Venezuela",
+      "spot": "This week, the legal and political turmoil surrounding Venezuela intensified with high-profile trials and US involvement in the crisis. The sources converge on the courtroom drama involving Maduro and the broader geopolitical implications of his arrest.",
+      "slots": [
+        8,
+        9
+      ]
+    }
+  ]
+}
