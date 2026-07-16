@@ -1,0 +1,1235 @@
+{
+  "label" : "13-19 TEMMUZ",
+  "publishedAt" : "2026-07-16T21:30:46Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/eleven-dead-in-algeria-orphanage-fire\/",
+          "category" : "Security",
+          "descriptionTR" : "Cezayir'in başkenti Cezayir'de, Mohammadia bölgesinde bir yetimhanede çıkan yangında en az 11 kişi hayatını kaybetti, 19 kişi yaralandı. Ülkenin sivil savunma birimi, yangının Perşembe sabahı erken saatlerde çıktığını bildirdi. Yaralılar arasında 10 kişi çeşitli derecelerde yanık, iki kişi solunum zorluğu ve yedi kişi şok tedavisi gördü. Engelli beş kişi güvenli bir yere tahliye edildi. Yangın alanında itfaiyeciler görev yapmaya devam ediyor. Yetkililer, ölü ve yaralı sayısının ön bilgi olduğunu belirtti. Yangına müdahale için en az 10 itfaiye aracı, 16 ambulans, iki merdivenli araç ve arazi müdahale birimi gönderildi. Ulusal Eğitim ve Müdahale Birimi'nden de takviye ekipler sevk edildi. Cezayir Cumhurbaşkanı Abdelmadjid Tebboune, olayın derin bir trajedi olduğunu belirterek başsağlığı diledi. Cumhurbaşkanı, kurbanların ailelerine taziyelerini iletti ve yaralılara acil şifalar diledi. Devlet televizyonuna göre, Başbakan Sifi Ghrieb ve İçişleri, Ulaştırma, Adalet, Sağlık ve Ulusal Dayanışma bakanları, yangında yaralananların durumunu değerlendirmek üzere Zeralda Yanık Hastanesi ve Mustapha Pacha Üniversitesi Hastanesi'ni ziyaret etti. Ghrieb, kurbanların ailelerine başsağlığı dileyerek, \"Kurbanların ailelerine en içten taziyelerimizi iletiyor ve Tanrı'nın onlara sonsuz huzur vermesini diliyoruz\" dedi. Başbakan, yaralıların tam tıbbi bakım ve destek alması için tüm gerekli talimatların verildiğini ekledi. Cezayir son günlerde yoğun bir sıcak hava dalgasıyla mücadele ediyor; devlet haber ajansı APS, 8 Temmuz'dan bu yana ülke genelinde 913 yangının söndürüldüğünü bildirdi.",
+          "group" : "Algeria fire tragedy",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/eleven-dead-in-algeria-orphanage-fire\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/eleven-dead-in-algeria-orphanage-fire\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/eleven-dead-in-algeria-orphanage-fire\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle World",
+              "url" : "https:\/\/www.dw.com\/en\/algeria-fire-at-orphanage-kills-11-including-children\/a-77991351?maca=en-rss-en-world-4025-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cvgwd4nz344o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Cezayir'deki yetimhanede yangın: 11 ölü, 19 yaralı"
+        }
+      ],
+      "packetSpot" : "Cezayir'in başkenti Cezayir'de bir yetimhanede çıkan yangında 11 kişi hayatını kaybetti, 19 kişi yaralandı. Cumhurbaşkanı Abdelmadjid Tebboune ve diğer yetkililer başsağlığı mesajları iletti.",
+      "packetTitle" : "Cezayir'deki yetimhanede yangın: 11 ölü, 19 yaralı",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/us-fires-first-shots-in-new-tariffs-offensive-with-25-tax-on-most-brazil-imports",
+          "category" : "Economy",
+          "descriptionTR" : "15 Temmuz - ABD, birçok Brezilya ithalatına %25'lik yeni gümrük vergisi getirirken, beklenenden daha geniş bir muafiyet listesi açıkladı. Trump yönetiminin tarifeler politikasını yeniden şekillendirmesiyle, bu adım dünya genelinde birçok ülkeyi etkileyebilecek bir ticaret savaşını yeniden canlandırabilir.",
+          "group" : "US Brazil tariffs",
+          "id" : "https:\/\/www.straitstimes.com\/world\/us-fires-first-shots-in-new-tariffs-offensive-with-25-tax-on-most-brazil-imports",
+          "link" : "https:\/\/www.straitstimes.com\/world\/us-fires-first-shots-in-new-tariffs-offensive-with-25-tax-on-most-brazil-imports",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/us-fires-first-shots-in-new-tariffs-offensive-with-25-tax-on-most-brazil-imports"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle World",
+              "url" : "https:\/\/www.dw.com\/en\/us-slaps-25-tariffs-on-brazil-with-election-looming\/a-77978372?maca=en-rss-en-world-4025-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/economy\/2026\/7\/16\/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "ABD, Brezilya ithalatına %25'lik yeni gümrük vergisi getiriyor, muafiyet listesi genişletiliyor"
+        }
+      ],
+      "packetSpot" : "ABD, Trump yönetiminin revize ettiği ticaret stratejisinin bir parçası olarak birçok Brezilya ithalatına %25'lik yeni gümrük vergisi getirirken, muafiyet listesini de genişletti.",
+      "packetTitle" : "ABD, Brezilya ithalatına %25 gümrük vergisi getiriyor ve muafiyetleri genişletiyor",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/with-midterms-on-deck-trump-to-deliver-primetime-speech-on-election-security",
+          "category" : "",
+          "descriptionTR" : "WASHINGTON, 16 Temmuz - ABD Başkanı Donald Trump, Perşembe günü seçim güvenliği üzerine odaklanan bir prime-time konuşması yapmayı planlıyor. Bu konuşma, Kasım ayında zorlu ara seçimlerle karşı karşıya olan Cumhuriyetçilerin dikkatini, Trump'ın uzun süredir devam eden oy sistemleri ve seçim yönetimi konusundaki şikayetlerine yeniden çekecek.",
+          "group" : "US election security",
+          "id" : "https:\/\/www.straitstimes.com\/world\/with-midterms-on-deck-trump-to-deliver-primetime-speech-on-election-security",
+          "link" : "https:\/\/www.straitstimes.com\/world\/with-midterms-on-deck-trump-to-deliver-primetime-speech-on-election-security",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/with-midterms-on-deck-trump-to-deliver-primetime-speech-on-election-security"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/liveblog\/2026\/7\/16\/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "Ara seçimler öncesinde Trump'tan seçim güvenliği üzerine prime-time konuşması"
+        }
+      ],
+      "packetSpot" : "Donald Trump, seçim güvenliği üzerine odaklanan bir prime-time konuşması yapacak. Bu konuşma, ara seçimler öncesinde seçim bütünlüğüyle ilgili olası iddialar hakkında endişeleri artırıyor.",
+      "packetTitle" : "Donald Trump'tan ara seçimler öncesi seçim güvenliği üzerine prime-time konuşması",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/syria-says-weapons-shipment-bound-for-hezbollah-intercepted-at-iraqi-border\/",
+          "category" : "Security",
+          "descriptionTR" : "Suriye İçişleri Bakanlığı, Irak sınırına yakın bir bölgede, Lübnan'daki Hizbullah hareketine gönderilmek üzere olduğu iddia edilen gelişmiş silahların ele geçirildiğini duyurdu. Bakanlık, özel kuvvetlerin sınır bölgesinde şüpheli bir aracın tespit edilmesinin ardından sevkiyatı durdurduğunu belirtti. Ele geçirilen silahlar arasında uzun menzilli füzeler, tanksavar güdümlü füzeler ve insansız hava araçları bulunuyor. İlk soruşturmalar, bu silahların Hizbullah'a gönderilmek üzere Lübnan'a taşınmasının planlandığını gösteriyor. Hizbullah ise bu \"asılsız iddiaları\" reddederek Suriye topraklarında faaliyet göstermediğini belirtti. Olayla ilgili kişilerin kimliklerinin belirlenmesi ve kaçakçılık operasyonuyla bağlantılı ağların ortaya çıkarılması için çalışmalar sürüyor. Bakanlık, Suriye topraklarının silah kaçakçılığı veya ülkenin ya da komşularının güvenliğini tehdit eden faaliyetler için bir koridor olarak kullanılmasına izin vermeyeceğini açıkladı. Irak hükümeti, iddia edilen kaçakçılık girişimini soruşturmak için bir komite kurduğunu ve olayın koşullarını belirlemek ve olaya karışanları tespit etmek için Suriye makamlarıyla işbirliği yapacağını duyurdu. Irak hükümeti, bu adımın sınır güvenliğini artırmak ve ulusal güvenliği ya da bölgesel istikrarı zedeleyebilecek faaliyetleri önlemek amacı taşıdığını belirtti. 2 Mart'ta, İsrail ve ABD'nin İran'a yönelik saldırılarının ardından Hizbullah, İsrail'e füze fırlattı. Grup, bu saldırının İran'ın dini lideri Ayetullah Ali Hamaney'in öldürülmesi ve İsrail'in Lübnan'a yönelik tekrarlanan saldırılarına misilleme olduğunu söyledi. Bu karşılıklı saldırılar, uzun süredir düşman olan taraflar arasında bir tırmanışı işaret etti ve 15 ay önce ABD aracılığıyla sağlanan ateşkesin ardından gelen göreceli sakinlik dönemini sona erdirdi. Geçen ay, ABD Başkanı Donald Trump, Şam'ın Lübnanlı militan grubu kontrol altına alma çabalarına katılabileceğini öne sürdü. Suriye hükümeti, 2011-2024 yılları arasındaki iç savaş sırasında İran destekli Hizbullah'ın Beşar Esad rejimini destekleme çabalarına karşı savaşan gruplardan oluşuyor. Suriye'nin mevcut başkanı Ahmad Al Shara, \"Suriye'nin Lübnan'a gireceği yönündeki söylentilerin tamamen asılsız\" olduğunu belirterek, Trump'ın önerisine karşı endişeleri yatıştırmaya çalıştı. Lübnan Cumhurbaşkanı Joseph Aoun'un ofisi, Al Shara'nın Lübnan'ın iç işlerine karışmayacağına dair güvence verdiğini açıkladı. Bu ayın başlarında Lübnan'ı ziyaret eden Suriye Dışişleri Bakanı Asaad Al Shibani, Suriye ve Hizbullah arasında bir toplantının mümkün olduğunu söyledi. Suriye, Esad rejimi sırasında on yıllarca Lübnan'a hakim olmuştu. 1975-1990 iç savaşı sırasında 1976'da Lübnan'a kuvvet göndermiş ve 2005'te çekilene kadar Lübnan siyasetini büyük ölçüde etkilemişti.",
+          "group" : "Hezbollah weapons smuggling",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/syria-says-weapons-shipment-bound-for-hezbollah-intercepted-at-iraqi-border\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/syria-says-weapons-shipment-bound-for-hezbollah-intercepted-at-iraqi-border\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/syria-says-weapons-shipment-bound-for-hezbollah-intercepted-at-iraqi-border\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/syria-seizes-advanced-weapons-it-says-were-bound-for-lebanons-hezbollah?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/syria-foils-attempt-to-smuggle-weapons-to-hezbollah-from-iraq-state-news-agency-says1"
+            }
+          ],
+          "titleTR" : "Suriye, Irak sınırında Hizbullah'a gittiği iddia edilen silahları ele geçirdiğini açıkladı"
+        }
+      ],
+      "packetSpot" : "Suriye, Irak sınırına yakın bir bölgede, Hizbullah'a gönderilmek üzere olduğu iddia edilen gelişmiş silahların sevkiyatını durdurdu. Suriye makamları ve Hizbullah, olayla ilgili çelişkili açıklamalar yaparken, Irak hükümeti kaçakçılık girişimini soruşturmak için bir komite kurdu.",
+      "packetTitle" : "Suriye'nin silah sevkiyatını durdurduğu iddiası: Hedefte Hizbullah mı var?",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/departure-of-ukraine-s-popular-defense-minister-sparks-protests_6755534_4.html",
+          "category" : "Politics",
+          "descriptionTR" : "Ukrayna'nın genç ve popüler savunma bakanı Mykhailo Fedorov'a destek için Kiev ve ülke genelinde Perşembe günü mitingler düzenlendi. Cumhurbaşkanı Volodymyr Zelensky'nin bir gün önce görevden alınmasını duyurması, siyasetçileri, askeri yetkilileri ve kamuoyunu kızdırdı.",
+          "group" : "Ukraine cabinet crisis",
+          "id" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/departure-of-ukraine-s-popular-defense-minister-sparks-protests_6755534_4.html",
+          "link" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/departure-of-ukraine-s-popular-defense-minister-sparks-protests_6755534_4.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/departure-of-ukraine-s-popular-defense-minister-sparks-protests_6755534_4.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/bitter-row-splits-ukraines-military-leadership-after-defence-minister-ousted"
+            }
+          ],
+          "titleTR" : "Ukrayna'nın popüler savunma bakanının ayrılığı protestolara yol açtı"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "category" : "Politics",
+          "descriptionTR" : "Fedorov ile Başkomutan Oleksandr Syrskyi arasındaki anlaşmazlık, Zelensky'nin kararının merkezinde yer alıyor gibi görünüyor.",
+          "group" : "Ukraine military rift",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Zelensky'nin popüler savunma bakanını görevden alması Ukrayna'da protestolara yol açtı"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/politics\/ukraine-protests-defense-chief-ouster\/",
+          "category" : "Politics",
+          "descriptionTR" : "Volodymyr Zelenskyy'nin kabine değişikliği, 35 yaşındaki teknoloji uzmanı Mykhailo Fedorov'un dışlanmasına yönelik kamuoyunda öfkeyi körükledi.",
+          "group" : "Ukraine leadership crisis",
+          "id" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/politics\/ukraine-protests-defense-chief-ouster\/",
+          "link" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/politics\/ukraine-protests-defense-chief-ouster\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/politics\/ukraine-protests-defense-chief-ouster\/"
+            }
+          ],
+          "titleTR" : "Ukrayna savunma şefinin görevden alınması siyasi krize yol açtı"
+        }
+      ],
+      "packetSpot" : "Savunma Bakanı Mykhailo Fedorov'un Cumhurbaşkanı Zelenskyy tarafından görevden alınmasının ardından Ukrayna'da protestolar patlak verdi. Bu adım, kamuoyunda öfkeye ve siyasi bir krize neden olarak Ukrayna liderliği içindeki gerilimleri gözler önüne serdi.",
+      "packetTitle" : "Ukrayna'da Savunma Bakanı Mykhailo Fedorov'un görevden alınması protestolara yol açtı",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+          "category" : "Law",
+          "descriptionTR" : "İtalya'nın otoyol işletmecisinin eski başkanı Giovanni Castellucci, 2018'deki köprü çöküşü nedeniyle 12 yıl hapis cezasına çarptırıldı.",
+          "group" : "Genoa bridge sentencing",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/cgewd07ee3go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ex-ceo-of-italian-motorway-sentenced-to-12-years-for-genoa-bridge-collapse?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/former-italian-motorway-boss-sentenced-to-12-years-over-genoa-bridge-tragedy"
+            }
+          ],
+          "titleTR" : "43 kişinin öldüğü Cenova köprü faciasında İtalyan yetkililere hapis cezası verildi"
+        }
+      ],
+      "packetSpot" : "2018'deki Cenova köprü faciasına ilişkin dava, İtalya otoyol işletmecisinin eski CEO'su dahil 32 mahkumiyetle sonuçlandı.",
+      "packetTitle" : "Cenova köprü faciası davasında mahkumiyetler sonuçlandı: Birden fazla ceza verildi",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/middle-east\/escalating-israeli-strikes-kill-five-people-in-gaza-medics-say",
+          "category" : "Security",
+          "descriptionTR" : "KAHİRE, 16 Temmuz - İsrail saldırıları Perşembe günü Gazze Şeridi'nde en az beş Filistinliyi öldürdü, Filistinli sağlık yetkilileri bildirdi. ABD merkezli bir araştırma grubu, İsrail saldırılarının Ekim ayında yürürlüğe giren son ateşkesten bu yana görülmemiş seviyelere ulaştığını rapor etti.",
+          "group" : "Gaza strike escalation",
+          "id" : "https:\/\/www.straitstimes.com\/world\/middle-east\/escalating-israeli-strikes-kill-five-people-in-gaza-medics-say",
+          "link" : "https:\/\/www.straitstimes.com\/world\/middle-east\/escalating-israeli-strikes-kill-five-people-in-gaza-medics-say",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/escalating-israeli-strikes-kill-five-people-in-gaza-medics-say"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "İsrail saldırıları Gazze'de beş kişiyi öldürdü, sağlık görevlileri bildiriyor"
+        }
+      ],
+      "packetSpot" : "İsrail'in Gazze'deki askeri operasyonları, Ekim ayında yürürlüğe giren ateşkesi ihlal ederek en az beş Filistinlinin ölümüne yol açtı.",
+      "packetTitle" : "İsrail'in Gazze'deki saldırıları ateşkesi ihlal ediyor, can kayıplarına yol açıyor",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/gulf\/2026\/07\/16\/from-hormuz-to-deeper-inside-iran-us-strikes-signal-widening-campaign\/",
+          "category" : "Security",
+          "descriptionTR" : "ABD, İran'ın askeri altyapısına yönelik saldırılarını derinleştiriyor. Hedefte, Hürmüz Boğazı'ndaki deniz trafiğini tehdit eden İran'ın askeri üsleri ve kıyı savunma sistemleri var. ABD Merkez Komutanlığı, son saldırı dalgasında İran'ın komuta merkezlerini, hava savunma sistemlerini, füze ve drone kapasitelerini hedef aldığını açıkladı. Bu operasyonlar, İran'ın enerji geçiş noktası etrafında kurduğu askeri ağı zayıflatmayı amaçlıyor. Wall Street Journal, ABD'nin bölgeye ek deniz ve deniz piyade kuvvetleri gönderdiğini bildirdi. Trump yönetiminin İran'daki askeri operasyonları genişletmeyi düşündüğü belirtiliyor. Ancak, kara birliklerinin konuşlandırılması halinde ABD askerlerinin İran'ın füze ve drone saldırılarına açık hale geleceği uyarısı yapılıyor. İran ordusu, Hürmüz Boğazı üzerindeki kontrol yeteneklerinin ülkenin her noktasından sürdürülebileceğini belirtti. ABD'nin saldırıları, İran'ın güney kıyılarının ötesine geçerek daha geniş bir askeri altyapıyı hedef alıyor gibi görünüyor.",
+          "group" : "US Iran strikes",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/gulf\/2026\/07\/16\/from-hormuz-to-deeper-inside-iran-us-strikes-signal-widening-campaign\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/gulf\/2026\/07\/16\/from-hormuz-to-deeper-inside-iran-us-strikes-signal-widening-campaign\/",
+          "newsValue" : 9,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/gulf\/2026\/07\/16\/from-hormuz-to-deeper-inside-iran-us-strikes-signal-widening-campaign\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/iran-launches-new-attacks-on-gulf-as-us-strikes-across-country\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/us-hits-missile-launch-sites-on-iranian-occupied-greater-tunb-island\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/trump-threatens-new-iran-escalation-and-risks-repeating-old-mistakes"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "ABD'nin İran'a yönelik saldırıları genişliyor: Hürmüz'den iç bölgelere doğru operasyonlar"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "ABD ve İran arasında artan askeri gerilim: Körfez ve ötesinde çatışmalar",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/nicaragua-breaks-diplomatic-ties-with-italy-over-1978-murder-case",
+          "category" : "",
+          "descriptionTR" : "16 Temmuz - Nikaragua, Perşembe günü İtalya'nın 1978'de eski İtalyan Başbakanı Aldo Moro'nun kaçırılması ve öldürülmesindeki rolü nedeniyle mahkum edilen eski bir Kızıl Tugaylar militanını iade etme talebi üzerine diplomatik ilişkilerini kesti.",
+          "group" : "",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/nicaragua-breaks-diplomatic-ties-with-italy-over-1978-murder-case",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/nicaragua-breaks-diplomatic-ties-with-italy-over-1978-murder-case",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/nicaragua-breaks-diplomatic-ties-with-italy-over-1978-murder-case"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/nicaragua-severs-diplomatic-ties-with-italy-over-1978-murder-case?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "Nikaragua, eski Başbakan Moro'nun öldürülmesiyle ilgili iade anlaşmazlığı nedeniyle İtalya ile diplomatik ilişkileri kesti"
+        }
+      ],
+      "packetSpot" : "Nikaragua, 1978'de eski Başbakan Aldo Moro'nun öldürülmesiyle bağlantılı eski Kızıl Tugaylar militanının iadesi talebi üzerine İtalya ile diplomatik ilişkilerini kesti.",
+      "packetTitle" : "Nikaragua, İtalya ile diplomatik ilişkileri kesiyor: İade talebi krizi",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/lebanon-and-syria-seek-to-revive-trade-ties-as-ministers-meet-in-damascus\/",
+          "category" : "Economy",
+          "descriptionTR" : "Lübnan, Suriye ile ticaret görüşmeleri yaparak iki ülke arasındaki siyasi ilişkilerin toparlanmasına ekonomik bağlar eklemeyi hedefliyor. Lübnan Ekonomi ve Ticaret Bakanı Amer Bisat, Suriye Devlet Başkanı Ahmad Al Shara ve Suriyeli mevkidaşı Nidal Al Shaar ile Şam'da iki günlük bir ziyaret gerçekleştirdi. Bu ziyaret sırasında Lübnan-Suriye İş Konseyi'nin kuruluşu duyuruldu. Bisat'a, Lübnanlı bir ekonomik heyet eşlik etti ve bu heyet, Esad rejiminin düşüşünden bu yana ilk kez Suriyeli iş dünyası temsilcileriyle bir araya geldi. Suriye İş Konseyi Genel Müdürü Thaer Laham, The National'a yaptığı açıklamada, \"Her iki taraf da gerçekten çok mutlu oldu. Çok yapıcı bir atmosfer vardı,\" dedi. \"İki ülkenin birlikte iş yapması, inşaattan pazarlamaya ve ticarete kadar doğal bir süreç. Suriye ve Lübnan ayrıca uluslararası ticaret fuarlarını birlikte düzenlemek için güçlerini birleştirebilir,\" diye ekledi. Bu, iki ülke arasındaki temkinli yakınlaşmanın son adımı olup, Suriye Dışişleri Bakanı Asaad Al Shibani'nin Beyrut'a yaptığı üst düzey ziyaretler de dahil olmak üzere birçok ziyareti içeriyor. Şam'daki toplantı, \"iki ülke arasındaki özel ilişkiye dayanan Suriye-Lübnan yakınlaşmasının derinleştirilmesinin önemi ve bunun Yüksek Bakanlar Komitesi ve Lübnan-Suriye İş Konseyi aracılığıyla ilerletilmesi\" üzerine odaklandı. Bisat, Lübnanlı yayıncı LBCI'ye yaptığı açıklamada, Suriye Devlet Başkanı'nın \"ekonominin siyasetten daha önemli olduğunu\" ve \"iki ülke arasında güçlü bir ikili ilişki inşa etmek için yatırımın önemini\" vurguladığını belirtti. İki komşu ülke, 1976'daki iç savaş sırasında Suriye'nin Lübnan'a müdahalesi ve ülke üzerindeki uzun süreli vesayeti nedeniyle çalkantılı bir ilişki yaşamıştır. Eski Suriye Devlet Başkanı Beşar Esad'ın 2024'te düşüşünden sonra, her iki ülkenin yetkilileri ilişkilerini yeniden şekillendirmeye ve bir zamanlar yakın olan ticaret bağlarını canlandırmaya çalışıyor. Ancak Lübnan'daki Suriyeli mahkumların iadesi gibi çözülmemiş ikili meseleler, bu yakınlaşmayı engellemeye devam ediyor. Batı yaptırımlarının kaldırılması, Suriye'de uluslararası yatırımcı ilgisini yeniden canlandırmış ve yeni otoriteye milyarlarca dolarlık yatırım sözü verilerek çok ihtiyaç duyulan ekonomik toparlanmanın yolu açılmıştır. Geçen yıl Bisat, The National'a yaptığı açıklamada, Lübnan'ın Suriye'deki \"yeni fırsatları\" değerlendirmesi ve ülkeyi yıllardır süren krizden çıkarmak için uzun zamandır beklenen bankacılık reformlarını başlatması gerektiğini belirtmişti. İki ülke arasındaki yakınlaşma, güvenlik iş birliğini de kapsıyor. Temmuz ayında Lübnan ve Suriye, ekonomik ortaklıklar ve güvenlik anlaşmaları geliştirme görevi olan üst düzey bir komite oluşturduklarını duyurdu. Bu, Suriye-Lübnan sınırındaki gerginliklerin arttığı bir dönemde gerçekleşti. Kaynakların aktardığına göre, yeni Suriye otoriteleri Hizbullah üyelerinin Suriye'ye geçtiğini iddia etti. Yeni Suriye hükümeti, Esad ile müttefik olan Hizbullah'a karşı çıkıyor ve Hizbullah bağlantılı olduğu iddia edilen hücrelerin tutuklandığını ve Lübnan'a silah kaçırma girişimlerinin engellendiğini duyurdu. ABD Başkanı Donald Trump, Suriye'nin Hizbullah'la \"ilgilenebileceği\" ve İsrail'in yerine geçebileceği yönündeki tartışmalı fikri defalarca dile getirdi. Bu öneri geniş çapta tepki çekti ve Al Shara tarafından reddedildi; Al Shara, Lübnan'a müdahale etme veya eski yaraları yeniden açma niyetinde olmadığını belirtti.",
+          "group" : "Lebanon Syria trade",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/lebanon-and-syria-seek-to-revive-trade-ties-as-ministers-meet-in-damascus\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/lebanon-and-syria-seek-to-revive-trade-ties-as-ministers-meet-in-damascus\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/lebanon-and-syria-seek-to-revive-trade-ties-as-ministers-meet-in-damascus\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/lebanon-syria-to-reset-trade-ties-economy-minister-tells-reuters"
+            }
+          ],
+          "titleTR" : "Lübnan ve Suriye, Şam'da ticaret bağlarını canlandırmayı görüşüyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Lübnan ve Suriye ticaret bağlarını canlandırıyor",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/16\/student-visas-journalist-us-trump\/",
+          "category" : "Education",
+          "descriptionTR" : "Trump yönetimi, yabancı öğrenciler, kültürel değişim programı katılımcıları ve gazeteciler için vizelerin süresini sınırlamak amacıyla harekete geçti. ABD Başkanı Donald Trump, Ocak 2025'te göreve başladıktan sonra geniş kapsamlı bir göçmenlik baskısı başlattı. Son adım, uluslararası öğrenciler, değişim çalışanları ve yabancı gazeteciler için yeni engeller oluşturacak.\nİç Güvenlik Bakanlığı'nın yeni nihai kuralı, uluslararası öğrenciler için F vizeleri, ABD'de çalışmaya izin veren J vizeleri ve medya mensupları için I vizeleri için sabit bir süre belirliyor. Bu vizeler şu anda programın veya ABD'deki istihdamın süresi boyunca geçerli.\nYeni düzenleme, öğrenci ve değişim vizesi sürelerini en fazla dört yıl olarak belirlerken, gazeteciler için vize süresi 240 gün, Çinli gazeteciler için ise 90 gün olacak. Ancak vize sahipleri uzatma başvurusunda bulunabilirler. Bakanlık, bu tür vizelerdeki dramatik artışı gerekçe gösterdi. 2024 yılında 1,8 milyondan fazla öğrenci vizesi kabul edildiği belirtildi.\nABD, 2024 mali yılında 500.000'den fazla değişim ziyaretçisine ve 37.300 medya mensubuna vize verdi. Bu ziyaretçilerin artan hacmi, DHS'nin bu göçmen olmayanları izleme ve denetleme yeteneğine bir meydan okuma oluşturuyor. Vize sahipleri, sabit kabul sürelerini aşmak istiyorlarsa DHS'ye uzatma başvurusu yapmalı veya yurtdışına seyahat edip ABD'ye yeniden giriş yaparak yeniden kabul almalıdır. Resmi nihai kuralın yarın yayımlanması ve 60 gün sonra yürürlüğe girmesi planlanıyor.",
+          "group" : "Trump visa crackdown",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/16\/student-visas-journalist-us-trump\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/16\/student-visas-journalist-us-trump\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/16\/student-visas-journalist-us-trump\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/united-states\/us-change-visa-regulations-for-foreign-students-journalists"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/trump-tightens-visa-limits-for-international-students-and-foreign-press_6755549_4.html"
+            }
+          ],
+          "titleTR" : "ABD öğrenci ve gazeteci vizelerinde süre kısıtlamasına gidiyor"
+        }
+      ],
+      "packetSpot" : "Trump yönetimi, yabancı öğrenciler, değişim programı katılımcıları ve gazeteciler için vizelerin süresini sınırlayan yeni düzenlemeler önerdi. Bu değişiklikler, daha geniş bir göç politikası değişikliğinin parçası.",
+      "packetTitle" : "Trump yönetimi öğrenci ve gazeteci vizelerinde süre kısıtlaması getiriyor",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/16\/tiktok-defends-its-age-verification-checks-as-uk-regulator-steps-up-pressure\/",
+          "category" : "Technology",
+          "descriptionTR" : "TikTok, İngiltere telekom düzenleyicisinin bir soruşturma başlatmasının ardından yaş doğrulama yöntemlerini savundu. Ofcom, Çarşamba günü yaptığı açıklamada, TikTok'un yöntemlerinin çocukları çevrimiçi ortamda etkili bir şekilde koruyup korumadığı konusunda 'ciddi şüpheler' nedeniyle soruşturma başlattığını belirtti. ABD merkezli platform, bir kullanıcının yaşını çevrimiçi davranışları aracılığıyla belirlemek için 'yaş çıkarımı' kullanıyor. TikTok sözcüsü, 'Uzman görüşleriyle bilgilendirilmiş platform kuralları ve gelişmiş yaş çıkarım teknolojileri aracılığıyla yaşa uygun deneyimleri sıkı bir şekilde uyguluyoruz' dedi. 'TikTok'un İngiltere'de faaliyete geçmesinden bu yana geçen sekiz yılda platform güvenliğine milyarlarca yatırım yaptık. Çevrimiçi Güvenlik Yasası yükümlülüklerimizi karşıladığımıza eminiz ve bunu kanıtlamak için Ofcom ile çalışacağız' diye ekledi. Soruşturma, geçen yıl 25 Temmuz'da yürürlüğe giren ve sosyal medya platformlarının daha kapsamlı yaş doğrulama kontrolleri içermesini ve çocuklara zarar verebilecek içerik hakkında risk değerlendirmeleri yapmasını gerektiren Çevrimiçi Güvenlik Yasası'nın bir parçası. Düzenleyici, yaş doğrulama kontrolleri arasında yüz yaş tahmini, mobil ağ yaş kontrolleri, kredi kartı kontrolleri, fotoğraf kimliği eşleştirme, dijital kimlik hizmetleri ve bankadan onay almayı 'son derece etkili' olarak değerlendiriyor. Ofcom, Çarşamba günü geç saatlerde yaptığı açıklamada, 'Mesajımız sosyal medya şirketlerine açık: Çocuk koruma görevlerini yerine getirmek için yaş çıkarım modelleri kullananlar, rehberliğimizde son derece etkili olarak listelenen diğer yöntemlere gecikmeden geçmeli' dedi. 'Eğer geçmezlerse, mevcut yöntemlerinin son derece etkili olduğunu Ofcom'a güvenilir ve ikna edici kanıtlarla kanıtlamak zorundalar.' Eleştirmenler, Çevrimiçi Güvenlik Yasası'nın etkisiz olduğunu ve güvenlik kontrollerini bir kutu doldurma egzersizine dönüştürdüğünü, şirketleri platformlarındaki zararlı içeriği kaldırmaya zorlamadığını söylüyor. Ofcom CEO'su Melanie Dawes, Çarşamba günü yaptığı açıklamada, düzenleyicinin araştırmasının yaş kontrollerinin çocukları çevrimiçi ortamda korumaya yardımcı olduğunu gösterdiğini belirterek yasayı savundu. Diğerleri, kimlik tabanlı yaş doğrulamanın çevrimiçi anonimliği kaldıracağından korkuyor – ki bu da savunmasız çocuklar ve yetişkinler için faydalı olmuştur. Dawes, 'Yaş kontrolleri, İngiltere'nin çevrimiçi güvenlik yasalarının temel taşlarından biridir. Doğru bir şekilde uygulandığında, kanıtlarımız yaş kontrollerinin İngiltere'deki çocuklar için daha güvenli bir çevrimiçi yaşam oluşturduğunu gösteriyor' dedi. 'Ancak iş bitmedi ve teknoloji şirketlerinin daha ileri gitmesi gerekiyor. Çok fazla hizmetin hiç veya yetersiz yaş kontrolü var, bu yeterli değil' diye ekledi. 'İngiltere, 16 yaş altı için sosyal medya yasağı yürürlüğe girdikten sonra sosyal medyaya ilk kez erişen 16 ve 17 yaşındaki çocuklar için varsayılan sokağa çıkma yasağı ayarlarını tanıtmayı planladığını açıkladı. Ofcom, yaş kontrolü yoluyla yaşlarını kanıtlamaları istenen çocukların oranının Temmuz 2025 ile Ocak 2026 arasında yüzde 25'ten yüzde 43'e yükseldiğini söyledi. Ofcom, 'İngiltere'nin en iyi 10 ve en iyi 100 porno sitesinin çoğunda artık yaş kontrolleri var' dedi. Yaş kontrolleri, çevrimiçi çocukların yüzde sekizinin pornografiye erişme girişimlerinde 'etkili bir caydırıcı' olmuştur. Bu çocukların pornografi sitelerine yaptığı ziyaretlerin neredeyse dokuzu (yüzde 87) 30 saniyeden kısa sürdü ve yüzde 65'i 10 saniyeden az sürdü. Ancak yaş kontrollerinin daha iyi uygulanması gereken birçok platform vardı, bunlar arasında flört uygulamaları da bulunuyor. Aralık 2025 için Ofcom verilerine göre, 15-17 yaş arası gençlerin yüzde 10'undan fazlası en çok kullanılan üç flört uygulamasına hala erişebiliyordu. 'Bu, yaş güvence yöntemlerinin iyileştirilmesi ve rehberliğimizle daha yakından uyumlu hale getirilmesi gerektiğini gösterdi' dedi.",
+          "group" : "UK online safety",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/16\/tiktok-defends-its-age-verification-checks-as-uk-regulator-steps-up-pressure\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/16\/tiktok-defends-its-age-verification-checks-as-uk-regulator-steps-up-pressure\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/16\/tiktok-defends-its-age-verification-checks-as-uk-regulator-steps-up-pressure\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/britain-opens-probe-into-tiktoks-child-safety-measures"
+            }
+          ],
+          "titleTR" : "TikTok, İngiltere düzenleyicisinin baskısını artırmasıyla yaş doğrulama yöntemlerini savunuyor"
+        }
+      ],
+      "packetSpot" : "Birleşik Krallık düzenleyicisi Ofcom, çevrimiçi güvenlik yasası kapsamında TikTok'un yaş doğrulama yöntemlerini incelemeye aldı. Çocukların çevrimiçi korunması konusundaki etkinliklerine dair endişeler dile getirildi. TikTok, güvenliğe olan bağlılığını vurgulayarak uygulamalarını savunuyor.",
+      "packetTitle" : "İngiltere düzenleyicisi Ofcom, TikTok'un yaş doğrulama yöntemlerini inceliyor",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ABD Başkan Yardımcısı, savaşı sona erdirmek için yaptığı diplomatik girişimler nedeniyle 'acımasız' kişisel saldırılara maruz kaldığını da belirtti.",
+          "group" : "Iran diplomacy spoilers",
+          "id" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/vance-says-some-in-israeli-government-sought-to-sway-us-on-iran-deal"
+            }
+          ],
+          "titleTR" : "Vance, İsrail'in ABD kamuoyunu İran diplomasisine karşı etkilemeye çalıştığını söyledi"
+        }
+      ],
+      "packetSpot" : "ABD Başkan Yardımcısı Vance, İsrail hükümetindeki unsurların İran ile diplomatik çabalara karşı ABD kamuoyunu etkilemeye çalıştığını iddia ediyor; bu süreçte kişisel saldırılarla karşılaştığını belirtiyor.",
+      "packetTitle" : "ABD Başkan Yardımcısı Vance, İsrail'in İran diplomasisine karşı ABD kamuoyunu etkileme çabalarını suçladı",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/trump-suspends-teleprompter-operator-over-betting-allegations_6755554_4.html",
+          "category" : "Politics",
+          "descriptionTR" : "ABC News'un haberine göre, 2016'dan beri Trump'ın teleprompter operatörlüğünü yapan Gabriel Perez, tahmin piyasasında yaptığı bahislerle 100.000 dolardan fazla kazanç elde etti. Perez'in, Şubat ayında yapılan Birliğin Durumu konuşması, İsviçre'deki Davos forumuna yönelik açıklamalar ve Aralık ayında yapılan bir primetime konuşması gibi konuşmalar üzerine bahisler oynadığı belirtildi.",
+          "group" : "Trump campaign betting",
+          "id" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/trump-suspends-teleprompter-operator-over-betting-allegations_6755554_4.html",
+          "link" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/trump-suspends-teleprompter-operator-over-betting-allegations_6755554_4.html",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/trump-suspends-teleprompter-operator-over-betting-allegations_6755554_4.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Trump, bahis iddiaları nedeniyle teleprompter operatörünü askıya aldı"
+        }
+      ],
+      "packetSpot" : "Trump'ın konuşmalarına dair içeriden bilgi sızdırarak kazanç sağladığı iddiasıyla bir Beyaz Saray teleprompter operatörü askıya alındı.",
+      "packetTitle" : "Beyaz Saray'da teleprompter operatörüne bahis iddialarıyla askıya alma",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss",
+          "category" : "Health",
+          "descriptionTR" : "Uganda, son hastasını taburcu ederken, WHO DRC'deki Ebola'nın 'önceki salgınlardan daha hızlı yayıldığını' belirtiyor.",
+          "group" : "Ebola outbreak DRC",
+          "id" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "Ebola DRC'de hızla yayılırken, Uganda virüsten arınmaya yakın"
+        },
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss",
+          "category" : "Health",
+          "descriptionTR" : "Dünya Sağlık Örgütü, DR Kongo'daki Ebola salgınının önceki salgınlardan daha hızlı yayıldığı konusunda uyarıda bulunuyor.",
+          "group" : "Ebola outbreak DRC",
+          "id" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "WHO: Ebola, DR Kongo'da kaydedilen en hızlı yayılma hızında"
+        },
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/us-quarantine-order-for-americans-returning-from-congo-will-hurt-ebola-response-aid-group-says",
+          "category" : "Health",
+          "descriptionTR" : "15 Temmuz - Washington'un, Ebola salgınının yaşandığı Demokratik Kongo Cumhuriyeti'nden dönen Amerikan vatandaşlarının ABD'ye girmeden önce üçüncü bir ülkede 21 gün geçirmesini öngören yeni politikası, büyük bir Amerikan yardım grubunun başkanına göre salgına yanıtı zorlaştıracak.",
+          "group" : "",
+          "id" : "https:\/\/www.straitstimes.com\/world\/us-quarantine-order-for-americans-returning-from-congo-will-hurt-ebola-response-aid-group-says",
+          "link" : "https:\/\/www.straitstimes.com\/world\/us-quarantine-order-for-americans-returning-from-congo-will-hurt-ebola-response-aid-group-says",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/us-quarantine-order-for-americans-returning-from-congo-will-hurt-ebola-response-aid-group-says"
+            }
+          ],
+          "titleTR" : "ABD'nin Kongo'dan dönenler için karantina kararı Ebola yanıtını zorlaştıracak"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+          "category" : "Health",
+          "descriptionTR" : "Uganda'dan gelen iyi haberler, WHO başkanının DR Kongo'daki virüsün hızla yayıldığı uyarısıyla aynı zamana denk geliyor.",
+          "group" : "Ebola outbreak",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx2myxjv172o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Uganda, son Ebola hastasını taburcu ederken 'sevinç anı'"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Ebola salgını: DRC'de hızlı yayılma, Uganda'da umut verici gelişmeler",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss",
+          "category" : "Environment",
+          "descriptionTR" : "Kanada orman yangınlarından gelen dumanın, Pazar günü yapılacak Dünya Kupası öncesinde New York New Jersey Stadyumu'nu kapladığı görüntülendi.",
+          "group" : "Wildfire smoke impact",
+          "id" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/wildfire-smoke-blankets-world-cup-final-stadium-before-kickoff?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "Orman yangını dumanı Dünya Kupası final stadyumunu kapladı"
+        },
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/canada-wildfire-smoke-blankets-us-midwest-northeast-with-dangerous-orange-haze",
+          "category" : "Environment",
+          "descriptionTR" : "NEW YORK, 16 Temmuz - Kanada'daki yüzlerce orman yangınından çıkan yoğun duman, Perşembe günü ABD'nin Ortabatı'dan Kuzeydoğu'ya kadar geniş bir alanı kapladı. Yetkililer, mümkünse içeride kalınması ve sağlıksız havadan kaçınılması gerektiği konusunda uyarılarda bulundu.",
+          "group" : "Canada wildfire smoke",
+          "id" : "https:\/\/www.straitstimes.com\/world\/canada-wildfire-smoke-blankets-us-midwest-northeast-with-dangerous-orange-haze",
+          "link" : "https:\/\/www.straitstimes.com\/world\/canada-wildfire-smoke-blankets-us-midwest-northeast-with-dangerous-orange-haze",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/canada-wildfire-smoke-blankets-us-midwest-northeast-with-dangerous-orange-haze"
+            }
+          ],
+          "titleTR" : "Kanada orman yangını dumanı ABD'nin Ortabatı ve Kuzeydoğusunu turuncu bir sisle kapladı"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+          "category" : "Environment",
+          "descriptionTR" : "800'den fazla yangından çıkan duman, Toronto'dan New York'a ve ABD'nin Ortabatı'na kadar şehirleri etkiledi.",
+          "group" : "Canada wildfire smoke",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Kanada'daki yüzlerce orman yangını ABD'de hava kalitesi uyarılarına neden oldu"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/videos\/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+          "category" : "Environment",
+          "descriptionTR" : "Kanada Orman Yangınları Merkezi'ne göre, şu anda ülke genelinde 838 aktif orman yangını bulunuyor.",
+          "group" : "Canada wildfire smoke",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/videos\/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/videos\/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/c62q3kw126xo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Kanada orman yangınlarından çıkan turuncu sis Ontario ve kuzey ABD'de görüldü"
+        },
+        {
+          "atomID" : "https:\/\/www.lemonde.fr\/en\/environment\/article\/2026\/07\/16\/canadian-wildfire-smoke-chokes-us-cities-from-midwest-to-northeast_6755550_114.html",
+          "category" : "Environment",
+          "descriptionTR" : "Ontario'daki kontrol edilemeyen orman yangınları, tehlikeli dumanı ABD sınırının ötesine taşıyarak Detroit ve Chicago gibi şehirleri etkiledi ve Minnesota'dan New York'a kadar hava kalitesi uyarılarına neden oldu.",
+          "group" : "Canada wildfire smoke",
+          "id" : "https:\/\/www.lemonde.fr\/en\/environment\/article\/2026\/07\/16\/canadian-wildfire-smoke-chokes-us-cities-from-midwest-to-northeast_6755550_114.html",
+          "link" : "https:\/\/www.lemonde.fr\/en\/environment\/article\/2026\/07\/16\/canadian-wildfire-smoke-chokes-us-cities-from-midwest-to-northeast_6755550_114.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/en\/environment\/article\/2026\/07\/16\/canadian-wildfire-smoke-chokes-us-cities-from-midwest-to-northeast_6755550_114.html"
+            }
+          ],
+          "titleTR" : "Kanada orman yangını dumanı ABD'nin Ortabatı'dan Kuzeydoğu'ya kadar şehirleri etkisi altına aldı"
+        }
+      ],
+      "packetSpot" : "Kanada'daki orman yangınlarından gelen duman, ABD genelinde hava kalitesini ve görüş mesafesini etkiliyor.",
+      "packetTitle" : "Kanada orman yangınlarının dumanı ABD'yi etkisi altına aldı",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/sports\/2026\/7\/16\/how-can-argentina-beat-favourites-spain-to-win-back-to-back-world-cups?traffic_source=rss",
+          "category" : "Sports",
+          "descriptionTR" : "Lionel Messi'nin varlığına rağmen, Arjantin 2026 finaline İspanya ve genç yıldızı Lamine Yamal karşısında zayıf taraf olarak giriyor.",
+          "group" : "World Cup final preview",
+          "id" : "https:\/\/www.aljazeera.com\/sports\/2026\/7\/16\/how-can-argentina-beat-favourites-spain-to-win-back-to-back-world-cups?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/sports\/2026\/7\/16\/how-can-argentina-beat-favourites-spain-to-win-back-to-back-world-cups?traffic_source=rss",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/sports\/2026\/7\/16\/how-can-argentina-beat-favourites-spain-to-win-back-to-back-world-cups?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "Arjantin ve Messi, İspanya ve Yamal'ı yenip Dünya Kupası'nı savunabilir mi?"
+        },
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/sport\/world-cup-2026\/2026\/07\/17\/world-cup-2026-quiz-spain-england-and-mbappe-v-yamal\/",
+          "category" : "Sports",
+          "descriptionTR" : "2026 Dünya Kupası sona yaklaşırken, bir aydan fazla süren yoğun mücadelenin ardından sadece iki takım şampiyonluk şansını sürdürüyor. İspanya, Fransa'ya karşı yarı finalde teknik kalitesini göstererek Pazar günkü final maçına çıkmaya hak kazandı ve Kylian Mbappe'ye 2022 finalindeki hayal kırıklığını telafi etme fırsatını vermedi. Arjantin ise İngiltere'yi 2-1 yenerek finale yükseldi. Lionel Messi, arka arkaya Dünya Kupası zaferleri kazanma ve belki de tüm zamanların en iyisi olma iddiasını pekiştirme şansına sahip. Bu hafta sonu final maçı için hazırlık yaparken, 2026 finallerini ne kadar iyi takip ettiğinizi görmek için aşağıdaki testimizi yapın.",
+          "group" : "World Cup finals quiz",
+          "id" : "https:\/\/www.thenationalnews.com\/sport\/world-cup-2026\/2026\/07\/17\/world-cup-2026-quiz-spain-england-and-mbappe-v-yamal\/",
+          "link" : "https:\/\/www.thenationalnews.com\/sport\/world-cup-2026\/2026\/07\/17\/world-cup-2026-quiz-spain-england-and-mbappe-v-yamal\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/sport\/world-cup-2026\/2026\/07\/17\/world-cup-2026-quiz-spain-england-and-mbappe-v-yamal\/"
+            }
+          ],
+          "titleTR" : "Dünya Kupası 2026 testi: İspanya, İngiltere ve Mbappe vs Yamal"
+        },
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/sport\/football\/2026\/07\/08\/fifa-world-cup-2026-schedule-match-time-guide\/",
+          "category" : "Sports",
+          "descriptionTR" : "2026 Fifa Dünya Kupası 11 Haziran'da başladı ve 19 Temmuz'a kadar devam ediyor. Maçlar ABD, Kanada ve Meksika'da oynandığı için tüm maçları izlemek isteyenlerin dikkatli bir planlama yapması gerekebilir. Aşağıda, BAE için başlama saatleri, mekanlar ve bölgedeki TV bilgileriyle birlikte tam bir Dünya Kupası fikstür rehberi bulabilirsiniz. 2026 Dünya Kupası fikstür rehberi: Pazar, 19 Temmuz Üçüncülük maçı - Fransa vs İngiltere, başlama saati 01:00 - Miami, ABD Final - Maç 104: İspanya vs Arjantin, başlama saati 23:00 - New Jersey, ABD BAE'de 2026 Dünya Kupası nasıl izlenir: BAE ve Orta Doğu ve Kuzey Afrika bölgesinde Fifa Dünya Kupası'nın resmi yayın hakları beIN SPORTS'a aittir. Bu ağ, turnuvanın her maçını canlı izlemek için tek yerdir ve hem Arapça hem de İngilizce geniş kapsamlı yayın yapmaktadır.",
+          "group" : "World Cup travel guide",
+          "id" : "https:\/\/www.thenationalnews.com\/sport\/football\/2026\/07\/08\/fifa-world-cup-2026-schedule-match-time-guide\/",
+          "link" : "https:\/\/www.thenationalnews.com\/sport\/football\/2026\/07\/08\/fifa-world-cup-2026-schedule-match-time-guide\/",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/sport\/football\/2026\/07\/08\/fifa-world-cup-2026-schedule-match-time-guide\/"
+            }
+          ],
+          "titleTR" : "Fifa Dünya Kupası 2026 tam fikstür rehberi ve programı: BAE'de nasıl izlenir?"
+        },
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/podcasts\/trending-middle-east\/2026\/07\/16\/world-cup-round-up-argentina-produce-another-late-miracle-to-set-up-spain-final\/",
+          "category" : "Sports",
+          "descriptionTR" : "Arjantin, Atlanta'da İngiltere'yi 2-1 yenerek Dünya Kupası finaline yükseldi ve turnuvanın tanımlayıcı özelliklerinden biri olan geç geri dönüşlerin bir başka örneğini sergiledi. Anthony Gordon, İngiltere'yi 55. dakikada öne geçirdi, ancak Thomas Tuchel'in derin savunma kararı pahalıya mal oldu. Gordon'un golünden Arjantin'in eşitlik golüne kadar İngiltere sadece yüzde 12 topa sahip oldu. Enzo Fernandez, 85. dakikada uzun mesafeden attığı golle durumu 1-1 yaptı, ardından Lionel Messi, duraklama anlarında Lautaro Martinez'e kafa golü attırarak galibiyeti getirdi. Arjantin, Pazar günü New York New Jersey Stadyumu'nda İspanya ile Dünya Kupası finalinde karşılaşacak. BAE'de başlama saati 23:00. Tuchel, İngiltere'nin yaklaşımının sorumluluğunu kabul etti ve takımın yeterince aktif olmadığını söyledi. Harry Kane, İngiltere'nin gol attıktan sonra topu tutmakta zorlandığını ve önceki turnuvalardan bir deseni tekrarladığını belirtti. Paris'te, Fransa'nın İspanya'ya yarı finalde yenilmesi ve Bastille Günü'nün çakışması sonrası çıkan kargaşada 98 kişi gözaltına alındı. Üçüncülük maçı, Fransa'nın 14 yıllık teknik direktörü Didier Deschamps'ın son maçı olacak. 2018'de Dünya Kupası'nı kazandı ve üst üste üç yarı finale ulaştı. Zinedine Zidane'ın onu değiştirmesi bekleniyor. Üçüncülük maçı, Cumartesi yerel saatle Miami'de, BAE'de Pazar günü saat 01:00'de başlayacak. Mina Rzouki, The National için turnuva süresince günlük bir bonus serisi olan Trending Middle East'in Dünya Kupası özetini sunuyor.",
+          "group" : "World Cup final race",
+          "id" : "https:\/\/www.thenationalnews.com\/podcasts\/trending-middle-east\/2026\/07\/16\/world-cup-round-up-argentina-produce-another-late-miracle-to-set-up-spain-final\/",
+          "link" : "https:\/\/www.thenationalnews.com\/podcasts\/trending-middle-east\/2026\/07\/16\/world-cup-round-up-argentina-produce-another-late-miracle-to-set-up-spain-final\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/podcasts\/trending-middle-east\/2026\/07\/16\/world-cup-round-up-argentina-produce-another-late-miracle-to-set-up-spain-final\/"
+            }
+          ],
+          "titleTR" : "Dünya Kupası özeti: Arjantin, İspanya finalini hazırlamak için bir başka geç mucize gerçekleştirdi"
+        }
+      ],
+      "packetSpot" : "Arjantin ve İspanya'nın Dünya Kupası finalinde karşılaşmaya hazırlandığı bu dönemde, etkinlik etrafında çeşitli anlatılar şekilleniyor.",
+      "packetTitle" : "Dünya Kupası final hazırlıkları",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss",
+          "category" : "Security",
+          "descriptionTR" : "Donald Trump, ABD'nin İran'a asker göndermesini ihtimal dışı bırakmadı; çatışmalar yeniden başlarken ABD saldırıları devam ediyor.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "ABD'nin İran'a kara harekatı nasıl görünebilir?"
+        },
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
+          "category" : "Security",
+          "descriptionTR" : "İran, ABD'yi 'korkakça savaş suçu' işlemekle suçluyor; bir doktor, patlamanın 'o kadar yakındı ki hastanenin vurulduğunu sandık' dediğini aktarıyor.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "İran'dan çocuk kanser hastanesi yakınındaki 'barbarca' ABD saldırısına kınama"
+        },
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/podcasts\/trending-middle-east\/2026\/07\/15\/us-and-iran-trade-further-strikes-traffic-slows-in-strait-of-hormuz-and-abu-dhabi-invests-in-us-gas\/",
+          "category" : "Security",
+          "descriptionTR" : "Trending Middle East'in bugünkü bölümünde, ABD ve İran arasındaki çatışmanın yeni bir saldırı dalgasıyla devam ettiği öne çıkıyor. Son Amerikan saldırıları, Hürmüz Boğazı yakınlarındaki İran askeri altyapısını hedef alırken, Tahran da Bahreyn, Ürdün ve Kuveyt'teki ABD bağlantılı noktalara saldırılar düzenledi.\nAyrıca, artan gerilimin küresel deniz taşımacılığı üzerindeki etkilerini inceliyoruz; boğazdan sadece birkaç gemi geçiyor. BAE Devlet Bakanı Lana Nusseibeh, The National'a yaptığı açıklamada, dünyanın en önemli ticaret yollarından birinin yeniden açılması için diplomasinin en iyi yol olduğunu belirtiyor.\nBölgenin su yoluna bağımlılığını azaltma çabalarına da bakıyoruz; ABD, Irak-Suriye petrol boru hattını canlandırma planlarını destekliyor ve Başkan Donald Trump, Bağdat ile büyük enerji anlaşmalarını işaret ediyor.\nRoma'da, Lübnanlı ve İsrailli müzakereciler, geçen ayki ateşkesin uygulanmasına yönelik ABD destekli görüşmelere katılıyor. Güney Lübnan'daki \"pilot bölgeler\" üzerindeki anlaşmazlıklar, tartışmaların merkezinde yer alıyor.\nVe Abu Dabi'nin 2PointZero şirketi, büyük bir ABD doğal gaz şirketini 2,25 milyar dolara satın alarak, dünyanın en büyük enerji pazarlarından birindeki varlığını genişletiyor.\nTrending Middle East, The National'da yayınlanan orijinal haberlere dayanan ve insanlar tarafından düzenlenen yapay zeka destekli bir programdır.",
+          "group" : "Hormuz regional escalation",
+          "id" : "https:\/\/www.thenationalnews.com\/podcasts\/trending-middle-east\/2026\/07\/15\/us-and-iran-trade-further-strikes-traffic-slows-in-strait-of-hormuz-and-abu-dhabi-invests-in-us-gas\/",
+          "link" : "https:\/\/www.thenationalnews.com\/podcasts\/trending-middle-east\/2026\/07\/15\/us-and-iran-trade-further-strikes-traffic-slows-in-strait-of-hormuz-and-abu-dhabi-invests-in-us-gas\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/podcasts\/trending-middle-east\/2026\/07\/15\/us-and-iran-trade-further-strikes-traffic-slows-in-strait-of-hormuz-and-abu-dhabi-invests-in-us-gas\/"
+            }
+          ],
+          "titleTR" : "ABD ve İran arasında yeni saldırılar, Hürmüz Boğazı'nda trafik yavaşlıyor, Abu Dabi ABD gazına yatırım yapıyor"
+        }
+      ],
+      "packetSpot" : "ABD ve İran, karşılıklı saldırılarla bölgesel istikrarı ve deniz yollarını etkiliyor.",
+      "packetTitle" : "ABD-İran gerilimi: Askeri ve ekonomik boyutlar",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/kenya-s-political-gangs-fuel-election-fears\/a-77970615?maca=en-rss-en-world-4025-xml-mrss",
+          "category" : "Politics",
+          "descriptionTR" : "Kenya'da siyasi ve sivil etkinliklerde yaşanan şiddet olayları, 2027 seçimlerine doğru giderken kiralık çetelerin kullanılmasına dair endişeleri artırıyor.",
+          "group" : "Kenya election gangs",
+          "id" : "https:\/\/www.dw.com\/en\/kenya-s-political-gangs-fuel-election-fears\/a-77970615?maca=en-rss-en-world-4025-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/kenya-s-political-gangs-fuel-election-fears\/a-77970615?maca=en-rss-en-world-4025-xml-mrss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle World",
+              "url" : "https:\/\/www.dw.com\/en\/kenya-s-political-gangs-fuel-election-fears\/a-77970615?maca=en-rss-en-world-4025-xml-mrss"
+            }
+          ],
+          "titleTR" : "Kenya'da 'siyasi çeteler' seçim endişelerini körüklüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/us-tariffs-shake-up-brazils-presidential-race-as-candidates-trade-blame",
+          "category" : "Politics",
+          "descriptionTR" : "BRASÍLIA, 16 Temmuz - Trump yönetiminin Çarşamba günü Brezilya mallarına uyguladığı tarifeler, Washington'u Brezilya'nın Ekim ayındaki başkanlık seçimlerine dahil etti ve ABD'nin Latin Amerika siyasetine müdahalesine dair endişeleri yeniden canlandırdı.",
+          "group" : "US Brazil tariffs",
+          "id" : "https:\/\/www.straitstimes.com\/world\/us-tariffs-shake-up-brazils-presidential-race-as-candidates-trade-blame",
+          "link" : "https:\/\/www.straitstimes.com\/world\/us-tariffs-shake-up-brazils-presidential-race-as-candidates-trade-blame",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/us-tariffs-shake-up-brazils-presidential-race-as-candidates-trade-blame"
+            }
+          ],
+          "titleTR" : "ABD tarifeleri Brezilya'nın başkanlık yarışını karıştırıyor; adaylar suçlamaları paylaşıyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Siyasi çeteler ve seçim endişeleri",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/irans-ahmadinejad-denies-hollywood-style-claims-of-seeking-israeli-backed-return-to-power\/",
+          "category" : "Security",
+          "descriptionTR" : "Eski İran Cumhurbaşkanı Mahmud Ahmedinejad, İsrail istihbaratıyla bağlantılı olduğuna dair iddiaları kamuoyuna açık bir şekilde yalanladı. The New York Times'ın haberine göre, Ahmedinejad'ın Devrim Muhafızları tarafından ev hapsine alındığı iddia edildi ancak Ahmedinejad'ın ofisi bu iddiaları reddetti. Haberde, Ahmedinejad'ın İsrail istihbarat yetkilileriyle bir araya geldiği ve iktidara dönüş için destek aradığı öne sürüldü. Ahmedinejad'ın ofisi, bu iddiaları 'Hollywood tarzı' olarak nitelendirerek, ülkenin hassas durumu nedeniyle bu tür iddiaları kesin bir dille reddettiklerini belirtti. Telegram üzerinden yapılan açıklamada, Ahmedinejad'ın İran'da günlük işlerini sürdürdüğüne dair fotoğraflar paylaşıldı.",
+          "group" : "Iran intelligence intrigue",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/irans-ahmadinejad-denies-hollywood-style-claims-of-seeking-israeli-backed-return-to-power\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/irans-ahmadinejad-denies-hollywood-style-claims-of-seeking-israeli-backed-return-to-power\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/irans-ahmadinejad-denies-hollywood-style-claims-of-seeking-israeli-backed-return-to-power\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle World",
+              "url" : "https:\/\/www.dw.com\/en\/iran-alleged-ahmadinejad-plot-highlights-info-war\/a-77967268?maca=en-rss-en-world-4025-xml-mrss"
+            }
+          ],
+          "titleTR" : "Ahmedinejad, İsrail destekli iktidara dönüş iddialarını 'Hollywood tarzı' olarak nitelendirip reddetti"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Ahmadinejad ve İsrail destekli komplo iddiaları: Suçlamalar ve yalanlamalar",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/gulf\/2026\/07\/15\/hanging-by-a-thread-informal-truce-between-saudi-arabia-and-houthis-on-brink-of-collapse\/",
+          "category" : "Security",
+          "descriptionTR" : "2022'deki ateşkesten bu yana Suudi Arabistan ve Yemen'in Husi isyancıları arasındaki kırılgan sakinlik, son askeri değişimle ciddi bir sınavla karşı karşıya. Bu tırmanış, kapsamlı bir barış anlaşmasına dönüşmeyen ateşkesin altındaki gerilimi ortaya çıkardı. Husiler, Suudi Arabistan'ın Abha Uluslararası Havalimanı'na saldırırken, Yemen hükümetinin Sanaa Havalimanı'na düzenlediği hava saldırısı İran uçağının inişini engelledi. Riyad, Husilerin saldırısından sorumlu tutuldu. ABD, Suudi Arabistan'a İran destekli Husi saldırılarına karşı destek verdiğini belirtti. Bölgedeki gerilim, Kızıldeniz'deki nakliyatı tehdit edebilir.",
+          "group" : "Saudi Houthi truce",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/gulf\/2026\/07\/15\/hanging-by-a-thread-informal-truce-between-saudi-arabia-and-houthis-on-brink-of-collapse\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/gulf\/2026\/07\/15\/hanging-by-a-thread-informal-truce-between-saudi-arabia-and-houthis-on-brink-of-collapse\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/gulf\/2026\/07\/15\/hanging-by-a-thread-informal-truce-between-saudi-arabia-and-houthis-on-brink-of-collapse\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/dramatic-speedboat-raid-in-bab-al-mandeb-strait-halts-weapons-shipment-to-yemens-houthis\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/iran-tells-houthis-to-close-red-sea-gateway-if-us-hits-power-network-sources-say"
+            }
+          ],
+          "titleTR" : "Suudi Arabistan ve Husiler arasındaki gayri resmi ateşkes tehlikede"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/us-strikes-iran-strait\/",
+          "category" : "Security",
+          "descriptionTR" : "Artan yoğun ateş haftası, geçen ayki ateşkesten önceki dört aylık çatışma sırasında her iki tarafın belirlediği tırmanış sınırlarını test etti.",
+          "group" : "Hormuz regional escalation",
+          "id" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/us-strikes-iran-strait\/",
+          "link" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/us-strikes-iran-strait\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/us-strikes-iran-strait\/"
+            }
+          ],
+          "titleTR" : "İran ve ABD Körfez'de tırmanıyor ama Amerikalının serbest bırakılması gerilimi azaltabilir"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Körfez ve Kızıldeniz'de İran, ABD ve bölgesel aktörler arasında artan gerilim",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/united-states\/maine-ice-shooting-puts-republican-senator-susan-collins-in-political-bind",
+          "category" : "Security",
+          "descriptionTR" : "Maine'nin Demokratlar için Senato'yu kazanma yolunda kritik bir öneme sahip olduğu belirtiliyor.",
+          "group" : "Maine ICE shooting",
+          "id" : "https:\/\/www.straitstimes.com\/world\/united-states\/maine-ice-shooting-puts-republican-senator-susan-collins-in-political-bind",
+          "link" : "https:\/\/www.straitstimes.com\/world\/united-states\/maine-ice-shooting-puts-republican-senator-susan-collins-in-political-bind",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/united-states\/maine-ice-shooting-puts-republican-senator-susan-collins-in-political-bind"
+            }
+          ],
+          "titleTR" : "Maine'deki ICE olayı, Cumhuriyetçi Senatör Susan Collins'i siyasi bir çıkmazda bırakıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/trump-ice-traffic-maine-killing\/",
+          "category" : "Security",
+          "descriptionTR" : "ABD İç Güvenlik Bakanlığı'nın, Salı günü duyurulan ve ciddi suçlar dışında araç durdurmalarını askıya alan yeni politikayı fiilen iptal ettiği bildiriliyor.",
+          "group" : "US immigration enforcement",
+          "id" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/trump-ice-traffic-maine-killing\/",
+          "link" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/trump-ice-traffic-maine-killing\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/trump-ice-traffic-maine-killing\/"
+            }
+          ],
+          "titleTR" : "Trump, Maine'deki cinayetin ardından ICE'ın trafik durdurmalarına yeniden başlamasını talep ediyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Maine'deki ICE olayının ardından siyasi ve politik gerilimler",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/poland-charges-ukrainian-with-vandalising-war-memorials-to-stir-ethnic-tensions",
+          "category" : "Security",
+          "descriptionTR" : "VARŞOVA, 16 Temmuz - Polonya, İkinci Dünya Savaşı sırasında Ukraynalı milliyetçiler tarafından öldürülen Polonyalıların anıtlarını tahrip ederek etnik gerilim yaratmakla suçlanan 18 yaşındaki bir Ukraynalı genci yargılıyor. İç Güvenlik Ajansı (ABW) bu suçlamayı Perşembe günü açıkladı.",
+          "group" : "Poland ethnic tensions",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/poland-charges-ukrainian-with-vandalising-war-memorials-to-stir-ethnic-tensions",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/poland-charges-ukrainian-with-vandalising-war-memorials-to-stir-ethnic-tensions",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/poland-charges-ukrainian-with-vandalising-war-memorials-to-stir-ethnic-tensions"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp305dx493do?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Polonya, etnik gerilim yaratmakla suçlanan Ukraynalıyı yargılıyor"
+        }
+      ],
+      "packetSpot" : "Polonya, 18 yaşındaki bir Ukraynalıyı Polonya ve Ukrayna arasında etnik gerilim yaratmayı amaçlayan vandalizm ve sabotajla suçladı.",
+      "packetTitle" : "Polonya, Ukraynalı genci etnik gerilim yaratmak için sabotajla suçluyor",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/ontario-asks-for-federal-support-for-wildfire-evacuations-as-smoke-spreads",
+          "category" : "Environment",
+          "descriptionTR" : "TORONTO, 16 Temmuz - Ontario, Perşembe günü yangınların harap ettiği uzak kuzey Kanada topluluklarından insanları tahliye etmek için federal yardımı talep etti. Duman, Toronto ve Kuzeydoğu ABD'nin büyük bir kısmında kötü hava kalitesine yol açtı.",
+          "group" : "Wildfire smoke impact",
+          "id" : "https:\/\/www.straitstimes.com\/world\/ontario-asks-for-federal-support-for-wildfire-evacuations-as-smoke-spreads",
+          "link" : "https:\/\/www.straitstimes.com\/world\/ontario-asks-for-federal-support-for-wildfire-evacuations-as-smoke-spreads",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/ontario-asks-for-federal-support-for-wildfire-evacuations-as-smoke-spreads"
+            }
+          ],
+          "titleTR" : "Ontario, yangınların harap ettiği Kanada kasabaları için federal destek arıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/videos\/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
+          "category" : "Environment",
+          "descriptionTR" : "CN Rail, BBC'ye yaptığı açıklamada, Ontario eyaletinde etkilenen bölgede operasyonların geçici olarak askıya alındığını belirtti.",
+          "group" : "Canada wildfire smoke",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/videos\/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/videos\/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Dramatik video Kanada'da yük treninin yangınla çevrili olduğunu gösteriyor"
+        }
+      ],
+      "packetSpot" : "Ontario'daki yangınlar, uzak topluluklarda tahliyelere ve ulaşımda, özellikle demiryolu operasyonlarında aksamalara neden oldu.",
+      "packetTitle" : "Ontario'daki yangınlar tahliyelere ve ulaşım aksaklıklarına yol açıyor",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
+
+      ],
+      "packetSpot" : "Fransa Cumhurbaşkanı Macron, ülke genelinde yayılan orman yangınları sırasında kundakçılara karşı sıfır tolerans politikası ilan etti. Bu duruşunu, yangından zarar gören Fontainebleau ormanını ziyaretinde vurguladı.",
+      "packetTitle" : "Fransa'nın orman yangını krizinde Macron'dan kundakçılara sıfır tolerans",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
+          "category" : "Law",
+          "descriptionTR" : "Irak makamları, 19 milyon dolar nakit ve birkaç kilogram altın mücevher ele geçirdiklerini açıkladı.",
+          "group" : "Iraq corruption probe",
+          "id" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
+          "link" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss"
+            }
+          ],
+          "titleTR" : "Irak, eski petrol bakanıyla bağlantılı saklanma yerlerinde 19 milyon dolar bulunduğunu açıkladı"
+        },
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/iraq-arrests-senior-military-officers-in-widening-corruption-crackdown\/",
+          "category" : "Law",
+          "descriptionTR" : "Irak'ın yolsuzlukla mücadele makamları, Bağdat'taki bir askeri hastanenin yenilenmesi ve donatılması için yapılan 71 milyon dolarlık sözleşmeyle ilgili usulsüzlük iddiaları üzerine üç üst düzey askeri subay ve beş mühendisi tutukladı. Federal Yolsuzluk Komisyonu, Salı günü geç saatlerde, Bağdat'ın Rustamiya bölgesindeki Hava Kuvvetleri Hastanesi projesine yönelik soruşturmanın ardından bir tümgeneral, bir tuğgeneral ve bir albayın Kamu İşleri Müdürlüğü'nden beş mühendisle birlikte gözaltına alındığını belirtti. Komisyona göre, 92.88 milyar Irak dinarı (71 milyon dolar) değerindeki sözleşme, rekabetçi bir ihale süreci yerine doğrudan sözleşme yoluyla yabancı bir şirkete verildi. Soruşturmacılar, anlaşmanın şişirilmiş fiyatlar ve projenin maliyetini önemli ölçüde artıran sözleşme değişiklikleri gibi mali ve idari usulsüzlükler içerdiğini iddia etti. Tutuklamalar, Merkezi Yolsuzlukla Mücadele Ceza Mahkemesi tarafından verilen emirler doğrultusunda Hızlı Müdahale Güçleri ile koordinasyon içinde bir komisyon görev gücü tarafından gerçekleştirildi. Komisyon, davanın bir soruşturma yargıcına sevk edildiğini ve iddia edilen yolsuzluğun tam boyutunu belirlemek ve ek şüphelileri tespit etmek için soruşturmaların devam ettiğini söyledi. Bu dava, 28 Haziran'da kamu fonlarının kötüye kullanılması, yasadışı zenginleşme ve düzensiz hükümet sözleşmelerine karşı başlatılan Irak'ın genişleyen yolsuzlukla mücadele kampanyasının en son gelişmesi. O tarihten bu yana, yetkililer onlarca mevcut ve eski yetkiliyi tutukladı ve çeşitli bakanlıklar ve devlet kurumlarındaki projelere yönelik soruşturmaları genişletti. Daha geniş soruşturmanın bir kısmı, Haziran ayında tutuklanan eski petrol bakan yardımcısı Adnan Al Jumaili'nin verdiği ifadeyle bağlantılı. Son tutuklamalar, kampanyanın, tedarik usulsüzlükleri iddialarına rağmen kamu yolsuzluğu soruşturmalarının nadiren odak noktası olan askeri sektöre genişlediğini gösteriyor. Mayıs ayında göreve başlayan Başbakan Ali Al Zaidi, yolsuzlukla mücadeleyi öncelikli bir konu haline getirdi ve hükümet, kampanyanın kamu fonlarını geri kazanmayı ve sorumluları hesap vermeye zorlamayı amaçladığını söyledi. Yolsuzluk, 2003 ABD öncülüğündeki işgalden bu yana Irak'ın en kalıcı sorunlarından biri olmaya devam ediyor; eski cumhurbaşkanı Barham Salih, 2021'de yaklaşık 150 milyar doların yolsuzluk ve zimmete geçirilme nedeniyle kaybedildiğini tahmin etmişti.",
+          "group" : "Iraq anti-corruption crackdown",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/iraq-arrests-senior-military-officers-in-widening-corruption-crackdown\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/iraq-arrests-senior-military-officers-in-widening-corruption-crackdown\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/iraq-arrests-senior-military-officers-in-widening-corruption-crackdown\/"
+            }
+          ],
+          "titleTR" : "Irak, genişleyen yolsuzluk operasyonunda üst düzey askeri subayları tutukladı"
+        }
+      ],
+      "packetSpot" : "Irak'ın yolsuzlukla mücadele çabaları, petrol ve askeri sektörlerde önemli el koymalar ve tutuklamalarla sonuçlandı.",
+      "packetTitle" : "Irak'ın yolsuzlukla mücadele kampanyası petrol ve askeri sektörleri hedef alıyor",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 26
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/arts-culture\/film-tv\/2026\/07\/16\/the-odyssey-review-christopher-nolan-turns-homers-epic-into-his-defining-statement\/",
+          "category" : "Culture",
+          "descriptionTR" : "Christopher Nolan'ın neredeyse otuz yıldır 'The Odyssey'yi yaptığı fark edilmemişti. Memento'da (2000) kendi hikayesinin ipuçlarını bir araya getirmeye çalışan bir adam, Batman Başlıyor'da (2005) kaderini geri kazanmadan önce kendini keşfetme yolculuğuna çıkan bir kahraman, Yıldızlararası'nda (2014) ailesini dünyaya olan görevini yerine getirmek için terk eden bir baba ve Dunkirk'te (2017) kesin bir yıkım karşısında eve dönüş yolu arayan askerler... Tüm bu filmlerde 'The Odyssey'nin izleri var. Ancak, 'The Odyssey' baştan sona bir ağırlık taşıyor. Nolan, IMAX formatını sadece güzelliği yakalamak için değil, anlatı amacı için kullanıyor. Filmde, Odysseus'un eylemlerinin 20 yıl sonra getirdiği sonuçlar gözler önüne seriliyor. Matt Damon, Tom Holland, Anne Hathaway ve Robert Pattinson gibi oyuncuların performansları dikkat çekiyor. Ancak, bu karışık ve post-apokaliptik dünyada umut hala var. Nolan'ın 'The Odyssey'si, umudun ve sevginin önemini vurguluyor. Film şu anda Orta Doğu'da sinemalarda.",
+          "group" : "Nolan Odyssey review",
+          "id" : "https:\/\/www.thenationalnews.com\/arts-culture\/film-tv\/2026\/07\/16\/the-odyssey-review-christopher-nolan-turns-homers-epic-into-his-defining-statement\/",
+          "link" : "https:\/\/www.thenationalnews.com\/arts-culture\/film-tv\/2026\/07\/16\/the-odyssey-review-christopher-nolan-turns-homers-epic-into-his-defining-statement\/",
+          "newsValue" : 2,
+          "publishedAt" : "2026-07-16T21:30:46Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/arts-culture\/film-tv\/2026\/07\/16\/the-odyssey-review-christopher-nolan-turns-homers-epic-into-his-defining-statement\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Le Monde International",
+              "url" : "https:\/\/www.lemonde.fr\/en\/culture\/article\/2026\/07\/16\/christopher-nolan-struggles-to-match-homer-in-the-odyssey_6755517_30.html"
+            }
+          ],
+          "titleTR" : "The Odyssey incelemesi: Christopher Nolan'ın belirleyici ifadesi"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Christopher Nolan'ın 'The Odyssey'si: Epik Bir Sinematik Yolculuk",
+      "publishedAt" : "2026-07-16T21:30:46Z",
+      "sessionID" : "publish-draft",
+      "slot" : 27
+    }
+  ],
+  "superPackets" : [
+    {
+      "slots" : [
+        3,
+        11,
+        14
+      ],
+      "spot" : "The Trump administration is making strategic moves with a focus on election security, visa regulations, and internal controversies, signaling a period of heightened political maneuvering.",
+      "title" : "Trump Administration's Strategic Moves and Controversies"
+    },
+    {
+      "slots" : [
+        8,
+        21
+      ],
+      "spot" : "Military confrontations in the Gulf are intensifying, with the US and Iran at the forefront and regional actors entangled in the escalating tensions.",
+      "title" : "Escalating Military Tensions in the Gulf Region"
+    }
+  ],
+  "week" : "2026-W29"
+}
