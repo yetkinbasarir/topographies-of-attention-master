@@ -1,367 +1,209 @@
 {
   "label" : "13-19 TEMMUZ",
-  "publishedAt" : "2026-07-17T11:53:59Z",
+  "publishedAt" : "2026-07-17T16:11:24Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
-          "category" : "Culture",
-          "descriptionTR" : "Our season of Chabrol’s cool, deliciously wicked thrillers runs at BFI Southbank from 1 September to 6 October, with a BFI Distribution re-release of La Femme infidèle returning to cinemas in the UK and Ireland on 11 September.",
-          "group" : "Claude Chabrol season",
-          "id" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
-          "link" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BFI",
-              "url" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration"
-            }
-          ],
-          "titleTR" : "Claude Chabrol celebrated with BFI Southbank season, re-release of La Femme infidèle, BFI Player collection and BFI Blu-ray releases"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
-          "category" : "Culture",
-          "descriptionTR" : "Salvador Salort-Pons, a noted Velázquez scholar, says he made the discovery by chance while preparing a related exhibition at the museum",
-          "group" : "Old master rediscovery",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting"
-            }
-          ],
-          "titleTR" : "Detroit Institute of Arts director finds missing Velázquez painting"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
-          "category" : "Culture",
-          "descriptionTR" : "Show at the Jewish Museum looks at the movement founded by members of the Vienna Secession, who rejected Bauhaus's mass-production ethos",
-          "group" : "Craft and modernism",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft"
-            }
-          ],
-          "titleTR" : "New York exhibition explores how the Wiener Werkstätte preserved the human touch of handcraft"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
-          "category" : "Culture",
-          "descriptionTR" : "Exhibitions on chintz, ceramics, and pop culture will headline in South Kensington, while South Asian contemporary art and Vivienne Westwood will feature at the museum's east London and Dundee locations, respectively",
-          "group" : "V&A 2027 exhibitions",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion"
-            }
-          ],
-          "titleTR" : "V&A reveals 2027 exhibitions, ranging from South Asian contemporary art and textiles to punk music and fashion"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
-          "category" : "Culture",
-          "descriptionTR" : "Now part of the joint Artist Rooms collection, the 1980s works will go on show at Tate Modern in September as part of a free Robert Rauschenberg display",
-          "group" : "Rauschenberg collection gift",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection"
-            }
-          ],
-          "titleTR" : "Robert Rauschenberg foundation donates three sculptures to shared Tate and National Galleries of Scotland collection"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
-          "category" : "Culture",
-          "descriptionTR" : "The late artist’s first-ever institutional survey at the Aspen Art Museum honours him through its theatrical staging, featuring works on loan from friends like Agosto Machado and Jimmy Wright",
-          "group" : "East Village artist revival",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum"
-            }
-          ],
-          "titleTR" : "Arch Connelly, beloved mainstay of the 1980s East Village art scene, steps into the spotlight"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
-          "category" : "Culture",
-          "descriptionTR" : "London exhibition explores how ancient sites informed the work of the late Cuban American artist, who was best known for her performance and land art",
-          "group" : "Ana Mendieta survey",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
+          "category" : "Energy",
+          "descriptionTR" : "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrification as “powerful weapon” against fossil fuels appeared first on Climate Home News.\nDozens of governments led by the EU and the UK have pledged to throw their political weight behind a rapid electrification of the world’s economy, billed as a “powerful weapon” for cutting reliance on planet-heating fossil fuels.\nAt a high-level summit in London’s Mansion House on Tuesday, energy ministers and business leaders were joined by UN secretary-general António Guterres in calling for faster action to curb demand for oil, coal and gas by powering homes, industry and transport with clean electricity.\nElectrification – which spans measures such as switching from petrol cars to electric vehicles – has emerged as a key priority in climate and energy policy circles this year. \nCOP31 co-hosts Türkiye and Australia have made a global target for electricity to meet 35% of final energy demand by 2035, up from around 20% today, the main plank of this year’s action agenda for the UN summit. Reaching that level is necessary to keep the 1.5C warming limit within reach, according to the International Renewable Energy Agency (IRENA).\nTurkish COP31 President-Designate Murat Kurum said earlier this month that the host nation would work to forge “a strong global coalition that is ready and determined to act” and promised to facilitate access to technical assistance.\n\t•\t￼   Jun 24, 2026  Comment   Did Colombia’s energy transition just come to a halt? With promises to lift a ban on oil and gas exploration and scale back renewables support, Colombia’s new Tiger President could threaten the country’s clean energy shift  Read more    \n\t•\t￼   Jun 24, 2026  News   COP31 presidency ‘open’ to reflecting Santa Marta in UN climate process, ministers say The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process  Read more    \n\t•\t￼   Jun 23, 2026  News   UN asks AI companies to reveal full environmental impacts UN chief António Guterres says big AI firms should disclose the emissions, water and energy use of their data centres amid community opposition  Read more    \n\t•\t\nRallying support for electrification\nFive months before countries are due to sign on to the pledge, efforts to rally support gathered momentum at London Climate Action Week, as a record-breaking heatwave baking the capital underscored the urgency of weaning the world off fossil fuels.\nGuterres said the world faces an “historic opportunity” to turn the page on its dependence on fossil fuels and fully embrace clean electrification powered by renewables.\n“The age of clean electrification is here,” he added. “The question is whether we can build the grids and storage, mobilize the investment, and deliver the infrastructure at the speed and scale required”.\nWithout investment and government policies supporting upgrades in infrastructure, ageing power grids are often unable to handle the growing influx of renewable energy, creating bottlenecks and slowing the energy transition, according to the International Energy Agency (IEA).\nMeanwhile, the high upfront costs of buying electric vehicles, heat pumps and industrial equipment remains a challenge to switch households and businesses away from using fossil fuels across the world, according IEA analysts, despite these technologies being cheaper over their whole lifecycle.\nGlobal coordination platform\nIn a bid to overcome these hurdles, the European Commission and the UK government on Tuesday launched a new platform to coordinate global progress on electrification.\nEU energy commissioner Dan Jorgensen said the goal was to build coalitions, draw up policy recommendations, share best practice and secure new funding to speed up the electrification of homes, industry and transport.\nBrazil’s COP30 presidency, the joint Australia-Türkiye COP31 presidency, Ethiopia’s incoming COP32 presidency, Canada, the Philippines and South Korea joined the initiative at launch.\nJorgensen urged governments worldwide to “choose transformation over turbulence” and switch to clean electricity to make economies and societies more resilient and shield them from future shocks driven by volatile fossil fuels.\nCOP31 leaders unveil global targets, with spotlight on electrification\nFor many countries, especially those heavily reliant on imported fossil fuels, the oil and gas crisis triggered by the US and Israeli attacks on Iran and the ensuing blockade of the Strait of Hormuz has driven home the urgency of the clean energy transition.\nThe UK’s energy secretary Ed Miliband said on Tuesday that, unlike previous fossil fuel shocks, clean electrification now offers the world a clear alternative.\n“An alternative that cannot be disrupted by foreign wars, that isn’t subject to global shocks because it is locked in stable prices at home, and that can create good jobs and drive growth,” he added, “an alternative that can deliver national security, energy security and indeed climate security.”\nAt the recent conference on transitioning away from fossil fuels in Santa Marta, a group of 60 governments led by the Netherlands and Colombia said electrification is one of the areas where they can align work with the UN climate talks.\nFinancial reforms needed\nAchieving the electrification target – dubbed the “35 by 35” goal – will require significant financial resources. Investments in power grids alone need to double from their current rate to around $1 trillion each year in the next decade, according to IRENA. \nBut Guterres said that developing countries are still “starved from investment” in their clean energy sector. He urged deeper reforms of the global financial architecture by reducing lending risk, lowering the cost of capital and attracting more private investment. \nSurangel Whipps Jr., president of the low-lying Pacific island state of Palau, said faster progress in electrification is a “powerful weapon in our arsenal”. But he warned that the energy transition would stall without “fit for purpose investment that is fast, predictable and accessible”.",
+          "group" : "Electrification transition",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-17T11:53:59Z",
+          "publishedAt" : "2026-07-17T16:11:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey"
-            }
-          ],
-          "titleTR" : "Ana Mendieta’s ‘Neolithic art’ recreated for major Tate Modern survey"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
-          "category" : "Culture",
-          "descriptionTR" : "On public view for the first time, the objects were all returned during outgoing president Gustavo Petro’s administration",
-          "group" : "Pre-Columbian repatriation",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
+            },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts"
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens\/"
             }
           ],
-          "titleTR" : "Exhibition in Bogotá shows off more than 1,000 repatriated pre-Columbian artefacts"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
-          "category" : "Culture",
-          "descriptionTR" : "The medieval embroidery was delivered to the museum from France in the early hours of the morning ahead of the September exhibition opening",
-          "group" : "Bayeux Tapestry loan",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing"
-            }
-          ],
-          "titleTR" : "Bayeux Tapestry arrives at the British Museum in London after secret English Channel crossing"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
-          "category" : "Culture",
-          "descriptionTR" : "Wellcome Collection’s exhibition includes paintings and drawings by the prolific artist, as well as the ephemera through which she chronicled her life",
-          "group" : "Art and mental illness",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness"
-            }
-          ],
-          "titleTR" : "The ‘stuff’ of life tells the story of Audrey Amiss, whose promising career was derailed by mental illness"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
-          "category" : "Culture",
-          "descriptionTR" : "￼Humans' futile control of time forms the basis of a new suite of works in Padeu's solo show at Larkin Durey.\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Cocoa Plantations Set the Scene for Divine Events in Marc Padeu’s ‘Memento Vivere’ appeared first on Colossal.\n￼\n“It’s not that we have a short time to live, but that we waste much of it,” wrote stoic philosopher Lucius Seneca. The phrase appeared in his essay “De Brevitate Vitae,” or, “On the Shortness of Life,” which he scratched into papyrus around 49 A.D. Nearly 2,000 years on, his words reflect what is still a fundamental concern of life—how to spend it wisely? For artist Marc Padeu, the notion of humans’ futile control of time forms the basis of a new suite of works in Memento Vivere, on view starting tomorrow at Larkin Durey.\nPadeu is known for merging scenes of daily life with references to Renaissance religious paintings. Among his newest works, “La promesse et l’agneau” (“The promise and the lamb”) most distinctly continues this theme. In the center of the composition, a young child is seated on the lap of his mother, both of whom are flanked by adults who bring gifts and tidings in a nod to the artistic tradition of the Adoration of the Magi, or the nativity.\n￼\nDetail of “La promesse et l’agneau”\nLatin for “remember to live,” the title nods to Seneca and serves as a reminder to grasp life by the reins before it’s too late. It’s also a complement to more common art historical theme of memento mori, or “remember you will die,” which serves a similar purpose of reminding the viewer that life is short and any wealth or grandeur one pursues means nothing when one is dead. Instead, it’s important to focus on things that really matter: family, nature, craft, and so on.\nPadeu’s narrative portray individuals and communities who work on the cocoa plantations in his native Cameroon. “Days follow one another, harvests come round again and yet, despite this ebb and flow of life, his figures are caught outside of time, slipping between past, present and future,” the gallery says. The artist infuses his compositions with a sense of divine birth and the mysterious sublime. “Each painting is poised between promise and fate, light and shade; the figures existing simultaneously in a spiritual and secular realm, neither saints nor heroes but with a growing awareness that life is a fragile gift.”\nMemento Vivere opens on July 17 and continues through August 14 in London. See more on the artist’s Instagram.\n￼\n“Sous le poids de la coupe” (2026), acrylic on canvas, 66 7\/8 x 78 3\/4 inches\n￼\n“Memento vivere” (2026), acrylic on canvas, 66 7\/8 x 78 3\/4 inches\n￼\nDetail of “Memento vivere”\n￼\n“La prix de la promesse” (2026), acrylic on canvas, 59 x 78 3\/4 inches\n￼\n“Le chemin partagé” (2026), acrylic on canvas, 70 x 47 1\/4 inches\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Cocoa Plantations Set the Scene for Divine Events in Marc Padeu’s ‘Memento Vivere’ appeared first on Colossal.",
-          "group" : "Cameroon religious painting",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
-          "newsValue" : 2,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/"
-            }
-          ],
-          "titleTR" : "Cocoa Plantations Set the Scene for Divine Events in Marc Padeu’s ‘Memento Vivere’"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
-          "category" : "Culture",
-          "descriptionTR" : "￼Between 2010 and 2011, Marlow documented all 42 Anglican cathedrals across the breadth and length of England.\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article See Peter Marlow’s ‘The English Cathedral’ at London’s Oldest Gothic Church appeared first on Colossal.\n￼\nAcclaimed British photographer Peter Marlow (1952-2016) was known for his journalistic attention to people and happenings in conflict zones and political interactions. Throughout his career, though, he also embarked on numerous personal documentary projects like Liverpool: Looking Out to Sea, which he completed in the late 1980s and early 1990s as the city experienced sharp economic decline—its historic docks were no longer viable for global industry. He was also president of Magnum Photos twice.\nOne of Marlow’s more meditative projects revolved around 42 Anglican cathedrals across England. The Anglican Christian tradition stems from the establishment of the Church of England following the English Reformation in the 16th century, although the cathedrals’ architectural lineage usually predates this period.\n￼\nWorcester Cathedral (2010)\nCompleting The English Cathedral involved coordinating visits at times of day when Marlow could experience the buildings in natural light, not unlike the way they were seen for centuries before the advent of electricity. He focused on the churches’ naves, illuminating their rosette-covered wooden ceilings, Gothic arches, altars, and hints of apses beyond.\nAn exhibition of The English Cathedral opens on July 21 and continues through August 31 at Southwark Cathedral, which has roots dating back at least to the 11th century. Today, it’s the oldest Gothic church in London.\n￼\nPeterborough Cathedral (2010)\n￼\nSouthwark Cathedral (2010)\n￼\nDerby Cathedral (2010)\n￼\nWorcester Cathedral (2010)\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article See Peter Marlow’s ‘The English Cathedral’ at London’s Oldest Gothic Church appeared first on Colossal.",
-          "group" : "English cathedral photography",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/"
-            }
-          ],
-          "titleTR" : "See Peter Marlow’s ‘The English Cathedral’ at London’s Oldest Gothic Church"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
-          "category" : "Culture",
-          "descriptionTR" : "￼A large-scale, immersive exhibition of her work opens today at Tate Modern.\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Experience Ana Mendieta’s Visceral, ‘Neolithic’ Work in a Major Survey appeared first on Colossal.\n￼\nRarely do artists conceive of work that is prescient and, decades on, more urgent than when it was created. One who has accomplished this is certainly Ana Mendieta (1948-1985), whose interdisciplinary practice merged photography, land art, sculpture, film, and more. And in a large-scale, immersive survey of her work that opens today at Tate Modern, more than 120 pieces revisit the groundbreaking artist’s key series and empathetic exchange with land and nature.\nMendieta is best known for her Silueta Series, in which she impressed the shape of the human body in water, mud, rock, and forests. These sometimes consisted of outlines “drawn” onto surfaces, such as a gunpowder tribute on a fallen tree, which exists eternally half-ablaze in a photograph. Others are impressed directly into the earth, as if a person had been lying there for millennia as the desert or stone formed around her.\n￼\n“Imágen de Yágul” (1973). © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS, 2026. Courtesy of Marian Goodman Gallery and Alison Jacques, London\nIn what she described as “earth-body” works, Mendieta explored vital relationships between humans and nature, absence and presence, experience and temporality, and place and identity. She often turned the lens on herself, building compositions that plumb the tensions between beauty, ruggedness, vulnerability, and strength. Her practice can easily be viewed through the lens of ecofeminism, a movement that emerged around the same time Mendieta was working, but it is also profoundly personal.\nAt 12 years old, Mendieta was separated from her parents and brother, who remained in her home country of Cuba, when she and her sister were exiled to the U.S. following the Cuban Revolution in 1959. Throughout her life and brief career, she grappled with themes of displacement and disconnection. “My art is the way I reestablish the bonds that unite me to the Universe,” Mendieta said. “It is a return to the maternal source.”\nThere is also humor in her approach to self-representation, such as her early series of self-portraits in which she documented her wet hair in wild, sculptural forms or produced a sequential series of images in which an arrangement of flowers gradually conceals her face. Within a few years, the work adopted a more solemn, enigmatic tone, characterized by voids, organic forms, gesture, and ephemerality.\nMendieta also drew on her fascination with archaeology to create multimedia works that delved into the relationship between humans and the land. “My work is basically in the tradition of a Neolithic art,” she said in 1984. “I’m not interested in the formal qualities of my materials, but their emotional and sensual ones.”\n￼\n“La Vivificación de la Carne: El Laberinto de Venus Series (The Vivification of the Flesh: Labyrinth of Venus Series)” (1982), installation view at Tate Modern, 2026. Artwork © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS 2026. Photo © Tate (Yilli Liu)\nThe artist’s interest in the ancient past ultimately lends a timelessness to themes that resonate through her personal narrative but also, incidentally, the ills of the present. One might think of our screen-fueled social discord and the accelerating climate crisis, both also defined by a sense of alienation and disjointedness. Though Mendieta couldn’t have conceived of these things as we experience them today, she nevertheless tapped into a kind of visceral biophilia that’s more critical than ever. The exhibition at Tate highlights not only the artist’s the desire to connect with nature but also casts a light on how far removed from it most of us have become.\nAna Mendieta continues through January 17, 2027, in London. Plan your visit on Tate’s website.\n￼\n“Untitled: Silueta Series” (1976). © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS, 2026. Courtesy of Marian Goodman Gallery and Alison Jacques, London\n￼\n“Untitled” (c.1984). © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS, 2026. Courtesy of Marian Goodman Gallery and Alison Jacques, London\n￼\n“Untitled” (1973). © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS, 2026. Courtesy of Marian Goodman Gallery and Alison Jacques, London\n￼\n‘Ana Mendieta’ installation view at Tate Modern, 2026. Artworks © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS 2026. Photo © Tate (Yili Liu)\n￼\n“Untitled” (1972). © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS, 2026. Courtesy of Marian Goodman Gallery and Alison Jacques, London\n￼\n“Untitled (Guanaroca [First Woman])” (1981). © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS, 2026 \/ Courtesy of Marian Goodman Gallery and Alison Jacques, London\n￼\n“Ñañigo Burial” (1976). © The Estate of Ana Mendieta Collection, LLC. Licensed by Artist Rights Society (ARS), New York \/ DACS, 2026. Courtesy of Marian Goodman Gallery and Alison Jacques, London. Photo Alex Yudzon\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Experience Ana Mendieta’s Visceral, ‘Neolithic’ Work in a Major Survey appeared first on Colossal.",
-          "group" : "Ana Mendieta survey",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/"
-            }
-          ],
-          "titleTR" : "Experience Ana Mendieta’s Visceral, ‘Neolithic’ Work in a Major Survey"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
-          "category" : "Culture",
-          "descriptionTR" : "￼\"I rarely paint a folktale exactly as it's written,\" Lee says. \"I'm more interested in its symbols, emotions, and the questions it leaves behind.\"\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Korea’s Coastal Folklore Surfaces in Jeongmin Lee’s Ink Illustrations appeared first on Colossal.\n￼\nJeongmin Lee is interested in the ways “memory is carried through craft and repetition.” On traditional Korean mulberry paper, or hanji, Lee draws delicate lines in ink and pigments known as bunchae, rendering rippling textures that whirl across the page. Steeped in local folklore and mythology, the Busan-based artist creates surreal scenes that conjure fantastical tales of life by the sea.\n“Most of my recent projects begin with reading regional folktales, visiting places connected to those stories, and collecting fragments of history, mythology, and oral traditions,” she says. “I rarely paint a folktale exactly as it’s written; I’m more interested in its symbols, emotions, and the questions it leaves behind.”\n￼\nMany of Lee’s compositions focus on women’s knowledge, labor, and resilience and how those qualities emerge through coastal storytelling. Tales of powerful sea gods and the diving traditions of the haenyeo commingle into balanced illustrations that translate the symbols and motifs of the region anew.\nWhile her approach is labor-intensive, Lee enjoys utilizing such a meticulous, meditative technique. “Painting with traditional pigments requires a slow, layered process. The colors are built gradually, allowing the paper and pigments to create subtle textures that wouldn’t be possible with other materials,” she adds. “It gives me space to sit with these stories while I paint them.\nMany of the works shown here are part of Daughters of the Sea(s), an ongoing series on view alongside artist Kato Trofimova for the SĀBRS Festival in Riga. Lee hopes to expand the project into one that’s participatory and connects similar narratives from across the globe. “I’m exploring ways that folklore can become something people experience and talk about together, rather than something that exists only on a gallery wall,” Lee shares.\nShe’s also currently working on a graphic novel centering on Busan’s mythology and folklore, which she hopes to complete next year. Keep up with her projects on Instagram.\n￼\n￼\n￼\n￼\n￼\n￼\n￼\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Korea’s Coastal Folklore Surfaces in Jeongmin Lee’s Ink Illustrations appeared first on Colossal.",
-          "group" : "Korean coastal folklore",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/"
-            }
-          ],
-          "titleTR" : "Korea’s Coastal Folklore Surfaces in Jeongmin Lee’s Ink Illustrations"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
-          "category" : "Culture",
-          "descriptionTR" : "￼\"Civilizations are remembered through their monuments, but understood through the things they throw away,\" the artist says.\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Helena Minginowicz Transforms Humble Paper Towel into Ethereal Paintings appeared first on Colossal.\n￼\n“Civilizations are remembered through their monuments, but understood through the things they throw away,” says artist Helena Minginowicz, whose sensitive paintings interrogate our understanding of value. Using airbrushed acrylic, which can be built up in lightweight, translucent layers, the artist takes one of the most quotidian household items as a starting point: paper towel.\nWith its machine-embossed, moisture-wicking patterns, the absorbent paper comprises an instantly recognizable substrate. The precise, textured flourishes are aesthetically pleasing, and yet it’s hard to completely separate them from our associations with mass-produced paper products that are designed for one-time use and disposability. This dichotomy sits at he heart of Minginowicz’s practice, in which she explores “how changing the hierarchy of materials can reshape the way we perceive value, dignity, and the human experience,” she tells Colossal.\n￼\nMinginowicz’s embossed pieces from everyday domestic material are one facet of a broader multimedia approach to materiality in which she creates paintings on canvas and also painstakingly embosses delicate tissues. The paper towel works, in addition to some that are made on supermarket-style plastic bags, are then presented between thick slabs of acrylic, transforming them into objects with substantial heft and dimensionality.\n“Every civilization constructs its own hierarchy of values,” the artist says. “It decides what deserves to be preserved, admired, and passed on to future generations. Monuments, works of art, symbols, and myths preserve an image of humanity as we wish to remember it—strong, beautiful, enduring, and heroic. Yet every monument has its reverse.”\nMinginowicz’ imagery draws on the style of Renaissance paintings, especially focusing on expressiveness, intimacy, and the idealized female figure. One might think of Sandro Botticelli’s “The Birth of Venus” or aristocratic portraiture of the era. “For centuries, painting monumentalized what civilizations wished to remember: saints, heroes, gods, victories, myths, and ideals. I use that same language to ask a different question: Who deserves to be remembered with dignity? Not only heroes. Not only the victorious. But every human being.”\nMinginowicz is currently working toward a solo exhibition at Galerie Prima in Paris, which is slated to open on October 8. Follow updates and see more on Instagram.\n￼\n￼\n￼\n￼\n￼\n￼\n￼\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Helena Minginowicz Transforms Humble Paper Towel into Ethereal Paintings appeared first on Colossal.",
-          "group" : "Material value paintings",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/"
-            }
-          ],
-          "titleTR" : "Helena Minginowicz Transforms Humble Paper Towel into Ethereal Paintings"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
-          "category" : "Culture",
-          "descriptionTR" : "￼The Bozeman-based artist is known for his eccentric wooden works that draw on folklore, personal memory, and daily observations.\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Uncanny Landscapes in Pen and Ink Span Wooden Panels by John Buck appeared first on Colossal.\n￼\nFrom the Three Patriarchs of Zion Canyon to the swamps of Louisiana to the immense cascade of Niagara Falls, John Buck’s landscapes evoke the juxtapositions and proportions of dreams. His solo exhibition, Mont Blanc on Wood at Zolla \/ Lieberman Gallery, draws us to the fuzzy boundary between the familiar and the uncanny.\nThe Bozeman-based artist is known for his eccentric, often life-size wooden sculptures that draw on folklore, personal memory, and daily observations. Figures are sometimes hybridized with other objects, and idiosyncratic drawings on wood panel reveal expansive landscapes populated by anthropomorphized plants and dramatic rock pinnacles.\n￼\n“Lighthouse” (2024), pen and ink on wood, 27 x 36 ½ inches\nThe works in Mont Blanc on Wood span a range of places and references, emphasizing landscapes where things feel perhaps a little “off.” The desert stares back in “Cactus Grove (No. 13),” and in “Lighthouse (No. 18),” a light station in the middle of a desert lake shines mostly onto arid, rocky landforms.\n“Buck reflects on social and political realities, environmental concerns, and the eccentricities of human behavior, all while maintaining a sense of humor and a deep engagement with craft,” the gallery says. “His art balances storytelling with formal clarity, inviting viewers into a world where the familiar becomes speculative and symbolic.”\nMont Blanc on Wood continues through August 8 in Chicago.\n￼\n“Cactus Grove” (2024), pen and ink on wood, 36 ½ x 27 inches\n￼\n“Three Patriarchs, Utah” (2024), pen and ink on wood, 26 ½ x 31 ½ inches\n￼\n“The Never Sweat Mine” (2024), pen and ink on wood, 21 ¼ x 26 ½ inches\n￼\n“Atchafalaya” (2024), pen and ink on wood, 26 ½ x 32 inches\n￼\n“7 Waterfalls (No14),” (2024), pen and ink on wood, 37 x 27 inches\n￼\n“Aspens” (2024), pen and ink on wood, 26 ½ x 37 ½ inches\n￼\n“Sea Mount” (2024), pen and ink on wood, 52 x 37 ½ inches\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Uncanny Landscapes in Pen and Ink Span Wooden Panels by John Buck appeared first on Colossal.",
-          "group" : "Folkloric landscape art",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/"
-            }
-          ],
-          "titleTR" : "Uncanny Landscapes in Pen and Ink Span Wooden Panels by John Buck"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
-          "category" : "Culture",
-          "descriptionTR" : "￼Color ripples across each canvas, presenting the stylized florals in various states of blossom and decay.\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Andrew Salgado’s Gestural Still Lifes Pulse with Energy appeared first on Colossal.\n￼\nA largely figurative painter with a penchant for literary citation, Andrew Salgado turns his attention to the still life in a new body of work. Wanting to depart from his narrative-driven process in favor of subject matter allowing for greater intuition and spontaneity, the artist began to render vibrant bouquets in his signature gestural marks. Color ripples across each canvas, presenting the stylized florals in various states of blossom and decay.\nSalgado is an avid, eclectic reader, and while his still lifes operate at a remove from his typically reference-rich compositions, they still contain snippets of texts and art history. Awash in blues of all shades, “The Prince,” for example, emerges from a Thomas Bernhard novel that follows an aristocratic protagonist’s descent into paranoia and obsession. In Salgado’s painting, the singular, focused color palette and flowers splayed in every direction mirror the frenetic energy of a message left on the table.\n￼\n“Dear Theo” (2026)\nThere’s also “Dear Theo,” which centers on a bright cluster of sunflowers synonymous with Vincent van Gogh. Like the title, a scribbled note at the bottom right is addressed to Theo, the Dutch painter’s brother and longtime financial supporter. “To be sufficiently heated up to melt those golds and those flower tones, not just anybody can do that,” Vincent famously wrote Theo. “It takes an individual’s whole and entire energy and attention.”\nBeing attuned to one’s energy and attention is also critical in this body of work. Rather than follow a rigid, predetermined path, the artist opted for more freedom and the ability to latch onto a thought or association and allow it, and the paint, to lead.\nGlory! is on view from July 16 to August 15 at BEERS London. Keep up with Salgado on Instagram.\n￼\n“Narcissus Wept” (2026)\n￼\n“The Prince” (2026)\n￼\n“For Myra” (2026)\n￼\n“Funeral” (2026)\n￼\n“Better in the Shade” (2026)\nDo stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Andrew Salgado’s Gestural Still Lifes Pulse with Energy appeared first on Colossal.",
-          "group" : "Gestural still life painting",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/"
-            }
-          ],
-          "titleTR" : "Andrew Salgado’s Gestural Still Lifes Pulse with Energy"
+          "titleTR" : "EU, UK lead push for electrification as “powerful weapon” against fossil fuels"
         }
       ],
-      "packetSpot" : "Several exhibitions are highlighting diverse artistic expressions and historical narratives.",
-      "packetTitle" : "Diverse Art Exhibitions",
-      "publishedAt" : "2026-07-17T11:53:59Z",
+      "packetSpot" : "COP31 is focusing on a global electrification agenda, with the EU and UK leading efforts to achieve 35% of global energy from electricity by 2035. This initiative is seen as crucial for reducing reliance on fossil fuels and meeting climate targets.",
+      "packetTitle" : "COP31 Pushes for Global Electrification with EU and UK Leadership",
+      "publishedAt" : "2026-07-17T16:11:24Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
-      "illustrationName" : "C68D20E9-A402-55BE-9A4D-CCD25C068CEC.png",
+      "illustrationName" : "F11ECD12-5329-55AE-BF26-8381BF2F1ED3.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
-          "category" : "Science",
-          "descriptionTR" : "One of the most complete fossilised skeletons of its kind beat the previous record, held by Ken Griffin’s Apex, by more than $5m",
-          "group" : "Fossil auction record",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T11:53:59Z",
+          "atomID" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
+          "category" : "Technology",
+          "descriptionTR" : "Indigenous leaders warn the U.N. that the rapid growth of artificial intelligence data centers threatens their rights.\nThis story is published through the Indigenous News Alliance.\nAI is the transformative technology of our time, with the potential to reshape our world on a global scale. And yet, underpinning its potential is the need for so-called hyperscale data centers that require vast amounts of land, energy, and water. As tech companies and governments continue to develop this infrastructure at a huge scale, Indigenous peoples around the world are responding to this threat in different ways. They are raising concerns about mounting pressure on water resources and inadequate consultation, but in some cases embracing projects for their economic benefits. \nThe rapid expansion of this massive digital infrastructure has Indigenous leaders, governments, and experts calling on those developing them to comply with the principle of free, prior, and informed consent while exploring whether this infrastructure can be established in ways that advance Indigenous rights and priorities.\nDuring a panel discussion on the second day of the United Nations Expert Mechanism on the Rights of Indigenous Peoples, or EMRIP, Indigenous delegates said that while there must be policies to ensure that AI does not harvest Indigenous knowledge without consent, protections for Indigenous lands and waters are equally important. \n“AI is resource-intensive and requires vast amounts of energy. In Sápmi, we already see how large data centers put [immense] pressure on our territories,” said Maren Storslett, who is a member of the Sámi Parliament in Norway. “This forces a conversation about priorities and limits and we need to be at the table on these discussions.”\nAccording to the International Energy Agency, conventional data centers, which store thousands of computer machines and other equipment to power everyday digital life like cloud storage, may draw around 10 to 25 megawatts of power per year. But a hyperscale, AI-focused data center, of the likes being built by or for transnational companies such as Google and Amazon, can require 100 megawatts or more annually, consuming as much electricity as 100,000 households would use over the same time. \nAll of that energy is needed to power the immense racks of servers that provide the computing power behind things like ChatGPT, Claude, and other platforms. They also require copious amounts of water to keep them cool.\nThis demand for energy and water, driven in part by the increasing rack power density for AI workloads, is a frequent concern raised by sources at the international Indigenous conference. Research by the Lawrence Berkeley National Laboratory estimates that all data centers in the U.S. alone directly consumed approximately 17.4 billion gallons (66 billion liters) of water in 2023. It also estimated that the energy generation consumed 211 billion gallons (800 billion liters) of water. \nRead Next\n￼\nA solution to data center backlash? Put them in oil fields.\nJake Bittle\nOther research puts it into perspective: By 2030, the energy required for data centers is expected to double to 945 terawatt-hours — enough to meet the needs of all 1.3 billion residents of Sub-Saharan Africa for 5.5 years. Those facilities would also require enough to meet the domestic water needs of all the same people for a year.\n“These technologies … come with environmental cost,” said Aluki Kotierk, who is Inuk from Canada and current chairperson of the U.N. Permanent Forum on Indigenous Issues. “The data centers that power them consume vast amounts of energy, water, and minerals, resources that are often extracted from or developed on Indigenous peoples lands without their meaningful participation or consent, with potential serious consequences for their rights, livelihoods, and environments.”\nExtraction for AI data center resources can result in the degradation of sacred sites and threats to fragile ecosystems, according to Camila Vergada, who is a board member of the Forum for Real Economic Emancipation.\nWhile there are potential benefits for Indigenous people, the electricity and water needs of hyperscale, AI-focused data centers can be detrimental to Indigenous lands that lack the capacity to meet their resource requirements, according to Matthew Rantanen, who is a Cree descendant and advocate for digital equity in Indian Country.\nRantanen, who is a co-chair of two technology-related subcommittees of the National Congress of American Indians, believes an industry shift toward renewable energy and alternative cooling methods is needed to ensure that AI infrastructure aligns with Indigenous priorities and rights. \nThe permitting needed to build these data centers should require in-depth studies of resource availability and the impacts on communities and ecosystems, as well as the involvement of those impacted throughout the lifecycle of a project — a point that was reinforced by participants at the EMRIP. \nOthers, like Rochelle Diver, who is a citizen of the Fond du Lac Band of Lake Superior Ojibwe and the U.N. environmental treaties coordinator for the International Indian Treaty Council, are calling for broader support for Indigenous-led moratoriums on data centers. “We are in an urgent situation regarding the infrastructure being built on a massive scale to power AI technology,” she said. \nData centers are often built in water-stressed regions, like Querétaro, Mexico, and Santiago, Chile. In a protest against the construction of a Google facility in Santiago, Indigenous peoples, local communities and workers’ unions rallied around the slogan “no es sequia, es saqueo” (“this is not a drought, this is a robbery”). Last year, the Anacé Indigenous people in Brazil filed an official complaint before federal authorities, requesting the cancellation of a $10 billion data center for the popular social media platform TikTok on their land. Leaders said their right to consultation was violated, and their concerns dismissed.\nRoberto Anacé, leader of the community in Brazil, said in a WhatsApp message that the project “hinders our community, first disrespectfully separating relatives, causing fights, personal interests, bringing out ambition and hatred in human beings, and above all destroying our sacred things: Mother Earth, water, climate, air.”\nRead Next\n￼\nData centers are straining the grid. Can they be forced to pay for it?\nNaveena Sadasivam\nA recent analysis by the London School of Economics suggests that the next wave of climate litigation may relate to the impacts of large data centers that AI relies on. In 2024, due to the efforts of Chilean protesters in Santiago, an environmental tribunal suspended construction of the Google data center, ruling that the environmental impact had not been properly considered. So far, there has been no progress on the Anacé peoples’ lawsuit against TikTok. \nIn the U.S., a more than $1 billion Meta data center project in Tulsa, Oklahoma, has received mixed responses among Indigenous and non-Indigenous community members. While some support it, others firmly oppose it and have actively campaigned against it. Cheyenna Morgan, who is an enrolled member of the Keetoowah Band of Cherokee Native Americans and the coalition coordinator of Stop Data Colonialism, said in an email that the data center will place a heavy burden on local power and resources. \nMeta, Google, and TikTok did not reply to requests for comment. \nThrough Stop Data Colonialism, Morgan works to stop the rollout of hyperscale data centers on vulnerable lands, and said her community is already experiencing an increase in electricity bills and is expecting further rate hikes. “These impacts will be felt on regular people who didn’t ask to have these in their neighborhoods,” she said. \n In March, the city council passed a moratorium to allow more time to assess the project’s impact. Similar moratoriums have been passed by tribes in the U.S., including the Seminole Nation of Oklahoma, the Eastern Band of Cherokee Indians (EBCI), and the Sault Ste. Marie Tribe of Chippewa Indians.  \nAt the U.N., some delegates spoke of direct experience with harmful data centers, while others spoke of the potential risks. \nJulia Aka Wille, who is Inuk from Greenland and invited by the Inuit Circumpolar Council to speak at EMRIP, said that even though her homeland does not have any data centers yet, the community is still concerned about their impact on the climate. “They still affect us in that way, because they use so much energy and water, and it will contribute to the general climate change,” Aka Wille said. “The Arctic is the region that is most affected by climate change because the ice is melting, and this affects us that we can’t really have the same way of living anymore.” \nRead Next\n￼\nAI is a double-edged sword for Indigenous land protection, UN experts warn\nAimee Gabay\nAlthough Aka Wille sees opportunity in AI to help teach and preserve Indigenous languages like hers, she hopes that Indigenous peoples from around the world can work together to ensure AI is used in a responsible way.\nIn Alberta, some Indigenous nations are embracing the data center boom, emerging as key stakeholders and investors. The Woodland Cree First Nation recently announced plans for a 650 megawatt data center that will utilize an idle power plant for energy generation. Woodland Cree has a 51 percent stake in the project.\nTe Kāhui Raraunga, an Indigenous-led initiative in Aotearoa New Zealand, demonstrates how some tribal nations are considering AI-initiatives that respect Indigenous rights and priorities. The organization, linked to the Data Iwi Leaders Group, has created a Māori Data Governance Model and Māori AI Governance Framework focused on data policy and infrastructure. \nAs part of this initiative, leaders from 85 tribal nations gather each quarter to ensure the communities’ key priorities are upheld. \n“These hyperscale data centres come with promises of economic development and digital sovereignty; however, the reality can be much different, and it is vital that iwi Māori have the information they need to make informed decisions,” Erena Mikaere, the digital program lead for Te Kāhui Raraunga, said in an email. \nShe added that the organization has developed resources for tribal leaders that highlight the impacts of hyperscale data centers, as well as key considerations before signing any agreement allowing one.\nAt EMRIP, Indigenous delegates stressed the need for meaningful participation throughout the development, implementation, and governance of AI initiatives that affect them. \n“We must not only ask what AI can do, but what it should do,” said Maren Storslett. “Respect for the rights of Indigenous peoples must apply across the entire life of AI systems.”\nGrist reporter Joseph Lee contributed reporting to this story.\nThis story was originally published by Grist with the headline Data centers are booming. Indigenous leaders want help protecting their lands. on Jul 16, 2026.",
+          "group" : "AI data center land rights",
+          "id" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
+          "link" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T16:11:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys"
-            }
-          ],
-          "titleTR" : "Gus the T-Rex sells for a record $50.1m at Sotheby’s"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
-          "category" : "Science",
-          "descriptionTR" : "The pieces come from a beloved 2015 collaboration between Abloh and his alma mater, the University of Wisconsin-Madison",
-          "group" : "Virgil Abloh estate sale",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/"
+            },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships"
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/2026\/07\/indigenous-advocates-push-for-rights-protections-around-ai-data-centers\/"
             }
           ],
-          "titleTR" : "Sotheby’s partners with the Virgil Abloh Estate to sell a set of rare prints to fund university scholarships"
+          "titleTR" : "Data centers are booming. Indigenous leaders want help protecting their lands."
         }
       ],
-      "packetSpot" : "Sotheby's hosted significant auctions featuring unique items.",
-      "packetTitle" : "Notable Sotheby's Auctions",
-      "publishedAt" : "2026-07-17T11:53:59Z",
+      "packetSpot" : "Indigenous leaders are advocating for the protection of their lands and rights as AI data centers expand globally, emphasizing the need for compliance with free, prior, and informed consent (FPIC).",
+      "packetTitle" : "Indigenous Leaders Demand FPIC Compliance for AI Data Centers",
+      "publishedAt" : "2026-07-17T16:11:24Z",
       "sessionID" : "publish-draft",
       "slot" : 2
+    },
+    {
+      "illustrationName" : "1D752407-1873-5429-B886-218F5F732B3C.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
+          "category" : "Environment",
+          "descriptionTR" : "The UK has abandoned projects worth tens of millions of pounds that were meant to...\nThe post UK withdraws millions in funding from world’s second-largest rainforest in Congo  appeared first on Carbon Brief.\nThe UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people.\nTogether, these initiatives would have made up around half of the £200m that the UK pledged to support conservation in the Congo basin – the world’s second-largest rainforest.\nWhen it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge by 12 donors of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025.\nDevelopment minister Jenny Chapman revealed last week that, as of 2024, the UK had only provided £39.8m towards this goal.\nAlongside the US and much of Europe, the UK has significantly cut its aid budget in recent years, leading to much of its Congo rainforest spending being cancelled or reappraised.\nThe government says it still plans to “prioritise” rainforest regions, including the Congo basin, but civil society groups and MPs are concerned about the lack of “ring-fenced” forest funding in the UK’s new aid strategy.\nCOP pledge\nAt COP26, the UK – led by then prime minister Boris Johnson – launched the “Glasgow leaders’ declaration”, with a goal to “halt and reverse forest loss” by 2030. This was backed by more than 140 nations.\nThe UK also made various funding pledges, including £200m to protect the Congo basin, £350m for tropical forests in Indonesia and “up to £300m” for the Amazon.\nThese commitments target the world’s three largest rainforests, all of which face major forest loss due to threats such as agriculture, logging and climate change. \nThe Congo basin is the planet’s largest forested carbon sink. Yet, its six host nations are among the poorest in the world and face significant funding barriers.\nThis has global ramifications. An official UK assessment warned that “degradation or collapse” of the Amazon or Congo rainforests “threaten UK national security and prosperity”.\nForest cuts\nFollowing successive aid cuts introduced by both the Conservative and then Labour governments – tracking a global trend – the UK’s Congo funding is under threat.\nThe Congo basin forest action programme (CBFA) was launched by the UK at COP27. It was explicitly set up to provide “roughly half” of the UK’s £200m Congo pledge.\nCBFA set out to “empower central African nations”, such as the Democratic Republic of the Congo (DRC), with support for “community forests” and other measures to curb forest loss.\nNow, after reporting delays, the UK has slashed the CBFA as part of the Labour government’s recent aid cuts, intended to free up money for defence spending. \nIts original £90m budget has now been reduced to £18.8m. Government data shows that £15m of this has already been spent.\nThis is not the only Congo project that has been dropped due to this latest round of aid cuts.\nThe Congo part of the biodiverse landscapes fund – championed by the previous government and worth at least £12.3m – has been closed, just two years into its seven-year schedule.\nGovernment documents reveal more Congo forest funding is at risk as the UK scales back its aid budget, including the UK’s two largest remaining projects in the region. \nOne initiative, intended to “incubate forest-friendly enterprises” in DRC, faces “reduc[ed] budgets”. Officials working on the other, while more optimistic, reported that the project may be forced to operate in fewer countries as the cuts set in.\nDocuments also reveal the difficulties that come when operating in the Congo, including “complex political economies” and, in Gabon, a military coup – which “complicated matters”.\n‘Breaking promises’\nDamian Fleming, a senior director of forests at WWF International tells Carbon Brief:\n“Tropical forest countries are making long-term policy and development choices in expectation that international partners will honour their commitments.”\nIn a series of recent parliamentary responses, Chapman revealed that the UK had only spent £39.8m on Congo forest finance, as of 2024. (She declined to provide any information on the Indonesia and Amazon regional goals.) \nDespite being presented as the UK’s “contribution” to the £1.1bn-by-2025 global goal agreed at COP26, the £200m target has a deadline of 2029. \nTherefore, while the collective goal has been met, the UK’s contribution so far has been relatively small.\nZac Goldsmith, a former Conservative minister who oversaw the forest targets at COP26, tells Carbon Brief that, in his view, the UK has “discarded” its regional pledges:\n“We have gone from being perhaps the leader on protecting nature internationally to breaking promises to countries around the world for whom the environment is an existential issue.”\nFuture targets\nThe Labour government says it has met the five-year “climate finance” target of £11.6bn that expires this year.  Ministers also say the government has met “and exceeded” the £3bn and £1.5bn sub-goals for “preserving nature” and forests, respectively, within the £11.6bn. These are the funding streams that include support for the Congo basin and other rainforests.\nThe UK has funded a variety of projects in line with its forest goals, including mangrove restoration in Indonesia, support for carbon-offsetting projects in Brazil and promoting “forest stewardship” among farmers in Cameroon.\nChapman has stated that the UK will continue to “prioritise” the Congo rainforest, in line with its new plan for aid spending in Africa. The UK even helped to launch a new “call to action” for Congo basin funding at COP30 last year.\nThe UK government also says it supported the creation of Brazil’s flagship “Tropical Forest Forever Facility” (TFFF). However, so far it has not provided any funding for the facility.\nWhen the government announced a new climate finance pledge for 2026 onwards, it stressed that nature would still be a “focus” and said it would also generate billions in “climate and nature positive investments”. Nevertheless, it dropped the “ring-fenced” amounts for nature and forests that had appeared in its previous pledge.\nThe UK, alongside other developed countries, has pledged to provide biodiversity finance to developing countries, under the Kunming-Montreal Global Biodiversity Framework (GBF) – a non-binding global pact to halt and reverse nature loss by 2030. \nSarah Champion, chair of the international development committee of MPs, says “sub-pledges” for nature and forests are a “cost-effective and impactful” way to ensure this finance is provided, alongside climate finance. She tells Carbon Brief that she was “concerned” about the move away from this approach:\n“When the minister recently appeared before the international development committee, I was concerned to hear her characterise this shift as a ‘gamble’.”\nA government spokesperson tells Carbon Brief:\n“We remain committed to providing finance for forests, including in the Congo basin, as a core element of our overall climate funding.”\nA shorter version of this article was first published in Cropped, Carbon Brief’s fortnightly newsletter that provides a digest of food, land and nature news, on 15 July 2026. Subscribe for free.\n￼\nLivestock heat deaths in transit doubled in UK record-hot summer of 2025\nFood and farming\n|\n25.06.26\n￼\nQ&A: What England’s new ‘land-use framework’ means for climate, nature and food\nNature policy\n|\n20.03.26\n￼\nAnalysis: Half of nations meet UN deadline for nature-loss reporting\nNature policy\n|\n02.03.26\n￼\nBrazil’s biodiversity pledge: Six key takeaways for nature and climate change\nNature policy\n|\n16.01.26",
+          "group" : "Congo rainforest funding cuts",
+          "id" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
+          "link" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/"
+            }
+          ],
+          "titleTR" : "UK withdraws millions in funding from world’s second-largest rainforest in Congo"
+        },
+        {
+          "atomID" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
+          "category" : "Environment",
+          "descriptionTR" : "We handpick and explain the most important stories at the intersection of climate, land, food...\nThe post Cropped 15 July 2026: Uganda starves | Trump opens endangered habitats | UK cuts rainforest aid appeared first on Carbon Brief.\nWe handpick and explain the most important stories at the intersection of climate, land, food and nature over the past fortnight.\nThis is an online version of Carbon Brief’s fortnightly Cropped email newsletter.  Subscribe for free here.\nKey developments\nGlobal drought and heat \nDRY THEN WET: A recent heatwave and months of low rainfall has led to a prolonged drought for Uganda, resulting in at least 16 deaths from hunger and significant crop losses, reported BBC News. Bastille Post Global suggested that “a developing El Niño later this year could bring heavier rainfall to parts of the region, raising the risk of flooding in areas now struggling with drought”. \nFUNDING FOOD: The UN Food and Agriculture Organization (FAO) and the World Food Programme (WFP) have appealed for $200m in funding to help African nations deal with the impact of El Niño, stated Deutsche Welle. This would target 22 high-risk countries with measures, including “cash transfers, climate-resilient seeds, livestock protection and flood control.” The Guardian explained how El Niño could still “cause a severe shock to global food prices lasting into 2028”. \nFARMING FEARS: Extreme weather has devastated agriculture across the world. India saw its driest June in 12 years, reported BBC News, and France has had a “double-digit production” decline, according to Le Monde. The Financial Times reported that farmers in the UK are mitigating the impacts of extreme heat by eliminating “chemicals and intensive ploughing to improve soil quality so it retains water”.\nEURO FIRES: Wildfires have spread across Europe, with Spain reporting at least 12 deaths so far, according to the Guardian, and France experiencing road closures, said Reuters. Wildfire Today reported that the most extreme conditions are “across France, Spain and northern Portugal, the Alpine arc extending into northern Italy, the south of the UK and south-east Ireland”. CNN explained how “the climate crisis is driving hotter, drier weather, which is setting the stage for fiercer fire seasons”.\nEndangering species \nREDEFINING HARM: The Trump administration “reversed decades of longstanding environmental law protecting endangered species…opening up sensitive habitats…to drilling, mining, farming and real estate development”, reported CNN.  According to the story, the change “redefines what constitutes ‘harm’” to endangered species, which historically prohibited habitat modification or degradation. Agence France-Presse reported that US environmental groups sued the Trump government over the move, arguing that it had violated “common sense, biological science and federal law”. \nOPEN SEASON: Reuters reported that the change “limits the reach of the 50-year-old Endangered Species Act” (ESA), which is a “key regulatory consideration” when granting permits for “oil and gas, mining, electric transmission and other operations on federal lands and water”. Legal scholars told the New York Times the US government “was acting without conducting scientific research into the impact” of the change, while the National Mining Association “applauded the announcement”. \nNews and views\n\t•\tINTERNATIONAL WATERS: After a significant delay, the UK ratified the Biodiversity Beyond National Jurisdiction Agreement (BBNJ), also known as the High Seas Treaty. Oceanographic detailed how this will allow for “marine protected areas across international waters for the first time”, but also stressed that the “hard part” starts now. \n\t•\tSCOPE-FREE: The world’s largest meat supplier JBS “scrapped a key climate goal” in its net-zero plan that accounts for its suppliers’ emissions, “which make up the vast bulk of the company’s environmental footprint”, reported the Financial Times. The company told the paper it was difficult to control these “indirect” emissions.\n\t•\tDEEP TROUBLE: Pacific gray whales are facing a “catastrophic die-off” as sea-ice loss threatens their food sources, said the Guardian. Separately, conservationists warned that more than half of all molluscs that “cluster around underwater vents” could face extinction from deep-sea mining, reported Reuters.\n\t•\tETHANOL PUSHBACK: India’s new rules to promote 100% ethanol fuel and make ethanol-blended fuel mandatory at pumps “triggered a political row”, reported the Times of India. While the Indian government defended the push to automobile owners, a Hindu editorial and an Indian Express comment warned against incentivising fuels made from “water-intensive” sugarcane and rice. \n\t•\tAMAZON ACTION: Deforestation in the Brazilian Amazon fell to its lowest level in a decade, but president Lula’s plans to “end illegal deforestation by 2030” could be hampered if he is not re-elected, reported Al Jazeera. Meanwhile, Colombia’s outgoing environment minister warned of greater environmental and climate risk under the incoming government, said the Associated Press. \n\t•\tWAR WORRIES: The International Energy Agency (IEA) warned of the impact of the Iran war on Africa’s clean cooking efforts as disruption in the strait of Hormuz has stunted supplies and increased prices of liquefied petroleum gas (LPG), explained Climate Home News. \nSpotlight\nUK ‘discards’ Congo rainforest funding\nAmid worldwide cuts to aid spending, Carbon Brief explores how the UK is backtracking on funding for the Congo basin – the world’s second-largest rainforest.\nThe UK has abandoned projects worth tens of millions of pounds that were meant to help protect Congo rainforests and support local people. \nTogether, these initiatives would have made up half of the £200m that the UK pledged to support forest conservation in the Congo basin.\nWhen it hosted COP26 in Glasgow, the UK led a new initiative to end forest loss, which included a collective pledge of “at least” $1.5bn (£1.1bn) for Congo rainforest nations by 2025.\nDevelopment minister Jenny Chapman revealed last week that, as of 2024, the UK had only provided £39.8m towards this goal.\nCOP pledge\nAt COP26, the UK – led by then prime minister Boris Johnson – launched the “Glasgow leaders’ declaration”, with a goal to “halt and reverse forest loss” by 2030.\nThe UK also made various regional funding pledges, including £200m for the Congo basin, £350m for tropical forests in Indonesia and “up to £300m” for the Amazon.\nAll of these rainforests face major forest loss. The Congo basin is the planet’s largest forested carbon sink, but its six host nations are among the poorest in the world and face significant funding barriers.\nThis has global ramifications. An official UK assessment warned that “degradation or collapse” of the Amazon or Congo rainforests “threaten UK national security and prosperity”.\n￼\nAfrican elephant pictured in Congo. Credit: BIOSPHOTO \/ Alamy Stock Photo\nForest cuts\nFollowing successive aid cuts introduced by both Conservative and Labour governments – tracking a global trend – the UK’s Congo funding is under threat.\nThe Congo basin forest action programme (CBFA) was explicitly set up to provide “roughly half” of the UK’s £200m Congo pledge.\nNow, after reporting delays, the UK has slashed the CBFA as part of the Labour government’s aid cuts. Its £90m budget has been “quietly reduced by 79% to £18.8m”, according to the Times.\nThis is not the only Congo project that has been dropped due to aid cuts. The Congo part of the biodiverse landscapes fund – worth at least £12.3m – has closed five years early.\nOfficial documents reveal more Congo forest funding is at risk, including the UK’s two largest remaining projects in the region. One initiative, intended to “incubate forest-friendly enterprises” in DRC, faces “reduc[ed] budgets”.\nDocuments also show the difficulties operating in the Congo, including “complex political economies” and, in Gabon, a military coup – which “complicated matters”.\n‘Breaking promises’\nDamian Fleming, a senior forests director at WWF International told Carbon Brief:\n“Tropical forest countries are making long-term policy and development choices in expectation that international partners will honour their commitments.”\nIn a parliamentary response, Chapman said that the UK had spent £39.8m towards its £200m Congo target, as of 2024. \nDespite being described as the UK’s contribution to the £1.1bn-by-2025 global goal agreed at COP26, the £200m target has a deadline of 2029. Therefore, while the collective goal has been met, the UK’s contribution was relatively small.\nZac Goldsmith, a former Conservative minister who oversaw the forest targets at COP26, told Carbon Brief that, in his view, the UK has “discarded” its regional pledges:\n“We have gone from being perhaps the leader on protecting nature internationally to breaking promises to countries around the world.”\nThe Labour government says it has met its overarching “climate finance” goals and still intends to “prioritise” the Congo rainforest. \nHowever, civil society groups and MPs are concerned about the lack of “ring-fenced” forest funding in the UK’s new aid strategy.\nWatch, read, listen\nTOXIC TROUBLES: DeSmog unpacked a new report that said Northern Ireland is being turned into a “toxic” pig and poultry farming “sacrifice zone” to satiate the UK’s meat appetite.\nNEED TO NOAA: Laid-off scientists from the US’s National Oceanic and Atmospheric Administration (NOAA) launched Climate.Us – an independent, public-backed version of the climate information website shut down by Trump last year.\nDRY FRUIT: A Dialogue Earth long read looked at how climate change is impacting apricot harvests in the “stark, high-altitude desert” region of Ladakh, India. \nREADING ALOUD: A London Review of Books podcast discussed Robin Wall Kimmerer’s influential book “Braiding Sweetgrass”, weighing its compelling themes and where it veers into “scientific overreach”. \nNew science\n\t•\tClimate change could cause Indigenous peoples in the Amazon to lose 28-34% of their plant species and 18-23% of their associated services | Nature\n\t•\tBiodiversity in forests can act as a “buffer” against compound extreme weather events | Nature Communications\n\t•\tZero-deforestation commitments in Indonesia’s palm oil sector have had “no additional impacts” on reducing forest loss | Proceedings of the National Academy of Sciences\nIn the diary\n\t•\t7-15 July: High-level political forum on sustainable development | New York City \n\t•\t13-31 July: Meeting of the International Seabed Authority assembly and council | Kingston, Jamaica\n\t•\t16 July: International Energy Agency critical minerals outlook 2026, online\n\t•\t27 July-1 August: Scientific and technical subsidiary body meeting of the UN Convention on Biological Diversity | Nairobi, Kenya\nThis edition of Cropped was written by Jess Milligan, Josh Gabbatiss and Aruna Chandrasekhar. Cropped is edited by Dr Giuliana Viglione. This edition was edited by Daisy Dunne. Please send tips and feedback to cropped@carbonbrief.org.\n￼\nCropped 1 July 2026: Heatwave scorches Europe | UK 2050 farm plan | What’s next for the High Seas Treaty\nCropped\n|\n01.07.26\n￼\nCropped 17 June 2026: Coral reef ‘hope’ | Ocean talks | Plant flowering times ‘shift’\nCropped\n|\n17.06.26\n￼\nCropped 3 June 2026: Highway through the Amazon | El Niño impact | State of CO2 removal\nCropped\n|\n03.06.26\n￼\nCropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild\nCropped\n|\n20.05.26",
+          "group" : "Congo rainforest funding cuts",
+          "id" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
+          "link" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/"
+            }
+          ],
+          "titleTR" : "Cropped 15 July 2026: Uganda starves | Trump opens endangered habitats | UK cuts rainforest aid"
+        }
+      ],
+      "packetSpot" : "The UK has reduced its financial support for the Congo rainforest, impacting conservation efforts.",
+      "packetTitle" : "Congo Rainforest Funding Cuts",
+      "publishedAt" : "2026-07-17T16:11:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "illustrationName" : "7CE98403-BF13-5D5B-A597-8CF9A02AD489.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/2026\/07\/ancient-rock-structures-help-restore-biodiversity-on-the-us-mexico-border\/",
+          "category" : "Environment",
+          "descriptionTR" : "CANANEA, Sonora — The day was windless. Long brown grasses speckled the landscape, and a stray tree erupted from the earth. The river channel was rusty, bone-dry. A pond that swells with summer rain glimmered on the horizon, but local rancher Eduardo Ríos Colores pointed toward the mountains, his finger tracing the route of a […] CANANEA, Sonora — The day was windless. Long brown grasses speckled the landscape, and a stray tree erupted from the earth. The river channel was rusty, bone-dry. A pond that swells with summer rain glimmered on the horizon, but local rancher Eduardo Ríos Colores pointed toward the mountains, his finger tracing the route of a bone-dry streambed cutting through the landscape. “There was a time when this stream didn’t exist,” he said. “There used to be a lot of trees, and all the trees prevented erosion from the water. But … the trees have been drying up.” It was difficult to imagine the streambed swollen, rain-choked. But water in this region comes in all at once, in a deluge. As it races across the landscape, it forms deep channels like this one, creating sandy areas where new plants can’t grow. The land soon fails to support life, from the native grasses to migratory birds to the cattle that are the lifeline of ranchers like Ríos Colores. “Many people say that when water flows, it shouldn’t flow straight,” he continued. “Those serve to divert the water … so the current flows like a snake.” He was referring to his trincheras — hundreds of small rock structures peppering the streambed. The small, permeable barriers go on for more than a mile, spanning the channel, each small weir composed of dozens of fist-sized rocks. The trincheras, the Spanish word for “entrenchments,” were built in 2021 to slow down water, raising the water table…This article was originally published on Mongabay",
+          "group" : "Borderland restoration structures",
+          "id" : "https:\/\/news.mongabay.com\/2026\/07\/ancient-rock-structures-help-restore-biodiversity-on-the-us-mexico-border\/",
+          "link" : "https:\/\/news.mongabay.com\/2026\/07\/ancient-rock-structures-help-restore-biodiversity-on-the-us-mexico-border\/",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/2026\/07\/ancient-rock-structures-help-restore-biodiversity-on-the-us-mexico-border\/"
+            }
+          ],
+          "titleTR" : "Ancient rock structures help restore biodiversity on the US-Mexico border"
+        },
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
+          "category" : "Environment",
+          "descriptionTR" : "Thinking of America’s iconic wild creatures and places usually brings images of Yellowstone or Denali National Park to mind, or the many wilderness areas scattered across multiple states, but the collective imagination generally passes over the East Coast, with its long history of human settlement and large urban population centers. However, a new book by […] Thinking of America’s iconic wild creatures and places usually brings images of Yellowstone or Denali National Park to mind, or the many wilderness areas scattered across multiple states, but the collective imagination generally passes over the East Coast, with its long history of human settlement and large urban population centers. However, a new book by Andrew Moore, “Beasts of the East: The Fall and Rise of America’s Eastern Wilderness” contains a collection of inspiring narratives which argues that this is a mistake. Through a combination of science, effort, imagination and policy, the East has seen a great resurgence of wildlife and wildlands through reintroductions, ecological restoration, and rewilding that adds up to one of this year’s most eye-opening reads. In an interview with Mongabay, Moore discussed themes in his book chronicling this underreported story, and his responses have been edited lightly. Chris Lucash releases a red wolf in northeastern North Carolina in 2004. Image courtesy of U.S. Fish and Wildlife Service. Mongabay: What did wildlife populations in the U.S. East look like pre-European settlement, and afterward for a while before resource extraction and agriculture became rampant across the landscape, that might surprise readers to know? Andrew Moore: Picture first the landscape: bigger, wetter, wilder in all ways, and frequently on fire. And then fill this natural area with massive animals, including whooping cranes and sandhill cranes, black bears, deer, plus overwhelming flocks of Carolina parakeets and passenger pigeons. Imagine sprawling meadows and tallgrass prairies filled with bison and elk —…This article was originally published on Mongabay",
+          "group" : "Eastern US wildlife restoration",
+          "id" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
+          "link" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/"
+            }
+          ],
+          "titleTR" : "‘Beasts of the East’ chronicles the unheralded restoration successes of America’s eastern wildlife"
+        }
+      ],
+      "packetSpot" : "Initiatives in the US-Mexico border and America's East focus on biodiversity and wildlife restoration.",
+      "packetTitle" : "Restoration Efforts",
+      "publishedAt" : "2026-07-17T16:11:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "illustrationName" : "EBF0C1EB-23DF-5C50-833C-6CB6CD430465.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
+          "category" : "Health",
+          "descriptionTR" : "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution. Minnesota officials issued an air quality alert from Tuesday through Friday for areas including the Twin Cities metro area, Alexandria and Two Harbors, with very […] Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution. Minnesota officials issued an air quality alert from Tuesday through Friday for areas including the Twin Cities metro area, Alexandria and Two Harbors, with very heavy smoke expected across the state’s northeastern corner as large wildfires spread. Air quality levels in Two Harbors, the Tribal Nation of Grand Portage and other regions in northeast Minnesota were expected to reach hazardous levels, making it unsafe for everyone. Dan Westervelt, associate professor at Columbia University’s Climate School, said severe drought conditions combined with heat in Canada and the U.S. have created “a perfect storm for really dry conditions to provide a lot of fuel for these wildfires to burn.” Research shows warming temperatures from burning coal, oil and gas are making fires more frequent and intense. People should stay indoors as much as possible to avoid the extreme heat, especially as smoke moves in, said Tyler Hasenstein, meteorologist with the National Weather Service in Chanhassen, Minnesota. “Those two things coinciding with each other is not good from a health perspective,” he said. Officials in Michigan and Wisconsin warned residents Tuesday about air quality issues that could last for days. High levels of fine particulate matter in the air from wildfire smoke may be unhealthy for sensitive groups, such as children and people with heart or lung conditions. In parts of Maine, residents were reporting a…This article was originally published on Mongabay",
+          "group" : "North America wildfire smoke",
+          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
+          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/"
+            }
+          ],
+          "titleTR" : "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke"
+        },
+        {
+          "atomID" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
+          "category" : "Health",
+          "descriptionTR" : "There’s no way to close off the open-air stadium where stars Lionel Messi and Lamine Yamal are slated to square off.\nThe biggest game in soccer is set for Sunday, when Argentina and Spain will meet in the World Cup final, held just outside of New York City. There’s just one problem — wildfire smoke now threatens the match and FIFA, the sport’s governing body, doesn’t appear to have any plan in place to protect player or fan health. \nWildfire smoke blowing from Canada has blanketed large swaths of the Midwest and East Coast in recent days, impacting more than a dozen states, with some of the worst-hit cities facing air quality in ranges considered hazardous. New Yorkers are among those who have been watching their air turn orange and hazy this week. On Thursday, the state issued an alert as the air quality index climbed to “unhealthy” and “very unhealthy” levels. “Avoid spending time outdoors, if possible,” officials advised.\nAs of Friday morning, air quality near the stadium remained in the unhealthy range, and while forecast to improve to “’moderate”’ by Sunday’s kick off, smoke patterns could still change. If concerns continue during the finals, there’s no way to close off the open-air stadium where stars Lionel Messi and Lamine Yamal are slated to square off. That means fans and players would almost certainly be exposed to smoke, which could lead to symptoms such as a burning throat, coughing, or headache, among others. This can be particularly dangerous for sensitive groups, including children, older individuals, and people with respiratory conditions such as asthma. \nPlayers have also practiced outdoors during air quality events in the lead up to the game — the Spanish team held a practice Thursday in New Jersey. “These are high-level athletes who are moving a lot of air through their lungs,” Dr. Courtney Howard, an emergency room physician and Global Climate and Health Alliance official told the Associated Press. “They shouldn’t be practicing outside if the air quality levels are at hazardous sort of ranges for wildfire-related air pollution.”\nWorld Cup organizer FIFA does not appear to have any contingency plans in place for wildfire smoke. Neither FIFA nor New York City Department of Health officials immediately responded to Grist’s request for comment. In a previous statement to Grist, FIFA detailed extensive protocols related to extreme heat, including mandatory water breaks for players, but didn’t mention air quality. \n“Climate-related risks,” the organization wrote last month, “are assessed as part of overall tournament planning and managed in close coordination with host cities, stadium authorities, and national agencies.” \nUnlike FIFA, a number of other leagues implement standardized adjustments triggered by air quality warnings. Per National Women’s Soccer League policy, for instance, a women’s soccer game at Citi Field in New York on Thursday had additional hydration breaks for safety. NWSL policy adds hydration breaks at an air quality index of 101 (“unhealthy for sensitive groups”) and cancels or postpones games when the AQI tops 200 (“very unhealthy”). Major League Baseball rescheduled one game this week in Philadelphia, and Major League Soccer canceled a game in Chicago due to smoke.\nThe World Cup is in its fifth and final week, and despite the games taking place across multiple wildfire-prone regions, so far FIFA’s bet that the air would stay clear has paid off. They may get lucky again this weekend, says Nicholas Watanabe, a professor of sport and entertainment management at the University of South Carolina, but that doesn’t excuse not being ready.\n“FIFA seems unprepared for these wildfires,” said Watanabe. “At the same time, it looks like the worst of the pollution will dissipate before the World Cup Final, so FIFA will dodge a bullet and likely push forward with the match.”\nSome, however, question whether enough is being done, both by FIFA and other outdoor sports leagues facing these and other climate threats. FIFA has already come under fire this year for its policies regarding extreme heat.”If we have to have a hydration break every 15 minutes, then we shouldn’t be playing the game,” said Trinity Rodman, who played in the smoke-affected NWSL soccer game in New York. \nOne professional cyclist recently questioned whether the Tour de France should be held in the summer, as this year’s iteration of the iconic event has been plagued by wildfires, smoke, and extreme heat. “I would change the whole calendar,” said yellow jersey holder Tadej Pogačar earlier this month. “It’s not something I can do.”\nThe power to make changes generally rests with a sport’s governing body, rather than athletes, and Watanabe thinks climate issues should be taken more seriously. Even if the World Cup final is spared any impacts, he said this close call should serve as a warning.\n“Hopefully,” he said, “this is a wake up call to FIFA and all other sport leagues and competitions of the need for regulations and a comprehensive plan to deal with climate risks.”\n\n\nThis story was originally published by Grist with the headline Wildfire smoke threatens the World Cup final. FIFA still doesn’t have a plan. on Jul 17, 2026.",
+          "group" : "Climate health and sports",
+          "id" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
+          "link" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/"
+            }
+          ],
+          "titleTR" : "Wildfire smoke threatens the World Cup final. FIFA still doesn’t have a plan."
+        }
+      ],
+      "packetSpot" : "Wildfire smoke from Canada is affecting air quality across the Midwest and Northeast US, posing health risks and threatening major events like the World Cup final near New York City.",
+      "packetTitle" : "Wildfire Smoke Poses Health Risks and Disrupts Major Events in North America",
+      "publishedAt" : "2026-07-17T16:11:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
     }
   ],
   "week" : "2026-W29"
