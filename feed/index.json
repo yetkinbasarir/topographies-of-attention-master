@@ -1,5 +1,5 @@
 {
-  "currentWeek" : "2026-W30",
+  "currentWeek" : "2026-W29",
   "feedVersion" : "1.0",
   "weeks" : [
     {
@@ -11,8 +11,8 @@
     },
     {
       "label" : "13-19 TEMMUZ",
-      "packetCount" : 36,
-      "publishedAt" : "2026-07-17T01:52:19Z",
+      "packetCount" : 2,
+      "publishedAt" : "2026-07-17T11:53:59Z",
       "url" : "feed\/2026-W29.json",
       "week" : "2026-W29"
     },
