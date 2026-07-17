@@ -1,8 +1,229 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-17T10:53:09Z",
+  "publishedAt" : "2026-07-17T22:03:25Z",
   "slots" : [
-
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
+          "category" : "Law",
+          "descriptionTR" : "San Francisco Başsavcısı David Chiu, Apple ve Google'a ihtar mektupları göndererek, 13 \"nudify\" uygulamasının mağazalardan kaldırılmasını talep etti. Bu uygulamaların sıradan fotoğrafları açık içeriklere dönüştürebildiği ve kötü niyetli kişiler tarafından suistimal edilebileceği belirtiliyor. Wired'a göre, bu durum Kaliforniya yasalarına aykırı ve Apple ile Google'ın bu uygulamalardan milyonlarca dolar kazanmış olabileceği tahmin ediliyor.",
+          "group" : "Deepfake nude app crackdown",
+          "id" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
+          "link" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ars Technica",
+              "url" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores\/"
+            }
+          ],
+          "titleTR" : "San Francisco, Apple ve Google'a \"nudify\" uygulamalarını kaldırma talimatı verdi"
+        }
+      ],
+      "packetSpot" : "San Francisco Başsavcısı David Chiu, Apple ve Google'a ihtar mektupları göndererek, bu şirketlerin uygulama mağazalarından \"nudify\" uygulamalarını kaldırmalarını talep etti. Bu talep, Kaliforniya yasalarının ihlali gerekçesiyle yapıldı. Söz konusu uygulamaların, sıradan fotoğrafları açık içeriklere dönüştürebildiği ve bu nedenle kötü niyetli kişiler tarafından suistimal edilebileceği belirtiliyor. Wired'ın haberine göre, bu uygulamaların derin sahte pornografi yaratılmasına olanak tanıyan hizmetleri desteklediği ve bu durumun Kaliforniya yasalarına aykırı olduğu vurgulandı. Ayrıca, Apple ve Google'ın bu uygulamalardan milyonlarca dolar kazanmış olabileceği tahmin ediliyor.",
+      "packetTitle" : "San Francisco'dan Apple ve Google'a \"nudify\" uygulama talebi",
+      "publishedAt" : "2026-07-17T22:03:25Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
+          "category" : "Space",
+          "descriptionTR" : "\"Şu anda yakıt boşaltılıyor. Birkaç gün içinde bir sonraki fırlatma denemesi umuluyor.\" SpaceX, Güney Teksas'taki uzay üssünde, güçlü Starship roketi ve Super Heavy güçlendiricisinin test uçuşunu geri sayım sıfıra ulaştığında durdurdu. ABD-Meksika sınırının hemen kuzeyindeki Starbase, Teksas'taki fırlatma ekibi, 400 fitten uzun roketi yerel saatle 17:45'te (EDT 18:45; UTC 22:45) fırlatmayı hedefliyordu. Geri sayım gün boyunca sorunsuz ilerledi ve iki aşamalı rokete 11,5 milyon pounddan fazla sıvı metan ve sıvı oksijen yüklendi. Ancak geri sayımı kontrol eden bilgisayarlar, Super Heavy güçlendiricisinin motor başlatma sırasında durdurma çağrısı yaptı. SpaceX, fırlatma girişimini durdurdu ve mühendisler roketin yakıt tanklarını boşaltmaya başladı. Yetkililer, bir sonraki fırlatma denemesinin ne zaman yapılacağına dair hemen bir açıklama yapmadı.",
+          "group" : "Starship launch scrubs",
+          "id" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
+          "link" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ars Technica",
+              "url" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition\/"
+            }
+          ],
+          "titleTR" : "SpaceX, Starship fırlatmasını motor arızası nedeniyle durdurdu"
+        }
+      ],
+      "packetSpot" : "SpaceX, Starship roketinin fırlatma denemelerini teknik sorunlar nedeniyle durdurmak zorunda kaldı. Güney Teksas'taki Starbase'de gerçekleşmesi planlanan fırlatma, motorların çalışmaması üzerine durduruldu. 400 fitten uzun Starship V3 roketine 11,5 milyon pounddan fazla yakıt yüklendikten sonra geri sayım sıfıra ulaştığında, bilgisayarlar motor başlatma sırasında durdurma çağrısı yaptı. Fırlatma girişiminin durdurulması sonrası, mühendisler roketin yakıt tanklarını boşaltmaya başladı. Yeni bir fırlatma tarihi henüz açıklanmadı.",
+      "packetTitle" : "SpaceX'in Starship fırlatma denemeleri teknik sorunlarla durdu",
+      "publishedAt" : "2026-07-17T22:03:25Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
+          "category" : "Environment",
+          "descriptionTR" : "Google destekli FireSat programı, diğer uyduların kaçırdığı yangınları tespit edebiliyor. Kanada ve Amerika Birleşik Devletleri'nde yüzlerce yangının dumanı yayılırken, Google destekli FireSat programının ilk üç operasyonel uydusu başarıyla yörüngeye fırlatıldı. Bu uydular, yıl sonuna kadar Amerika Birleşik Devletleri, Avustralya ve Avrupa'da küçük yangınları bile tespit edebilecek kapasitede yangın tespiti sağlayacak. Kaliforniya'daki Vandenberg Uzay Kuvvetleri Üssü'nden 7 Temmuz 2026'da bir SpaceX Falcon 9 roketiyle fırlatılan mikrouydular, FireSat takımyıldızının \"başlangıç operasyonel kapasitesine\" geçişini işaret ediyor. Üç aylık bir test sürecinin ardından, üç uydu yangın ajanslarına veri sağlamaya başlayacak ve Dünya üzerindeki her yangın eğilimli bölgeyi günde en az iki kez kapsayacak. FireSat, yangınları tespit etmek için özel olarak tasarlanmış ilk uydu takımyıldızını temsil ediyor ve diğer uyduların kaçırabileceği daha küçük yangınları tespit edebiliyor. Kaliforniya merkezli uydu üreticisi Muon Space tarafından tasarlanan uydular, Google'dan ilk dağıtım için 15 milyon dolardan fazla destek aldı. Diğer önemli mali destekçiler arasında 26 milyon dolarlık taahhütte bulunan Bezos Earth Fund bulunuyor.",
+          "group" : "Wildfire detection satellites",
+          "id" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
+          "link" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ars Technica",
+              "url" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/"
+            }
+          ],
+          "titleTR" : "ABD ve Kanada'da duman yayılırken Google destekli yangın tespit uyduları fırlatıldı"
+        },
+        {
+          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
+          "category" : "Environment",
+          "descriptionTR" : "ABD'deki en üst düzey otomotiv güvenlik düzenleyicisi, otonom araç şirketlerini ilk müdahale ekipleriyle etkileşim konusunda uyardıktan sonra Zoox, yoğun duman nedeniyle bir robotaksinin karıştığı olayın ardından yazılım geri çağrısı yaptı.",
+          "group" : "Robotaxi safety recalls",
+          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
+          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/"
+            }
+          ],
+          "titleTR" : "Zoox, yoğun duman nedeniyle karışıklık yaşayan robotaksi sonrası yazılım geri çağrısı yaptı"
+        },
+        {
+          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
+          "category" : "Environment",
+          "descriptionTR" : "San Francisco belediye başkanı Daniel Lurie, saatler süren büyük bir trafik sıkışıklığı olayının ardından, eyalet düzenleyicilerine Waymo gibi robotaksi operatörlerine daha fazla gereklilik getirilmesi gerektiğini söyledi.",
+          "group" : "Robotaxi regulation",
+          "id" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
+          "link" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/"
+            }
+          ],
+          "titleTR" : "San Francisco belediye başkanı, Waymo trafik karmaşası sonrası daha sıkı kurallar istiyor"
+        }
+      ],
+      "packetSpot" : "FireSat uydularının fırlatılması, yangınları tespit etmeyi amaçlayarak dumanla ilgili zorlukları ele alıyor. Bu arada, Zoox, yoğun duman nedeniyle bir robotaksinin karışıklık yaşaması sonrası yazılımını geri çağırdı ve San Francisco belediye başkanı, dumanın kötüleştirdiği trafik sorunları sonrasında robotaksi düzenlemeleri için daha sıkı kurallar talep ediyor.",
+      "packetTitle" : "Dumanın teknoloji ve altyapıya etkisi",
+      "publishedAt" : "2026-07-17T22:03:25Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
+          "category" : "Security",
+          "descriptionTR" : "Federal yetkililer, Florida'da bir kişinin Steam oyunlarına bulaştırılan zararlı yazılımlarla en az 220,000 dolar değerinde kripto çaldığı iddiasıyla tutuklandığını açıkladı. Şikayette, 21 yaşındaki Zyaire Wilkins ve suç ortaklarının Mayıs 2024 ile Şubat 2026 arasında sekiz zararlı yazılım içeren oyun başlattığı ve yaklaşık 8,000 cihazı enfekte ederek 80 kripto cüzdanına erişim sağladığı belirtiliyor. Oyunların Steam'e yüklendiği kesinleşmemiş olsa da, Valve'a ait platforma atıfta bulunulduğu düşünülüyor. FBI, mağdur bilgileri için çağrı yaptı.",
+          "group" : "Crypto malware arrest",
+          "id" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
+          "link" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Verge",
+              "url" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest"
+            }
+          ],
+          "titleTR" : "Florida'da bir kişi, Steam oyunlarıyla 200,000 dolardan fazla kripto çalmakla suçlanıyor"
+        },
+        {
+          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
+          "category" : "Security",
+          "descriptionTR" : "Savcılar, 21 yaşındaki öğrenci Zyaire Wilkins'i, Steam'de zararlı yazılım içeren sahte video oyunları yayınlayarak binlerce kurbanı enfekte etmek ve bazı kurbanlardan kripto çalmakla suçladı.",
+          "group" : "Crypto malware arrest",
+          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
+          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/"
+            }
+          ],
+          "titleTR" : "FBI, Steam oyunlarıyla kripto cüzdanlarını boşaltmakla suçlanan kişiyi tutukladı"
+        }
+      ],
+      "packetSpot" : "Zyaire Wilkins ve bir Florida sakini, Steam oyunlarına bulaştırılan zararlı yazılımlarla kripto para çalmakla suçlanıyor. Federal yetkililer, bu kişilerin Mayıs 2024 ile Şubat 2026 arasında sekiz zararlı yazılım içeren oyun başlattığını ve yaklaşık 8,000 cihazı enfekte ederek 80 kripto cüzdanına erişim sağladığını belirtiyor. Çalınan miktarın en az 220,000 dolar olduğu iddia ediliyor. Oyunların Steam'e yüklendiği kesinleşmemiş olsa da, Valve'a ait platforma atıfta bulunulduğu düşünülüyor. FBI, mağdur bilgileri için çağrı yaptı. Bu olay, popüler oyun platformlarının siber hırsızlık için nasıl kullanılabileceğine dair endişeleri artırıyor.",
+      "packetTitle" : "Steam oyunlarıyla kripto hırsızlığı",
+      "publishedAt" : "2026-07-17T22:03:25Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
+          "category" : "Technology",
+          "descriptionTR" : "Patreon, içerik üreticilerinin izni olmadan AI modellerini eğitmek için içeriklerini kazıyan botları engellemek amacıyla Cloudflare ile işbirliği yaparak savunmalarını güçlendiriyor. Bu hamle, yalnızca robots.txt dosyalarına güvenmekten, izinsiz AI eğitimini aktif olarak engellemeye doğru bir kaymayı işaret ediyor.",
+          "group" : "AI scraping defenses",
+          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
+          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/google-vids-now-lets-you-star-in-your-own-ai-videos\/"
+            }
+          ],
+          "titleTR" : "Patreon, AI botlarını engellemeye başladı"
+        },
+        {
+          "atomID" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
+          "category" : "Technology",
+          "descriptionTR" : "TikTok, AI benzerliklerini tarayan ve içerik üreticilerinin izinsiz kullanımları rapor etmelerine olanak tanıyan bir aracı test etmeye başladı. Sosyal medya danışmanı Matt Navarra'nın belirttiğine göre, bu araç ABD'deki bazı içerik üreticileriyle test ediliyor. TikTok'un ABD sözcüsü Zachary Kizer, The Verge'e yaptığı açıklamada, YouTube'un da benzer bir araç üzerinde çalıştığını ve bunu yetişkin kullanıcılar için erişilebilir hale getirdiğini belirtti. TikTok'un testine katılan içerik üreticileri, Jumio adlı bir şirket aracılığıyla kimliklerini doğrulamak zorunda kalacaklar.",
+          "group" : "AI likeness detection",
+          "id" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
+          "link" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Verge",
+              "url" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool"
+            }
+          ],
+          "titleTR" : "TikTok, AI benzerlik tespit aracını test ediyor"
+        }
+      ],
+      "packetSpot" : "Patreon, içerik üreticilerinin izni olmadan AI modellerini eğitmek için içeriklerini kazıyan botları engellemek amacıyla Cloudflare ile işbirliği yaparak savunmalarını güçlendiriyor. Bu hamle, yalnızca robots.txt dosyalarına güvenmekten, izinsiz AI eğitimini aktif olarak engellemeye doğru bir kaymayı işaret ediyor. TikTok ise, AI benzerliklerini tarayan ve içerik üreticilerinin izinsiz kullanımları rapor etmelerine olanak tanıyan bir aracı test ediyor. Bu araç, ABD'deki bazı içerik üreticileriyle test ediliyor ve kullanıcıların kimlik doğrulaması yapmasını gerektiriyor. YouTube da benzer bir araç üzerinde çalışıyor ve bunu yetişkin kullanıcılar için erişilebilir hale getirdi. Her iki girişim de, içeriklerin AI sömürüsünden korunması için artan çabaları yansıtıyor.",
+      "packetTitle" : "AI içerik koruma çabaları: Patreon ve TikTok'un girişimleri",
+      "publishedAt" : "2026-07-17T22:03:25Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    }
   ],
   "week" : "2026-W30"
 }
