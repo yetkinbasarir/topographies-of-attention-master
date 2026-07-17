@@ -1,36 +1,49 @@
 {
   "label" : "13-19 TEMMUZ",
-  "publishedAt" : "2026-07-17T16:11:24Z",
+  "publishedAt" : "2026-07-17T18:42:02Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
-          "category" : "Energy",
-          "descriptionTR" : "AB ve Birleşik Krallık'ın öncülüğünde, dünya ekonomisinin hızla elektrikleştirilmesi için siyasi destek sağlanıyor. Londra'daki Mansion House'da düzenlenen üst düzey zirvede, enerji bakanları ve iş dünyası liderleri, BM Genel Sekreteri António Guterres ile birlikte, temiz elektrikle evlerin, sanayinin ve ulaşımın güçlendirilmesi çağrısında bulundu. Türkiye ve Avustralya'nın ev sahipliğinde gerçekleşen COP31'de, 2035 yılına kadar küresel enerji talebinin %35'inin elektrikle karşılanması hedefi, bu yılın eylem gündeminin ana unsuru olarak öne çıkıyor. IRENA'ya göre bu hedefe ulaşmak, 1.5°C ısınma sınırını korumak için gerekli.",
-          "group" : "Electrification transition",
-          "id" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
-          "link" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T16:11:24Z",
+          "atomID" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate\/",
+          "category" : "",
+          "descriptionTR" : "Avrupa'da art arda gelen sıcak hava dalgaları, klimayı iklim eylemi üzerindeki uluslararası \"kültür savaşının\" yeni cephesi haline getirdi. Fransa, Almanya ve İngiltere'de rekor sıcaklıklar ve binlerce sıcaklık kaynaklı ölüm yaşandı. Avrupa'daki düşük klima kullanım oranları, tarihsel iklim koşulları ve kültürel faktörlerle açıklanıyor. Ancak, iklim değişikliği nedeniyle Avrupa'nın daha sık aşırı sıcaklar yaşaması, klimanın önemini artırıyor.",
+          "group" : "",
+          "id" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate\/",
+          "link" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T18:42:02Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Climate Home News",
-              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
-            },
-            {
-              "originalLanguage" : "en",
               "sourceName" : "Carbon Brief",
-              "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens\/"
+              "url" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate\/"
             }
           ],
-          "titleTR" : "AB ve Birleşik Krallık, fosil yakıtlara karşı elektrikleşme hamlesine öncülük ediyor"
+          "titleTR" : "Aşırı sıcaklar ve klima: Sekiz gerçek"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/commentisfree\/2026\/jul\/15\/air-conditioning-access-extreme-heat",
+          "category" : "",
+          "descriptionTR" : "Bu yaz, Avrupa ve ABD'deki rekor sıcaklıklar medyanın odağında. Kamu yetkilileri, iç mekanlarda kalmayı, bol su içmeyi ve mümkünse klimayı açmayı tavsiye ediyor. İklim değişikliği karşısında, kaynaklara sahip ülkeler ile olmayanlar arasında yeni bir bölünme yaşanabilir.",
+          "group" : "Heat adaptation inequality",
+          "id" : "https:\/\/www.theguardian.com\/commentisfree\/2026\/jul\/15\/air-conditioning-access-extreme-heat",
+          "link" : "https:\/\/www.theguardian.com\/commentisfree\/2026\/jul\/15\/air-conditioning-access-extreme-heat",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T18:42:02Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Environment",
+              "url" : "https:\/\/www.theguardian.com\/commentisfree\/2026\/jul\/15\/air-conditioning-access-extreme-heat"
+            }
+          ],
+          "titleTR" : "Aşırı sıcaklarla başa çıkmak: Klima erişimi belirleyici olacak"
         }
       ],
-      "packetSpot" : "COP31'de küresel elektrikleşme gündemi öne çıkıyor; AB ve Birleşik Krallık, 2035 yılına kadar küresel enerjinin %35'inin elektrikten sağlanması için çaba gösteriyor. Bu girişim, fosil yakıtlara bağımlılığı azaltmak ve iklim hedeflerine ulaşmak için kritik bir adım olarak görülüyor. Elektrikleştirme, petrol araçlarından elektrikli araçlara geçiş gibi önlemleri kapsıyor ve bu yıl iklim ve enerji politikalarında öncelikli bir konu olarak ortaya çıkıyor. Türkiye ve Avustralya'nın ev sahipliğinde düzenlenen COP31, bu hedefi küresel bir koalisyonla gerçekleştirmeyi amaçlıyor. Ancak, altyapı yatırımları ve finansal destek olmadan bu geçişin yavaşlayabileceği belirtiliyor. IEA'ya göre, eskiyen enerji şebekeleri yenilenebilir enerji akışını karşılamakta zorlanıyor ve bu da enerji dönüşümünü yavaşlatıyor.",
-      "packetTitle" : "COP31'de küresel elektrikleşme hamlesi: AB ve İngiltere'nin liderliği",
-      "publishedAt" : "2026-07-17T16:11:24Z",
+      "packetSpot" : "Artan küresel sıcaklıklar karşısında klimanın rolü ve gerekliliği, Avrupa ve ABD'de sosyo-politik tartışmalara konu oluyor. Avrupa'daki düşük klima kullanım oranları tarihsel iklim koşulları ve kültürel faktörlerle açıklanırken, ABD'deki yaygın klima kullanımıyla karşılaştırılıyor. Klimanın çevresel etkileri ve şehirlerdeki ısı adası etkisini artırma potansiyeli de tartışılıyor. Klimanın yaygınlaşması, özellikle savunmasız nüfuslar için sıcaklık kaynaklı ölümleri azaltabilirken, enerji tüketimi ve emisyonlar üzerindeki etkisi de endişe yaratıyor. Bu paket, klimanın iklim değişikliği karşısında bir adaptasyon aracı olarak artan önemini ve bu süreçte ortaya çıkan sosyo-politik bölünmeleri ele alıyor.",
+      "packetTitle" : "Klimanın sıcakla mücadelesi ve sosyo-politik etkileri",
+      "publishedAt" : "2026-07-17T18:42:02Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
@@ -40,12 +53,12 @@
         {
           "atomID" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
           "category" : "Technology",
-          "descriptionTR" : "Yerli liderler, yapay zeka veri merkezlerinin hızla büyümesinin haklarını tehdit edebileceği konusunda BM'ye uyarıda bulunuyor. Bu merkezlerin geniş arazi, enerji ve su gereksinimleri, yerli topluluklar üzerinde baskı oluşturabileceği endişesiyle dikkat çekiyor. Norveç'teki Sámi Parlamentosu'ndan Maren Storslett, bu merkezlerin Sápmi'de büyük baskı yaratabileceğini belirtiyor. Yerli liderler, projelerin serbest, önceden ve bilgilendirilmiş onay (FPIC) ilkesine uygun olarak yürütülmesi gerektiğini vurguluyor.",
-          "group" : "AI data center land rights",
+          "descriptionTR" : "Yerli liderler, Birleşmiş Milletler'e yapay zeka veri merkezlerinin hızla büyümesinin haklarını tehdit ettiğini bildiriyor. Bu merkezlerin genişlemesi, su kaynakları üzerindeki baskıyı artırırken, yerli halkların yeterince danışılmadığına dair endişeler dile getiriliyor. Norveç'teki Sámi Parlamentosu üyesi Maren Storslett, büyük veri merkezlerinin Sápmi'de topraklar üzerinde baskı oluşturduğunu belirtiyor. Kanada'dan Aluki Kotierk, bu merkezlerin enerji, su ve mineraller gibi kaynakları tükettiğini ve yerli halkların haklarını tehdit ettiğini ifade ediyor.",
+          "group" : "Data center land rights",
           "id" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
           "link" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T16:11:24Z",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T18:42:02Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -58,14 +71,64 @@
               "url" : "https:\/\/news.mongabay.com\/2026\/07\/indigenous-advocates-push-for-rights-protections-around-ai-data-centers\/"
             }
           ],
-          "titleTR" : "Veri merkezleri hızla artıyor. Yerli liderler topraklarını korumak için destek istiyor."
+          "titleTR" : "Veri merkezleri hızla yayılıyor. Yerli liderler topraklarını korumak için yardım istiyor."
         }
       ],
-      "packetSpot" : "Yerli liderler, yapay zeka veri merkezlerinin küresel ölçekte yayılmasıyla birlikte topraklarının ve haklarının korunması için seslerini yükseltiyor. Bu merkezlerin geniş arazi, enerji ve su gereksinimleri, yerli topluluklar üzerinde baskı oluşturabileceği endişesiyle dikkat çekiyor. Yerli liderler, bu projelerin serbest, önceden ve bilgilendirilmiş onay (FPIC) ilkesine uygun olarak yürütülmesi gerektiğini vurguluyor. Norveç'teki Sámi Parlamentosu üyesi Maren Storslett, bu merkezlerin Sápmi'de büyük baskı yaratabileceğini belirterek, öncelikler ve sınırlar konusunda yerli toplulukların karar alma süreçlerinde yer alması gerektiğini ifade ediyor. Kanada'dan Aluki Kotierk, bu veri merkezlerinin enerji, su ve mineral kaynaklarını tükettiğini ve bu kaynakların genellikle yerli topraklarından çıkarıldığını belirtiyor. Brezilya'dan Anacé topluluğu, TikTok için planlanan bir veri merkezi projesine karşı çıkarak, projelerin yerli halkların katılımı olmadan yürütüldüğünü ve bu durumun haklarını ihlal ettiğini savunuyor. Yerli liderler, bu tür projelerin çevresel ve sosyal etkilerinin dikkate alınması gerektiğini ve yerli halkların karar alma süreçlerinde aktif rol alması gerektiğini savunuyor.",
-      "packetTitle" : "Yerli liderler veri merkezleri için FPIC uyumu talep ediyor",
-      "publishedAt" : "2026-07-17T16:11:24Z",
+      "packetSpot" : "Yapay zeka veri merkezlerinin hızla yayılması, yerli liderlerin haklarının korunması çağrısını beraberinde getiriyor. Bu merkezlerin genişlemesi, özellikle yerli toprakları ve kaynakları üzerinde baskı oluşturuyor. Yerli liderler, bu tür projelerin hayata geçirilmesinde özgür, önceden ve bilgilendirilmiş rıza ilkesine uyulması gerektiğini vurguluyor. Norveç'teki Sámi Parlamentosu üyesi Maren Storslett, büyük veri merkezlerinin Sápmi'de topraklar üzerinde baskı oluşturduğunu belirtiyor. Kanada'dan Aluki Kotierk, bu merkezlerin enerji, su ve mineraller gibi kaynakları tükettiğini ve yerli halkların haklarını tehdit ettiğini ifade ediyor. Brezilya'daki Anacé topluluğu, TikTok için planlanan veri merkezi hakkında federal yetkililere şikayette bulunarak danışma haklarının ihlal edildiğini belirtiyor. Ancak bazı yerli topluluklar, bu projelerin ekonomik faydalarını da göz önünde bulunduruyor. Alberta'daki Woodland Cree First Nation gibi bazı topluluklar, veri merkezlerini ekonomik kalkınma fırsatı olarak değerlendiriyor. Bu durum, yerli haklarının korunması ile teknolojik gelişmelerin dengelenmesi gerektiğini gösteriyor.",
+      "packetTitle" : "Yerli liderlerden yapay zeka veri merkezlerine karşı hak çağrısı",
+      "publishedAt" : "2026-07-17T18:42:02Z",
       "sessionID" : "publish-draft",
       "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "category" : "Energy",
+          "descriptionTR" : "Elektrifikasyon gündemi, Afrika için hem olağanüstü bir fırsat hem de büyük bir zorluk sunuyor. Londra İklim Eylem Haftası'nda, elektrifikasyon, iklim politikalarının merkezine taşındı. COP31'in Türkiye'de gerçekleşmesiyle, elektrifikasyonun fosil yakıtların yerine geçmesi gerektiği vurgulanıyor. Afrika'nın enerji yoksulluğu, kıtanın temiz enerji sistemleri kurma fırsatını artırıyor. Ancak, yüksek borçlanma maliyetleri ve finansal risk algısı, bu dönüşümü zorlaştırıyor.",
+          "group" : "Africa electrification agenda",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T18:42:02Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
+            }
+          ],
+          "titleTR" : "Afrika elektrifikasyon çağını başlatabilir"
+        },
+        {
+          "atomID" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens\/",
+          "category" : "Energy",
+          "descriptionTR" : "COP31 başkan adayı Murat Kurum, 2035 yılına kadar dünya enerji tüketiminin %35'inin elektriğe dayalı olması hedefini açıkladı. Kurum, bu hedefin politik bir tercih olmadığını, bilimsel verilere dayandığını belirtti. Hormuz krizi, yenilenebilir enerji ve elektrifikasyonun aciliyetini artırıyor. Kurum, bu hedefin COP31'de merkezi bir tartışma konusu olacağını ifade etti.",
+          "group" : "Global electrification target",
+          "id" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens\/",
+          "link" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T18:42:02Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens\/"
+            }
+          ],
+          "titleTR" : "Röportaj: COP31 başkanı elektrifikasyonun en güvenli yol olduğunu söylüyor"
+        }
+      ],
+      "packetSpot" : "2035 yılına kadar dünya enerji tüketiminin %35'inin elektriğe dayalı olması hedefi, COP31 öncesinde giderek daha fazla destek buluyor. Afrika'nın bu geçişteki potansiyeli ve karşılaştığı zorluklar öne çıkıyor. COP31 başkan adayı, elektrifikasyonun enerji güvenliği ve iklim hedefleri için kritik olduğunu vurguluyor. Afrika, enerji yoksulluğu ile mücadele ederken, yenilenebilir enerji kaynakları açısından büyük bir fırsata sahip. Ancak, finansal engeller ve altyapı eksiklikleri, kıtanın bu potansiyelini gerçekleştirmesini zorlaştırıyor. 35'e 35 hedefi, COP31'de önemli bir tartışma konusu olarak öne çıkıyor.",
+      "packetTitle" : "35'e 35: Elektrifikasyonun küresel hedefi",
+      "publishedAt" : "2026-07-17T18:42:02Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
     },
     {
       "illustrationName" : "1D752407-1873-5429-B886-218F5F732B3C.png",
@@ -73,12 +136,12 @@
         {
           "atomID" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
           "category" : "Environment",
-          "descriptionTR" : "Birleşik Krallık, Kongo yağmur ormanlarını koruma ve yerel halkı destekleme amacıyla planladığı milyonlarca sterlin değerindeki projeleri iptal etti. Bu projeler, Kongo havzasındaki orman koruma çabalarına yönelik vaat edilen 200 milyon sterlinin yaklaşık yarısını oluşturuyordu. Kalkınma Bakanı Jenny Chapman, 2024 itibarıyla bu hedefe sadece 39,8 milyon sterlin katkı sağlandığını açıkladı. Hükümet, Kongo havzasını önceliklendirmeye devam edeceğini belirtse de, sivil toplum kuruluşları ve milletvekilleri, yeni yardım stratejisinde orman fonlarının 'koruma altına alınmaması' konusunda endişeli.",
-          "group" : "Congo rainforest funding cuts",
+          "descriptionTR" : "İngiltere, Kongo yağmur ormanlarını korumak ve yerel halkı desteklemek amacıyla planlanan milyonlarca sterlinlik projeleri iptal etti. Bu projeler, İngiltere'nin Kongo havzası için vaat ettiği 200 milyon sterlinlik desteğin yarısını oluşturuyordu. 2024 itibarıyla İngiltere'nin bu hedefe sadece 39.8 milyon sterlin katkıda bulunduğu bildirildi. İngiltere hükümeti, yeni yardım stratejisinde yağmur ormanlarına öncelik vereceğini belirtse de, sivil toplum kuruluşları ve milletvekilleri, orman fonlarının belirgin bir şekilde ayrılmamasından endişe duyuyor.",
+          "group" : "Congo rainforest funding",
           "id" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
           "link" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T16:11:24Z",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T18:42:02Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -86,17 +149,17 @@
               "url" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/"
             }
           ],
-          "titleTR" : "Birleşik Krallık, Kongo yağmur ormanlarına yönelik fonları geri çekiyor"
+          "titleTR" : "İngiltere, Kongo'daki dünyanın ikinci büyük yağmur ormanına milyonlarca sterlinlik yardımı çekiyor"
         },
         {
           "atomID" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
           "category" : "Environment",
-          "descriptionTR" : "Carbon Brief'in iki haftada bir yayınlanan Cropped bülteninde, iklim, arazi, gıda ve doğa kesişimindeki en önemli hikayeler ele alınıyor. Bu sayıda, Uganda'daki kuraklık ve açlık, Trump'ın tehlike altındaki habitatları açması ve Birleşik Krallık'ın yağmur ormanı yardımını kesmesi gibi konular işleniyor.",
-          "group" : "Congo rainforest funding cuts",
+          "descriptionTR" : "İklim, arazi, gıda ve doğa kesişimindeki en önemli hikayeleri seçip açıklıyoruz. Bu, Carbon Brief'in iki haftada bir yayınlanan Cropped e-bülteninin çevrimiçi versiyonudur. İngiltere'nin Kongo havzası için vaat ettiği 200 milyon sterlinlik desteğin yarısını oluşturan projeler iptal edildi. 2024 itibarıyla İngiltere'nin bu hedefe sadece 39.8 milyon sterlin katkıda bulunduğu bildirildi. İngiltere'nin yeni yardım stratejisinde yağmur ormanlarına öncelik vereceği belirtilse de, sivil toplum kuruluşları ve milletvekilleri, orman fonlarının belirgin bir şekilde ayrılmamasından endişe duyuyor.",
+          "group" : "Congo rainforest funding",
           "id" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
           "link" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-17T16:11:24Z",
+          "publishedAt" : "2026-07-17T18:42:02Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -104,88 +167,113 @@
               "url" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/"
             }
           ],
-          "titleTR" : "Cropped 15 Temmuz 2026: Uganda açlıkla mücadele ediyor | Trump tehlike altındaki habitatları açıyor | Birleşik Krallık yağmur ormanı yardımını kesiyor"
+          "titleTR" : "Cropped 15 Temmuz 2026: Uganda açlıkla mücadele ediyor | Trump tehlikede olan habitatları açıyor | İngiltere yağmur ormanı yardımını kesiyor"
         }
       ],
-      "packetSpot" : "Birleşik Krallık, Kongo yağmur ormanlarının korunmasına yönelik mali desteğini önemli ölçüde azalttı. Bu durum, dünyanın ikinci en büyük yağmur ormanının korunması için yapılan çabaları etkiliyor. Birleşik Krallık, Glasgow'da düzenlenen COP26'da orman kaybını durdurma girişimine öncülük etmiş ve 2025 yılına kadar Kongo yağmur ormanı ülkelerine en az 1,5 milyar dolar destek sözü vermişti. Ancak, 2024 itibarıyla bu hedefin sadece 39,8 milyon sterlinlik kısmı sağlanabildi. Bu kesintiler, Kongo havzası orman eylem programı (CBFA) ve biyolojik çeşitlilik peyzaj fonu gibi projeleri etkiledi. Hükümet, bu bölgeleri önceliklendirmeye devam edeceğini belirtse de, sivil toplum kuruluşları ve milletvekilleri, yeni yardım stratejisinde orman fonlarının 'koruma altına alınmaması' konusunda endişeli. WWF International'dan Damian Fleming ve eski bakan Zac Goldsmith gibi eleştirmenler, bu durumu 'verilen sözlerin tutulmaması' olarak nitelendiriyor.",
-      "packetTitle" : "Kongo yağmur ormanlarına fon kesintisi",
-      "publishedAt" : "2026-07-17T16:11:24Z",
-      "sessionID" : "publish-draft",
-      "slot" : 3
-    },
-    {
-      "illustrationName" : "7CE98403-BF13-5D5B-A597-8CF9A02AD489.png",
-      "items" : [
-        {
-          "atomID" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
-          "category" : "Environment",
-          "descriptionTR" : "Andrew Moore'un \"Beasts of the East\" kitabı, Amerika'nın doğusunda yaban hayatının yeniden canlandırılmasına yönelik hikayeleri ve temaları ele alıyor. Kitap, bilim, çaba, hayal gücü ve politikaların birleşimiyle doğu bölgesinde yaban hayatının ve doğal alanların yeniden canlanmasına dair ilham verici anlatılar sunuyor. Bu yılın en dikkat çekici okumalarından biri olarak öne çıkıyor.",
-          "group" : "Eastern US wildlife restoration",
-          "id" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
-          "link" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T16:11:24Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Mongabay",
-              "url" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/"
-            }
-          ],
-          "titleTR" : "Amerika'nın doğusunda yaban hayatı restorasyonu: 'Beasts of the East' kitabı"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Kuzey Amerika'da doğayı onarma çabaları",
-      "publishedAt" : "2026-07-17T16:11:24Z",
+      "packetSpot" : "İngiltere'nin Kongo havzasındaki yağmur ormanları koruma projelerine yönelik mali taahhütlerini azaltması, uluslararası yardım kesintileri ve gelişmekte olan ülkelerin çevresel koruma için uluslararası fon bulma zorlukları bağlamında dikkat çekiyor. İngiltere, Kongo havzası için vaat ettiği 200 milyon sterlinlik desteğin yalnızca 39.8 milyon sterlinini sağlamış durumda. Bu durum, İngiltere'nin Kongo havzası orman eylem programı (CBFA) bütçesini 90 milyon sterlinden 18.8 milyon sterline düşürmesiyle daha da belirginleşiyor. İngiltere'nin mali taahhütlerinden geri çekilmesi, uluslararası taahhütler ile gerçek mali destek arasındaki gerilimi vurguluyor. Damian Fleming ve Zac Goldsmith gibi isimler, bu durumu İngiltere'nin uluslararası doğa koruma liderliğinden uzaklaşması olarak değerlendiriyor. Ancak, İngiltere hükümeti, Kongo yağmur ormanlarına öncelik vermeye devam edeceğini belirtiyor.",
+      "packetTitle" : "İngiltere'nin Kongo yağmur ormanlarına yardımı azalıyor",
+      "publishedAt" : "2026-07-17T18:42:02Z",
       "sessionID" : "publish-draft",
       "slot" : 4
     },
     {
-      "illustrationName" : "EBF0C1EB-23DF-5C50-833C-6CB6CD430465.png",
       "items" : [
         {
-          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
+          "atomID" : "https:\/\/www.carbonbrief.org\/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted\/",
           "category" : "Health",
-          "descriptionTR" : "Kanada ve Minnesota'daki büyük orman yangınlarından çıkan yoğun duman, bu hafta ABD'nin Orta Batı ve Kuzeydoğu bölgelerini saracak. Minnesota yetkilileri, Twin Cities metro alanı dahil olmak üzere birçok bölge için hava kalitesi uyarısı yaptı. İki Limanlar ve Grand Portage gibi bölgelerde hava kalitesinin tehlikeli seviyelere ulaşması bekleniyor. Columbia Üniversitesi'nden Dan Westervelt, Kanada ve ABD'deki şiddetli kuraklık koşullarının yangınları beslediğini belirtiyor.",
-          "group" : "North America wildfire smoke",
-          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
-          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
+          "descriptionTR" : "Son haftalarda, Avrupa'nın rekor kıran yaz sıcak dalgalarının neden olduğu ölümleri tahmin eden kamu sağlığı otoriteleri ve bilim insanlarından birçok rapor geldi. Fransa'da, ulusal kamu sağlığı ajansı Haziran ayında sıcak dalgasının zirve yaptığı hafta boyunca 2.025 fazla ölüm bildirdi. Almanya ve Hollanda'da ise aynı yedi günlük dönemde sırasıyla 5.753 ve 533 fazla ölüm olduğu belirtildi. Farklı yöntemlerle hesaplanan bu ölümler, aşırı sıcakların neden olduğu ölümleri saymanın zorluklarını ortaya koyuyor.",
+          "group" : "Heat mortality methods",
+          "id" : "https:\/\/www.carbonbrief.org\/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted\/",
+          "link" : "https:\/\/www.carbonbrief.org\/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T18:42:02Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted\/"
+            }
+          ],
+          "titleTR" : "Avrupa'nın Mayıs ve Haziran sıcak dalgası ölümleri: Nasıl hesaplandı?"
+        }
+      ],
+      "packetSpot" : "Avrupa'da sıcak dalgalarının etkisi, özellikle sıcaklıkla ilişkili ölümler ve bu ölümlerin nasıl hesaplandığı üzerine yoğunlaşıyor. Fransa, Almanya ve Hollanda'da sıcak dalgası döneminde bildirilen fazla ölümler, farklı hesaplama yöntemleriyle ele alınıyor. Aşırı sıcakların neden olduğu ölümleri saymanın zorlukları, 'fazla ölüm' ve 'istatistiksel modelleme' gibi yöntemlerle inceleniyor. Ayrıca, Avrupa Komisyonu'nun AB elektrifikasyon planı ve bu planın iklim değişikliğiyle mücadeledeki potansiyel etkisi de ele alınıyor. İklim değişikliğinin bu olayları şiddetlendirdiği belirtilirken, insan kaynaklı iklim değişikliğinin bu ölümler üzerindeki etkisi belirli çalışmalara dayandırılıyor.",
+      "packetTitle" : "Avrupa'nın sıcak dalgası: ölüm sayıları ve hesaplama yöntemleri",
+      "publishedAt" : "2026-07-17T18:42:02Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/10\/little-fat-froggy-fight-survival-desert-rain-frog-iucn-red-list",
+          "category" : "Environment",
+          "descriptionTR" : "Güneybatı Afrika'nın dar bir kıyı şeridine özgü olan çöl yağmur kurbağası, IUCN kırmızı listesinde \"hassas\" olarak sınıflandırıldı. Habitatı madencilik faaliyetleri nedeniyle tehdit altında olan bu türün, koruma çabaları olmadan önümüzdeki on yıl içinde %20 oranında azalması bekleniyor.",
+          "group" : "Desert frog extinction",
+          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/10\/little-fat-froggy-fight-survival-desert-rain-frog-iucn-red-list",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/10\/little-fat-froggy-fight-survival-desert-rain-frog-iucn-red-list",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-17T18:42:02Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Environment",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/10\/little-fat-froggy-fight-survival-desert-rain-frog-iucn-red-list"
+            }
+          ],
+          "titleTR" : "Çöl yağmur kurbağası hayatta kalma mücadelesi veriyor"
+        },
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/2026\/07\/brazil-lists-the-amazon-river-turtle-as-endangered-for-the-first-time\/",
+          "category" : "Environment",
+          "descriptionTR" : "Amazon toplulukları için geleneksel bir gıda kaynağı olan Amazon kaplumbağası, Brezilya'nın tehlike altındaki fauna listesine ilk kez dahil edildi. Marília Marini, bu türün korunması için iletişim ve eylemlerin dikkatli bir şekilde yönlendirilmesi gerektiğini vurguluyor. Geleneksel toplulukların bu türle tarihsel olarak bir arada yaşadığı göz önünde bulundurulmalı.",
+          "group" : "Amazon turtle decline",
+          "id" : "https:\/\/news.mongabay.com\/2026\/07\/brazil-lists-the-amazon-river-turtle-as-endangered-for-the-first-time\/",
+          "link" : "https:\/\/news.mongabay.com\/2026\/07\/brazil-lists-the-amazon-river-turtle-as-endangered-for-the-first-time\/",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-17T16:11:24Z",
+          "publishedAt" : "2026-07-17T18:42:02Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "Mongabay",
-              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/"
+              "url" : "https:\/\/news.mongabay.com\/2026\/07\/brazil-lists-the-amazon-river-turtle-as-endangered-for-the-first-time\/"
             }
           ],
-          "titleTR" : "Kanada yangınlarının dumanı ABD'de milyonları tehlikeye atıyor"
-        },
+          "titleTR" : "Brezilya, Amazon nehir kaplumbağasını ilk kez tehlike altında olarak listeledi"
+        }
+      ],
+      "packetSpot" : "Güneybatı Afrika'nın dar bir kıyı şeridine özgü olan çöl yağmur kurbağası, IUCN kırmızı listesinde \"hassas\" olarak sınıflandırıldı. Habitatı madencilik faaliyetleri nedeniyle tehdit altında olan bu türün, koruma çabaları olmadan önümüzdeki on yıl içinde %20 oranında azalması bekleniyor. Brezilya'da ise Amazon nehir kaplumbağası ilk kez \"tehlike altında\" olarak listelendi. Geleneksel Amazon toplulukları için bir gıda kaynağı olan bu kaplumbağanın nüfusu son 36 yılda yarıya indi. Bu durum, ICMBio'nun Biyoçeşitlilik Yok Olma Riski Değerlendirme Sistemi (SALVE) tarafından \"tehlike altında\" olarak sınıflandırılmasına yol açtı. Marília Marini, bu türün korunması için iletişim ve eylemlerin dikkatli bir şekilde yönlendirilmesi gerektiğini vurguluyor. Geleneksel toplulukların bu türle tarihsel olarak bir arada yaşadığı göz önünde bulundurulmalı.",
+      "packetTitle" : "Tehlike altındaki türler ve koruma çabaları",
+      "publishedAt" : "2026-07-17T18:42:02Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
         {
-          "atomID" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
-          "category" : "Health",
-          "descriptionTR" : "Arjantin ve İspanya'nın karşılaşacağı Dünya Kupası finali, New York City yakınlarında yapılacak. Ancak Kanada'dan gelen yangın dumanı, maçı tehdit ediyor ve FIFA'nın oyuncu veya taraftar sağlığını korumak için bir planı yok gibi görünüyor. Açık hava stadyumunda duman riski, özellikle hassas gruplar için tehlikeli olabilir. Diğer spor ligleri hava kalitesi uyarılarına göre önlemler alırken, FIFA'nın bu konuda hazırlıksız olduğu eleştiriliyor.",
-          "group" : "Climate health and sports",
-          "id" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
-          "link" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T16:11:24Z",
+          "atomID" : "https:\/\/www.carbonbrief.org\/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels\/",
+          "category" : "Politics",
+          "descriptionTR" : "İngiltere'nin yeni başbakanı Andy Burnham, iklim değişikliği konusundaki görüşlerini liderlik kampanyası sırasında pek dile getirmedi. Ancak, geçmişteki açıklamaları, fosil yakıt anlaşmasını desteklemesi ve net sıfır hedefinden geri adım atılmaması gerektiğini belirtmesi, farklı bir tablo ortaya koyuyor. Burnham, iklim değişikliğiyle mücadele etmenin topluluklar ve işletmeler için daha adil ve yeşil bir gelecek inşa etme fırsatı sunduğunu savunuyor.",
+          "group" : "Andy Burnham climate stance",
+          "id" : "https:\/\/www.carbonbrief.org\/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels\/",
+          "link" : "https:\/\/www.carbonbrief.org\/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T18:42:02Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Grist",
-              "url" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/"
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels\/"
             }
           ],
-          "titleTR" : "Dünya Kupası finali duman tehdidi altında; FIFA'nın planı yok"
+          "titleTR" : "Andy Burnham'ın iklim, net sıfır ve fosil yakıtlar üzerine 28 sözü"
         }
       ],
-      "packetSpot" : "Kanada'daki orman yangınlarından kaynaklanan duman, ABD'nin Orta Batı ve Kuzeydoğu bölgelerinde hava kalitesini etkiliyor. Bu durum, sağlık riskleri oluştururken New York City yakınlarındaki Dünya Kupası finali gibi büyük etkinlikleri de tehdit ediyor. Minnesota ve Kanada'daki büyük yangınlardan çıkan yoğun duman, bu hafta ABD'nin Orta Batı ve Kuzeydoğu bölgelerini saracak. Minnesota yetkilileri, Twin Cities metro alanı dahil olmak üzere birçok bölge için hava kalitesi uyarısı yaptı. İki Limanlar ve Grand Portage gibi bölgelerde hava kalitesinin tehlikeli seviyelere ulaşması bekleniyor. Columbia Üniversitesi'nden Dan Westervelt, Kanada ve ABD'deki şiddetli kuraklık koşullarının yangınları beslediğini belirtiyor. FIFA'nın Dünya Kupası finali için henüz bir acil durum planı bulunmuyor. New York City'deki stadyumun açık hava olması, oyuncular ve taraftarların dumana maruz kalma riskini artırıyor. Bu durum, özellikle hassas gruplar için tehlikeli olabilir. Diğer spor ligleri hava kalitesi uyarılarına göre önlemler alırken, FIFA'nın bu konuda hazırlıksız olduğu eleştiriliyor. Bu olay, spor organizasyonlarının iklim risklerine karşı daha hazırlıklı olmaları gerektiğine dair bir uyarı niteliği taşıyor.",
-      "packetTitle" : "Kanada yangınlarının dumanı ABD'de sağlığı ve etkinlikleri tehdit ediyor",
-      "publishedAt" : "2026-07-17T16:11:24Z",
+      "packetSpot" : "Andy Burnham'ın iklim konusundaki duruşu, geçmişteki açıklamaları ve eylemsizlik durumunda olası siyasi sonuçlar üzerine odaklanıyor. Burnham, fosil yakıt anlaşmasını desteklemiş ve net sıfır hedefinden geri adım atılmaması gerektiğini belirtmiştir. Ancak, siyasi zorluklar ve artan iklim riskleri karşısında harekete geçilmesi gerektiği vurgulanıyor. İngiltere'deki son sıcak hava dalgaları ve bu durumun kamu hizmetleri üzerindeki etkileri, iklim değişikliğiyle mücadeledeki zorlukları gözler önüne seriyor. İklim eylemi konusundaki siyasi zorluklar ve artan iklim riskleri, Burnham'ın geçmişteki açıklamaları ve mevcut siyasi iklimin gelecekteki politikaları nasıl etkileyebileceği üzerine bir inceleme sunuyor.",
+      "packetTitle" : "Andy Burnham'ın iklim duruşu ve siyasi zorluklar karşısında eylem aciliyeti",
+      "publishedAt" : "2026-07-17T18:42:02Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
+      "slot" : 7
     }
   ],
   "week" : "2026-W29"
