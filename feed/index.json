@@ -4,8 +4,8 @@
   "weeks" : [
     {
       "label" : "20-26 TEMMUZ",
-      "packetCount" : 1,
-      "publishedAt" : "2026-07-17T09:10:22Z",
+      "packetCount" : 3,
+      "publishedAt" : "2026-07-17T10:53:09Z",
       "url" : "feed\/2026-W30.json",
       "week" : "2026-W30"
     },
