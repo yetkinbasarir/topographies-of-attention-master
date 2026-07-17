@@ -1,0 +1,52 @@
+{
+  "label" : "20-26 TEMMUZ",
+  "publishedAt" : "2026-07-17T09:10:22Z",
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/the-problem-with-the-odysseys-imax-hype\/687949\/?utm_source=feed",
+          "category" : "Culture",
+          "descriptionTR" : "Christopher Nolan'ın 'The Odyssey' filmi, tamamen IMAX kameralarla çekilen ilk ticari film olarak öne çıkıyor. Ancak, ABD'deki sinemaların çoğu, filmi yönetmenin istediği gibi gösteremiyor. IMAX 70 mm formatında izlemek isteyenler, sınırlı sayıda sinemada bu deneyimi yaşayabiliyor. IMAX CEO'su Richard Gelfond, bu formatı gösterebilecek yeterli sayıda projeksiyon cihazının olmadığını belirtiyor. Bu durum, bazı izleyicilerin tam deneyimi kaçırdığı hissine kapılmasına neden oluyor. IMAX 70 mm izleyicileri, 'Dune: Part Three' filminden özel görüntüler de izleyebiliyor. Ancak, birçok sinema bu formatı sunamadığı için izleyiciler farklı deneyimler yaşıyor.",
+          "group" : "IMAX and cinema",
+          "id" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/the-problem-with-the-odysseys-imax-hype\/687949\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/the-problem-with-the-odysseys-imax-hype\/687949\/?utm_source=feed",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T09:10:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/the-problem-with-the-odysseys-imax-hype\/687949\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "<em>Odyssey<\/em> izlerken eksik kalabilirsiniz"
+        },
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/the-odyssey-movie-review-christopher-nolan\/687913\/?utm_source=feed",
+          "category" : "Culture",
+          "descriptionTR" : "Christopher Nolan'ın 'The Odyssey' uyarlaması, IMAX formatında çekilmiş görsel bir şölen sunuyor. Film, Odysseus'un karmaşık hikayesini ve Yunan tanrıları ile canavarlarını içeren epik bir anlatı sunarken, aynı zamanda kişisel bir hikaye de anlatıyor. Nolan, Odysseus'un (Matt Damon) kayıp ve özlem dolu yolculuğunu, şiirin macera dolu ruhunu koruyarak ele alıyor. Film, görsel gerçekçiliği ve minimal CGI kullanımıyla dikkat çekiyor. Odysseus'un yolculuğu, hem fiziksel hem de duygusal bir keşif olarak sunuluyor. Nolan, bu epik hikayeyi IMAX çağında yeniden canlandırarak izleyiciye sunuyor.",
+          "group" : "Odyssey film review",
+          "id" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/the-odyssey-movie-review-christopher-nolan\/687913\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/the-odyssey-movie-review-christopher-nolan\/687913\/?utm_source=feed",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T09:10:22Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/the-odyssey-movie-review-christopher-nolan\/687913\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "En büyük ekranı hak eden bir <em>Odyssey<\/em>"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Nolan'ın 'The Odyssey'si IMAX ile buluşuyor",
+      "publishedAt" : "2026-07-17T09:10:22Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    }
+  ],
+  "week" : "2026-W30"
+}
