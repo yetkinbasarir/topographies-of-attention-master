@@ -1,1931 +1,367 @@
 {
   "label" : "13-19 TEMMUZ",
-  "publishedAt" : "2026-07-17T01:52:19Z",
+  "publishedAt" : "2026-07-17T11:53:59Z",
   "slots" : [
     {
-      "illustrationName" : "08FB7E49-B6F6-5709-B43B-D440D3958DD8.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.npr.org\/2026\/07\/16\/g-s1-133920\/ukraine-defense-minister-fired",
-          "category" : "Politics",
-          "descriptionTR" : "Ukrayna Devlet Başkanı Volodymyr Zelenskyy, ülkenin popüler savunma bakanı Mykhailo Fedorov'u görevden aldı. Fedorov, savaş alanında yenilikçi yaklaşımlar benimseyerek dronlar aracılığıyla Rusya'ya karşı üstünlük sağlamıştı.",
-          "group" : "Ukraine defense reshuffle",
-          "id" : "https:\/\/www.npr.org\/2026\/07\/16\/g-s1-133920\/ukraine-defense-minister-fired",
-          "link" : "https:\/\/www.npr.org\/2026\/07\/16\/g-s1-133920\/ukraine-defense-minister-fired",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
+          "atomID" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
+          "category" : "Culture",
+          "descriptionTR" : "Fransız Yeni Dalgası'nın en ihmal edilen yönetmenlerinden biri olarak görülen Claude Chabrol, BFI Southbank'ta düzenlenen bir sezonla anılıyor. Chabrol'un soğukkanlı, eğlenceli ve alaycı gerilim filmleri, 1 Eylül'den 6 Ekim'e kadar sürecek olan Claude Chabrol – Suç Unsurları adlı etkinlikte gösterilecek. BFI Player'da da Chabrol'un 10 filmlik bir koleksiyonu izleyicilere sunulacak.",
+          "group" : "Claude Chabrol season",
+          "id" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
+          "link" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-17T11:53:59Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "NPR World",
-              "url" : "https:\/\/www.npr.org\/2026\/07\/16\/g-s1-133920\/ukraine-defense-minister-fired"
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration"
             }
           ],
-          "titleTR" : "Zelenskyy, Ukrayna'nın teknoloji meraklısı savunma bakanını görevden aldı"
+          "titleTR" : "Claude Chabrol, BFI Southbank'ta anılıyor"
         },
         {
-          "atomID" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5894781\/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism",
-          "category" : "Politics",
-          "descriptionTR" : "Ukrayna, dron anlaşmaları imzalarken ve Patriot füzeleri için lisans beklerken, teknoloji meraklısı savunma bakanı görevden alındı. Fedorov, dron savaşıyla Rusya'ya karşı üstünlük sağlamıştı.",
-          "group" : "Ukraine defense reshuffle",
-          "id" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5894781\/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism",
-          "link" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5894781\/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "NPR World",
-              "url" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5894781\/dismissal-of-ukraines-popular-defense-minister-draws-intense-criticism"
-            }
-          ],
-          "titleTR" : "Ukrayna'nın popüler savunma bakanının görevden alınması yoğun eleştiri aldı"
-        },
-        {
-          "atomID" : "https:\/\/asiatimes.com\/2026\/07\/political-turmoil-follows-ukraine-defense-ministers-dismissal\/",
-          "category" : "Politics",
-          "descriptionTR" : "KYIV – Reform yanlısı Savunma Bakanı Mykhailo Fedorov'un görevden alınması, Ukrayna siyasetinde ve toplumunda şok etkisi yarattı. 16 Temmuz'da Kiev ve diğer şehirlerde ani protestolar düzenlendi. Fedorov, 15 Temmuz akşamı Facebook'ta yaptığı açıklamada, savunma bakanı olarak hizmet etmenin 'büyük bir onur' olduğunu belirtti.",
-          "group" : "Ukraine defense shakeup",
-          "id" : "https:\/\/asiatimes.com\/2026\/07\/political-turmoil-follows-ukraine-defense-ministers-dismissal\/",
-          "link" : "https:\/\/asiatimes.com\/2026\/07\/political-turmoil-follows-ukraine-defense-ministers-dismissal\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Asia Times",
-              "url" : "https:\/\/asiatimes.com\/2026\/07\/political-turmoil-follows-ukraine-defense-ministers-dismissal\/"
-            }
-          ],
-          "titleTR" : "Savunma bakanının görevden alınması sonrası siyasi kargaşa"
-        },
-        {
-          "atomID" : "https:\/\/thehill.com\/policy\/international\/5971798-zelensky-ousted-defense-minister-fedorov\/",
-          "category" : "Politics",
-          "descriptionTR" : "Ukrayna Devlet Başkanı Volodymyr Zelensky, Savunma Bakanı Mykhailo Fedorov'u altı ay sonra görevden alma kararı aldı. Bu karar, kamuoyunda tepki ve Kiev'de protestolara yol açtı. Fedorov, daha önce Ukrayna'nın Dijital Dönüşüm Bakanı olarak görev yapmış ve savunma rolüne askeri teknoloji alanında geniş bir deneyim getirmişti.",
-          "group" : "Ukraine defense shakeup",
-          "id" : "https:\/\/thehill.com\/policy\/international\/5971798-zelensky-ousted-defense-minister-fedorov\/",
-          "link" : "https:\/\/thehill.com\/policy\/international\/5971798-zelensky-ousted-defense-minister-fedorov\/",
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
+          "category" : "Culture",
+          "descriptionTR" : "Detroit Sanat Enstitüsü direktörü Salvador Salort-Pons, 1626 tarihli bir Velázquez portresini özel bir koleksiyonda bulduğunu iddia ediyor. Bu keşif, Velázquez'in Madrid'deki erken dönem çalışmalarına ışık tutabilir. Tablonun Detroit'te 2027'de açılacak bir sergide yer alması planlanıyor.",
+          "group" : "Old master rediscovery",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
+          "publishedAt" : "2026-07-17T11:53:59Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Hill",
-              "url" : "https:\/\/thehill.com\/policy\/international\/5971798-zelensky-ousted-defense-minister-fedorov\/"
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting"
             }
           ],
-          "titleTR" : "Zelensky, Ukrayna savunma bakanını sürpriz bir kararla görevden aldı"
+          "titleTR" : "Detroit Sanat Enstitüsü direktörü, kayıp Velázquez tablosunu bulduğunu iddia ediyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
+          "category" : "Culture",
+          "descriptionTR" : "New York'taki Yahudi Müzesi, Wiener Werkstätte'nin el işçiliğini nasıl koruduğunu keşfeden bir sergi düzenliyor. 1903-1932 yılları arasında aktif olan bu sanatçı kolektifi, günlük yaşamın objelerine sanatı getirmeyi amaçlamıştı. Sergi, özellikle Yahudi kökenli kadın sanatçıların eserlerine odaklanıyor.",
+          "group" : "Craft and modernism",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft"
+            }
+          ],
+          "titleTR" : "New York'ta Wiener Werkstätte'nin el işçiliğini nasıl koruduğunu keşfeden sergi"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
+          "category" : "Culture",
+          "descriptionTR" : "Victoria ve Albert Müzesi, 2027 yılı için sergi programını açıkladı. Programda Güney Asya çağdaş sanatı ve tekstilinden punk müzik ve modaya kadar geniş bir yelpazede sergiler yer alacak. V&A East Müzesi'nde Güney Asya'nın yaratıcı çeşitliliğini sergileyen 'South Asia Now' adlı sergi dikkat çekiyor.",
+          "group" : "V&A 2027 exhibitions",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion"
+            }
+          ],
+          "titleTR" : "V&A, 2027 sergi programını açıkladı"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
+          "category" : "Culture",
+          "descriptionTR" : "Robert Rauschenberg Vakfı, Tate Modern'de sergilenecek olan üç heykel bağışladı. Bu heykeller, tüketim kültürünü yansıtan Gluts serisinin bir parçası. Rauschenberg'in eserleri, sanatçının işbirliği ve niyetliliğe verdiği önemi vurguluyor.",
+          "group" : "Rauschenberg collection gift",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection"
+            }
+          ],
+          "titleTR" : "Robert Rauschenberg Vakfı, Tate ve İskoçya Ulusal Galerileri'ne üç heykel bağışladı"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
+          "category" : "Culture",
+          "descriptionTR" : "1980'lerin East Village sanat sahnesinin sevilen ismi Arch Connelly, Aspen Sanat Müzesi'nde düzenlenen bir sergiyle anılıyor. Connelly'nin teatral eserleri, arkadaşları ve ailesinden toplanan 50'den fazla eserle sergileniyor. Sergi, sanatçının eşsiz estetik duyarlılığına saygı duruşunda bulunuyor.",
+          "group" : "East Village artist revival",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum"
+            }
+          ],
+          "titleTR" : "Arch Connelly, Aspen Sanat Müzesi'nde anılıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
+          "category" : "Culture",
+          "descriptionTR" : "Ana Mendieta'nın en bilinen serisi Silueta, sanatçının doğadaki beden siluetlerini fotoğrafladığı ve filme aldığı eserlerden oluşuyor. Tate Modern'deki büyük ölçekli sergi, Mendieta'nın eserlerini tematik olarak keşfederek, sanatçının Neolitik sanat geleneğiyle olan ilişkisini vurguluyor.",
+          "group" : "Ana Mendieta survey",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey"
+            }
+          ],
+          "titleTR" : "Ana Mendieta'nın 'Neolitik sanatı' Tate Modern'de yeniden yaratıldı"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
+          "category" : "Culture",
+          "descriptionTR" : "Bogotá'daki Kolombiya Ulusal Müzesi, 2022-2026 yılları arasında iade edilen 1,194 Kolomb öncesi eseri sergiliyor. Sergi, Kolombiya'nın kültürel mirasını koruma çabalarının bir parçası olarak düzenleniyor. Eserler, 13 ülkeden geri getirilmiş ve çeşitli arkeolojik bölgelerden objeler içeriyor.",
+          "group" : "Pre-Columbian repatriation",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts"
+            }
+          ],
+          "titleTR" : "Bogotá'da 1000'den fazla iade edilen Kolomb öncesi eser sergileniyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
+          "category" : "Culture",
+          "descriptionTR" : "Bayeux Halısı, yaklaşık 1000 yıl sonra ilk kez İngiltere'ye dönerek British Museum'da sergilenecek. Halı, 1066 Norman istilasını ve Hastings Savaşı'nı tasvir ediyor. Sergi, halının İngiltere'ye geçişinin diplomatik bir güven ve dostluk jesti olduğunu vurguluyor.",
+          "group" : "Bayeux Tapestry loan",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing"
+            }
+          ],
+          "titleTR" : "Bayeux Halısı, gizli bir geçişle İngiltere'ye ulaştı"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
+          "category" : "Culture",
+          "descriptionTR" : "Audrey Amiss'in hayatı ve sanatı, Wellcome Collection'da düzenlenen bir sergiyle keşfediliyor. Amiss, kariyeri akıl hastalığı nedeniyle sekteye uğramış bir sanatçıydı. Sergi, Amiss'in eserlerini ve hayatını, onun sanatsal arzularını ve mahremiyetini saygıyla ele alıyor.",
+          "group" : "Art and mental illness",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness"
+            }
+          ],
+          "titleTR" : "Audrey Amiss'in hikayesi Wellcome Collection'da sergileniyor"
+        },
+        {
+          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
+          "category" : "Culture",
+          "descriptionTR" : "Marc Padeu'nun yeni eserleri, insanın zaman üzerindeki kontrolünün nafileliğini konu alıyor. 'Memento Vivere' sergisi, Kamerun'daki kakao plantasyonlarında geçen sahnelerle ilahi olayları bir araya getiriyor. Sergi, 17 Temmuz'dan 14 Ağustos'a kadar Londra'da görülebilir.",
+          "group" : "Cameroon religious painting",
+          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
+          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
+          "newsValue" : 2,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Colossal",
+              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/"
+            }
+          ],
+          "titleTR" : "Marc Padeu'nun 'Memento Vivere' sergisi Londra'da açılıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
+          "category" : "Culture",
+          "descriptionTR" : "Peter Marlow'un İngiltere'deki 42 Anglikan katedralini belgelediği 'The English Cathedral' sergisi, Londra'nın en eski Gotik kilisesi Southwark Katedrali'nde açılıyor. Sergi, 21 Temmuz'dan 31 Ağustos'a kadar ziyaret edilebilir.",
+          "group" : "English cathedral photography",
+          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
+          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Colossal",
+              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/"
+            }
+          ],
+          "titleTR" : "Peter Marlow'un 'The English Cathedral' sergisi Londra'da açılıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
+          "category" : "Culture",
+          "descriptionTR" : "Ana Mendieta'nın disiplinlerarası çalışmaları, Tate Modern'de açılan büyük ölçekli bir sergide yeniden ziyaret ediliyor. Sergi, sanatçının doğa ve toprakla olan empatik ilişkisini ve eserlerinin zamansızlığını vurguluyor.",
+          "group" : "Ana Mendieta survey",
+          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
+          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Colossal",
+              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/"
+            }
+          ],
+          "titleTR" : "Ana Mendieta'nın eserleri Tate Modern'de büyük bir sergide"
+        },
+        {
+          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
+          "category" : "Culture",
+          "descriptionTR" : "Jeongmin Lee, Kore kıyı folklorunu ve mitolojisini konu alan mürekkep illüstrasyonlarıyla dikkat çekiyor. Lee'nin eserleri, kadınların bilgeliği ve dayanıklılığı gibi temaları keşfederek, geleneksel hikayeleri yeni bir bakış açısıyla sunuyor.",
+          "group" : "Korean coastal folklore",
+          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
+          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Colossal",
+              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/"
+            }
+          ],
+          "titleTR" : "Jeongmin Lee'nin Kore kıyı folklorunu konu alan illüstrasyonları"
+        },
+        {
+          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
+          "category" : "Culture",
+          "descriptionTR" : "Helena Minginowicz, sıradan kağıt havluları kullanarak değer algımızı sorgulayan hassas tablolar yaratıyor. Sanatçı, Rönesans resimlerinin estetiğini kullanarak, her insanın hatırlanmaya değer olduğunu vurguluyor.",
+          "group" : "Material value paintings",
+          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
+          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Colossal",
+              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/"
+            }
+          ],
+          "titleTR" : "Helena Minginowicz, kağıt havluları eterik tablolara dönüştürüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
+          "category" : "Culture",
+          "descriptionTR" : "John Buck, ahşap paneller üzerine mürekkep ve kalemle çizdiği tuhaf manzaralarla tanınıyor. Sanatçının eserleri, tanıdık olanı spekülatif ve sembolik hale getirerek izleyicileri farklı dünyalara davet ediyor.",
+          "group" : "Folkloric landscape art",
+          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
+          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Colossal",
+              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/"
+            }
+          ],
+          "titleTR" : "John Buck'ın ahşap panellerdeki tuhaf manzaraları"
+        },
+        {
+          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
+          "category" : "Culture",
+          "descriptionTR" : "Andrew Salgado, yeni eserlerinde çiçek natürmortlarına odaklanıyor. Sanatçı, canlı renklerle dolu tuvalleriyle, çiçekleri farklı açılardan ve durumlarda sunarak izleyicilere enerjik bir deneyim yaşatıyor.",
+          "group" : "Gestural still life painting",
+          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
+          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-17T11:53:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Colossal",
+              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/"
+            }
+          ],
+          "titleTR" : "Andrew Salgado'nun çiçek natürmortları enerjiyle dolup taşıyor"
         }
       ],
-      "packetSpot" : "Ukrayna Devlet Başkanı Zelenskyy, Savunma Bakanı Mykhailo Fedorov'u görevden aldı; protestolar ve siyasi kargaşa başladı.",
-      "packetTitle" : "Savunma Bakanı'nın görevden alınması",
-      "publishedAt" : "2026-07-17T01:52:19Z",
+      "packetSpot" : "",
+      "packetTitle" : "Çeşitli sanat sergileri",
+      "publishedAt" : "2026-07-17T11:53:59Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
-      "illustrationName" : "E4BA0295-BB86-528E-A4D1-D18025D1F191.png",
+      "illustrationName" : "C68D20E9-A402-55BE-9A4D-CCD25C068CEC.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5894857\/wildfire-smoke-fires-ontario-minnesota",
-          "category" : "Environment",
-          "descriptionTR" : "Perşembe günü Kanada ve Minnesota'daki orman yangınları nedeniyle ABD'nin büyük bir kısmı turuncu gökyüzü ve yoğun dumanla kaplandı. Tehlikeli hava kalitesinin devam etmesi bekleniyor.",
-          "group" : "Wildfire smoke crisis",
-          "id" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5894857\/wildfire-smoke-fires-ontario-minnesota",
-          "link" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5894857\/wildfire-smoke-fires-ontario-minnesota",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
+          "category" : "Science",
+          "descriptionTR" : "Sotheby’s New York'ta düzenlenen beklenen bir açık artırmada, fosilleşmiş bir Tyrannosaurus rex iskeleti bu sabah (14 Temmuz) rekor 50,1 milyon dolara satıldı. 67 milyon yıllık \"Gus\", ön satış tahmininin çok üzerinde, 43 milyon dolara gizemli bir telefon alıcısına satıldı. Gus, Güney Dakota'daki bir çiftlikte üç yıllık kazı çalışmaları sonucunda bulundu ve iskeletin %61'i kemik sayısına göre tamamlanmış durumda. Satış, özel bireylere yapılan bu tür olağanüstü örneklerin bilimsel araştırmalar için erişilebilirliğini sınırlayabileceği endişesiyle tartışmalara yol açtı.",
+          "group" : "Fossil auction record",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T11:53:59Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "NPR News",
-              "url" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5894857\/wildfire-smoke-fires-ontario-minnesota"
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys"
             }
           ],
-          "titleTR" : "Tehlikeli orman yangını dumanı ABD'nin bazı bölgelerini kapladı"
+          "titleTR" : "Gus adlı T-Rex, Sotheby’s'te rekor fiyata satıldı"
         },
         {
-          "atomID" : "https:\/\/www.france24.com\/en\/tv-shows\/a-propos\/20260716-canadian-wildfire-sends-hazardous-smoke-spewing-into-us",
-          "category" : "Environment",
-          "descriptionTR" : "FRANCE 24'ten Yinka Oyetade, Kanada Orman Servisi'nden Araştırmacı Jonathan Boucher ile orman yangınlarını yönetmek ve önlemek için gereken önlemler hakkında konuşuyor. Ontario, Perşembe günü orman yangınlarıyla harap olan uzak kuzey Kanada topluluklarından insanları tahliye etmek için federal yardım talep etti. Duman, Toronto ve ABD'nin kuzeydoğusuna kötü hava kalitesi getirdi.",
-          "group" : "Canada wildfire smoke",
-          "id" : "https:\/\/www.france24.com\/en\/tv-shows\/a-propos\/20260716-canadian-wildfire-sends-hazardous-smoke-spewing-into-us",
-          "link" : "https:\/\/www.france24.com\/en\/tv-shows\/a-propos\/20260716-canadian-wildfire-sends-hazardous-smoke-spewing-into-us",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
+          "category" : "Science",
+          "descriptionTR" : "Sotheby’s, Virgil Abloh Vakfı ile iş birliği yaparak, ünlü tasarımcının 2015 yılında yaptığı nadir baskı setlerini açık artırmaya çıkardı. Satıştan elde edilecek gelir, Abloh’un mezun olduğu Wisconsin-Madison Üniversitesi'nde burs fonuna aktarılacak. Abloh’un sanat ve tasarım alanındaki geniş etkisi, bu tür eserlerin koleksiyoncular için cazip hale gelmesini sağlıyor. Baskılar, Sotheby’s New York'ta sergilendi ve açık artırma 7 Temmuz'da başladı.",
+          "group" : "Virgil Abloh estate sale",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-17T11:53:59Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "France 24 World",
-              "url" : "https:\/\/www.france24.com\/en\/tv-shows\/a-propos\/20260716-canadian-wildfire-sends-hazardous-smoke-spewing-into-us"
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships"
             }
           ],
-          "titleTR" : "Kanada'daki orman yangını tehlikeli dumanı ABD'ye gönderiyor"
-        },
-        {
-          "atomID" : "https:\/\/www.france24.com\/en\/canada-s-air-ranks-as-worst-in-the-world-due-to-wildfire-smoke",
-          "category" : "Environment",
-          "descriptionTR" : "Kanada'da 835 aktif orman yangını bulunuyor ve bunlardan 112'si kontrolsüz şekilde yanıyor. Duman, tehlikeli hava kalitesi koşullarına neden oldu ve Toronto sakinlerine mümkünse içeride kalmaları uyarısı yapıldı. ABD yetkilileri, dumanın ülkenin kuzeydoğu kısmına yayılabileceğinden ve New Jersey'de düzenlenen dünya kupası finalini etkileyebileceğinden endişe ediyor.",
-          "group" : "Canada wildfire smoke",
-          "id" : "https:\/\/www.france24.com\/en\/canada-s-air-ranks-as-worst-in-the-world-due-to-wildfire-smoke",
-          "link" : "https:\/\/www.france24.com\/en\/canada-s-air-ranks-as-worst-in-the-world-due-to-wildfire-smoke",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "France 24 World",
-              "url" : "https:\/\/www.france24.com\/en\/canada-s-air-ranks-as-worst-in-the-world-due-to-wildfire-smoke"
-            }
-          ],
-          "titleTR" : "Kanada'nın havası orman yangını dumanı nedeniyle dünyanın en kötüsü olarak sıralandı"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/16\/smoke-canadian-wildfires-air-quality",
-          "category" : "Environment",
-          "descriptionTR" : "Güney-Orta Kanada ve Minnesota'da yanan orman yangınlarından çıkan duman ABD genelinde yayılıyor ve 20'den fazla eyalette hava kalitesi uyarılarına neden oluyor. Milyonlarca Amerikalının bu hafta sağlıksız hava koşullarıyla karşılaşması bekleniyor. Kuzey Ontario'daki 180'den fazla aktif orman yangınından çıkan duman, Perşembe akşamı Chicago'nun hava kalitesini dünyanın en kötüsü yaptı, ardından Detroit ve Minneapolis geldi.",
-          "group" : "North America wildfire smoke",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/16\/smoke-canadian-wildfires-air-quality",
-          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/16\/smoke-canadian-wildfires-air-quality",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian World",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/16\/smoke-canadian-wildfires-air-quality"
-            }
-          ],
-          "titleTR" : "Kanada orman yangınlarından çıkan dumanla 20 ABD eyaletinde hava kalitesi düştü"
+          "titleTR" : "Sotheby’s, Virgil Abloh Vakfı ile nadir baskıların satışını gerçekleştirdi"
         }
       ],
-      "packetSpot" : "Kanada'daki orman yangınlarından çıkan duman, ABD ve Kanada'nın bazı bölgelerinde hava kalitesini ciddi şekilde etkiledi.",
-      "packetTitle" : "Orman yangını dumanının etkisi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
+      "packetSpot" : "Sotheby's, iki dikkat çekici açık artırmaya ev sahipliği yaptı. İlki, \"Gus\" adlı Tyrannosaurus rex iskeletinin rekor bir fiyatla 50,1 milyon dolara satılmasıydı. Bu satış, bilimsel araştırmalar için erişilebilirlik konusunda tartışmalara yol açtı. İkinci açık artırma ise, Virgil Abloh Vakfı ile iş birliği içinde nadir baskıların satışıydı. Bu satıştan elde edilen gelir, Wisconsin-Madison Üniversitesi'nde burs fonuna aktarılacak. Her iki açık artırma da, satılan öğelerin ticari ve kültürel önemini vurguluyor.",
+      "packetTitle" : "Sotheby's sahnesinde dikkat çeken açık artırmalar",
+      "publishedAt" : "2026-07-17T11:53:59Z",
       "sessionID" : "publish-draft",
       "slot" : 2
-    },
-    {
-      "illustrationName" : "E9CE3D9A-3567-5D91-A734-E19A42ED79DA.png",
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.abc.net.au\/news\/2026-07-16\/world-cup-2026-argentina-players-hold-up-falklands-banner\/106921272",
-          "category" : "Sports",
-          "descriptionTR" : "Arjantinli futbolcular, 2026 Dünya Kupası'nda İngiltere'yi yendikten sonra 'Falkland Adaları Arjantin'indir' yazılı bir pankart açtı.",
-          "group" : "Falklands football dispute",
-          "id" : "https:\/\/www.abc.net.au\/news\/2026-07-16\/world-cup-2026-argentina-players-hold-up-falklands-banner\/106921272",
-          "link" : "https:\/\/www.abc.net.au\/news\/2026-07-16\/world-cup-2026-argentina-players-hold-up-falklands-banner\/106921272",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "ABC Australia News",
-              "url" : "https:\/\/www.abc.net.au\/news\/2026-07-16\/world-cup-2026-argentina-players-hold-up-falklands-banner\/106921272"
-            }
-          ],
-          "titleTR" : "Arjantinli yıldızlar İngiltere zaferi sonrası Falkland pankartı açtı"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/football\/2026\/jul\/15\/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-          "category" : "Sports",
-          "descriptionTR" : "• Pankart, 1982 Falkland Adaları çatışmasına atıfta bulunuyor\n• İngiltere iş dünyası sekreteri FIFA soruşturması çağrısında bulundu\nArjantinli futbolcular, İngiltere'yi yendikleri Dünya Kupası zaferini “Las Malvinas son Argentinas” yazılı pankartla kutladı, bu da 1982 Falkland Savaşı'na atıfta bulunuyor. Arjantin, Atlanta'daki yarı finalde son beş dakikada 1-0 gerideyken toparlanarak hızlı bir şekilde iki gol attı ve pazar günü New Jersey'de İspanya ile karşılaşacakları ikinci Dünya Kupası finaline ulaştı.",
-          "group" : "Falklands football row",
-          "id" : "https:\/\/www.theguardian.com\/football\/2026\/jul\/15\/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-          "link" : "https:\/\/www.theguardian.com\/football\/2026\/jul\/15\/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian World",
-              "url" : "https:\/\/www.theguardian.com\/football\/2026\/jul\/15\/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner"
-            }
-          ],
-          "titleTR" : "‘Malvinas Arjantin'indir’: Dünya Kupası sahipleri İngiltere zaferini Falkland pankartıyla kutladı"
-        },
-        {
-          "atomID" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/15\/argentina-england-match-falkland-islands\/",
-          "category" : "Sports",
-          "descriptionTR" : "FBI, Çarşamba günü İngiltere ve Arjantin arasındaki Dünya Kupası yarı finalini, takımların yoğun rekabeti ve Falkland Adaları üzerindeki acı dolu geçmişi nedeniyle turnuvanın en büyük güvenlik riski olarak görüyor. İki takım Atlanta, Georgia'da karşı karşıya gelirken, kazananlar New Jersey'de İspanya ile finalde karşılaşacak. The Mirror, FBI, FIFA ve Atlanta emniyet yetkililerinin, taraftarlar arasında ortaya çıkabilecek potansiyel sorunları ele almak için Pazartesi günü bir araya geldiğini bildirdi. Atlanta'daki maç için organizatörler, taraftarlar için ayrı giriş noktaları belirleyecek. The Times'a göre, Arjantin taraftarlarının stadyum kompleksinin bir bölümüne topluca gelmelerini sağlamak için bir taraftar yürüyüşü düzenleme önerisi de vardı. Ancak taraftarlar, 75.000 kişilik stadyumda karışabilecekler. İngiltere ve Arjantin arasındaki rekabet futbol sahasının ötesine uzanıyor. 1982'de Arjantin, Atlantik Okyanusu'ndaki bir İngiliz Denizaşırı Toprağı olan Falkland Adaları'nı işgal etti ve 10 haftalık bir savaşta 900'den fazla kişi öldü ve bu savaş İngiltere'nin kesin zaferiyle sona erdi. İsviçre'yi yendikten sonra Arjantinli futbolcular soyunma odasına çekilip “Malvinas için, Diego için, Leo'nun sonuncusu için” satırlarını içeren bir şarkı söylediler – Falkland Adaları, Diego Maradona ve Lionel Messi'ye atıfta bulunarak. Maradona, 1986 Dünya Kupası çeyrek finalinde İngiltere'ye karşı eliyle gol atmıştı. Gol kabul edildi ve Arjantin maçı 2-1 kazandı. Bu hafta, Arjantin Dışişleri Bakanı Pablo Quirno, La Nacion'da bir makale yazarak ülkesinin Falkland Adaları üzerindeki iddiasını yeniden teyit etti, 2013 referandumunu reddetti ve egemenliğin sakinleri tarafından belirlenemeyeceğini savundu. İngiltere Başbakanı Keir Starmer ise “ada sakinleri defalarca İngiliz denizaşırı toprağı olarak kalmak istediklerini ifade ettiler ve kendi kaderini tayin hakkı esastır” dedi. Arjantin'in teknik direktörü ise odağı futbolda tutmaya kararlı görünüyor. “Arjantin halkına mesajım, bunun bir futbol maçı olduğu” diyor Lionel Scaloni. “Harika bir takım ve harika bir teknik direktörle karşılaşacağız, ama bu sadece bir futbol maçı, bundan başka bir şey değil.”",
-          "group" : "Argentina England security",
-          "id" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/15\/argentina-england-match-falkland-islands\/",
-          "link" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/15\/argentina-england-match-falkland-islands\/",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The National News",
-              "url" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/15\/argentina-england-match-falkland-islands\/"
-            }
-          ],
-          "titleTR" : "FBI: Arjantin-İngiltere Dünya Kupası maçı yoğun rekabet ve Falkland Adaları iddiaları nedeniyle yüksek riskli"
-        },
-        {
-          "atomID" : "https:\/\/www.koreaherald.com\/article\/10811177",
-          "category" : "Sports",
-          "descriptionTR" : "Arjantin, İngiltere'yi 2-1 yendiği Dünya Kupası yarı final zaferinin ardından tartışmalı Falkland Adaları hakkında siyasi bir mesaj içeren pankart göstermesi nedeniyle FIFA'dan disiplin cezası alabilir. Arjantin, Çarşamba günü Atlanta, Georgia'daki Mercedes-Benz Stadyumu'nda İngiltere'yi dramatik bir geri dönüşle mağlup etti. İngiltere öne geçtikten sonra Arjantinli orta saha oyuncusu Enzo Fernandez 85. dakikada eşitliği sağladı ve Lautaro Martinez uzatma dakikalarında galibiyet golünü attı. Tartışma, fi",
-          "group" : "Argentina FIFA controversy",
-          "id" : "https:\/\/www.koreaherald.com\/article\/10811177",
-          "link" : "https:\/\/www.koreaherald.com\/article\/10811177",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Korea Herald",
-              "url" : "https:\/\/www.koreaherald.com\/article\/10811177"
-            }
-          ],
-          "titleTR" : "Arjantin, Falkland pankartı nedeniyle FIFA yaptırımlarıyla karşı karşıya"
-        }
-      ],
-      "packetSpot" : "Arjantin'in İngiltere'yi yendiği Dünya Kupası zaferi, Falkland Adaları hakkında siyasi bir pankartın gösterilmesiyle gölgelendi.",
-      "packetTitle" : "Dünya Kupası'nda Arjantin'in pankart krizi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 3
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss",
-          "category" : "Health",
-          "descriptionTR" : "Uganda, son hastasını taburcu ederken, DSÖ, DRC'deki Ebola'nın 'önceki salgınlardan daha hızlı yayıldığını' belirtiyor.",
-          "group" : "Ebola outbreak DRC",
-          "id" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss",
-          "link" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Al Jazeera English",
-              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss"
-            }
-          ],
-          "titleTR" : "Ebola DRC'de hızla yayılırken, Uganda virüsten neredeyse arınmış durumda"
-        },
-        {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-          "category" : "Health",
-          "descriptionTR" : "Dünya Sağlık Örgütü (DSÖ), Bundibugyo virüsü (BDBV) için ilk moleküler tanı testini Acil Kullanım Listesi'ne (EUL) ekledi. Test, virüsü kan örneklerinde genetik materyalini tespit ederek hızlı ve doğru bir şekilde doğruluyor. DSÖ, bu mekanizma aracılığıyla erken vaka tespiti, zamanında klinik bakım, hastalık gözetimi ve etkili salgın müdahalesi için güvenilir tanı araçlarına erişimi hızlandırmayı amaçlıyor.",
-          "group" : "Ebola Bundibugyo response",
-          "id" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-          "link" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing"
-            }
-          ],
-          "titleTR" : "DSÖ, Ebola Bundibugyo virüsü için ilk tanı testini Acil Kullanım Listesi'ne ekledi"
-        },
-        {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
-          "category" : "Health",
-          "descriptionTR" : "Demokratik Kongo Cumhuriyeti, Bundibugyo virüsünün neden olduğu bir Ebola salgınıyla mücadele ederken, Dünya Sağlık Örgütü (DSÖ), tüm Ebola ve Marburg virüs türlerini içeren filovirüs hastalığının klinik yönetimi için ilk kapsamlı kılavuzlarını yayımladı. Yeni kılavuzlar, hasta sağkalımını ve sağlık sonuçlarını iyileştirmek için erken destekleyici bakımın önemini vurguluyor.",
-          "group" : "Filovirus clinical guidance",
-          "id" : "https:\/\/www.who.int\/news\/item\/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
-          "link" : "https:\/\/www.who.int\/news\/item\/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/17-06-2026-who-issues-comprehensive-guidelines-on-filovirus-disease--including-ebola-and-marburg-disease"
-            }
-          ],
-          "titleTR" : "DSÖ, filovirüs hastalığı üzerine kapsamlı kılavuzlar yayımladı"
-        },
-        {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
-          "category" : "Health",
-          "descriptionTR" : "Demokratik Kongo Cumhuriyeti (DKC) hükümeti ve Dünya Sağlık Örgütü (DSÖ), Ituri Eyaleti ve ülke genelinde halkın sağlığını koruma konusundaki güçlü ortaklıklarını ve paylaşılan taahhütlerini yeniden teyit ediyor. DKC hükümeti, DSÖ ve ortaklarıyla birlikte, salgının yayılmasını hızla durdurmak için gözetim, laboratuvar testleri ve hasta bakımını yoğunlaştırıyor.",
-          "group" : "",
-          "id" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
-          "link" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus"
-            }
-          ],
-          "titleTR" : "Demokratik Kongo Cumhuriyeti hükümeti ve DSÖ'den Bundibugyo virüsü kaynaklı Ebola salgınına dair ortak açıklama"
-        }
-      ],
-      "packetSpot" : "DSÖ ve ortakları, Demokratik Kongo Cumhuriyeti'ndeki Ebola salgınına karşı çabalarını yoğunlaştırıyor.",
-      "packetTitle" : "Ebola'nın peşinde",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 4
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-ice-maine-shooting-vehicle-order\/687927\/?utm_source=feed",
-          "category" : "Security",
-          "descriptionTR" : "Başkan Trump, bu sabah Göçmenlik ve Gümrük Muhafaza memurlarına, kamuoyunda tepki çeken ve ICE memurlarının bir hafta içinde gerçekleştirdiği iki ölümcül silahlı saldırı sonrası araç durdurmalarını askıya alan iç yazıya aldırış etmemeleri gerektiğini bildirdi. Trump, kendi emirlerini veriyordu. Trump, Truth Social ağında \"ICE'in en önemli ve etkili suçla mücadele araçlarından biri olan TRAFİK DURDURMAYI asla bırakmamalıyız!\" diye yazdı. Trump, MAGA tabanından gelen yoğun tepkiler üzerine ICE'in araç durdurmalarını askıya alma kararını geri aldı. Trump, ICE'in araç durdurmalarını askıya almasının onları zayıf göstereceğini düşündü. İç Güvenlik Bakanı Markwayne Mullin, Maine'de ICE memurunun 26 yaşındaki Joan Sebastian Guerrero'yu öldürmesinin ardından araç durdurmalarını askıya alma emri vermişti. Ancak Trump, bu kararı geri aldı ve ICE memurlarının araç durdurmalarına devam etmesini sağladı.",
-          "group" : "ICE traffic stop reversal",
-          "id" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-ice-maine-shooting-vehicle-order\/687927\/?utm_source=feed",
-          "link" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-ice-maine-shooting-vehicle-order\/687927\/?utm_source=feed",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Atlantic",
-              "url" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-ice-maine-shooting-vehicle-order\/687927\/?utm_source=feed"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "NPR News",
-              "url" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5896396\/ice-traffic-stops-shootings"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Anadolu Agency English",
-              "url" : "https:\/\/www.aa.com.tr\/en\/americas\/white-house-says-ice-vehicle-stops-to-continue-despite-deadly-encounters\/4000741"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/07\/15\/ice-should-continue-traffic-stops-after-shootings-trump-says-apparently-contradicting-new-"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Japan Times",
-              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/16\/world\/trump-ice-traffic-maine-killing\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Korea Herald",
-              "url" : "https:\/\/www.koreaherald.com\/article\/10811116"
-            }
-          ],
-          "titleTR" : "Trump'ın ICE kararını geri almasının perde arkası"
-        }
-      ],
-      "packetSpot" : "Trump yönetimi, ICE memurlarının ölümcül silahlı saldırılarının ardından trafik durdurmalarını durdurma kararını geri aldı. Karar, kamuoyundan gelen tepkiler ve iç baskılar sonucu alındı.",
-      "packetTitle" : "ICE duraklaması iptal: Trump geri adım attı",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 5
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.politico.com\/news\/2026\/07\/16\/us-strikes-iran-sixth-day-01001525?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "category" : "Security",
-          "descriptionTR" : "Beyaz Saray, barış anlaşmasının hâlâ mümkün olduğunu söylerken, ABD güçleri İran'a altı gündür aralıksız saldırı düzenliyor. ABD Merkez Komutanlığı'na göre, Perşembe günü saat 14:00'te gerçekleşen yeni saldırılar, İran'ın askeri kapasitesini daha da zayıflatmayı hedefliyor. Bu saldırılar, ABD'nin Hürmüz Boğazı'nda İran gemilerine yönelik ablukayı yeniden uygulamaya koymasıyla eş zamanlı olarak gerçekleşiyor. Beyaz Saray Basın Sözcüsü Karoline Leavitt, İran'ın geçen ay imzalanan mutabakat zaptını ihlal ettiğini belirterek, bu saldırıların misilleme olduğunu söyledi.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.politico.com\/news\/2026\/07\/16\/us-strikes-iran-sixth-day-01001525?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "link" : "https:\/\/www.politico.com\/news\/2026\/07\/16\/us-strikes-iran-sixth-day-01001525?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-          "newsValue" : 9,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "POLITICO Europe",
-              "url" : "https:\/\/www.politico.com\/news\/2026\/07\/16\/us-strikes-iran-sixth-day-01001525?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNA",
-              "url" : "https:\/\/www.channelnewsasia.com\/world\/us-strikes-iran-war-airport-bridges-railway-6259721"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Hill",
-              "url" : "https:\/\/thehill.com\/policy\/defense\/5972472-us-military-iran-airstrikes\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Hill",
-              "url" : "https:\/\/thehill.com\/policy\/defense\/5971315-trump-resumes-hostilities-tehran\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CBC World",
-              "url" : "https:\/\/www.cbc.ca\/news\/world\/iran-us-strikes-strait-hormuz-9.7273067?cmp=rss"
-            }
-          ],
-          "titleTR" : "ABD, İran'a altı gündür saldırıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.aa.com.tr\/en\/us-israel-iran-war\/us-strike-damages-iranshahr-airport-in-southeastern-iran\/4000865",
-          "category" : "Security",
-          "descriptionTR" : "Sistan ve Belucistan Eyaleti'ndeki havalimanına yapılan saldırıda bir kişi yaralandı, elektrik tesisleri ve yakıt tankı zarar gördü.",
-          "group" : "Iran Gulf escalation",
-          "id" : "https:\/\/www.aa.com.tr\/en\/us-israel-iran-war\/us-strike-damages-iranshahr-airport-in-southeastern-iran\/4000865",
-          "link" : "https:\/\/www.aa.com.tr\/en\/us-israel-iran-war\/us-strike-damages-iranshahr-airport-in-southeastern-iran\/4000865",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Anadolu Agency English",
-              "url" : "https:\/\/www.aa.com.tr\/en\/us-israel-iran-war\/us-strike-damages-iranshahr-airport-in-southeastern-iran\/4000865"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Anadolu Agency English",
-              "url" : "https:\/\/www.aa.com.tr\/en\/live-blog\/iranian-army-says-it-targeted-us-military-base-in-bahrain-with-drone-strike\/5421"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Anadolu Agency English",
-              "url" : "https:\/\/www.aa.com.tr\/en\/middle-east\/us-strikes-hit-bridges-as-attacks-intensify-across-southern-iran\/4000733"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Al Jazeera English",
-              "url" : "https:\/\/www.aljazeera.com\/news\/liveblog\/2026\/7\/16\/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Al Jazeera English",
-              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News World",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News World",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyqwkegqk0o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "ABD saldırısı, İranşehr Havalimanı'na zarar verdi"
-        },
-        {
-          "atomID" : "https:\/\/asiatimes.com\/2026\/07\/donald-trump-is-running-out-of-options-in-iran\/",
-          "category" : "Security",
-          "descriptionTR" : "ABD ve İran arasındaki ciddi düşmanlıklar yeniden başladı. Donald Trump, 8 Temmuz'da iki ülke arasında Haziran ayında varılan ateşkesin sona erdiğini açıkladı. O zamandan beri, ABD ordusuna İran'a yoğun hava saldırıları düzenleme emri verdi ve ülkeye ekonomik ablukayı yeniden uygulamaya koydu.",
-          "group" : "Iran US confrontation",
-          "id" : "https:\/\/asiatimes.com\/2026\/07\/donald-trump-is-running-out-of-options-in-iran\/",
-          "link" : "https:\/\/asiatimes.com\/2026\/07\/donald-trump-is-running-out-of-options-in-iran\/",
-          "newsValue" : 9,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Asia Times",
-              "url" : "https:\/\/asiatimes.com\/2026\/07\/donald-trump-is-running-out-of-options-in-iran\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Asia Times",
-              "url" : "https:\/\/asiatimes.com\/2026\/07\/why-iran-shut-hormuz-after-decades-of-holding-back\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "RFI Monde",
-              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260715-us-launches-new-iran-strikes-reimposes-naval-blockade"
-            }
-          ],
-          "titleTR" : "Donald Trump'ın İran'da seçenekleri tükeniyor"
-        },
-        {
-          "atomID" : "https:\/\/www.france24.com\/en\/as-the-war-rekindles-what-options-are-left-to-the-us-and-iran",
-          "category" : "Security",
-          "descriptionTR" : "ABD ve İran, Hürmüz Boğazı'nın kontrolü için karşılıklı saldırılara yeniden başladı. Bu durum, çatışmayı sona erdirmek için imzalanan ön anlaşmadan bir ay sonra gerçekleşiyor. Kuveyt ve Bahreyn, İran'ın Körfez'deki ABD askeri üslerini hedef aldığını söylemesiyle yeniden hava saldırılarına maruz kaldı. Ancak bu çatışma ne kadar sürebilir? FRANCE 24'ten Angela Diffley daha fazla bilgi veriyor.",
-          "group" : "US Iran strikes",
-          "id" : "https:\/\/www.france24.com\/en\/as-the-war-rekindles-what-options-are-left-to-the-us-and-iran",
-          "link" : "https:\/\/www.france24.com\/en\/as-the-war-rekindles-what-options-are-left-to-the-us-and-iran",
-          "newsValue" : 9,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "France 24 World",
-              "url" : "https:\/\/www.france24.com\/en\/as-the-war-rekindles-what-options-are-left-to-the-us-and-iran"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "France 24 World",
-              "url" : "https:\/\/www.france24.com\/en\/middle-east\/20260716-middle-east-live-us-strikes-in-iran-hit-airport-bridges-and-railway-station"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/07\/15\/us-resumes-daylight-strikes-on-iran-as-tensions-escalate-over-strait-of-hormuz"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/07\/16\/tehran-vows-to-crush-regional-infrastructure-if-us-hits-iranian-sites"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/07\/16\/us-strikes-around-tehran-for-first-time-in-most-recent-wave-of-attacks-says-iranian-state-"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/07\/15\/iran-launches-strikes-on-neighbours-as-us-resumes-blockade-and-trump-threatens-to-hit-powe"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/07\/14\/us-iran-conflict-widens-after-deadly-tanker-attack-in-strait-of-hormuz"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/07\/14\/us-strikes-bushehr-as-irans-parliament-tables-bill-to-control-hormuz"
-            }
-          ],
-          "titleTR" : "Savaş yeniden alevlenirken ABD ve İran'ın seçenekleri neler?"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "ABD ve İran arasında gerilim tırmanıyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 6
-    },
-    {
-      "items" : [
-
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Suriye'de silah sevkiyatı iddiası",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 7
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-ice-maine-shooting-vehicle-order\/687927\/?utm_source=feed",
-          "category" : "Security",
-          "descriptionTR" : "Başkan Trump, bu sabah Göçmenlik ve Gümrük Muhafaza memurlarına, iki ICE memurunun bir haftadan kısa bir süre içinde karıştığı ölümcül ateşlemeler nedeniyle araç durdurmalarını askıya almalarını söyleyen iç yazıyı dikkate almamaları gerektiğini bildirdi. Trump, kendi emirlerini vererek, \"ICE'in en önemli ve etkili suçla mücadele araçlarından biri olan TRAFİK DURDURMALARINDAN vazgeçemeyiz!\" dedi. Trump, MAGA tabanından gelen yoğun tepkiler üzerine ICE'in araç durdurmalarını askıya alan kararını geri çekti. Beyaz Saray yetkilileri, Trump'ın son günlerde sert müttefiklerinden gelen şikayetleri duyduğunu belirtti. Trump, ICE'in şimdi trafik durdurmalarından vazgeçmesinin onları zayıf göstereceğine karar verdi. İç Güvenlik Bakanı Markwayne Mullin, Maine'de bir ICE memurunun 26 yaşındaki Kolombiyalı teslimat şoförü Joan Sebastian Guerrero'yu öldürmesinin ardından araç durdurmalarını askıya alma emri vermişti. Ancak Trump, bu kararı geri çevirerek ICE memurlarının durdurmalarına devam etmesini sağladı.",
-          "group" : "ICE traffic stop reversal",
-          "id" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-ice-maine-shooting-vehicle-order\/687927\/?utm_source=feed",
-          "link" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-ice-maine-shooting-vehicle-order\/687927\/?utm_source=feed",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Atlantic",
-              "url" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-ice-maine-shooting-vehicle-order\/687927\/?utm_source=feed"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "NPR News",
-              "url" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5896396\/ice-traffic-stops-shootings"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Anadolu Agency English",
-              "url" : "https:\/\/www.aa.com.tr\/en\/americas\/white-house-says-ice-vehicle-stops-to-continue-despite-deadly-encounters\/4000741"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/2026\/07\/15\/ice-should-continue-traffic-stops-after-shootings-trump-says-apparently-contradicting-new-"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Tagesschau",
-              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/ice-trump-verkehrskontrollen-100.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Korea Herald",
-              "url" : "https:\/\/www.koreaherald.com\/article\/10811116"
-            }
-          ],
-          "titleTR" : "Trump'ın ICE kararındaki geri dönüş"
-        }
-      ],
-      "packetSpot" : "Trump yönetimi, son dönemdeki ölümcül ICE ateşlemelerine rağmen trafik durdurmalarını sürdürme kararı aldı. Başkan Trump, durdurma kararını geri çevirerek bu uygulamanın göçmenlik denetimi için önemini vurguladı.",
-      "packetTitle" : "Trump ICE durdurmalarını sürdürüyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 8
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/torrential-rains-trigger-rescues-evacuations-and-more-flood-warnings-in-texas.html",
-          "category" : "Environment",
-          "descriptionTR" : "Vali Greg Abbott, 2025'te Guadalupe Nehri'nin taşmasıyla yaşanan trajediden hâlâ toparlanmaya çalışan bölgede bir kişinin öldüğünü bildirdi. Teksas Hill Country'de birkaç gün süren şiddetli yağışlar nehir ve derelerin taşmasına neden oldu ve büyük çaplı kurtarma ve tahliye operasyonları başlatıldı. The Associated Press'e göre, acil durum ekipleri Perşembe sabahının erken saatlerinden itibaren hızla yükselen su seviyeleri nedeniyle mahsur kalan insanlara yardım etmek için çalışıyor. Yetkililer, onlarca ilçede uyarıları sürdürüyor.",
-          "group" : "Texas flood emergency",
-          "id" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/torrential-rains-trigger-rescues-evacuations-and-more-flood-warnings-in-texas.html",
-          "link" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/torrential-rains-trigger-rescues-evacuations-and-more-flood-warnings-in-texas.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "El País",
-              "url" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/torrential-rains-trigger-rescues-evacuations-and-more-flood-warnings-in-texas.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News World",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Şiddetli yağışlar Teksas'ta kurtarma ve tahliye operasyonlarını tetikledi"
-        },
-        {
-          "atomID" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5896458\/flood-sirens-texas-rivers-reach-dangerous-heights",
-          "category" : "Environment",
-          "descriptionTR" : "Comfort, Teksas'ta Perşembe sabahı erken saatlerde sel sirenleri çaldı. ABD Jeolojik Araştırmalar Kurumu'na göre, Guadalupe Nehri üç saat içinde 30 feet'ten fazla yükseldi. Fırtınanın, geçen yılki ölümcül 4 Temmuz selinden daha fazla yağış getirebileceği belirtiliyor.",
-          "group" : "Texas flood emergency",
-          "id" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5896458\/flood-sirens-texas-rivers-reach-dangerous-heights",
-          "link" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5896458\/flood-sirens-texas-rivers-reach-dangerous-heights",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "NPR News",
-              "url" : "https:\/\/www.npr.org\/2026\/07\/16\/nx-s1-5896458\/flood-sirens-texas-rivers-reach-dangerous-heights"
-            }
-          ],
-          "titleTR" : "Güney Orta Teksas'ta sel sirenleri çalıyor, nehirler tehlikeli seviyelere ulaşıyor"
-        }
-      ],
-      "packetSpot" : "Teksas'ta şiddetli sel felaketi, bildirildiğine göre can kayıplarına yol açtı ve geniş çaplı kurtarma ve tahliye çabalarını tetikledi. Bölge, önceki sel felaketlerinden hâlâ toparlanmaya çalışırken, tarihi yağışlar ve yükselen nehir seviyeleriyle karşı karşıya.",
-      "packetTitle" : "Teksas'ta sel tehdidi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 9
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.france24.com\/en\/zero-tolerance-for-forest-arsonists-macron-promises-firefighters",
-          "category" : "Environment",
-          "descriptionTR" : "Fransa Cumhurbaşkanı Emmanuel Macron, Paris yakınlarındaki Fontainebleau'yu ziyaret etti. Yangınlar, 20 bin hektarlık ormanın en az %10'unu küle çevirdi. Macron, yangının tamamen söndürülmesinin haftalar alabileceğini belirtti ve tarihi alanı yeniden ağaçlandırma sözü verdi. Bu arada, gönüllü bir itfaiyecinin de aralarında bulunduğu birkaç kişi gözaltına alındı ve gönüllü itfaiyeci hakkında resmi soruşturma başlatıldı.",
-          "group" : "French wildfire arson",
-          "id" : "https:\/\/www.france24.com\/en\/zero-tolerance-for-forest-arsonists-macron-promises-firefighters",
-          "link" : "https:\/\/www.france24.com\/en\/zero-tolerance-for-forest-arsonists-macron-promises-firefighters",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "France 24 World",
-              "url" : "https:\/\/www.france24.com\/en\/zero-tolerance-for-forest-arsonists-macron-promises-firefighters"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "RFI Monde",
-              "url" : "https:\/\/www.rfi.fr\/en\/france\/20260716-macron-toughens-stance-on-arson-as-wildfires-sweep-france"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "RFI Monde",
-              "url" : "https:\/\/www.rfi.fr\/en\/france\/20260715-firefighters-tackle-flare-ups-in-fontainebleau-forest-after-fires-brought-under-control"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "RFI Monde",
-              "url" : "https:\/\/www.rfi.fr\/en\/france\/20260714-france-fifty-nine-arrested-over-wildfires-two-for-fontainebleau-forest-blaze-near-paris"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News World",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Macron'dan orman kundakçılarına 'sıfır tolerans' sözü"
-        },
-        {
-          "atomID" : "https:\/\/www.lemonde.fr\/en\/politics\/article\/2026\/07\/17\/every-time-a-fire-breaks-out-it-is-our-national-territory-that-is-under-attack-in-fontainebleau-macron-shows-support-for-firefighters-and-responds-to-criticism_6755555_5.html",
-          "category" : "Environment",
-          "descriptionTR" : "Fransa Cumhurbaşkanı, alevlerin kısmen tahrip ettiği tarihi ormanı Perşembe günü ziyaret etti. Bu vesileyle yangına müdahale edenlerin çabalarını övdü ve hükümetinin sivil güvenlik konusundaki sicilini savundu.",
-          "group" : "France wildfire response",
-          "id" : "https:\/\/www.lemonde.fr\/en\/politics\/article\/2026\/07\/17\/every-time-a-fire-breaks-out-it-is-our-national-territory-that-is-under-attack-in-fontainebleau-macron-shows-support-for-firefighters-and-responds-to-criticism_6755555_5.html",
-          "link" : "https:\/\/www.lemonde.fr\/en\/politics\/article\/2026\/07\/17\/every-time-a-fire-breaks-out-it-is-our-national-territory-that-is-under-attack-in-fontainebleau-macron-shows-support-for-firefighters-and-responds-to-criticism_6755555_5.html",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Le Monde International",
-              "url" : "https:\/\/www.lemonde.fr\/en\/politics\/article\/2026\/07\/17\/every-time-a-fire-breaks-out-it-is-our-national-territory-that-is-under-attack-in-fontainebleau-macron-shows-support-for-firefighters-and-responds-to-criticism_6755555_5.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Le Monde International",
-              "url" : "https:\/\/www.lemonde.fr\/en\/france\/article\/2026\/07\/16\/macron-vows-zero-tolerance-for-arson-after-worse-wildfire-season-since-1945_6755541_7.html"
-            }
-          ],
-          "titleTR" : "Macron, Fontainebleau'da itfaiyecilere destek verdi ve eleştirilere yanıt verdi"
-        }
-      ],
-      "packetSpot" : "Fransa Cumhurbaşkanı Emmanuel Macron, ülkeyi kasıp kavuran orman yangınları karşısında kundakçılara karşı sıfır tolerans politikası ilan etti. Gönüllü bir itfaiyecinin de aralarında bulunduğu birkaç kişi gözaltına alındı. Macron, eleştirilere yanıt vermek ve itfaiyecilere destek olmak için yangından etkilenen Fontainebleau ormanını ziyaret etti.",
-      "packetTitle" : "Macron'un kundakçılara karşı sıfır tolerans politikası",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 10
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/15\/campaigners-oppose-dangotes-planned-kenya-refinery-over-climate-and-ecological-risks\/",
-          "category" : "Environment",
-          "descriptionTR" : "Afrika'nın en büyük ikinci petrol rafinerisinin, ekolojik olarak hassas bir bölgede inşa edilmesi planı \"çevresel sorumsuzluk\" olarak eleştiriliyor. Kenya hükümetine, Afrika'nın en zengin adamı Aliko Dangote tarafından desteklenen günlük 700.000 varil kapasiteli petrol rafinerisi planlarını durdurması çağrısında bulunuluyor. Rafinerinin Lamu bölgesinde inşa edilmesi öngörülüyor ve Kenya, Uganda, Tanzanya ve Ruanda gibi ülkelere rafine petrol ürünleri sağlaması bekleniyor. Ancak, yenilenebilir enerji ve elektrikli ulaşımın hızla yaygınlaştığı bir dönemde, böyle büyük bir rafinerinin uygulanabilirliği sorgulanıyor. Power Shift Africa'dan Mohamed Adow, bu kararın \"çevresel sorumsuzluk ve ekonomik kısa görüşlülük\" olduğunu belirtiyor.",
-          "group" : "Kenya refinery opposition",
-          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/15\/campaigners-oppose-dangotes-planned-kenya-refinery-over-climate-and-ecological-risks\/",
-          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/15\/campaigners-oppose-dangotes-planned-kenya-refinery-over-climate-and-ecological-risks\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Climate Home News",
-              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/15\/campaigners-oppose-dangotes-planned-kenya-refinery-over-climate-and-ecological-risks\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "RFI Monde",
-              "url" : "https:\/\/www.rfi.fr\/en\/africa\/20260716-greenpeace-demands-halt-to-dangote-s-17bn-kenya-coastal-refinery"
-            }
-          ],
-          "titleTR" : "Çevreciler Dangote'nin Kenya'daki rafineri planına karşı"
-        }
-      ],
-      "packetSpot" : "Aliko Dangote'nin Kenya'nın Lamu bölgesinde önerdiği petrol rafinerisi, çevresel ve ekonomik kaygılar nedeniyle Greenpeace Afrika gibi grupların tepkisini çekiyor.",
-      "packetTitle" : "Lamu'da rafineri çatlağı",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 11
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
-          "category" : "Environment",
-          "descriptionTR" : "İspanya, 16 Temmuz itibarıyla yaklaşık 7.600 hektarlık alanı etkileyen hızlı ilerleyen bir yangınla mücadele etmek için 400'den fazla itfaiyeci ve 19 uçak görevlendirdi.",
-          "group" : "Wildfire heatwave crisis",
-          "id" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
-          "link" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears"
-            }
-          ],
-          "titleTR" : "İspanya, Aragon'daki büyük yangınla mücadele ediyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-          "category" : "Environment",
-          "descriptionTR" : "Malcolm Timbrell'in eşi ve arkadaşlarının, İspanya'daki köylerinden kaçmaya çalışırken yıkıcı bir yangında hayatlarını kaybettikleri düşünülüyor.",
-          "group" : "Spanish wildfire deaths",
-          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News Europe",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx24e09x79no?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "İngiliz Malcolm Timbrell, İspanya'daki yangından arabasında kurtuldu"
-        }
-      ],
-      "packetSpot" : "İspanya'nın Aragon bölgesindeki büyük yangın, geniş çaplı bir itfaiye operasyonunu tetikledi; bölge sakinleri arasında trajik ölümler bildiriliyor.",
-      "packetTitle" : "Aragon yangını: Mücadele ve kayıplar",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 12
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/15\/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-          "category" : "Environment",
-          "descriptionTR" : "Environment Canada, Toronto'nun gökyüzünün sarıya dönmesinin ardından sağlık uyarıları yayımladı. Kuzey Ontario'daki 100'den fazla aktif yangından çıkan duman, Toronto'nun hava kalitesini dünyanın en kötüsü haline getirdi ve ABD'nin kuzeydoğusundaki şehirlerde sarı, dumanlı bir hava oluşturdu. IQAir'a göre Toronto'nun hava kalitesi dünya sıralamasında en kötü olarak değerlendirildi.",
-          "group" : "Canada wildfire smoke",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/15\/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/15\/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Environment",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/15\/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/toronto-choked-by-wildfire-smoke-records-worlds-worst-air-quality"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Euronews",
-              "url" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/canada-train-crew-escapes-flames-near-armstrong-ontario"
-            }
-          ],
-          "titleTR" : "Ontario'daki yangınlar Toronto'nun hava kalitesini dünyanın en kötüsü yaptı"
-        },
-        {
-          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
-          "category" : "Environment",
-          "descriptionTR" : "Kanada ve Minnesota'da çıkan büyük yangınlardan kaynaklanan yoğun duman, bu hafta ABD'nin Ortabatı ve Kuzeydoğusundaki geniş alanları kaplayarak milyonlarca insanı tehlikeli hava kirliliğine maruz bırakacak. Minnesota yetkilileri, Twin Cities metro alanı, Alexandria ve Two Harbors gibi bölgeler için salıdan cumaya kadar hava kalitesi uyarısı yayımladı. Columbia Üniversitesi İklim Okulu'ndan Dan Westervelt, Kanada ve ABD'deki şiddetli kuraklık koşulları ve sıcaklığın, bu yangınların yanması için çok miktarda yakıt sağladığını belirtti. İnsanların, özellikle dumanın gelmesiyle birlikte, aşırı sıcaklardan kaçınmak için mümkün olduğunca içeride kalmaları gerektiği belirtildi.",
-          "group" : "North America wildfire smoke",
-          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
-          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Mongabay",
-              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Le Monde International",
-              "url" : "https:\/\/www.lemonde.fr\/en\/environment\/article\/2026\/07\/16\/canadian-wildfire-smoke-chokes-us-cities-from-midwest-to-northeast_6755550_114.html"
-            }
-          ],
-          "titleTR" : "Yangınlar, ABD'nin Ortabatı ve Kuzeydoğusundaki milyonları tehlikeli dumana maruz bırakıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.straitstimes.com\/world\/ontario-asks-for-federal-support-for-wildfire-evacuations-as-smoke-spreads",
-          "category" : "Environment",
-          "descriptionTR" : "TORONTO, 16 Temmuz - Ontario, perşembe günü yangınların harap ettiği Kanada'nın kuzeyindeki uzak topluluklardan insanları tahliye etmek için federal yardım talep etti. Duman, Toronto ve ABD'nin kuzeydoğusundaki birçok bölgeye kötü hava kalitesi getirdi.",
-          "group" : "Canada wildfire evacuations",
-          "id" : "https:\/\/www.straitstimes.com\/world\/ontario-asks-for-federal-support-for-wildfire-evacuations-as-smoke-spreads",
-          "link" : "https:\/\/www.straitstimes.com\/world\/ontario-asks-for-federal-support-for-wildfire-evacuations-as-smoke-spreads",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Straits Times World",
-              "url" : "https:\/\/www.straitstimes.com\/world\/ontario-asks-for-federal-support-for-wildfire-evacuations-as-smoke-spreads"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Straits Times World",
-              "url" : "https:\/\/www.straitstimes.com\/world\/united-states\/canadian-wildfire-smoke-blankets-new-york-before-world-cup-final-relief-expected-by-sunday"
-            }
-          ],
-          "titleTR" : "Ontario, yangınlar nedeniyle tahliyeler için federal destek arıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.co.uk\/news\/videos\/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
-          "category" : "Environment",
-          "descriptionTR" : "Kanada Orman Yangınları Merkezi'ne göre, şu anda ülke genelinde 838 yangın aktif olarak yanıyor.",
-          "group" : "North America wildfire smoke",
-          "id" : "https:\/\/www.bbc.co.uk\/news\/videos\/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
-          "link" : "https:\/\/www.bbc.co.uk\/news\/videos\/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News World",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/videos\/c62q3kw126xo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News World",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Kanada yangınlarından kaynaklanan turuncu duman Ontario ve ABD'nin kuzeyinde görüldü"
-        }
-      ],
-      "packetSpot" : "Kanada'daki yangınlar Kuzey Amerika genelinde duman yayarak Toronto, Detroit ve Chicago gibi şehirlerde hava kalitesini ciddi şekilde etkiledi. Ontario, etkilenen bölgelerden tahliyeler için federal yardım talep etti.",
-      "packetTitle" : "Kanada yangınları Kuzey Amerika'da hava kalitesini vuruyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 13
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-          "category" : "Environment",
-          "descriptionTR" : "Bilim insanları, korkutucu yeni normale uyum sağlamanın ve emisyonları daha hızlı ve daha fazla azaltmanın kritik olduğunu vurguluyor. Geçen ay Batı Afrika kıyılarını vuran sel felaketlerinde onlarca kişi boğuldu, yüzlerce kişi kurtarıldı ve binlerce kişi yerinden oldu. Şimdi bilim insanları, sel felaketine neden olan yağmurların iklim çöküşü tarafından şiddetlendirildiğini belirtiyor. Küresel ısınmanın, rutin bir hava olayını iklim felaketine dönüştürdüğünü söylüyorlar.",
-          "group" : "West Africa floods",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian World",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-global-heating-supercharged-floods-west-africa-displacing-thousands"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Environment",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-global-heating-supercharged-floods-west-africa-displacing-thousands"
-            }
-          ],
-          "titleTR" : "Küresel ısınma Batı Afrika'daki selleri nasıl şiddetlendirdi, binlerce kişiyi yerinden etti"
-        }
-      ],
-      "packetSpot" : "Bilim insanları, Batı Afrika'da binlerce kişinin yerinden olmasına neden olan son sel felaketlerinin, küresel ısınma nedeniyle şiddetlendiğini ve rutin yağmurların iklim felaketine dönüştüğünü belirledi.",
-      "packetTitle" : "Batı Afrika'da sel felaketleri: Küresel ısınmanın etkisi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 14
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/17\/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
-          "category" : "Environment",
-          "descriptionTR" : "Avustralya Meteoroloji Bürosu'na göre, El Niño iklim fenomeni Pasifik Okyanusu'nda rekor sıcaklıklara bağlı olarak en güçlü haliyle gelişebilir. İklim bilimciler, bu güçlenen El Niño'yu artan bir endişeyle izliyor ve önümüzdeki aylarda iklim modellerinden gelen tahminlerin 'akıl almaz' olduğunu belirtiyor.",
-          "group" : "Strong El Niño warning",
-          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/17\/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
-          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/17\/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian World",
-              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/17\/record-el-nino-forecast-2027-hottest-year-on-record-bom-says"
-            }
-          ],
-          "titleTR" : "BoM: El Niño rekor kırabilir, endişeler artıyor"
-        },
-        {
-          "atomID" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584",
-          "category" : "Environment",
-          "descriptionTR" : "El Niño'nun başlamasıyla birlikte, doğal olarak meydana gelen bu fenomenin 2026'nın ilerleyen dönemlerinde çok güçlü, hatta süper El Niño'ya dönüşme olasılığı %60'ın üzerinde. El Niño, ekvator yakınlarındaki Pasifik Okyanusu'nda daha sıcak suyla başlar ve dünya genelinde dramatik hava olaylarına yol açabilir. Ioana Colfescu, El Niño'nun nasıl çalıştığını ve dünya için ne anlama gelebileceğini açıklıyor.",
-          "group" : "Super El Niño forecast",
-          "id" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584",
-          "link" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Conversation Global",
-              "url" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584"
-            }
-          ],
-          "titleTR" : "El Niño nasıl süper El Niño'ya dönüşür?"
-        },
-        {
-          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
-          "category" : "Environment",
-          "descriptionTR" : "Filipinler'de güçlü bir El Niño'nun daha fazla iklim acısı getireceği tahmin ediliyor. Ülke, aşırı hava koşulları tuzağına düşmüş durumda ve güçlü bir El Niño'nun kuraklık, şiddetli yağmur ve sel getireceği öngörülüyor. Bu durum, geçen yılki Tayfun Tino ve Mindanao'daki depremler gibi önceki felaketlerden toparlanmaya çalışan toplulukları tehdit ediyor.",
-          "group" : "Philippines El Nino impacts",
-          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
-          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Climate Home News",
-              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Climate Home News",
-              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/06\/a-supercharged-el-nino-is-coming-are-we-ready\/"
-            }
-          ],
-          "titleTR" : "Filipinler'de güçlü El Niño'nun etkileri artıyor"
-        }
-      ],
-      "packetSpot" : "Rekor kırabilecek bir El Niño'nun potansiyeli, Avustralya ve Filipinler'de önemli etkiler beklenirken, dünya genelinde endişe yaratıyor.",
-      "packetTitle" : "El Niño endişesi büyüyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 15
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/commentisfree\/2026\/jul\/15\/air-conditioning-access-extreme-heat",
-          "category" : "Environment",
-          "descriptionTR" : "Önümüzdeki büyük iklim ayrımı, uyum sağlama kaynaklarına sahip ülkeler ile sahip olmayanlar arasında olacak. Bu yaz, Avrupa ve Amerika Birleşik Devletleri'nde rekor sıcaklıklar medyanın dikkatini çekti. Televizyonlar, koyu kırmızıya boyanmış sıcaklık haritaları, kapanan okullar, yavaşlayan demiryolları, yayılan orman yangınları ve artan sıcaklıkla ilgili hastalık vakalarıyla doluydu. Kamu yetkilileri ise tanıdık tavsiyelerle yanıt verdi: İçeride kalın, bol su için ve mümkünse klimayı açın.",
-          "group" : "Extreme heat adaptation",
-          "id" : "https:\/\/www.theguardian.com\/commentisfree\/2026\/jul\/15\/air-conditioning-access-extreme-heat",
-          "link" : "https:\/\/www.theguardian.com\/commentisfree\/2026\/jul\/15\/air-conditioning-access-extreme-heat",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/commentisfree\/2026\/jul\/15\/air-conditioning-access-extreme-heat"
-            }
-          ],
-          "titleTR" : "Aşırı sıcaklarda hayatta kalmak giderek daha fazla klima erişimine bağlı | Mark Wolfe"
-        },
-        {
-          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/c86262j7j75o?at_medium=RSS&at_campaign=rss",
-          "category" : "Environment",
-          "descriptionTR" : "Avrupa'da daha önce pek tanınmayan Midea PortaSplit, bu yaz bir ev ismi haline geldi.",
-          "group" : "Europe heatwave cooling",
-          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/c86262j7j75o?at_medium=RSS&at_campaign=rss",
-          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/c86262j7j75o?at_medium=RSS&at_campaign=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News World",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c86262j7j75o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "titleTR" : "Sıcak hava dalgaları vurdukça Avrupalılar Çin yapımı klimaya yöneliyor"
-        }
-      ],
-      "packetSpot" : "Küresel sıcak hava dalgalarına yanıt olarak artan klima talebi, uyum kaynaklarındaki eşitsizlikleri ve Avrupa'da belirli klima ürünlerinin popülerliğini öne çıkarıyor.",
-      "packetTitle" : "Küresel sıcak hava dalgalarında klima talebi artıyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 16
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.dw.com\/en\/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake\/a-77979725?maca=en-rss-en-world-4025-xml-mrss",
-          "category" : "Environment",
-          "descriptionTR" : "Emisyon ticaret sistemi, karbon fiyatlandırma ve CO2 azaltımı için küresel bir model haline geldi. Ancak sanayi grupları, daha sıkı iklim kurallarına karşı direnç gösteriyor. Bu sistem ne kadar etkili ve nerelerde yetersiz kalıyor?",
-          "group" : "EU carbon pricing backlash",
-          "id" : "https:\/\/www.dw.com\/en\/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake\/a-77979725?maca=en-rss-en-world-4025-xml-mrss",
-          "link" : "https:\/\/www.dw.com\/en\/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake\/a-77979725?maca=en-rss-en-world-4025-xml-mrss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Deutsche Welle World",
-              "url" : "https:\/\/www.dw.com\/en\/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake\/a-77979725?maca=en-rss-en-world-4025-xml-mrss"
-            }
-          ],
-          "titleTR" : "Dünya tarafından kopyalanan AB iklim politikası eleştiriliyor: Ne tehlikede?"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-europe-most-powerful-farming-lobby-copa-cogeca-killed-eu-pesticide-law",
-          "category" : "Environment",
-          "descriptionTR" : "Yeni ortaya çıkan belgeler, Avrupa'nın en güçlü tarım lobisi Copa Cogeca'nın, iklim ve vahşi yaşamı koruma yasalarını nasıl zayıflattığını gösteriyor. Bu belgeler, pestisit kullanımını yarıya indirme planı da dahil olmak üzere, AB tarihindeki en kapsamlı tarım reformlarından bazılarını nasıl geciktirip değiştirdiğini ortaya koyuyor. Copa Cogeca, kıta genelinde 22 milyon çiftçinin sesi olarak tanımlanıyor ve AB yasa yapıcılarına benzersiz bir erişime sahip. Hatta 'politikada ortak' olarak bile tanımlanıyor.",
-          "group" : "EU pesticide lobbying",
-          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-europe-most-powerful-farming-lobby-copa-cogeca-killed-eu-pesticide-law",
-          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-europe-most-powerful-farming-lobby-copa-cogeca-killed-eu-pesticide-law",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Europe",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/16\/how-europe-most-powerful-farming-lobby-copa-cogeca-killed-eu-pesticide-law"
-            }
-          ],
-          "titleTR" : "Avrupa'nın en güçlü tarım lobisinin AB pestisit yasasını nasıl etkilediği ortaya çıktı"
-        }
-      ],
-      "packetSpot" : "Sanayi ve tarım lobilerinin AB iklim ve tarım politikalarına karşı direnişi öne çıkıyor; emisyon ticareti ve pestisit düzenlemeleri üzerinde önemli bir geri itme var.",
-      "packetTitle" : "AB politikalarına lobi direnişi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 17
-    },
-    {
-      "illustrationName" : "B245DD56-A4BD-5192-A168-CB261795AF85.png",
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.france24.com\/en\/dr-congo-s-healthcare-workers-go-on-strike-as-ebola-epidemic-spreads",
-          "category" : "Health",
-          "descriptionTR" : "Demokratik Kongo Cumhuriyeti'nde Ebola salgınıyla mücadele eden sağlık çalışanları, maaşlarının ödenmemesi nedeniyle greve gidiyor. Dünya Sağlık Örgütü, ölümcül virüsün Kongo'da daha önceki salgınlara göre daha hızlı yayıldığı konusunda uyarıda bulundu. Ülkede 2.000'den fazla Ebola vakası ve 754 ölüm kaydedildi. FRANCE 24'ten Emmet Livingstone grevler hakkında daha fazla bilgi veriyor.",
-          "group" : "Ebola outbreak DRC",
-          "id" : "https:\/\/www.france24.com\/en\/dr-congo-s-healthcare-workers-go-on-strike-as-ebola-epidemic-spreads",
-          "link" : "https:\/\/www.france24.com\/en\/dr-congo-s-healthcare-workers-go-on-strike-as-ebola-epidemic-spreads",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "France 24 World",
-              "url" : "https:\/\/www.france24.com\/en\/dr-congo-s-healthcare-workers-go-on-strike-as-ebola-epidemic-spreads"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "France 24 World",
-              "url" : "https:\/\/www.france24.com\/en\/africa\/20260716-ebola-spreading-faster-than-any-previous-outbreak-dr-congo-who-warns"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Al Jazeera English",
-              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "RFI Monde",
-              "url" : "https:\/\/www.rfi.fr\/en\/africa\/20260715-congo-s-ebola-cases-may-be-four-times-official-tally-who-says"
-            }
-          ],
-          "titleTR" : "Kongo'da sağlık çalışanları Ebola salgını yayılırken greve gidiyor"
-        }
-      ],
-      "packetSpot" : "Demokratik Kongo Cumhuriyeti'nde Ebola salgını hızla yayılıyor; sağlık çalışanları maaşlarının ödenmemesi nedeniyle greve gidiyor.",
-      "packetTitle" : "Kongo'da Ebola ve grev krizi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 18
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.straitstimes.com\/world\/us-quarantine-order-for-americans-returning-from-congo-will-hurt-ebola-response-aid-group-says",
-          "category" : "Health",
-          "descriptionTR" : "15 Temmuz - Washington'un yeni politikası, Kongo Demokratik Cumhuriyeti'nden dönen Amerikan vatandaşlarının ABD'ye girmeden önce 21 gün üçüncü bir ülkede kalmalarını şart koşuyor. Büyük bir Amerikan yardım grubunun başkanı, bu kararın salgına müdahaleyi zorlaştıracağını belirtti.",
-          "group" : "Ebola travel restrictions",
-          "id" : "https:\/\/www.straitstimes.com\/world\/us-quarantine-order-for-americans-returning-from-congo-will-hurt-ebola-response-aid-group-says",
-          "link" : "https:\/\/www.straitstimes.com\/world\/us-quarantine-order-for-americans-returning-from-congo-will-hurt-ebola-response-aid-group-says",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Straits Times World",
-              "url" : "https:\/\/www.straitstimes.com\/world\/us-quarantine-order-for-americans-returning-from-congo-will-hurt-ebola-response-aid-group-says"
-            }
-          ],
-          "titleTR" : "ABD'nin Kongo'dan dönen vatandaşlar için karantina kararı Ebola müdahalesini zorlaştıracak"
-        },
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/global-development\/2026\/jul\/16\/uganda-travel-restrictions-last-ebola-patient-discharged",
-          "category" : "Health",
-          "descriptionTR" : "Ülke, salgının resmen sona erdiğinin ilan edilmesi için 42 günlük geri sayımı başlattı; bu süreçte komşu Kongo Demokratik Cumhuriyeti'nde vaka sayıları artmaya devam ediyor. Uganda, son doğrulanmış Ebola hastasını Kampala'daki Mulago ulusal sevk hastanesinden taburcu ettikten sonra Ebola ile ilgili seyahat kısıtlamalarının kaldırılması için diğer ülkeleri ikna etmeye çalışıyor. Dünya Sağlık Örgütü tarafından Uganda'nın resmi olarak Ebola'dan arınmış ilan edilebilmesi için yeni enfeksiyonların tespit edilmemesi koşuluyla 42 günlük bir geri sayım gerekiyor.",
-          "group" : "Ebola travel restrictions",
-          "id" : "https:\/\/www.theguardian.com\/global-development\/2026\/jul\/16\/uganda-travel-restrictions-last-ebola-patient-discharged",
-          "link" : "https:\/\/www.theguardian.com\/global-development\/2026\/jul\/16\/uganda-travel-restrictions-last-ebola-patient-discharged",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian World",
-              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jul\/16\/uganda-travel-restrictions-last-ebola-patient-discharged"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian World",
-              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/14\/american-ebola-patient-arrives-germany"
-            }
-          ],
-          "titleTR" : "Uganda, son Ebola hastasının taburcu edilmesinin ardından seyahat kısıtlamalarının kaldırılmasını istiyor"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Ebola kısıtlamaları: Kongo ve Uganda'da müdahaleye etkisi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 19
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206",
-          "category" : "Health",
-          "descriptionTR" : "GLP-1 ilaçlarının kanser riskini artırabileceği endişeleri, bu ilaçların kanseri önleyebileceği iddialarıyla yer değiştirdi. Ancak, bu iddialar henüz kanıtlanmış değil. GLP-1 ilaçlarının kanser riskini azaltabileceğine dair yapılan çalışmalar, sağlıklı kullanıcı yanlılığı gibi sınırlamalar içeriyor. Bu ilaçların kanser riskini gerçekten azaltıp azaltmadığını belirlemek için daha fazla araştırma gerekiyor.",
-          "group" : "GLP-1 cancer evidence",
-          "id" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206",
-          "link" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Conversation Global",
-              "url" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Conversation Global",
-              "url" : "https:\/\/theconversation.com\/weight-loss-drugs-like-ozempic-could-work-for-addiction-too-and-we-finally-know-how-285227"
-            }
-          ],
-          "titleTR" : "Ozempic kanseri önleyebilir mi? Bir doktor başlıkların neden yanlış anlaşılabileceğini açıklıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm",
-          "category" : "Health",
-          "descriptionTR" : "Araştırmacılar, Ozempic ve Wegovy'nin etken maddesi semaglutidin, HIV'li yetişkinlerde biyolojik yaşlanma belirtilerini yavaşlattığını buldu. Bu, ilacın insan yaşlanmasını etkileyebileceğine dair ilk klinik kanıt. Ancak, ilacın yaşlanmayı yavaşlatabileceği sonucuna varmadan önce daha geniş kapsamlı çalışmalara ihtiyaç duyuluyor.",
-          "group" : "Ozempic aging effects",
-          "id" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm",
-          "link" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "ScienceDaily",
-              "url" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm"
-            }
-          ],
-          "titleTR" : "Popüler kilo kaybı ilaçları Ozempic ve Wegovy biyolojik yaşlanmayı yavaşlatabilir"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "GLP-1 ilaçlarının kilo kaybı dışında potansiyel sağlık faydaları",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 20
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
-          "category" : "Law",
-          "descriptionTR" : "Ilhan Omar'ın sunduğu karar tasarısı, ABD Dışişleri Bakanı Marco Rubio'nun uluslararası mahkemeyi 'dağıtma' sözü vermesinden günler sonra geldi.",
-          "group" : "ICC US pressure",
-          "id" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
-          "link" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Al Jazeera English",
-              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/16\/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss"
-            }
-          ],
-          "titleTR" : "Ilhan Omar, ABD'nin UCM'ye katılması için baskısını yeniliyor"
-        },
-        {
-          "atomID" : "https:\/\/www.aa.com.tr\/en\/europe\/france-reiterates-support-for-international-criminal-court-after-us-criticism\/4000758",
-          "category" : "Law",
-          "descriptionTR" : "Fransa Dışişleri Bakanlığı sözcüsü, UCM personeline, yetkililere ve mahkemenin çalışmalarına dahil olan diğer kişilere yönelik saldırı ve tehditlerin 'kabul edilemez' olduğunu belirtti.",
-          "group" : "ICC support dispute",
-          "id" : "https:\/\/www.aa.com.tr\/en\/europe\/france-reiterates-support-for-international-criminal-court-after-us-criticism\/4000758",
-          "link" : "https:\/\/www.aa.com.tr\/en\/europe\/france-reiterates-support-for-international-criminal-court-after-us-criticism\/4000758",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Anadolu Agency English",
-              "url" : "https:\/\/www.aa.com.tr\/en\/europe\/france-reiterates-support-for-international-criminal-court-after-us-criticism\/4000758"
-            }
-          ],
-          "titleTR" : "Fransa, ABD eleştirilerine rağmen Uluslararası Ceza Mahkemesi'ne desteğini yineledi"
-        },
-        {
-          "atomID" : "https:\/\/thehill.com\/regulation\/court-battles\/5971860-human-rights-groups-trump-administration-icc-sanctions\/",
-          "category" : "Law",
-          "descriptionTR" : "İki insan hakları savunucusu grup, Trump yönetiminin geçen yıl Uluslararası Ceza Mahkemesi'ne (UCM) uyguladığı yaptırımları engellemek amacıyla dava açtı. Bu yaptırımların, Filistin ile ilgili çalışmalarında 'soğutucu etki' yarattığını savunuyorlar. Dava, Çarşamba günü New York Güney Bölgesi'nde açıldı ve bir yürütme emrini hedef alıyor.",
-          "group" : "ICC sanctions lawsuit",
-          "id" : "https:\/\/thehill.com\/regulation\/court-battles\/5971860-human-rights-groups-trump-administration-icc-sanctions\/",
-          "link" : "https:\/\/thehill.com\/regulation\/court-battles\/5971860-human-rights-groups-trump-administration-icc-sanctions\/",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Hill",
-              "url" : "https:\/\/thehill.com\/regulation\/court-battles\/5971860-human-rights-groups-trump-administration-icc-sanctions\/"
-            }
-          ],
-          "titleTR" : "İnsan hakları grupları, Trump yönetiminin UCM yaptırımlarını engellemek için dava açtı"
-        }
-      ],
-      "packetSpot" : "ABD'nin Uluslararası Ceza Mahkemesi ile ilişkisi, Trump dönemi yaptırımlarını engellemek için açılan davalar, Fransa'nın UCM'ye desteği ve Ilhan Omar'ın ABD'nin üyeliği için yaptığı baskılarla yeniden gündemde.",
-      "packetTitle" : "ABD ve Uluslararası Ceza Mahkemesi: Yeniden Gündemde",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 21
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.aa.com.tr\/en\/middle-east\/iraq-seizes-193m-gold-in-corruption-probe\/4000785",
-          "category" : "Law",
-          "descriptionTR" : "Devam eden yolsuzluk soruşturmasında, eski Rafineri İşlerinden Sorumlu Petrol Bakan Yardımcısı Adnan al-Jumaili gözaltına alındı.",
-          "group" : "Iraq corruption probe",
-          "id" : "https:\/\/www.aa.com.tr\/en\/middle-east\/iraq-seizes-193m-gold-in-corruption-probe\/4000785",
-          "link" : "https:\/\/www.aa.com.tr\/en\/middle-east\/iraq-seizes-193m-gold-in-corruption-probe\/4000785",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Anadolu Agency English",
-              "url" : "https:\/\/www.aa.com.tr\/en\/middle-east\/iraq-seizes-193m-gold-in-corruption-probe\/4000785"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Al Jazeera English",
-              "url" : "https:\/\/www.aljazeera.com\/video\/newsfeed\/2026\/7\/16\/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss"
-            }
-          ],
-          "titleTR" : "Irak'ta yolsuzluk soruşturmasında 19,3 milyon dolar ve altın ele geçirildi"
-        },
-        {
-          "atomID" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/iraq-arrests-senior-military-officers-in-widening-corruption-crackdown\/",
-          "category" : "Law",
-          "descriptionTR" : "Irak yolsuzlukla mücadele yetkilileri, Bağdat'taki bir askeri hastanenin yenilenmesi ve donatılması için 71 milyon dolarlık sözleşmenin verilmesindeki usulsüzlükler nedeniyle üç üst düzey askeri yetkili ve beş mühendisi tutukladı. Federal Yolsuzlukla Mücadele Komisyonu, Hava Kuvvetleri Hastanesi projesine yönelik soruşturmanın ardından bir tümgeneral, bir tuğgeneral ve bir albayın Kamu İşleri Müdürlüğü'nden beş mühendisle birlikte gözaltına alındığını açıkladı. Sözleşmenin rekabetçi bir ihale süreci yerine doğrudan sözleşme yoluyla yabancı bir şirkete verildiği iddia edildi. Başbakan Ali Al Zaidi, göreve geldiği Mayıs ayından bu yana yolsuzlukla mücadeleyi öncelikli hale getirdi.",
-          "group" : "Iraq military corruption",
-          "id" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/iraq-arrests-senior-military-officers-in-widening-corruption-crackdown\/",
-          "link" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/iraq-arrests-senior-military-officers-in-widening-corruption-crackdown\/",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The National News",
-              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/15\/iraq-arrests-senior-military-officers-in-widening-corruption-crackdown\/"
-            }
-          ],
-          "titleTR" : "Irak'ta genişleyen yolsuzluk operasyonunda üst düzey askeri yetkililer tutuklandı"
-        }
-      ],
-      "packetSpot" : "Irak'ın yolsuzlukla mücadele kampanyası, eski bir petrol bakanına bağlı milyonlarca nakit ve altının ele geçirilmesine ve bir askeri sözleşmedeki usulsüzlükler nedeniyle üst düzey askeri yetkililerin tutuklanmasına yol açtı.",
-      "packetTitle" : "Irak'ta yolsuzlukla mücadele: Altın ve para operasyonu",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 22
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/thehill.com\/homenews\/senate\/5972722-blanche-epstein-survivors-meeting\/",
-          "category" : "Law",
-          "descriptionTR" : "Adalet Bakan Vekili Todd Blanche, Capitol Hill'deki duruşmalar sırasında milletvekillerinin baskısı sonrasında, mahkum cinsel suçlu Jeffrey Epstein'ın suçlarından kurtulanlarla Perşembe öğleden sonra bir araya gelecek. Toplantıya aşina bir Adalet Bakanlığı (DOJ) kaynağı, The Hill'in yayın ortağı NewsNation'a, Blanche'ın bu kurtulanlarla DOJ'un...",
-          "group" : "Epstein survivor meetings",
-          "id" : "https:\/\/thehill.com\/homenews\/senate\/5972722-blanche-epstein-survivors-meeting\/",
-          "link" : "https:\/\/thehill.com\/homenews\/senate\/5972722-blanche-epstein-survivors-meeting\/",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Hill",
-              "url" : "https:\/\/thehill.com\/homenews\/senate\/5972722-blanche-epstein-survivors-meeting\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CBC World",
-              "url" : "https:\/\/www.cbc.ca\/news\/world\/us-senate-blanche-hearings-day-2-9.7272272?cmp=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/16\/todd-blanche-attorney-general-nomination-cornyn.html"
-            }
-          ],
-          "titleTR" : "Tillis'in ültimatomu sonrası Blanche, Epstein kurtulanlarıyla görüşecek"
-        }
-      ],
-      "packetSpot" : "Adalet Bakan Vekili Todd Blanche, adaylık sürecinde Senatör Thom Tillis dahil milletvekillerinin baskısı sonrası Jeffrey Epstein kurtulanlarıyla görüşecek.",
-      "packetTitle" : "Todd Blanche, adaylık baskısı altında Epstein kurtulanlarıyla buluşuyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 23
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cbc.ca\/news\/world\/more-ice-killings-spark-calls-for-change-9.7270282?cmp=rss",
-          "category" : "Law",
-          "descriptionTR" : "ICE ajanlarının son bir haftada iki sürücüyü öldürmesi, federal ajansın işleyişinde değişiklik yapılması yönündeki çağrıları yeniden alevlendirdi. Trump yetkililerinin ICE memurlarına çoğu araç durdurmayı askıya almalarını söylediği haberlerinin ardından, hukuk uzmanları CBC News'e bunun yeterli olmadığını belirtti.",
-          "group" : "ICE reform debate",
-          "id" : "https:\/\/www.cbc.ca\/news\/world\/more-ice-killings-spark-calls-for-change-9.7270282?cmp=rss",
-          "link" : "https:\/\/www.cbc.ca\/news\/world\/more-ice-killings-spark-calls-for-change-9.7270282?cmp=rss",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CBC World",
-              "url" : "https:\/\/www.cbc.ca\/news\/world\/more-ice-killings-spark-calls-for-change-9.7270282?cmp=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Hill",
-              "url" : "https:\/\/thehill.com\/opinion\/white-house\/5969932-ice-shootings-demand-independent-investigation\/"
-            }
-          ],
-          "titleTR" : "ICE ajanlarının bir haftada iki kişiyi öldürmesi reform çağrılarını artırdı"
-        }
-      ],
-      "packetSpot" : "ICE ajanlarının son ölümcül ateş açmaları, kurumun reformu ve bağımsız denetimi için çağrıları yoğunlaştırdı.",
-      "packetTitle" : "ICE reformu için artan çağrılar",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 24
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/grist.org\/accountability\/climate-impacted-communities-across-asia-are-taking-their-fight-to-court\/",
-          "category" : "Law",
-          "descriptionTR" : "Asya'da kötüleşen iklim etkileri, kurumsal yeşil yıkama ve yavaş hükümet eylemleri, toplulukları mahkemelere yöneltti. Filipinler'deki Batasan Adası'nda yaşayan Trixy Elle, 2021'deki Süper Tayfun Rai sırasında ailesiyle birlikte evlerini terk etmek zorunda kaldı. Tayfunun etkilediği 10.6 milyon kişiden biri olan Elle, Shell'e karşı dava açarak şirketin tarihsel emisyonlarının iklim değişikliğine katkıda bulunduğunu ve bu tür felaketleri kötüleştirdiğini iddia ediyor. Bu dava, büyük bir fosil yakıt devini iklim etkilerinden kaynaklanan ölümlerle doğrudan ilişkilendiren ilk sivil dava olarak öne çıkıyor.",
-          "group" : "Asia climate litigation",
-          "id" : "https:\/\/grist.org\/accountability\/climate-impacted-communities-across-asia-are-taking-their-fight-to-court\/",
-          "link" : "https:\/\/grist.org\/accountability\/climate-impacted-communities-across-asia-are-taking-their-fight-to-court\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Grist",
-              "url" : "https:\/\/grist.org\/accountability\/climate-impacted-communities-across-asia-are-taking-their-fight-to-court\/"
-            }
-          ],
-          "titleTR" : "Asya'daki iklim mağduru topluluklar adalet arıyor"
-        },
-        {
-          "atomID" : "https:\/\/phys.org\/news\/2026-07-science-boost-climate-oil-giants.html",
-          "category" : "Law",
-          "descriptionTR" : "Fosil yakıt şirketlerinden büyük tazminatlar talep eden iklim davaları, giderek artan bir şekilde şu soruya dayanıyor: Bilim insanları, belirli aşırı hava olaylarını insan kaynaklı iklim değişikliğine ne kadar güvenilir bir şekilde bağlayabilir?",
-          "group" : "Climate damage litigation",
-          "id" : "https:\/\/phys.org\/news\/2026-07-science-boost-climate-oil-giants.html",
-          "link" : "https:\/\/phys.org\/news\/2026-07-science-boost-climate-oil-giants.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Phys.org",
-              "url" : "https:\/\/phys.org\/news\/2026-07-science-boost-climate-oil-giants.html"
-            }
-          ],
-          "titleTR" : "Yeni bilimsel rapor, petrol devlerine karşı iklim davalarını güçlendirebilir"
-        }
-      ],
-      "packetSpot" : "Asya'daki topluluklar ve bilimsel gelişmeler, iklimle ilgili zararlar için büyük fosil yakıt şirketlerine karşı yeni davalar açıyor.",
-      "packetTitle" : "Asya'da iklim adaleti için bilim ve topluluklar birleşiyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 25
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/todd-blanche-attorney-general-confirmation-hearing\/687933\/?utm_source=feed",
-          "category" : "Law",
-          "descriptionTR" : "Todd Blanche'ın Adalet Bakanı olarak atanma onay oturumlarında en dikkat çekici an, Louisiana Senatörü John Kennedy'nin dostça bir sorusuna verdiği yanıttı. Kennedy, Blanche'a başkanın arkadaşı olup olmadığını sordu. Blanche, \"Ben onun avukatıyım,\" dedi ve ardından hatasını fark ederek \"Onun avukatıydım,\" diye düzeltti. Bu açıklama, Blanche'ın Trump'a olan sadakatine dair endişeleri artırdı. Blanche, Adalet Bakanlığı'nda geçici olarak liderlik yaparken, Trump'ın çıkarlarını öncelikli tuttuğu izlenimini verdi. Onay süreci zorlu geçebilir, ancak Blanche'ın Adalet Bakanlığı'ndaki rolü ve Trump'ın etkisi üzerine tartışmalar devam ediyor.",
-          "group" : "DOJ independence crisis",
-          "id" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/todd-blanche-attorney-general-confirmation-hearing\/687933\/?utm_source=feed",
-          "link" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/todd-blanche-attorney-general-confirmation-hearing\/687933\/?utm_source=feed",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Atlantic",
-              "url" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/todd-blanche-attorney-general-confirmation-hearing\/687933\/?utm_source=feed"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CBC World",
-              "url" : "https:\/\/www.cbc.ca\/news\/world\/us-senate-judiciary-confirmation-hearing-blanche-trump-9.7270663?cmp=rss"
-            }
-          ],
-          "titleTR" : "Todd Blanche'ın onay oturumlarından çıkan en önemli ders"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Todd Blanche'ın onay oturumları: Trump etkisi endişesi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 26
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.newscientist.com\/article\/2579257-congolian-monkey-with-mask-like-face-and-strong-bo-is-new-to-science\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "category" : "Science",
-          "descriptionTR" : "Demokratik Kongo Cumhuriyeti'nin uzak bir bölgesinde keşfedilen maskeli yüzüyle dikkat çeken siyah kolobus maymunu, yeni bir tür olarak tanımlandı. Yerel halk tarafından 'likweli' olarak bilinen bu maymun, bilim insanları tarafından Colobus congoensis adıyla adlandırıldı. Türün, avlanma tehdidi altında olduğu ve korunması gerektiği belirtiliyor. Florida Atlantic Üniversitesi'nden Kate Detwiler, likweli'nin yüz yapısının Asya'daki bazı kolobin maymunlarıyla benzerlik gösterdiğini ve bu türün, Afrika ve Asya kolobin soylarının ayrılmasından önceki atalara ait özellikleri koruduğunu belirtiyor.",
-          "group" : "New Congo monkey species",
-          "id" : "https:\/\/www.newscientist.com\/article\/2579257-congolian-monkey-with-mask-like-face-and-strong-bo-is-new-to-science\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "link" : "https:\/\/www.newscientist.com\/article\/2579257-congolian-monkey-with-mask-like-face-and-strong-bo-is-new-to-science\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New Scientist",
-              "url" : "https:\/\/www.newscientist.com\/article\/2579257-congolian-monkey-with-mask-like-face-and-strong-bo-is-new-to-science\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BBC News World",
-              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Mongabay",
-              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/new-colobus-monkey-likweli-confirmed-in-drc\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "AllAfrica Top News",
-              "url" : "https:\/\/allafrica.com\/stories\/202607160152.html"
-            }
-          ],
-          "titleTR" : "Maskeli yüzüyle dikkat çeken Kongolu maymun bilime yeni katıldı"
-        }
-      ],
-      "packetSpot" : "Demokratik Kongo Cumhuriyeti'nde yeni bir kolobus maymun türü olan 'likweli' keşfedildi. Türün belirgin yüz işaretleri ve sınırlı yayılımı dikkat çekiyor; avlanma tehditleri nedeniyle korunma durumu endişe yaratıyor.",
-      "packetTitle" : "Kongo'da yeni maymun türü: Likweli",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 27
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
-          "category" : "Science",
-          "descriptionTR" : "Gökbilimciler, başka gezegenlerde yaşam arayışında önemli bir dönüm noktası olarak, ilk kez başka bir yıldızın yaşanabilir bölgesinde dönen Dünya benzeri kayalık bir gezegenin etrafında bir atmosfer tespit etti. Bu bulgu, bileşim ve sıcaklık açısından Dünya'ya benzer koşullara sahip, yaşamı destekleyebilecek potansiyele sahip dünyaların güneş sistemimizin ötesinde var olabileceğine dair en güçlü kanıtı sunuyor.",
-          "group" : "Nearby habitable exoplanet",
-          "id" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
-          "link" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
-          "newsValue" : 9,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Phys.org",
-              "url" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Phys.org",
-              "url" : "https:\/\/phys.org\/news\/2026-07-nearby-rocky-planet-replenishing-helium.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "New Scientist",
-              "url" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
-            }
-          ],
-          "titleTR" : "Güneş sistemimizin ötesinde yaşam arayışı: Yaşanabilir bölgedeki kayalık dünyada atmosfer tespiti"
-        }
-      ],
-      "packetSpot" : "Gökbilimciler, yaşanabilir bir bölgede bulunan kayalık bir ötegezegende atmosfer tespit etti. Bu, güneş sistemimizin ötesinde yaşam arayışında önemli bir dönüm noktası olarak görülüyor.",
-      "packetTitle" : "Yaşanabilir bölgedeki kayalık ötegezegende atmosfer keşfi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 28
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/15\/mexico-investigate-ice-deaths",
-          "category" : "Human Rights",
-          "descriptionTR" : "Trump'ın ikinci döneminin başlangıcından bu yana, ICE gözetiminde 14 Meksikalı göçmen ve ajans operasyonlarında üç kişi daha hayatını kaybetti. Meksika hükümeti, ABD eyalet başsavcılarından, Göçmenlik ve Gümrük Muhafaza (ICE) gözetiminde veya baskınlar sırasında ölen göçmenlerin vakalarını cezai olarak soruşturmalarını resmen talep etti. Bu talep, ICE ajanı tarafından Houston'da vurularak öldürülen Meksikalı göçmen Lorenzo Salgado Araujo'nun ölümünün ardından geldi.",
-          "group" : "ICE custody deaths",
-          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/15\/mexico-investigate-ice-deaths",
-          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/15\/mexico-investigate-ice-deaths",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian World",
-              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/15\/mexico-investigate-ice-deaths"
-            }
-          ],
-          "titleTR" : "Meksika, ABD'den ICE gözetiminde ölen göçmenler için soruşturma talep etti"
-        },
-        {
-          "atomID" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/venezuelan-man-dies-in-ice-custody-in-georgia.html",
-          "category" : "Human Rights",
-          "descriptionTR" : "Ajans, Jesús Manuel Arenas Silva'nın Pazartesi günü kalp krizi geçirdiğini bildirdi. Trump'ın ikinci başkanlık döneminde gözaltında ölen 54. göçmen oldu. Venezuelalı Jesús Manuel Arenas Silva'nın sağlığı, Georgia'daki iki gözaltı merkezi arasında transfer edilirken ICE otobüsünde kötüleşti. Kalp krizi geçiren Arenas Silva, hastaneye kaldırıldı ancak kurtarılamadı. 45 yaşındaydı. İnsan Hakları İzleme Örgütü raporuna göre, Trump'ın ikinci döneminin başlangıcından bu yana ajansın gözetiminde toplam 54 göçmen hayatını kaybetti.",
-          "group" : "ICE detention deaths",
-          "id" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/venezuelan-man-dies-in-ice-custody-in-georgia.html",
-          "link" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/venezuelan-man-dies-in-ice-custody-in-georgia.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "El País",
-              "url" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/venezuelan-man-dies-in-ice-custody-in-georgia.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "El País",
-              "url" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/they-handcuffed-a-dead-man-biddeford-demands-answers-over-the-death-of-johan-sebastian-duran-guerrero.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "El País",
-              "url" : "https:\/\/english.elpais.com\/usa\/2026-07-16\/the-three-witnesses-to-lorenzo-salgado-araujos-death-seek-a-visa-to-protect-them-from-deportation.html"
-            }
-          ],
-          "titleTR" : "Venezuelalı adam Georgia'da ICE gözetiminde öldü"
-        }
-      ],
-      "packetSpot" : "ICE gözetiminde ölen göçmenlere odaklanılıyor; Meksika bu olayların soruşturulmasını talep ediyor ve Georgia'da bir Venezuelalı adamın ölümü konuyu gündeme taşıyor.",
-      "packetTitle" : "ICE gözetiminde ölümler: Meksika ve ABD'den tepkiler",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 29
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/syria-iraq-oil-pipeline-hormuz\/",
-          "category" : "Energy",
-          "descriptionTR" : "Irak ve Ürdün, Basra ile Ürdün'ün tek limanı Akabe'yi bağlayan bir petrol boru hattı için eski planları canlandırmayı görüştü. ABD, bölgedeki ülkeleri Hürmüz Boğazı'na alternatif yollar bulmaya teşvik ediyor. Ürdün devlet televizyonu, Dışişleri Bakanı Ayman Safadi ve Irak Başbakanı Ali Al Zaidi'nin, ABD'nin Irak ve Suriye özel temsilcisi Tom Barrack ve ABD'nin Türkiye büyükelçisinin de katıldığı bir toplantıda Basra–Akabe projesini \"ilerletme\" konusunu ele aldıklarını bildirdi. Haberde, \"katılımcıların karşılıklı ekonomik çıkar alanlarında üçlü iş birliği fırsatlarını görüştükleri\" ifade edildi. Haberin duyurulmasından kısa süre sonra, Basra yakınlarında bir tankere drone çarpması sonucu Irak'ın petrol üretimi sarsıldı. Yetkililer, Basra yakınlarındaki petrol yükleme operasyonlarının devam ettiğini belirtti. Dana Gas şirketi ise Irak'taki Khor Mor gaz sahasında güvenlik tehditleri nedeniyle üretim tesislerini kapattığını açıkladı. Proje ilk olarak 2013 yılında Irak ve Ürdün arasında imzalanan bir anlaşma ile başlamıştı ve 2017'de tamamlanması planlanıyordu ancak 2014'te IŞİD'in batı Irak'ı işgali nedeniyle ertelendi. Proje 2019'da yeniden canlandırıldı ancak kısa süre sonra Covid pandemisi nedeniyle tekrar ertelendi. Ürdün devlet medyasına göre, projenin son versiyonu iki parçalı bir boru hattı olacak. Basra yakınlarındaki Rumaila petrol sahasını Haditha'ya bağlayacak 700 km'lik bir bölüm, günde 2.25 milyon varil kapasiteye sahip olacak. Haditha'dan Akabe'ye uzanan ikinci bölüm ise günde 1 milyon varil taşıyacak. İran çatışması ve ardından gelen yıpratma savaşı, Körfez petrolü ve diğer malların Hürmüz Boğazı'nı baypas edecek alternatif yollar inşa etme yarışını başlattı. Türkiye, Suudi Arabistan, BAE ve diğerlerinin önerileri, trafiği Suriye, Türkiye ve Irak'taki limanlara yönlendirmeye odaklandı. İran, savaş sırasında boğazdaki erişimi kesti ve ABD de bölgeyi ablukaya aldı. Brent petrolü, boğazı içeren son gerilim öncesinde 76 dolardan 84 dolara yükseldi. Trump'ın yakın dostu ve eski bir iş adamı olan Barrack, boğaza olan küresel bağımlılığı azaltmak için yeni yolların savunucusu oldu. Orta Doğu'da, Irak hükümetinin İran ile ilişkisi ve bu ülkede ideolojik olarak Tahran'ın dini yönetici elitine sadık görülen Şii milis vekillerini güçlendirmesi konularında da endişeler var. 2020'de Ürdün, Mısır ve Irak'tan yetkililer Kahire'de bir araya gelerek, tamamlanmamış boru hattını üç ülkeyi birbirine bağlayacak şekilde genişletmeyi görüştüler.",
-          "group" : "Hormuz pipeline alternatives",
-          "id" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/syria-iraq-oil-pipeline-hormuz\/",
-          "link" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/syria-iraq-oil-pipeline-hormuz\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The National News",
-              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/syria-iraq-oil-pipeline-hormuz\/"
-            }
-          ],
-          "titleTR" : "Hürmüz Boğazı krizi, Irak ve Ürdün'ü petrol boru hattı planını yeniden değerlendirmeye yöneltti"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/16\/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html",
-          "category" : "Energy",
-          "descriptionTR" : "Petrol üreticileri, Hürmüz Boğazı'nı baypas etmek için yeni boru hattı projeleri inşa ediyor veya düşünüyor, ancak bu altyapı hala savunmasız, analistler belirtiyor.",
-          "group" : "Hormuz oil security",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/16\/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/16\/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/16\/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html"
-            }
-          ],
-          "titleTR" : "Hürmüz Boğazı çevresindeki petrol boru hatları, İran'ın Orta Doğu ham petrol ihracatına yönelik tehdidini sona erdirmeyecek"
-        }
-      ],
-      "packetSpot" : "Bölgesel gerginlikler arasında, Irak ve Ürdün gibi ülkeler Hürmüz Boğazı'nı baypas edecek petrol boru hattı planlarını yeniden değerlendiriyor. Analistler, yeni boru hatlarının düşünülmesine rağmen, bu hatların bölgesel tehditlere karşı hala savunmasız olduğunu vurguluyor.",
-      "packetTitle" : "Hürmüz Boğazı'na alternatif petrol hatları",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 30
-    },
-    {
-      "items" : [
-
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Merz ve Macron: Savunma ve işbirliği görüşmeleri",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 31
-    },
-    {
-      "illustrationName" : "A855B38F-3FC5-527D-BE9F-6A554E377CD9.png",
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.france24.com\/en\/france\/20260716-french-pm-lecornu-seeks-deeper-ties-energy-cooperation-on-morocco-visit",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Fransa ve Fas, son iki yılda gelişen yenilenmiş bir ortaklığı güçlendirmek için Perşembe günü adımlar attı. Fransa Başbakanı Sébastien Lecornu, Rabat'ta yaptığı açıklamada, iki ülke arasındaki ilişkileri \"olağanüstü olumlu\" olarak nitelendirdi.",
-          "group" : "France Morocco energy ties",
-          "id" : "https:\/\/www.france24.com\/en\/france\/20260716-french-pm-lecornu-seeks-deeper-ties-energy-cooperation-on-morocco-visit",
-          "link" : "https:\/\/www.france24.com\/en\/france\/20260716-french-pm-lecornu-seeks-deeper-ties-energy-cooperation-on-morocco-visit",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "France 24 World",
-              "url" : "https:\/\/www.france24.com\/en\/france\/20260716-french-pm-lecornu-seeks-deeper-ties-energy-cooperation-on-morocco-visit"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Le Monde International",
-              "url" : "https:\/\/www.lemonde.fr\/en\/international\/article\/2026\/07\/16\/france-morocco-sign-new-partnership-despite-spyware-controversy_6755548_4.html"
-            }
-          ],
-          "titleTR" : "Fransa Başbakanı Lecornu, Fas ziyaretinde derinleşen ilişkiler ve enerji iş birliği arayışında"
-        }
-      ],
-      "packetSpot" : "Fransa Başbakanı Sébastien Lecornu'nun Fas ziyareti, casus yazılım iddialarına rağmen güçlenen ikili ilişkileri vurguluyor.",
-      "packetTitle" : "Lecornu'nun Fas ziyareti: Casus yazılım gölgesinde güçlenen bağlar",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 32
-    },
-    {
-      "illustrationName" : "CF53411C-06C5-5B1B-BF56-D2DC9C37AD42.png",
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-iran-war-agreement-mou\/687916\/?utm_source=feed",
-          "category" : "Diplomacy",
-          "descriptionTR" : "ABD ile İran arasındaki savaş, Başkan Trump'ın geçen ay Versailles'daki bir akşam yemeğinde mutabakat zaptı imzalamasıyla sona ermesi gerekiyordu. Ancak Trump'ın bağlayıcı sözleşme tanımı esnek ve İran'ın daha fazla düşmanlıktan kaybedecek pek bir şeyi yok. İki ülke, o zamandan beri fiilen savaş halinde kalmaya devam ediyor. Mutabakat zaptı, ateşkesi kalıcı hale getirmeyi ve çatışmanın kökenindeki birçok anlaşmazlığı çözmek için 60 günlük bir müzakere dönemi başlatmayı amaçlıyordu. Ancak, 60 günlük sürenin yarısına gelindiğinde, mutabakatın 14 maddesi neredeyse tamamen ihlal edildi. ABD ve İran, en az üç karşılıklı saldırıda bulundu. Trump, Kongre'ye İran'la düşmanlıkların yeniden başladığını bildirdi ve bu hafta başında ablukayı yeniden kurdu. ABD, Körfez'de büyük bir güç bulunduruyor. Trump'ın İran'ı masaya getirme girişimi ciddi tehlikede görünüyor. Avrupa ve Orta Doğulu birçok yetkili şüpheli. Trump, geçen hafta ABD ile İran arasındaki ateşkesin 'bittiğini' ilan ettiğinde, aslında zaten açık olanı seslendirmiş olabilir. İran'ın nükleer programını sona erdirmek için belirlenen 21 Ağustos son tarihine kadar müzakereler mucizevi bir şekilde sonuç verebilir ya da Trump'ın kabul etmeye istekli olduğu daha az iddialı bir sonuç elde edilebilir. Ancak ABD ve İran, küresel ekonominin sonuçlarına katlanarak, öngörülebilir bir gelecekte aralıklı çatışmalarla dolu bir belirsizlik içinde kalabilir.",
-          "group" : "Iran ceasefire talks",
-          "id" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-iran-war-agreement-mou\/687916\/?utm_source=feed",
-          "link" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-iran-war-agreement-mou\/687916\/?utm_source=feed",
-          "newsValue" : 9,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Atlantic",
-              "url" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-iran-war-agreement-mou\/687916\/?utm_source=feed"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Atlantic",
-              "url" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/who-controls-strait-of-hormuz\/687920\/?utm_source=feed"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/16\/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html"
-            }
-          ],
-          "titleTR" : "Sonsuz müzakere"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Hürmüz'de gerilim artıyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 33
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/we-never-left-lebanese-army-says-it-already-patrols-pilot-zone-as-talks-with-israel-move-forward\/",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Lübnan ordusu, ABD arabuluculuğunda Lübnan ve İsrail arasında imzalanan plan kapsamında önerilen pilot bölgelerden birinde güney köylerinde varlığını sürdürdüğünü belirtti. Ancak, Hizbullah henüz silahsızlandırılmadı. Güvenlik kaynaklarına göre, İsrail güçleri bu bölgelere hiç girmedi ve Lübnan ordusu da buradan hiç çekilmedi. ABD arabuluculuğundaki görüşmelerin ardından, teknik detayların belirlenmesi için askeri bir toplantı yapılacak. Lübnan, İsrail'i pilot bölgelerin uygulanmasına bir an önce başlamaya zorladı. Ancak, Hizbullah'ın silahsızlandırılması konusunda anlaşma sağlanamadı. İsrail Savunma Bakanı Israel Katz, İsrail'in Lübnan, Suriye ve Gazze'de 'güvenlik bölgeleri'ni korumakta kararlı olduğunu belirtti.",
-          "group" : "Lebanon Israel talks",
-          "id" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/we-never-left-lebanese-army-says-it-already-patrols-pilot-zone-as-talks-with-israel-move-forward\/",
-          "link" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/we-never-left-lebanese-army-says-it-already-patrols-pilot-zone-as-talks-with-israel-move-forward\/",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The National News",
-              "url" : "https:\/\/www.thenationalnews.com\/news\/mena\/2026\/07\/16\/we-never-left-lebanese-army-says-it-already-patrols-pilot-zone-as-talks-with-israel-move-forward\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "ABC News US",
-              "url" : "https:\/\/abcnews.com\/International\/wireStory\/lebanon-israel-move-implementing-withdrawal-agreement-us-officials-134786502"
-            }
-          ],
-          "titleTR" : "Lübnan ordusu: 'Hiç ayrılmadık', İsrail ile görüşmeler ilerliyor"
-        }
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Lübnan ve İsrail arasında ABD arabuluculuğunda ilerleyen görüşmeler",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 34
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/sports.yahoo.com\/articles\/fifa-assessing-reports-over-disciplinary-000324228.html",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Arjantin, İngiltere'yi 2026 Dünya Kupası yarı finalinde yenmesinin ardından Falkland Adaları hakkında bir pankart açtı. FIFA'nın disiplin komitesi, olayla ilgili maç raporlarını değerlendiriyor ve olası adımları gözden geçiriyor. Downing Street, Arjantin'in davranışının incelenmesi için FIFA'ya çağrıda bulundu. Eski İngiltere milli futbolcusu Peter Reid, pankartın kabul edilemez olduğunu belirtti. Falkland Adaları, 2013'te yapılan referandumda Birleşik Krallık'a bağlı kalmayı tercih etmişti. Arjantin, 2024'teki bir dostluk maçında benzer bir pankart açtığı için FIFA tarafından para cezasına çarptırılmıştı.",
-          "group" : "Falklands World Cup dispute",
-          "id" : "https:\/\/sports.yahoo.com\/articles\/fifa-assessing-reports-over-disciplinary-000324228.html",
-          "link" : "https:\/\/sports.yahoo.com\/articles\/fifa-assessing-reports-over-disciplinary-000324228.html",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Yahoo Sports",
-              "url" : "https:\/\/sports.yahoo.com\/articles\/fifa-assessing-reports-over-disciplinary-000324228.html"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CBC World",
-              "url" : "https:\/\/www.cbc.ca\/news\/world\/argentina-fifa-celebration-uk-falkland-islands-9.7272674?cmp=rss"
-            }
-          ],
-          "titleTR" : "FIFA, Falkland pankartı için disiplin soruşturmasını değerlendiriyor"
-        },
-        {
-          "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/16\/argentina-uk-hms-medway-protest-released-after-the-match-reignites-falklands-tension?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "category" : "Diplomacy",
-          "descriptionTR" : "Arjantin hükümeti, İngiltere'yi Dünya Kupası yarı finalinde yenmesinin ardından, Falkland Adaları'na atanan Kraliyet Donanması devriye gemisi HMS Medway'in hareketleri nedeniyle Birleşik Krallık'a protesto notası verdi. Bu protesto, 13 Temmuz'da Buenos Aires'teki İngiliz Büyükelçiliği'ne iletilmişti ancak maçın ardından kamuoyuna duyuruldu. Arjantinli oyuncuların egemenlik iddiasını destekleyen pankartla kutlama yapmasıyla diplomatik şikayet birleşti.",
-          "group" : "Falklands sovereignty dispute",
-          "id" : "https:\/\/en.mercopress.com\/2026\/07\/16\/argentina-uk-hms-medway-protest-released-after-the-match-reignites-falklands-tension?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "link" : "https:\/\/en.mercopress.com\/2026\/07\/16\/argentina-uk-hms-medway-protest-released-after-the-match-reignites-falklands-tension?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T01:52:19Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "MercoPress",
-              "url" : "https:\/\/en.mercopress.com\/2026\/07\/16\/argentina-uk-hms-medway-protest-released-after-the-match-reignites-falklands-tension?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "MercoPress",
-              "url" : "https:\/\/en.mercopress.com\/2026\/07\/16\/falklands-government-calls-argentine-banner-insensitive-urges-fifa-to-sanction?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "MercoPress",
-              "url" : "https:\/\/en.mercopress.com\/2026\/07\/15\/british-embassy-in-buenos-aires-jokes-ahead-of-argentina-england-semifinal?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-            }
-          ],
-          "titleTR" : "Arjantin-İngiltere: HMS Medway protestosu Falkland gerilimini artırdı"
-        }
-      ],
-      "packetSpot" : "Arjantin'in Dünya Kupası kutlamaları, Falkland Adaları üzerindeki gerilimi yeniden alevlendirdi. Diplomatik protestolar ve FIFA'nın olası disiplin soruşturmaları, egemenlik iddiası pankartının ardından gündemde.",
-      "packetTitle" : "Arjantin'in kutlamaları Falkland gerilimini tırmandırıyor",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 35
-    },
-    {
-      "items" : [
-
-      ],
-      "packetSpot" : "",
-      "packetTitle" : "Körfez'de ABD-İran gerilimi",
-      "publishedAt" : "2026-07-17T01:52:19Z",
-      "sessionID" : "publish-draft",
-      "slot" : 36
-    }
-  ],
-  "superPackets" : [
-    {
-      "slots" : [
-        5,
-        8,
-        24,
-        29
-      ],
-      "spot" : "The Trump administration's decisions on ICE operations are under scrutiny following fatal incidents and calls for reform.",
-      "title" : "Scrutiny and Reversal on ICE Operations After Fatal Incidents"
-    },
-    {
-      "slots" : [
-        6,
-        33,
-        36
-      ],
-      "spot" : "US-Iran tensions are intensifying with military actions and failed negotiations in the Gulf region.",
-      "title" : "Escalating US-Iran Tensions in the Gulf Region"
-    },
-    {
-      "slots" : [
-        18,
-        19
-      ],
-      "spot" : "The Ebola crisis in Central Africa is exacerbated by healthcare strikes and travel restrictions, hindering response efforts.",
-      "title" : "Ebola Crisis in Central Africa: Strikes and Restrictions"
-    },
-    {
-      "slots" : [
-        10,
-        12,
-        13
-      ],
-      "spot" : "Wildfires are intensifying globally, with severe impacts on communities, health, and international cooperation.",
-      "title" : "Escalating Global Wildfire Crisis and Its Far-Reaching Consequences"
-    },
-    {
-      "slots" : [
-        23,
-        26
-      ],
-      "spot" : "Todd Blanche's nomination is under scrutiny due to his connections and the pressure from political figures.",
-      "title" : "Todd Blanche's Nomination Under Political and Ethical Scrutiny"
     }
   ],
   "week" : "2026-W29"
