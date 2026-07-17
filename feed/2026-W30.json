@@ -1,51 +1,195 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-17T09:10:22Z",
+  "publishedAt" : "2026-07-17T10:53:09Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/the-problem-with-the-odysseys-imax-hype\/687949\/?utm_source=feed",
-          "category" : "Culture",
-          "descriptionTR" : "Christopher Nolan'ın 'The Odyssey' filmi, tamamen IMAX kameralarla çekilen ilk ticari film olarak öne çıkıyor. Ancak, ABD'deki sinemaların çoğu, filmi yönetmenin istediği gibi gösteremiyor. IMAX 70 mm formatında izlemek isteyenler, sınırlı sayıda sinemada bu deneyimi yaşayabiliyor. IMAX CEO'su Richard Gelfond, bu formatı gösterebilecek yeterli sayıda projeksiyon cihazının olmadığını belirtiyor. Bu durum, bazı izleyicilerin tam deneyimi kaçırdığı hissine kapılmasına neden oluyor. IMAX 70 mm izleyicileri, 'Dune: Part Three' filminden özel görüntüler de izleyebiliyor. Ancak, birçok sinema bu formatı sunamadığı için izleyiciler farklı deneyimler yaşıyor.",
-          "group" : "IMAX and cinema",
-          "id" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/the-problem-with-the-odysseys-imax-hype\/687949\/?utm_source=feed",
-          "link" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/the-problem-with-the-odysseys-imax-hype\/687949\/?utm_source=feed",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T09:10:22Z",
+          "atomID" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+          "category" : "Health",
+          "descriptionTR" : "Dünya Sağlık Örgütü (DSÖ), Bundibugyo virüsü (BDBV) için ilk moleküler tanı testini Acil Kullanım Listesi'ne ekledi. Bu test, virüsün genetik materyalini kan örneklerinde tespit ederek enfeksiyonu hızlı ve doğru bir şekilde doğruluyor. DSÖ'nün bu listeleme süreci, sağlık ürünlerinin kalitesini, güvenliğini ve performansını değerlendirerek düşük ve orta gelirli ülkelerin ihtiyaçlarını karşılamayı hedefliyor. DSÖ, bu mekanizma aracılığıyla erken vaka tespiti, zamanında klinik bakım ve etkili salgın yanıtı için güvenilir tanı araçlarına erişimi hızlandırmayı amaçlıyor.",
+          "group" : "Ebola diagnostic response",
+          "id" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+          "link" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-17T10:53:09Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Atlantic",
-              "url" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/the-problem-with-the-odysseys-imax-hype\/687949\/?utm_source=feed"
+              "sourceName" : "World Health Organization",
+              "url" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing"
             }
           ],
-          "titleTR" : "<em>Odyssey<\/em> izlerken eksik kalabilirsiniz"
+          "titleTR" : "DSÖ, Bundibugyo virüsü için ilk tanı testini Acil Kullanım Listesi'ne ekledi"
         },
         {
-          "atomID" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/the-odyssey-movie-review-christopher-nolan\/687913\/?utm_source=feed",
-          "category" : "Culture",
-          "descriptionTR" : "Christopher Nolan'ın 'The Odyssey' uyarlaması, IMAX formatında çekilmiş görsel bir şölen sunuyor. Film, Odysseus'un karmaşık hikayesini ve Yunan tanrıları ile canavarlarını içeren epik bir anlatı sunarken, aynı zamanda kişisel bir hikaye de anlatıyor. Nolan, Odysseus'un (Matt Damon) kayıp ve özlem dolu yolculuğunu, şiirin macera dolu ruhunu koruyarak ele alıyor. Film, görsel gerçekçiliği ve minimal CGI kullanımıyla dikkat çekiyor. Odysseus'un yolculuğu, hem fiziksel hem de duygusal bir keşif olarak sunuluyor. Nolan, bu epik hikayeyi IMAX çağında yeniden canlandırarak izleyiciye sunuyor.",
-          "group" : "Odyssey film review",
-          "id" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/the-odyssey-movie-review-christopher-nolan\/687913\/?utm_source=feed",
-          "link" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/the-odyssey-movie-review-christopher-nolan\/687913\/?utm_source=feed",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T09:10:22Z",
+          "atomID" : "https:\/\/www.who.int\/news\/item\/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
+          "category" : "Health",
+          "descriptionTR" : "Afrika Hastalık Kontrol ve Önleme Merkezleri (Afrika CDC) ve Dünya Sağlık Örgütü (DSÖ), Bundibugyo virüsünün neden olduğu Ebola salgınına karşı ortak bir kıtasal hazırlık ve müdahale planı başlattı. Plan, Afrika ülkelerinin salgına hazırlık yapmalarını, hızlı tespit etmelerini ve yanıt vermelerini desteklemek için 518 milyon ABD doları toplamayı hedefliyor. Plan, acil durum koordinasyonu, hastalık gözetimi, laboratuvar testleri, enfeksiyon önleme ve kontrol, klinik bakım, topluluk katılımı, araştırma, lojistik ve temel sağlık hizmetleri desteği gibi önlemleri güçlendirmeyi amaçlıyor.",
+          "group" : "Ebola continental response",
+          "id" : "https:\/\/www.who.int\/news\/item\/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
+          "link" : "https:\/\/www.who.int\/news\/item\/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
+          "newsValue" : 9,
+          "publishedAt" : "2026-07-17T10:53:09Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Atlantic",
-              "url" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/the-odyssey-movie-review-christopher-nolan\/687913\/?utm_source=feed"
+              "sourceName" : "World Health Organization",
+              "url" : "https:\/\/www.who.int\/news\/item\/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan"
             }
           ],
-          "titleTR" : "En büyük ekranı hak eden bir <em>Odyssey<\/em>"
+          "titleTR" : "Afrika CDC ve DSÖ, kıtasal Ebola müdahale planını başlattı"
+        },
+        {
+          "atomID" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
+          "category" : "Health",
+          "descriptionTR" : "Demokratik Kongo Cumhuriyeti (DKC) Hükümeti ve Dünya Sağlık Örgütü (DSÖ), Ituri Eyaleti ve ülke genelindeki halkın sağlığını koruma konusundaki güçlü ortaklıklarını ve kararlılıklarını yeniden teyit etti. DKC Sağlık Bakanlığı, Ituri, Kuzey Kivu ve Güney Kivu'daki sağlık bölgelerinde vakaların ve ölümlerin bildirildiği hızla gelişen bir durum olduğunu aktarıyor. Hükümet, DSÖ ve ortaklarının desteğiyle gözetim, laboratuvar testleri ve hasta bakımını yoğunlaştırıyor.",
+          "group" : "Ebola outbreak DRC",
+          "id" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
+          "link" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
+          "newsValue" : 9,
+          "publishedAt" : "2026-07-17T10:53:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "World Health Organization",
+              "url" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus"
+            }
+          ],
+          "titleTR" : "DSÖ ve Demokratik Kongo Cumhuriyeti'nden ortak Ebola açıklaması"
+        },
+        {
+          "atomID" : "https:\/\/www.who.int\/news\/item\/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
+          "category" : "Health",
+          "descriptionTR" : "Komite, DSÖ Genel Direktörü'nün olayın uluslararası öneme sahip bir halk sağlığı acil durumu (PHEIC) oluşturduğu yönündeki belirlemesiyle uyumlu tavsiyelerde bulundu, ancak pandemi acil durumu kriterlerini karşılamadığını belirtti. Genel Direktör, Komite'nin tavsiyelerini dikkate alarak tüm Devlet Taraflarına geçici önerilerde bulunuyor.",
+          "group" : "Ebola outbreak DRC",
+          "id" : "https:\/\/www.who.int\/news\/item\/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
+          "link" : "https:\/\/www.who.int\/news\/item\/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-17T10:53:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "World Health Organization",
+              "url" : "https:\/\/www.who.int\/news\/item\/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations"
+            }
+          ],
+          "titleTR" : "IHR Acil Durum Komitesi'nin Ebola salgınına dair ilk toplantısı"
         }
       ],
-      "packetSpot" : "",
-      "packetTitle" : "Nolan'ın 'The Odyssey'si IMAX ile buluşuyor",
-      "publishedAt" : "2026-07-17T09:10:22Z",
+      "packetSpot" : "Dünya Sağlık Örgütü ve ortakları, Demokratik Kongo Cumhuriyeti'ndeki Bundibugyo Ebola salgınına karşı çabalarını yoğunlaştırıyor.",
+      "packetTitle" : "Ebola'ya karşı uluslararası işbirliği",
+      "publishedAt" : "2026-07-17T10:53:09Z",
       "sessionID" : "publish-draft",
       "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
+          "category" : "Science",
+          "descriptionTR" : "Diğer gezegenlerde yaşam arayışında önemli bir kilometre taşı olarak, astronomlar ilk kez başka bir yıldızın yaşanabilir bölgesinde dönen Dünya benzeri kayalık bir gezegenin etrafında bir atmosfer tespit etti. Bu bulgu, Dünya'ya benzer bileşim ve sıcaklık koşullarına sahip, yaşamı destekleme potansiyeli olan dünyaların güneş sistemimizin ötesinde var olabileceğine dair en güçlü kanıtı sunuyor.",
+          "group" : "Habitable exoplanet atmosphere",
+          "id" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
+          "link" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-17T10:53:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Phys.org",
+              "url" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html"
+            }
+          ],
+          "titleTR" : "Güneş sistemimizin ötesinde yaşam arayışı: Yaşanabilir bölgede kayalık bir dünyada atmosfer tespit edildi"
+        },
+        {
+          "atomID" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "category" : "Science",
+          "descriptionTR" : "Astronomlar daha önce sadece çok büyük veya inanılmaz derecede sıcak ötegezegenlerde atmosfer bulmuşlardı – ancak şimdi yaşam için uygun olabilecek bir dünyada atmosfer buldular.",
+          "group" : "Temperate exoplanet atmosphere",
+          "id" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "link" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "newsValue" : 9,
+          "publishedAt" : "2026-07-17T10:53:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+            }
+          ],
+          "titleTR" : "İlk kez kayalık, ılıman bir gezegenin atmosferi bulundu"
+        }
+      ],
+      "packetSpot" : "Astronomlar, kayalık ötegezegenlerde atmosfer tespit ederek dünya dışı yaşam arayışında önemli bir ilerleme kaydetti.",
+      "packetTitle" : "Ötegezegenlerde atmosfer keşifleri",
+      "publishedAt" : "2026-07-17T10:53:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.who.int\/news\/item\/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+          "category" : "Health",
+          "descriptionTR" : "Dünya Sağlık Örgütü (DSÖ) tarafından bugün yayımlanan bir rapora göre, kanser her gün 26.000'den fazla can alarak milyonlarca insanın fiziksel, duygusal ve finansal yükle karşı karşıya kalmasına neden oluyor. Yıllık yaklaşık 20,6 milyon yeni vaka ve 10 milyon ölüme yol açan kanser, kardiyovasküler hastalıklardan sonra dünya genelinde ikinci önde gelen ölüm nedeni olmaya devam ediyor.",
+          "group" : "Global cancer burden",
+          "id" : "https:\/\/www.who.int\/news\/item\/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+          "link" : "https:\/\/www.who.int\/news\/item\/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-17T10:53:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "World Health Organization",
+              "url" : "https:\/\/www.who.int\/news\/item\/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050"
+            }
+          ],
+          "titleTR" : "DSÖ: 2050'ye kadar yeni kanser vakaları neredeyse iki katına çıkabilir"
+        },
+        {
+          "atomID" : "https:\/\/www.who.int\/news\/item\/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
+          "category" : "Health",
+          "descriptionTR" : "Dünya Sağlık Örgütü (DSÖ) tarafından bugün yayımlanan yeni tahminlere göre, beş yaşından küçük çocuklar, güvensiz gıdadan kaynaklanan hastalık riskine daha büyük yaş gruplarına göre neredeyse üç kat daha fazla maruz kalıyor.",
+          "group" : "Food safety burden",
+          "id" : "https:\/\/www.who.int\/news\/item\/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
+          "link" : "https:\/\/www.who.int\/news\/item\/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T10:53:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "World Health Organization",
+              "url" : "https:\/\/www.who.int\/news\/item\/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk"
+            }
+          ],
+          "titleTR" : "Güvensiz gıda her yıl 866 milyon hastalık ve 1,5 milyon ölüme neden oluyor"
+        },
+        {
+          "atomID" : "https:\/\/www.who.int\/news\/item\/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
+          "category" : "Health",
+          "descriptionTR" : "Dünya genelinde en az 40 milyon 13-15 yaş arası çocuk tütün ürünleri kullanıyor ve gençlerin e-sigara ve nikotin poşetlerine yönelimi artıyor. Dünya Tütünsüz Günü öncesinde – 31 Mayıs – Dünya Sağlık Örgütü (DSÖ), yeni neslin tütün ve nikotin ürünlerine bağımlı hale gelmesini önlemek için hükümetlere çağrıda bulunuyor.",
+          "group" : "Youth tobacco addiction",
+          "id" : "https:\/\/www.who.int\/news\/item\/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
+          "link" : "https:\/\/www.who.int\/news\/item\/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T10:53:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "World Health Organization",
+              "url" : "https:\/\/www.who.int\/news\/item\/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products"
+            }
+          ],
+          "titleTR" : "DSÖ, gençleri tütün ve nikotin ürünlerinden korumak için hükümetlere çağrıda bulundu"
+        }
+      ],
+      "packetSpot" : "DSÖ, kanser, güvensiz gıda ve gençlerde nikotin bağımlılığı gibi küresel sağlık riskleri konusunda uyarılarda bulundu.",
+      "packetTitle" : "DSÖ'nün küresel sağlık riskleri uyarıları",
+      "publishedAt" : "2026-07-17T10:53:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
     }
   ],
   "week" : "2026-W30"
