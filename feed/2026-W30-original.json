@@ -1,195 +1,228 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-17T10:53:09Z",
+  "publishedAt" : "2026-07-17T22:03:25Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-          "category" : "Health",
-          "descriptionTR" : "Today, the World Health Organization (WHO) has added the first molecular diagnostic test for Bundibugyo virus (BDBV) to its Emergency Use Listing (EUL). The test detects the virus by identifying its genetic material in blood samples, helping confirm infection rapidly and accurately.\nWHO’s EUL procedure assesses the quality, safety and performance of essential health products based on the available evidence, while ensuring they meet minimum international standards and address the needs of low- and middle-income countries.\nThrough this mechanism, WHO aims to accelerate access to reliable diagnostic tools for early case detection, timely clinical care, disease surveillance and effective outbreak response. The EUL also supports United Nations procurement agencies and governments in making informed decisions about the procurement and use of these products in public health emergency settings.\n\"Public health emergencies require not only speed, but also confidence that the health products being used meet standards for quality, safety and performance,\" said Dr Yukiko Nakatani, WHO Assistant Director-General for Health Systems, Access and Data. \"During a fast-moving outbreak, timely access to quality-assured diagnostic tests can make a critical difference in containing transmission. Through this Emergency Use Listing, WHO is helping countries access trusted diagnostic tools more rapidly so that they can respond more effectively.”\nOn 17 May 2026, WHO Director-General Dr Tedros Adhanom Ghebreyesus declared a public health emergency of international concern over the outbreak of Ebola disease caused by Bundibugyo virus in the Democratic Republic of the Congo, with cases in Uganda. Less than two weeks later, WHO launched a call for manufacturers of IVDs for Bundibugyo virus to submit Expressions of Interest for Emergency Use Listing.\nThe listing comes at a critical time as countries respond to the largest recorded outbreak of Ebola disease caused by BDBV, which continues to expand. As of today, 1406 laboratory-confirmed cases and 438 deaths had been reported in the Democratic Republic of the Congo alone.\nWith support from WHO and the Africa Centres for Disease Control and Prevention (Africa CDC), laboratory testing capacity has expanded from a limited number of sites – primarily Institut National de Recherche Biomédicale in Kinshasa and Goma, with an estimated combined capacity of approximately 200–400 tests per day – to a broader network of 10 laboratories across affected provinces, with a reported capacity of over 2000 tests per day. Rapid and reliable diagnosis remains essential to identify cases early, guide timely patient care, interruptand help bring outbreaks under control.\nWHO continues to work closely with manufacturers, global partners and countries to expand the availability of and access to safe, effective and quality-assured life-saving health products. Additional applications for BDBV IVDs submitted through the EUL procedure are currently under review.\nIn parallel, WHO and Africa CDC, with partners including PATH, FIND and CHAI, and with support from Unitaid, are establishing a joint validation platform to rapidly evaluate the performance of a selection of diagnostic products, including laboratory-based molecular tests, near-point-of-care molecular tests and antigen rapid diagnostic tests. The platform will generate critically needed clinical evidence on the performance of these products in outbreak settings.\nBundibugyo virus disease is a severe, often life-threatening disease caused by BDBV, one of three Ebola virus species known to cause large outbreaks in humans. The virus can spread from animals to humans and then from person to person through contact with a person sick or deceased and their infected bodily fluids or surfaces or items contaminated by these fluids.\nInformation on active EUL applications for IVDs for BDBV nucleic acid detection can be found on these WHO webpages.\nAbout WHO\nDedicated to the well-being of all people and guided by science, the World Health Organization leads and champions global efforts to give everyone, everywhere an equal chance at a safe and healthy life.\nWe are the UN agency for health that connects nations, partners and people on the front lines in 150+ locations – leading the world’s response to health emergencies, preventing disease, addressing the root causes of health issues and expanding access to medicines and health care. Our mission is to support countries to promote, provide and protect health.\n“Together for health. Stand with science”, the theme of World Health Day 2026 marks a year-long campaign to highlight science as the foundation for protecting health and well-being worldwide.",
-          "group" : "Ebola diagnostic response",
-          "id" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-          "link" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T10:53:09Z",
+          "atomID" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
+          "category" : "Law",
+          "descriptionTR" : "Official estimates Google and Apple likely made millions in nudify app fees.\nThis week, San Francisco’s attorney general, David Chiu, sent cease-and-desist letters, demanding that Apple and Google remove 13 so-called nudification apps from their app stores, Wired reported.\nNudification apps can make it trivially easy to transform ordinary photos of real people into explicit images. The harmful AI tools allow bad actors to remove clothing, change a person’s features, place them in sexualized positions, and swap victims’ faces onto other people’s naked bodies.\nChiu's letter warned that app stores were violating \"California’s laws that prohibit supporting services that create deepfake pornography,\" Wired reported.\nRead full article\nComments",
+          "group" : "Deepfake nude app crackdown",
+          "id" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
+          "link" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/02-07-2026-who-adds-first-diagnostic-test-for-ebola-bundibugyo-virus-to-its-emergency-use-listing"
-            }
-          ],
-          "titleTR" : "WHO adds first diagnostic test for Ebola Bundibugyo virus to its Emergency Use Listing"
-        },
-        {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
-          "category" : "Health",
-          "descriptionTR" : "The Africa Centres for Disease Control and Prevention (Africa CDC) and the World Health Organization (WHO) today launched a joint continental preparedness and response plan on the ongoing Ebola outbreak caused by the Bundibugyo virus. The plan aims to raise US$ 518 million to support African countries together with partners to prepare for, rapidly detect and respond to the outbreak.\nThe six-month plan, covering June to November 2026, brings together governments, partners and communities under a unified ‘One Response’ approach to strengthen outbreak response measures, including emergency coordination, disease surveillance, laboratory testing, infection prevention and control, clinical care, community engagement, research, logistics and support for essential health services.\nThe plan complements national response plans launched by the Governments of the Democratic Republic of the Congo and Uganda.\n“The only way to beat this outbreak is through close partnership, working together under the leadership of the affected countries in one coordinated effort, guided by a simple principle: one plan, one budget, one team,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Containing Ebola depends on political commitment, sustained financing, and the trust and engagement of communities. This plan places communities at the centre, because without their participation, contact tracing falters, safe care is delayed, and transmission continues.”\nDr Jean Kaseya, Director-General of Africa CDC, said: “Ebola moves fast. Africa must move faster. This joint plan gives the continent a clear path to act with speed and unity: to save lives, support the affected countries and protect neighbouring communities. With Member States, WHO and partners, Africa CDC is turning commitment into action and resources into response for the communities at risk.”\nThe plan also focuses on protecting vulnerable populations, strengthening cross-border collaboration, and supporting countries to respond quickly to new cases. At a time when there are no licensed vaccines or therapeutics specifically approved for the Bundibugyo species of Ebola, the plan aims to strengthen health systems to ensure resilience even as countries respond to acute health emergencies.\nImplementation of preparedness and response activities is already underway across affected and at-risk countries. Furthermore, in 10 priority countries critical measures are being strengthened to enhance public health emergency preparedness and ensure early detection and swift response.\nThe plan emphasizes the need to maintain support for other ongoing health emergencies, including mpox, cholera and measles, to prevent disruptions to critical response efforts and safeguard progress towards stronger, more resilient health systems.\nThis coordinated effort comes as response operations accelerate in the Democratic Republic of the Congo, where authorities, with support from Africa CDC, WHO and partners, are ramping up efforts to curb the spread of the virus and end the outbreak.\nAfrica CDC and WHO urge Member States to strengthen screening and public health measures at points of entry and enhance cross-border coordination and solidarity to support a timely, effective and evidence-based response to the outbreak.\nThrough the joint preparedness and response plan, the continent is mobilising its collective expertise and resources to reinforce response measures, acting as one to control the outbreak and protect communities across the region. Its successful implementation will require strong political commitment, sustained investment and close collaboration among governments, health workers, communities and partners.\nDrawing on lessons learned from previous Ebola outbreaks and recent public health emergencies, the plan also provides a pathway to broadly strengthen Africa’s capacity to prevent, detect and respond to future health threats while protecting lives and livelihoods.\n\nAbout Africa CDC\nThe Africa Centres for Disease Control and Prevention (Africa CDC) is the public health agency of the African Union. As an autonomous institution, Africa CDC supports AU Member States to strengthen health systems, improve disease surveillance, and enhance emergency preparedness and response. Africa CDC works with Member States, Regional Economic Communities and partners to prevent, detect and respond quickly and effectively to disease threats and outbreaks across the continent.\nFor more information, visit www.africacdc.org and follow Africa CDC on LinkedIn, X, Facebook and YouTube.\nAbout WHO\nDedicated to the well-being of all people and guided by science, the World Health Organization leads and champions global efforts to give everyone, everywhere an equal chance at a safe and healthy life.\nWe are the UN agency for health that connects nations, partners and people on the front lines in 150+ locations – leading the world’s response to health emergencies, preventing disease, addressing the root causes of health issues and expanding access to medicines and health care. Our mission is to promote health, keep the world safe and serve the vulnerable.\n“Together for health. Stand with science”, the theme of World Health Day 2026 marks a year-long campaign to highlight science as the foundation for protecting health and well-being worldwide.",
-          "group" : "Ebola continental response",
-          "id" : "https:\/\/www.who.int\/news\/item\/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
-          "link" : "https:\/\/www.who.int\/news\/item\/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan",
-          "newsValue" : 9,
-          "publishedAt" : "2026-07-17T10:53:09Z",
-          "sources" : [
+              "sourceName" : "Ars Technica",
+              "url" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/"
+            },
             {
               "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan"
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores\/"
             }
           ],
-          "titleTR" : "Africa CDC and WHO launch joint continental Ebola response plan"
-        },
-        {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
-          "category" : "Health",
-          "descriptionTR" : "The Government of the Democratic Republic of the Congo (DRC) and the World Health Organization (WHO) reaffirm their strong partnership and shared commitment to protect the health and well-being of the people of Ituri Province and the nation at large, following the joint mission to Bunia led by Dr Samuel Roger Kamba, Minister of Health, Mr. Patrick Muyaya Katembwe, Minister of Communication and Medias, and the visit of WHO Director-General Dr Tedros Adhanom Ghebreyesus.\nThis high-level visit comes at a challenging time, as the country responds to an outbreak of Ebola disease caused by the Bundibugyo virus. The Ministry of Health reports a rapidly evolving situation, with cases and deaths notified in several health zones of Ituri, North Kivu and South Kivu. The Government, with support from WHO and partners, is intensifying surveillance, laboratory testing and patient care to interrupt transmission as quickly as possible\nThe Government of the DRC is firmly leading a comprehensive national response, working closely with provincial authorities in Ituri and neighbouring provinces. WHO, alongside the broader United Nations system and health and humanitarian partners, is fully committed to supporting these efforts. Together, DRC authorities, WHO and partners are working to strengthen coordination, mobilize additional resources, and ensure that life-saving interventions reach affected communities quickly and equitably\nCentral to this response is the recognition that communities are at the heart of the solution. Success will depend on the trust, engagement and leadership of local communities. National and provincial authorities, with support from WHO and partners, are intensifying dialogue with community leaders, women's groups, youth representatives, religious leaders and the private sector to better understand local concerns and co-develop solutions that are culturally appropriate and effective.\nWhile the Bundibugyo strain presents additional challenges, including the absence of a licensed vaccine or specific treatment, proven public health measures remain effective in slowing transmission and potential full recovery. The Ministry of Health, WHO and partners are working to rapidly undertake randomized control trials on candidate vaccines and treatments.\nPersistent challenges include early detection and isolation of cases, contact tracing, safe and dignified burials, robust infection prevention and control in health facilities, and strong community awareness. The Government and WHO call on all communities to continue adopting protective behaviours, including regular hand hygiene, early care seeking in health facilities, and sharing accurate information.\nThe DRC brings unparalleled experience to this response, having successfully contained multiple previous Ebola outbreaks. This experience, combined with strong political leadership at the highest level of the State and renewed international solidarity, provides a firm foundation for bringing the current outbreak under control.\nBoth parties emphasize that outbreak response must maintain primary health care and essential services and strengthen long-term health system resilience. Investments made today in laboratories, health workers, surveillance systems and essential services will leave a legacy for the people of Ituri and the DRC as a whole.\nWe sincerely thank our international partners for the support already provided to response operations, and we encourage sustained solidarity to bring this outbreak under control. Cooperation between countries must also ensure that borders remain open, and that entry controls do not obstruct the flow of desperately needed medical supplies and personnel.\nTogether, DRC authorities, WHO, Africa CDC and partners are working to strengthen coordination, mobilize additional resources, and ensure that life-saving interventions reach affected communities quickly and equitably.",
-          "group" : "Ebola outbreak DRC",
-          "id" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
-          "link" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus",
-          "newsValue" : 9,
-          "publishedAt" : "2026-07-17T10:53:09Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/31-05-2026-joint-statement-by-the-government-of-the-democratic-republic-of-the-congo-and-who-concerning-the-outbreak-of-ebola-disease-caused-by-the-bundibugyo-virus"
-            }
-          ],
-          "titleTR" : "Joint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease caused by the Bundibugyo virus"
-        },
-        {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
-          "category" : "Health",
-          "descriptionTR" : "The Committee’s advice aligned with the determination by the WHO Director-General that the event constitutes a public health emergency of international concern (PHEIC), but does not meet the criteria for pandemic emergency. The DG, considering the advice of the Committee, he is hereby issuing the following temporary recommendations to all States Parties.",
-          "group" : "Ebola outbreak DRC",
-          "id" : "https:\/\/www.who.int\/news\/item\/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
-          "link" : "https:\/\/www.who.int\/news\/item\/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T10:53:09Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations"
-            }
-          ],
-          "titleTR" : "First meeting of the IHR Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo and Uganda 2026 – Temporary recommendations"
+          "titleTR" : "San Francisco orders Apple, Google to remove nudify apps from app stores"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-07-17T10:53:09Z",
+      "publishedAt" : "2026-07-17T22:03:25Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
-          "category" : "Science",
-          "descriptionTR" : "In a major milestone in the search for life on other planets, astronomers have detected, for the first time, an atmosphere surrounding an Earth-like, rocky planet orbiting within the habitable zone of another star. The finding provides the strongest evidence yet that worlds with conditions similar to Earth in composition and temperature, with the potential to support life, could exist beyond our solar system.",
-          "group" : "Habitable exoplanet atmosphere",
-          "id" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
-          "link" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T10:53:09Z",
+          "atomID" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
+          "category" : "Space",
+          "descriptionTR" : "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"\nSpaceX called off a test flight of its powerful Starship rocket and Super Heavy booster as the countdown clock reached zero Thursday at the company's spaceport in South Texas.\nThe launch team at Starbase, Texas, just north of the US-Mexico border, aimed to launch the more than 400-foot-tall rocket at 5:45 pm local time (6:45 pm EDT; 22:45 UTC). The countdown proceeded smoothly throughout the day, culminating in the loading of more than 11.5 million pounds of liquid methane and liquid oxygen into the two-stage rocket.\nBut the computers controlling the countdown called an abort during the Super Heavy booster's engine startup sequence. SpaceX scrubbed the launch attempt, and engineers began preparations to drain the rocket's propellant tanks. Officials did not immediately announce when they plan to try to launch again.\nRead full article\nComments",
+          "group" : "Starship launch scrubs",
+          "id" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
+          "link" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Phys.org",
-              "url" : "https:\/\/phys.org\/news\/2026-07-life-solar-atmosphere-habitable-zone.html"
-            }
-          ],
-          "titleTR" : "In search of life beyond our solar system: Atmosphere detected on a habitable-zone rocky world"
-        },
-        {
-          "atomID" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "category" : "Science",
-          "descriptionTR" : "Astronomers have only previously found atmospheres around exoplanets that are very large or incredibly hot – but now they have found one adorning a world that may well be right for life",
-          "group" : "Temperate exoplanet atmosphere",
-          "id" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "link" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-          "newsValue" : 9,
-          "publishedAt" : "2026-07-17T10:53:09Z",
-          "sources" : [
+              "sourceName" : "Ars Technica",
+              "url" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/"
+            },
             {
               "originalLanguage" : "en",
-              "sourceName" : "New Scientist",
-              "url" : "https:\/\/www.newscientist.com\/article\/2579909-weve-found-a-rocky-temperate-planets-atmosphere-for-the-first-time\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition\/"
             }
           ],
-          "titleTR" : "We’ve found a rocky, temperate planet’s atmosphere for the first time"
+          "titleTR" : "SpaceX scrubs Starship launch after some of its engines didn't start"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-07-17T10:53:09Z",
+      "publishedAt" : "2026-07-17T22:03:25Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
-          "category" : "Health",
-          "descriptionTR" : "Millions of people are facing physical, emotional and financial toll of cancer, a disease that claims more than 26 000 lives every day, according to a report released today by the World Health Organization (WHO). With an estimated 20.6 million new cases and close to 10 million deaths annually, cancer remains the second leading cause of death globally, after cardiovascular disease.",
-          "group" : "Global cancer burden",
-          "id" : "https:\/\/www.who.int\/news\/item\/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
-          "link" : "https:\/\/www.who.int\/news\/item\/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-17T10:53:09Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/08-07-2026-who-calls-for-urgent-action-as-new-cancer-cases-are-projected-to-nearly-double-by-2050"
-            }
-          ],
-          "titleTR" : "WHO calls for urgent action as new cancer cases are projected to nearly double by 2050"
-        },
-        {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
-          "category" : "Health",
-          "descriptionTR" : "Children aged less than five years face almost three times the risk of illness from unsafe food than older children and adults, according to new estimates released today by the World Health Organization (WHO).",
-          "group" : "Food safety burden",
-          "id" : "https:\/\/www.who.int\/news\/item\/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
-          "link" : "https:\/\/www.who.int\/news\/item\/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk",
+          "atomID" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
+          "category" : "Environment",
+          "descriptionTR" : "The FireSat program can spot wildfires that other satellites miss.\nAs smoke from hundreds of burning wildfires spread across Canada and the United States, the first three operational satellites in the Google-backed FireSat program successfully launched into orbit. The satellites will begin providing wildfire detection capable of spotting even small fires in the United States, Australia, and Europe before the end of the year.\nThe launch of the microsatellites aboard a SpaceX Falcon 9 rocket from Vandenberg Space Force Base in California on July 7, 2026 marks a transition to “initial operational capability” for the FireSat constellation managed by the nonprofit Earth Fire Alliance. After a three-month testing period, the three satellites will begin actively providing data to fire agencies while covering every fire-prone region on Earth at least twice per day.\nFireSat represents the first satellite constellation purpose-built for detecting wildfires, including spotting smaller fires that other satellites may miss. The satellites were designed by California-based satellite manufacturer Muon Space and have received over $15 million from Google to support initial deployment. Other notable financial supporters include the Bezos Earth Fund that committed $26 million.\nRead full article\nComments",
+          "group" : "Wildfire detection satellites",
+          "id" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
+          "link" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-17T10:53:09Z",
+          "publishedAt" : "2026-07-17T22:03:25Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/04-06-2026-unsafe-food-causes-866-million-illnesses-and-1.5-million-deaths-annually--young-children-at-highest-risk"
+              "sourceName" : "Ars Technica",
+              "url" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/"
             }
           ],
-          "titleTR" : "Unsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk"
+          "titleTR" : "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada"
         },
         {
-          "atomID" : "https:\/\/www.who.int\/news\/item\/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
-          "category" : "Health",
-          "descriptionTR" : "Worldwide, at least 40 million children aged 13–15 use tobacco products, and young people’s use of e-cigarettes and nicotine pouches continues to rise. In advance of World No Tobacco Day – 31 May – the World Health Organization (WHO) urges governments around the world to protect a new generation from becoming addicted to tobacco and nicotine products.",
-          "group" : "Youth tobacco addiction",
-          "id" : "https:\/\/www.who.int\/news\/item\/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
-          "link" : "https:\/\/www.who.int\/news\/item\/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products",
+          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
+          "category" : "Environment",
+          "descriptionTR" : "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
+          "group" : "Robotaxi safety recalls",
+          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
+          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-17T10:53:09Z",
+          "publishedAt" : "2026-07-17T22:03:25Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "World Health Organization",
-              "url" : "https:\/\/www.who.int\/news\/item\/29-05-2026-who-urges-governments-to-protect-young-people-from-addiction-to-tobacco-and-nicotine-products"
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/"
             }
           ],
-          "titleTR" : "WHO urges governments to protect young people from addiction to tobacco and nicotine products"
+          "titleTR" : "Zoox issues software recall after a robotaxi got confused by heavy smoke"
+        },
+        {
+          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
+          "category" : "Environment",
+          "descriptionTR" : "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
+          "group" : "Robotaxi regulation",
+          "id" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
+          "link" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/"
+            }
+          ],
+          "titleTR" : "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco"
         }
       ],
       "packetSpot" : "",
       "packetTitle" : "",
-      "publishedAt" : "2026-07-17T10:53:09Z",
+      "publishedAt" : "2026-07-17T22:03:25Z",
       "sessionID" : "publish-draft",
       "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
+          "category" : "Security",
+          "descriptionTR" : "Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 […]\n￼\nA final hearing will take place in June. | The Verge \/ Beatrice Sala\nFederal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 devices and gain access to 80 crypto wallets.\nThough the complaint doesn't specifically say the games were uploaded to Steam, it's likely referring to the Valve-owned gaming platform. As noted by Local10, the FBI put out a call for victim information in a \"Steam …\nRead the full story at The Verge.",
+          "group" : "Crypto malware arrest",
+          "id" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
+          "link" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Verge",
+              "url" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest"
+            }
+          ],
+          "titleTR" : "Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware"
+        },
+        {
+          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
+          "category" : "Security",
+          "descriptionTR" : "Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.",
+          "group" : "Crypto malware arrest",
+          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
+          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/"
+            }
+          ],
+          "titleTR" : "FBI arrests man accused of using Steam games to drain victims’ crypto wallets"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-07-17T22:03:25Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
+          "category" : "Technology",
+          "descriptionTR" : "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+          "group" : "AI scraping defenses",
+          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
+          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "TechCrunch",
+              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/google-vids-now-lets-you-star-in-your-own-ai-videos\/"
+            }
+          ],
+          "titleTR" : "Patreon stops asking AI bots not to scrape — and starts blocking them"
+        },
+        {
+          "atomID" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
+          "category" : "Technology",
+          "descriptionTR" : "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool […]\n￼\n\nTikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool and recently made it available to all adult users.\nCreators who are part of TikTok's test and want to use the tool will first have to verify their identity with a company called Jumio. You'll have to do a real-time selfie scan and an ID check, but Kizer says that \"TikTok does not retain ID documents, and facial informati …\nRead the full story at The Verge.",
+          "group" : "AI likeness detection",
+          "id" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
+          "link" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T22:03:25Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Verge",
+              "url" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool"
+            }
+          ],
+          "titleTR" : "TikTok is testing an AI likeness detection tool"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-07-17T22:03:25Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
     }
   ],
   "week" : "2026-W30"
