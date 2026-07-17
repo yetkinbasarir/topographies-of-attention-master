@@ -1,367 +1,191 @@
 {
   "label" : "13-19 TEMMUZ",
-  "publishedAt" : "2026-07-17T11:53:59Z",
+  "publishedAt" : "2026-07-17T16:11:24Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
-          "category" : "Culture",
-          "descriptionTR" : "Fransız Yeni Dalgası'nın en ihmal edilen yönetmenlerinden biri olarak görülen Claude Chabrol, BFI Southbank'ta düzenlenen bir sezonla anılıyor. Chabrol'un soğukkanlı, eğlenceli ve alaycı gerilim filmleri, 1 Eylül'den 6 Ekim'e kadar sürecek olan Claude Chabrol – Suç Unsurları adlı etkinlikte gösterilecek. BFI Player'da da Chabrol'un 10 filmlik bir koleksiyonu izleyicilere sunulacak.",
-          "group" : "Claude Chabrol season",
-          "id" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
-          "link" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BFI",
-              "url" : "https:\/\/www.bfi.org.uk\/news\/claude-chabrol-celebration"
-            }
-          ],
-          "titleTR" : "Claude Chabrol, BFI Southbank'ta anılıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
-          "category" : "Culture",
-          "descriptionTR" : "Detroit Sanat Enstitüsü direktörü Salvador Salort-Pons, 1626 tarihli bir Velázquez portresini özel bir koleksiyonda bulduğunu iddia ediyor. Bu keşif, Velázquez'in Madrid'deki erken dönem çalışmalarına ışık tutabilir. Tablonun Detroit'te 2027'de açılacak bir sergide yer alması planlanıyor.",
-          "group" : "Old master rediscovery",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/detroit-institute-of-arts-director-finds-missing-velazquez-painting"
-            }
-          ],
-          "titleTR" : "Detroit Sanat Enstitüsü direktörü, kayıp Velázquez tablosunu bulduğunu iddia ediyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
-          "category" : "Culture",
-          "descriptionTR" : "New York'taki Yahudi Müzesi, Wiener Werkstätte'nin el işçiliğini nasıl koruduğunu keşfeden bir sergi düzenliyor. 1903-1932 yılları arasında aktif olan bu sanatçı kolektifi, günlük yaşamın objelerine sanatı getirmeyi amaçlamıştı. Sergi, özellikle Yahudi kökenli kadın sanatçıların eserlerine odaklanıyor.",
-          "group" : "Craft and modernism",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/16\/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft"
-            }
-          ],
-          "titleTR" : "New York'ta Wiener Werkstätte'nin el işçiliğini nasıl koruduğunu keşfeden sergi"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
-          "category" : "Culture",
-          "descriptionTR" : "Victoria ve Albert Müzesi, 2027 yılı için sergi programını açıkladı. Programda Güney Asya çağdaş sanatı ve tekstilinden punk müzik ve modaya kadar geniş bir yelpazede sergiler yer alacak. V&A East Müzesi'nde Güney Asya'nın yaratıcı çeşitliliğini sergileyen 'South Asia Now' adlı sergi dikkat çekiyor.",
-          "group" : "V&A 2027 exhibitions",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/15\/va-reveals-2027-exhibition-programming-ranging-from-south-asian-contemporary-art-and-textiles-to-punk-music-and-fashion"
-            }
-          ],
-          "titleTR" : "V&A, 2027 sergi programını açıkladı"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
-          "category" : "Culture",
-          "descriptionTR" : "Robert Rauschenberg Vakfı, Tate Modern'de sergilenecek olan üç heykel bağışladı. Bu heykeller, tüketim kültürünü yansıtan Gluts serisinin bir parçası. Rauschenberg'in eserleri, sanatçının işbirliği ve niyetliliğe verdiği önemi vurguluyor.",
-          "group" : "Rauschenberg collection gift",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/robert-rauschenberg-foundation-donates-three-sculptures-to-joint-tate-and-national-galleries-of-scotland-collection"
-            }
-          ],
-          "titleTR" : "Robert Rauschenberg Vakfı, Tate ve İskoçya Ulusal Galerileri'ne üç heykel bağışladı"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
-          "category" : "Culture",
-          "descriptionTR" : "1980'lerin East Village sanat sahnesinin sevilen ismi Arch Connelly, Aspen Sanat Müzesi'nde düzenlenen bir sergiyle anılıyor. Connelly'nin teatral eserleri, arkadaşları ve ailesinden toplanan 50'den fazla eserle sergileniyor. Sergi, sanatçının eşsiz estetik duyarlılığına saygı duruşunda bulunuyor.",
-          "group" : "East Village artist revival",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/arch-connelly-1980s-east-village-aspen-art-museum"
-            }
-          ],
-          "titleTR" : "Arch Connelly, Aspen Sanat Müzesi'nde anılıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
-          "category" : "Culture",
-          "descriptionTR" : "Ana Mendieta'nın en bilinen serisi Silueta, sanatçının doğadaki beden siluetlerini fotoğrafladığı ve filme aldığı eserlerden oluşuyor. Tate Modern'deki büyük ölçekli sergi, Mendieta'nın eserlerini tematik olarak keşfederek, sanatçının Neolitik sanat geleneğiyle olan ilişkisini vurguluyor.",
-          "group" : "Ana Mendieta survey",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey",
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
+          "category" : "Energy",
+          "descriptionTR" : "AB ve Birleşik Krallık'ın öncülüğünde, dünya ekonomisinin hızla elektrikleştirilmesi için siyasi destek sağlanıyor. Londra'daki Mansion House'da düzenlenen üst düzey zirvede, enerji bakanları ve iş dünyası liderleri, BM Genel Sekreteri António Guterres ile birlikte, temiz elektrikle evlerin, sanayinin ve ulaşımın güçlendirilmesi çağrısında bulundu. Türkiye ve Avustralya'nın ev sahipliğinde gerçekleşen COP31'de, 2035 yılına kadar küresel enerji talebinin %35'inin elektrikle karşılanması hedefi, bu yılın eylem gündeminin ana unsuru olarak öne çıkıyor. IRENA'ya göre bu hedefe ulaşmak, 1.5°C ısınma sınırını korumak için gerekli.",
+          "group" : "Electrification transition",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-17T11:53:59Z",
+          "publishedAt" : "2026-07-17T16:11:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey"
-            }
-          ],
-          "titleTR" : "Ana Mendieta'nın 'Neolitik sanatı' Tate Modern'de yeniden yaratıldı"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
-          "category" : "Culture",
-          "descriptionTR" : "Bogotá'daki Kolombiya Ulusal Müzesi, 2022-2026 yılları arasında iade edilen 1,194 Kolomb öncesi eseri sergiliyor. Sergi, Kolombiya'nın kültürel mirasını koruma çabalarının bir parçası olarak düzenleniyor. Eserler, 13 ülkeden geri getirilmiş ve çeşitli arkeolojik bölgelerden objeler içeriyor.",
-          "group" : "Pre-Columbian repatriation",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
+            },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/exhibition-in-bogota-shows-off-more-than-1000-repatriated-pre-columbian-artefacts"
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens\/"
             }
           ],
-          "titleTR" : "Bogotá'da 1000'den fazla iade edilen Kolomb öncesi eser sergileniyor"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
-          "category" : "Culture",
-          "descriptionTR" : "Bayeux Halısı, yaklaşık 1000 yıl sonra ilk kez İngiltere'ye dönerek British Museum'da sergilenecek. Halı, 1066 Norman istilasını ve Hastings Savaşı'nı tasvir ediyor. Sergi, halının İngiltere'ye geçişinin diplomatik bir güven ve dostluk jesti olduğunu vurguluyor.",
-          "group" : "Bayeux Tapestry loan",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/10\/bayeux-tapestry-arrives-at-the-british-museum-after-secret-english-channel-crossing"
-            }
-          ],
-          "titleTR" : "Bayeux Halısı, gizli bir geçişle İngiltere'ye ulaştı"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
-          "category" : "Culture",
-          "descriptionTR" : "Audrey Amiss'in hayatı ve sanatı, Wellcome Collection'da düzenlenen bir sergiyle keşfediliyor. Amiss, kariyeri akıl hastalığı nedeniyle sekteye uğramış bir sanatçıydı. Sergi, Amiss'in eserlerini ve hayatını, onun sanatsal arzularını ve mahremiyetini saygıyla ele alıyor.",
-          "group" : "Art and mental illness",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/09\/the-stuff-of-life-tells-the-story-of-audrey-amiss-whose-promising-career-was-derailed-by-mental-illness"
-            }
-          ],
-          "titleTR" : "Audrey Amiss'in hikayesi Wellcome Collection'da sergileniyor"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
-          "category" : "Culture",
-          "descriptionTR" : "Marc Padeu'nun yeni eserleri, insanın zaman üzerindeki kontrolünün nafileliğini konu alıyor. 'Memento Vivere' sergisi, Kamerun'daki kakao plantasyonlarında geçen sahnelerle ilahi olayları bir araya getiriyor. Sergi, 17 Temmuz'dan 14 Ağustos'a kadar Londra'da görülebilir.",
-          "group" : "Cameroon religious painting",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/",
-          "newsValue" : 2,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/marc-padeu-memento-vivere-acrylic-paintings\/"
-            }
-          ],
-          "titleTR" : "Marc Padeu'nun 'Memento Vivere' sergisi Londra'da açılıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
-          "category" : "Culture",
-          "descriptionTR" : "Peter Marlow'un İngiltere'deki 42 Anglikan katedralini belgelediği 'The English Cathedral' sergisi, Londra'nın en eski Gotik kilisesi Southwark Katedrali'nde açılıyor. Sergi, 21 Temmuz'dan 31 Ağustos'a kadar ziyaret edilebilir.",
-          "group" : "English cathedral photography",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/peter-marlow-english-cathedral-architecture-exhibition\/"
-            }
-          ],
-          "titleTR" : "Peter Marlow'un 'The English Cathedral' sergisi Londra'da açılıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
-          "category" : "Culture",
-          "descriptionTR" : "Ana Mendieta'nın disiplinlerarası çalışmaları, Tate Modern'de açılan büyük ölçekli bir sergide yeniden ziyaret ediliyor. Sergi, sanatçının doğa ve toprakla olan empatik ilişkisini ve eserlerinin zamansızlığını vurguluyor.",
-          "group" : "Ana Mendieta survey",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/"
-            }
-          ],
-          "titleTR" : "Ana Mendieta'nın eserleri Tate Modern'de büyük bir sergide"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
-          "category" : "Culture",
-          "descriptionTR" : "Jeongmin Lee, Kore kıyı folklorunu ve mitolojisini konu alan mürekkep illüstrasyonlarıyla dikkat çekiyor. Lee'nin eserleri, kadınların bilgeliği ve dayanıklılığı gibi temaları keşfederek, geleneksel hikayeleri yeni bir bakış açısıyla sunuyor.",
-          "group" : "Korean coastal folklore",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/jeongmin-lee-korean-folklore-illustrations\/"
-            }
-          ],
-          "titleTR" : "Jeongmin Lee'nin Kore kıyı folklorunu konu alan illüstrasyonları"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
-          "category" : "Culture",
-          "descriptionTR" : "Helena Minginowicz, sıradan kağıt havluları kullanarak değer algımızı sorgulayan hassas tablolar yaratıyor. Sanatçı, Rönesans resimlerinin estetiğini kullanarak, her insanın hatırlanmaya değer olduğunu vurguluyor.",
-          "group" : "Material value paintings",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/helena-minginowicz-paper-towel-renaissance-paintings-value\/"
-            }
-          ],
-          "titleTR" : "Helena Minginowicz, kağıt havluları eterik tablolara dönüştürüyor"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
-          "category" : "Culture",
-          "descriptionTR" : "John Buck, ahşap paneller üzerine mürekkep ve kalemle çizdiği tuhaf manzaralarla tanınıyor. Sanatçının eserleri, tanıdık olanı spekülatif ve sembolik hale getirerek izleyicileri farklı dünyalara davet ediyor.",
-          "group" : "Folkloric landscape art",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/john-buck-wooden-panel-pink-ink-drawings\/"
-            }
-          ],
-          "titleTR" : "John Buck'ın ahşap panellerdeki tuhaf manzaraları"
-        },
-        {
-          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
-          "category" : "Culture",
-          "descriptionTR" : "Andrew Salgado, yeni eserlerinde çiçek natürmortlarına odaklanıyor. Sanatçı, canlı renklerle dolu tuvalleriyle, çiçekleri farklı açılardan ve durumlarda sunarak izleyicilere enerjik bir deneyim yaşatıyor.",
-          "group" : "Gestural still life painting",
-          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
-          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/",
-          "newsValue" : 3,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Colossal",
-              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/andrew-salgado-flower-still-life-paintings\/"
-            }
-          ],
-          "titleTR" : "Andrew Salgado'nun çiçek natürmortları enerjiyle dolup taşıyor"
+          "titleTR" : "AB ve Birleşik Krallık, fosil yakıtlara karşı elektrikleşme hamlesine öncülük ediyor"
         }
       ],
-      "packetSpot" : "",
-      "packetTitle" : "Çeşitli sanat sergileri",
-      "publishedAt" : "2026-07-17T11:53:59Z",
+      "packetSpot" : "COP31'de küresel elektrikleşme gündemi öne çıkıyor; AB ve Birleşik Krallık, 2035 yılına kadar küresel enerjinin %35'inin elektrikten sağlanması için çaba gösteriyor. Bu girişim, fosil yakıtlara bağımlılığı azaltmak ve iklim hedeflerine ulaşmak için kritik bir adım olarak görülüyor. Elektrikleştirme, petrol araçlarından elektrikli araçlara geçiş gibi önlemleri kapsıyor ve bu yıl iklim ve enerji politikalarında öncelikli bir konu olarak ortaya çıkıyor. Türkiye ve Avustralya'nın ev sahipliğinde düzenlenen COP31, bu hedefi küresel bir koalisyonla gerçekleştirmeyi amaçlıyor. Ancak, altyapı yatırımları ve finansal destek olmadan bu geçişin yavaşlayabileceği belirtiliyor. IEA'ya göre, eskiyen enerji şebekeleri yenilenebilir enerji akışını karşılamakta zorlanıyor ve bu da enerji dönüşümünü yavaşlatıyor.",
+      "packetTitle" : "COP31'de küresel elektrikleşme hamlesi: AB ve İngiltere'nin liderliği",
+      "publishedAt" : "2026-07-17T16:11:24Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
-      "illustrationName" : "C68D20E9-A402-55BE-9A4D-CCD25C068CEC.png",
+      "illustrationName" : "F11ECD12-5329-55AE-BF26-8381BF2F1ED3.png",
       "items" : [
         {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
-          "category" : "Science",
-          "descriptionTR" : "Sotheby’s New York'ta düzenlenen beklenen bir açık artırmada, fosilleşmiş bir Tyrannosaurus rex iskeleti bu sabah (14 Temmuz) rekor 50,1 milyon dolara satıldı. 67 milyon yıllık \"Gus\", ön satış tahmininin çok üzerinde, 43 milyon dolara gizemli bir telefon alıcısına satıldı. Gus, Güney Dakota'daki bir çiftlikte üç yıllık kazı çalışmaları sonucunda bulundu ve iskeletin %61'i kemik sayısına göre tamamlanmış durumda. Satış, özel bireylere yapılan bu tür olağanüstü örneklerin bilimsel araştırmalar için erişilebilirliğini sınırlayabileceği endişesiyle tartışmalara yol açtı.",
-          "group" : "Fossil auction record",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T11:53:59Z",
+          "atomID" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
+          "category" : "Technology",
+          "descriptionTR" : "Yerli liderler, yapay zeka veri merkezlerinin hızla büyümesinin haklarını tehdit edebileceği konusunda BM'ye uyarıda bulunuyor. Bu merkezlerin geniş arazi, enerji ve su gereksinimleri, yerli topluluklar üzerinde baskı oluşturabileceği endişesiyle dikkat çekiyor. Norveç'teki Sámi Parlamentosu'ndan Maren Storslett, bu merkezlerin Sápmi'de büyük baskı yaratabileceğini belirtiyor. Yerli liderler, projelerin serbest, önceden ve bilgilendirilmiş onay (FPIC) ilkesine uygun olarak yürütülmesi gerektiğini vurguluyor.",
+          "group" : "AI data center land rights",
+          "id" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
+          "link" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T16:11:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/14\/gus-the-t-rex-sells-for-a-record-501-million-dollars-at-sothebys"
-            }
-          ],
-          "titleTR" : "Gus adlı T-Rex, Sotheby’s'te rekor fiyata satıldı"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
-          "category" : "Science",
-          "descriptionTR" : "Sotheby’s, Virgil Abloh Vakfı ile iş birliği yaparak, ünlü tasarımcının 2015 yılında yaptığı nadir baskı setlerini açık artırmaya çıkardı. Satıştan elde edilecek gelir, Abloh’un mezun olduğu Wisconsin-Madison Üniversitesi'nde burs fonuna aktarılacak. Abloh’un sanat ve tasarım alanındaki geniş etkisi, bu tür eserlerin koleksiyoncular için cazip hale gelmesini sağlıyor. Baskılar, Sotheby’s New York'ta sergilendi ve açık artırma 7 Temmuz'da başladı.",
-          "group" : "Virgil Abloh estate sale",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-17T11:53:59Z",
-          "sources" : [
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/data-centers-are-booming-indigenous-leaders-want-help-protecting-their-lands\/"
+            },
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/06\/sothebys-partners-with-the-virgil-abloh-foundation-to-sell-a-set-of-rare-prints-to-fund-university-scholarships"
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/2026\/07\/indigenous-advocates-push-for-rights-protections-around-ai-data-centers\/"
             }
           ],
-          "titleTR" : "Sotheby’s, Virgil Abloh Vakfı ile nadir baskıların satışını gerçekleştirdi"
+          "titleTR" : "Veri merkezleri hızla artıyor. Yerli liderler topraklarını korumak için destek istiyor."
         }
       ],
-      "packetSpot" : "Sotheby's, iki dikkat çekici açık artırmaya ev sahipliği yaptı. İlki, \"Gus\" adlı Tyrannosaurus rex iskeletinin rekor bir fiyatla 50,1 milyon dolara satılmasıydı. Bu satış, bilimsel araştırmalar için erişilebilirlik konusunda tartışmalara yol açtı. İkinci açık artırma ise, Virgil Abloh Vakfı ile iş birliği içinde nadir baskıların satışıydı. Bu satıştan elde edilen gelir, Wisconsin-Madison Üniversitesi'nde burs fonuna aktarılacak. Her iki açık artırma da, satılan öğelerin ticari ve kültürel önemini vurguluyor.",
-      "packetTitle" : "Sotheby's sahnesinde dikkat çeken açık artırmalar",
-      "publishedAt" : "2026-07-17T11:53:59Z",
+      "packetSpot" : "Yerli liderler, yapay zeka veri merkezlerinin küresel ölçekte yayılmasıyla birlikte topraklarının ve haklarının korunması için seslerini yükseltiyor. Bu merkezlerin geniş arazi, enerji ve su gereksinimleri, yerli topluluklar üzerinde baskı oluşturabileceği endişesiyle dikkat çekiyor. Yerli liderler, bu projelerin serbest, önceden ve bilgilendirilmiş onay (FPIC) ilkesine uygun olarak yürütülmesi gerektiğini vurguluyor. Norveç'teki Sámi Parlamentosu üyesi Maren Storslett, bu merkezlerin Sápmi'de büyük baskı yaratabileceğini belirterek, öncelikler ve sınırlar konusunda yerli toplulukların karar alma süreçlerinde yer alması gerektiğini ifade ediyor. Kanada'dan Aluki Kotierk, bu veri merkezlerinin enerji, su ve mineral kaynaklarını tükettiğini ve bu kaynakların genellikle yerli topraklarından çıkarıldığını belirtiyor. Brezilya'dan Anacé topluluğu, TikTok için planlanan bir veri merkezi projesine karşı çıkarak, projelerin yerli halkların katılımı olmadan yürütüldüğünü ve bu durumun haklarını ihlal ettiğini savunuyor. Yerli liderler, bu tür projelerin çevresel ve sosyal etkilerinin dikkate alınması gerektiğini ve yerli halkların karar alma süreçlerinde aktif rol alması gerektiğini savunuyor.",
+      "packetTitle" : "Yerli liderler veri merkezleri için FPIC uyumu talep ediyor",
+      "publishedAt" : "2026-07-17T16:11:24Z",
       "sessionID" : "publish-draft",
       "slot" : 2
+    },
+    {
+      "illustrationName" : "1D752407-1873-5429-B886-218F5F732B3C.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
+          "category" : "Environment",
+          "descriptionTR" : "Birleşik Krallık, Kongo yağmur ormanlarını koruma ve yerel halkı destekleme amacıyla planladığı milyonlarca sterlin değerindeki projeleri iptal etti. Bu projeler, Kongo havzasındaki orman koruma çabalarına yönelik vaat edilen 200 milyon sterlinin yaklaşık yarısını oluşturuyordu. Kalkınma Bakanı Jenny Chapman, 2024 itibarıyla bu hedefe sadece 39,8 milyon sterlin katkı sağlandığını açıkladı. Hükümet, Kongo havzasını önceliklendirmeye devam edeceğini belirtse de, sivil toplum kuruluşları ve milletvekilleri, yeni yardım stratejisinde orman fonlarının 'koruma altına alınmaması' konusunda endişeli.",
+          "group" : "Congo rainforest funding cuts",
+          "id" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
+          "link" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo\/"
+            }
+          ],
+          "titleTR" : "Birleşik Krallık, Kongo yağmur ormanlarına yönelik fonları geri çekiyor"
+        },
+        {
+          "atomID" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
+          "category" : "Environment",
+          "descriptionTR" : "Carbon Brief'in iki haftada bir yayınlanan Cropped bülteninde, iklim, arazi, gıda ve doğa kesişimindeki en önemli hikayeler ele alınıyor. Bu sayıda, Uganda'daki kuraklık ve açlık, Trump'ın tehlike altındaki habitatları açması ve Birleşik Krallık'ın yağmur ormanı yardımını kesmesi gibi konular işleniyor.",
+          "group" : "Congo rainforest funding cuts",
+          "id" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
+          "link" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid\/"
+            }
+          ],
+          "titleTR" : "Cropped 15 Temmuz 2026: Uganda açlıkla mücadele ediyor | Trump tehlike altındaki habitatları açıyor | Birleşik Krallık yağmur ormanı yardımını kesiyor"
+        }
+      ],
+      "packetSpot" : "Birleşik Krallık, Kongo yağmur ormanlarının korunmasına yönelik mali desteğini önemli ölçüde azalttı. Bu durum, dünyanın ikinci en büyük yağmur ormanının korunması için yapılan çabaları etkiliyor. Birleşik Krallık, Glasgow'da düzenlenen COP26'da orman kaybını durdurma girişimine öncülük etmiş ve 2025 yılına kadar Kongo yağmur ormanı ülkelerine en az 1,5 milyar dolar destek sözü vermişti. Ancak, 2024 itibarıyla bu hedefin sadece 39,8 milyon sterlinlik kısmı sağlanabildi. Bu kesintiler, Kongo havzası orman eylem programı (CBFA) ve biyolojik çeşitlilik peyzaj fonu gibi projeleri etkiledi. Hükümet, bu bölgeleri önceliklendirmeye devam edeceğini belirtse de, sivil toplum kuruluşları ve milletvekilleri, yeni yardım stratejisinde orman fonlarının 'koruma altına alınmaması' konusunda endişeli. WWF International'dan Damian Fleming ve eski bakan Zac Goldsmith gibi eleştirmenler, bu durumu 'verilen sözlerin tutulmaması' olarak nitelendiriyor.",
+      "packetTitle" : "Kongo yağmur ormanlarına fon kesintisi",
+      "publishedAt" : "2026-07-17T16:11:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "illustrationName" : "7CE98403-BF13-5D5B-A597-8CF9A02AD489.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
+          "category" : "Environment",
+          "descriptionTR" : "Andrew Moore'un \"Beasts of the East\" kitabı, Amerika'nın doğusunda yaban hayatının yeniden canlandırılmasına yönelik hikayeleri ve temaları ele alıyor. Kitap, bilim, çaba, hayal gücü ve politikaların birleşimiyle doğu bölgesinde yaban hayatının ve doğal alanların yeniden canlanmasına dair ilham verici anlatılar sunuyor. Bu yılın en dikkat çekici okumalarından biri olarak öne çıkıyor.",
+          "group" : "Eastern US wildlife restoration",
+          "id" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
+          "link" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/2026\/07\/beasts-of-the-east-chronicles-the-unheralded-restoration-successes-of-americas-eastern-wildlife\/"
+            }
+          ],
+          "titleTR" : "Amerika'nın doğusunda yaban hayatı restorasyonu: 'Beasts of the East' kitabı"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Kuzey Amerika'da doğayı onarma çabaları",
+      "publishedAt" : "2026-07-17T16:11:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "illustrationName" : "EBF0C1EB-23DF-5C50-833C-6CB6CD430465.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
+          "category" : "Health",
+          "descriptionTR" : "Kanada ve Minnesota'daki büyük orman yangınlarından çıkan yoğun duman, bu hafta ABD'nin Orta Batı ve Kuzeydoğu bölgelerini saracak. Minnesota yetkilileri, Twin Cities metro alanı dahil olmak üzere birçok bölge için hava kalitesi uyarısı yaptı. İki Limanlar ve Grand Portage gibi bölgelerde hava kalitesinin tehlikeli seviyelere ulaşması bekleniyor. Columbia Üniversitesi'nden Dan Westervelt, Kanada ve ABD'deki şiddetli kuraklık koşullarının yangınları beslediğini belirtiyor.",
+          "group" : "North America wildfire smoke",
+          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
+          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfires-expose-millions-in-the-midwest-and-northeast-us-to-dangerous-smoke\/"
+            }
+          ],
+          "titleTR" : "Kanada yangınlarının dumanı ABD'de milyonları tehlikeye atıyor"
+        },
+        {
+          "atomID" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
+          "category" : "Health",
+          "descriptionTR" : "Arjantin ve İspanya'nın karşılaşacağı Dünya Kupası finali, New York City yakınlarında yapılacak. Ancak Kanada'dan gelen yangın dumanı, maçı tehdit ediyor ve FIFA'nın oyuncu veya taraftar sağlığını korumak için bir planı yok gibi görünüyor. Açık hava stadyumunda duman riski, özellikle hassas gruplar için tehlikeli olabilir. Diğer spor ligleri hava kalitesi uyarılarına göre önlemler alırken, FIFA'nın bu konuda hazırlıksız olduğu eleştiriliyor.",
+          "group" : "Climate health and sports",
+          "id" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
+          "link" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-17T16:11:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/extreme-weather\/wildfire-smoke-threatens-the-world-cup-final-fifa-still-doesnt-have-a-plan\/"
+            }
+          ],
+          "titleTR" : "Dünya Kupası finali duman tehdidi altında; FIFA'nın planı yok"
+        }
+      ],
+      "packetSpot" : "Kanada'daki orman yangınlarından kaynaklanan duman, ABD'nin Orta Batı ve Kuzeydoğu bölgelerinde hava kalitesini etkiliyor. Bu durum, sağlık riskleri oluştururken New York City yakınlarındaki Dünya Kupası finali gibi büyük etkinlikleri de tehdit ediyor. Minnesota ve Kanada'daki büyük yangınlardan çıkan yoğun duman, bu hafta ABD'nin Orta Batı ve Kuzeydoğu bölgelerini saracak. Minnesota yetkilileri, Twin Cities metro alanı dahil olmak üzere birçok bölge için hava kalitesi uyarısı yaptı. İki Limanlar ve Grand Portage gibi bölgelerde hava kalitesinin tehlikeli seviyelere ulaşması bekleniyor. Columbia Üniversitesi'nden Dan Westervelt, Kanada ve ABD'deki şiddetli kuraklık koşullarının yangınları beslediğini belirtiyor. FIFA'nın Dünya Kupası finali için henüz bir acil durum planı bulunmuyor. New York City'deki stadyumun açık hava olması, oyuncular ve taraftarların dumana maruz kalma riskini artırıyor. Bu durum, özellikle hassas gruplar için tehlikeli olabilir. Diğer spor ligleri hava kalitesi uyarılarına göre önlemler alırken, FIFA'nın bu konuda hazırlıksız olduğu eleştiriliyor. Bu olay, spor organizasyonlarının iklim risklerine karşı daha hazırlıklı olmaları gerektiğine dair bir uyarı niteliği taşıyor.",
+      "packetTitle" : "Kanada yangınlarının dumanı ABD'de sağlığı ve etkinlikleri tehdit ediyor",
+      "publishedAt" : "2026-07-17T16:11:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
     }
   ],
   "week" : "2026-W29"
