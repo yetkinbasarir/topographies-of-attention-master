@@ -1,228 +1,398 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-17T22:03:25Z",
+  "publishedAt" : "2026-07-18T01:46:24Z",
   "slots" : [
     {
       "items" : [
         {
-          "atomID" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
-          "category" : "Law",
-          "descriptionTR" : "San Francisco Başsavcısı David Chiu, Apple ve Google'a ihtar mektupları göndererek, 13 \"nudify\" uygulamasının mağazalardan kaldırılmasını talep etti. Bu uygulamaların sıradan fotoğrafları açık içeriklere dönüştürebildiği ve kötü niyetli kişiler tarafından suistimal edilebileceği belirtiliyor. Wired'a göre, bu durum Kaliforniya yasalarına aykırı ve Apple ile Google'ın bu uygulamalardan milyonlarca dolar kazanmış olabileceği tahmin ediliyor.",
-          "group" : "Deepfake nude app crackdown",
-          "id" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
-          "link" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T22:03:25Z",
+          "atomID" : "https:\/\/www.tarihlibilim.com\/post\/insanlik-aya-geri-donuyor\/",
+          "category" : "Space",
+          "descriptionTR" : "NASA'nın Artemis programı, insanlığı Ay'a geri döndürmeyi hedefliyor. 1972'den bu yana ilk kez insanlar Dünya yörüngesinin ötesine geçmeye hazırlanıyor. Artemis II görevi, dört astronotu Ay yörüngesine götürecek ve yaklaşık 10 gün sürecek. Görev, Ay'a iniş içermese de, gelecekteki inişlerin temelini atıyor. Bilim insanları, bu görevle elde edilen verilerle sonraki görevleri şekillendirecek.",
+          "group" : "Moon return mission",
+          "id" : "https:\/\/www.tarihlibilim.com\/post\/insanlik-aya-geri-donuyor\/",
+          "link" : "https:\/\/www.tarihlibilim.com\/post\/insanlik-aya-geri-donuyor\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-18T01:46:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Ars Technica",
-              "url" : "https:\/\/arstechnica.com\/tech-policy\/2026\/07\/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says\/"
+              "sourceName" : "Tarihli Bilim",
+              "url" : "https:\/\/www.tarihlibilim.com\/post\/insanlik-aya-geri-donuyor\/"
             },
             {
               "originalLanguage" : "en",
-              "sourceName" : "TechCrunch",
-              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores\/"
+              "sourceName" : "Moletik",
+              "url" : "https:\/\/moletik.com\/insanligin-aya-tarihi-donusu-artemis-ii-gorevinin-onemli-anlari-ve-elde-edilen-bulgular\/"
             }
           ],
-          "titleTR" : "San Francisco, Apple ve Google'a \"nudify\" uygulamalarını kaldırma talimatı verdi"
+          "titleTR" : "İnsanlık Ay’a geri dönüyor"
         }
       ],
-      "packetSpot" : "San Francisco Başsavcısı David Chiu, Apple ve Google'a ihtar mektupları göndererek, bu şirketlerin uygulama mağazalarından \"nudify\" uygulamalarını kaldırmalarını talep etti. Bu talep, Kaliforniya yasalarının ihlali gerekçesiyle yapıldı. Söz konusu uygulamaların, sıradan fotoğrafları açık içeriklere dönüştürebildiği ve bu nedenle kötü niyetli kişiler tarafından suistimal edilebileceği belirtiliyor. Wired'ın haberine göre, bu uygulamaların derin sahte pornografi yaratılmasına olanak tanıyan hizmetleri desteklediği ve bu durumun Kaliforniya yasalarına aykırı olduğu vurgulandı. Ayrıca, Apple ve Google'ın bu uygulamalardan milyonlarca dolar kazanmış olabileceği tahmin ediliyor.",
-      "packetTitle" : "San Francisco'dan Apple ve Google'a \"nudify\" uygulama talebi",
-      "publishedAt" : "2026-07-17T22:03:25Z",
+      "packetSpot" : "NASA'nın Artemis II misyonu, insanlığın Ay yörüngesine mürettebatlı bir test uçuşuyla dönüşünü simgeliyor ve gelecekteki Ay inişleri ile kalıcı varlık için zemin hazırlıyor. Görev, Ay etrafında 10 günlük bir yolculuk içeriyor ve mesafe rekorları kırarak önemli bilimsel araştırmalar gerçekleştiriyor.",
+      "packetTitle" : "Artemis II: Ay'a dönüşün eşiğinde",
+      "publishedAt" : "2026-07-18T01:46:24Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
-          "category" : "Space",
-          "descriptionTR" : "\"Şu anda yakıt boşaltılıyor. Birkaç gün içinde bir sonraki fırlatma denemesi umuluyor.\" SpaceX, Güney Teksas'taki uzay üssünde, güçlü Starship roketi ve Super Heavy güçlendiricisinin test uçuşunu geri sayım sıfıra ulaştığında durdurdu. ABD-Meksika sınırının hemen kuzeyindeki Starbase, Teksas'taki fırlatma ekibi, 400 fitten uzun roketi yerel saatle 17:45'te (EDT 18:45; UTC 22:45) fırlatmayı hedefliyordu. Geri sayım gün boyunca sorunsuz ilerledi ve iki aşamalı rokete 11,5 milyon pounddan fazla sıvı metan ve sıvı oksijen yüklendi. Ancak geri sayımı kontrol eden bilgisayarlar, Super Heavy güçlendiricisinin motor başlatma sırasında durdurma çağrısı yaptı. SpaceX, fırlatma girişimini durdurdu ve mühendisler roketin yakıt tanklarını boşaltmaya başladı. Yetkililer, bir sonraki fırlatma denemesinin ne zaman yapılacağına dair hemen bir açıklama yapmadı.",
-          "group" : "Starship launch scrubs",
-          "id" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
-          "link" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/",
+          "atomID" : "https:\/\/gelecekbilimde.net\/kripto-paralar-sadece-bir-para-mi-yoksa-yeni-bir-piyasa-mi\/",
+          "category" : "Economy",
+          "descriptionTR" : "Kripto paraların teknik yapısını ve blok zincir teknolojisinin ekonomiyle kesişimini inceliyoruz. Merkeziyetsiz yapının maliyetini ve piyasa kavramını yeniden nasıl şekillendirdiğini tartışıyoruz. Blok zincir, sadece para değil, piyasanın kendisini de yeniden tasarlıyor.",
+          "group" : "Blockchain and DeFi",
+          "id" : "https:\/\/gelecekbilimde.net\/kripto-paralar-sadece-bir-para-mi-yoksa-yeni-bir-piyasa-mi\/",
+          "link" : "https:\/\/gelecekbilimde.net\/kripto-paralar-sadece-bir-para-mi-yoksa-yeni-bir-piyasa-mi\/",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-17T22:03:25Z",
+          "publishedAt" : "2026-07-18T01:46:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Ars Technica",
-              "url" : "https:\/\/arstechnica.com\/space\/2026\/07\/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "TechCrunch",
-              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition\/"
+              "sourceName" : "Gelecek Bilimde",
+              "url" : "https:\/\/gelecekbilimde.net\/kripto-paralar-sadece-bir-para-mi-yoksa-yeni-bir-piyasa-mi\/"
             }
           ],
-          "titleTR" : "SpaceX, Starship fırlatmasını motor arızası nedeniyle durdurdu"
+          "titleTR" : "Kripto paralar: Para mı, piyasa mı?"
+        },
+        {
+          "atomID" : "https:\/\/gelecekbilimde.net\/paranin-yeni-gelecegi-kripto-paralar\/",
+          "category" : "Economy",
+          "descriptionTR" : "Deniz kabuklarından blok zincire uzanan paranın evrimi ve kripto paraların merkeziyetsiz finans devrimi. Kripto paralar, merkezi kurumların tekelinden çıkıp matematiksel kodların ellerine geçen güven mekanizmasını temsil ediyor. Ancak bu devrim kusursuz değil; Bitcoin ve diğer kripto paraların teknik detayları ve DeFi sisteminin çelişkileri tartışılıyor.",
+          "group" : "Blockchain and DeFi",
+          "id" : "https:\/\/gelecekbilimde.net\/paranin-yeni-gelecegi-kripto-paralar\/",
+          "link" : "https:\/\/gelecekbilimde.net\/paranin-yeni-gelecegi-kripto-paralar\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Gelecek Bilimde",
+              "url" : "https:\/\/gelecekbilimde.net\/paranin-yeni-gelecegi-kripto-paralar\/"
+            }
+          ],
+          "titleTR" : "Paranın yeni geleceği: Kripto paralar"
         }
       ],
-      "packetSpot" : "SpaceX, Starship roketinin fırlatma denemelerini teknik sorunlar nedeniyle durdurmak zorunda kaldı. Güney Teksas'taki Starbase'de gerçekleşmesi planlanan fırlatma, motorların çalışmaması üzerine durduruldu. 400 fitten uzun Starship V3 roketine 11,5 milyon pounddan fazla yakıt yüklendikten sonra geri sayım sıfıra ulaştığında, bilgisayarlar motor başlatma sırasında durdurma çağrısı yaptı. Fırlatma girişiminin durdurulması sonrası, mühendisler roketin yakıt tanklarını boşaltmaya başladı. Yeni bir fırlatma tarihi henüz açıklanmadı.",
-      "packetTitle" : "SpaceX'in Starship fırlatma denemeleri teknik sorunlarla durdu",
-      "publishedAt" : "2026-07-17T22:03:25Z",
+      "packetSpot" : "Paranın evrimi, geleneksel sistemlerden kripto paralara ve merkeziyetsiz finans dünyasına geçişle birlikte yeni bir boyut kazanıyor. Bu değişim, güvenin merkezi kurumlardan matematiksel kodlara ve dağıtık ağlara taşınmasını öne çıkarıyor. Satoshi Nakamoto'nun Bitcoin'i ve blok zincir teknolojisi, merkezi otoritelere olan bağımlılığı azaltarak bireylerin finansal otonomisini geri kazanmasına olanak tanıyor. Ancak bu devrim henüz tamamlanmış değil; kripto paralar ve merkeziyetsiz finans sistemleri, geleneksel finans sistemlerini tamamen değiştirmiş değil, fakat potansiyel bir alternatif sunuyor. Bu süreçte, blok zincir teknolojisinin maliyetleri, ölçeklenebilirlik sorunları ve regülasyonlarla ilgili engeller de dikkat çekiyor. Kripto paraların ve blok zincirin geleceği, bu engellerin nasıl aşılacağına bağlı olarak şekillenecek.",
+      "packetTitle" : "Paranın evrimi: Kripto ve ötesi",
+      "publishedAt" : "2026-07-18T01:46:24Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
-          "category" : "Environment",
-          "descriptionTR" : "Google destekli FireSat programı, diğer uyduların kaçırdığı yangınları tespit edebiliyor. Kanada ve Amerika Birleşik Devletleri'nde yüzlerce yangının dumanı yayılırken, Google destekli FireSat programının ilk üç operasyonel uydusu başarıyla yörüngeye fırlatıldı. Bu uydular, yıl sonuna kadar Amerika Birleşik Devletleri, Avustralya ve Avrupa'da küçük yangınları bile tespit edebilecek kapasitede yangın tespiti sağlayacak. Kaliforniya'daki Vandenberg Uzay Kuvvetleri Üssü'nden 7 Temmuz 2026'da bir SpaceX Falcon 9 roketiyle fırlatılan mikrouydular, FireSat takımyıldızının \"başlangıç operasyonel kapasitesine\" geçişini işaret ediyor. Üç aylık bir test sürecinin ardından, üç uydu yangın ajanslarına veri sağlamaya başlayacak ve Dünya üzerindeki her yangın eğilimli bölgeyi günde en az iki kez kapsayacak. FireSat, yangınları tespit etmek için özel olarak tasarlanmış ilk uydu takımyıldızını temsil ediyor ve diğer uyduların kaçırabileceği daha küçük yangınları tespit edebiliyor. Kaliforniya merkezli uydu üreticisi Muon Space tarafından tasarlanan uydular, Google'dan ilk dağıtım için 15 milyon dolardan fazla destek aldı. Diğer önemli mali destekçiler arasında 26 milyon dolarlık taahhütte bulunan Bezos Earth Fund bulunuyor.",
-          "group" : "Wildfire detection satellites",
-          "id" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
-          "link" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/",
+          "atomID" : "https:\/\/beyinsizler.net\/japon-agac-kurbagasinin-bagirsak-bakterilerinde-guclu-bir-anti-kanser-ajani-kesfedildi\/",
+          "category" : "Health",
+          "descriptionTR" : "Japonya'da yapılan bir araştırma, Japon ağaç kurbağasının bağırsak mikrobiyotasında bulunan Ewingella americana adlı bakterinin, farelerdeki tümörleri ciddi yan etkilere yol açmadan ortadan kaldırabildiğini gösteriyor. Araştırmacılar, bu bakterinin hem doğrudan tümör dokusuna saldırarak hem de bağışıklık sistemini güçlendirerek etkili olduğunu belirtiyor. Ancak bu bulguların insanlarda da geçerli olup olmadığını anlamak için daha fazla araştırma yapılması gerekiyor.",
+          "group" : "Microbial cancer therapy",
+          "id" : "https:\/\/beyinsizler.net\/japon-agac-kurbagasinin-bagirsak-bakterilerinde-guclu-bir-anti-kanser-ajani-kesfedildi\/",
+          "link" : "https:\/\/beyinsizler.net\/japon-agac-kurbagasinin-bagirsak-bakterilerinde-guclu-bir-anti-kanser-ajani-kesfedildi\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-17T22:03:25Z",
+          "publishedAt" : "2026-07-18T01:46:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "Ars Technica",
-              "url" : "https:\/\/arstechnica.com\/space\/2026\/07\/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada\/"
+              "sourceName" : "Beyinsizler",
+              "url" : "https:\/\/beyinsizler.net\/japon-agac-kurbagasinin-bagirsak-bakterilerinde-guclu-bir-anti-kanser-ajani-kesfedildi\/"
             }
           ],
-          "titleTR" : "ABD ve Kanada'da duman yayılırken Google destekli yangın tespit uyduları fırlatıldı"
+          "titleTR" : "Japon ağaç kurbağasının bağırsak bakterileri kanserle mücadelede umut vadediyor"
         },
         {
-          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
-          "category" : "Environment",
-          "descriptionTR" : "ABD'deki en üst düzey otomotiv güvenlik düzenleyicisi, otonom araç şirketlerini ilk müdahale ekipleriyle etkileşim konusunda uyardıktan sonra Zoox, yoğun duman nedeniyle bir robotaksinin karıştığı olayın ardından yazılım geri çağrısı yaptı.",
-          "group" : "Robotaxi safety recalls",
-          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
-          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T22:03:25Z",
+          "atomID" : "https:\/\/moletik.com\/photobacterium-angustum-kanserde-yeni-nesil-cozum\/",
+          "category" : "Health",
+          "descriptionTR" : "Japonya'daki JAIST araştırmacıları, Photobacterium angustum adlı deniz bakterisinin kolon kanseri hücrelerini genetik modifikasyon olmadan hedef alabildiğini raporladı. Bu bakteri, kanserli dokulara cerrahi hassasiyetle yönelerek sağlıklı dokulara zarar vermiyor ve bağışıklık sistemini harekete geçirerek kanserin geri dönüşünü engelleyebiliyor. Ancak bu bulguların klinik uygulamalara dönüşebilmesi için daha fazla araştırma yapılması gerekiyor.",
+          "group" : "Marine bacteria cancer therapy",
+          "id" : "https:\/\/moletik.com\/photobacterium-angustum-kanserde-yeni-nesil-cozum\/",
+          "link" : "https:\/\/moletik.com\/photobacterium-angustum-kanserde-yeni-nesil-cozum\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-18T01:46:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "TechCrunch",
-              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke\/"
+              "sourceName" : "Moletik",
+              "url" : "https:\/\/moletik.com\/photobacterium-angustum-kanserde-yeni-nesil-cozum\/"
             }
           ],
-          "titleTR" : "Zoox, yoğun duman nedeniyle karışıklık yaşayan robotaksi sonrası yazılım geri çağrısı yaptı"
-        },
-        {
-          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
-          "category" : "Environment",
-          "descriptionTR" : "San Francisco belediye başkanı Daniel Lurie, saatler süren büyük bir trafik sıkışıklığı olayının ardından, eyalet düzenleyicilerine Waymo gibi robotaksi operatörlerine daha fazla gereklilik getirilmesi gerektiğini söyledi.",
-          "group" : "Robotaxi regulation",
-          "id" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
-          "link" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T22:03:25Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "TechCrunch",
-              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco\/"
-            }
-          ],
-          "titleTR" : "San Francisco belediye başkanı, Waymo trafik karmaşası sonrası daha sıkı kurallar istiyor"
+          "titleTR" : "Photobacterium angustum: Kanserde yeni nesil çözüm"
         }
       ],
-      "packetSpot" : "FireSat uydularının fırlatılması, yangınları tespit etmeyi amaçlayarak dumanla ilgili zorlukları ele alıyor. Bu arada, Zoox, yoğun duman nedeniyle bir robotaksinin karışıklık yaşaması sonrası yazılımını geri çağırdı ve San Francisco belediye başkanı, dumanın kötüleştirdiği trafik sorunları sonrasında robotaksi düzenlemeleri için daha sıkı kurallar talep ediyor.",
-      "packetTitle" : "Dumanın teknoloji ve altyapıya etkisi",
-      "publishedAt" : "2026-07-17T22:03:25Z",
+      "packetSpot" : "Japon ağaç kurbağasının bağırsak bakterisi Ewingella americana ve deniz bakterisi Photobacterium angustum, kanser tedavisinde umut vadediyor. E. americana, farelerde tümörleri ortadan kaldırırken, P. angustum kolon kanseri hücrelerini hedef alıyor. Her iki bakteri de bağışıklık sistemini harekete geçirerek kanserin geri dönüşünü engelleyebiliyor. Ancak bu bulguların klinik uygulamalara dönüşebilmesi için daha fazla araştırma yapılması gerekiyor.",
+      "packetTitle" : "Kanser tedavisinde bakteriyel keşifler",
+      "publishedAt" : "2026-07-18T01:46:24Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
-          "category" : "Security",
-          "descriptionTR" : "Federal yetkililer, Florida'da bir kişinin Steam oyunlarına bulaştırılan zararlı yazılımlarla en az 220,000 dolar değerinde kripto çaldığı iddiasıyla tutuklandığını açıkladı. Şikayette, 21 yaşındaki Zyaire Wilkins ve suç ortaklarının Mayıs 2024 ile Şubat 2026 arasında sekiz zararlı yazılım içeren oyun başlattığı ve yaklaşık 8,000 cihazı enfekte ederek 80 kripto cüzdanına erişim sağladığı belirtiliyor. Oyunların Steam'e yüklendiği kesinleşmemiş olsa da, Valve'a ait platforma atıfta bulunulduğu düşünülüyor. FBI, mağdur bilgileri için çağrı yaptı.",
-          "group" : "Crypto malware arrest",
-          "id" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
-          "link" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T22:03:25Z",
+          "atomID" : "https:\/\/moletik.com\/leishmaniasis-sark-cibanina-karsi-hucre-disi-vezikul-asisi-geliyor\/",
+          "category" : "Health",
+          "descriptionTR" : "Leishmaniasis, her yıl dünya çapında en az bir milyon yeni vakaya neden olan ve halk sağlığını ciddi şekilde tehdit eden bir hastalık. Dokuz Eylül, ODTÜ, Bilkent, Acıbadem Mehmet Ali Aydınlar ve Manisa Celal Bayar Üniversitelerinden araştırmacılar, bu hastalığa karşı hücre dışı vezikülleri (EVs) kullanarak yeni bir aşı platformu geliştirmeye çalışıyor. Çalışma, doğru adjuvan seçiminin önemine ve türler arası çapraz koruma potansiyeline dikkat çekiyor. Ancak, bu aşı henüz araştırma aşamasında ve insan kullanımı için onaylanmış değil.",
+          "group" : "Leishmaniasis vaccine",
+          "id" : "https:\/\/moletik.com\/leishmaniasis-sark-cibanina-karsi-hucre-disi-vezikul-asisi-geliyor\/",
+          "link" : "https:\/\/moletik.com\/leishmaniasis-sark-cibanina-karsi-hucre-disi-vezikul-asisi-geliyor\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-18T01:46:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Verge",
-              "url" : "https:\/\/www.theverge.com\/games\/967174\/steam-game-malware-cryptostealer-arrest"
+              "sourceName" : "Moletik",
+              "url" : "https:\/\/moletik.com\/leishmaniasis-sark-cibanina-karsi-hucre-disi-vezikul-asisi-geliyor\/"
             }
           ],
-          "titleTR" : "Florida'da bir kişi, Steam oyunlarıyla 200,000 dolardan fazla kripto çalmakla suçlanıyor"
+          "titleTR" : "Türk bilim insanlarından şark çıbanına karşı hücre dışı vezikül aşısı"
         },
         {
-          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
-          "category" : "Security",
-          "descriptionTR" : "Savcılar, 21 yaşındaki öğrenci Zyaire Wilkins'i, Steam'de zararlı yazılım içeren sahte video oyunları yayınlayarak binlerce kurbanı enfekte etmek ve bazı kurbanlardan kripto çalmakla suçladı.",
-          "group" : "Crypto malware arrest",
-          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
-          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/",
+          "atomID" : "https:\/\/moletik.com\/goz-kurulugu-ispanak-ile-tedavi-edilecek-fotosentez-yapan-nano-organeller-gelistirildi\/",
+          "category" : "Health",
+          "descriptionTR" : "Bilim insanları, ıspanaktan elde edilen fotosentetik nano-organeller (LEAF teknolojisi) ile göz kuruluğunu tedavi etmeyi hedefliyor. Singapur ve Çin'deki araştırmacılar, bu teknoloji sayesinde gözdeki hücresel stresi azaltmayı ve NADPH ile ATP üretimini artırmayı amaçlıyor. Laboratuvar ve hayvan deneylerinde umut verici sonuçlar elde edilse de, bu yöntem henüz deneysel aşamada ve tedavi olarak kullanılmıyor.",
+          "group" : "Bioengineered eye therapy",
+          "id" : "https:\/\/moletik.com\/goz-kurulugu-ispanak-ile-tedavi-edilecek-fotosentez-yapan-nano-organeller-gelistirildi\/",
+          "link" : "https:\/\/moletik.com\/goz-kurulugu-ispanak-ile-tedavi-edilecek-fotosentez-yapan-nano-organeller-gelistirildi\/",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-17T22:03:25Z",
+          "publishedAt" : "2026-07-18T01:46:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "TechCrunch",
-              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets\/"
+              "sourceName" : "Moletik",
+              "url" : "https:\/\/moletik.com\/goz-kurulugu-ispanak-ile-tedavi-edilecek-fotosentez-yapan-nano-organeller-gelistirildi\/"
             }
           ],
-          "titleTR" : "FBI, Steam oyunlarıyla kripto cüzdanlarını boşaltmakla suçlanan kişiyi tutukladı"
+          "titleTR" : "Ispanaktan elde edilen nano-organellerle göz kuruluğu tedavisi"
         }
       ],
-      "packetSpot" : "Zyaire Wilkins ve bir Florida sakini, Steam oyunlarına bulaştırılan zararlı yazılımlarla kripto para çalmakla suçlanıyor. Federal yetkililer, bu kişilerin Mayıs 2024 ile Şubat 2026 arasında sekiz zararlı yazılım içeren oyun başlattığını ve yaklaşık 8,000 cihazı enfekte ederek 80 kripto cüzdanına erişim sağladığını belirtiyor. Çalınan miktarın en az 220,000 dolar olduğu iddia ediliyor. Oyunların Steam'e yüklendiği kesinleşmemiş olsa da, Valve'a ait platforma atıfta bulunulduğu düşünülüyor. FBI, mağdur bilgileri için çağrı yaptı. Bu olay, popüler oyun platformlarının siber hırsızlık için nasıl kullanılabileceğine dair endişeleri artırıyor.",
-      "packetTitle" : "Steam oyunlarıyla kripto hırsızlığı",
-      "publishedAt" : "2026-07-17T22:03:25Z",
+      "packetSpot" : "Türk bilim insanları, şark çıbanına karşı hücre dışı vezikülleri kullanarak yeni bir aşı platformu geliştirmeye çalışırken, Singapur ve Çin'deki araştırmacılar ıspanaktan elde edilen fotosentetik nano-organellerle göz kuruluğunu tedavi etmeyi hedefliyor. Her iki yaklaşım da henüz deneysel aşamada ve insan kullanımı için onaylanmış değil. Ancak, bu yenilikçi biyolojik platformlar, gelecekteki tıbbi tedaviler için umut vadediyor.",
+      "packetTitle" : "Biyolojik platformlarla yenilikçi tedaviler",
+      "publishedAt" : "2026-07-18T01:46:24Z",
       "sessionID" : "publish-draft",
       "slot" : 4
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
+          "atomID" : "https:\/\/www.kozmikanafor.com\/starlink-projesi-faydasi-zararlari-ve-tehlikeleri\/",
           "category" : "Technology",
-          "descriptionTR" : "Patreon, içerik üreticilerinin izni olmadan AI modellerini eğitmek için içeriklerini kazıyan botları engellemek amacıyla Cloudflare ile işbirliği yaparak savunmalarını güçlendiriyor. Bu hamle, yalnızca robots.txt dosyalarına güvenmekten, izinsiz AI eğitimini aktif olarak engellemeye doğru bir kaymayı işaret ediyor.",
-          "group" : "AI scraping defenses",
-          "id" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
-          "link" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-17T22:03:25Z",
+          "descriptionTR" : "Elon Musk'ın SpaceX şirketi tarafından geliştirilen Starlink internet uyduları, dünya genelinde önemli bir tartışma konusu. Proje, kırsal bölgelere internet hizmeti sağlama potansiyeline sahip olsa da, uzay çöpleri ve Kessler sendromu gibi riskler barındırıyor. Ayrıca, Starlink uydularının istihbarat amaçlı kullanılıp kullanılmadığı da tartışılıyor.",
+          "group" : "Starlink satellite network",
+          "id" : "https:\/\/www.kozmikanafor.com\/starlink-projesi-faydasi-zararlari-ve-tehlikeleri\/",
+          "link" : "https:\/\/www.kozmikanafor.com\/starlink-projesi-faydasi-zararlari-ve-tehlikeleri\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-18T01:46:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "TechCrunch",
-              "url" : "https:\/\/techcrunch.com\/2026\/07\/17\/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "TechCrunch",
-              "url" : "https:\/\/techcrunch.com\/2026\/07\/16\/google-vids-now-lets-you-star-in-your-own-ai-videos\/"
+              "sourceName" : "Kozmik Anafor",
+              "url" : "https:\/\/www.kozmikanafor.com\/starlink-projesi-faydasi-zararlari-ve-tehlikeleri\/"
             }
           ],
-          "titleTR" : "Patreon, AI botlarını engellemeye başladı"
+          "titleTR" : "Starlink projesi: Faydaları, zararları ve tehlikeleri"
         },
         {
-          "atomID" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
+          "atomID" : "https:\/\/www.gercekbilim.com\/yeni-gelistirilen-kontakt-lensler-uv-altinda-kendi-kendini-onarabiliyor\/",
           "category" : "Technology",
-          "descriptionTR" : "TikTok, AI benzerliklerini tarayan ve içerik üreticilerinin izinsiz kullanımları rapor etmelerine olanak tanıyan bir aracı test etmeye başladı. Sosyal medya danışmanı Matt Navarra'nın belirttiğine göre, bu araç ABD'deki bazı içerik üreticileriyle test ediliyor. TikTok'un ABD sözcüsü Zachary Kizer, The Verge'e yaptığı açıklamada, YouTube'un da benzer bir araç üzerinde çalıştığını ve bunu yetişkin kullanıcılar için erişilebilir hale getirdiğini belirtti. TikTok'un testine katılan içerik üreticileri, Jumio adlı bir şirket aracılığıyla kimliklerini doğrulamak zorunda kalacaklar.",
-          "group" : "AI likeness detection",
-          "id" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
-          "link" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-17T22:03:25Z",
+          "descriptionTR" : "Güney Kore'deki Dankook Üniversitesi'nden kimyagerler, UV ışık altında kendi kendini onarabilen kontakt lensler geliştirdi. Bu yenilikçi lensler, çiziklere ve bakterilere karşı daha dirençli olup, mevcut lenslerle eşdeğer su tutma özelliği sunuyor. Araştırma, ACS Applied Polymer Materials dergisinde yayınlandı.",
+          "group" : "Self-healing contact lenses",
+          "id" : "https:\/\/www.gercekbilim.com\/yeni-gelistirilen-kontakt-lensler-uv-altinda-kendi-kendini-onarabiliyor\/",
+          "link" : "https:\/\/www.gercekbilim.com\/yeni-gelistirilen-kontakt-lensler-uv-altinda-kendi-kendini-onarabiliyor\/",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-18T01:46:24Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "The Verge",
-              "url" : "https:\/\/www.theverge.com\/tech\/967486\/tiktok-ai-likeness-detection-tool"
+              "sourceName" : "Gerçek Bilim",
+              "url" : "https:\/\/www.gercekbilim.com\/yeni-gelistirilen-kontakt-lensler-uv-altinda-kendi-kendini-onarabiliyor\/"
             }
           ],
-          "titleTR" : "TikTok, AI benzerlik tespit aracını test ediyor"
+          "titleTR" : "Yeni geliştirilen kontakt lensler UV altında kendi kendini onarabiliyor"
         }
       ],
-      "packetSpot" : "Patreon, içerik üreticilerinin izni olmadan AI modellerini eğitmek için içeriklerini kazıyan botları engellemek amacıyla Cloudflare ile işbirliği yaparak savunmalarını güçlendiriyor. Bu hamle, yalnızca robots.txt dosyalarına güvenmekten, izinsiz AI eğitimini aktif olarak engellemeye doğru bir kaymayı işaret ediyor. TikTok ise, AI benzerliklerini tarayan ve içerik üreticilerinin izinsiz kullanımları rapor etmelerine olanak tanıyan bir aracı test ediyor. Bu araç, ABD'deki bazı içerik üreticileriyle test ediliyor ve kullanıcıların kimlik doğrulaması yapmasını gerektiriyor. YouTube da benzer bir araç üzerinde çalışıyor ve bunu yetişkin kullanıcılar için erişilebilir hale getirdi. Her iki girişim de, içeriklerin AI sömürüsünden korunması için artan çabaları yansıtıyor.",
-      "packetTitle" : "AI içerik koruma çabaları: Patreon ve TikTok'un girişimleri",
-      "publishedAt" : "2026-07-17T22:03:25Z",
+      "packetSpot" : "",
+      "packetTitle" : "Gündelik ürün teknolojilerinde yenilikler",
+      "publishedAt" : "2026-07-18T01:46:24Z",
       "sessionID" : "publish-draft",
       "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.gercekbilim.com\/coklu-gorevlerde-erkekler-kadinlara-gore-daha-az-konusuyor\/",
+          "category" : "Science",
+          "descriptionTR" : "Yeni bir araştırma, erkeklerin çoklu görevler sırasında kadınlara kıyasla daha az konuştuğunu ortaya koyuyor. 41 erkek ve 37 kadının katıldığı çalışmada, erkeklerin sohbet sırasında daha sık yanıt veremediği gözlendi. Gözlemciler, erkekleri kontrol ve etkinlik açısından daha olumsuz değerlendirdi.",
+          "group" : "Gender and multitasking",
+          "id" : "https:\/\/www.gercekbilim.com\/coklu-gorevlerde-erkekler-kadinlara-gore-daha-az-konusuyor\/",
+          "link" : "https:\/\/www.gercekbilim.com\/coklu-gorevlerde-erkekler-kadinlara-gore-daha-az-konusuyor\/",
+          "newsValue" : 2,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Gerçek Bilim",
+              "url" : "https:\/\/www.gercekbilim.com\/coklu-gorevlerde-erkekler-kadinlara-gore-daha-az-konusuyor\/"
+            }
+          ],
+          "titleTR" : "Çoklu görevlerde erkekler, kadınlara göre daha az konuşuyor"
+        },
+        {
+          "atomID" : "https:\/\/www.gercekbilim.com\/kiz-cocuklarinda-erken-ergenligin-nedeni-temizlik-ve-parfum-urunlerinden-kaynaklanabilir\/",
+          "category" : "Science",
+          "descriptionTR" : "Endokrin Derneği'nin bir araştırması, sabun ve parfüm gibi ürünlerdeki sentetik kimyasalların kız çocuklarında erken ergenliğe yol açabileceğini öne sürüyor. Özellikle misk ambrette gibi kimyasalların endokrin bozucu etkileri olabileceği belirtiliyor. Araştırma, 10.000 bileşiği tarayarak bu kimyasalların üreme eksenini erken aktive edebileceğini buldu.",
+          "group" : "Early puberty chemicals",
+          "id" : "https:\/\/www.gercekbilim.com\/kiz-cocuklarinda-erken-ergenligin-nedeni-temizlik-ve-parfum-urunlerinden-kaynaklanabilir\/",
+          "link" : "https:\/\/www.gercekbilim.com\/kiz-cocuklarinda-erken-ergenligin-nedeni-temizlik-ve-parfum-urunlerinden-kaynaklanabilir\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Gerçek Bilim",
+              "url" : "https:\/\/www.gercekbilim.com\/kiz-cocuklarinda-erken-ergenligin-nedeni-temizlik-ve-parfum-urunlerinden-kaynaklanabilir\/"
+            }
+          ],
+          "titleTR" : "Kız çocuklarında erken ergenliğin nedeni temizlik ve parfüm ürünlerinden kaynaklanabilir"
+        }
+      ],
+      "packetSpot" : "Her iki makale de cinsiyetle ilgili davranış ve gelişim farklılıklarını ele alıyor. İlk makale, çoklu görev sırasında erkeklerin kadınlara göre daha az konuştuğunu ve bunun performans algılarını etkileyebileceğini inceliyor. İkinci makale ise kız çocuklarında erken ergenliğin, sabun ve parfüm gibi ürünlerdeki sentetik kimyasallarla bağlantılı olabileceğini araştırıyor. Endokrin Derneği'nin çalışması, misk ambrette gibi kimyasalların endokrin bozucu etkilerini vurguluyor.",
+      "packetTitle" : "Davranış ve gelişimde cinsiyet farkları",
+      "publishedAt" : "2026-07-18T01:46:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.matematiksel.org\/dunyanin-en-uzun-duz-rotasi-kara-deniz\/",
+          "category" : "Science",
+          "descriptionTR" : "Bilim insanları, Dünya'nın en uzun düz deniz ve kara rotalarını hesapladı. Pakistan'dan Rusya'ya uzanan deniz rotası, yaklaşık 32.090 kilometre uzunluğunda ve karaya çıkmadan izlenebilecek en uzun düz rota olarak kabul ediliyor. Bu hesaplama, internette yıllar önce ortaya atılan bir iddianın matematiksel olarak doğrulanmasıyla mümkün oldu.",
+          "group" : "Great-circle routes",
+          "id" : "https:\/\/www.matematiksel.org\/dunyanin-en-uzun-duz-rotasi-kara-deniz\/",
+          "link" : "https:\/\/www.matematiksel.org\/dunyanin-en-uzun-duz-rotasi-kara-deniz\/",
+          "newsValue" : 2,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Matematiksel",
+              "url" : "https:\/\/www.matematiksel.org\/dunyanin-en-uzun-duz-rotasi-kara-deniz\/"
+            }
+          ],
+          "titleTR" : "Dünya'nın en uzun düz deniz ve kara rotaları hesaplandı"
+        },
+        {
+          "atomID" : "https:\/\/www.bilimoloji.com\/tek-bir-atomun-ilk-rontgen-filmi\/",
+          "category" : "Science",
+          "descriptionTR" : "Ohio Üniversitesi ve Argonne Ulusal Laboratuvarı'ndan bir ekip, tek bir atomdan ilk X-ışını sinyalini tespit etti. Bu çığır açan keşif, malzeme tespit yöntemlerinde devrim yaratabilir ve çevresel ile tıbbi araştırmalarda yeni teknolojilerin önünü açabilir.",
+          "group" : "single atom xray",
+          "id" : "https:\/\/www.bilimoloji.com\/tek-bir-atomun-ilk-rontgen-filmi\/",
+          "link" : "https:\/\/www.bilimoloji.com\/tek-bir-atomun-ilk-rontgen-filmi\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bilimoloji",
+              "url" : "https:\/\/www.bilimoloji.com\/tek-bir-atomun-ilk-rontgen-filmi\/"
+            }
+          ],
+          "titleTR" : "Tek bir atomdan ilk X-ışını sinyali tespit edildi"
+        }
+      ],
+      "packetSpot" : "Bilim insanları, Dünya'nın en uzun düz deniz ve kara rotalarını hesaplayarak önemli bir başarıya imza attı. Pakistan'dan Rusya'ya uzanan deniz rotası, yaklaşık 32.090 kilometre uzunluğunda ve karaya çıkmadan izlenebilecek en uzun düz rota olarak kabul ediliyor. Bu hesaplama, internette yıllar önce ortaya atılan bir iddianın matematiksel olarak doğrulanmasıyla mümkün oldu. Diğer yandan, Ohio Üniversitesi ve Argonne Ulusal Laboratuvarı'ndan bir ekip, tek bir atomdan ilk X-ışını sinyalini tespit etti. Bu çığır açan keşif, malzeme tespit yöntemlerinde devrim yaratabilir ve çevresel ile tıbbi araştırmalarda yeni teknolojilerin önünü açabilir. Her iki çalışma da bilimsel araştırmanın sınırlarını zorlayarak, ölçüm ve tespitte yeni ufuklar açıyor.",
+      "packetTitle" : "Ölçüm ve tespitte bilimsel ilerlemeler",
+      "publishedAt" : "2026-07-18T01:46:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.gercekbilim.com\/bilim-insanlari-ultra-islenmis-gidalar-ve-okul-oncesi-cocuklarin-davranis-bozukluklari-agresiflik-balglanti\/",
+          "category" : "Health",
+          "descriptionTR" : "Toronto Üniversitesi'nde yapılan bir araştırma, ultra işlenmiş gıdaların çocukların davranışsal ve duygusal sorunlarıyla ilişkili olabileceğini öne sürüyor. Çalışma, ultra işlenmiş gıdalardan alınan kalorinin %10 artmasının, çocuklarda saldırganlık ve anksiyete gibi davranışsal zorluklarla bağlantılı olduğunu gösteriyor. Araştırmacılar, bu gıdaların çocukların diyetlerinde yaygın olduğunu ve küçük diyet değişikliklerinin daha sağlıklı gelişimi destekleyebileceğini belirtiyor.",
+          "group" : "Ultra-processed foods and behavior",
+          "id" : "https:\/\/www.gercekbilim.com\/bilim-insanlari-ultra-islenmis-gidalar-ve-okul-oncesi-cocuklarin-davranis-bozukluklari-agresiflik-balglanti\/",
+          "link" : "https:\/\/www.gercekbilim.com\/bilim-insanlari-ultra-islenmis-gidalar-ve-okul-oncesi-cocuklarin-davranis-bozukluklari-agresiflik-balglanti\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Gerçek Bilim",
+              "url" : "https:\/\/www.gercekbilim.com\/bilim-insanlari-ultra-islenmis-gidalar-ve-okul-oncesi-cocuklarin-davranis-bozukluklari-agresiflik-balglanti\/"
+            }
+          ],
+          "titleTR" : "Ultra işlenmiş gıdalar ve çocukların davranışsal sorunları arasındaki bağlantı"
+        },
+        {
+          "atomID" : "https:\/\/www.bilimoloji.com\/uzun-sureli-uykular-yuksek-obeziteye-sebep-oluyor\/",
+          "category" : "Health",
+          "descriptionTR" : "İspanya'da yapılan bir araştırma, 30 dakikadan uzun süren şekerlemelerin obezite ve metabolik sendrom riskini artırabileceğini gösteriyor. Murcia Üniversitesi'nden Marta Garaulet'in de dahil olduğu ekip, uzun şekerlemelerin vücut kitle endeksi ve metabolik sendromla ilişkili olduğunu belirtiyor. Araştırma, kısa şekerlemelerin ise kan basıncını düşürebileceğini öne sürüyor.",
+          "group" : "sleep and obesity",
+          "id" : "https:\/\/www.bilimoloji.com\/uzun-sureli-uykular-yuksek-obeziteye-sebep-oluyor\/",
+          "link" : "https:\/\/www.bilimoloji.com\/uzun-sureli-uykular-yuksek-obeziteye-sebep-oluyor\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bilimoloji",
+              "url" : "https:\/\/www.bilimoloji.com\/uzun-sureli-uykular-yuksek-obeziteye-sebep-oluyor\/"
+            }
+          ],
+          "titleTR" : "Uzun süreli şekerlemeler ve obezite riski arasındaki ilişki"
+        }
+      ],
+      "packetSpot" : "Her iki makale de yaşam tarzı faktörlerinin sağlık üzerindeki etkilerini ele alıyor. İlk makale, ultra işlenmiş gıdaların çocuklarda davranışsal sorunlarla ilişkili olabileceğini belirtirken, ikinci makale uzun süreli şekerlemelerin obezite ve metabolik sendromla bağlantılı olduğunu öne sürüyor.",
+      "packetTitle" : "Yaşam tarzı sağlığı etkiliyor",
+      "publishedAt" : "2026-07-18T01:46:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/gelecekbilimde.net\/uyku-evreleri-normal-bir-uyku-dongusunde-neler-olur\/",
+          "category" : "Health",
+          "descriptionTR" : "Uyku, NREM ve REM evrelerinden oluşan döngüsel bir süreçtir. Her evre, beyin ile vücudun fizyolojik ve bilişsel açıdan yenilenmesini sağlar. Uyku evrelerinin anlaşılması, öğrenme, hafıza ve zihinsel sağlık gibi birçok temel işlevin açıklanmasında önemli bir yere sahiptir.",
+          "group" : "Sleep cycle stages",
+          "id" : "https:\/\/gelecekbilimde.net\/uyku-evreleri-normal-bir-uyku-dongusunde-neler-olur\/",
+          "link" : "https:\/\/gelecekbilimde.net\/uyku-evreleri-normal-bir-uyku-dongusunde-neler-olur\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Gelecek Bilimde",
+              "url" : "https:\/\/gelecekbilimde.net\/uyku-evreleri-normal-bir-uyku-dongusunde-neler-olur\/"
+            }
+          ],
+          "titleTR" : "Uyku evreleri: Normal bir uyku döngüsünde neler olur?"
+        },
+        {
+          "atomID" : "https:\/\/www.tarihlibilim.com\/post\/kac-saat-uyumalisin\/",
+          "category" : "Health",
+          "descriptionTR" : "Bilimsel araştırmalar, uyku süresinin beyin, bağışıklık sistemi, hormonlar, psikoloji ve günlük performans üzerindeki etkilerini inceliyor. CDC ve National Sleep Foundation, yetişkinler için günlük 7 ila 9 saat uyku öneriyor.",
+          "group" : "Sleep health",
+          "id" : "https:\/\/www.tarihlibilim.com\/post\/kac-saat-uyumalisin\/",
+          "link" : "https:\/\/www.tarihlibilim.com\/post\/kac-saat-uyumalisin\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-18T01:46:24Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tarihli Bilim",
+              "url" : "https:\/\/www.tarihlibilim.com\/post\/kac-saat-uyumalisin\/"
+            }
+          ],
+          "titleTR" : "Kaç saat uyumalısın? Bilim ne diyor?"
+        }
+      ],
+      "packetSpot" : "Uyku döngülerinin yapısı ve NREM ile REM evreleri detaylandırılarak, farklı yaş grupları için önerilen ideal uyku süreleri bilimsel öneriler ışığında inceleniyor. CDC ve National Sleep Foundation'ın önerileri, uyku sağlığının bilişsel ve fiziksel sağlık üzerindeki etkilerini vurguluyor. Uyku evrelerinin anlaşılması, öğrenme, hafıza ve zihinsel sağlık gibi birçok temel işlevin açıklanmasında önemli bir yere sahiptir. Ayrıca, sosyal medya platformlarında uyku süresi ve kalitesine dair tartışmalar da dikkat çekiyor. ABD'de yapılan araştırmalara göre, uyku süresi ve kalitesinin kalp sağlığı, stres seviyesi, dikkat ve hafıza üzerinde önemli etkileri bulunuyor. Özellikle derin uyku evresi; hafıza, öğrenme, bağışıklık sistemi ve metabolizma açısından kritik öneme sahiptir. Yetişkinler için önerilen uyku süresi genellikle 7 ila 9 saat arasında değişirken, yaş gruplarına göre farklılık gösteren öneriler de mevcut.",
+      "packetTitle" : "Uyku döngüleri ve ideal uyku süresi üzerine",
+      "publishedAt" : "2026-07-18T01:46:24Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
     }
   ],
   "week" : "2026-W30"
