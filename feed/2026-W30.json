@@ -1,8 +1,1198 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-18T01:46:24Z",
+  "publishedAt" : "2026-07-20T00:56:31Z",
   "slots" : [
+    {
+      "illustrationName" : "B5DB35DF-5933-51E5-BA39-8F26B50FF57B.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/news\/ng-interactive\/2026\/jul\/18\/the-impossible-choices-of-a-deadly-wildfire-season",
+          "category" : "Environment",
+          "descriptionTR" : "İklim krizi, yangınları daha yoğun hale getirerek dünyanın yeni bölgelerine yayılmasına neden olurken, bu yangınlarla mücadele edenler kaynakları rasyonel kullanmak ve hangi yangınlarla mücadele edeceklerine karar vermek zorunda kalıyor. César Alcaraz, 1990'ların sonlarında itfaiyeci olduğunda, İspanya'nın Montgó dağ bölgesinde hızlı hareket eden bir yangınla karşılaştı. Su kalmadığında ve nefes almakta zorlandığında, meslektaşlarıyla birlikte daha fazla destek gönderilmesini dileyerek yangından kaçtı. Ancak neredeyse otuz yıl sonra, Alicante'nin il itfaiyecileriyle birlikte bir subay olarak, komutanların vermek zorunda kaldığı acı verici kararlara daha fazla empati duyuyor. Yangınlar bir bölgeyi alt ettiğinde, işi, yeterli ventilatörü olmayan bir acil servisteki doktorunki gibi oluyor.",
+          "group" : "Europe wildfire crisis",
+          "id" : "https:\/\/www.theguardian.com\/news\/ng-interactive\/2026\/jul\/18\/the-impossible-choices-of-a-deadly-wildfire-season",
+          "link" : "https:\/\/www.theguardian.com\/news\/ng-interactive\/2026\/jul\/18\/the-impossible-choices-of-a-deadly-wildfire-season",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/news\/ng-interactive\/2026\/jul\/18\/the-impossible-choices-of-a-deadly-wildfire-season"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian World",
+              "url" : "https:\/\/www.theguardian.com\/news\/ng-interactive\/2026\/jul\/18\/the-impossible-choices-of-a-deadly-wildfire-season"
+            }
+          ],
+          "titleTR" : "İklim kriziyle mücadelede itfaiyecilerin zor kararları"
+        },
+        {
+          "atomID" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
+          "category" : "Environment",
+          "descriptionTR" : "İspanya, kuzeydoğu Aragon bölgesinde hızla yayılan bir yangınla mücadele etmek için 400'den fazla itfaiyeci ve 19 uçak görevlendirdi. Alevler 16 Temmuz itibarıyla yaklaşık 7.600 hektarlık alanı kapladı.",
+          "group" : "Spain wildfire crisis",
+          "id" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
+          "link" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears"
+            }
+          ],
+          "titleTR" : "İspanya, Aragon'daki büyük yangınla mücadele ediyor"
+        },
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/spain-emergency-crews-battle-wildfire-north-of-madrid\/a-78026297?maca=en-rss-en-world-4025-xml-mrss",
+          "category" : "Environment",
+          "descriptionTR" : "Merkezi İspanya'da üç gündür devam eden yangınla mücadele etmek için 25'ten fazla yangın söndürme uçağı görevlendirildi.",
+          "group" : "Spain wildfire crisis",
+          "id" : "https:\/\/www.dw.com\/en\/spain-emergency-crews-battle-wildfire-north-of-madrid\/a-78026297?maca=en-rss-en-world-4025-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/spain-emergency-crews-battle-wildfire-north-of-madrid\/a-78026297?maca=en-rss-en-world-4025-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle World",
+              "url" : "https:\/\/www.dw.com\/en\/spain-emergency-crews-battle-wildfire-north-of-madrid\/a-78026297?maca=en-rss-en-world-4025-xml-mrss"
+            }
+          ],
+          "titleTR" : "İspanya: Acil ekipler Madrid'in kuzeyindeki yangınla mücadele ediyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+          "category" : "Environment",
+          "descriptionTR" : "Malcolm Timbrell'in eşi ve arkadaşlarının, İspanya'daki yıkıcı bir yangın köylerini kasıp kavurduğunda güvenliğe koşmaya çalışırken öldüğü düşünülüyor.",
+          "group" : "Europe wildfire crisis",
+          "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+          "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News Europe",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cx24e09x79no?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "İngiliz, İspanya'daki yangından arabada kurtulduğunu anlattı"
+        }
+      ],
+      "packetSpot" : "İspanya, Aragon ve Madrid'in kuzeyinde acil ekiplerin konuşlandırıldığı birçok yangınla mücadele ediyor. İklim krizi, yangın söndürme çabalarını zorlaştırıyor.",
+      "packetTitle" : "İspanya yangınlarla boğuşuyor: İklim krizi ve itfaiyecilerin zorluğu",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "B14CBA12-E7E3-5CAE-AAB9-8AB27082C536.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/wissen\/klima\/eu-verbot-kleidung-vernichtung-100.html",
+          "category" : "Environment",
+          "descriptionTR" : "Bugünden itibaren büyük şirketler, satılmayan kıyafet ve ayakkabıları basitçe yok edemeyecek. AB, bu yolla kaynakları korumayı ve tekstil atıklarını azaltmayı hedefliyor. Ancak, bu düzenlemenin başarıya ulaşıp ulaşmayacağı konusunda şüpheler var.",
+          "group" : "EU textile waste rules",
+          "id" : "https:\/\/www.tagesschau.de\/wissen\/klima\/eu-verbot-kleidung-vernichtung-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/wissen\/klima\/eu-verbot-kleidung-vernichtung-100.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/wissen\/klima\/eu-verbot-kleidung-vernichtung-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle World",
+              "url" : "https:\/\/www.dw.com\/en\/eu-ban-on-destroying-unsold-clothes-takes-effect\/a-78024888?maca=en-rss-en-world-4025-xml-mrss"
+            }
+          ],
+          "titleTR" : "AB, satılmayan kıyafetlerin yok edilmesini yasakladı: Ne kadar etkili olacak?"
+        }
+      ],
+      "packetSpot" : "Avrupa Birliği, büyük şirketlerin satılmayan kıyafetleri yok etmesini yasaklayan bir düzenleme getirdi. Bu adımın atık azaltma ve kaynak koruma üzerindeki etkisi birçok kaynakta tartışılıyor.",
+      "packetTitle" : "AB'den satılmayan kıyafetlerin yok edilmesine yasak",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "illustrationName" : "F9DF7C32-0871-5EA3-BC61-51D9C28BB8B9.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-kanada-waldbrand-trump-zoelle-100.html",
+          "category" : "Environment",
+          "descriptionTR" : "Kanada'daki orman yangınları, Kanada'nın bazı bölgeleri ve ABD'nin kuzeyini kapladı, havayı kirletti. ABD Başkanı Trump, komşu ülke Kanada'dan kirliliğin maliyetini ödemesini talep ediyor. Pazar günü New Jersey'de oynanacak Dünya Kupası finali bu durumda bir rol oynuyor mu?",
+          "group" : "Canada wildfire trade threat",
+          "id" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-kanada-waldbrand-trump-zoelle-100.html",
+          "link" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-kanada-waldbrand-trump-zoelle-100.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-kanada-waldbrand-trump-zoelle-100.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/17\/trump-canada-wildfire-tariffs.html"
+            }
+          ],
+          "titleTR" : "Kanada'daki yangınlar: Trump, hava kirliliği nedeniyle gümrük tarifesi tehdidinde bulunuyor"
+        },
+        {
+          "atomID" : "https:\/\/phys.org\/news\/2026-07-wildfire-haze-eastern-world-cup.html",
+          "category" : "Environment",
+          "descriptionTR" : "Yoğun ve keskin orman yangını dumanı, ABD'nin doğusunu kapladı ve New Jersey'de açık hava stadyumunda yapılacak olan Dünya Kupası finalinin hazırlıklarını olumsuz etkiledi.",
+          "group" : "Wildfire smoke and heat",
+          "id" : "https:\/\/phys.org\/news\/2026-07-wildfire-haze-eastern-world-cup.html",
+          "link" : "https:\/\/phys.org\/news\/2026-07-wildfire-haze-eastern-world-cup.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Phys.org",
+              "url" : "https:\/\/phys.org\/news\/2026-07-wildfire-haze-eastern-world-cup.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/environment\/2026\/07\/19\/wildfire-haze-us-world-cup-final\/"
+            }
+          ],
+          "titleTR" : "Orman yangını dumanı ABD'nin doğusunu ve Dünya Kupası finalini etkiliyor"
+        },
+        {
+          "atomID" : "https:\/\/thehill.com\/homenews\/5976412-ford-blasts-trump-wildfire-criticism\/",
+          "category" : "Environment",
+          "descriptionTR" : "Ontario Başbakanı Doug Ford, Trump yönetimi ve Kongre'deki Cumhuriyetçilerin Kanada hükümetine yönelik eleştirilerini \"kesinlikle kabul edilemez\" olarak nitelendirdi. Ford, Thunder Bay, Ontario'da düzenlediği basın toplantısında, \"Bu durumu atlatmaya çalışıyoruz\" dedi.",
+          "group" : "Canada wildfire backlash",
+          "id" : "https:\/\/thehill.com\/homenews\/5976412-ford-blasts-trump-wildfire-criticism\/",
+          "link" : "https:\/\/thehill.com\/homenews\/5976412-ford-blasts-trump-wildfire-criticism\/",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/homenews\/5976412-ford-blasts-trump-wildfire-criticism\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/policy\/energy-environment\/5976386-wildfire-smoke-air-quality-alerts\/"
+            }
+          ],
+          "titleTR" : "Ontario başbakanı Trump'ın yangın eleştirisine sert çıktı: 'Kesinlikle kabul edilemez'"
+        }
+      ],
+      "packetSpot" : "Kanada'daki orman yangınları, ABD'nin doğusunda hava kalitesini ciddi şekilde etkiledi. New Jersey'deki Dünya Kupası finali de bu durumdan etkilendi. Trump, kirlilik nedeniyle Kanada'ya gümrük tarifesi tehdidinde bulundu. Bu durum, siyasi gerginlikleri artırdı.",
+      "packetTitle" : "Kanada yangınları ABD'yi sarıyor, Trump'tan gerginlik",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "illustrationName" : "AED9357F-8DE8-5D2D-9EA6-E1A83B1FA251.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584",
+          "category" : "Environment",
+          "descriptionTR" : "El Niño'nun başladığı ve bu doğal olayın 2026'nın ilerleyen dönemlerinde çok güçlü, hatta süper El Niño'ya dönüşme olasılığının %60'tan fazla olduğu tahmin ediliyor. El Niño, ekvator yakınlarındaki Pasifik Okyanusu'nda daha sıcak suyla başlar ve dünya genelinde dramatik hava etkileri yaratabilir. Ancak, yüksek sıcaklıkların Pasifik'te şiddetli sel, kuraklık ve fırtınalara dönüşmesi için hangi olaylar zincirinin gerçekleşmesi gerekiyor? İklim değişikliği El Niño'da nasıl bir rol oynuyor? The Conversation Weekly podcast'inde Ioana Colfescu, El Niño'nun nasıl çalıştığını ve dünya için ne anlama gelebileceğini açıklıyor.",
+          "group" : "El Nino impacts",
+          "id" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584",
+          "link" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Conversation Global",
+              "url" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584"
+            }
+          ],
+          "titleTR" : "El Niño nasıl süper El Niño'ya dönüşüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+          "category" : "Environment",
+          "descriptionTR" : "Hava olayının daha aşırı hava koşulları getireceği uyarıları yapılırken, etkileri zaten bir dizi felaketten etkilenen bir ülkede hissedilmeye başlandı. Filipinler, aşırı hava koşulları tuzağına düşmüş durumda. Güçlü bir El Niño'nun önümüzdeki aylarda kuraklık dönemi getireceği tahminleri, aynı zamanda şiddetli yağmur ve sel uyarısı da yapıyor. Bu durum, geçen yılki Tayfun Tino ve Cebu'da Eylül 2025'teki güçlü depremler gibi önceki felaketlerden hâlâ toparlanmaya çalışan toplulukları tehdit ediyor.",
+          "group" : "Philippines El Niño impacts",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/06\/a-supercharged-el-nino-is-coming-are-we-ready\/"
+            }
+          ],
+          "titleTR" : "Güçlü bir El Niño Filipinler için daha fazla iklim acısı getiriyor"
+        }
+      ],
+      "packetSpot" : "Beklenen güçlü El Niño'nun, küresel ölçekte önemli etkiler yaratması bekleniyor. Filipinler ise halihazırda aşırı hava koşulları ve tarımsal kayıplar yaşadığı için özel bir endişe kaynağı.",
+      "packetTitle" : "Beklenen güçlü El Niño'nun küresel ve Filipinler üzerindeki etkileri",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
+          "category" : "Politics",
+          "descriptionTR" : "Tamás Sulyok, lider olarak 'ciddi güven kaybı' yaşandığını belirten anayasa değişikliğini imzaladı. Macaristan Cumhurbaşkanı Tamás Sulyok, Başbakan Péter Magyar'ın liderliğindeki iktidardaki Tisza partisi tarafından kabul edilen anayasa değişikliğini imzalayarak görevinden ayrılmayı kabul etti. Değişiklik, eski Başbakan Viktor Orbán'ın milliyetçi Fidesz partisinden milletvekilleri tarafından 2024 başında seçilen Sulyok'un görev süresini derhal sona erdiriyor.",
+          "group" : "Hungary political transition",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/07\/18\/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Macaristan Cumhurbaşkanı, görev süresini sona erdiren yasa değişikliğini imzalayarak istifa etti"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Macaristan'da anayasa değişikliğiyle Cumhurbaşkanı Sulyok'un görevi sona erdi",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/theconversation.com\/andy-burnham-is-the-labour-leader-third-time-lucky-for-the-uks-prime-minister-in-waiting-287641",
+          "category" : "Politics",
+          "descriptionTR" : "Andy Burnham, İşçi Partisi liderliği için üçüncü denemesinde kazandı. Londra'da düzenlenen özel bir konferansta İşçi Partisi milletvekillerine hitap eden Burnham, \"umutları geri getireceğine\" söz verdi. 2010 yılında Blairci kanadın yükselen yıldızı olarak liderlik için ilk adaylığını koymuştu. Ancak, o dönemde başarı şansı düşüktü. 2015'te tekrar aday oldu ama Jeremy Corbyn'in yükselişini engelleyemedi. 2024'te İşçi Partisi büyük bir çoğunlukla iktidara geldi, ancak kısa sürede krizden krize sürüklendi ve Keir Starmer en popüler olmayan başbakanlardan biri haline geldi. Bu durum, Burnham'ın liderlik yarışında tek aday olarak öne çıkmasına neden oldu.",
+          "group" : "UK Labour leadership",
+          "id" : "https:\/\/theconversation.com\/andy-burnham-is-the-labour-leader-third-time-lucky-for-the-uks-prime-minister-in-waiting-287641",
+          "link" : "https:\/\/theconversation.com\/andy-burnham-is-the-labour-leader-third-time-lucky-for-the-uks-prime-minister-in-waiting-287641",
+          "newsValue" : 9,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Conversation Global",
+              "url" : "https:\/\/theconversation.com\/andy-burnham-is-the-labour-leader-third-time-lucky-for-the-uks-prime-minister-in-waiting-287641"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "RFI Monde",
+              "url" : "https:\/\/www.rfi.fr\/en\/international\/20260717-uk-labour-party-crowns-andy-burnham-as-leader-and-next-prime-minister"
+            }
+          ],
+          "titleTR" : "Andy Burnham, İşçi Partisi lideri oldu – Üçüncü denemede Başbakanlığa doğru"
+        },
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/17\/burnham-vows-to-fix-big-things-in-uk-as-he-takes-step-closer-to-downing-street\/",
+          "category" : "Politics",
+          "descriptionTR" : "Andy Burnham, İşçi Partisi'ne liderliğinin Britanya'yı \"büyük sorunları çözerek\" yükselteceğini söyledi. İşçi Partisi'nin lideri olarak onaylanmasının ardından, Burnham, \"ne yapmak istediğini bildiğini\" ve \"bir planı olduğunu\" belirtti. Burnham, hükümetin yönünü değiştirecek beş ana değişiklik yapmayı planlıyor. Westminster ve Whitehall'dan yetkileri geri alarak yerel yönetimlere devretmeyi vaat ediyor. Enerji maliyetlerini düşürmek için Kuzey Denizi'nde petrol aramalarını yenilemeyi ve Thames Water'ı kamulaştırmayı planlıyor. Ancak, Başbakan olması için Keir Starmer'ın resmi olarak istifa etmesi gerekiyor.",
+          "group" : "UK Labour leadership",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/17\/burnham-vows-to-fix-big-things-in-uk-as-he-takes-step-closer-to-downing-street\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/17\/burnham-vows-to-fix-big-things-in-uk-as-he-takes-step-closer-to-downing-street\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/17\/burnham-vows-to-fix-big-things-in-uk-as-he-takes-step-closer-to-downing-street\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian World",
+              "url" : "https:\/\/www.theguardian.com\/politics\/2026\/jul\/19\/burnham-warn-uk-honest-challenges-prepares-become-pm"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian World",
+              "url" : "https:\/\/www.theguardian.com\/politics\/2026\/jul\/19\/burnham-vow-end-labour-briefing-wars-test"
+            }
+          ],
+          "titleTR" : "Burnham, Downing Street'e bir adım daha yaklaşırken büyük sorunları çözme sözü verdi"
+        }
+      ],
+      "packetSpot" : "Andy Burnham, İşçi Partisi lideri olarak onaylandı ve Birleşik Krallık'ın bir sonraki Başbakanı olmaya hazırlanıyor. Burnham'ın liderliği, partinin yönünde önemli bir değişimi işaret ediyor ve ekonomik zorluklara çözüm getirmeyi ve yetki devri reformlarını uygulamayı planlıyor. Ancak, Keir Starmer'ın resmi olarak istifa etmesi ve Kral Charles III tarafından hükümet kurma daveti alması gerekiyor. Burnham'ın liderliği, İşçi Partisi içinde birliği sağlama ve ulusal sorunlara çözüm bulma çabalarını öne çıkarıyor. Kabine atamalarıyla ilgili spekülasyonlar da dikkat çekiyor, ancak bu atamalar henüz kesinleşmiş değil.",
+      "packetTitle" : "Andy Burnham İşçi Partisi lideri olarak onaylandı ve Başbakanlığa hazırlanıyor",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "illustrationName" : "8EF91191-3ED5-5495-A157-10D781377981.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.npr.org\/2026\/07\/19\/g-s1-134001\/andy-burnham-new-british-prime-minister",
+          "category" : "Politics",
+          "descriptionTR" : "Eski Manchester Belediye Başkanı Andy Burnham, Pazartesi günü Keir Starmer'ın yerine Birleşik Krallık başbakanı oldu. Burnham'ın siyaseti, İngiltere'nin kuzey-güney sınıf ayrımı tarafından şekillendi.",
+          "group" : "UK leadership change",
+          "id" : "https:\/\/www.npr.org\/2026\/07\/19\/g-s1-134001\/andy-burnham-new-british-prime-minister",
+          "link" : "https:\/\/www.npr.org\/2026\/07\/19\/g-s1-134001\/andy-burnham-new-british-prime-minister",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "NPR World",
+              "url" : "https:\/\/www.npr.org\/2026\/07\/19\/g-s1-134001\/andy-burnham-new-british-prime-minister"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/video\/inside-story\/2026\/7\/19\/the-uk-gets-its-seventh-prime-minister-in-10-years?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/economy\/2026\/7\/19\/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC News US",
+              "url" : "https:\/\/abcnews.com\/International\/wireStory\/challenges-andy-burnham-face-uk-prime-minister-134887196"
+            }
+          ],
+          "titleTR" : "Andy Burnham: Birleşik Krallık'ın yeni başbakanı kim?"
+        }
+      ],
+      "packetSpot" : "Andy Burnham, Birleşik Krallık'ın yeni başbakanı olarak Keir Starmer'ın yerine geçti. Başbakanlık görevi, Ukrayna ve İran gibi dış politika meselelerinin yanı sıra iç siyasi dinamiklerle ilgili önemli zorluklarla başlıyor.",
+      "packetTitle" : "Andy Burnham başbakanlık koltuğunda",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
+          "category" : "Politics",
+          "descriptionTR" : "Macaristan Cumhurbaşkanı Tamás Sulyok, lider olarak kendisine duyulan 'ciddi güven kaybı' gerekçesiyle anayasa değişikliğini imzalayarak istifa etmeyi kabul etti. Başbakan Péter Magyar'ın liderliğindeki iktidar partisi Tisza tarafından kabul edilen bu değişiklik, Sulyok'un görev süresini derhal sona erdirecek. Sulyok, eski başbakan Viktor Orbán'ın milliyetçi Fidesz partisi milletvekilleri tarafından 2024 başlarında seçilmişti.",
+          "group" : "Hungary political transition",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Euronews",
+              "url" : "http:\/\/www.euronews.com\/2026\/07\/18\/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Macaristan cumhurbaşkanı, görev süresini sonlandıran yasa değişikliği sonrası istifa etmeyi kabul etti"
+        }
+      ],
+      "packetSpot" : "Macaristan Cumhurbaşkanı Tamás Sulyok, güven kaybı ve parlamento desteğinin azalması sonrası görev süresini sonlandıran anayasa değişikliğini imzalayarak istifa etti.",
+      "packetTitle" : "Macaristan'da anayasa değişikliği sonrası Cumhurbaşkanı Sulyok istifa etti",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "illustrationName" : "60FCC4B7-B1EC-599A-B611-B051A31EE95F.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/arstechnica.com\/health\/2026\/07\/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield\/",
+          "category" : "Health",
+          "descriptionTR" : "\"Rasyonel sağlık hizmetlerinde geriye gidiyoruz.\"\nSavunma Bakanı Pete Hegseth, Çarşamba günü yaptığı açıklamada, ABD ordusunun 30 yaş ve üzeri tüm aktif ve yedek personelin testosteron eksikliği için zorunlu taramadan geçeceğini duyurdu. Taramalar, yıllık sağlık değerlendirmeleri sırasında yapılacak. 30 yaş altındakiler de isteğe bağlı olarak taramadan geçebilecek.\nHegseth, sosyal medyada yayınladığı kısa bir videoda, askeri topluluğa bu taramaların ve olası tedavilerin \"performansınızı, dayanıklılığınızı ve uzun vadeli sağlığınızı optimize etmek\" amacı taşıdığını açıkladı. Hegseth, girişimin \"yapay iyileştirme\" ile ilgili olmadığını ve üyelerin tedaviyi reddedebileceğini söylerken, testlerin ve potansiyel tedavinin \"yetkinlikleri geri kazandırmak ve optimize etmek\", \"uzun ömürlülüğü korumak\" ve \"mücadeleyi sürdürmek için gerekli biyolojik temeli sağlamak\" için olduğunu iddia etti.\nAncak testosteron taraması ve tedavisi gerçekten \"savaşçılarımızı\" optimize edecek mi? Çoğunun daha uzun yaşamasına yardımcı olacak mı? Herkes taranmalı ve tedavi edilmeli mi?\nTam makaleyi oku\nYorumlar",
+          "group" : "Military testosterone screening",
+          "id" : "https:\/\/arstechnica.com\/health\/2026\/07\/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield\/",
+          "link" : "https:\/\/arstechnica.com\/health\/2026\/07\/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Ars Technica",
+              "url" : "https:\/\/arstechnica.com\/health\/2026\/07\/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/policy\/defense\/5976381-hegseth-military-testosterone-screening-questions\/"
+            }
+          ],
+          "titleTR" : "Hegseth \"Yüksek T\" ordusu istiyor; doktorlar klinik bir mayın tarlası diyor"
+        }
+      ],
+      "packetSpot" : "Savunma Bakanı Pete Hegseth, ABD ordusundaki 30 yaş ve üzeri personel için zorunlu testosteron taraması yapılacağını duyurdu. Bu karar, sağlık riskleri ve faydaları konusunda tartışmalara yol açtı. Tarama, yıllık sağlık değerlendirmeleri sırasında gerçekleştirilecek ve 30 yaş altındakiler de isteğe bağlı olarak taramadan geçebilecek. Hegseth, bu girişimin performansı, dayanıklılığı ve uzun vadeli sağlığı optimize etmeyi amaçladığını belirtti. Ancak bu taramaların ve olası tedavilerin gerçekten \"savaşçıların\" performansını optimize edip etmeyeceği ve uzun ömürlülüğü artırıp artırmayacağı konusunda tartışmalar sürüyor.",
+      "packetTitle" : "Pete Hegseth'ten ABD askeri personeline zorunlu testosteron taraması",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "illustrationName" : "8D11012D-0460-5058-A10B-EC32678E9220.png",
+      "items" : [
 
+      ],
+      "packetSpot" : "Taylor Farms tarafından sağlanan ve Taco Bell'de sunulan iceberg marul, ABD'deki cyclosporiasis salgınının kaynağı olarak belirlenmiş ve ürünün geri çağrılmasına yol açmıştır.",
+      "packetTitle" : "ABD'de marul kaynaklı cyclosporiasis salgını",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
+    },
+    {
+      "illustrationName" : "322F20EB-9CF7-5848-BBCB-68AC5EE9ACD7.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206",
+          "category" : "Health",
+          "descriptionTR" : "GLP-1 ilaçlarının kanser riskini artırabileceği endişeleri, bu ilaçların kanseri önleyebileceği yönündeki iddialarla yer değiştirdi. Ancak, bu iddialar henüz kanıtlanmış değil ve sağlıklı kullanıcı yanlılığı gibi faktörler sonuçları etkileyebilir. Araştırmalar, GLP-1 ilaçlarının bazı kanser türlerinde riski azaltabileceğini öne sürse de, daha fazla çalışma yapılması gerekiyor.",
+          "group" : "Ozempic cancer claims",
+          "id" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206",
+          "link" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Conversation Global",
+              "url" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Conversation Global",
+              "url" : "https:\/\/theconversation.com\/weight-loss-drugs-like-ozempic-could-work-for-addiction-too-and-we-finally-know-how-285227"
+            }
+          ],
+          "titleTR" : "Ozempic kanseri önleyebilir mi? Başlıkların yanlış anlaşılabilirliği üzerine bir doktorun açıklaması"
+        },
+        {
+          "atomID" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm",
+          "category" : "Health",
+          "descriptionTR" : "Araştırmacılar, Ozempic ve Wegovy'nin aktif bileşeni olan semaglutidin, HIV'li yetişkinlerde biyolojik yaşlanma belirtilerini yavaşlattığını buldu. Bu, ilacın insan yaşlanmasını etkileyebileceğine dair ilk klinik kanıt. Ancak, ilacın yaşlanmayı yavaşlatabileceği sonucuna varmadan önce daha büyük çalışmalara ihtiyaç var.",
+          "group" : "Ozempic aging effects",
+          "id" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm",
+          "link" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ScienceDaily",
+              "url" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm"
+            }
+          ],
+          "titleTR" : "Popüler kilo kaybı ilaçları Ozempic ve Wegovy biyolojik yaşlanmayı yavaşlatabilir"
+        }
+      ],
+      "packetSpot" : "GLP-1 ilaçlarının, özellikle Ozempic ve Wegovy'nin, kanser riskini azaltma ve biyolojik yaşlanmayı yavaşlatma potansiyeli üzerine yapılan araştırmalar dikkat çekiyor. İlk bulgular umut verici olsa da, bu etkilerin doğrulanması için daha fazla araştırmaya ihtiyaç var. Çalışmalar, GLP-1 ilaçlarının kanser riskini düşürme potansiyelini incelerken, sağlıklı kullanıcı yanlılığı ve gözlemsel çalışmaların sınırlamaları gibi faktörler de göz önünde bulunduruluyor. Ayrıca, semaglutidin biyolojik yaşlanma üzerindeki etkileri de araştırılıyor, ancak bu konuda da kesin sonuçlara varmak için daha geniş çaplı çalışmalara ihtiyaç duyuluyor.",
+      "packetTitle" : "GLP-1 ilaçları: Kanser riski ve yaşlanma üzerine yeni araştırmalar",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 11
+    },
+    {
+      "illustrationName" : "1EEBE7DA-0789-52E5-8919-D8CA0DC6A616.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/17\/ebola-us-aid-workers-kenya",
+          "category" : "Health",
+          "descriptionTR" : "Kongo'daki Ebola salgınıyla mücadele eden yedi Amerikalı yardım görevlisi, ABD hükümetinin seyahat kısıtlamaları getirmesinin ardından Kenya'daki yeni bir izolasyon tesisinde karantinaya alındı. Bu tesis, Kenya'da büyük bir muhalefetle karşılaşmış ve bir mahkeme tarafından çalışmalarının durdurulması emredilmişti. Ancak, ABD yetkilileri ve Reuters tarafından incelenen uydu görüntülerine göre, inşaat devam ediyor.",
+          "group" : "Ebola travel restrictions",
+          "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/17\/ebola-us-aid-workers-kenya",
+          "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/17\/ebola-us-aid-workers-kenya",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian World",
+              "url" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/17\/ebola-us-aid-workers-kenya"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian World",
+              "url" : "https:\/\/www.theguardian.com\/global-development\/2026\/jul\/16\/uganda-travel-restrictions-last-ebola-patient-discharged"
+            }
+          ],
+          "titleTR" : "ABD'nin seyahat yasağı sonrası yedi Amerikalı yardım görevlisi Kenya'da karantinada"
+        },
+        {
+          "atomID" : "https:\/\/www.cbc.ca\/news\/canada\/canada-congo-ebola-9.7275782?cmp=rss",
+          "category" : "Health",
+          "descriptionTR" : "Kanada hükümeti, Ebola'nın yayılmasını önlemek amacıyla yeni ve geçici sınır önlemleri kapsamında, son 21 gün içinde Demokratik Kongo Cumhuriyeti'nde bulunan yabancıların ülkeye girişini yasaklayacağını açıkladı.",
+          "group" : "Ebola border measures",
+          "id" : "https:\/\/www.cbc.ca\/news\/canada\/canada-congo-ebola-9.7275782?cmp=rss",
+          "link" : "https:\/\/www.cbc.ca\/news\/canada\/canada-congo-ebola-9.7275782?cmp=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CBC World",
+              "url" : "https:\/\/www.cbc.ca\/news\/canada\/canada-congo-ebola-9.7275782?cmp=rss"
+            }
+          ],
+          "titleTR" : "Kanada, Kongo'da bulunan yabancıların ülkeye girişini geçici olarak yasaklıyor"
+        }
+      ],
+      "packetSpot" : "Kongo'daki Ebola salgınına karşı ülkeler seyahat kısıtlamaları ve karantina önlemleri alıyor. ABD ve Kanada, bu bağlamda özel adımlar atıyor.",
+      "packetTitle" : "Ebola salgını nedeniyle ülkelerden seyahat kısıtlamaları ve karantina önlemleri",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.politico.com\/news\/2026\/07\/19\/chris-wright-strait-hormuz-iran-01004359?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "category" : "Energy",
+          "descriptionTR" : "ABD Enerji Bakanı Chris Wright, Hürmüz Boğazı'ndan petrol tankerlerinin geçişine devam ettiğini belirtti. Wright, ABC'nin \"This Week\" programında Jonathan Karl'a yaptığı açıklamada, \"Arabistan Körfezi bölgesinden günlük yaklaşık 14 milyon varil petrol akışı var. Bu, çatışma öncesi trafiğin üçte ikisi kadar, Mart ayında programınıza en son katıldığım zamana göre büyük bir artış. Henüz %100 değil, ama şu anki akışın üçte ikisi\" dedi. Wright, kamuoyunda son günlerde çoğu deniz trafiğinin durduğuna dair çıkan haberlerin doğru olmadığını savundu. \"Gördüğüm neredeyse tüm kamu verileri yanlış,\" dedi. Wright, savaşın, Ürdün'deki bir ABD üssünde Amerikan kayıplarına yol açan çatışmaların, barış getirmeyen görüşmelerin ardından yeniden başladığını belirtti. \"Şu anda yaptığımız şey, İran'ın işbirliği olsun ya da olmasın, petrol ve gaz ile diğer ürünlerin Hürmüz Boğazı'ndan akışını sağlamak,\" dedi. Wright ayrıca Başkan Donald Trump'ın misyonunun, İran'ın nükleer silah elde etmesini engellemek olduğunu söyledi. \"Başkanın misyonu, Orta Doğu'da ve dünyada barış için esastır,\" dedi.",
+          "group" : "Hormuz shipping flows",
+          "id" : "https:\/\/www.politico.com\/news\/2026\/07\/19\/chris-wright-strait-hormuz-iran-01004359?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "link" : "https:\/\/www.politico.com\/news\/2026\/07\/19\/chris-wright-strait-hormuz-iran-01004359?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "POLITICO Europe",
+              "url" : "https:\/\/www.politico.com\/news\/2026\/07\/19\/chris-wright-strait-hormuz-iran-01004359?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Anadolu Agency English",
+              "url" : "https:\/\/www.aa.com.tr\/en\/americas\/us-energy-chief-says-gulf-oil-flows-nearing-14m-barrels-per-day-despite-iran-tensions\/4003078"
+            }
+          ],
+          "titleTR" : "ABD Enerji Bakanı: Hürmüz Boğazı'ndan gemi geçişleri devam ediyor"
+        }
+      ],
+      "packetSpot" : "ABD Enerji Bakanı Chris Wright'a göre, Hürmüz Boğazı'ndan petrol akışı, İran ile yaşanan gerilimlere rağmen günlük 14 milyon varile yaklaşıyor.",
+      "packetTitle" : "Hürmüz Boğazı'ndan petrol akışı İran gerilimine rağmen sürüyor",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 13
+    },
+    {
+      "illustrationName" : "590BC536-A98A-58EF-B0D4-0BFB2C0098B4.png",
+      "items" : [
+
+      ],
+      "packetSpot" : "ABD ve İran arasındaki son gerginlikler, petrol fiyatlarının önemli ölçüde artmasına ve Hürmüz Boğazı'nda kesintilere neden oldu, bu da küresel petrol arzını etkiliyor.",
+      "packetTitle" : "ABD-İran gerginliği petrol fiyatlarını ve Hürmüz Boğazı'nı vuruyor",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 14
+    },
+    {
+      "illustrationName" : "9EC0A6C9-846B-5ACB-8FB0-B2CE00810DC0.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/china-firm-seeks-damages-over-state-control-of-british-steel\/a-78024119?maca=en-rss-en-world-4025-xml-mrss",
+          "category" : "Economy",
+          "descriptionTR" : "Birleşik Krallık hükümeti, ülkenin son birincil çelik üretim tesisinin kapanmasını önlemek için geçen yıl British Steel'i devraldı. 2020 yılında şirketi satın alan Çinli Jingye Group, kendisine tazminat borçlu olunduğunu iddia ediyor.",
+          "group" : "British Steel compensation dispute",
+          "id" : "https:\/\/www.dw.com\/en\/china-firm-seeks-damages-over-state-control-of-british-steel\/a-78024119?maca=en-rss-en-world-4025-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/china-firm-seeks-damages-over-state-control-of-british-steel\/a-78024119?maca=en-rss-en-world-4025-xml-mrss",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle World",
+              "url" : "https:\/\/www.dw.com\/en\/china-firm-seeks-damages-over-state-control-of-british-steel\/a-78024119?maca=en-rss-en-world-4025-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "ABC News US",
+              "url" : "https:\/\/abcnews.com\/International\/wireStory\/chinese-company-demands-compensation-uk-british-steel-nationalization-134887645"
+            }
+          ],
+          "titleTR" : "Çinli firma, British Steel'in devlet kontrolüne geçmesi nedeniyle tazminat talep ediyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/business\/2026\/jul\/17\/british-steel-nationalisation-china-strongly-dissatisfied",
+          "category" : "Economy",
+          "descriptionTR" : "Çin Ticaret Bakanlığı, British Steel'in kamulaştırılmasının Çinli şirketlerin Birleşik Krallık'a yatırım yapma konusundaki güvenine ciddi bir darbe vurduğunu belirtti. Çin hükümeti, bu hafta British Steel'in kamulaştırılması kararından 'güçlü bir memnuniyetsizlik' duyduğunu açıkladı. Perşembe günü, British Steel kamu mülkiyetine geçirildi ve hükümet çelik üretiminin geleceğini korumak amacıyla bu adımı attığını duyurdu.",
+          "group" : "British Steel nationalisation",
+          "id" : "https:\/\/www.theguardian.com\/business\/2026\/jul\/17\/british-steel-nationalisation-china-strongly-dissatisfied",
+          "link" : "https:\/\/www.theguardian.com\/business\/2026\/jul\/17\/british-steel-nationalisation-china-strongly-dissatisfied",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian World",
+              "url" : "https:\/\/www.theguardian.com\/business\/2026\/jul\/17\/british-steel-nationalisation-china-strongly-dissatisfied"
+            }
+          ],
+          "titleTR" : "Çin, British Steel'in kamulaştırılmasından 'güçlü bir memnuniyetsizlik' duyuyor"
+        }
+      ],
+      "packetSpot" : "Birleşik Krallık hükümetinin British Steel'i kamulaştırmasının ardından, daha önce şirketin sahibi olan Jingye Group, tazminat talebinde bulunuyor. Çin hükümeti, bu kamulaştırma kararına karşı güçlü bir memnuniyetsizlik ifade etti ve gelecekteki yatırımlar konusunda endişelerini dile getirdi.",
+      "packetTitle" : "British Steel'in kamulaştırılması sonrası Jingye Group tazminat peşinde; Çin memnuniyetsiz",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "illustrationName" : "8013C110-D85F-5632-A130-10C681AEF7A4.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/mg.co.za\/news\/south-africa\/2026-07-15-pic-appoints-batandwa-damoyi-as-acting-ceo-as-board-resignations-deepen-turmoil\/",
+          "category" : "Economy",
+          "descriptionTR" : "Kamu Yatırım Kurumu (PIC), CEO Patrick Dlamini'nin ihtiyati olarak görevden uzaklaştırılmasının ardından mali işler müdürü Batandwa Damoyi'yi geçici CEO olarak atadı. Atama, Dlamini'nin bir ihbarcı raporundaki usulsüzlük iddiaları nedeniyle görevden uzaklaştırılmasından iki gün sonra duyuruldu.",
+          "group" : "PIC governance crisis",
+          "id" : "https:\/\/mg.co.za\/news\/south-africa\/2026-07-15-pic-appoints-batandwa-damoyi-as-acting-ceo-as-board-resignations-deepen-turmoil\/",
+          "link" : "https:\/\/mg.co.za\/news\/south-africa\/2026-07-15-pic-appoints-batandwa-damoyi-as-acting-ceo-as-board-resignations-deepen-turmoil\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mail & Guardian",
+              "url" : "https:\/\/mg.co.za\/news\/south-africa\/2026-07-15-pic-appoints-batandwa-damoyi-as-acting-ceo-as-board-resignations-deepen-turmoil\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mail & Guardian",
+              "url" : "https:\/\/mg.co.za\/news\/south-africa\/2026-07-15-exclusive-two-pic-directors-resign-days-after-ceo-s-suspension\/"
+            }
+          ],
+          "titleTR" : "PIC, Batandwa Damoyi'yi geçici CEO olarak atadı; yönetim kurulu istifaları krizi derinleştiriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-17-pic-management-failed-to-alert-board-to-fsca-requests-over-whistleblower-matter-masondo-says\/",
+          "category" : "Economy",
+          "descriptionTR" : "16 Temmuz'da bir toplantıda konuşan Kamu Yatırım Kurumu Başkanı David Masondo, kurumun operasyonel olarak istikrarlı kalmaya devam ettiğini belirterek çalışanları rahatlatmaya çalıştı, ancak yönetim kurulunun FSCA'nın ihbarcı şikayetiyle ilgili belge taleplerinden haberdar edilmediğini kabul etti.",
+          "group" : "PIC governance crisis",
+          "id" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-17-pic-management-failed-to-alert-board-to-fsca-requests-over-whistleblower-matter-masondo-says\/",
+          "link" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-17-pic-management-failed-to-alert-board-to-fsca-requests-over-whistleblower-matter-masondo-says\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Daily Maverick",
+              "url" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-17-pic-management-failed-to-alert-board-to-fsca-requests-over-whistleblower-matter-masondo-says\/"
+            }
+          ],
+          "titleTR" : "Masondo: PIC yönetimi, ihbarcı meselesiyle ilgili FSCA taleplerini yönetim kuruluna bildirmedi"
+        }
+      ],
+      "packetSpot" : "Kamu Yatırım Kurumu'nda (PIC) liderlik krizi yaşanıyor. CEO Patrick Dlamini'nin görevden uzaklaştırılması ve Batandwa Damoyi'nin geçici CEO olarak atanması, bir ihbarcı raporundaki usulsüzlük iddiaları nedeniyle gerçekleşti. Bu durum, yönetim kurulu istifalarına ve yönetişim sorunlarına yol açtı. PIC Başkanı David Masondo, yönetim kurulunun FSCA'nın ihbarcı şikayetiyle ilgili belge taleplerinden haberdar edilmediğini belirtti.",
+      "packetTitle" : "Kamu Yatırım Kurumu'nda liderlik değişiklikleri ve yönetişim sorunları",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/19\/ice-assault-claims-fbi.html",
+          "category" : "Law",
+          "descriptionTR" : "Adalet Bakanlığı ve İç Güvenlik Bakanlığı, gözetimde herhangi bir değişiklik olduğunu reddetti.",
+          "group" : "ICE oversight dispute",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/19\/ice-assault-claims-fbi.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/19\/ice-assault-claims-fbi.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/19\/ice-assault-claims-fbi.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Anadolu Agency English",
+              "url" : "https:\/\/www.aa.com.tr\/en\/americas\/federal-agents-were-told-fbi-will-no-longer-probe-ice-confrontations-report\/4003081"
+            }
+          ],
+          "titleTR" : "New York Times'a göre FBI, ICE çatışmalarını artık soruşturmayacak"
+        }
+      ],
+      "packetSpot" : "FBI'nin ICE ajanlarıyla ilgili çatışmaları artık soruşturmayacağı bildiriliyor. Ancak Adalet Bakanlığı ve İç Güvenlik Bakanlığı, gözetimde herhangi bir değişiklik olmadığını belirtti.",
+      "packetTitle" : "FBI'nin ICE çatışmalarını soruşturmayı bıraktığı iddiası",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "illustrationName" : "3E393C35-F710-5DD9-8431-F407FCE7D46C.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/podcasts\/beyond-the-headlines\/2026\/07\/17\/why-has-the-us-iran-agreement-not-been-enough-to-end-the-war\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ABD ve İran arasındaki savaşı sona erdirmeyi amaçlayan geçici anlaşma, imzalandıktan üç hafta sonra çöktü. İran, Hürmüz Boğazı'ndaki ticari gemilere saldırıları yeniden başlattı ve boğazın tamamının kontrolünün kendisinde olduğunu iddia etti. ABD, bunu 17 Haziran'da imzalanan ateşkes anlaşmasının ihlali olarak görerek İran askeri hedeflerine bir dizi saldırı düzenledi. Tahran, Körfez komşularına ve Ürdün'e insansız hava araçları ve füzeler fırlatarak, bu ülkelerdeki ABD askeri varlıklarını hedef aldığını belirtti. Misilleme olarak deniz ablukaları yeniden başlatıldı. ABD Başkanı Donald Trump, boğazın İran gemileri hariç herkese açık olduğunu söylerken, BM'nin denizcilik ajansı boğazın güvenli olmadığını bildirdi. Bu arada, denizciler İran saldırılarında bazıları öldürülen veya yaralanan kişilerle birlikte belirsizlik içinde kalmaya devam ediyor. Beyond the Headlines programının bu bölümünde, konuk sunucu Ban Barkawi, son askeri tırmanışa yol açan koşulları inceliyor ve anlaşmaya geri dönme şansının olup olmadığını sorguluyor. Eurasia Group'tan kıdemli İran ve enerji analisti Gregory Brew ile konuşuyor.",
+          "group" : "US-Iran ceasefire collapse",
+          "id" : "https:\/\/www.thenationalnews.com\/podcasts\/beyond-the-headlines\/2026\/07\/17\/why-has-the-us-iran-agreement-not-been-enough-to-end-the-war\/",
+          "link" : "https:\/\/www.thenationalnews.com\/podcasts\/beyond-the-headlines\/2026\/07\/17\/why-has-the-us-iran-agreement-not-been-enough-to-end-the-war\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/podcasts\/beyond-the-headlines\/2026\/07\/17\/why-has-the-us-iran-agreement-not-been-enough-to-end-the-war\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Tagesschau",
+              "url" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/iran-usa-rahmenabkommen-ausgesetzt-100.html"
+            }
+          ],
+          "titleTR" : "ABD-İran anlaşması savaşı neden bitiremedi?"
+        },
+        {
+          "atomID" : "https:\/\/www.aa.com.tr\/en\/turkiye\/turkish-foreign-minister-urges-return-to-us-iran-agreement-says-ankara-coordinating-with-qatar\/4003039",
+          "category" : "Diplomacy",
+          "descriptionTR" : "Hakan Fidan, Doha'nın krizi çözmek için tüm diplomatik kanalları kullandığını ve önümüzdeki günlerde olumlu gelişmeler beklediğini ifade etti.",
+          "group" : "Iran nuclear diplomacy",
+          "id" : "https:\/\/www.aa.com.tr\/en\/turkiye\/turkish-foreign-minister-urges-return-to-us-iran-agreement-says-ankara-coordinating-with-qatar\/4003039",
+          "link" : "https:\/\/www.aa.com.tr\/en\/turkiye\/turkish-foreign-minister-urges-return-to-us-iran-agreement-says-ankara-coordinating-with-qatar\/4003039",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Anadolu Agency English",
+              "url" : "https:\/\/www.aa.com.tr\/en\/turkiye\/turkish-foreign-minister-urges-return-to-us-iran-agreement-says-ankara-coordinating-with-qatar\/4003039"
+            }
+          ],
+          "titleTR" : "Türk dışişleri bakanı, ABD-İran anlaşmasına dönüş çağrısı yaptı, Ankara'nın Katar ile koordinasyon içinde olduğunu söyledi"
+        }
+      ],
+      "packetSpot" : "ABD-İran anlaşmasının çökmesi, askeri gerginliklerin yeniden artmasına yol açarken, Türkiye ve Katar arabuluculuk için diplomatik çabalarını sürdürüyor.",
+      "packetTitle" : "ABD-İran anlaşmasının çöküşü ve Türkiye ile Katar'ın diplomatik çabaları",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "illustrationName" : "160AFBD4-F204-526C-8BB9-87A4276911AA.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/20\/donald-trump-aoun-lebanon-israel\/",
+          "category" : "Diplomacy",
+          "descriptionTR" : "ABD Başkanı Donald Trump, Lübnan Cumhurbaşkanı Joseph Aoun'u Salı günü Beyaz Saray'da ağırlayacak. Beyrut, Washington'u İsrail ile yapılan hassas çerçeve anlaşmasının uygulanmasını sağlamaya ikna etmeye çalışıyor. Aoun'un Washington'a yaptığı bu ilk ziyaret, Roma'da yapılan ve anlaşmanın uygulanması için bir takvim belirlenemeyen iki günlük ABD arabuluculuğundaki görüşmelerin ardından gerçekleşiyor. Görüşmelerin merkezinde, İsrail'in güney Lübnan'daki iki \"pilot bölgeden\" çekilmesi ve İran destekli Hizbullah'ın silahsızlandırılması yer alıyor.",
+          "group" : "Lebanon Israel diplomacy",
+          "id" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/20\/donald-trump-aoun-lebanon-israel\/",
+          "link" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/20\/donald-trump-aoun-lebanon-israel\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/20\/donald-trump-aoun-lebanon-israel\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Al Jazeera English",
+              "url" : "https:\/\/www.aljazeera.com\/news\/2026\/7\/19\/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks?traffic_source=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/lebanons-aoun-to-meet-trump-at-white-house-hoping-to-generate-pressure-on-israel"
+            }
+          ],
+          "titleTR" : "Lübnan Cumhurbaşkanı Aoun, Trump'tan İsrail'in çekilmesi için destek arıyor"
+        }
+      ],
+      "packetSpot" : "Lübnan Cumhurbaşkanı Joseph Aoun, İsrail'in güney Lübnan'dan çekilmesi için ABD Başkanı Trump'tan destek arayışıyla Amerika Birleşik Devletleri'ni ziyaret ediyor. Ziyaretin amacı, ABD'nin çerçeve anlaşmasına destek vermesini sağlamak ve bölgesel güvenlik endişelerini ele almak.",
+      "packetTitle" : "Aoun, Trump'tan İsrail'in çekilmesi için destek arıyor",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "illustrationName" : "7181438A-3467-56B3-93FD-599A296E6D11.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/sports.yahoo.com\/articles\/world-cups-first-halftime-show-231747234.html",
+          "category" : "Culture",
+          "descriptionTR" : "Madonna, BTS, Justin Bieber, Shakira ve daha fazlasının sahne aldığı bu ilk türden gösteri, fazla dolu ve anlamsız bulundu. FIFA Dünya Kupası 2026 final maçında gerçekleşen bu gösteri, Chris Martin tarafından hazırlandı ve birçok ünlü ismin sahne almasıyla dikkat çekti. Ancak, gösterinin aşırı dolu yapısı ve belirgin bir vurgu eksikliği, eleştirmenler tarafından olumsuz değerlendirildi.",
+          "group" : "World Cup halftime show",
+          "id" : "https:\/\/sports.yahoo.com\/articles\/world-cups-first-halftime-show-231747234.html",
+          "link" : "https:\/\/sports.yahoo.com\/articles\/world-cups-first-halftime-show-231747234.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Yahoo Sports",
+              "url" : "https:\/\/sports.yahoo.com\/articles\/world-cups-first-halftime-show-231747234.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Yahoo Sports",
+              "url" : "https:\/\/sports.yahoo.com\/articles\/look-madonna-muppets-shakira-bts-225727769.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CBC World",
+              "url" : "https:\/\/www.cbc.ca\/news\/entertainment\/fifa-world-cup-halftime-9.7276043?cmp=rss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/arts-culture\/music-stage\/2026\/07\/19\/world-cup-2026-half-time-show-review-madonna-shakira-and-bts-deliver-a-worthy-finale\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Guardian Sport",
+              "url" : "https:\/\/www.theguardian.com\/football\/2026\/jul\/19\/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "UPI News World",
+              "url" : "https:\/\/www.upi.com\/Entertainment_News\/Music\/2026\/07\/19\/fifa-world-cup-halftime-show-performers\/5831784500104\/"
+            }
+          ],
+          "titleTR" : "Dünya Kupası'nın İlk Devre Arası Gösterisi Fazla ve Anlamsızdı"
+        }
+      ],
+      "packetSpot" : "2026 Dünya Kupası'nda, Super Bowl devre arası gösterisine benzer bir etkinlik düzenlendi. Madonna, Shakira, BTS ve Justin Bieber gibi ünlü isimlerin yer aldığı bu devre arası gösterisi, Chris Martin tarafından hazırlandı. New York New Jersey Stadyumu'nda gerçekleşen bu gösteri, Dünya Kupası için bir ilk oldu ve gerekliliği ile icrası konusunda karışık tepkiler aldı. Gösteri, küresel müziği temsil etmeyi amaçlayan çeşitli bir kadro sundu, ancak bazı eleştirmenler tarafından aşırı dolu ve tutarsız olarak değerlendirildi.",
+      "packetTitle" : "2026 Dünya Kupası devre arası şovunda yıldızlar geçidi: Madonna, Shakira, BTS ve Justin Bieber",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bfi.org.uk\/lists\/10-great-greek-myth-adaptations",
+          "category" : "Culture",
+          "descriptionTR" : "Christopher Nolan'ın The Odyssey filmi sinemalara gelirken, Yunan mitolojisine daha önce yolculuk etmiş 10 filmi yeniden ziyaret ediyoruz. Bu filmler, tanrılar, canavarlar ve destansı kahramanlarla dolu antik dünyadan ilham almaya devam ediyor.",
+          "group" : "Greek myth adaptations",
+          "id" : "https:\/\/www.bfi.org.uk\/lists\/10-great-greek-myth-adaptations",
+          "link" : "https:\/\/www.bfi.org.uk\/lists\/10-great-greek-myth-adaptations",
+          "newsValue" : 3,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/lists\/10-great-greek-myth-adaptations"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/interviews\/the-odyssey-christopher-nolan-matt-damon-anne-hathaway-cast"
+            }
+          ],
+          "titleTR" : "10 büyük Yunan mit uyarlaması"
+        },
+        {
+          "atomID" : "https:\/\/www.thenationalnews.com\/arts-culture\/2026\/07\/19\/beyond-homer-seven-key-texts-that-informed-christopher-nolans-the-odyssey\/",
+          "category" : "Culture",
+          "descriptionTR" : "Christopher Nolan'ın The Odyssey filmi, Batı edebiyatının en ünlü eserlerinden birine dayanıyor. Hikaye, Homeros'un destanının etrafında gelişen yüzyılların yazılarına da dayanıyor. Filmin en bilinen bölümlerinden bazıları, The Odyssey başlamadan önce gerçekleşiyor. Truva atı, Truva'nın yıkımı ve Agamemnon'un dönüşü, Homeros tarafından yıllar sonra anılar, şarkılar ve uyarılar aracılığıyla sunuluyor. Nolan, bu unsurları tek bir filmde birleştiriyor ve Homer'in İlyada'sı, Virgil'in Aeneid'i ve Aeschylus'un Agamemnon'u gibi eserlerden materyal içeriyor. Ayrıca, Emily Wilson, EV Rieu ve Robert Fagles'ın The Odyssey çevirilerini de karşılaştırmış.",
+          "group" : "Odyssey literary sources",
+          "id" : "https:\/\/www.thenationalnews.com\/arts-culture\/2026\/07\/19\/beyond-homer-seven-key-texts-that-informed-christopher-nolans-the-odyssey\/",
+          "link" : "https:\/\/www.thenationalnews.com\/arts-culture\/2026\/07\/19\/beyond-homer-seven-key-texts-that-informed-christopher-nolans-the-odyssey\/",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The National News",
+              "url" : "https:\/\/www.thenationalnews.com\/arts-culture\/2026\/07\/19\/beyond-homer-seven-key-texts-that-informed-christopher-nolans-the-odyssey\/"
+            }
+          ],
+          "titleTR" : "Homeros'un ötesinde: Christopher Nolan'ın The Odyssey'sini şekillendiren yedi anahtar metin"
+        }
+      ],
+      "packetSpot" : "Christopher Nolan'ın 'The Odyssey' filmi, Yunan mitolojisinin çeşitli metin ve uyarlamalarından esinleniyor. Homer, Virgil ve Aeschylus gibi isimlerin eserlerinden unsurlar barındıran film, suçluluk, kefaret ve savaşın sonuçları temalarını modern sinematik anlatımla yeniden ele alıyor. Odysseus'un yolculuğunu yeniden kurgulayan film, klasik ve modern kaynakları bir araya getiriyor.",
+      "packetTitle" : "Christopher Nolan'ın The Odyssey'si: Esinler ve Uyarlamalar",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-19-the-odyssey-brings-in-2641-million-in-worldwide-ticket-sales-studio-says\/",
+          "category" : "Culture",
+          "descriptionTR" : "LOS ANGELES, 19 Temmuz (Reuters) - Yönetmen Christopher Nolan'ın 'The Odyssey' uyarlaması, açılış haftasında dünya genelinde 264,1 milyon dolar gişe hasılatı elde etti. Bu rakamın 124,5 milyon doları ABD ve Kanada'dan geldi, Universal Pictures CMCSA.O Pazar günü bildirdi.",
+          "group" : "Nolan box office",
+          "id" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-19-the-odyssey-brings-in-2641-million-in-worldwide-ticket-sales-studio-says\/",
+          "link" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-19-the-odyssey-brings-in-2641-million-in-worldwide-ticket-sales-studio-says\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Daily Maverick",
+              "url" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-19-the-odyssey-brings-in-2641-million-in-worldwide-ticket-sales-studio-says\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/19\/the-odyssey-box-office-christopher-nolan-and-universal-opening-weekend.html"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "UPI News World",
+              "url" : "https:\/\/www.upi.com\/Entertainment_News\/Movies\/2026\/07\/19\/odyssey-tops-north-american-box-office\/1281784472663\/"
+            }
+          ],
+          "titleTR" : "‘The Odyssey’ dünya genelinde 264,1 milyon dolar gişe hasılatı elde etti, stüdyo açıkladı"
+        }
+      ],
+      "packetSpot" : "Christopher Nolan'ın 'The Odyssey' filmi, açılış haftasında dünya genelinde 264,1 milyon dolar hasılat elde ederek büyük bir gişe başarısı yakaladı. Bu rakamın 124,5 milyon doları ABD ve Kanada'dan geldi.",
+      "packetTitle" : "Nolan'ın 'The Odyssey'si gişede büyük başarı yakaladı",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "illustrationName" : "74373A0D-5FD5-599E-8D73-C5204B905062.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
+          "category" : "Culture",
+          "descriptionTR" : "Ana Mendieta'nın fotoğraf, arazi sanatı, heykel ve film gibi disiplinleri birleştiren çalışmaları, Tate Modern'de büyük bir sergide yer alıyor. Sergide, sanatçının insan-doğa ilişkilerini ve yerinden edilme temalarını ele aldığı 120'den fazla eser bulunuyor. Mendieta'nın 'Neolitik sanat' olarak tanımladığı çalışmaları, antik geçmişe olan ilgisini yansıtıyor.",
+          "group" : "Ana Mendieta survey",
+          "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
+          "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Colossal",
+              "url" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/13\/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey"
+            }
+          ],
+          "titleTR" : "Ana Mendieta'nın 'Neolitik' eserleri Tate Modern'de"
+        }
+      ],
+      "packetSpot" : "Ana Mendieta'nın sanatı, antik alanlardan ilham alarak performans ve arazi sanatıyla karakterize edilir ve Tate Modern'de büyük bir sergide odak noktası haline gelir. Sergide 120'den fazla eser yer alıyor ve insan-doğa ilişkileri, yerinden edilme ve kimlik temalarını keşfetmesi vurgulanıyor.",
+      "packetTitle" : "Ana Mendieta'nın eserleri Tate Modern'de büyük sergide",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.dw.com\/en\/india-launches-first-private-rocket-into-space\/a-78016562?maca=en-rss-en-world-4025-xml-mrss",
+          "category" : "Technology",
+          "descriptionTR" : "Chennai'nin kuzeyindeki bir adadan fırlatılan Vikram-1 roketi, Hindistan'ın ticari roket fırlatma pazarında daha büyük bir pay almayı planladığını gösteriyor.",
+          "group" : "India private space launch",
+          "id" : "https:\/\/www.dw.com\/en\/india-launches-first-private-rocket-into-space\/a-78016562?maca=en-rss-en-world-4025-xml-mrss",
+          "link" : "https:\/\/www.dw.com\/en\/india-launches-first-private-rocket-into-space\/a-78016562?maca=en-rss-en-world-4025-xml-mrss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Deutsche Welle World",
+              "url" : "https:\/\/www.dw.com\/en\/india-launches-first-private-rocket-into-space\/a-78016562?maca=en-rss-en-world-4025-xml-mrss"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "Hindistan ilk özel roketini uzaya fırlattı"
+        }
+      ],
+      "packetSpot" : "Hindistan'ın uzay teknolojisi unicorn'u Skyroot Aerospace, Vikram-1'i başarıyla fırlatarak ülkenin ilk özel roket fırlatışını gerçekleştirdi.",
+      "packetTitle" : "Hindistan'ın ilk özel roket fırlatışı: Skyroot Aerospace'ten Vikram-1",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/money\/2026\/jul\/04\/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
+          "category" : "Education",
+          "descriptionTR" : "2028'de sona erecek olan 'ev ücreti' statüsü, İngiltere'de eğitim almak isteyenlerin artık İngiliz öğrenci kredilerine hak kazanamayacağı anlamına geliyor. AB'de yaşayan İngiliz gençler, Brexit kural değişikliği nedeniyle iki yıl içinde İngiltere üniversitelerinde daha yüksek uluslararası ücretlerle karşı karşıya kalabilir ve öğrenci finansmanına erişimlerini kaybedebilirler. AB'de yaşayan İngiliz pasaportu sahipleri hâlâ İngiltere üniversitelerinde 'ev ücreti' statüsüne sahip. Ancak, bu durum 2028'deki geçiş süresi sona erdiğinde değişecek ve etkilenecek ilk grup bu sonbaharda A seviyelerine veya eşdeğerine başlayanlar olacak.",
+          "group" : "Brexit student fees",
+          "id" : "https:\/\/www.theguardian.com\/money\/2026\/jul\/04\/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
+          "link" : "https:\/\/www.theguardian.com\/money\/2026\/jul\/04\/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/money\/2026\/jul\/04\/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Local Europe",
+              "url" : "https:\/\/www.thelocal.com\/20260717\/eu-based-british-students-to-pay-international-fees-in-uk-from-2028"
+            }
+          ],
+          "titleTR" : "Brexit kural değişikliği, AB'deki İngiliz gençlerin İngiltere'de eğitim ücretlerini artırıyor"
+        }
+      ],
+      "packetSpot" : "AB'de yaşayan İngiliz öğrenciler, Brexit kural değişikliği nedeniyle 2028 itibarıyla İngiltere üniversitelerinde 'ev ücreti' statüsünü kaybedecek. Bu durum, daha yüksek uluslararası ücretler ve öğrenci finansmanı uygunluğunun kaybına yol açacak.",
+      "packetTitle" : "Brexit'in etkisi: AB'deki İngiliz öğrenciler için 'ev ücreti' statüsü sona eriyor",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    },
+    {
+      "illustrationName" : "54D9C072-FA30-5EA0-A1B0-AAAE64B0A9DB.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/07\/eu-ees-border-controls-airport-queues-delays-brexit",
+          "category" : "Transport",
+          "descriptionTR" : "Yetkililer, yeni Brexit sonrası EES sisteminin 'mükemmel olmadığını' kabul ederken, havaalanları ve havayolları gecikmelerden endişe duyuyor. AB, parmak izi ve yüz tanıma sınır kontrollerinin uygulanmasını askıya alma çağrılarını reddetti. AB yetkilileri, seyahat endüstrisi temsilcilerine tam bir askıya almanın 'gerekli olmadığını' ve 'mümkün olmadığını' belirtti.",
+          "group" : "Post-Brexit border controls",
+          "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/07\/eu-ees-border-controls-airport-queues-delays-brexit",
+          "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/07\/eu-ees-border-controls-airport-queues-delays-brexit",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/07\/eu-ees-border-controls-airport-queues-delays-brexit"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Europe",
+              "url" : "https:\/\/www.theguardian.com\/uk-news\/2026\/jul\/12\/france-uk-increase-staffing-border-controls-travel-chaos"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BBC News World",
+              "url" : "https:\/\/www.bbc.co.uk\/news\/articles\/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "titleTR" : "AB, biyometrik sınır kontrollerini askıya alma çağrılarını reddetti"
+        }
+      ],
+      "packetSpot" : "AB'nin yeni biyometrik sınır kontrolleri, Brexit sonrası giriş\/çıkış sisteminin bir parçası olarak, havaalanları ve havayollarında önemli gecikmelere ve endişelere yol açıyor. AB yetkilileri, askıya alma çağrılarını reddediyor.",
+      "packetTitle" : "AB'nin yeni biyometrik sınır kontrolleri endişe yaratıyor",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 26
+    },
+    {
+      "illustrationName" : "ACF748EB-B8CF-5E10-9FD2-5587E5EBF65F.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.newscientist.com\/article\/2579773-ancient-egyptian-princesses-buried-with-weapons-may-have-been-fighters\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "category" : "History",
+          "descriptionTR" : "Binlerce yıl önce yaşamış firavunların mumyalanmış kızlarının kemik değişiklikleri, yay ve hançerlerle savaştıklarını düşündürüyor. Mısır Orta Krallık dönemine ait Dahshur'daki piramit ve mezar kompleksinde bulunan altı kraliyet mumyası üzerinde yapılan analizler, bu kadınların aktif silah kullanıcıları olduğunu gösteriyor. Ancak, bu bulguların başka aktivitelerden de kaynaklanabileceği belirtiliyor.",
+          "group" : "Egyptian royal warriors",
+          "id" : "https:\/\/www.newscientist.com\/article\/2579773-ancient-egyptian-princesses-buried-with-weapons-may-have-been-fighters\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "link" : "https:\/\/www.newscientist.com\/article\/2579773-ancient-egyptian-princesses-buried-with-weapons-may-have-been-fighters\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-20T00:56:31Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "New Scientist",
+              "url" : "https:\/\/www.newscientist.com\/article\/2579773-ancient-egyptian-princesses-buried-with-weapons-may-have-been-fighters\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Arkeofili",
+              "url" : "https:\/\/arkeofili.com\/antik-misir-prensesleri-silah-kullanmis-olabilir\/"
+            }
+          ],
+          "titleTR" : "Antik Mısır prensesleri silahlarla gömülmüş olabilir"
+        }
+      ],
+      "packetSpot" : "Antik Mısır prenseslerinin iskelet kalıntıları üzerinde yapılan son çalışmalar, bu kadınların silah kullanımıyla uyumlu kemik değişiklikleri gösterdiğini ve muhtemelen eğitimli savaşçılar olduklarını öne sürüyor. Bu bulgular, antik Mısır'da kraliyet kadınlarının geleneksel rollerine dair görüşleri sorguluyor. Ancak, bu kemik değişikliklerinin başka aktivitelerden de kaynaklanabileceği belirtiliyor.",
+      "packetTitle" : "Mısır prensesleri savaşçı mıydı?",
+      "publishedAt" : "2026-07-20T00:56:31Z",
+      "sessionID" : "publish-draft",
+      "slot" : 27
+    }
+  ],
+  "superPackets" : [
+    {
+      "slots" : [
+        1,
+        3
+      ],
+      "spot" : "Yangınlar şiddetleniyor; birçok bölgeyi etkiliyor ve uluslararası gerilimlere yol açıyor.",
+      "title" : "Şiddetlenen yangınlar ve sınır ötesi etkileri"
+    },
+    {
+      "slots" : [
+        6,
+        7
+      ],
+      "spot" : "Andy Burnham'ın liderliği, İngiltere siyasetinde önemli bir dönüm noktası olarak öne çıkıyor. Burnham, İşçi Partisi'nin lideri olarak seçildi ve Başbakanlık yolunda emin adımlarla ilerliyor. Keir Starmer'ın istifasının ardından, Burnham'ın yeni hükümeti kurması bekleniyor. Burnham, İngiltere'yi 'büyük meseleleri çözerek' ayağa kaldırmayı vaat ediyor ve bu doğrultuda beş ana değişiklik planlıyor. Bu değişiklikler arasında, Westminster ve Whitehall'dan yerel yönetimlere daha fazla yetki devri ve enerji maliyetlerini düşürme çabaları yer alıyor. Ancak, bu vaatlerin nasıl hayata geçirileceği ve Burnham'ın liderliğinin İngiltere'nin karşı karşıya olduğu ekonomik zorlukları nasıl aşacağı merak konusu.",
+      "title" : "Andy Burnham İngiltere'nin yeni başbakanı oluyor"
+    },
+    {
+      "slots" : [
+        5,
+        8
+      ],
+      "spot" : "Hungary's political landscape shifts as President Sulyok's term concludes with a constitutional change.",
+      "title" : "Macaristan'da anayasa değişikliğiyle başkanlık değişimi"
+    },
+    {
+      "slots" : [
+        13,
+        14
+      ],
+      "spot" : "The tension between the US and Iran is escalating, directly impacting oil flow and prices in the Gulf region. The Strait of Hormuz remains a critical chokepoint amidst these hostilities.",
+      "title" : "ABD-İran gerilimi Körfez petrol dinamiklerini etkiliyor"
+    }
   ],
   "week" : "2026-W30"
 }
