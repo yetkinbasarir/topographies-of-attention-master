@@ -1,6 +1,6 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-20T00:56:31Z",
+  "publishedAt" : "2026-07-20T01:04:56Z",
   "slots" : [
     {
       "illustrationName" : "B5DB35DF-5933-51E5-BA39-8F26B50FF57B.png",
@@ -13,7 +13,7 @@
           "id" : "https:\/\/www.theguardian.com\/news\/ng-interactive\/2026\/jul\/18\/the-impossible-choices-of-a-deadly-wildfire-season",
           "link" : "https:\/\/www.theguardian.com\/news\/ng-interactive\/2026\/jul\/18\/the-impossible-choices-of-a-deadly-wildfire-season",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -36,7 +36,7 @@
           "id" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
           "link" : "http:\/\/www.euronews.com\/video\/2026\/07\/16\/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears",
           "newsValue" : 8,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -54,7 +54,7 @@
           "id" : "https:\/\/www.dw.com\/en\/spain-emergency-crews-battle-wildfire-north-of-madrid\/a-78026297?maca=en-rss-en-world-4025-xml-mrss",
           "link" : "https:\/\/www.dw.com\/en\/spain-emergency-crews-battle-wildfire-north-of-madrid\/a-78026297?maca=en-rss-en-world-4025-xml-mrss",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -72,7 +72,7 @@
           "id" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
           "link" : "https:\/\/www.bbc.co.uk\/news\/articles\/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -90,7 +90,7 @@
       ],
       "packetSpot" : "İspanya, Aragon ve Madrid'in kuzeyinde acil ekiplerin konuşlandırıldığı birçok yangınla mücadele ediyor. İklim krizi, yangın söndürme çabalarını zorlaştırıyor.",
       "packetTitle" : "İspanya yangınlarla boğuşuyor: İklim krizi ve itfaiyecilerin zorluğu",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 1
     },
@@ -105,7 +105,7 @@
           "id" : "https:\/\/www.tagesschau.de\/wissen\/klima\/eu-verbot-kleidung-vernichtung-100.html",
           "link" : "https:\/\/www.tagesschau.de\/wissen\/klima\/eu-verbot-kleidung-vernichtung-100.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -123,7 +123,7 @@
       ],
       "packetSpot" : "Avrupa Birliği, büyük şirketlerin satılmayan kıyafetleri yok etmesini yasaklayan bir düzenleme getirdi. Bu adımın atık azaltma ve kaynak koruma üzerindeki etkisi birçok kaynakta tartışılıyor.",
       "packetTitle" : "AB'den satılmayan kıyafetlerin yok edilmesine yasak",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 2
     },
@@ -138,7 +138,7 @@
           "id" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-kanada-waldbrand-trump-zoelle-100.html",
           "link" : "https:\/\/www.tagesschau.de\/ausland\/amerika\/usa-kanada-waldbrand-trump-zoelle-100.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -161,7 +161,7 @@
           "id" : "https:\/\/phys.org\/news\/2026-07-wildfire-haze-eastern-world-cup.html",
           "link" : "https:\/\/phys.org\/news\/2026-07-wildfire-haze-eastern-world-cup.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -184,7 +184,7 @@
           "id" : "https:\/\/thehill.com\/homenews\/5976412-ford-blasts-trump-wildfire-criticism\/",
           "link" : "https:\/\/thehill.com\/homenews\/5976412-ford-blasts-trump-wildfire-criticism\/",
           "newsValue" : 4,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -202,7 +202,7 @@
       ],
       "packetSpot" : "Kanada'daki orman yangınları, ABD'nin doğusunda hava kalitesini ciddi şekilde etkiledi. New Jersey'deki Dünya Kupası finali de bu durumdan etkilendi. Trump, kirlilik nedeniyle Kanada'ya gümrük tarifesi tehdidinde bulundu. Bu durum, siyasi gerginlikleri artırdı.",
       "packetTitle" : "Kanada yangınları ABD'yi sarıyor, Trump'tan gerginlik",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
@@ -217,7 +217,7 @@
           "id" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584",
           "link" : "https:\/\/theconversation.com\/how-an-el-nino-becomes-a-super-el-nino-286584",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -235,7 +235,7 @@
           "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
           "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -253,7 +253,7 @@
       ],
       "packetSpot" : "Beklenen güçlü El Niño'nun, küresel ölçekte önemli etkiler yaratması bekleniyor. Filipinler ise halihazırda aşırı hava koşulları ve tarımsal kayıplar yaşadığı için özel bir endişe kaynağı.",
       "packetTitle" : "Beklenen güçlü El Niño'nun küresel ve Filipinler üzerindeki etkileri",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 4
     },
@@ -267,7 +267,7 @@
           "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
           "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -290,7 +290,7 @@
       ],
       "packetSpot" : "",
       "packetTitle" : "Macaristan'da anayasa değişikliğiyle Cumhurbaşkanı Sulyok'un görevi sona erdi",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 5
     },
@@ -304,7 +304,7 @@
           "id" : "https:\/\/theconversation.com\/andy-burnham-is-the-labour-leader-third-time-lucky-for-the-uks-prime-minister-in-waiting-287641",
           "link" : "https:\/\/theconversation.com\/andy-burnham-is-the-labour-leader-third-time-lucky-for-the-uks-prime-minister-in-waiting-287641",
           "newsValue" : 9,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -327,7 +327,7 @@
           "id" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/17\/burnham-vows-to-fix-big-things-in-uk-as-he-takes-step-closer-to-downing-street\/",
           "link" : "https:\/\/www.thenationalnews.com\/news\/uk\/2026\/07\/17\/burnham-vows-to-fix-big-things-in-uk-as-he-takes-step-closer-to-downing-street\/",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -350,7 +350,7 @@
       ],
       "packetSpot" : "Andy Burnham, İşçi Partisi lideri olarak onaylandı ve Birleşik Krallık'ın bir sonraki Başbakanı olmaya hazırlanıyor. Burnham'ın liderliği, partinin yönünde önemli bir değişimi işaret ediyor ve ekonomik zorluklara çözüm getirmeyi ve yetki devri reformlarını uygulamayı planlıyor. Ancak, Keir Starmer'ın resmi olarak istifa etmesi ve Kral Charles III tarafından hükümet kurma daveti alması gerekiyor. Burnham'ın liderliği, İşçi Partisi içinde birliği sağlama ve ulusal sorunlara çözüm bulma çabalarını öne çıkarıyor. Kabine atamalarıyla ilgili spekülasyonlar da dikkat çekiyor, ancak bu atamalar henüz kesinleşmiş değil.",
       "packetTitle" : "Andy Burnham İşçi Partisi lideri olarak onaylandı ve Başbakanlığa hazırlanıyor",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 6
     },
@@ -365,7 +365,7 @@
           "id" : "https:\/\/www.npr.org\/2026\/07\/19\/g-s1-134001\/andy-burnham-new-british-prime-minister",
           "link" : "https:\/\/www.npr.org\/2026\/07\/19\/g-s1-134001\/andy-burnham-new-british-prime-minister",
           "newsValue" : 8,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -393,7 +393,7 @@
       ],
       "packetSpot" : "Andy Burnham, Birleşik Krallık'ın yeni başbakanı olarak Keir Starmer'ın yerine geçti. Başbakanlık görevi, Ukrayna ve İran gibi dış politika meselelerinin yanı sıra iç siyasi dinamiklerle ilgili önemli zorluklarla başlıyor.",
       "packetTitle" : "Andy Burnham başbakanlık koltuğunda",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 7
     },
@@ -407,7 +407,7 @@
           "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
           "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/18\/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -430,7 +430,7 @@
       ],
       "packetSpot" : "Macaristan Cumhurbaşkanı Tamás Sulyok, güven kaybı ve parlamento desteğinin azalması sonrası görev süresini sonlandıran anayasa değişikliğini imzalayarak istifa etti.",
       "packetTitle" : "Macaristan'da anayasa değişikliği sonrası Cumhurbaşkanı Sulyok istifa etti",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 8
     },
@@ -445,7 +445,7 @@
           "id" : "https:\/\/arstechnica.com\/health\/2026\/07\/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield\/",
           "link" : "https:\/\/arstechnica.com\/health\/2026\/07\/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield\/",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -463,7 +463,7 @@
       ],
       "packetSpot" : "Savunma Bakanı Pete Hegseth, ABD ordusundaki 30 yaş ve üzeri personel için zorunlu testosteron taraması yapılacağını duyurdu. Bu karar, sağlık riskleri ve faydaları konusunda tartışmalara yol açtı. Tarama, yıllık sağlık değerlendirmeleri sırasında gerçekleştirilecek ve 30 yaş altındakiler de isteğe bağlı olarak taramadan geçebilecek. Hegseth, bu girişimin performansı, dayanıklılığı ve uzun vadeli sağlığı optimize etmeyi amaçladığını belirtti. Ancak bu taramaların ve olası tedavilerin gerçekten \"savaşçıların\" performansını optimize edip etmeyeceği ve uzun ömürlülüğü artırıp artırmayacağı konusunda tartışmalar sürüyor.",
       "packetTitle" : "Pete Hegseth'ten ABD askeri personeline zorunlu testosteron taraması",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 9
     },
@@ -474,7 +474,7 @@
       ],
       "packetSpot" : "Taylor Farms tarafından sağlanan ve Taco Bell'de sunulan iceberg marul, ABD'deki cyclosporiasis salgınının kaynağı olarak belirlenmiş ve ürünün geri çağrılmasına yol açmıştır.",
       "packetTitle" : "ABD'de marul kaynaklı cyclosporiasis salgını",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 10
     },
@@ -489,7 +489,7 @@
           "id" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206",
           "link" : "https:\/\/theconversation.com\/can-ozempic-prevent-cancer-a-doctor-explains-why-the-headlines-are-easy-to-misread-285206",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -512,7 +512,7 @@
           "id" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm",
           "link" : "https:\/\/www.sciencedaily.com\/releases\/2026\/07\/260713084907.htm",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -525,7 +525,7 @@
       ],
       "packetSpot" : "GLP-1 ilaçlarının, özellikle Ozempic ve Wegovy'nin, kanser riskini azaltma ve biyolojik yaşlanmayı yavaşlatma potansiyeli üzerine yapılan araştırmalar dikkat çekiyor. İlk bulgular umut verici olsa da, bu etkilerin doğrulanması için daha fazla araştırmaya ihtiyaç var. Çalışmalar, GLP-1 ilaçlarının kanser riskini düşürme potansiyelini incelerken, sağlıklı kullanıcı yanlılığı ve gözlemsel çalışmaların sınırlamaları gibi faktörler de göz önünde bulunduruluyor. Ayrıca, semaglutidin biyolojik yaşlanma üzerindeki etkileri de araştırılıyor, ancak bu konuda da kesin sonuçlara varmak için daha geniş çaplı çalışmalara ihtiyaç duyuluyor.",
       "packetTitle" : "GLP-1 ilaçları: Kanser riski ve yaşlanma üzerine yeni araştırmalar",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 11
     },
@@ -540,7 +540,7 @@
           "id" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/17\/ebola-us-aid-workers-kenya",
           "link" : "https:\/\/www.theguardian.com\/us-news\/2026\/jul\/17\/ebola-us-aid-workers-kenya",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -563,7 +563,7 @@
           "id" : "https:\/\/www.cbc.ca\/news\/canada\/canada-congo-ebola-9.7275782?cmp=rss",
           "link" : "https:\/\/www.cbc.ca\/news\/canada\/canada-congo-ebola-9.7275782?cmp=rss",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -576,7 +576,7 @@
       ],
       "packetSpot" : "Kongo'daki Ebola salgınına karşı ülkeler seyahat kısıtlamaları ve karantina önlemleri alıyor. ABD ve Kanada, bu bağlamda özel adımlar atıyor.",
       "packetTitle" : "Ebola salgını nedeniyle ülkelerden seyahat kısıtlamaları ve karantina önlemleri",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 12
     },
@@ -590,7 +590,7 @@
           "id" : "https:\/\/www.politico.com\/news\/2026\/07\/19\/chris-wright-strait-hormuz-iran-01004359?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
           "link" : "https:\/\/www.politico.com\/news\/2026\/07\/19\/chris-wright-strait-hormuz-iran-01004359?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -608,7 +608,7 @@
       ],
       "packetSpot" : "ABD Enerji Bakanı Chris Wright'a göre, Hürmüz Boğazı'ndan petrol akışı, İran ile yaşanan gerilimlere rağmen günlük 14 milyon varile yaklaşıyor.",
       "packetTitle" : "Hürmüz Boğazı'ndan petrol akışı İran gerilimine rağmen sürüyor",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 13
     },
@@ -619,7 +619,7 @@
       ],
       "packetSpot" : "ABD ve İran arasındaki son gerginlikler, petrol fiyatlarının önemli ölçüde artmasına ve Hürmüz Boğazı'nda kesintilere neden oldu, bu da küresel petrol arzını etkiliyor.",
       "packetTitle" : "ABD-İran gerginliği petrol fiyatlarını ve Hürmüz Boğazı'nı vuruyor",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 14
     },
@@ -634,7 +634,7 @@
           "id" : "https:\/\/www.dw.com\/en\/china-firm-seeks-damages-over-state-control-of-british-steel\/a-78024119?maca=en-rss-en-world-4025-xml-mrss",
           "link" : "https:\/\/www.dw.com\/en\/china-firm-seeks-damages-over-state-control-of-british-steel\/a-78024119?maca=en-rss-en-world-4025-xml-mrss",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -657,7 +657,7 @@
           "id" : "https:\/\/www.theguardian.com\/business\/2026\/jul\/17\/british-steel-nationalisation-china-strongly-dissatisfied",
           "link" : "https:\/\/www.theguardian.com\/business\/2026\/jul\/17\/british-steel-nationalisation-china-strongly-dissatisfied",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -670,7 +670,7 @@
       ],
       "packetSpot" : "Birleşik Krallık hükümetinin British Steel'i kamulaştırmasının ardından, daha önce şirketin sahibi olan Jingye Group, tazminat talebinde bulunuyor. Çin hükümeti, bu kamulaştırma kararına karşı güçlü bir memnuniyetsizlik ifade etti ve gelecekteki yatırımlar konusunda endişelerini dile getirdi.",
       "packetTitle" : "British Steel'in kamulaştırılması sonrası Jingye Group tazminat peşinde; Çin memnuniyetsiz",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 15
     },
@@ -685,7 +685,7 @@
           "id" : "https:\/\/mg.co.za\/news\/south-africa\/2026-07-15-pic-appoints-batandwa-damoyi-as-acting-ceo-as-board-resignations-deepen-turmoil\/",
           "link" : "https:\/\/mg.co.za\/news\/south-africa\/2026-07-15-pic-appoints-batandwa-damoyi-as-acting-ceo-as-board-resignations-deepen-turmoil\/",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -708,7 +708,7 @@
           "id" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-17-pic-management-failed-to-alert-board-to-fsca-requests-over-whistleblower-matter-masondo-says\/",
           "link" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-17-pic-management-failed-to-alert-board-to-fsca-requests-over-whistleblower-matter-masondo-says\/",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -721,7 +721,7 @@
       ],
       "packetSpot" : "Kamu Yatırım Kurumu'nda (PIC) liderlik krizi yaşanıyor. CEO Patrick Dlamini'nin görevden uzaklaştırılması ve Batandwa Damoyi'nin geçici CEO olarak atanması, bir ihbarcı raporundaki usulsüzlük iddiaları nedeniyle gerçekleşti. Bu durum, yönetim kurulu istifalarına ve yönetişim sorunlarına yol açtı. PIC Başkanı David Masondo, yönetim kurulunun FSCA'nın ihbarcı şikayetiyle ilgili belge taleplerinden haberdar edilmediğini belirtti.",
       "packetTitle" : "Kamu Yatırım Kurumu'nda liderlik değişiklikleri ve yönetişim sorunları",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 16
     },
@@ -735,7 +735,7 @@
           "id" : "https:\/\/www.cnbc.com\/2026\/07\/19\/ice-assault-claims-fbi.html",
           "link" : "https:\/\/www.cnbc.com\/2026\/07\/19\/ice-assault-claims-fbi.html",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -753,7 +753,7 @@
       ],
       "packetSpot" : "FBI'nin ICE ajanlarıyla ilgili çatışmaları artık soruşturmayacağı bildiriliyor. Ancak Adalet Bakanlığı ve İç Güvenlik Bakanlığı, gözetimde herhangi bir değişiklik olmadığını belirtti.",
       "packetTitle" : "FBI'nin ICE çatışmalarını soruşturmayı bıraktığı iddiası",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 17
     },
@@ -768,7 +768,7 @@
           "id" : "https:\/\/www.thenationalnews.com\/podcasts\/beyond-the-headlines\/2026\/07\/17\/why-has-the-us-iran-agreement-not-been-enough-to-end-the-war\/",
           "link" : "https:\/\/www.thenationalnews.com\/podcasts\/beyond-the-headlines\/2026\/07\/17\/why-has-the-us-iran-agreement-not-been-enough-to-end-the-war\/",
           "newsValue" : 8,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -791,7 +791,7 @@
           "id" : "https:\/\/www.aa.com.tr\/en\/turkiye\/turkish-foreign-minister-urges-return-to-us-iran-agreement-says-ankara-coordinating-with-qatar\/4003039",
           "link" : "https:\/\/www.aa.com.tr\/en\/turkiye\/turkish-foreign-minister-urges-return-to-us-iran-agreement-says-ankara-coordinating-with-qatar\/4003039",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -804,7 +804,7 @@
       ],
       "packetSpot" : "ABD-İran anlaşmasının çökmesi, askeri gerginliklerin yeniden artmasına yol açarken, Türkiye ve Katar arabuluculuk için diplomatik çabalarını sürdürüyor.",
       "packetTitle" : "ABD-İran anlaşmasının çöküşü ve Türkiye ile Katar'ın diplomatik çabaları",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 18
     },
@@ -819,7 +819,7 @@
           "id" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/20\/donald-trump-aoun-lebanon-israel\/",
           "link" : "https:\/\/www.thenationalnews.com\/news\/us\/2026\/07\/20\/donald-trump-aoun-lebanon-israel\/",
           "newsValue" : 8,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -842,7 +842,7 @@
       ],
       "packetSpot" : "Lübnan Cumhurbaşkanı Joseph Aoun, İsrail'in güney Lübnan'dan çekilmesi için ABD Başkanı Trump'tan destek arayışıyla Amerika Birleşik Devletleri'ni ziyaret ediyor. Ziyaretin amacı, ABD'nin çerçeve anlaşmasına destek vermesini sağlamak ve bölgesel güvenlik endişelerini ele almak.",
       "packetTitle" : "Aoun, Trump'tan İsrail'in çekilmesi için destek arıyor",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 19
     },
@@ -857,7 +857,7 @@
           "id" : "https:\/\/sports.yahoo.com\/articles\/world-cups-first-halftime-show-231747234.html",
           "link" : "https:\/\/sports.yahoo.com\/articles\/world-cups-first-halftime-show-231747234.html",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -900,7 +900,7 @@
       ],
       "packetSpot" : "2026 Dünya Kupası'nda, Super Bowl devre arası gösterisine benzer bir etkinlik düzenlendi. Madonna, Shakira, BTS ve Justin Bieber gibi ünlü isimlerin yer aldığı bu devre arası gösterisi, Chris Martin tarafından hazırlandı. New York New Jersey Stadyumu'nda gerçekleşen bu gösteri, Dünya Kupası için bir ilk oldu ve gerekliliği ile icrası konusunda karışık tepkiler aldı. Gösteri, küresel müziği temsil etmeyi amaçlayan çeşitli bir kadro sundu, ancak bazı eleştirmenler tarafından aşırı dolu ve tutarsız olarak değerlendirildi.",
       "packetTitle" : "2026 Dünya Kupası devre arası şovunda yıldızlar geçidi: Madonna, Shakira, BTS ve Justin Bieber",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 20
     },
@@ -914,7 +914,7 @@
           "id" : "https:\/\/www.bfi.org.uk\/lists\/10-great-greek-myth-adaptations",
           "link" : "https:\/\/www.bfi.org.uk\/lists\/10-great-greek-myth-adaptations",
           "newsValue" : 3,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -937,7 +937,7 @@
           "id" : "https:\/\/www.thenationalnews.com\/arts-culture\/2026\/07\/19\/beyond-homer-seven-key-texts-that-informed-christopher-nolans-the-odyssey\/",
           "link" : "https:\/\/www.thenationalnews.com\/arts-culture\/2026\/07\/19\/beyond-homer-seven-key-texts-that-informed-christopher-nolans-the-odyssey\/",
           "newsValue" : 4,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -950,7 +950,7 @@
       ],
       "packetSpot" : "Christopher Nolan'ın 'The Odyssey' filmi, Yunan mitolojisinin çeşitli metin ve uyarlamalarından esinleniyor. Homer, Virgil ve Aeschylus gibi isimlerin eserlerinden unsurlar barındıran film, suçluluk, kefaret ve savaşın sonuçları temalarını modern sinematik anlatımla yeniden ele alıyor. Odysseus'un yolculuğunu yeniden kurgulayan film, klasik ve modern kaynakları bir araya getiriyor.",
       "packetTitle" : "Christopher Nolan'ın The Odyssey'si: Esinler ve Uyarlamalar",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 21
     },
@@ -964,7 +964,7 @@
           "id" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-19-the-odyssey-brings-in-2641-million-in-worldwide-ticket-sales-studio-says\/",
           "link" : "https:\/\/www.dailymaverick.co.za\/article\/2026-07-19-the-odyssey-brings-in-2641-million-in-worldwide-ticket-sales-studio-says\/",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -987,7 +987,7 @@
       ],
       "packetSpot" : "Christopher Nolan'ın 'The Odyssey' filmi, açılış haftasında dünya genelinde 264,1 milyon dolar hasılat elde ederek büyük bir gişe başarısı yakaladı. Bu rakamın 124,5 milyon doları ABD ve Kanada'dan geldi.",
       "packetTitle" : "Nolan'ın 'The Odyssey'si gişede büyük başarı yakaladı",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 22
     },
@@ -1002,7 +1002,7 @@
           "id" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
           "link" : "https:\/\/www.thisiscolossal.com\/2026\/07\/ana-mendieta-exhibition-photography-sculpture-art-history\/",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1020,7 +1020,7 @@
       ],
       "packetSpot" : "Ana Mendieta'nın sanatı, antik alanlardan ilham alarak performans ve arazi sanatıyla karakterize edilir ve Tate Modern'de büyük bir sergide odak noktası haline gelir. Sergide 120'den fazla eser yer alıyor ve insan-doğa ilişkileri, yerinden edilme ve kimlik temalarını keşfetmesi vurgulanıyor.",
       "packetTitle" : "Ana Mendieta'nın eserleri Tate Modern'de büyük sergide",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 23
     },
@@ -1034,7 +1034,7 @@
           "id" : "https:\/\/www.dw.com\/en\/india-launches-first-private-rocket-into-space\/a-78016562?maca=en-rss-en-world-4025-xml-mrss",
           "link" : "https:\/\/www.dw.com\/en\/india-launches-first-private-rocket-into-space\/a-78016562?maca=en-rss-en-world-4025-xml-mrss",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1052,7 +1052,7 @@
       ],
       "packetSpot" : "Hindistan'ın uzay teknolojisi unicorn'u Skyroot Aerospace, Vikram-1'i başarıyla fırlatarak ülkenin ilk özel roket fırlatışını gerçekleştirdi.",
       "packetTitle" : "Hindistan'ın ilk özel roket fırlatışı: Skyroot Aerospace'ten Vikram-1",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 24
     },
@@ -1066,7 +1066,7 @@
           "id" : "https:\/\/www.theguardian.com\/money\/2026\/jul\/04\/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
           "link" : "https:\/\/www.theguardian.com\/money\/2026\/jul\/04\/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
           "newsValue" : 5,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1084,7 +1084,7 @@
       ],
       "packetSpot" : "AB'de yaşayan İngiliz öğrenciler, Brexit kural değişikliği nedeniyle 2028 itibarıyla İngiltere üniversitelerinde 'ev ücreti' statüsünü kaybedecek. Bu durum, daha yüksek uluslararası ücretler ve öğrenci finansmanı uygunluğunun kaybına yol açacak.",
       "packetTitle" : "Brexit'in etkisi: AB'deki İngiliz öğrenciler için 'ev ücreti' statüsü sona eriyor",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 25
     },
@@ -1099,7 +1099,7 @@
           "id" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/07\/eu-ees-border-controls-airport-queues-delays-brexit",
           "link" : "https:\/\/www.theguardian.com\/world\/2026\/jul\/07\/eu-ees-border-controls-airport-queues-delays-brexit",
           "newsValue" : 6,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1122,7 +1122,7 @@
       ],
       "packetSpot" : "AB'nin yeni biyometrik sınır kontrolleri, Brexit sonrası giriş\/çıkış sisteminin bir parçası olarak, havaalanları ve havayollarında önemli gecikmelere ve endişelere yol açıyor. AB yetkilileri, askıya alma çağrılarını reddediyor.",
       "packetTitle" : "AB'nin yeni biyometrik sınır kontrolleri endişe yaratıyor",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 26
     },
@@ -1137,7 +1137,7 @@
           "id" : "https:\/\/www.newscientist.com\/article\/2579773-ancient-egyptian-princesses-buried-with-weapons-may-have-been-fighters\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "link" : "https:\/\/www.newscientist.com\/article\/2579773-ancient-egyptian-princesses-buried-with-weapons-may-have-been-fighters\/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
           "newsValue" : 4,
-          "publishedAt" : "2026-07-20T00:56:31Z",
+          "publishedAt" : "2026-07-20T01:04:56Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -1155,7 +1155,7 @@
       ],
       "packetSpot" : "Antik Mısır prenseslerinin iskelet kalıntıları üzerinde yapılan son çalışmalar, bu kadınların silah kullanımıyla uyumlu kemik değişiklikleri gösterdiğini ve muhtemelen eğitimli savaşçılar olduklarını öne sürüyor. Bu bulgular, antik Mısır'da kraliyet kadınlarının geleneksel rollerine dair görüşleri sorguluyor. Ancak, bu kemik değişikliklerinin başka aktivitelerden de kaynaklanabileceği belirtiliyor.",
       "packetTitle" : "Mısır prensesleri savaşçı mıydı?",
-      "publishedAt" : "2026-07-20T00:56:31Z",
+      "publishedAt" : "2026-07-20T01:04:56Z",
       "sessionID" : "publish-draft",
       "slot" : 27
     }
