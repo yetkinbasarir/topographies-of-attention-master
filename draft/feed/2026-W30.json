@@ -1,8 +1,268 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-23T20:11:27Z",
+  "publishedAt" : "2026-07-23T21:54:18Z",
   "schemaVersion" : 2,
   "sections" : [
+    {
+      "createdAt" : "2026-07-23T21:54:18Z",
+      "id" : "run-2026-W30-1784843658",
+      "slots" : [
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html",
+              "category" : "Economy",
+              "descriptionTR" : "ABD Hazine tahvil getirileri, petrol fiyatlarının yükselmesiyle Çarşamba günü arttı. Bu artış, haftalık işsizlik sigortası başvurularındaki düşüşle birlikte piyasa tepkilerini de etkiledi.",
+              "group" : "Iran war oil shock",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html"
+                }
+              ],
+              "titleTR" : "Petrol fiyatlarındaki artışla 10 yıllık Hazine tahvil getirisi Ocak 2025'ten bu yana en yüksek seviyede"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "category" : "Economy",
+              "descriptionTR" : "Yatırımcılar, Federal Reserve'in Eylül ayında faiz artırımı yapabileceğine dair beklentilerini artırıyor.",
+              "group" : "Oil inflation Fed bets",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+                }
+              ],
+              "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed faiz artırımı ihtimali artıyor"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+              "category" : "Economy",
+              "descriptionTR" : "ABD Hazine tahvil getirileri, İran savaşındaki gerginliklerin petrol fiyatlarını yükseltmesiyle yılın en yüksek seviyelerine çıktı ve Federal Reserve'in faiz artırımı yapabileceğine dair beklentileri güçlendirdi.",
+              "group" : "Iran war oil shock",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet"
+                }
+              ],
+              "titleTR" : "ABD Hazine tahvil getirileri 2026'nın en yüksek seviyesinde, petrol artışı Fed bahislerini tetikliyor"
+            }
+          ],
+          "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Hazine tahvil getirilerinde artışa ve Federal Reserve'in faiz artırımı beklentilerinin yükselmesine yol açtı. Bu gelişmeler, ABD'deki ekonomik göstergeler üzerinde önemli bir etki yarattı. Özellikle 10 yıllık Hazine tahvil getirileri, Ocak 2025'ten bu yana en yüksek seviyesine ulaştı. Petrol fiyatlarındaki artış, enflasyon endişelerini yeniden canlandırırken, işsizlik sigortası başvurularındaki düşüş de piyasa tepkilerini etkiledi. Yatırımcılar, Federal Reserve'in Eylül ayında faiz artırımı yapabileceğine dair beklentilerini artırıyor. İran savaşındaki gerginliklerin tırmanması gibi jeopolitik faktörler de petrol fiyatlarını yükselterek, Federal Reserve'in faiz artırımı yapabileceğine dair bahisleri güçlendirdi.",
+          "packetTitle" : "Petrol fiyatlarındaki artış ABD finansal göstergelerini etkiliyor",
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+              "category" : "Energy",
+              "descriptionTR" : "Kızıldeniz'de gemilere yönelik saldırıların ardından petrol fiyatları yükseldi. ABD Başkanı Donald Trump, İran altyapısını bombalamakla tehdit etti.",
+              "group" : "Red Sea oil attacks",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
+                }
+              ],
+              "titleTR" : "Brent petrolü, Suudi Arabistan açıklarında tankerlerin vurulduğu haberleri sonrası 100 doları aştı"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "category" : "Energy",
+              "descriptionTR" : "Yemen'deki Husiler, deniz ablukasını ihlal ettiği iddiasıyla iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını açıkladı. Trump, ABD'nin Husi saldırılarından İran'ı sorumlu tutacağını belirtti.",
+              "group" : "Red Sea oil attacks",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+                }
+              ],
+              "titleTR" : "Trump, Kızıldeniz'de petrol tankerlerinin hedef alınmasının ardından İran'ı sorumlu tutacaklarını söyledi"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "category" : "Energy",
+              "descriptionTR" : "İran destekli Husi militanlarının Kızıldeniz'de iki Suudi Arabistan tankerine saldırdıklarını açıklamalarının ardından petrol fiyatları iki ay sonra ilk kez varil başına 100 doları aştı. Bu gelişme, Orta Doğu'da yeni bir cephe açarak arz kesintisi tehditlerini artırdı.",
+              "group" : "Red Sea oil attacks",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+                }
+              ],
+              "titleTR" : "23 Temmuz için son petrol piyasası haberleri ve analizleri"
+            }
+          ],
+          "packetSpot" : "Orta Doğu'daki çatışmaların tırmanması, özellikle İran ve Husi saldırılarıyla ilgili gelişmeler, petrol fiyatlarının yükselmesine ve jeopolitik gerilimlerin artmasına neden oldu.",
+          "packetTitle" : "Orta Doğu'daki çatışmalar petrol fiyatlarını ve gerilimleri artırıyor",
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+              "category" : "Economy",
+              "descriptionTR" : "ABD-İran savaşı yeniden alevlenirken, petrol fiyatlarının varil başına 100 doları geçmesiyle birlikte hisse senetleri Perşembe günü düşüşe geçti.",
+              "group" : "Iran war oil shock",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html"
+                }
+              ],
+              "titleTR" : "Kısa vadeli borsa artık savaşı görmezden gelemiyor: '100 dolarlık petrolü göz ardı etmek zor'"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
+              "category" : "Economy",
+              "descriptionTR" : "Investing Club, her iş günü Homestretch'i yayınlayarak, ticaretin son saatine yetişen eyleme geçirilebilir bir öğleden sonra güncellemesi sunuyor.",
+              "group" : "Oil market selloff",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html"
+                }
+              ],
+              "titleTR" : "Petrol fiyatları yükselirken Wall Street sendeledi, Lilly yeni nesil obezite ilacında yeni bir yol izliyor"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/stock-market-today-dow-s-p-live-updates",
+              "category" : "Economy",
+              "descriptionTR" : "İran savaşının tırmanmasıyla tetiklenen petrol artışı, hisse senetleri ve tahvillerin düşmesine neden oldu. Wall Street, yapay zeka yatırımlarının getirisinin belirsizliği nedeniyle de sarsıldı.",
+              "group" : "Oil market selloff",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/stock-market-today-dow-s-p-live-updates",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/stock-market-today-dow-s-p-live-updates",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/stock-market-today-dow-s-p-live-updates"
+                }
+              ],
+              "titleTR" : "Petrol 100 doları aşarken yapay zeka ve savaş endişeleri borsayı vurdu: Piyasalar özeti"
+            }
+          ],
+          "packetSpot" : "Yükselen petrol fiyatları, borsa düşüşleri ve artan dalgalanma dahil olmak üzere önemli piyasa tepkilerine yol açtı. Petrol fiyatlarının varil başına 100 doları aşması, piyasalarda dalgalanmalara neden oldu. Wall Street'te, yapay zeka yatırımlarının getirisinin belirsizliği gibi diğer faktörler de piyasa istikrarını etkileyen endişeler arasında yer alıyor.",
+          "packetTitle" : "Petrol fiyatlarındaki artış piyasaları sarsıyor",
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sessionID" : "publish-draft",
+          "slot" : 3
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "category" : "Technology",
+              "descriptionTR" : "Tesla ve Alphabet, yapay zeka yatırımlarını artırdıklarını belirtti.",
+              "group" : "Big Tech AI spending",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+                }
+              ],
+              "titleTR" : "Tesla ve Alphabet, kazanç raporları sonrası yüz milyarlarca dolar değer kaybetti"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "category" : "Technology",
+              "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, çeyrek dönem kazanç raporlarında büyük harcama artışları bildirmelerinin ardından düştü.",
+              "group" : "Big Tech AI spending",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+                }
+              ],
+              "titleTR" : "Alphabet ve Tesla, AI harcamaları büyümeyi gölgelerken Wall Street'in sabrını zorluyor"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "category" : "Technology",
+              "descriptionTR" : "Wall Street, büyük teknoloji şirketlerinin yapay zeka için harcadığı yüz milyarlarca dolar konusunda giderek daha fazla endişeleniyor. Bu durum, İran'daki savaşın küresel makroekonomik görünümü bulandırdığı bir dönemde gerçekleşiyor.",
+              "group" : "Big Tech AI spending",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T21:54:18Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+                }
+              ],
+              "titleTR" : "AI şüphecileri teknoloji hisselerini satarken 'Muhteşem 7' 797 milyar dolar kaybetti"
+            }
+          ],
+          "packetSpot" : "AI harcamalarına yönelik endişeler, Tesla ve Alphabet gibi şirketlerin hisse değerlerinde düşüşlere yol açtı.",
+          "packetTitle" : "Büyük teknoloji şirketlerinin AI harcamaları borsa tepkilerini tetikliyor",
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sessionID" : "publish-draft",
+          "slot" : 4
+        }
+      ],
+      "title" : "Test",
+      "type" : "run"
+    },
     {
       "createdAt" : "2026-07-23T20:11:27Z",
       "id" : "run-2026-W30-1784837487",
@@ -610,91 +870,32 @@
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "category" : "Energy",
-          "descriptionTR" : "Petrol fiyatları, Kızıldeniz'deki tanker saldırıları ve Başkan Donald Trump'ın İran'a karşı \"büyük bir saldırı\" tehdidinde bulunmasının ardından Perşembe günü yükseldi. Brent ham petrol vadeli işlemleri, 26 Mayıs'tan bu yana ilk kez varil başına 100 doları aştı. Uluslararası gösterge, yaklaşık %7 artışla 100.69 dolara ulaştı. ABD Batı Teksas Orta Vadeli ham petrolü ise %6 artışla 92.19 dolara yerleşti. Bu ay Orta Doğu'daki çatışmaların keskin bir şekilde artmasıyla petrol fiyatları %30'dan fazla yükseldi. Yemen'deki İran'ın Husi müttefikleri, bu hafta Riyad'a karşı ilan ettikleri deniz ablukasını ihlal ettikleri gerekçesiyle iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını söyledi. Trump, Kızıldeniz'deki gemilere yönelik gelecekteki Husi saldırılarından İran'ı sorumlu tutacaklarını belirterek, Tahran ve Yemen'deki militanlara \"büyük askeri ceza\" vereceklerini söyledi. Başkan, Axios'a verdiği bir röportajda İran'a karşı \"büyük bir saldırı\" düşündüğünü söyledi. \"Her zamankinden daha büyük. Karar vermeye yakınım. Bunun için tamamen hazırız,\" dedi Trump. Tanker saldırıları, Trump'ın ABD'nin Hürmüz Boğazı'ndaki bir gemiye saldırması durumunda İran'daki bir köprü veya enerji santralini yok edeceği uyarısından saatler sonra gerçekleşti. İran, Washington'un bu tür saldırıları gerçekleştirmesi durumunda, ABD ile bağlantılı altyapı ve enerji varlıklarına karşı misilleme yapacağını belirtti. \"Amerikalılar İran'da bir köprü veya enerji santralini hedef alırsa, İran da bölgede ABD'nin çıkarlarının bulunduğu altyapı ve köprüleri vuracaktır,\" dedi ismi açıklanmayan bir İran askeri kaynağı, devlet tarafından yönetilen Tasnim Haber Ajansı'na. ABD'nin İran'la savaşı, çatışmaların Kızıldeniz'e yayılması ve İran'ın Körfez'deki kritik altyapıları hedef almasıyla daha tehlikeli bir aşamaya girdi, dedi RBC Capital Markets'ta küresel emtia stratejisi başkanı Helima Croft. Orta Doğu'da aşırı baskı oluşuyor ve bu, Brent petrol fiyatlarını Rusya'nın Ukrayna'yı işgal ettiği 2022'deki 128 dolarlık zirvenin üzerine çıkarabilir, dedi Croft. Brent, Orta Doğu'da tam ölçekli bir bölgesel savaşın en kötü senaryosunda 2008'deki 146 dolarlık zirveyi bile aşabilir, dedi analist. Ukrayna-Rusya savaşı da küresel petrol piyasaları üzerinde baskı oluşturuyor, dedi Croft. Kiev, bu ay Karadeniz ve Azak Denizi'nde 150'den fazla tankere saldırdı, dedi. Tanker saldırıları, Hazar Boru Hattı Konsorsiyumu'nun Karadeniz terminalinde ham petrol yüklemesini durdurmasına neden oldu. Kazakistan'ın ham petrolünün yaklaşık %80'i bu boru hattı üzerinden ihraç ediliyor, dedi Croft. \"Kapanışın süresi belirsiz, ancak Kazakistan için alternatif rotalar sınırlı (ve CPC'yi tamamen telafi etmesi olası değil), bu da üretimin (Haziran ayında 1.7 mb\/d) durdurulabileceği anlamına geliyor,\" dedi analist.",
-          "group" : "Red Sea oil shock",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
-            }
-          ],
-          "titleTR" : "23 Temmuz için en son petrol piyasası haberleri ve analizleri"
-        }
-      ],
-      "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
-      "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 1
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "category" : "Politics",
-          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "ABD Hazine tahvil getirileri, petrol fiyatlarının yükselmesiyle Çarşamba günü arttı. Bu artış, haftalık işsizlik sigortası başvurularındaki düşüşle birlikte piyasa tepkilerini de etkiledi.",
+          "group" : "Iran war oil shock",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T21:54:18Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html"
             }
           ],
-          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
+          "titleTR" : "Petrol fiyatlarındaki artışla 10 yıllık Hazine tahvil getirisi Ocak 2025'ten bu yana en yüksek seviyede"
         },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Politics",
-          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
-            }
-          ],
-          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
-        }
-      ],
-      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
-      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 2
-    },
-    {
-      "items" : [
         {
           "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
           "category" : "Economy",
-          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
-          "group" : "Fed rate hike outlook",
+          "descriptionTR" : "Yatırımcılar, Federal Reserve'in Eylül ayında faiz artırımı yapabileceğine dair beklentilerini artırıyor.",
+          "group" : "Oil inflation Fed bets",
           "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
           "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
+          "publishedAt" : "2026-07-23T21:54:18Z",
           "sources" : [
             {
               "originalLanguage" : "en",
@@ -702,48 +903,156 @@
               "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
             }
           ],
-          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
+          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed faiz artırımı ihtimali artıyor"
         },
         {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
           "category" : "Economy",
-          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
-          "group" : "ECB inflation pressure",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "descriptionTR" : "ABD Hazine tahvil getirileri, İran savaşındaki gerginliklerin petrol fiyatlarını yükseltmesiyle yılın en yüksek seviyelerine çıktı ve Federal Reserve'in faiz artırımı yapabileceğine dair beklentileri güçlendirdi.",
+          "group" : "Iran war oil shock",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
           "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
-            }
-          ],
-          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "category" : "Economy",
-          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
-          "group" : "Oil and inflation pressure",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
+          "publishedAt" : "2026-07-23T21:54:18Z",
           "sources" : [
             {
               "originalLanguage" : "en",
               "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet"
             }
           ],
-          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
+          "titleTR" : "ABD Hazine tahvil getirileri 2026'nın en yüksek seviyesinde, petrol artışı Fed bahislerini tetikliyor"
         }
       ],
-      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
-      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
+      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Hazine tahvil getirilerinde artışa ve Federal Reserve'in faiz artırımı beklentilerinin yükselmesine yol açtı. Bu gelişmeler, ABD'deki ekonomik göstergeler üzerinde önemli bir etki yarattı. Özellikle 10 yıllık Hazine tahvil getirileri, Ocak 2025'ten bu yana en yüksek seviyesine ulaştı. Petrol fiyatlarındaki artış, enflasyon endişelerini yeniden canlandırırken, işsizlik sigortası başvurularındaki düşüş de piyasa tepkilerini etkiledi. Yatırımcılar, Federal Reserve'in Eylül ayında faiz artırımı yapabileceğine dair beklentilerini artırıyor. İran savaşındaki gerginliklerin tırmanması gibi jeopolitik faktörler de petrol fiyatlarını yükselterek, Federal Reserve'in faiz artırımı yapabileceğine dair bahisleri güçlendirdi.",
+      "packetTitle" : "Petrol fiyatlarındaki artış ABD finansal göstergelerini etkiliyor",
+      "publishedAt" : "2026-07-23T21:54:18Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+          "category" : "Energy",
+          "descriptionTR" : "Kızıldeniz'de gemilere yönelik saldırıların ardından petrol fiyatları yükseldi. ABD Başkanı Donald Trump, İran altyapısını bombalamakla tehdit etti.",
+          "group" : "Red Sea oil attacks",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
+            }
+          ],
+          "titleTR" : "Brent petrolü, Suudi Arabistan açıklarında tankerlerin vurulduğu haberleri sonrası 100 doları aştı"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Energy",
+          "descriptionTR" : "Yemen'deki Husiler, deniz ablukasını ihlal ettiği iddiasıyla iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını açıkladı. Trump, ABD'nin Husi saldırılarından İran'ı sorumlu tutacağını belirtti.",
+          "group" : "Red Sea oil attacks",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'de petrol tankerlerinin hedef alınmasının ardından İran'ı sorumlu tutacaklarını söyledi"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "category" : "Energy",
+          "descriptionTR" : "İran destekli Husi militanlarının Kızıldeniz'de iki Suudi Arabistan tankerine saldırdıklarını açıklamalarının ardından petrol fiyatları iki ay sonra ilk kez varil başına 100 doları aştı. Bu gelişme, Orta Doğu'da yeni bir cephe açarak arz kesintisi tehditlerini artırdı.",
+          "group" : "Red Sea oil attacks",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+            }
+          ],
+          "titleTR" : "23 Temmuz için son petrol piyasası haberleri ve analizleri"
+        }
+      ],
+      "packetSpot" : "Orta Doğu'daki çatışmaların tırmanması, özellikle İran ve Husi saldırılarıyla ilgili gelişmeler, petrol fiyatlarının yükselmesine ve jeopolitik gerilimlerin artmasına neden oldu.",
+      "packetTitle" : "Orta Doğu'daki çatışmalar petrol fiyatlarını ve gerilimleri artırıyor",
+      "publishedAt" : "2026-07-23T21:54:18Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+          "category" : "Economy",
+          "descriptionTR" : "ABD-İran savaşı yeniden alevlenirken, petrol fiyatlarının varil başına 100 doları geçmesiyle birlikte hisse senetleri Perşembe günü düşüşe geçti.",
+          "group" : "Iran war oil shock",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html"
+            }
+          ],
+          "titleTR" : "Kısa vadeli borsa artık savaşı görmezden gelemiyor: '100 dolarlık petrolü göz ardı etmek zor'"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
+          "category" : "Economy",
+          "descriptionTR" : "Investing Club, her iş günü Homestretch'i yayınlayarak, ticaretin son saatine yetişen eyleme geçirilebilir bir öğleden sonra güncellemesi sunuyor.",
+          "group" : "Oil market selloff",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html"
+            }
+          ],
+          "titleTR" : "Petrol fiyatları yükselirken Wall Street sendeledi, Lilly yeni nesil obezite ilacında yeni bir yol izliyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/stock-market-today-dow-s-p-live-updates",
+          "category" : "Economy",
+          "descriptionTR" : "İran savaşının tırmanmasıyla tetiklenen petrol artışı, hisse senetleri ve tahvillerin düşmesine neden oldu. Wall Street, yapay zeka yatırımlarının getirisinin belirsizliği nedeniyle de sarsıldı.",
+          "group" : "Oil market selloff",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/stock-market-today-dow-s-p-live-updates",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/stock-market-today-dow-s-p-live-updates",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/stock-market-today-dow-s-p-live-updates"
+            }
+          ],
+          "titleTR" : "Petrol 100 doları aşarken yapay zeka ve savaş endişeleri borsayı vurdu: Piyasalar özeti"
+        }
+      ],
+      "packetSpot" : "Yükselen petrol fiyatları, borsa düşüşleri ve artan dalgalanma dahil olmak üzere önemli piyasa tepkilerine yol açtı. Petrol fiyatlarının varil başına 100 doları aşması, piyasalarda dalgalanmalara neden oldu. Wall Street'te, yapay zeka yatırımlarının getirisinin belirsizliği gibi diğer faktörler de piyasa istikrarını etkileyen endişeler arasında yer alıyor.",
+      "packetTitle" : "Petrol fiyatlarındaki artış piyasaları sarsıyor",
+      "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
       "slot" : 3
     },
@@ -752,6 +1061,209 @@
         {
           "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
           "category" : "Technology",
+          "descriptionTR" : "Tesla ve Alphabet, yapay zeka yatırımlarını artırdıklarını belirtti.",
+          "group" : "Big Tech AI spending",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+            }
+          ],
+          "titleTR" : "Tesla ve Alphabet, kazanç raporları sonrası yüz milyarlarca dolar değer kaybetti"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, çeyrek dönem kazanç raporlarında büyük harcama artışları bildirmelerinin ardından düştü.",
+          "group" : "Big Tech AI spending",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+            }
+          ],
+          "titleTR" : "Alphabet ve Tesla, AI harcamaları büyümeyi gölgelerken Wall Street'in sabrını zorluyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "category" : "Technology",
+          "descriptionTR" : "Wall Street, büyük teknoloji şirketlerinin yapay zeka için harcadığı yüz milyarlarca dolar konusunda giderek daha fazla endişeleniyor. Bu durum, İran'daki savaşın küresel makroekonomik görünümü bulandırdığı bir dönemde gerçekleşiyor.",
+          "group" : "Big Tech AI spending",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T21:54:18Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+            }
+          ],
+          "titleTR" : "AI şüphecileri teknoloji hisselerini satarken 'Muhteşem 7' 797 milyar dolar kaybetti"
+        }
+      ],
+      "packetSpot" : "AI harcamalarına yönelik endişeler, Tesla ve Alphabet gibi şirketlerin hisse değerlerinde düşüşlere yol açtı.",
+      "packetTitle" : "Büyük teknoloji şirketlerinin AI harcamaları borsa tepkilerini tetikliyor",
+      "publishedAt" : "2026-07-23T21:54:18Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "category" : "Energy",
+          "descriptionTR" : "Petrol fiyatları, Kızıldeniz'deki tanker saldırıları ve Başkan Donald Trump'ın İran'a karşı \"büyük bir saldırı\" tehdidinde bulunmasının ardından Perşembe günü yükseldi. Brent ham petrol vadeli işlemleri, 26 Mayıs'tan bu yana ilk kez varil başına 100 doları aştı. Uluslararası gösterge, yaklaşık %7 artışla 100.69 dolara ulaştı. ABD Batı Teksas Orta Vadeli ham petrolü ise %6 artışla 92.19 dolara yerleşti. Bu ay Orta Doğu'daki çatışmaların keskin bir şekilde artmasıyla petrol fiyatları %30'dan fazla yükseldi. Yemen'deki İran'ın Husi müttefikleri, bu hafta Riyad'a karşı ilan ettikleri deniz ablukasını ihlal ettikleri gerekçesiyle iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını söyledi. Trump, Kızıldeniz'deki gemilere yönelik gelecekteki Husi saldırılarından İran'ı sorumlu tutacaklarını belirterek, Tahran ve Yemen'deki militanlara \"büyük askeri ceza\" vereceklerini söyledi. Başkan, Axios'a verdiği bir röportajda İran'a karşı \"büyük bir saldırı\" düşündüğünü söyledi. \"Her zamankinden daha büyük. Karar vermeye yakınım. Bunun için tamamen hazırız,\" dedi Trump. Tanker saldırıları, Trump'ın ABD'nin Hürmüz Boğazı'ndaki bir gemiye saldırması durumunda İran'daki bir köprü veya enerji santralini yok edeceği uyarısından saatler sonra gerçekleşti. İran, Washington'un bu tür saldırıları gerçekleştirmesi durumunda, ABD ile bağlantılı altyapı ve enerji varlıklarına karşı misilleme yapacağını belirtti. \"Amerikalılar İran'da bir köprü veya enerji santralini hedef alırsa, İran da bölgede ABD'nin çıkarlarının bulunduğu altyapı ve köprüleri vuracaktır,\" dedi ismi açıklanmayan bir İran askeri kaynağı, devlet tarafından yönetilen Tasnim Haber Ajansı'na. ABD'nin İran'la savaşı, çatışmaların Kızıldeniz'e yayılması ve İran'ın Körfez'deki kritik altyapıları hedef almasıyla daha tehlikeli bir aşamaya girdi, dedi RBC Capital Markets'ta küresel emtia stratejisi başkanı Helima Croft. Orta Doğu'da aşırı baskı oluşuyor ve bu, Brent petrol fiyatlarını Rusya'nın Ukrayna'yı işgal ettiği 2022'deki 128 dolarlık zirvenin üzerine çıkarabilir, dedi Croft. Brent, Orta Doğu'da tam ölçekli bir bölgesel savaşın en kötü senaryosunda 2008'deki 146 dolarlık zirveyi bile aşabilir, dedi analist. Ukrayna-Rusya savaşı da küresel petrol piyasaları üzerinde baskı oluşturuyor, dedi Croft. Kiev, bu ay Karadeniz ve Azak Denizi'nde 150'den fazla tankere saldırdı, dedi. Tanker saldırıları, Hazar Boru Hattı Konsorsiyumu'nun Karadeniz terminalinde ham petrol yüklemesini durdurmasına neden oldu. Kazakistan'ın ham petrolünün yaklaşık %80'i bu boru hattı üzerinden ihraç ediliyor, dedi Croft. \"Kapanışın süresi belirsiz, ancak Kazakistan için alternatif rotalar sınırlı (ve CPC'yi tamamen telafi etmesi olası değil), bu da üretimin (Haziran ayında 1.7 mb\/d) durdurulabileceği anlamına geliyor,\" dedi analist.",
+          "group" : "Red Sea oil shock",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
+            }
+          ],
+          "titleTR" : "23 Temmuz için en son petrol piyasası haberleri ve analizleri"
+        }
+      ],
+      "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
+      "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
+        }
+      ],
+      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
+      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
+          "group" : "Fed rate hike outlook",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+            }
+          ],
+          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "category" : "Economy",
+          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
+          "group" : "ECB inflation pressure",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+            }
+          ],
+          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "category" : "Economy",
+          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
+          "group" : "Oil and inflation pressure",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+            }
+          ],
+          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
+        }
+      ],
+      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
+      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "category" : "Technology",
           "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, her iki şirketin de yapay zeka harcamalarını artırma sinyali vermesi üzerine Perşembe günü düştü. Tesla'nın hisseleri %14, Alphabet'in ise %6'dan fazla değer kaybetti. Her iki şirket de ikinci çeyrek için negatif serbest nakit akışı bildirdi. Alphabet, bu yılki sermaye harcaması tahminini 195-205 milyar dolar aralığına yükseltti. Tesla ise sermaye harcamalarının yıllık bazda %142 artarak 5.79 milyar dolara ulaştığını açıkladı. Şirket yöneticileri, yatırımcı endişelerini yatıştırmaya çalıştı. Tesla CEO'su Elon Musk, yatırımların gelecekte büyük getiriler sağlayacağına inandığını belirtti.",
           "group" : "AI spending concerns",
           "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
@@ -808,7 +1320,7 @@
       "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 8
     },
     {
       "items" : [
@@ -853,7 +1365,7 @@
       "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
+      "slot" : 9
     },
     {
       "items" : [
@@ -898,7 +1410,7 @@
       "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 6
+      "slot" : 10
     },
     {
       "items" : [
@@ -930,7 +1442,7 @@
       "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 7
+      "slot" : 11
     },
     {
       "items" : [
@@ -975,7 +1487,7 @@
       "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 8
+      "slot" : 12
     },
     {
       "items" : [
@@ -1038,7 +1550,7 @@
       "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 9
+      "slot" : 13
     },
     {
       "items" : [
@@ -1101,7 +1613,7 @@
       "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 10
+      "slot" : 14
     },
     {
       "items" : [
@@ -1146,7 +1658,7 @@
       "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 11
+      "slot" : 15
     },
     {
       "items" : [
@@ -1191,7 +1703,7 @@
       "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 12
+      "slot" : 16
     }
   ],
   "week" : "2026-W30"
