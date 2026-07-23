@@ -1,0 +1,676 @@
+{
+  "label" : "20-26 TEMMUZ",
+  "publishedAt" : "2026-07-23T20:09:28Z",
+  "schemaVersion" : 2,
+  "sections" : [
+    {
+      "createdAt" : "2026-07-23T20:09:28Z",
+      "id" : "run-2026-W30-1784837368",
+      "slots" : [
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "category" : "Energy",
+              "descriptionTR" : "Oil surged past $100 a barrel for the first time in two months after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, opening a new front in the Middle East conflict and threatening deeper supply disruptions.",
+              "group" : "Red Sea oil shock",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
+                }
+              ],
+              "titleTR" : "Latest Oil Market News and Analysis for July 23"
+            }
+          ],
+          "packetSpot" : "",
+          "packetTitle" : "",
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+              "category" : "Politics",
+              "descriptionTR" : "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.",
+              "group" : "Iran war escalation",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+                }
+              ],
+              "titleTR" : "Congress splits on war powers resolutions to force Trump to abandon Iran war"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "category" : "Politics",
+              "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+              "group" : "Iran Houthi retaliation",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+                }
+              ],
+              "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
+            }
+          ],
+          "packetSpot" : "",
+          "packetTitle" : "",
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "category" : "Economy",
+              "descriptionTR" : "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+              "group" : "Fed rate hike outlook",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+                }
+              ],
+              "titleTR" : "Odds of Federal Reserve rate hike surge as oil prices rip higher"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+              "category" : "Economy",
+              "descriptionTR" : "Goldman Sachs warns on oil prices and so-called tank bottoms ( and loves a new natural gas-related name).",
+              "group" : "Oil price surge",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html"
+                }
+              ],
+              "titleTR" : "Brent crude tops $100 a barrel. How the next stop could be $120"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+              "category" : "Economy",
+              "descriptionTR" : "ECB president Christine Lagarde said the bank anticipates inflation to remain \"well above target\" until the first half of 2027.",
+              "group" : "ECB inflation pressure",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+                }
+              ],
+              "titleTR" : "Traders see September rate hike as European Central Bank mulls energy price spike"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+              "category" : "Economy",
+              "descriptionTR" : "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher and boosted bets that the Federal Reserve could raise interest rates as soon as next week.",
+              "group" : "",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet"
+                }
+              ],
+              "titleTR" : "US Treasury Yields Rise to 2026 Highs With Oil Sparking Fed Bets"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+              "category" : "Economy",
+              "descriptionTR" : "German bond yields rose to the highest level since 2011 as surging oil prices prompted bigger bets on interest-rate hikes, even as the European Central Bank kept its benchmark unchanged.",
+              "group" : "Oil and inflation pressure",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+                }
+              ],
+              "titleTR" : "Bund Yields Hit 15-Year High as $100 Oil Fans Inflation Concerns"
+            }
+          ],
+          "packetSpot" : "",
+          "packetTitle" : "",
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sessionID" : "publish-draft",
+          "slot" : 3
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "category" : "Technology",
+              "descriptionTR" : "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
+              "group" : "AI spending concerns",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+                }
+              ],
+              "titleTR" : "Tesla falls 14%, Alphabet sinks 6% as AI spending concerns spook investors"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "category" : "Technology",
+              "descriptionTR" : "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+              "group" : "Big Tech AI spending",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+                }
+              ],
+              "titleTR" : "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "category" : "Technology",
+              "descriptionTR" : "The Magnificent Seven group of megacap technology stocks is on track for its biggest one-day drop since the tariff tantrum in April 2025 as results from Alphabet Inc. and Tesla Inc. are casting doubt on the durability of the artificial intelligence trade that has powered the stock market for more than three years.",
+              "group" : "AI and oil selloff",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+                }
+              ],
+              "titleTR" : "Magnificent 7 Lose $767 Billion as AI Skeptics Dump Tech Stocks"
+            }
+          ],
+          "packetSpot" : "",
+          "packetTitle" : "",
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sessionID" : "publish-draft",
+          "slot" : 4
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+              "category" : "Law",
+              "descriptionTR" : "The subpoenas to New York Times reporters were issued by Manhattan U.S. Attorney Jay Clayton, whom Trump has nominated as director of national intelligence.",
+              "group" : "Trump media probe",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
+                }
+              ],
+              "titleTR" : "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+              "category" : "Law",
+              "descriptionTR" : "House oversight Chair James Comer said Jes Staley defended Jeffrey Epstein and encouraged JPMorgan to retain him despite internal red flags.",
+              "group" : "Epstein banking scrutiny",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
+                }
+              ],
+              "titleTR" : "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties"
+            }
+          ],
+          "packetSpot" : "",
+          "packetTitle" : "",
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sessionID" : "publish-draft",
+          "slot" : 5
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "category" : "Security",
+              "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+              "group" : "Iran Houthi retaliation",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+                }
+              ],
+              "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+              "category" : "Security",
+              "descriptionTR" : "Two China-owned oil tankers loaded with Saudi Arabian crude exited the Red Sea via the Bab el-Mandeb chokepoint despite overnight Houthi attacks on vessels in the region.",
+              "group" : "Red Sea shipping risk",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:09:28Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks"
+                }
+              ],
+              "titleTR" : "China Tankers Pass Red Sea Chokepoint Despite Houthi Threat"
+            }
+          ],
+          "packetSpot" : "",
+          "packetTitle" : "",
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sessionID" : "publish-draft",
+          "slot" : 6
+        }
+      ],
+      "title" : "İş Dünyası ve Ekonomi",
+      "type" : "run"
+    }
+  ],
+  "slots" : [
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "category" : "Energy",
+          "descriptionTR" : "Oil surged past $100 a barrel for the first time in two months after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, opening a new front in the Middle East conflict and threatening deeper supply disruptions.",
+          "group" : "Red Sea oil shock",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
+            }
+          ],
+          "titleTR" : "Latest Oil Market News and Analysis for July 23"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-07-23T20:09:28Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Congress splits on war powers resolutions to force Trump to abandon Iran war"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-07-23T20:09:28Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+          "group" : "Fed rate hike outlook",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+            }
+          ],
+          "titleTR" : "Odds of Federal Reserve rate hike surge as oil prices rip higher"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "category" : "Economy",
+          "descriptionTR" : "Goldman Sachs warns on oil prices and so-called tank bottoms ( and loves a new natural gas-related name).",
+          "group" : "Oil price surge",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html"
+            }
+          ],
+          "titleTR" : "Brent crude tops $100 a barrel. How the next stop could be $120"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "category" : "Economy",
+          "descriptionTR" : "ECB president Christine Lagarde said the bank anticipates inflation to remain \"well above target\" until the first half of 2027.",
+          "group" : "ECB inflation pressure",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+            }
+          ],
+          "titleTR" : "Traders see September rate hike as European Central Bank mulls energy price spike"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "category" : "Economy",
+          "descriptionTR" : "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher and boosted bets that the Federal Reserve could raise interest rates as soon as next week.",
+          "group" : "",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet"
+            }
+          ],
+          "titleTR" : "US Treasury Yields Rise to 2026 Highs With Oil Sparking Fed Bets"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "category" : "Economy",
+          "descriptionTR" : "German bond yields rose to the highest level since 2011 as surging oil prices prompted bigger bets on interest-rate hikes, even as the European Central Bank kept its benchmark unchanged.",
+          "group" : "Oil and inflation pressure",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+            }
+          ],
+          "titleTR" : "Bund Yields Hit 15-Year High as $100 Oil Fans Inflation Concerns"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-07-23T20:09:28Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "category" : "Technology",
+          "descriptionTR" : "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
+          "group" : "AI spending concerns",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+            }
+          ],
+          "titleTR" : "Tesla falls 14%, Alphabet sinks 6% as AI spending concerns spook investors"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "category" : "Technology",
+          "descriptionTR" : "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+          "group" : "Big Tech AI spending",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+            }
+          ],
+          "titleTR" : "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "category" : "Technology",
+          "descriptionTR" : "The Magnificent Seven group of megacap technology stocks is on track for its biggest one-day drop since the tariff tantrum in April 2025 as results from Alphabet Inc. and Tesla Inc. are casting doubt on the durability of the artificial intelligence trade that has powered the stock market for more than three years.",
+          "group" : "AI and oil selloff",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+            }
+          ],
+          "titleTR" : "Magnificent 7 Lose $767 Billion as AI Skeptics Dump Tech Stocks"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-07-23T20:09:28Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "category" : "Law",
+          "descriptionTR" : "The subpoenas to New York Times reporters were issued by Manhattan U.S. Attorney Jay Clayton, whom Trump has nominated as director of national intelligence.",
+          "group" : "Trump media probe",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
+            }
+          ],
+          "titleTR" : "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "category" : "Law",
+          "descriptionTR" : "House oversight Chair James Comer said Jes Staley defended Jeffrey Epstein and encouraged JPMorgan to retain him despite internal red flags.",
+          "group" : "Epstein banking scrutiny",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
+            }
+          ],
+          "titleTR" : "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-07-23T20:09:28Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Security",
+          "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "category" : "Security",
+          "descriptionTR" : "Two China-owned oil tankers loaded with Saudi Arabian crude exited the Red Sea via the Bab el-Mandeb chokepoint despite overnight Houthi attacks on vessels in the region.",
+          "group" : "Red Sea shipping risk",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks"
+            }
+          ],
+          "titleTR" : "China Tankers Pass Red Sea Chokepoint Despite Houthi Threat"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "",
+      "publishedAt" : "2026-07-23T20:09:28Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    }
+  ],
+  "week" : "2026-W30"
+}
