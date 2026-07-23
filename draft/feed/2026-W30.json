@@ -1,8 +1,309 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-23T20:09:28Z",
+  "publishedAt" : "2026-07-23T20:11:27Z",
   "schemaVersion" : 2,
   "sections" : [
+    {
+      "createdAt" : "2026-07-23T20:11:27Z",
+      "id" : "run-2026-W30-1784837487",
+      "slots" : [
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "category" : "Energy",
+              "descriptionTR" : "Petrol fiyatları, Kızıldeniz'deki tanker saldırıları ve Başkan Donald Trump'ın İran'a karşı \"büyük bir saldırı\" tehdidinde bulunmasının ardından Perşembe günü yükseldi. Brent ham petrol vadeli işlemleri, 26 Mayıs'tan bu yana ilk kez varil başına 100 doları aştı. Uluslararası gösterge, yaklaşık %7 artışla 100.69 dolara ulaştı. ABD Batı Teksas Orta Vadeli ham petrolü ise %6 artışla 92.19 dolara yerleşti. Bu ay Orta Doğu'daki çatışmaların keskin bir şekilde artmasıyla petrol fiyatları %30'dan fazla yükseldi. Yemen'deki İran'ın Husi müttefikleri, bu hafta Riyad'a karşı ilan ettikleri deniz ablukasını ihlal ettikleri gerekçesiyle iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını söyledi. Trump, Kızıldeniz'deki gemilere yönelik gelecekteki Husi saldırılarından İran'ı sorumlu tutacaklarını belirterek, Tahran ve Yemen'deki militanlara \"büyük askeri ceza\" vereceklerini söyledi. Başkan, Axios'a verdiği bir röportajda İran'a karşı \"büyük bir saldırı\" düşündüğünü söyledi. \"Her zamankinden daha büyük. Karar vermeye yakınım. Bunun için tamamen hazırız,\" dedi Trump. Tanker saldırıları, Trump'ın ABD'nin Hürmüz Boğazı'ndaki bir gemiye saldırması durumunda İran'daki bir köprü veya enerji santralini yok edeceği uyarısından saatler sonra gerçekleşti. İran, Washington'un bu tür saldırıları gerçekleştirmesi durumunda, ABD ile bağlantılı altyapı ve enerji varlıklarına karşı misilleme yapacağını belirtti. \"Amerikalılar İran'da bir köprü veya enerji santralini hedef alırsa, İran da bölgede ABD'nin çıkarlarının bulunduğu altyapı ve köprüleri vuracaktır,\" dedi ismi açıklanmayan bir İran askeri kaynağı, devlet tarafından yönetilen Tasnim Haber Ajansı'na. ABD'nin İran'la savaşı, çatışmaların Kızıldeniz'e yayılması ve İran'ın Körfez'deki kritik altyapıları hedef almasıyla daha tehlikeli bir aşamaya girdi, dedi RBC Capital Markets'ta küresel emtia stratejisi başkanı Helima Croft. Orta Doğu'da aşırı baskı oluşuyor ve bu, Brent petrol fiyatlarını Rusya'nın Ukrayna'yı işgal ettiği 2022'deki 128 dolarlık zirvenin üzerine çıkarabilir, dedi Croft. Brent, Orta Doğu'da tam ölçekli bir bölgesel savaşın en kötü senaryosunda 2008'deki 146 dolarlık zirveyi bile aşabilir, dedi analist. Ukrayna-Rusya savaşı da küresel petrol piyasaları üzerinde baskı oluşturuyor, dedi Croft. Kiev, bu ay Karadeniz ve Azak Denizi'nde 150'den fazla tankere saldırdı, dedi. Tanker saldırıları, Hazar Boru Hattı Konsorsiyumu'nun Karadeniz terminalinde ham petrol yüklemesini durdurmasına neden oldu. Kazakistan'ın ham petrolünün yaklaşık %80'i bu boru hattı üzerinden ihraç ediliyor, dedi Croft. \"Kapanışın süresi belirsiz, ancak Kazakistan için alternatif rotalar sınırlı (ve CPC'yi tamamen telafi etmesi olası değil), bu da üretimin (Haziran ayında 1.7 mb\/d) durdurulabileceği anlamına geliyor,\" dedi analist.",
+              "group" : "Red Sea oil shock",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
+                }
+              ],
+              "titleTR" : "23 Temmuz için en son petrol piyasası haberleri ve analizleri"
+            }
+          ],
+          "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
+          "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+              "category" : "Politics",
+              "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
+              "group" : "Iran war escalation",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+                }
+              ],
+              "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "category" : "Politics",
+              "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
+              "group" : "Iran Houthi retaliation",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+                }
+              ],
+              "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
+            }
+          ],
+          "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
+          "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "category" : "Economy",
+              "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
+              "group" : "Fed rate hike outlook",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+                }
+              ],
+              "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+              "category" : "Economy",
+              "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
+              "group" : "ECB inflation pressure",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+                }
+              ],
+              "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+              "category" : "Economy",
+              "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
+              "group" : "Oil and inflation pressure",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+                }
+              ],
+              "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
+            }
+          ],
+          "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
+          "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sessionID" : "publish-draft",
+          "slot" : 3
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "category" : "Technology",
+              "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, her iki şirketin de yapay zeka harcamalarını artırma sinyali vermesi üzerine Perşembe günü düştü. Tesla'nın hisseleri %14, Alphabet'in ise %6'dan fazla değer kaybetti. Her iki şirket de ikinci çeyrek için negatif serbest nakit akışı bildirdi. Alphabet, bu yılki sermaye harcaması tahminini 195-205 milyar dolar aralığına yükseltti. Tesla ise sermaye harcamalarının yıllık bazda %142 artarak 5.79 milyar dolara ulaştığını açıkladı. Şirket yöneticileri, yatırımcı endişelerini yatıştırmaya çalıştı. Tesla CEO'su Elon Musk, yatırımların gelecekte büyük getiriler sağlayacağına inandığını belirtti.",
+              "group" : "AI spending concerns",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+                }
+              ],
+              "titleTR" : "Tesla %14, Alphabet %6 değer kaybetti; yapay zeka harcamaları yatırımcıları korkuttu"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "category" : "Technology",
+              "descriptionTR" : "Alphabet ve Tesla, çarşamba günü teknoloji kazanç sezonunu başlattıklarında, yapay zeka harcamalarının dikkatle izlendiği bir tema ortaya çıktı. Her iki şirket de negatif serbest nakit akışı bildirdi ve yatırımcıları daha yüksek sermaye harcamalarına hazırlıklı olmaları konusunda uyardı. Tesla'nın hisseleri %4, Alphabet'in ise %3'ten fazla değer kaybetti. Bu durum, teknoloji sektörünün diğer büyük şirketleri için potansiyel olarak karamsar bir işaret olabilir. Alphabet ve Tesla'nın agresif büyüme planları, nakit rezervlerine büyük bir darbe vuruyor.",
+              "group" : "Big Tech AI spending",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+                }
+              ],
+              "titleTR" : "Alphabet ve Tesla'nın yapay zeka harcamaları Wall Street'in sabrını zorluyor"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "category" : "Technology",
+              "descriptionTR" : "Alphabet ve Tesla'nın sonuçları, üç yılı aşkın süredir borsa performansını yönlendiren yapay zeka ticaretinin dayanıklılığına dair şüpheler uyandırıyor. Bloomberg Magnificent 7 Endeksi, Perşembe günü %4.8 düşerek yaklaşık 767 milyar dolarlık piyasa değerini sildi. Düşüşler, Çarşamba günü kazanç raporlarıyla Wall Street'i korkutan Tesla ve Alphabet tarafından yönetildi.",
+              "group" : "AI and oil selloff",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+                }
+              ],
+              "titleTR" : "Magnificent 7, yapay zeka şüphecileri teknoloji hisselerini satarken 767 milyar dolar kaybetti"
+            }
+          ],
+          "packetSpot" : "Yapay zeka harcamalarına dair endişeler, Tesla ve Alphabet gibi şirketlerin hisselerinde önemli düşüşlere yol açarak yatırımcı güvenini ve piyasa performansını etkiliyor.",
+          "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sessionID" : "publish-draft",
+          "slot" : 4
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+              "category" : "Law",
+              "descriptionTR" : "Adalet Bakanlığı, Başkan Donald Trump'ın yeni Air Force One uçağı hakkında bir makaleye dahil olan New York Times muhabirleri için aldığı celpleri geri çekiyor. Bu hamle, Manhattan'daki ABD Bölge Mahkemesi'nde, Times'ın gazetecilerini hedef alan celpleri iptal etme talebini değerlendiren Yargıç Arun Subramanian önünde gerçekleşti. Celpler, Trump tarafından ulusal istihbarat direktörü olarak aday gösterilen Manhattan ABD Savcısı Jay Clayton tarafından çıkarılmıştı. Times, DOJ'un üçüncü taraf telefon hizmeti sağlayıcılarına gazetecilerin telefon ve mesaj kayıtlarını talep eden celpler gönderdiğini bildirdi.",
+              "group" : "Trump media probe",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
+                }
+              ],
+              "titleTR" : "Adalet Bakanlığı, Trump uçağı soruşturmasında NY Times muhabirlerine yönelik celpleri geri çekti"
+            },
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+              "category" : "Law",
+              "descriptionTR" : "Temsilciler Meclisi Denetim Komitesi Başkanı James Comer, eski JPMorgan Chase yatırım bankacılığı şefi Jes Staley'nin, cinsel suçlu Jeffrey Epstein'ı müşteri olarak tutmaya teşvik ettiğini söyledi. Staley, JPMorgan'daki üç on yılı aşkın kariyeri boyunca Epstein'ın özel bankacısı olarak görev yaptı ve onunla yakın bir kişisel ilişki sürdürdü. İngiltere düzenleyicileri, Staley'nin Epstein ile olan ilişkisini yanlış tanıttığı için İngiltere finans sektöründen men edilmesine karar verdi. JPMorgan, Epstein'ın mağdurlarıyla ilgili davaları 290 milyon dolara ve ABD Virgin Adaları tarafından açılan ayrı bir davayı 75 milyon dolara çözmek için anlaşmaya vardı.",
+              "group" : "Epstein banking scrutiny",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
+                }
+              ],
+              "titleTR" : "Temsilciler Meclisi üyeleri, Epstein bağlantıları nedeniyle Jes Staley'i sorguladı"
+            }
+          ],
+          "packetSpot" : "Adalet Bakanlığı, Trump'la ilgili bir soruşturma kapsamında New York Times muhabirlerine yönelik celpleri geri çekti. Aynı zamanda, Temsilciler Meclisi üyeleri, Jeffrey Epstein ile bağlantıları nedeniyle eski JPMorgan yöneticisi Jes Staley'i sorguladı. Bu gelişmeler, yüksek profilli figürlerin dahil olduğu devam eden soruşturmaları yansıtıyor.",
+          "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sessionID" : "publish-draft",
+          "slot" : 5
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "category" : "Security",
+              "descriptionTR" : "Yemenli Husiler, deniz ablukasını ihlal ettiği iddiasıyla iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını açıkladı.",
+              "group" : "Iran Houthi retaliation",
+              "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNBC International",
+                  "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+                }
+              ],
+              "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacaklarını söyledi"
+            },
+            {
+              "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+              "category" : "Security",
+              "descriptionTR" : "Suudi Arabistan petrolü yüklü iki Çin'e ait petrol tankeri, Husi saldırılarına rağmen Bab el-Mandeb boğazından geçerek Kızıldeniz'den çıktı.",
+              "group" : "Red Sea shipping risk",
+              "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+              "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-23T20:11:27Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Bloomberg Markets",
+                  "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks"
+                }
+              ],
+              "titleTR" : "Çin tankeri, Husi tehdidine rağmen Kızıldeniz boğazından geçti"
+            }
+          ],
+          "packetSpot" : "Kızıldeniz'deki Husi saldırıları deniz trafiğini etkiliyor. Çin'e ait petrol tankerleri, tehditlere rağmen geçiş yaparken, Trump bu saldırılardan İran'ı sorumlu tuttuğunu açıkladı.",
+          "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sessionID" : "publish-draft",
+          "slot" : 6
+        }
+      ],
+      "title" : "Ekonomi Haberleri",
+      "type" : "run"
+    },
     {
       "createdAt" : "2026-07-23T20:09:28Z",
       "id" : "run-2026-W30-1784837368",
@@ -316,6 +617,299 @@
           "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
           "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
           "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
+            }
+          ],
+          "titleTR" : "23 Temmuz için en son petrol piyasası haberleri ve analizleri"
+        }
+      ],
+      "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
+      "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
+        }
+      ],
+      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
+      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
+          "group" : "Fed rate hike outlook",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+            }
+          ],
+          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "category" : "Economy",
+          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
+          "group" : "ECB inflation pressure",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+            }
+          ],
+          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "category" : "Economy",
+          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
+          "group" : "Oil and inflation pressure",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+            }
+          ],
+          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
+        }
+      ],
+      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
+      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, her iki şirketin de yapay zeka harcamalarını artırma sinyali vermesi üzerine Perşembe günü düştü. Tesla'nın hisseleri %14, Alphabet'in ise %6'dan fazla değer kaybetti. Her iki şirket de ikinci çeyrek için negatif serbest nakit akışı bildirdi. Alphabet, bu yılki sermaye harcaması tahminini 195-205 milyar dolar aralığına yükseltti. Tesla ise sermaye harcamalarının yıllık bazda %142 artarak 5.79 milyar dolara ulaştığını açıkladı. Şirket yöneticileri, yatırımcı endişelerini yatıştırmaya çalıştı. Tesla CEO'su Elon Musk, yatırımların gelecekte büyük getiriler sağlayacağına inandığını belirtti.",
+          "group" : "AI spending concerns",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+            }
+          ],
+          "titleTR" : "Tesla %14, Alphabet %6 değer kaybetti; yapay zeka harcamaları yatırımcıları korkuttu"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla, çarşamba günü teknoloji kazanç sezonunu başlattıklarında, yapay zeka harcamalarının dikkatle izlendiği bir tema ortaya çıktı. Her iki şirket de negatif serbest nakit akışı bildirdi ve yatırımcıları daha yüksek sermaye harcamalarına hazırlıklı olmaları konusunda uyardı. Tesla'nın hisseleri %4, Alphabet'in ise %3'ten fazla değer kaybetti. Bu durum, teknoloji sektörünün diğer büyük şirketleri için potansiyel olarak karamsar bir işaret olabilir. Alphabet ve Tesla'nın agresif büyüme planları, nakit rezervlerine büyük bir darbe vuruyor.",
+          "group" : "Big Tech AI spending",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+            }
+          ],
+          "titleTR" : "Alphabet ve Tesla'nın yapay zeka harcamaları Wall Street'in sabrını zorluyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla'nın sonuçları, üç yılı aşkın süredir borsa performansını yönlendiren yapay zeka ticaretinin dayanıklılığına dair şüpheler uyandırıyor. Bloomberg Magnificent 7 Endeksi, Perşembe günü %4.8 düşerek yaklaşık 767 milyar dolarlık piyasa değerini sildi. Düşüşler, Çarşamba günü kazanç raporlarıyla Wall Street'i korkutan Tesla ve Alphabet tarafından yönetildi.",
+          "group" : "AI and oil selloff",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+            }
+          ],
+          "titleTR" : "Magnificent 7, yapay zeka şüphecileri teknoloji hisselerini satarken 767 milyar dolar kaybetti"
+        }
+      ],
+      "packetSpot" : "Yapay zeka harcamalarına dair endişeler, Tesla ve Alphabet gibi şirketlerin hisselerinde önemli düşüşlere yol açarak yatırımcı güvenini ve piyasa performansını etkiliyor.",
+      "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "category" : "Law",
+          "descriptionTR" : "Adalet Bakanlığı, Başkan Donald Trump'ın yeni Air Force One uçağı hakkında bir makaleye dahil olan New York Times muhabirleri için aldığı celpleri geri çekiyor. Bu hamle, Manhattan'daki ABD Bölge Mahkemesi'nde, Times'ın gazetecilerini hedef alan celpleri iptal etme talebini değerlendiren Yargıç Arun Subramanian önünde gerçekleşti. Celpler, Trump tarafından ulusal istihbarat direktörü olarak aday gösterilen Manhattan ABD Savcısı Jay Clayton tarafından çıkarılmıştı. Times, DOJ'un üçüncü taraf telefon hizmeti sağlayıcılarına gazetecilerin telefon ve mesaj kayıtlarını talep eden celpler gönderdiğini bildirdi.",
+          "group" : "Trump media probe",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
+            }
+          ],
+          "titleTR" : "Adalet Bakanlığı, Trump uçağı soruşturmasında NY Times muhabirlerine yönelik celpleri geri çekti"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "category" : "Law",
+          "descriptionTR" : "Temsilciler Meclisi Denetim Komitesi Başkanı James Comer, eski JPMorgan Chase yatırım bankacılığı şefi Jes Staley'nin, cinsel suçlu Jeffrey Epstein'ı müşteri olarak tutmaya teşvik ettiğini söyledi. Staley, JPMorgan'daki üç on yılı aşkın kariyeri boyunca Epstein'ın özel bankacısı olarak görev yaptı ve onunla yakın bir kişisel ilişki sürdürdü. İngiltere düzenleyicileri, Staley'nin Epstein ile olan ilişkisini yanlış tanıttığı için İngiltere finans sektöründen men edilmesine karar verdi. JPMorgan, Epstein'ın mağdurlarıyla ilgili davaları 290 milyon dolara ve ABD Virgin Adaları tarafından açılan ayrı bir davayı 75 milyon dolara çözmek için anlaşmaya vardı.",
+          "group" : "Epstein banking scrutiny",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
+            }
+          ],
+          "titleTR" : "Temsilciler Meclisi üyeleri, Epstein bağlantıları nedeniyle Jes Staley'i sorguladı"
+        }
+      ],
+      "packetSpot" : "Adalet Bakanlığı, Trump'la ilgili bir soruşturma kapsamında New York Times muhabirlerine yönelik celpleri geri çekti. Aynı zamanda, Temsilciler Meclisi üyeleri, Jeffrey Epstein ile bağlantıları nedeniyle eski JPMorgan yöneticisi Jes Staley'i sorguladı. Bu gelişmeler, yüksek profilli figürlerin dahil olduğu devam eden soruşturmaları yansıtıyor.",
+      "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Security",
+          "descriptionTR" : "Yemenli Husiler, deniz ablukasını ihlal ettiği iddiasıyla iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını açıkladı.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacaklarını söyledi"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "category" : "Security",
+          "descriptionTR" : "Suudi Arabistan petrolü yüklü iki Çin'e ait petrol tankeri, Husi saldırılarına rağmen Bab el-Mandeb boğazından geçerek Kızıldeniz'den çıktı.",
+          "group" : "Red Sea shipping risk",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks"
+            }
+          ],
+          "titleTR" : "Çin tankeri, Husi tehdidine rağmen Kızıldeniz boğazından geçti"
+        }
+      ],
+      "packetSpot" : "Kızıldeniz'deki Husi saldırıları deniz trafiğini etkiliyor. Çin'e ait petrol tankerleri, tehditlere rağmen geçiş yaparken, Trump bu saldırılardan İran'ı sorumlu tuttuğunu açıkladı.",
+      "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "category" : "Energy",
+          "descriptionTR" : "Petrol fiyatları, Kızıldeniz'deki tanker saldırıları ve Başkan Donald Trump'ın İran'a karşı \"büyük bir saldırı\" tehdidinde bulunmasının ardından Perşembe günü yükseldi. Brent ham petrol vadeli işlemleri, 26 Mayıs'tan bu yana ilk kez varil başına 100 doları aştı. Uluslararası gösterge, yaklaşık %7 artışla 100.69 dolara ulaştı. ABD Batı Teksas Orta Vadeli ham petrolü ise %6 artışla 92.19 dolara yerleşti. Bu ay Orta Doğu'daki çatışmaların keskin bir şekilde artmasıyla petrol fiyatları %30'dan fazla yükseldi. Yemen'deki İran'ın Husi müttefikleri, bu hafta Riyad'a karşı ilan ettikleri deniz ablukasını ihlal ettikleri gerekçesiyle iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını söyledi. Trump, Kızıldeniz'deki gemilere yönelik gelecekteki Husi saldırılarından İran'ı sorumlu tutacaklarını belirterek, Tahran ve Yemen'deki militanlara \"büyük askeri ceza\" vereceklerini söyledi. Başkan, Axios'a verdiği bir röportajda İran'a karşı \"büyük bir saldırı\" düşündüğünü söyledi. \"Her zamankinden daha büyük. Karar vermeye yakınım. Bunun için tamamen hazırız,\" dedi Trump. Tanker saldırıları, Trump'ın ABD'nin Hürmüz Boğazı'ndaki bir gemiye saldırması durumunda İran'daki bir köprü veya enerji santralini yok edeceği uyarısından saatler sonra gerçekleşti. İran, Washington'un bu tür saldırıları gerçekleştirmesi durumunda, ABD ile bağlantılı altyapı ve enerji varlıklarına karşı misilleme yapacağını belirtti. \"Amerikalılar İran'da bir köprü veya enerji santralini hedef alırsa, İran da bölgede ABD'nin çıkarlarının bulunduğu altyapı ve köprüleri vuracaktır,\" dedi ismi açıklanmayan bir İran askeri kaynağı, devlet tarafından yönetilen Tasnim Haber Ajansı'na. ABD'nin İran'la savaşı, çatışmaların Kızıldeniz'e yayılması ve İran'ın Körfez'deki kritik altyapıları hedef almasıyla daha tehlikeli bir aşamaya girdi, dedi RBC Capital Markets'ta küresel emtia stratejisi başkanı Helima Croft. Orta Doğu'da aşırı baskı oluşuyor ve bu, Brent petrol fiyatlarını Rusya'nın Ukrayna'yı işgal ettiği 2022'deki 128 dolarlık zirvenin üzerine çıkarabilir, dedi Croft. Brent, Orta Doğu'da tam ölçekli bir bölgesel savaşın en kötü senaryosunda 2008'deki 146 dolarlık zirveyi bile aşabilir, dedi analist. Ukrayna-Rusya savaşı da küresel petrol piyasaları üzerinde baskı oluşturuyor, dedi Croft. Kiev, bu ay Karadeniz ve Azak Denizi'nde 150'den fazla tankere saldırdı, dedi. Tanker saldırıları, Hazar Boru Hattı Konsorsiyumu'nun Karadeniz terminalinde ham petrol yüklemesini durdurmasına neden oldu. Kazakistan'ın ham petrolünün yaklaşık %80'i bu boru hattı üzerinden ihraç ediliyor, dedi Croft. \"Kapanışın süresi belirsiz, ancak Kazakistan için alternatif rotalar sınırlı (ve CPC'yi tamamen telafi etmesi olası değil), bu da üretimin (Haziran ayında 1.7 mb\/d) durdurulabileceği anlamına geliyor,\" dedi analist.",
+          "group" : "Red Sea oil shock",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "newsValue" : 8,
           "publishedAt" : "2026-07-23T20:09:28Z",
           "sources" : [
             {
@@ -336,7 +930,7 @@
       "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 7
     },
     {
       "items" : [
@@ -381,7 +975,7 @@
       "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 8
     },
     {
       "items" : [
@@ -444,7 +1038,7 @@
       "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 9
     },
     {
       "items" : [
@@ -507,7 +1101,7 @@
       "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 10
     },
     {
       "items" : [
@@ -552,7 +1146,7 @@
       "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
+      "slot" : 11
     },
     {
       "items" : [
@@ -597,7 +1191,7 @@
       "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 6
+      "slot" : 12
     }
   ],
   "week" : "2026-W30"
