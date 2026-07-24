@@ -1,8 +1,315 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-24T20:41:59Z",
+  "publishedAt" : "2026-07-24T20:55:09Z",
   "schemaVersion" : 2,
   "sections" : [
+    {
+      "createdAt" : "2026-07-24T20:55:09Z",
+      "id" : "run-2026-W30-1784926509",
+      "slots" : [
+        {
+          "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+              "category" : "Environment",
+              "descriptionTR" : "Fransa'nın Atlantik kıyısındaki kasaba ve tatil beldelerinden yaklaşık 20.000 kişi, orman yangınlarının yayılması nedeniyle tahliye edildi. Bordeaux'nun güneybatısındaki Lège-Cap Ferret yakınlarındaki yangın, 31 kilometrekarelik bir alana yayıldı. Gironde bölgesi valisi Sophie Brocas, Paris bölgesinden gelen ekiplerle birlikte 700 itfaiyecinin görevlendirildiğini belirtti. Yangın, Lège'deki ilk evlere 300 metre kadar yaklaştı ve su bombaları kullanıldı. Claouey köyü de önlem olarak tahliye edildi. Güney Avrupa, bu yaz birçok büyük yangınla karşı karşıya kaldı. Bilim insanları, iklim değişikliğinin sıcaklık ve kuraklık sıklığını artırarak bölgeyi yangınlara daha duyarlı hale getirdiği konusunda uyarıyor.",
+              "group" : "",
+              "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+              "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Mongabay",
+                  "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Guardian Environment",
+                  "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/23\/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video"
+                }
+              ],
+              "titleTR" : "Fransa'nın popüler turistik kasabası yakınlarında orman yangını: Binlerce kişi tahliye edildi"
+            }
+          ],
+          "packetSpot" : "Fransa'nın güneybatısındaki orman yangınları, Arcachon Körfezi ve Lège-Cap Ferret yakınlarında yayılarak binlerce turist ve sakinin tahliye edilmesine yol açtı. İtfaiyeciler, geniş orman alanlarını tüketen alevlerle mücadeleye devam ediyor.",
+          "packetTitle" : "Fransa'nın güneybatısında orman yangınları: Tahliyeler ve mücadele",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "illustrationName" : "03BF698B-EA01-5467-960E-74C2B75DD9CF.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un\/",
+              "category" : "Human Rights",
+              "descriptionTR" : "Arktik'ten Pasifik'e kadar yerli savunucular, seslerinin çoğu zaman duyulmadığını söylüyor. Arktik, diğer bölgelere göre dört kat daha hızlı ısınıyor ve bu durum, özellikle Finlandiya'nın Sámi halkını, ren geyiği ve somon gibi geleneksel kaynaklara erişimlerini etkileyerek orantısız bir şekilde etkiliyor. Geçen hafta, Cenevre'de toplanan yüzlerce yerli halk, BM Yerli Halkların Hakları Uzman Mekanizması'nda (EMRIP) bu tehditleri tartıştı. Yerli delegeler, uluslararası müzakerelerde daha fazla söz sahibi olma taleplerini sürdürdü.",
+              "group" : "Indigenous UN representation",
+              "id" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un\/",
+              "link" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Grist",
+                  "url" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un\/"
+                }
+              ],
+              "titleTR" : "İklim değişikliği topraklarını tehdit ederken, yerli uluslar BM'de daha fazla güç talep ediyor"
+            },
+            {
+              "atomID" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples\/",
+              "category" : "Human Rights",
+              "descriptionTR" : "Yeni bir 12 maddelik plan, iklim değişikliği, çatışma ve diğer tehditler yoğunlaşırken yerli hakları, toprakları ve sesleri için daha güçlü korumalar çağrısında bulunuyor. Yerli topluluklar, BM ve dünya hükümetlerinden yerli topraklarını, haklarını ve yaşamlarını korumak için hızlı ve kapsamlı eylemler talep ediyor. Ancak EMRIP'in karşı karşıya olduğu mali kriz, forumun geleceği üzerinde bir gölge oluşturuyor.",
+              "group" : "Indigenous UN protections",
+              "id" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples\/",
+              "link" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Grist",
+                  "url" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples\/"
+                }
+              ],
+              "titleTR" : "Yerli liderler, halklarını korumak için BM'ye yol haritası sundu"
+            }
+          ],
+          "packetSpot" : "Yerli liderler, BM'de daha güçlü korumalar ve daha fazla katılım için savunuculuk yapıyor, karar alma süreçlerinde daha fazla yer almanın iklim ve sömürgecilik sorunlarını ele almak için gerekli olduğunu vurguluyor.",
+          "packetTitle" : "İklim ve sömürgecilik karşısında yerli liderlerin BM'de daha fazla katılım talebi",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        },
+        {
+          "illustrationName" : "15077D30-A0C2-5BEC-B2EC-4EE434A9926D.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/grist.org\/politics\/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments\/",
+              "category" : "Politics",
+              "descriptionTR" : "Donald Trump, Utah'daki Bears Ears ve Grand Staircase-Escalante ulusal anıtlarının boyutlarını önemli ölçüde küçülten iki yürütme emri imzaladı. Bu karar, yerel kabileler ve kamu arazisi savunucuları tarafından kutsal kabul edilen alanların korunmasına yönelik tepkilere yol açtı. Trump'ın kararı, anıtların koruma statüsünü geri getiren Joe Biden yönetiminin adımlarını tersine çeviriyor.",
+              "group" : "Utah monument rollback",
+              "id" : "https:\/\/grist.org\/politics\/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments\/",
+              "link" : "https:\/\/grist.org\/politics\/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Grist",
+                  "url" : "https:\/\/grist.org\/politics\/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments\/"
+                }
+              ],
+              "titleTR" : "Trump, Bears Ears ve Grand Staircase-Escalante anıtlarını yeniden küçültüyor"
+            },
+            {
+              "atomID" : "https:\/\/grist.org\/politics\/utah-national-monuments-trump-bears-ears-minerals\/",
+              "category" : "Politics",
+              "descriptionTR" : "Utah'ın Cumhuriyetçi politikacıları ve Trump yönetimi, Bears Ears anıtının küçültülmesinin yerel halkın isteği olduğunu iddia etti. Ancak yapılan anketler, Utah sakinlerinin çoğunluğunun bu küçültmeye karşı olduğunu gösteriyor. Trump, anıtların boyutlarını önemli ölçüde azaltan yürütme emirlerini Utah'ın Cumhuriyetçi delegasyonunun desteğiyle imzaladı.",
+              "group" : "Utah monument rollback",
+              "id" : "https:\/\/grist.org\/politics\/utah-national-monuments-trump-bears-ears-minerals\/",
+              "link" : "https:\/\/grist.org\/politics\/utah-national-monuments-trump-bears-ears-minerals\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Grist",
+                  "url" : "https:\/\/grist.org\/politics\/utah-national-monuments-trump-bears-ears-minerals\/"
+                }
+              ],
+              "titleTR" : "Utahlıların çoğu ulusal anıtlarını korumak istiyor, Trump'ın planları farklı"
+            }
+          ],
+          "packetSpot" : "Donald Trump'ın Bears Ears ve Grand Staircase-Escalante ulusal anıtlarının boyutlarını küçültme kararı, koruma yanlısı yerel halk ve çevrecilerden tepki gördü.",
+          "packetTitle" : "Trump'ın anıt alanları küçültme kararı tartışma yaratıyor",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 3
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/14\/laos-wildlife-pangolin-scales-bear-bile-and-tiger-bones-tourists-chinese-aoe",
+              "category" : "Security",
+              "descriptionTR" : "The Guardian tarafından elde edilen gizli görüntüler, suç ağlarının hatıra dükkanlarını kullanarak yeni bir Çinli turist akınına yönelik büyüyen bir yaban hayatı ticaretini nasıl gizlediğini gösteriyor. Dükkan karanlık ve ıssız. Kapı açık olsa da sokaktan içeri giren müşteriler beklenmiyor. Ziyaretler muhtemelen randevu ile ve belirli bir müşteri kitlesi tarafından yapılıyor. Bu dükkan, organize bir suç ağının parçası. Satılanlar son derece yasadışı ve inanılmaz derecede etik dışı.",
+              "group" : "Wildlife trafficking Laos",
+              "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/14\/laos-wildlife-pangolin-scales-bear-bile-and-tiger-bones-tourists-chinese-aoe",
+              "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/14\/laos-wildlife-pangolin-scales-bear-bile-and-tiger-bones-tourists-chinese-aoe",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Guardian Environment",
+                  "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/14\/laos-wildlife-pangolin-scales-bear-bile-and-tiger-bones-tourists-chinese-aoe"
+                }
+              ],
+              "titleTR" : "Laos'ta gizli dükkanlar turistlere pangolin pulları, ayı safrası ve kaplan kemikleri satıyor"
+            },
+            {
+              "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/14\/undercover-in-laos-how-chinese-tourism-fuels-animal-trafficking-video",
+              "category" : "Security",
+              "descriptionTR" : "Çin turizmi Laos'ta hızla artıyor ve yasadışı yaban hayatı ticareti de onunla birlikte büyüyor. Pangolin pulları, gergedan boynuzu ve fil dişi, gizli dükkanlar ve restoranlarda satılıyor. Yeni bir yüksek hızlı tren hattı, ülkeye milyonlarca ziyaretçi getiriyor. The Guardian, Çinli aktivistlerle birlikte bu ticaretten kâr sağlayan suç ağlarını araştırmak ve yaban hayatı kaçakçılığının kritik tehlike altındaki pangolini nasıl yok oluşa sürüklediğini ortaya çıkarmak için gizli bir operasyon düzenledi.",
+              "group" : "Wildlife trafficking Laos",
+              "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/14\/undercover-in-laos-how-chinese-tourism-fuels-animal-trafficking-video",
+              "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/14\/undercover-in-laos-how-chinese-tourism-fuels-animal-trafficking-video",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Guardian Environment",
+                  "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/14\/undercover-in-laos-how-chinese-tourism-fuels-animal-trafficking-video"
+                }
+              ],
+              "titleTR" : "Laos'ta gizli çekim: Çin turizmi hayvan kaçakçılığını nasıl körüklüyor"
+            }
+          ],
+          "packetSpot" : "Laos'ta yasadışı yaban hayatı ticaretinin turizmle nasıl beslendiği ortaya çıktı. Hatıra dükkanları ve restoranlar, yaban hayatı ürünlerinin kaçakçılığına karışıyor.",
+          "packetTitle" : "Laos'ta turizmle beslenen yaban hayatı ticareti",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 4
+        },
+        {
+          "illustrationName" : "6FF85FB8-CF7F-5ECE-A6BE-7018129385EC.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.carbonbrief.org\/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
+              "category" : "Science",
+              "descriptionTR" : "2026'nın ilk yarısı geride kalırken, dünya modern kayıtlardaki en hızlı yoğunlaşan El Niño olaylarından birine tanık oluyor. Bu gelişen El Niño, hem bu yıl hem de gelecek yıl için küresel sıcaklık beklentilerini artırıyor. El Niño, tropikal Pasifik'te tekrarlayan bir iklim modelinin sıcak fazı olup, okyanustan atmosfere ısı salarak geçici olarak küresel sıcaklıkları yükseltir ve dünya genelinde yağış ve aşırı hava olaylarını yeniden şekillendirir. Carbon Brief'in Nisan ayında yayımladığı \"iklim durumu\" raporu, 2026'nın yeni bir küresel sıcaklık rekoru kırma ihtimalini %19 olarak belirlemişti. Bu ihtimal şimdi %35'e yükseldi ve bu değişimin neredeyse tamamı, giderek güçlenen El Niño tahminleri tarafından yönlendiriliyor.",
+              "group" : "El Nino record warmth",
+              "id" : "https:\/\/www.carbonbrief.org\/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
+              "link" : "https:\/\/www.carbonbrief.org\/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Carbon Brief",
+                  "url" : "https:\/\/www.carbonbrief.org\/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026"
+                }
+              ],
+              "titleTR" : "Hızla gelişen El Niño, 2026'da rekor sıcaklık ihtimalini artırıyor"
+            },
+            {
+              "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+              "category" : "Science",
+              "descriptionTR" : "Hava durumu fenomeninin daha aşırı hava olayları getireceği uyarıları yapılırken, etkileri zaten bir dizi felaketten etkilenen ülkede hissedilmeye başlandı. Filipinler, aşırı hava koşullarının tuzağında. Burada, önümüzdeki aylarda güçlü bir El Niño tahminleri sadece bir kuraklık dönemi değil, aynı zamanda şiddetli yağmur ve sel anlamına da geliyor. Bu, geçen yılki Tayfun Tino gibi önceki tayfunlardan ve Cebu'da Eylül 2025'te ve Mindanao'da geçen ay meydana gelen iki güçlü depremden hâlâ toparlanmaya çalışan toplulukları tehdit ediyor.",
+              "group" : "Philippines El Nino",
+              "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+              "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Climate Home News",
+                  "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/"
+                }
+              ],
+              "titleTR" : "Güçlü bir El Niño, Filipinler için daha fazla iklim acısı anlamına geliyor"
+            }
+          ],
+          "packetSpot" : "Hızla gelişen bir El Niño, rekor sıcaklıklar ve aşırı hava olayları konusunda endişeleri artırıyor. Küresel sıcaklıklar üzerinde potansiyel etkileri olan bu durum, özellikle Filipinler için belirli zorluklar yaratıyor.",
+          "packetTitle" : "El Niño iklim zorluklarını artırıyor",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 5
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+              "category" : "Energy",
+              "descriptionTR" : "Elektrifikasyon gündemi, Afrika için olağanüstü bir fırsat ve büyük bir zorluk teşkil ediyor. Power Shift Africa'nın kurucusu ve direktörü Mohamed Adow, Londra İklim Eylem Haftası'nda elektrifikasyonun COP31 yolunda iklim politikasının merkezine taşındığını belirtti. Bonn iklim görüşmelerinde ortaya atılan hedefe göre, 2035 yılına kadar dünya enerji tüketiminin %35'i elektrikten sağlanmalı. Bu hedef, Türkiye'de düzenlenecek COP31 için belirleyici bir test olacak.",
+              "group" : "Africa electrification agenda",
+              "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+              "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Climate Home News",
+                  "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Climate Home News",
+                  "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Carbon Brief",
+                  "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens"
+                }
+              ],
+              "titleTR" : "Afrika, Elektrifikasyon Çağına Öncülük Edebilir"
+            }
+          ],
+          "packetSpot" : "COP31'de elektrifikasyon, küresel enerji tüketiminin 2035 yılına kadar %35'inin elektrikten sağlanması hedefiyle merkezi bir strateji olarak öne çıkıyor. Bu gündem, Afrika için hem zorluklar hem de fırsatlar sunuyor; kıta, yenilenebilir enerji sistemleri inşa ederek fayda sağlayabilir. Elektrifikasyonun küresel olarak teşvik edilmesi, fosil yakıtlara bağımlılığı azaltmayı ve enerji güvenliğini artırmayı amaçlıyor. Bu durumun iklim politikaları ve ekonomik kalkınma üzerinde önemli etkileri olacak.",
+          "packetTitle" : "COP31 ve Afrika'nın Kalkınmasında Elektrifikasyonun Rolü",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 6
+        },
+        {
+          "illustrationName" : "542AFEB5-E554-53AF-A2A5-CF3FA8A747A9.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+              "category" : "Health",
+              "descriptionTR" : "Avrupa'da art arda gelen sıcak hava dalgaları, klima kullanımını iklim eylemi üzerindeki uluslararası \"kültür savaşı\"nın yeni bir cephesi haline getirdi. Fransa, Almanya ve İngiltere, bu yaz rekor kıran sıcaklıklar ve binlerce sıcaklık kaynaklı ölüm yaşadı. Bu durum, bu ülkelerde ve genel olarak Avrupa'da klima kullanım oranlarının düşük olmasına dikkat çekti.",
+              "group" : "Europe heat adaptation",
+              "id" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+              "link" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Carbon Brief",
+                  "url" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate"
+                }
+              ],
+              "titleTR" : "Aşırı sıcaklar ve klima kullanımı üzerine sekiz gerçek"
+            },
+            {
+              "atomID" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives\/",
+              "category" : "Health",
+              "descriptionTR" : "Aşırı sıcakların etkileri ülkeler ve şehirler arasında büyük farklılıklar gösteriyor ve veriler kullanılarak özelleştirilen yaklaşımlar, savunmasız gruplara yönelik çözümleri hedefleyebilir. Londra'da düzenlenen İklim Eylem Haftası sırasında, Batı Avrupa'da kaydedilen en şiddetli sıcak hava dalgası yaşandı ve şehirler yerel ısı verilerini kullanarak daha etkili çözümler geliştirebilir.",
+              "group" : "Extreme heat health",
+              "id" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives\/",
+              "link" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives\/",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Climate Home News",
+                  "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives\/"
+                }
+              ],
+              "titleTR" : "Aşırı sıcaklar halk sağlığı krizi haline gelirken, yerel veriler hayat kurtarabilir"
+            }
+          ],
+          "packetSpot" : "Aşırı sıcaklar halk sağlığı krizine dönüşürken, klima kullanımı ve yerel ısı verisi sistemlerinin kullanımı, uyum sağlama yaklaşımlarında farklılıkları öne çıkarıyor. Avrupa'da klima giderek daha gerekli görülürken, yerel veri odaklı stratejiler, savunmasız grupları hedef alarak ısı dalgalarına karşı kentsel direnci artırabilir.",
+          "packetTitle" : "Aşırı sıcaklarla mücadelede klima tartışmaları ve yerel ısı verisi sistemlerinin rolü",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 7
+        }
+      ],
+      "title" : "İklim ve Çevre",
+      "type" : "run"
+    },
     {
       "createdAt" : "2026-07-24T20:41:59Z",
       "id" : "run-2026-W30-1784925719",
@@ -967,6 +1274,305 @@
   ],
   "slots" : [
     {
+      "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+          "category" : "Environment",
+          "descriptionTR" : "Fransa'nın Atlantik kıyısındaki kasaba ve tatil beldelerinden yaklaşık 20.000 kişi, orman yangınlarının yayılması nedeniyle tahliye edildi. Bordeaux'nun güneybatısındaki Lège-Cap Ferret yakınlarındaki yangın, 31 kilometrekarelik bir alana yayıldı. Gironde bölgesi valisi Sophie Brocas, Paris bölgesinden gelen ekiplerle birlikte 700 itfaiyecinin görevlendirildiğini belirtti. Yangın, Lège'deki ilk evlere 300 metre kadar yaklaştı ve su bombaları kullanıldı. Claouey köyü de önlem olarak tahliye edildi. Güney Avrupa, bu yaz birçok büyük yangınla karşı karşıya kaldı. Bilim insanları, iklim değişikliğinin sıcaklık ve kuraklık sıklığını artırarak bölgeyi yangınlara daha duyarlı hale getirdiği konusunda uyarıyor.",
+          "group" : "",
+          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Environment",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/23\/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video"
+            }
+          ],
+          "titleTR" : "Fransa'nın popüler turistik kasabası yakınlarında orman yangını: Binlerce kişi tahliye edildi"
+        }
+      ],
+      "packetSpot" : "Fransa'nın güneybatısındaki orman yangınları, Arcachon Körfezi ve Lège-Cap Ferret yakınlarında yayılarak binlerce turist ve sakinin tahliye edilmesine yol açtı. İtfaiyeciler, geniş orman alanlarını tüketen alevlerle mücadeleye devam ediyor.",
+      "packetTitle" : "Fransa'nın güneybatısında orman yangınları: Tahliyeler ve mücadele",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "03BF698B-EA01-5467-960E-74C2B75DD9CF.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un\/",
+          "category" : "Human Rights",
+          "descriptionTR" : "Arktik'ten Pasifik'e kadar yerli savunucular, seslerinin çoğu zaman duyulmadığını söylüyor. Arktik, diğer bölgelere göre dört kat daha hızlı ısınıyor ve bu durum, özellikle Finlandiya'nın Sámi halkını, ren geyiği ve somon gibi geleneksel kaynaklara erişimlerini etkileyerek orantısız bir şekilde etkiliyor. Geçen hafta, Cenevre'de toplanan yüzlerce yerli halk, BM Yerli Halkların Hakları Uzman Mekanizması'nda (EMRIP) bu tehditleri tartıştı. Yerli delegeler, uluslararası müzakerelerde daha fazla söz sahibi olma taleplerini sürdürdü.",
+          "group" : "Indigenous UN representation",
+          "id" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un\/",
+          "link" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/as-climate-change-threatens-their-lands-indigenous-nations-demand-more-power-at-the-un\/"
+            }
+          ],
+          "titleTR" : "İklim değişikliği topraklarını tehdit ederken, yerli uluslar BM'de daha fazla güç talep ediyor"
+        },
+        {
+          "atomID" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples\/",
+          "category" : "Human Rights",
+          "descriptionTR" : "Yeni bir 12 maddelik plan, iklim değişikliği, çatışma ve diğer tehditler yoğunlaşırken yerli hakları, toprakları ve sesleri için daha güçlü korumalar çağrısında bulunuyor. Yerli topluluklar, BM ve dünya hükümetlerinden yerli topraklarını, haklarını ve yaşamlarını korumak için hızlı ve kapsamlı eylemler talep ediyor. Ancak EMRIP'in karşı karşıya olduğu mali kriz, forumun geleceği üzerinde bir gölge oluşturuyor.",
+          "group" : "Indigenous UN protections",
+          "id" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples\/",
+          "link" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/global-indigenous-affairs-desk\/indigenous-leaders-give-the-un-a-roadmap-for-protecting-their-peoples\/"
+            }
+          ],
+          "titleTR" : "Yerli liderler, halklarını korumak için BM'ye yol haritası sundu"
+        }
+      ],
+      "packetSpot" : "Yerli liderler, BM'de daha güçlü korumalar ve daha fazla katılım için savunuculuk yapıyor, karar alma süreçlerinde daha fazla yer almanın iklim ve sömürgecilik sorunlarını ele almak için gerekli olduğunu vurguluyor.",
+      "packetTitle" : "İklim ve sömürgecilik karşısında yerli liderlerin BM'de daha fazla katılım talebi",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "illustrationName" : "15077D30-A0C2-5BEC-B2EC-4EE434A9926D.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/grist.org\/politics\/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments\/",
+          "category" : "Politics",
+          "descriptionTR" : "Donald Trump, Utah'daki Bears Ears ve Grand Staircase-Escalante ulusal anıtlarının boyutlarını önemli ölçüde küçülten iki yürütme emri imzaladı. Bu karar, yerel kabileler ve kamu arazisi savunucuları tarafından kutsal kabul edilen alanların korunmasına yönelik tepkilere yol açtı. Trump'ın kararı, anıtların koruma statüsünü geri getiren Joe Biden yönetiminin adımlarını tersine çeviriyor.",
+          "group" : "Utah monument rollback",
+          "id" : "https:\/\/grist.org\/politics\/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments\/",
+          "link" : "https:\/\/grist.org\/politics\/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/politics\/trump-again-shrinks-bears-ears-and-grand-staircase-escalante-national-monuments\/"
+            }
+          ],
+          "titleTR" : "Trump, Bears Ears ve Grand Staircase-Escalante anıtlarını yeniden küçültüyor"
+        },
+        {
+          "atomID" : "https:\/\/grist.org\/politics\/utah-national-monuments-trump-bears-ears-minerals\/",
+          "category" : "Politics",
+          "descriptionTR" : "Utah'ın Cumhuriyetçi politikacıları ve Trump yönetimi, Bears Ears anıtının küçültülmesinin yerel halkın isteği olduğunu iddia etti. Ancak yapılan anketler, Utah sakinlerinin çoğunluğunun bu küçültmeye karşı olduğunu gösteriyor. Trump, anıtların boyutlarını önemli ölçüde azaltan yürütme emirlerini Utah'ın Cumhuriyetçi delegasyonunun desteğiyle imzaladı.",
+          "group" : "Utah monument rollback",
+          "id" : "https:\/\/grist.org\/politics\/utah-national-monuments-trump-bears-ears-minerals\/",
+          "link" : "https:\/\/grist.org\/politics\/utah-national-monuments-trump-bears-ears-minerals\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Grist",
+              "url" : "https:\/\/grist.org\/politics\/utah-national-monuments-trump-bears-ears-minerals\/"
+            }
+          ],
+          "titleTR" : "Utahlıların çoğu ulusal anıtlarını korumak istiyor, Trump'ın planları farklı"
+        }
+      ],
+      "packetSpot" : "Donald Trump'ın Bears Ears ve Grand Staircase-Escalante ulusal anıtlarının boyutlarını küçültme kararı, koruma yanlısı yerel halk ve çevrecilerden tepki gördü.",
+      "packetTitle" : "Trump'ın anıt alanları küçültme kararı tartışma yaratıyor",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/14\/laos-wildlife-pangolin-scales-bear-bile-and-tiger-bones-tourists-chinese-aoe",
+          "category" : "Security",
+          "descriptionTR" : "The Guardian tarafından elde edilen gizli görüntüler, suç ağlarının hatıra dükkanlarını kullanarak yeni bir Çinli turist akınına yönelik büyüyen bir yaban hayatı ticaretini nasıl gizlediğini gösteriyor. Dükkan karanlık ve ıssız. Kapı açık olsa da sokaktan içeri giren müşteriler beklenmiyor. Ziyaretler muhtemelen randevu ile ve belirli bir müşteri kitlesi tarafından yapılıyor. Bu dükkan, organize bir suç ağının parçası. Satılanlar son derece yasadışı ve inanılmaz derecede etik dışı.",
+          "group" : "Wildlife trafficking Laos",
+          "id" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/14\/laos-wildlife-pangolin-scales-bear-bile-and-tiger-bones-tourists-chinese-aoe",
+          "link" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/14\/laos-wildlife-pangolin-scales-bear-bile-and-tiger-bones-tourists-chinese-aoe",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Environment",
+              "url" : "https:\/\/www.theguardian.com\/environment\/2026\/jul\/14\/laos-wildlife-pangolin-scales-bear-bile-and-tiger-bones-tourists-chinese-aoe"
+            }
+          ],
+          "titleTR" : "Laos'ta gizli dükkanlar turistlere pangolin pulları, ayı safrası ve kaplan kemikleri satıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/14\/undercover-in-laos-how-chinese-tourism-fuels-animal-trafficking-video",
+          "category" : "Security",
+          "descriptionTR" : "Çin turizmi Laos'ta hızla artıyor ve yasadışı yaban hayatı ticareti de onunla birlikte büyüyor. Pangolin pulları, gergedan boynuzu ve fil dişi, gizli dükkanlar ve restoranlarda satılıyor. Yeni bir yüksek hızlı tren hattı, ülkeye milyonlarca ziyaretçi getiriyor. The Guardian, Çinli aktivistlerle birlikte bu ticaretten kâr sağlayan suç ağlarını araştırmak ve yaban hayatı kaçakçılığının kritik tehlike altındaki pangolini nasıl yok oluşa sürüklediğini ortaya çıkarmak için gizli bir operasyon düzenledi.",
+          "group" : "Wildlife trafficking Laos",
+          "id" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/14\/undercover-in-laos-how-chinese-tourism-fuels-animal-trafficking-video",
+          "link" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/14\/undercover-in-laos-how-chinese-tourism-fuels-animal-trafficking-video",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Environment",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/14\/undercover-in-laos-how-chinese-tourism-fuels-animal-trafficking-video"
+            }
+          ],
+          "titleTR" : "Laos'ta gizli çekim: Çin turizmi hayvan kaçakçılığını nasıl körüklüyor"
+        }
+      ],
+      "packetSpot" : "Laos'ta yasadışı yaban hayatı ticaretinin turizmle nasıl beslendiği ortaya çıktı. Hatıra dükkanları ve restoranlar, yaban hayatı ürünlerinin kaçakçılığına karışıyor.",
+      "packetTitle" : "Laos'ta turizmle beslenen yaban hayatı ticareti",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "illustrationName" : "6FF85FB8-CF7F-5ECE-A6BE-7018129385EC.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.carbonbrief.org\/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
+          "category" : "Science",
+          "descriptionTR" : "2026'nın ilk yarısı geride kalırken, dünya modern kayıtlardaki en hızlı yoğunlaşan El Niño olaylarından birine tanık oluyor. Bu gelişen El Niño, hem bu yıl hem de gelecek yıl için küresel sıcaklık beklentilerini artırıyor. El Niño, tropikal Pasifik'te tekrarlayan bir iklim modelinin sıcak fazı olup, okyanustan atmosfere ısı salarak geçici olarak küresel sıcaklıkları yükseltir ve dünya genelinde yağış ve aşırı hava olaylarını yeniden şekillendirir. Carbon Brief'in Nisan ayında yayımladığı \"iklim durumu\" raporu, 2026'nın yeni bir küresel sıcaklık rekoru kırma ihtimalini %19 olarak belirlemişti. Bu ihtimal şimdi %35'e yükseldi ve bu değişimin neredeyse tamamı, giderek güçlenen El Niño tahminleri tarafından yönlendiriliyor.",
+          "group" : "El Nino record warmth",
+          "id" : "https:\/\/www.carbonbrief.org\/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
+          "link" : "https:\/\/www.carbonbrief.org\/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026"
+            }
+          ],
+          "titleTR" : "Hızla gelişen El Niño, 2026'da rekor sıcaklık ihtimalini artırıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+          "category" : "Science",
+          "descriptionTR" : "Hava durumu fenomeninin daha aşırı hava olayları getireceği uyarıları yapılırken, etkileri zaten bir dizi felaketten etkilenen ülkede hissedilmeye başlandı. Filipinler, aşırı hava koşullarının tuzağında. Burada, önümüzdeki aylarda güçlü bir El Niño tahminleri sadece bir kuraklık dönemi değil, aynı zamanda şiddetli yağmur ve sel anlamına da geliyor. Bu, geçen yılki Tayfun Tino gibi önceki tayfunlardan ve Cebu'da Eylül 2025'te ve Mindanao'da geçen ay meydana gelen iki güçlü depremden hâlâ toparlanmaya çalışan toplulukları tehdit ediyor.",
+          "group" : "Philippines El Nino",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/14\/a-strong-el-nino-spells-more-climate-pain-for-the-philippines\/"
+            }
+          ],
+          "titleTR" : "Güçlü bir El Niño, Filipinler için daha fazla iklim acısı anlamına geliyor"
+        }
+      ],
+      "packetSpot" : "Hızla gelişen bir El Niño, rekor sıcaklıklar ve aşırı hava olayları konusunda endişeleri artırıyor. Küresel sıcaklıklar üzerinde potansiyel etkileri olan bu durum, özellikle Filipinler için belirli zorluklar yaratıyor.",
+      "packetTitle" : "El Niño iklim zorluklarını artırıyor",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "category" : "Energy",
+          "descriptionTR" : "Elektrifikasyon gündemi, Afrika için olağanüstü bir fırsat ve büyük bir zorluk teşkil ediyor. Power Shift Africa'nın kurucusu ve direktörü Mohamed Adow, Londra İklim Eylem Haftası'nda elektrifikasyonun COP31 yolunda iklim politikasının merkezine taşındığını belirtti. Bonn iklim görüşmelerinde ortaya atılan hedefe göre, 2035 yılına kadar dünya enerji tüketiminin %35'i elektrikten sağlanmalı. Bu hedef, Türkiye'de düzenlenecek COP31 için belirleyici bir test olacak.",
+          "group" : "Africa electrification agenda",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens"
+            }
+          ],
+          "titleTR" : "Afrika, Elektrifikasyon Çağına Öncülük Edebilir"
+        }
+      ],
+      "packetSpot" : "COP31'de elektrifikasyon, küresel enerji tüketiminin 2035 yılına kadar %35'inin elektrikten sağlanması hedefiyle merkezi bir strateji olarak öne çıkıyor. Bu gündem, Afrika için hem zorluklar hem de fırsatlar sunuyor; kıta, yenilenebilir enerji sistemleri inşa ederek fayda sağlayabilir. Elektrifikasyonun küresel olarak teşvik edilmesi, fosil yakıtlara bağımlılığı azaltmayı ve enerji güvenliğini artırmayı amaçlıyor. Bu durumun iklim politikaları ve ekonomik kalkınma üzerinde önemli etkileri olacak.",
+      "packetTitle" : "COP31 ve Afrika'nın Kalkınmasında Elektrifikasyonun Rolü",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "illustrationName" : "542AFEB5-E554-53AF-A2A5-CF3FA8A747A9.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+          "category" : "Health",
+          "descriptionTR" : "Avrupa'da art arda gelen sıcak hava dalgaları, klima kullanımını iklim eylemi üzerindeki uluslararası \"kültür savaşı\"nın yeni bir cephesi haline getirdi. Fransa, Almanya ve İngiltere, bu yaz rekor kıran sıcaklıklar ve binlerce sıcaklık kaynaklı ölüm yaşadı. Bu durum, bu ülkelerde ve genel olarak Avrupa'da klima kullanım oranlarının düşük olmasına dikkat çekti.",
+          "group" : "Europe heat adaptation",
+          "id" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+          "link" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/eight-facts-about-air-conditioning-amid-an-overheated-global-debate"
+            }
+          ],
+          "titleTR" : "Aşırı sıcaklar ve klima kullanımı üzerine sekiz gerçek"
+        },
+        {
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives\/",
+          "category" : "Health",
+          "descriptionTR" : "Aşırı sıcakların etkileri ülkeler ve şehirler arasında büyük farklılıklar gösteriyor ve veriler kullanılarak özelleştirilen yaklaşımlar, savunmasız gruplara yönelik çözümleri hedefleyebilir. Londra'da düzenlenen İklim Eylem Haftası sırasında, Batı Avrupa'da kaydedilen en şiddetli sıcak hava dalgası yaşandı ve şehirler yerel ısı verilerini kullanarak daha etkili çözümler geliştirebilir.",
+          "group" : "Extreme heat health",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/30\/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives\/"
+            }
+          ],
+          "titleTR" : "Aşırı sıcaklar halk sağlığı krizi haline gelirken, yerel veriler hayat kurtarabilir"
+        }
+      ],
+      "packetSpot" : "Aşırı sıcaklar halk sağlığı krizine dönüşürken, klima kullanımı ve yerel ısı verisi sistemlerinin kullanımı, uyum sağlama yaklaşımlarında farklılıkları öne çıkarıyor. Avrupa'da klima giderek daha gerekli görülürken, yerel veri odaklı stratejiler, savunmasız grupları hedef alarak ısı dalgalarına karşı kentsel direnci artırabilir.",
+      "packetTitle" : "Aşırı sıcaklarla mücadelede klima tartışmaları ve yerel ısı verisi sistemlerinin rolü",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
       "items" : [
         {
           "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
@@ -1009,7 +1615,7 @@
       "packetTitle" : "Klasik filmler yeniden hayat buluyor",
       "publishedAt" : "2026-07-24T20:41:59Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 8
     },
     {
       "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
@@ -1055,7 +1661,7 @@
       "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
       "publishedAt" : "2026-07-24T20:41:59Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 9
     },
     {
       "items" : [
@@ -1118,7 +1724,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış ABD finansal göstergelerini etkiliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 10
     },
     {
       "items" : [
@@ -1181,7 +1787,7 @@
       "packetTitle" : "Orta Doğu'daki çatışmalar petrol fiyatlarını ve gerilimleri artırıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 11
     },
     {
       "items" : [
@@ -1244,7 +1850,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış piyasaları sarsıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
+      "slot" : 12
     },
     {
       "items" : [
@@ -1307,381 +1913,381 @@
       "packetTitle" : "Büyük teknoloji şirketlerinin AI harcamaları borsa tepkilerini tetikliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 6
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "category" : "Energy",
-          "descriptionTR" : "Petrol fiyatları, Kızıldeniz'deki tanker saldırıları ve Başkan Donald Trump'ın İran'a karşı \"büyük bir saldırı\" tehdidinde bulunmasının ardından Perşembe günü yükseldi. Brent ham petrol vadeli işlemleri, 26 Mayıs'tan bu yana ilk kez varil başına 100 doları aştı. Uluslararası gösterge, yaklaşık %7 artışla 100.69 dolara ulaştı. ABD Batı Teksas Orta Vadeli ham petrolü ise %6 artışla 92.19 dolara yerleşti. Bu ay Orta Doğu'daki çatışmaların keskin bir şekilde artmasıyla petrol fiyatları %30'dan fazla yükseldi. Yemen'deki İran'ın Husi müttefikleri, bu hafta Riyad'a karşı ilan ettikleri deniz ablukasını ihlal ettikleri gerekçesiyle iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını söyledi. Trump, Kızıldeniz'deki gemilere yönelik gelecekteki Husi saldırılarından İran'ı sorumlu tutacaklarını belirterek, Tahran ve Yemen'deki militanlara \"büyük askeri ceza\" vereceklerini söyledi. Başkan, Axios'a verdiği bir röportajda İran'a karşı \"büyük bir saldırı\" düşündüğünü söyledi. \"Her zamankinden daha büyük. Karar vermeye yakınım. Bunun için tamamen hazırız,\" dedi Trump. Tanker saldırıları, Trump'ın ABD'nin Hürmüz Boğazı'ndaki bir gemiye saldırması durumunda İran'daki bir köprü veya enerji santralini yok edeceği uyarısından saatler sonra gerçekleşti. İran, Washington'un bu tür saldırıları gerçekleştirmesi durumunda, ABD ile bağlantılı altyapı ve enerji varlıklarına karşı misilleme yapacağını belirtti. \"Amerikalılar İran'da bir köprü veya enerji santralini hedef alırsa, İran da bölgede ABD'nin çıkarlarının bulunduğu altyapı ve köprüleri vuracaktır,\" dedi ismi açıklanmayan bir İran askeri kaynağı, devlet tarafından yönetilen Tasnim Haber Ajansı'na. ABD'nin İran'la savaşı, çatışmaların Kızıldeniz'e yayılması ve İran'ın Körfez'deki kritik altyapıları hedef almasıyla daha tehlikeli bir aşamaya girdi, dedi RBC Capital Markets'ta küresel emtia stratejisi başkanı Helima Croft. Orta Doğu'da aşırı baskı oluşuyor ve bu, Brent petrol fiyatlarını Rusya'nın Ukrayna'yı işgal ettiği 2022'deki 128 dolarlık zirvenin üzerine çıkarabilir, dedi Croft. Brent, Orta Doğu'da tam ölçekli bir bölgesel savaşın en kötü senaryosunda 2008'deki 146 dolarlık zirveyi bile aşabilir, dedi analist. Ukrayna-Rusya savaşı da küresel petrol piyasaları üzerinde baskı oluşturuyor, dedi Croft. Kiev, bu ay Karadeniz ve Azak Denizi'nde 150'den fazla tankere saldırdı, dedi. Tanker saldırıları, Hazar Boru Hattı Konsorsiyumu'nun Karadeniz terminalinde ham petrol yüklemesini durdurmasına neden oldu. Kazakistan'ın ham petrolünün yaklaşık %80'i bu boru hattı üzerinden ihraç ediliyor, dedi Croft. \"Kapanışın süresi belirsiz, ancak Kazakistan için alternatif rotalar sınırlı (ve CPC'yi tamamen telafi etmesi olası değil), bu da üretimin (Haziran ayında 1.7 mb\/d) durdurulabileceği anlamına geliyor,\" dedi analist.",
-          "group" : "Red Sea oil shock",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
-            }
-          ],
-          "titleTR" : "23 Temmuz için en son petrol piyasası haberleri ve analizleri"
-        }
-      ],
-      "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
-      "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 7
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "category" : "Politics",
-          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
-            }
-          ],
-          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Politics",
-          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
-            }
-          ],
-          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
-        }
-      ],
-      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
-      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 8
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "category" : "Economy",
-          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
-          "group" : "Fed rate hike outlook",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
-            }
-          ],
-          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "category" : "Economy",
-          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
-          "group" : "ECB inflation pressure",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
-            }
-          ],
-          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "category" : "Economy",
-          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
-          "group" : "Oil and inflation pressure",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
-            }
-          ],
-          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
-        }
-      ],
-      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
-      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 9
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "category" : "Technology",
-          "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, her iki şirketin de yapay zeka harcamalarını artırma sinyali vermesi üzerine Perşembe günü düştü. Tesla'nın hisseleri %14, Alphabet'in ise %6'dan fazla değer kaybetti. Her iki şirket de ikinci çeyrek için negatif serbest nakit akışı bildirdi. Alphabet, bu yılki sermaye harcaması tahminini 195-205 milyar dolar aralığına yükseltti. Tesla ise sermaye harcamalarının yıllık bazda %142 artarak 5.79 milyar dolara ulaştığını açıkladı. Şirket yöneticileri, yatırımcı endişelerini yatıştırmaya çalıştı. Tesla CEO'su Elon Musk, yatırımların gelecekte büyük getiriler sağlayacağına inandığını belirtti.",
-          "group" : "AI spending concerns",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
-            }
-          ],
-          "titleTR" : "Tesla %14, Alphabet %6 değer kaybetti; yapay zeka harcamaları yatırımcıları korkuttu"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "category" : "Technology",
-          "descriptionTR" : "Alphabet ve Tesla, çarşamba günü teknoloji kazanç sezonunu başlattıklarında, yapay zeka harcamalarının dikkatle izlendiği bir tema ortaya çıktı. Her iki şirket de negatif serbest nakit akışı bildirdi ve yatırımcıları daha yüksek sermaye harcamalarına hazırlıklı olmaları konusunda uyardı. Tesla'nın hisseleri %4, Alphabet'in ise %3'ten fazla değer kaybetti. Bu durum, teknoloji sektörünün diğer büyük şirketleri için potansiyel olarak karamsar bir işaret olabilir. Alphabet ve Tesla'nın agresif büyüme planları, nakit rezervlerine büyük bir darbe vuruyor.",
-          "group" : "Big Tech AI spending",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
-            }
-          ],
-          "titleTR" : "Alphabet ve Tesla'nın yapay zeka harcamaları Wall Street'in sabrını zorluyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "category" : "Technology",
-          "descriptionTR" : "Alphabet ve Tesla'nın sonuçları, üç yılı aşkın süredir borsa performansını yönlendiren yapay zeka ticaretinin dayanıklılığına dair şüpheler uyandırıyor. Bloomberg Magnificent 7 Endeksi, Perşembe günü %4.8 düşerek yaklaşık 767 milyar dolarlık piyasa değerini sildi. Düşüşler, Çarşamba günü kazanç raporlarıyla Wall Street'i korkutan Tesla ve Alphabet tarafından yönetildi.",
-          "group" : "AI and oil selloff",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
-            }
-          ],
-          "titleTR" : "Magnificent 7, yapay zeka şüphecileri teknoloji hisselerini satarken 767 milyar dolar kaybetti"
-        }
-      ],
-      "packetSpot" : "Yapay zeka harcamalarına dair endişeler, Tesla ve Alphabet gibi şirketlerin hisselerinde önemli düşüşlere yol açarak yatırımcı güvenini ve piyasa performansını etkiliyor.",
-      "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 10
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "category" : "Law",
-          "descriptionTR" : "Adalet Bakanlığı, Başkan Donald Trump'ın yeni Air Force One uçağı hakkında bir makaleye dahil olan New York Times muhabirleri için aldığı celpleri geri çekiyor. Bu hamle, Manhattan'daki ABD Bölge Mahkemesi'nde, Times'ın gazetecilerini hedef alan celpleri iptal etme talebini değerlendiren Yargıç Arun Subramanian önünde gerçekleşti. Celpler, Trump tarafından ulusal istihbarat direktörü olarak aday gösterilen Manhattan ABD Savcısı Jay Clayton tarafından çıkarılmıştı. Times, DOJ'un üçüncü taraf telefon hizmeti sağlayıcılarına gazetecilerin telefon ve mesaj kayıtlarını talep eden celpler gönderdiğini bildirdi.",
-          "group" : "Trump media probe",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
-            }
-          ],
-          "titleTR" : "Adalet Bakanlığı, Trump uçağı soruşturmasında NY Times muhabirlerine yönelik celpleri geri çekti"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "category" : "Law",
-          "descriptionTR" : "Temsilciler Meclisi Denetim Komitesi Başkanı James Comer, eski JPMorgan Chase yatırım bankacılığı şefi Jes Staley'nin, cinsel suçlu Jeffrey Epstein'ı müşteri olarak tutmaya teşvik ettiğini söyledi. Staley, JPMorgan'daki üç on yılı aşkın kariyeri boyunca Epstein'ın özel bankacısı olarak görev yaptı ve onunla yakın bir kişisel ilişki sürdürdü. İngiltere düzenleyicileri, Staley'nin Epstein ile olan ilişkisini yanlış tanıttığı için İngiltere finans sektöründen men edilmesine karar verdi. JPMorgan, Epstein'ın mağdurlarıyla ilgili davaları 290 milyon dolara ve ABD Virgin Adaları tarafından açılan ayrı bir davayı 75 milyon dolara çözmek için anlaşmaya vardı.",
-          "group" : "Epstein banking scrutiny",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
-            }
-          ],
-          "titleTR" : "Temsilciler Meclisi üyeleri, Epstein bağlantıları nedeniyle Jes Staley'i sorguladı"
-        }
-      ],
-      "packetSpot" : "Adalet Bakanlığı, Trump'la ilgili bir soruşturma kapsamında New York Times muhabirlerine yönelik celpleri geri çekti. Aynı zamanda, Temsilciler Meclisi üyeleri, Jeffrey Epstein ile bağlantıları nedeniyle eski JPMorgan yöneticisi Jes Staley'i sorguladı. Bu gelişmeler, yüksek profilli figürlerin dahil olduğu devam eden soruşturmaları yansıtıyor.",
-      "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 11
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Security",
-          "descriptionTR" : "Yemenli Husiler, deniz ablukasını ihlal ettiği iddiasıyla iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını açıkladı.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
-            }
-          ],
-          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacaklarını söyledi"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
-          "category" : "Security",
-          "descriptionTR" : "Suudi Arabistan petrolü yüklü iki Çin'e ait petrol tankeri, Husi saldırılarına rağmen Bab el-Mandeb boğazından geçerek Kızıldeniz'den çıktı.",
-          "group" : "Red Sea shipping risk",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks"
-            }
-          ],
-          "titleTR" : "Çin tankeri, Husi tehdidine rağmen Kızıldeniz boğazından geçti"
-        }
-      ],
-      "packetSpot" : "Kızıldeniz'deki Husi saldırıları deniz trafiğini etkiliyor. Çin'e ait petrol tankerleri, tehditlere rağmen geçiş yaparken, Trump bu saldırılardan İran'ı sorumlu tuttuğunu açıkladı.",
-      "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 12
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "category" : "Energy",
-          "descriptionTR" : "Petrol fiyatları, Kızıldeniz'deki tanker saldırıları ve Başkan Donald Trump'ın İran'a karşı \"büyük bir saldırı\" tehdidinde bulunmasının ardından Perşembe günü yükseldi. Brent ham petrol vadeli işlemleri, 26 Mayıs'tan bu yana ilk kez varil başına 100 doları aştı. Uluslararası gösterge, yaklaşık %7 artışla 100.69 dolara ulaştı. ABD Batı Teksas Orta Vadeli ham petrolü ise %6 artışla 92.19 dolara yerleşti. Bu ay Orta Doğu'daki çatışmaların keskin bir şekilde artmasıyla petrol fiyatları %30'dan fazla yükseldi. Yemen'deki İran'ın Husi müttefikleri, bu hafta Riyad'a karşı ilan ettikleri deniz ablukasını ihlal ettikleri gerekçesiyle iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını söyledi. Trump, Kızıldeniz'deki gemilere yönelik gelecekteki Husi saldırılarından İran'ı sorumlu tutacaklarını belirterek, Tahran ve Yemen'deki militanlara \"büyük askeri ceza\" vereceklerini söyledi. Başkan, Axios'a verdiği bir röportajda İran'a karşı \"büyük bir saldırı\" düşündüğünü söyledi. \"Her zamankinden daha büyük. Karar vermeye yakınım. Bunun için tamamen hazırız,\" dedi Trump. Tanker saldırıları, Trump'ın ABD'nin Hürmüz Boğazı'ndaki bir gemiye saldırması durumunda İran'daki bir köprü veya enerji santralini yok edeceği uyarısından saatler sonra gerçekleşti. İran, Washington'un bu tür saldırıları gerçekleştirmesi durumunda, ABD ile bağlantılı altyapı ve enerji varlıklarına karşı misilleme yapacağını belirtti. \"Amerikalılar İran'da bir köprü veya enerji santralini hedef alırsa, İran da bölgede ABD'nin çıkarlarının bulunduğu altyapı ve köprüleri vuracaktır,\" dedi ismi açıklanmayan bir İran askeri kaynağı, devlet tarafından yönetilen Tasnim Haber Ajansı'na. ABD'nin İran'la savaşı, çatışmaların Kızıldeniz'e yayılması ve İran'ın Körfez'deki kritik altyapıları hedef almasıyla daha tehlikeli bir aşamaya girdi, dedi RBC Capital Markets'ta küresel emtia stratejisi başkanı Helima Croft. Orta Doğu'da aşırı baskı oluşuyor ve bu, Brent petrol fiyatlarını Rusya'nın Ukrayna'yı işgal ettiği 2022'deki 128 dolarlık zirvenin üzerine çıkarabilir, dedi Croft. Brent, Orta Doğu'da tam ölçekli bir bölgesel savaşın en kötü senaryosunda 2008'deki 146 dolarlık zirveyi bile aşabilir, dedi analist. Ukrayna-Rusya savaşı da küresel petrol piyasaları üzerinde baskı oluşturuyor, dedi Croft. Kiev, bu ay Karadeniz ve Azak Denizi'nde 150'den fazla tankere saldırdı, dedi. Tanker saldırıları, Hazar Boru Hattı Konsorsiyumu'nun Karadeniz terminalinde ham petrol yüklemesini durdurmasına neden oldu. Kazakistan'ın ham petrolünün yaklaşık %80'i bu boru hattı üzerinden ihraç ediliyor, dedi Croft. \"Kapanışın süresi belirsiz, ancak Kazakistan için alternatif rotalar sınırlı (ve CPC'yi tamamen telafi etmesi olası değil), bu da üretimin (Haziran ayında 1.7 mb\/d) durdurulabileceği anlamına geliyor,\" dedi analist.",
-          "group" : "Red Sea oil shock",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:09:28Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
-            }
-          ],
-          "titleTR" : "23 Temmuz için en son petrol piyasası haberleri ve analizleri"
-        }
-      ],
-      "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
-      "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
-      "publishedAt" : "2026-07-23T20:09:28Z",
-      "sessionID" : "publish-draft",
       "slot" : 13
     },
     {
       "items" : [
         {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "category" : "Politics",
-          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "category" : "Energy",
+          "descriptionTR" : "Petrol fiyatları, Kızıldeniz'deki tanker saldırıları ve Başkan Donald Trump'ın İran'a karşı \"büyük bir saldırı\" tehdidinde bulunmasının ardından Perşembe günü yükseldi. Brent ham petrol vadeli işlemleri, 26 Mayıs'tan bu yana ilk kez varil başına 100 doları aştı. Uluslararası gösterge, yaklaşık %7 artışla 100.69 dolara ulaştı. ABD Batı Teksas Orta Vadeli ham petrolü ise %6 artışla 92.19 dolara yerleşti. Bu ay Orta Doğu'daki çatışmaların keskin bir şekilde artmasıyla petrol fiyatları %30'dan fazla yükseldi. Yemen'deki İran'ın Husi müttefikleri, bu hafta Riyad'a karşı ilan ettikleri deniz ablukasını ihlal ettikleri gerekçesiyle iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını söyledi. Trump, Kızıldeniz'deki gemilere yönelik gelecekteki Husi saldırılarından İran'ı sorumlu tutacaklarını belirterek, Tahran ve Yemen'deki militanlara \"büyük askeri ceza\" vereceklerini söyledi. Başkan, Axios'a verdiği bir röportajda İran'a karşı \"büyük bir saldırı\" düşündüğünü söyledi. \"Her zamankinden daha büyük. Karar vermeye yakınım. Bunun için tamamen hazırız,\" dedi Trump. Tanker saldırıları, Trump'ın ABD'nin Hürmüz Boğazı'ndaki bir gemiye saldırması durumunda İran'daki bir köprü veya enerji santralini yok edeceği uyarısından saatler sonra gerçekleşti. İran, Washington'un bu tür saldırıları gerçekleştirmesi durumunda, ABD ile bağlantılı altyapı ve enerji varlıklarına karşı misilleme yapacağını belirtti. \"Amerikalılar İran'da bir köprü veya enerji santralini hedef alırsa, İran da bölgede ABD'nin çıkarlarının bulunduğu altyapı ve köprüleri vuracaktır,\" dedi ismi açıklanmayan bir İran askeri kaynağı, devlet tarafından yönetilen Tasnim Haber Ajansı'na. ABD'nin İran'la savaşı, çatışmaların Kızıldeniz'e yayılması ve İran'ın Körfez'deki kritik altyapıları hedef almasıyla daha tehlikeli bir aşamaya girdi, dedi RBC Capital Markets'ta küresel emtia stratejisi başkanı Helima Croft. Orta Doğu'da aşırı baskı oluşuyor ve bu, Brent petrol fiyatlarını Rusya'nın Ukrayna'yı işgal ettiği 2022'deki 128 dolarlık zirvenin üzerine çıkarabilir, dedi Croft. Brent, Orta Doğu'da tam ölçekli bir bölgesel savaşın en kötü senaryosunda 2008'deki 146 dolarlık zirveyi bile aşabilir, dedi analist. Ukrayna-Rusya savaşı da küresel petrol piyasaları üzerinde baskı oluşturuyor, dedi Croft. Kiev, bu ay Karadeniz ve Azak Denizi'nde 150'den fazla tankere saldırdı, dedi. Tanker saldırıları, Hazar Boru Hattı Konsorsiyumu'nun Karadeniz terminalinde ham petrol yüklemesini durdurmasına neden oldu. Kazakistan'ın ham petrolünün yaklaşık %80'i bu boru hattı üzerinden ihraç ediliyor, dedi Croft. \"Kapanışın süresi belirsiz, ancak Kazakistan için alternatif rotalar sınırlı (ve CPC'yi tamamen telafi etmesi olası değil), bu da üretimin (Haziran ayında 1.7 mb\/d) durdurulabileceği anlamına geliyor,\" dedi analist.",
+          "group" : "Red Sea oil shock",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
           "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:09:28Z",
+          "publishedAt" : "2026-07-23T20:11:27Z",
           "sources" : [
             {
               "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
-            }
-          ],
-          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Politics",
-          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:09:28Z",
-          "sources" : [
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+            },
             {
               "originalLanguage" : "en",
               "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
             }
           ],
-          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
+          "titleTR" : "23 Temmuz için en son petrol piyasası haberleri ve analizleri"
         }
       ],
-      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
-      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
-      "publishedAt" : "2026-07-23T20:09:28Z",
+      "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
+      "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
       "slot" : 14
     },
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
+        }
+      ],
+      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
+      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 15
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
+          "group" : "Fed rate hike outlook",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+            }
+          ],
+          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "category" : "Economy",
+          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
+          "group" : "ECB inflation pressure",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+            }
+          ],
+          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "category" : "Economy",
+          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
+          "group" : "Oil and inflation pressure",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+            }
+          ],
+          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
+        }
+      ],
+      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
+      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 16
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, her iki şirketin de yapay zeka harcamalarını artırma sinyali vermesi üzerine Perşembe günü düştü. Tesla'nın hisseleri %14, Alphabet'in ise %6'dan fazla değer kaybetti. Her iki şirket de ikinci çeyrek için negatif serbest nakit akışı bildirdi. Alphabet, bu yılki sermaye harcaması tahminini 195-205 milyar dolar aralığına yükseltti. Tesla ise sermaye harcamalarının yıllık bazda %142 artarak 5.79 milyar dolara ulaştığını açıkladı. Şirket yöneticileri, yatırımcı endişelerini yatıştırmaya çalıştı. Tesla CEO'su Elon Musk, yatırımların gelecekte büyük getiriler sağlayacağına inandığını belirtti.",
+          "group" : "AI spending concerns",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+            }
+          ],
+          "titleTR" : "Tesla %14, Alphabet %6 değer kaybetti; yapay zeka harcamaları yatırımcıları korkuttu"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla, çarşamba günü teknoloji kazanç sezonunu başlattıklarında, yapay zeka harcamalarının dikkatle izlendiği bir tema ortaya çıktı. Her iki şirket de negatif serbest nakit akışı bildirdi ve yatırımcıları daha yüksek sermaye harcamalarına hazırlıklı olmaları konusunda uyardı. Tesla'nın hisseleri %4, Alphabet'in ise %3'ten fazla değer kaybetti. Bu durum, teknoloji sektörünün diğer büyük şirketleri için potansiyel olarak karamsar bir işaret olabilir. Alphabet ve Tesla'nın agresif büyüme planları, nakit rezervlerine büyük bir darbe vuruyor.",
+          "group" : "Big Tech AI spending",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+            }
+          ],
+          "titleTR" : "Alphabet ve Tesla'nın yapay zeka harcamaları Wall Street'in sabrını zorluyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla'nın sonuçları, üç yılı aşkın süredir borsa performansını yönlendiren yapay zeka ticaretinin dayanıklılığına dair şüpheler uyandırıyor. Bloomberg Magnificent 7 Endeksi, Perşembe günü %4.8 düşerek yaklaşık 767 milyar dolarlık piyasa değerini sildi. Düşüşler, Çarşamba günü kazanç raporlarıyla Wall Street'i korkutan Tesla ve Alphabet tarafından yönetildi.",
+          "group" : "AI and oil selloff",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+            }
+          ],
+          "titleTR" : "Magnificent 7, yapay zeka şüphecileri teknoloji hisselerini satarken 767 milyar dolar kaybetti"
+        }
+      ],
+      "packetSpot" : "Yapay zeka harcamalarına dair endişeler, Tesla ve Alphabet gibi şirketlerin hisselerinde önemli düşüşlere yol açarak yatırımcı güvenini ve piyasa performansını etkiliyor.",
+      "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 17
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "category" : "Law",
+          "descriptionTR" : "Adalet Bakanlığı, Başkan Donald Trump'ın yeni Air Force One uçağı hakkında bir makaleye dahil olan New York Times muhabirleri için aldığı celpleri geri çekiyor. Bu hamle, Manhattan'daki ABD Bölge Mahkemesi'nde, Times'ın gazetecilerini hedef alan celpleri iptal etme talebini değerlendiren Yargıç Arun Subramanian önünde gerçekleşti. Celpler, Trump tarafından ulusal istihbarat direktörü olarak aday gösterilen Manhattan ABD Savcısı Jay Clayton tarafından çıkarılmıştı. Times, DOJ'un üçüncü taraf telefon hizmeti sağlayıcılarına gazetecilerin telefon ve mesaj kayıtlarını talep eden celpler gönderdiğini bildirdi.",
+          "group" : "Trump media probe",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
+            }
+          ],
+          "titleTR" : "Adalet Bakanlığı, Trump uçağı soruşturmasında NY Times muhabirlerine yönelik celpleri geri çekti"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "category" : "Law",
+          "descriptionTR" : "Temsilciler Meclisi Denetim Komitesi Başkanı James Comer, eski JPMorgan Chase yatırım bankacılığı şefi Jes Staley'nin, cinsel suçlu Jeffrey Epstein'ı müşteri olarak tutmaya teşvik ettiğini söyledi. Staley, JPMorgan'daki üç on yılı aşkın kariyeri boyunca Epstein'ın özel bankacısı olarak görev yaptı ve onunla yakın bir kişisel ilişki sürdürdü. İngiltere düzenleyicileri, Staley'nin Epstein ile olan ilişkisini yanlış tanıttığı için İngiltere finans sektöründen men edilmesine karar verdi. JPMorgan, Epstein'ın mağdurlarıyla ilgili davaları 290 milyon dolara ve ABD Virgin Adaları tarafından açılan ayrı bir davayı 75 milyon dolara çözmek için anlaşmaya vardı.",
+          "group" : "Epstein banking scrutiny",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
+            }
+          ],
+          "titleTR" : "Temsilciler Meclisi üyeleri, Epstein bağlantıları nedeniyle Jes Staley'i sorguladı"
+        }
+      ],
+      "packetSpot" : "Adalet Bakanlığı, Trump'la ilgili bir soruşturma kapsamında New York Times muhabirlerine yönelik celpleri geri çekti. Aynı zamanda, Temsilciler Meclisi üyeleri, Jeffrey Epstein ile bağlantıları nedeniyle eski JPMorgan yöneticisi Jes Staley'i sorguladı. Bu gelişmeler, yüksek profilli figürlerin dahil olduğu devam eden soruşturmaları yansıtıyor.",
+      "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 18
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Security",
+          "descriptionTR" : "Yemenli Husiler, deniz ablukasını ihlal ettiği iddiasıyla iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını açıkladı.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacaklarını söyledi"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "category" : "Security",
+          "descriptionTR" : "Suudi Arabistan petrolü yüklü iki Çin'e ait petrol tankeri, Husi saldırılarına rağmen Bab el-Mandeb boğazından geçerek Kızıldeniz'den çıktı.",
+          "group" : "Red Sea shipping risk",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks"
+            }
+          ],
+          "titleTR" : "Çin tankeri, Husi tehdidine rağmen Kızıldeniz boğazından geçti"
+        }
+      ],
+      "packetSpot" : "Kızıldeniz'deki Husi saldırıları deniz trafiğini etkiliyor. Çin'e ait petrol tankerleri, tehditlere rağmen geçiş yaparken, Trump bu saldırılardan İran'ı sorumlu tuttuğunu açıkladı.",
+      "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 19
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "category" : "Energy",
+          "descriptionTR" : "Petrol fiyatları, Kızıldeniz'deki tanker saldırıları ve Başkan Donald Trump'ın İran'a karşı \"büyük bir saldırı\" tehdidinde bulunmasının ardından Perşembe günü yükseldi. Brent ham petrol vadeli işlemleri, 26 Mayıs'tan bu yana ilk kez varil başına 100 doları aştı. Uluslararası gösterge, yaklaşık %7 artışla 100.69 dolara ulaştı. ABD Batı Teksas Orta Vadeli ham petrolü ise %6 artışla 92.19 dolara yerleşti. Bu ay Orta Doğu'daki çatışmaların keskin bir şekilde artmasıyla petrol fiyatları %30'dan fazla yükseldi. Yemen'deki İran'ın Husi müttefikleri, bu hafta Riyad'a karşı ilan ettikleri deniz ablukasını ihlal ettikleri gerekçesiyle iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını söyledi. Trump, Kızıldeniz'deki gemilere yönelik gelecekteki Husi saldırılarından İran'ı sorumlu tutacaklarını belirterek, Tahran ve Yemen'deki militanlara \"büyük askeri ceza\" vereceklerini söyledi. Başkan, Axios'a verdiği bir röportajda İran'a karşı \"büyük bir saldırı\" düşündüğünü söyledi. \"Her zamankinden daha büyük. Karar vermeye yakınım. Bunun için tamamen hazırız,\" dedi Trump. Tanker saldırıları, Trump'ın ABD'nin Hürmüz Boğazı'ndaki bir gemiye saldırması durumunda İran'daki bir köprü veya enerji santralini yok edeceği uyarısından saatler sonra gerçekleşti. İran, Washington'un bu tür saldırıları gerçekleştirmesi durumunda, ABD ile bağlantılı altyapı ve enerji varlıklarına karşı misilleme yapacağını belirtti. \"Amerikalılar İran'da bir köprü veya enerji santralini hedef alırsa, İran da bölgede ABD'nin çıkarlarının bulunduğu altyapı ve köprüleri vuracaktır,\" dedi ismi açıklanmayan bir İran askeri kaynağı, devlet tarafından yönetilen Tasnim Haber Ajansı'na. ABD'nin İran'la savaşı, çatışmaların Kızıldeniz'e yayılması ve İran'ın Körfez'deki kritik altyapıları hedef almasıyla daha tehlikeli bir aşamaya girdi, dedi RBC Capital Markets'ta küresel emtia stratejisi başkanı Helima Croft. Orta Doğu'da aşırı baskı oluşuyor ve bu, Brent petrol fiyatlarını Rusya'nın Ukrayna'yı işgal ettiği 2022'deki 128 dolarlık zirvenin üzerine çıkarabilir, dedi Croft. Brent, Orta Doğu'da tam ölçekli bir bölgesel savaşın en kötü senaryosunda 2008'deki 146 dolarlık zirveyi bile aşabilir, dedi analist. Ukrayna-Rusya savaşı da küresel petrol piyasaları üzerinde baskı oluşturuyor, dedi Croft. Kiev, bu ay Karadeniz ve Azak Denizi'nde 150'den fazla tankere saldırdı, dedi. Tanker saldırıları, Hazar Boru Hattı Konsorsiyumu'nun Karadeniz terminalinde ham petrol yüklemesini durdurmasına neden oldu. Kazakistan'ın ham petrolünün yaklaşık %80'i bu boru hattı üzerinden ihraç ediliyor, dedi Croft. \"Kapanışın süresi belirsiz, ancak Kazakistan için alternatif rotalar sınırlı (ve CPC'yi tamamen telafi etmesi olası değil), bu da üretimin (Haziran ayında 1.7 mb\/d) durdurulabileceği anlamına geliyor,\" dedi analist.",
+          "group" : "Red Sea oil shock",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/oil-prices-today-wti-brent-trump-iran-hormuz.html"
+            }
+          ],
+          "titleTR" : "23 Temmuz için en son petrol piyasası haberleri ve analizleri"
+        }
+      ],
+      "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
+      "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
+      "publishedAt" : "2026-07-23T20:09:28Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:09:28Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
+        }
+      ],
+      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
+      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
+      "publishedAt" : "2026-07-23T20:09:28Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
           "category" : "Economy",
           "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
@@ -1740,7 +2346,7 @@
       "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 15
+      "slot" : 22
     },
     {
       "items" : [
@@ -1803,7 +2409,7 @@
       "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 16
+      "slot" : 23
     },
     {
       "items" : [
@@ -1848,7 +2454,7 @@
       "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 17
+      "slot" : 24
     },
     {
       "items" : [
@@ -1893,7 +2499,7 @@
       "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 18
+      "slot" : 25
     }
   ],
   "week" : "2026-W30"
