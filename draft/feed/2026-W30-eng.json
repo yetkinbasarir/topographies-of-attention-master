@@ -1,8 +1,107 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-23T21:54:18Z",
+  "publishedAt" : "2026-07-24T20:41:59Z",
   "schemaVersion" : 2,
   "sections" : [
+    {
+      "createdAt" : "2026-07-24T20:41:59Z",
+      "id" : "run-2026-W30-1784925719",
+      "slots" : [
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "category" : "Culture",
+              "descriptionTR" : "A world premiere of the restoration including a Q&A with band members will take place at BFI Southbank, before the film returns to cinemas nationwide on 2 October.",
+              "group" : "Madness film restoration",
+              "id" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "link" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "newsValue" : 4,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "BFI",
+                  "url" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration"
+                }
+              ],
+              "titleTR" : "Take It Or Leave It, starring Madness, coming back to cinemas in a new restoration"
+            },
+            {
+              "atomID" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "category" : "Culture",
+              "descriptionTR" : "His biggest popular success and one of his darkest comedies are arriving in the Criterion Collection at the same time. We spoke to Waters to hear why “The very fact that Desperate Living is in 4K is funny.”",
+              "group" : "John Waters restorations",
+              "id" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "link" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "newsValue" : 4,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "BFI",
+                  "url" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm"
+                }
+              ],
+              "titleTR" : "John Waters on restoring Hairspray and Desperate Living: “The mistakes are part of the charm”"
+            }
+          ],
+          "packetSpot" : "Both atoms discuss the restoration and re-release of films, highlighting efforts to bring classic films back to audiences through restoration and new releases.",
+          "packetTitle" : "Film restorations and re-releases",
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "category" : "Law",
+              "descriptionTR" : "The lawsuit was brought by the artist Michael A. Hayden, who created a sculpture that appears in some of the images from the series",
+              "group" : "Jeff Koons copyright case",
+              "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Art Newspaper",
+                  "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden"
+                }
+              ],
+              "titleTR" : "Appeals court sides with Jeff Koons in copyright-infringement dispute over ‘Made in Heaven’ series"
+            },
+            {
+              "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "category" : "Law",
+              "descriptionTR" : "An EU court's decision in a case relating to the sampling of a Kraftwerk track will have implications across the arts",
+              "group" : "",
+              "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Art Newspaper",
+                  "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement"
+                }
+              ],
+              "titleTR" : "Comment | How much can one artist take from another before it is copyright infringement?"
+            }
+          ],
+          "packetSpot" : "Both atoms address copyright infringement issues in the arts, with one focusing on a court decision regarding sampling in music and the other on a court siding with Jeff Koons in an art dispute.",
+          "packetTitle" : "Copyright infringement disputes in the arts",
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        }
+      ],
+      "title" : "Kültür ve Sanat",
+      "type" : "run"
+    },
     {
       "createdAt" : "2026-07-23T21:54:18Z",
       "id" : "run-2026-W30-1784843658",
@@ -942,6 +1041,97 @@
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "category" : "Culture",
+          "descriptionTR" : "A world premiere of the restoration including a Q&A with band members will take place at BFI Southbank, before the film returns to cinemas nationwide on 2 October.",
+          "group" : "Madness film restoration",
+          "id" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "link" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration"
+            }
+          ],
+          "titleTR" : "Take It Or Leave It, starring Madness, coming back to cinemas in a new restoration"
+        },
+        {
+          "atomID" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "category" : "Culture",
+          "descriptionTR" : "His biggest popular success and one of his darkest comedies are arriving in the Criterion Collection at the same time. We spoke to Waters to hear why “The very fact that Desperate Living is in 4K is funny.”",
+          "group" : "John Waters restorations",
+          "id" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "link" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm"
+            }
+          ],
+          "titleTR" : "John Waters on restoring Hairspray and Desperate Living: “The mistakes are part of the charm”"
+        }
+      ],
+      "packetSpot" : "Both atoms discuss the restoration and re-release of films, highlighting efforts to bring classic films back to audiences through restoration and new releases.",
+      "packetTitle" : "Film restorations and re-releases",
+      "publishedAt" : "2026-07-24T20:41:59Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "category" : "Law",
+          "descriptionTR" : "The lawsuit was brought by the artist Michael A. Hayden, who created a sculpture that appears in some of the images from the series",
+          "group" : "Jeff Koons copyright case",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden"
+            }
+          ],
+          "titleTR" : "Appeals court sides with Jeff Koons in copyright-infringement dispute over ‘Made in Heaven’ series"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "category" : "Law",
+          "descriptionTR" : "An EU court's decision in a case relating to the sampling of a Kraftwerk track will have implications across the arts",
+          "group" : "",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement"
+            }
+          ],
+          "titleTR" : "Comment | How much can one artist take from another before it is copyright infringement?"
+        }
+      ],
+      "packetSpot" : "Both atoms address copyright infringement issues in the arts, with one focusing on a court decision regarding sampling in music and the other on a court siding with Jeff Koons in an art dispute.",
+      "packetTitle" : "Copyright infringement disputes in the arts",
+      "publishedAt" : "2026-07-24T20:41:59Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html",
           "category" : "Economy",
           "descriptionTR" : "U.S. Treasury yields climbed on Wednesday, following oil prices higher, as traders also reacted to a slump in weekly claims for unemployment insurance.",
@@ -1000,7 +1190,7 @@
       "packetTitle" : "Oil price surge impacts U.S. Treasury yields and rate hike expectations",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 3
     },
     {
       "items" : [
@@ -1063,7 +1253,7 @@
       "packetTitle" : "Middle East conflict escalates oil prices and tensions",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 4
     },
     {
       "items" : [
@@ -1126,7 +1316,7 @@
       "packetTitle" : "Oil price surge triggers market volatility",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 5
     },
     {
       "items" : [
@@ -1189,7 +1379,7 @@
       "packetTitle" : "AI spending concerns affect Big Tech stocks",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 6
     },
     {
       "items" : [
@@ -1219,150 +1409,6 @@
       ],
       "packetSpot" : "Oil prices have surged past $100 a barrel following reported attacks on Saudi tankers in the Red Sea, attributed to Iran-backed Houthi militants.",
       "packetTitle" : "Oil Prices Surge Past $100 Following Reported Attacks on Saudi Tankers",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 5
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "category" : "Politics",
-          "descriptionTR" : "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
-            }
-          ],
-          "titleTR" : "Congress splits on war powers resolutions to force Trump to abandon Iran war"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Politics",
-          "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
-            }
-          ],
-          "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
-        }
-      ],
-      "packetSpot" : "Congressional lawmakers are divided over resolutions aimed at limiting Donald Trump's war powers concerning Iran, while Trump himself holds Iran accountable for Houthi attacks in the Red Sea, highlighting tensions involving Iran.",
-      "packetTitle" : "US-Iran Tensions and Congressional War Powers Debate",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 6
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "category" : "Economy",
-          "descriptionTR" : "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-          "group" : "Fed rate hike outlook",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
-            }
-          ],
-          "titleTR" : "Odds of Federal Reserve rate hike surge as oil prices rip higher"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-          "category" : "Economy",
-          "descriptionTR" : "Goldman Sachs warns on oil prices and so-called tank bottoms ( and loves a new natural gas-related name).",
-          "group" : "Oil price surge",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html"
-            }
-          ],
-          "titleTR" : "Brent crude tops $100 a barrel. How the next stop could be $120"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "category" : "Economy",
-          "descriptionTR" : "ECB president Christine Lagarde said the bank anticipates inflation to remain \"well above target\" until the first half of 2027.",
-          "group" : "ECB inflation pressure",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
-            }
-          ],
-          "titleTR" : "Traders see September rate hike as European Central Bank mulls energy price spike"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
-          "category" : "Economy",
-          "descriptionTR" : "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher and boosted bets that the Federal Reserve could raise interest rates as soon as next week.",
-          "group" : "",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet"
-            }
-          ],
-          "titleTR" : "US Treasury Yields Rise to 2026 Highs With Oil Sparking Fed Bets"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "category" : "Economy",
-          "descriptionTR" : "German bond yields rose to the highest level since 2011 as surging oil prices prompted bigger bets on interest-rate hikes, even as the European Central Bank kept its benchmark unchanged.",
-          "group" : "Oil and inflation pressure",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
-            }
-          ],
-          "titleTR" : "Bund Yields Hit 15-Year High as $100 Oil Fans Inflation Concerns"
-        }
-      ],
-      "packetSpot" : "Oil prices have surged past $100, leading to increased expectations of interest rate hikes by the Federal Reserve and European Central Bank, as well as impacting stock markets and bond yields.",
-      "packetTitle" : "Oil Price Surge and Economic Implications",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
       "slot" : 7
@@ -1370,6 +1416,150 @@
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Congress splits on war powers resolutions to force Trump to abandon Iran war"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
+        }
+      ],
+      "packetSpot" : "Congressional lawmakers are divided over resolutions aimed at limiting Donald Trump's war powers concerning Iran, while Trump himself holds Iran accountable for Houthi attacks in the Red Sea, highlighting tensions involving Iran.",
+      "packetTitle" : "US-Iran Tensions and Congressional War Powers Debate",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+          "group" : "Fed rate hike outlook",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+            }
+          ],
+          "titleTR" : "Odds of Federal Reserve rate hike surge as oil prices rip higher"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "category" : "Economy",
+          "descriptionTR" : "Goldman Sachs warns on oil prices and so-called tank bottoms ( and loves a new natural gas-related name).",
+          "group" : "Oil price surge",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html"
+            }
+          ],
+          "titleTR" : "Brent crude tops $100 a barrel. How the next stop could be $120"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "category" : "Economy",
+          "descriptionTR" : "ECB president Christine Lagarde said the bank anticipates inflation to remain \"well above target\" until the first half of 2027.",
+          "group" : "ECB inflation pressure",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+            }
+          ],
+          "titleTR" : "Traders see September rate hike as European Central Bank mulls energy price spike"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "category" : "Economy",
+          "descriptionTR" : "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher and boosted bets that the Federal Reserve could raise interest rates as soon as next week.",
+          "group" : "",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet"
+            }
+          ],
+          "titleTR" : "US Treasury Yields Rise to 2026 Highs With Oil Sparking Fed Bets"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "category" : "Economy",
+          "descriptionTR" : "German bond yields rose to the highest level since 2011 as surging oil prices prompted bigger bets on interest-rate hikes, even as the European Central Bank kept its benchmark unchanged.",
+          "group" : "Oil and inflation pressure",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+            }
+          ],
+          "titleTR" : "Bund Yields Hit 15-Year High as $100 Oil Fans Inflation Concerns"
+        }
+      ],
+      "packetSpot" : "Oil prices have surged past $100, leading to increased expectations of interest rate hikes by the Federal Reserve and European Central Bank, as well as impacting stock markets and bond yields.",
+      "packetTitle" : "Oil Price Surge and Economic Implications",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
           "category" : "Technology",
           "descriptionTR" : "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
@@ -1428,7 +1618,7 @@
       "packetTitle" : "AI Spending Concerns Impacting Major Tech Stocks",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 8
+      "slot" : 10
     },
     {
       "items" : [
@@ -1473,7 +1663,7 @@
       "packetTitle" : "High-Profile Investigations: Trump and Epstein Connections",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 9
+      "slot" : 11
     },
     {
       "items" : [
@@ -1518,7 +1708,7 @@
       "packetTitle" : "Houthi Attacks Disrupt Red Sea Maritime Traffic",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 10
+      "slot" : 12
     },
     {
       "items" : [
@@ -1550,7 +1740,7 @@
       "packetTitle" : "Oil Prices Surge Past $100 Following Reported Attacks on Saudi Tankers",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 11
+      "slot" : 13
     },
     {
       "items" : [
@@ -1595,7 +1785,7 @@
       "packetTitle" : "US-Iran Tensions and Congressional War Powers Debate",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 12
+      "slot" : 14
     },
     {
       "items" : [
@@ -1694,7 +1884,7 @@
       "packetTitle" : "Oil Price Surge and Economic Implications",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 13
+      "slot" : 15
     },
     {
       "items" : [
@@ -1757,7 +1947,7 @@
       "packetTitle" : "AI Spending Concerns Impacting Major Tech Stocks",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 14
+      "slot" : 16
     },
     {
       "items" : [
@@ -1802,7 +1992,7 @@
       "packetTitle" : "High-Profile Investigations: Trump and Epstein Connections",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 15
+      "slot" : 17
     },
     {
       "items" : [
@@ -1847,7 +2037,7 @@
       "packetTitle" : "Houthi Attacks Disrupt Red Sea Maritime Traffic",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 16
+      "slot" : 18
     }
   ],
   "week" : "2026-W30"
