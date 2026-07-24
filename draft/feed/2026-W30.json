@@ -1,8 +1,107 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-23T21:54:18Z",
+  "publishedAt" : "2026-07-24T20:41:59Z",
   "schemaVersion" : 2,
   "sections" : [
+    {
+      "createdAt" : "2026-07-24T20:41:59Z",
+      "id" : "run-2026-W30-1784925719",
+      "slots" : [
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "category" : "Culture",
+              "descriptionTR" : "1981 yılında ilk kez gösterime giren 'Take It Or Leave It', ünlü İngiliz grubu Madness'ın nasıl bir araya geldiğini anlatıyor. BFI tarafından 4K olarak restore edilen film, 2 Ekim 2026'da Birleşik Krallık ve İrlanda'da sinemalarda yeniden gösterime girecek. Ayrıca, 19 Ekim'de BFI Blu-ray\/DVD olarak piyasaya sürülecek. Filmin dünya prömiyeri ve grup üyeleriyle bir soru-cevap etkinliği 30 Eylül'de BFI Southbank'te gerçekleşecek.",
+              "group" : "Madness film restoration",
+              "id" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "link" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "newsValue" : 4,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "BFI",
+                  "url" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration"
+                }
+              ],
+              "titleTR" : "Madness'ın hikayesi 'Take It Or Leave It' yeniden sinemalarda"
+            },
+            {
+              "atomID" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "category" : "Culture",
+              "descriptionTR" : "John Waters'ın altı filmi, Criterion Collection tarafından restore edilerek Blu-ray formatında yeniden piyasaya sürülüyor. Bu ay 'Hairspray' ve 'Desperate Living' de bu koleksiyona katılıyor. Waters, restorasyon sürecinde yer aldı ve filmlerin orijinal tadını koruyarak en iyi şekilde görünmelerini sağladı. 'Desperate Living', Waters'ın filmografisinde daha az bilinen bir yapım olarak öne çıkıyor.",
+              "group" : "John Waters restorations",
+              "id" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "link" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "newsValue" : 4,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "BFI",
+                  "url" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm"
+                }
+              ],
+              "titleTR" : "John Waters: 'Hatalar cazibenin bir parçası'"
+            }
+          ],
+          "packetSpot" : "Film restorasyonları ve yeniden gösterimler, klasik filmleri izleyiciyle buluşturma çabalarını öne çıkarıyor. Hem BFI'nin Madness grubunun hikayesini anlatan 'Take It Or Leave It' filminin 4K restorasyonu hem de John Waters'ın 'Hairspray' ve 'Desperate Living' filmlerinin Criterion Collection tarafından restore edilmesi, bu çabaların örnekleri arasında yer alıyor. Bu projeler, filmlerin teknik ve kültürel açıdan yeniden değerlendirilmesini sağlıyor.",
+          "packetTitle" : "Klasik filmler yeniden hayat buluyor",
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "category" : "Law",
+              "descriptionTR" : "New York'taki bir federal temyiz mahkemesi, Jeff Koons'un 'Made in Heaven' serisiyle ilgili yıllardır süren bir telif hakkı ihlali davasında Koons'un lehine karar verdi. Mahkeme, sanatçı Michael A. Hayden'in iddiasının zaman aşımına uğradığını belirtti. Hayden, Koons'un eserlerini 2019'da keşfettiğini iddia etmişti, ancak mahkeme, Koons'un eserlerinin daha önce fark edilmesi gerektiğini vurguladı.",
+              "group" : "Jeff Koons copyright case",
+              "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Art Newspaper",
+                  "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden"
+                }
+              ],
+              "titleTR" : "Jeff Koons'un 'Made in Heaven' davasında temyiz mahkemesi lehine karar verdi"
+            },
+            {
+              "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "category" : "Law",
+              "descriptionTR" : "AB Adalet Divanı, Alman müzik yapımcısı Moses Pelham'ın Kraftwerk'in bir şarkısını izinsiz örneklemesiyle ilgili davada 'pastiche' kavramını tanımladı. Karara göre, bir eserin 'pastiche' olarak kabul edilebilmesi için, alıntılanan eserle sanatsal veya yaratıcı bir diyalog içinde olması gerekiyor. Bu karar, AB genelinde sanat uygulamaları üzerinde etkili olabilir.",
+              "group" : "",
+              "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Art Newspaper",
+                  "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement"
+                }
+              ],
+              "titleTR" : "AB Adalet Divanı 'pastiche' kavramını tanımladı: Sanatsal diyalog şartı"
+            }
+          ],
+          "packetSpot" : "Sanatta telif hakkı ihlalleri üzerine iki önemli yargı kararı öne çıkıyor. Biri, Jeff Koons'un 'Made in Heaven' serisiyle ilgili bir davada zaman aşımı nedeniyle lehine sonuçlanan karar; diğeri ise Kraftwerk'in müziğinin örneklenmesiyle ilgili AB Adalet Divanı'nın 'pastiche' kavramını tanımlayan kararı.",
+          "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        }
+      ],
+      "title" : "Kültür ve Sanat",
+      "type" : "run"
+    },
     {
       "createdAt" : "2026-07-23T21:54:18Z",
       "id" : "run-2026-W30-1784843658",
@@ -870,6 +969,97 @@
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "category" : "Culture",
+          "descriptionTR" : "1981 yılında ilk kez gösterime giren 'Take It Or Leave It', ünlü İngiliz grubu Madness'ın nasıl bir araya geldiğini anlatıyor. BFI tarafından 4K olarak restore edilen film, 2 Ekim 2026'da Birleşik Krallık ve İrlanda'da sinemalarda yeniden gösterime girecek. Ayrıca, 19 Ekim'de BFI Blu-ray\/DVD olarak piyasaya sürülecek. Filmin dünya prömiyeri ve grup üyeleriyle bir soru-cevap etkinliği 30 Eylül'de BFI Southbank'te gerçekleşecek.",
+          "group" : "Madness film restoration",
+          "id" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "link" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration"
+            }
+          ],
+          "titleTR" : "Madness'ın hikayesi 'Take It Or Leave It' yeniden sinemalarda"
+        },
+        {
+          "atomID" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "category" : "Culture",
+          "descriptionTR" : "John Waters'ın altı filmi, Criterion Collection tarafından restore edilerek Blu-ray formatında yeniden piyasaya sürülüyor. Bu ay 'Hairspray' ve 'Desperate Living' de bu koleksiyona katılıyor. Waters, restorasyon sürecinde yer aldı ve filmlerin orijinal tadını koruyarak en iyi şekilde görünmelerini sağladı. 'Desperate Living', Waters'ın filmografisinde daha az bilinen bir yapım olarak öne çıkıyor.",
+          "group" : "John Waters restorations",
+          "id" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "link" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm"
+            }
+          ],
+          "titleTR" : "John Waters: 'Hatalar cazibenin bir parçası'"
+        }
+      ],
+      "packetSpot" : "Film restorasyonları ve yeniden gösterimler, klasik filmleri izleyiciyle buluşturma çabalarını öne çıkarıyor. Hem BFI'nin Madness grubunun hikayesini anlatan 'Take It Or Leave It' filminin 4K restorasyonu hem de John Waters'ın 'Hairspray' ve 'Desperate Living' filmlerinin Criterion Collection tarafından restore edilmesi, bu çabaların örnekleri arasında yer alıyor. Bu projeler, filmlerin teknik ve kültürel açıdan yeniden değerlendirilmesini sağlıyor.",
+      "packetTitle" : "Klasik filmler yeniden hayat buluyor",
+      "publishedAt" : "2026-07-24T20:41:59Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "category" : "Law",
+          "descriptionTR" : "New York'taki bir federal temyiz mahkemesi, Jeff Koons'un 'Made in Heaven' serisiyle ilgili yıllardır süren bir telif hakkı ihlali davasında Koons'un lehine karar verdi. Mahkeme, sanatçı Michael A. Hayden'in iddiasının zaman aşımına uğradığını belirtti. Hayden, Koons'un eserlerini 2019'da keşfettiğini iddia etmişti, ancak mahkeme, Koons'un eserlerinin daha önce fark edilmesi gerektiğini vurguladı.",
+          "group" : "Jeff Koons copyright case",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden"
+            }
+          ],
+          "titleTR" : "Jeff Koons'un 'Made in Heaven' davasında temyiz mahkemesi lehine karar verdi"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "category" : "Law",
+          "descriptionTR" : "AB Adalet Divanı, Alman müzik yapımcısı Moses Pelham'ın Kraftwerk'in bir şarkısını izinsiz örneklemesiyle ilgili davada 'pastiche' kavramını tanımladı. Karara göre, bir eserin 'pastiche' olarak kabul edilebilmesi için, alıntılanan eserle sanatsal veya yaratıcı bir diyalog içinde olması gerekiyor. Bu karar, AB genelinde sanat uygulamaları üzerinde etkili olabilir.",
+          "group" : "",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement"
+            }
+          ],
+          "titleTR" : "AB Adalet Divanı 'pastiche' kavramını tanımladı: Sanatsal diyalog şartı"
+        }
+      ],
+      "packetSpot" : "Sanatta telif hakkı ihlalleri üzerine iki önemli yargı kararı öne çıkıyor. Biri, Jeff Koons'un 'Made in Heaven' serisiyle ilgili bir davada zaman aşımı nedeniyle lehine sonuçlanan karar; diğeri ise Kraftwerk'in müziğinin örneklenmesiyle ilgili AB Adalet Divanı'nın 'pastiche' kavramını tanımlayan kararı.",
+      "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
+      "publishedAt" : "2026-07-24T20:41:59Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/treasury-yields-oil-prices-jobless-claims.html",
           "category" : "Economy",
           "descriptionTR" : "ABD Hazine tahvil getirileri, petrol fiyatlarının yükselmesiyle Çarşamba günü arttı. Bu artış, haftalık işsizlik sigortası başvurularındaki düşüşle birlikte piyasa tepkilerini de etkiledi.",
@@ -928,7 +1118,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış ABD finansal göstergelerini etkiliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 3
     },
     {
       "items" : [
@@ -991,7 +1181,7 @@
       "packetTitle" : "Orta Doğu'daki çatışmalar petrol fiyatlarını ve gerilimleri artırıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 4
     },
     {
       "items" : [
@@ -1054,7 +1244,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış piyasaları sarsıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 5
     },
     {
       "items" : [
@@ -1117,7 +1307,7 @@
       "packetTitle" : "Büyük teknoloji şirketlerinin AI harcamaları borsa tepkilerini tetikliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 6
     },
     {
       "items" : [
@@ -1147,114 +1337,6 @@
       ],
       "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
       "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 5
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "category" : "Politics",
-          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
-            }
-          ],
-          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Politics",
-          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
-            }
-          ],
-          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
-        }
-      ],
-      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
-      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 6
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "category" : "Economy",
-          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
-          "group" : "Fed rate hike outlook",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
-            }
-          ],
-          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "category" : "Economy",
-          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
-          "group" : "ECB inflation pressure",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
-            }
-          ],
-          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "category" : "Economy",
-          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
-          "group" : "Oil and inflation pressure",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
-            }
-          ],
-          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
-        }
-      ],
-      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
-      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
       "slot" : 7
@@ -1262,6 +1344,114 @@
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
+        }
+      ],
+      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
+      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
+          "group" : "Fed rate hike outlook",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+            }
+          ],
+          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "category" : "Economy",
+          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
+          "group" : "ECB inflation pressure",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+            }
+          ],
+          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "category" : "Economy",
+          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
+          "group" : "Oil and inflation pressure",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+            }
+          ],
+          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
+        }
+      ],
+      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
+      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 9
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
           "category" : "Technology",
           "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, her iki şirketin de yapay zeka harcamalarını artırma sinyali vermesi üzerine Perşembe günü düştü. Tesla'nın hisseleri %14, Alphabet'in ise %6'dan fazla değer kaybetti. Her iki şirket de ikinci çeyrek için negatif serbest nakit akışı bildirdi. Alphabet, bu yılki sermaye harcaması tahminini 195-205 milyar dolar aralığına yükseltti. Tesla ise sermaye harcamalarının yıllık bazda %142 artarak 5.79 milyar dolara ulaştığını açıkladı. Şirket yöneticileri, yatırımcı endişelerini yatıştırmaya çalıştı. Tesla CEO'su Elon Musk, yatırımların gelecekte büyük getiriler sağlayacağına inandığını belirtti.",
@@ -1320,7 +1510,7 @@
       "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 8
+      "slot" : 10
     },
     {
       "items" : [
@@ -1365,7 +1555,7 @@
       "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 9
+      "slot" : 11
     },
     {
       "items" : [
@@ -1410,7 +1600,7 @@
       "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 10
+      "slot" : 12
     },
     {
       "items" : [
@@ -1442,7 +1632,7 @@
       "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 11
+      "slot" : 13
     },
     {
       "items" : [
@@ -1487,7 +1677,7 @@
       "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 12
+      "slot" : 14
     },
     {
       "items" : [
@@ -1550,7 +1740,7 @@
       "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 13
+      "slot" : 15
     },
     {
       "items" : [
@@ -1613,7 +1803,7 @@
       "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 14
+      "slot" : 16
     },
     {
       "items" : [
@@ -1658,7 +1848,7 @@
       "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 15
+      "slot" : 17
     },
     {
       "items" : [
@@ -1703,7 +1893,7 @@
       "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 16
+      "slot" : 18
     }
   ],
   "week" : "2026-W30"
