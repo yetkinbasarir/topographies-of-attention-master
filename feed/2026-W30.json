@@ -4,6 +4,105 @@
   "schemaVersion" : 2,
   "sections" : [
     {
+      "createdAt" : "2026-07-24T20:41:59Z",
+      "id" : "run-2026-W30-1784925719",
+      "slots" : [
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "category" : "Culture",
+              "descriptionTR" : "1981 yılında ilk kez gösterime giren 'Take It Or Leave It', ünlü İngiliz grubu Madness'ın nasıl bir araya geldiğini anlatıyor. BFI tarafından 4K olarak restore edilen film, 2 Ekim 2026'da Birleşik Krallık ve İrlanda'da sinemalarda yeniden gösterime girecek. Ayrıca, 19 Ekim'de BFI Blu-ray\/DVD olarak piyasaya sürülecek. Filmin dünya prömiyeri ve grup üyeleriyle bir soru-cevap etkinliği 30 Eylül'de BFI Southbank'te gerçekleşecek.",
+              "group" : "Madness film restoration",
+              "id" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "link" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+              "newsValue" : 4,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "BFI",
+                  "url" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration"
+                }
+              ],
+              "titleTR" : "Madness'ın hikayesi 'Take It Or Leave It' yeniden sinemalarda"
+            },
+            {
+              "atomID" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "category" : "Culture",
+              "descriptionTR" : "John Waters'ın altı filmi, Criterion Collection tarafından restore edilerek Blu-ray formatında yeniden piyasaya sürülüyor. Bu ay 'Hairspray' ve 'Desperate Living' de bu koleksiyona katılıyor. Waters, restorasyon sürecinde yer aldı ve filmlerin orijinal tadını koruyarak en iyi şekilde görünmelerini sağladı. 'Desperate Living', Waters'ın filmografisinde daha az bilinen bir yapım olarak öne çıkıyor.",
+              "group" : "John Waters restorations",
+              "id" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "link" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+              "newsValue" : 4,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "BFI",
+                  "url" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm"
+                }
+              ],
+              "titleTR" : "John Waters: 'Hatalar cazibenin bir parçası'"
+            }
+          ],
+          "packetSpot" : "Film restorasyonları ve yeniden gösterimler, klasik filmleri izleyiciyle buluşturma çabalarını öne çıkarıyor. Hem BFI'nin Madness grubunun hikayesini anlatan 'Take It Or Leave It' filminin 4K restorasyonu hem de John Waters'ın 'Hairspray' ve 'Desperate Living' filmlerinin Criterion Collection tarafından restore edilmesi, bu çabaların örnekleri arasında yer alıyor. Bu projeler, filmlerin teknik ve kültürel açıdan yeniden değerlendirilmesini sağlıyor.",
+          "packetTitle" : "Klasik filmler yeniden hayat buluyor",
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "category" : "Law",
+              "descriptionTR" : "New York'taki bir federal temyiz mahkemesi, Jeff Koons'un 'Made in Heaven' serisiyle ilgili yıllardır süren bir telif hakkı ihlali davasında Koons'un lehine karar verdi. Mahkeme, sanatçı Michael A. Hayden'in iddiasının zaman aşımına uğradığını belirtti. Hayden, Koons'un eserlerini 2019'da keşfettiğini iddia etmişti, ancak mahkeme, Koons'un eserlerinin daha önce fark edilmesi gerektiğini vurguladı.",
+              "group" : "Jeff Koons copyright case",
+              "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Art Newspaper",
+                  "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden"
+                }
+              ],
+              "titleTR" : "Jeff Koons'un 'Made in Heaven' davasında temyiz mahkemesi lehine karar verdi"
+            },
+            {
+              "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "category" : "Law",
+              "descriptionTR" : "AB Adalet Divanı, Alman müzik yapımcısı Moses Pelham'ın Kraftwerk'in bir şarkısını izinsiz örneklemesiyle ilgili davada 'pastiche' kavramını tanımladı. Karara göre, bir eserin 'pastiche' olarak kabul edilebilmesi için, alıntılanan eserle sanatsal veya yaratıcı bir diyalog içinde olması gerekiyor. Bu karar, AB genelinde sanat uygulamaları üzerinde etkili olabilir.",
+              "group" : "",
+              "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-24T20:41:59Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Art Newspaper",
+                  "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement"
+                }
+              ],
+              "titleTR" : "AB Adalet Divanı 'pastiche' kavramını tanımladı: Sanatsal diyalog şartı"
+            }
+          ],
+          "packetSpot" : "Sanatta telif hakkı ihlalleri üzerine iki önemli yargı kararı öne çıkıyor. Biri, Jeff Koons'un 'Made in Heaven' serisiyle ilgili bir davada zaman aşımı nedeniyle lehine sonuçlanan karar; diğeri ise Kraftwerk'in müziğinin örneklenmesiyle ilgili AB Adalet Divanı'nın 'pastiche' kavramını tanımlayan kararı.",
+          "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        }
+      ],
+      "title" : "Kültür ve Sanat",
+      "type" : "run"
+    },
+    {
       "createdAt" : "2026-07-25T00:12:37Z",
       "id" : "run-2026-W30-1784938357",
       "slots" : [
@@ -363,39 +462,6 @@
           "slot" : 3
         },
         {
-          "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
-          "items" : [
-            {
-              "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
-              "category" : "Environment",
-              "descriptionTR" : "Fransa'nın Atlantik kıyısındaki kasaba ve tatil beldelerinden yaklaşık 20.000 kişi, orman yangınlarının yayılması nedeniyle tahliye edildi. Bordeaux'nun güneybatısındaki Lège-Cap Ferret yakınlarındaki yangın, 31 kilometrekarelik bir alana yayıldı. Gironde bölgesi valisi Sophie Brocas, Paris bölgesinden gelen ekiplerle birlikte 700 itfaiyecinin görevlendirildiğini belirtti. Yangın, Lège'deki ilk evlere 300 metre kadar yaklaştı ve su bombaları kullanıldı. Claouey köyü de önlem olarak tahliye edildi. Güney Avrupa, bu yaz birçok büyük yangınla karşı karşıya kaldı. Bilim insanları, iklim değişikliğinin sıcaklık ve kuraklık sıklığını artırarak bölgeyi yangınlara daha duyarlı hale getirdiği konusunda uyarıyor.",
-              "group" : "",
-              "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
-              "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
-              "newsValue" : 5,
-              "publishedAt" : "2026-07-24T20:55:09Z",
-              "sources" : [
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "Mongabay",
-                  "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/"
-                },
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "The Guardian Environment",
-                  "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/23\/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video"
-                }
-              ],
-              "titleTR" : "Fransa'nın popüler turistik kasabası yakınlarında orman yangını: Binlerce kişi tahliye edildi"
-            }
-          ],
-          "packetSpot" : "Fransa'nın güneybatısındaki orman yangınları, Arcachon Körfezi ve Lège-Cap Ferret yakınlarında yayılarak binlerce turist ve sakinin tahliye edilmesine yol açtı. İtfaiyeciler, geniş orman alanlarını tüketen alevlerle mücadeleye devam ediyor.",
-          "packetTitle" : "Fransa'nın güneybatısında orman yangınları: Tahliyeler ve mücadele",
-          "publishedAt" : "2026-07-24T20:55:09Z",
-          "sessionID" : "publish-draft",
-          "slot" : 1
-        },
-        {
           "illustrationName" : "03BF698B-EA01-5467-960E-74C2B75DD9CF.png",
           "items" : [
             {
@@ -440,6 +506,39 @@
           "publishedAt" : "2026-07-24T20:55:09Z",
           "sessionID" : "publish-draft",
           "slot" : 2
+        },
+        {
+          "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+              "category" : "Environment",
+              "descriptionTR" : "Fransa'nın Atlantik kıyısındaki kasaba ve tatil beldelerinden yaklaşık 20.000 kişi, orman yangınlarının yayılması nedeniyle tahliye edildi. Bordeaux'nun güneybatısındaki Lège-Cap Ferret yakınlarındaki yangın, 31 kilometrekarelik bir alana yayıldı. Gironde bölgesi valisi Sophie Brocas, Paris bölgesinden gelen ekiplerle birlikte 700 itfaiyecinin görevlendirildiğini belirtti. Yangın, Lège'deki ilk evlere 300 metre kadar yaklaştı ve su bombaları kullanıldı. Claouey köyü de önlem olarak tahliye edildi. Güney Avrupa, bu yaz birçok büyük yangınla karşı karşıya kaldı. Bilim insanları, iklim değişikliğinin sıcaklık ve kuraklık sıklığını artırarak bölgeyi yangınlara daha duyarlı hale getirdiği konusunda uyarıyor.",
+              "group" : "",
+              "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+              "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Mongabay",
+                  "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Guardian Environment",
+                  "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/23\/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video"
+                }
+              ],
+              "titleTR" : "Fransa'nın popüler turistik kasabası yakınlarında orman yangını: Binlerce kişi tahliye edildi"
+            }
+          ],
+          "packetSpot" : "Fransa'nın güneybatısındaki orman yangınları, Arcachon Körfezi ve Lège-Cap Ferret yakınlarında yayılarak binlerce turist ve sakinin tahliye edilmesine yol açtı. İtfaiyeciler, geniş orman alanlarını tüketen alevlerle mücadeleye devam ediyor.",
+          "packetTitle" : "Fransa'nın güneybatısında orman yangınları: Tahliyeler ve mücadele",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
         },
         {
           "items" : [
@@ -487,6 +586,43 @@
           "slot" : 4
         },
         {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+              "category" : "Energy",
+              "descriptionTR" : "Elektrifikasyon gündemi, Afrika için olağanüstü bir fırsat ve büyük bir zorluk teşkil ediyor. Power Shift Africa'nın kurucusu ve direktörü Mohamed Adow, Londra İklim Eylem Haftası'nda elektrifikasyonun COP31 yolunda iklim politikasının merkezine taşındığını belirtti. Bonn iklim görüşmelerinde ortaya atılan hedefe göre, 2035 yılına kadar dünya enerji tüketiminin %35'i elektrikten sağlanmalı. Bu hedef, Türkiye'de düzenlenecek COP31 için belirleyici bir test olacak.",
+              "group" : "Africa electrification agenda",
+              "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+              "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-24T20:55:09Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Climate Home News",
+                  "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Climate Home News",
+                  "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Carbon Brief",
+                  "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens"
+                }
+              ],
+              "titleTR" : "Afrika, Elektrifikasyon Çağına Öncülük Edebilir"
+            }
+          ],
+          "packetSpot" : "COP31'de elektrifikasyon, küresel enerji tüketiminin 2035 yılına kadar %35'inin elektrikten sağlanması hedefiyle merkezi bir strateji olarak öne çıkıyor. Bu gündem, Afrika için hem zorluklar hem de fırsatlar sunuyor; kıta, yenilenebilir enerji sistemleri inşa ederek fayda sağlayabilir. Elektrifikasyonun küresel olarak teşvik edilmesi, fosil yakıtlara bağımlılığı azaltmayı ve enerji güvenliğini artırmayı amaçlıyor. Bu durumun iklim politikaları ve ekonomik kalkınma üzerinde önemli etkileri olacak.",
+          "packetTitle" : "COP31 ve Afrika'nın Kalkınmasında Elektrifikasyonun Rolü",
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sessionID" : "publish-draft",
+          "slot" : 6
+        },
+        {
           "illustrationName" : "6FF85FB8-CF7F-5ECE-A6BE-7018129385EC.png",
           "items" : [
             {
@@ -531,43 +667,6 @@
           "publishedAt" : "2026-07-24T20:55:09Z",
           "sessionID" : "publish-draft",
           "slot" : 5
-        },
-        {
-          "items" : [
-            {
-              "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
-              "category" : "Energy",
-              "descriptionTR" : "Elektrifikasyon gündemi, Afrika için olağanüstü bir fırsat ve büyük bir zorluk teşkil ediyor. Power Shift Africa'nın kurucusu ve direktörü Mohamed Adow, Londra İklim Eylem Haftası'nda elektrifikasyonun COP31 yolunda iklim politikasının merkezine taşındığını belirtti. Bonn iklim görüşmelerinde ortaya atılan hedefe göre, 2035 yılına kadar dünya enerji tüketiminin %35'i elektrikten sağlanmalı. Bu hedef, Türkiye'de düzenlenecek COP31 için belirleyici bir test olacak.",
-              "group" : "Africa electrification agenda",
-              "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
-              "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
-              "newsValue" : 6,
-              "publishedAt" : "2026-07-24T20:55:09Z",
-              "sources" : [
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "Climate Home News",
-                  "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/"
-                },
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "Climate Home News",
-                  "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
-                },
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "Carbon Brief",
-                  "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens"
-                }
-              ],
-              "titleTR" : "Afrika, Elektrifikasyon Çağına Öncülük Edebilir"
-            }
-          ],
-          "packetSpot" : "COP31'de elektrifikasyon, küresel enerji tüketiminin 2035 yılına kadar %35'inin elektrikten sağlanması hedefiyle merkezi bir strateji olarak öne çıkıyor. Bu gündem, Afrika için hem zorluklar hem de fırsatlar sunuyor; kıta, yenilenebilir enerji sistemleri inşa ederek fayda sağlayabilir. Elektrifikasyonun küresel olarak teşvik edilmesi, fosil yakıtlara bağımlılığı azaltmayı ve enerji güvenliğini artırmayı amaçlıyor. Bu durumun iklim politikaları ve ekonomik kalkınma üzerinde önemli etkileri olacak.",
-          "packetTitle" : "COP31 ve Afrika'nın Kalkınmasında Elektrifikasyonun Rolü",
-          "publishedAt" : "2026-07-24T20:55:09Z",
-          "sessionID" : "publish-draft",
-          "slot" : 6
         },
         {
           "illustrationName" : "542AFEB5-E554-53AF-A2A5-CF3FA8A747A9.png",
@@ -827,105 +926,6 @@
         }
       ],
       "title" : "Politika",
-      "type" : "run"
-    },
-    {
-      "createdAt" : "2026-07-24T20:41:59Z",
-      "id" : "run-2026-W30-1784925719",
-      "slots" : [
-        {
-          "items" : [
-            {
-              "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
-              "category" : "Culture",
-              "descriptionTR" : "1981 yılında ilk kez gösterime giren 'Take It Or Leave It', ünlü İngiliz grubu Madness'ın nasıl bir araya geldiğini anlatıyor. BFI tarafından 4K olarak restore edilen film, 2 Ekim 2026'da Birleşik Krallık ve İrlanda'da sinemalarda yeniden gösterime girecek. Ayrıca, 19 Ekim'de BFI Blu-ray\/DVD olarak piyasaya sürülecek. Filmin dünya prömiyeri ve grup üyeleriyle bir soru-cevap etkinliği 30 Eylül'de BFI Southbank'te gerçekleşecek.",
-              "group" : "Madness film restoration",
-              "id" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
-              "link" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
-              "newsValue" : 4,
-              "publishedAt" : "2026-07-24T20:41:59Z",
-              "sources" : [
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "BFI",
-                  "url" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration"
-                }
-              ],
-              "titleTR" : "Madness'ın hikayesi 'Take It Or Leave It' yeniden sinemalarda"
-            },
-            {
-              "atomID" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
-              "category" : "Culture",
-              "descriptionTR" : "John Waters'ın altı filmi, Criterion Collection tarafından restore edilerek Blu-ray formatında yeniden piyasaya sürülüyor. Bu ay 'Hairspray' ve 'Desperate Living' de bu koleksiyona katılıyor. Waters, restorasyon sürecinde yer aldı ve filmlerin orijinal tadını koruyarak en iyi şekilde görünmelerini sağladı. 'Desperate Living', Waters'ın filmografisinde daha az bilinen bir yapım olarak öne çıkıyor.",
-              "group" : "John Waters restorations",
-              "id" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
-              "link" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
-              "newsValue" : 4,
-              "publishedAt" : "2026-07-24T20:41:59Z",
-              "sources" : [
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "BFI",
-                  "url" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm"
-                }
-              ],
-              "titleTR" : "John Waters: 'Hatalar cazibenin bir parçası'"
-            }
-          ],
-          "packetSpot" : "Film restorasyonları ve yeniden gösterimler, klasik filmleri izleyiciyle buluşturma çabalarını öne çıkarıyor. Hem BFI'nin Madness grubunun hikayesini anlatan 'Take It Or Leave It' filminin 4K restorasyonu hem de John Waters'ın 'Hairspray' ve 'Desperate Living' filmlerinin Criterion Collection tarafından restore edilmesi, bu çabaların örnekleri arasında yer alıyor. Bu projeler, filmlerin teknik ve kültürel açıdan yeniden değerlendirilmesini sağlıyor.",
-          "packetTitle" : "Klasik filmler yeniden hayat buluyor",
-          "publishedAt" : "2026-07-24T20:41:59Z",
-          "sessionID" : "publish-draft",
-          "slot" : 1
-        },
-        {
-          "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
-          "items" : [
-            {
-              "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
-              "category" : "Law",
-              "descriptionTR" : "New York'taki bir federal temyiz mahkemesi, Jeff Koons'un 'Made in Heaven' serisiyle ilgili yıllardır süren bir telif hakkı ihlali davasında Koons'un lehine karar verdi. Mahkeme, sanatçı Michael A. Hayden'in iddiasının zaman aşımına uğradığını belirtti. Hayden, Koons'un eserlerini 2019'da keşfettiğini iddia etmişti, ancak mahkeme, Koons'un eserlerinin daha önce fark edilmesi gerektiğini vurguladı.",
-              "group" : "Jeff Koons copyright case",
-              "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
-              "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
-              "newsValue" : 5,
-              "publishedAt" : "2026-07-24T20:41:59Z",
-              "sources" : [
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "The Art Newspaper",
-                  "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden"
-                }
-              ],
-              "titleTR" : "Jeff Koons'un 'Made in Heaven' davasında temyiz mahkemesi lehine karar verdi"
-            },
-            {
-              "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
-              "category" : "Law",
-              "descriptionTR" : "AB Adalet Divanı, Alman müzik yapımcısı Moses Pelham'ın Kraftwerk'in bir şarkısını izinsiz örneklemesiyle ilgili davada 'pastiche' kavramını tanımladı. Karara göre, bir eserin 'pastiche' olarak kabul edilebilmesi için, alıntılanan eserle sanatsal veya yaratıcı bir diyalog içinde olması gerekiyor. Bu karar, AB genelinde sanat uygulamaları üzerinde etkili olabilir.",
-              "group" : "",
-              "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
-              "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
-              "newsValue" : 5,
-              "publishedAt" : "2026-07-24T20:41:59Z",
-              "sources" : [
-                {
-                  "originalLanguage" : "en",
-                  "sourceName" : "The Art Newspaper",
-                  "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement"
-                }
-              ],
-              "titleTR" : "AB Adalet Divanı 'pastiche' kavramını tanımladı: Sanatsal diyalog şartı"
-            }
-          ],
-          "packetSpot" : "Sanatta telif hakkı ihlalleri üzerine iki önemli yargı kararı öne çıkıyor. Biri, Jeff Koons'un 'Made in Heaven' serisiyle ilgili bir davada zaman aşımı nedeniyle lehine sonuçlanan karar; diğeri ise Kraftwerk'in müziğinin örneklenmesiyle ilgili AB Adalet Divanı'nın 'pastiche' kavramını tanımlayan kararı.",
-          "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
-          "publishedAt" : "2026-07-24T20:41:59Z",
-          "sessionID" : "publish-draft",
-          "slot" : 2
-        }
-      ],
-      "title" : "Kültür ve Sanat",
       "type" : "run"
     },
     {
@@ -1191,6 +1191,97 @@
   ],
   "slots" : [
     {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "category" : "Culture",
+          "descriptionTR" : "1981 yılında ilk kez gösterime giren 'Take It Or Leave It', ünlü İngiliz grubu Madness'ın nasıl bir araya geldiğini anlatıyor. BFI tarafından 4K olarak restore edilen film, 2 Ekim 2026'da Birleşik Krallık ve İrlanda'da sinemalarda yeniden gösterime girecek. Ayrıca, 19 Ekim'de BFI Blu-ray\/DVD olarak piyasaya sürülecek. Filmin dünya prömiyeri ve grup üyeleriyle bir soru-cevap etkinliği 30 Eylül'de BFI Southbank'te gerçekleşecek.",
+          "group" : "Madness film restoration",
+          "id" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "link" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration"
+            }
+          ],
+          "titleTR" : "Madness'ın hikayesi 'Take It Or Leave It' yeniden sinemalarda"
+        },
+        {
+          "atomID" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "category" : "Culture",
+          "descriptionTR" : "John Waters'ın altı filmi, Criterion Collection tarafından restore edilerek Blu-ray formatında yeniden piyasaya sürülüyor. Bu ay 'Hairspray' ve 'Desperate Living' de bu koleksiyona katılıyor. Waters, restorasyon sürecinde yer aldı ve filmlerin orijinal tadını koruyarak en iyi şekilde görünmelerini sağladı. 'Desperate Living', Waters'ın filmografisinde daha az bilinen bir yapım olarak öne çıkıyor.",
+          "group" : "John Waters restorations",
+          "id" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "link" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
+          "newsValue" : 4,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "BFI",
+              "url" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm"
+            }
+          ],
+          "titleTR" : "John Waters: 'Hatalar cazibenin bir parçası'"
+        }
+      ],
+      "packetSpot" : "Film restorasyonları ve yeniden gösterimler, klasik filmleri izleyiciyle buluşturma çabalarını öne çıkarıyor. Hem BFI'nin Madness grubunun hikayesini anlatan 'Take It Or Leave It' filminin 4K restorasyonu hem de John Waters'ın 'Hairspray' ve 'Desperate Living' filmlerinin Criterion Collection tarafından restore edilmesi, bu çabaların örnekleri arasında yer alıyor. Bu projeler, filmlerin teknik ve kültürel açıdan yeniden değerlendirilmesini sağlıyor.",
+      "packetTitle" : "Klasik filmler yeniden hayat buluyor",
+      "publishedAt" : "2026-07-24T20:41:59Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "category" : "Law",
+          "descriptionTR" : "New York'taki bir federal temyiz mahkemesi, Jeff Koons'un 'Made in Heaven' serisiyle ilgili yıllardır süren bir telif hakkı ihlali davasında Koons'un lehine karar verdi. Mahkeme, sanatçı Michael A. Hayden'in iddiasının zaman aşımına uğradığını belirtti. Hayden, Koons'un eserlerini 2019'da keşfettiğini iddia etmişti, ancak mahkeme, Koons'un eserlerinin daha önce fark edilmesi gerektiğini vurguladı.",
+          "group" : "Jeff Koons copyright case",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden"
+            }
+          ],
+          "titleTR" : "Jeff Koons'un 'Made in Heaven' davasında temyiz mahkemesi lehine karar verdi"
+        },
+        {
+          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "category" : "Law",
+          "descriptionTR" : "AB Adalet Divanı, Alman müzik yapımcısı Moses Pelham'ın Kraftwerk'in bir şarkısını izinsiz örneklemesiyle ilgili davada 'pastiche' kavramını tanımladı. Karara göre, bir eserin 'pastiche' olarak kabul edilebilmesi için, alıntılanan eserle sanatsal veya yaratıcı bir diyalog içinde olması gerekiyor. Bu karar, AB genelinde sanat uygulamaları üzerinde etkili olabilir.",
+          "group" : "",
+          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-24T20:41:59Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Art Newspaper",
+              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement"
+            }
+          ],
+          "titleTR" : "AB Adalet Divanı 'pastiche' kavramını tanımladı: Sanatsal diyalog şartı"
+        }
+      ],
+      "packetSpot" : "Sanatta telif hakkı ihlalleri üzerine iki önemli yargı kararı öne çıkıyor. Biri, Jeff Koons'un 'Made in Heaven' serisiyle ilgili bir davada zaman aşımı nedeniyle lehine sonuçlanan karar; diğeri ise Kraftwerk'in müziğinin örneklenmesiyle ilgili AB Adalet Divanı'nın 'pastiche' kavramını tanımlayan kararı.",
+      "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
+      "publishedAt" : "2026-07-24T20:41:59Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
       "caption" : "Donald Trump",
       "illustrationName" : "9DEA6DC5-A1BC-40F7-AD82-371D44E8EAAB.png",
       "items" : [
@@ -1289,7 +1380,7 @@
       "packetTitle" : "Trump'ın yeni tarifeleri uluslararası eleştiri ve hukuki itirazlarla karşı karşıya",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 3
     },
     {
       "illustrationName" : "5C0FDC0D-02B4-5083-86A3-510A86259393.png",
@@ -1335,7 +1426,7 @@
       "packetTitle" : "Paramount'un Warner Bros. satın alımı hukuki engellerle karşı karşıya",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 4
     },
     {
       "items" : [
@@ -1380,7 +1471,7 @@
       "packetTitle" : "DNC'nin yeni ön seçim takvimi: Güney Carolina ilk sırada",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 5
     },
     {
       "illustrationName" : "8558F539-353F-5A9D-8A71-3F8E7D0DFC8B.png",
@@ -1444,7 +1535,7 @@
       "packetTitle" : "ABD'nin İran'a karşı askeri hamleleri tırmanıyor",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 6
     },
     {
       "items" : [
@@ -1489,7 +1580,7 @@
       "packetTitle" : "OpenAI'nin ihlali yapay zeka güvenliğini sorgulatıyor",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
+      "slot" : 7
     },
     {
       "illustrationName" : "15077D30-A0C2-5BEC-B2EC-4EE434A9926D.png",
@@ -1535,40 +1626,7 @@
       "packetTitle" : "Trump'ın anıt alanları küçültme kararı tartışma yaratıyor",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
-    },
-    {
-      "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
-      "items" : [
-        {
-          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
-          "category" : "Environment",
-          "descriptionTR" : "Fransa'nın Atlantik kıyısındaki kasaba ve tatil beldelerinden yaklaşık 20.000 kişi, orman yangınlarının yayılması nedeniyle tahliye edildi. Bordeaux'nun güneybatısındaki Lège-Cap Ferret yakınlarındaki yangın, 31 kilometrekarelik bir alana yayıldı. Gironde bölgesi valisi Sophie Brocas, Paris bölgesinden gelen ekiplerle birlikte 700 itfaiyecinin görevlendirildiğini belirtti. Yangın, Lège'deki ilk evlere 300 metre kadar yaklaştı ve su bombaları kullanıldı. Claouey köyü de önlem olarak tahliye edildi. Güney Avrupa, bu yaz birçok büyük yangınla karşı karşıya kaldı. Bilim insanları, iklim değişikliğinin sıcaklık ve kuraklık sıklığını artırarak bölgeyi yangınlara daha duyarlı hale getirdiği konusunda uyarıyor.",
-          "group" : "",
-          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
-          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-24T20:55:09Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Mongabay",
-              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Guardian Environment",
-              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/23\/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video"
-            }
-          ],
-          "titleTR" : "Fransa'nın popüler turistik kasabası yakınlarında orman yangını: Binlerce kişi tahliye edildi"
-        }
-      ],
-      "packetSpot" : "Fransa'nın güneybatısındaki orman yangınları, Arcachon Körfezi ve Lège-Cap Ferret yakınlarında yayılarak binlerce turist ve sakinin tahliye edilmesine yol açtı. İtfaiyeciler, geniş orman alanlarını tüketen alevlerle mücadeleye devam ediyor.",
-      "packetTitle" : "Fransa'nın güneybatısında orman yangınları: Tahliyeler ve mücadele",
-      "publishedAt" : "2026-07-24T20:55:09Z",
-      "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 8
     },
     {
       "illustrationName" : "03BF698B-EA01-5467-960E-74C2B75DD9CF.png",
@@ -1614,7 +1672,40 @@
       "packetTitle" : "İklim ve sömürgecilik karşısında yerli liderlerin BM'de daha fazla katılım talebi",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 9
+    },
+    {
+      "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+          "category" : "Environment",
+          "descriptionTR" : "Fransa'nın Atlantik kıyısındaki kasaba ve tatil beldelerinden yaklaşık 20.000 kişi, orman yangınlarının yayılması nedeniyle tahliye edildi. Bordeaux'nun güneybatısındaki Lège-Cap Ferret yakınlarındaki yangın, 31 kilometrekarelik bir alana yayıldı. Gironde bölgesi valisi Sophie Brocas, Paris bölgesinden gelen ekiplerle birlikte 700 itfaiyecinin görevlendirildiğini belirtti. Yangın, Lège'deki ilk evlere 300 metre kadar yaklaştı ve su bombaları kullanıldı. Claouey köyü de önlem olarak tahliye edildi. Güney Avrupa, bu yaz birçok büyük yangınla karşı karşıya kaldı. Bilim insanları, iklim değişikliğinin sıcaklık ve kuraklık sıklığını artırarak bölgeyi yangınlara daha duyarlı hale getirdiği konusunda uyarıyor.",
+          "group" : "",
+          "id" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+          "link" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Mongabay",
+              "url" : "https:\/\/news.mongabay.com\/short-article\/2026\/07\/wildfire-spreads-near-popular-french-tourist-town-as-thousands-are-evacuated\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Guardian Environment",
+              "url" : "https:\/\/www.theguardian.com\/world\/video\/2026\/jul\/23\/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video"
+            }
+          ],
+          "titleTR" : "Fransa'nın popüler turistik kasabası yakınlarında orman yangını: Binlerce kişi tahliye edildi"
+        }
+      ],
+      "packetSpot" : "Fransa'nın güneybatısındaki orman yangınları, Arcachon Körfezi ve Lège-Cap Ferret yakınlarında yayılarak binlerce turist ve sakinin tahliye edilmesine yol açtı. İtfaiyeciler, geniş orman alanlarını tüketen alevlerle mücadeleye devam ediyor.",
+      "packetTitle" : "Fransa'nın güneybatısında orman yangınları: Tahliyeler ve mücadele",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 10
     },
     {
       "items" : [
@@ -1659,7 +1750,44 @@
       "packetTitle" : "Laos'ta turizmle beslenen yaban hayatı ticareti",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 11
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "category" : "Energy",
+          "descriptionTR" : "Elektrifikasyon gündemi, Afrika için olağanüstü bir fırsat ve büyük bir zorluk teşkil ediyor. Power Shift Africa'nın kurucusu ve direktörü Mohamed Adow, Londra İklim Eylem Haftası'nda elektrifikasyonun COP31 yolunda iklim politikasının merkezine taşındığını belirtti. Bonn iklim görüşmelerinde ortaya atılan hedefe göre, 2035 yılına kadar dünya enerji tüketiminin %35'i elektrikten sağlanmalı. Bu hedef, Türkiye'de düzenlenecek COP31 için belirleyici bir test olacak.",
+          "group" : "Africa electrification agenda",
+          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-24T20:55:09Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Climate Home News",
+              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Carbon Brief",
+              "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens"
+            }
+          ],
+          "titleTR" : "Afrika, Elektrifikasyon Çağına Öncülük Edebilir"
+        }
+      ],
+      "packetSpot" : "COP31'de elektrifikasyon, küresel enerji tüketiminin 2035 yılına kadar %35'inin elektrikten sağlanması hedefiyle merkezi bir strateji olarak öne çıkıyor. Bu gündem, Afrika için hem zorluklar hem de fırsatlar sunuyor; kıta, yenilenebilir enerji sistemleri inşa ederek fayda sağlayabilir. Elektrifikasyonun küresel olarak teşvik edilmesi, fosil yakıtlara bağımlılığı azaltmayı ve enerji güvenliğini artırmayı amaçlıyor. Bu durumun iklim politikaları ve ekonomik kalkınma üzerinde önemli etkileri olacak.",
+      "packetTitle" : "COP31 ve Afrika'nın Kalkınmasında Elektrifikasyonun Rolü",
+      "publishedAt" : "2026-07-24T20:55:09Z",
+      "sessionID" : "publish-draft",
+      "slot" : 12
     },
     {
       "illustrationName" : "6FF85FB8-CF7F-5ECE-A6BE-7018129385EC.png",
@@ -1705,44 +1833,7 @@
       "packetTitle" : "El Niño iklim zorluklarını artırıyor",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
-          "category" : "Energy",
-          "descriptionTR" : "Elektrifikasyon gündemi, Afrika için olağanüstü bir fırsat ve büyük bir zorluk teşkil ediyor. Power Shift Africa'nın kurucusu ve direktörü Mohamed Adow, Londra İklim Eylem Haftası'nda elektrifikasyonun COP31 yolunda iklim politikasının merkezine taşındığını belirtti. Bonn iklim görüşmelerinde ortaya atılan hedefe göre, 2035 yılına kadar dünya enerji tüketiminin %35'i elektrikten sağlanmalı. Bu hedef, Türkiye'de düzenlenecek COP31 için belirleyici bir test olacak.",
-          "group" : "Africa electrification agenda",
-          "id" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
-          "link" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-24T20:55:09Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Climate Home News",
-              "url" : "https:\/\/www.climatechangenews.com\/2026\/07\/16\/africa-can-lead-the-age-of-electrification\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Climate Home News",
-              "url" : "https:\/\/www.climatechangenews.com\/2026\/06\/24\/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels\/"
-            },
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Carbon Brief",
-              "url" : "https:\/\/www.carbonbrief.org\/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens"
-            }
-          ],
-          "titleTR" : "Afrika, Elektrifikasyon Çağına Öncülük Edebilir"
-        }
-      ],
-      "packetSpot" : "COP31'de elektrifikasyon, küresel enerji tüketiminin 2035 yılına kadar %35'inin elektrikten sağlanması hedefiyle merkezi bir strateji olarak öne çıkıyor. Bu gündem, Afrika için hem zorluklar hem de fırsatlar sunuyor; kıta, yenilenebilir enerji sistemleri inşa ederek fayda sağlayabilir. Elektrifikasyonun küresel olarak teşvik edilmesi, fosil yakıtlara bağımlılığı azaltmayı ve enerji güvenliğini artırmayı amaçlıyor. Bu durumun iklim politikaları ve ekonomik kalkınma üzerinde önemli etkileri olacak.",
-      "packetTitle" : "COP31 ve Afrika'nın Kalkınmasında Elektrifikasyonun Rolü",
-      "publishedAt" : "2026-07-24T20:55:09Z",
-      "sessionID" : "publish-draft",
-      "slot" : 6
+      "slot" : 13
     },
     {
       "illustrationName" : "542AFEB5-E554-53AF-A2A5-CF3FA8A747A9.png",
@@ -1788,7 +1879,7 @@
       "packetTitle" : "Aşırı sıcaklarla mücadelede klima tartışmaları ve yerel ısı verisi sistemlerinin rolü",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 7
+      "slot" : 14
     },
     {
       "illustrationName" : "AD308FF5-70B0-44D5-A5AE-B2A26B89246B.png",
@@ -1852,7 +1943,7 @@
       "packetTitle" : "Trump'ın uluslararası anlaşmalar ve politikalar üzerindeki etkisi",
       "publishedAt" : "2026-07-25T01:16:43Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 15
     },
     {
       "illustrationName" : "C1458EEA-0D38-50DD-9846-EA3CA27D9F3A.png",
@@ -1898,7 +1989,7 @@
       "packetTitle" : "ABD'nin İran stratejisindeki değişimler",
       "publishedAt" : "2026-07-25T01:16:43Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 16
     },
     {
       "illustrationName" : "F718CA46-B6F5-5C45-A4FE-58D5EA28F1DF.png",
@@ -1944,7 +2035,7 @@
       "packetTitle" : "Toplumsal ve siyasi sorunların tetiklediği protestolar",
       "publishedAt" : "2026-07-25T01:16:43Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 17
     },
     {
       "illustrationName" : "D6E30540-AC98-5DE6-9C96-11571AA4D440.png",
@@ -1990,98 +2081,7 @@
       "packetTitle" : "Çevresel ve politik değişimlerin kamu hizmetlerine etkisi",
       "publishedAt" : "2026-07-25T01:16:43Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
-          "category" : "Culture",
-          "descriptionTR" : "1981 yılında ilk kez gösterime giren 'Take It Or Leave It', ünlü İngiliz grubu Madness'ın nasıl bir araya geldiğini anlatıyor. BFI tarafından 4K olarak restore edilen film, 2 Ekim 2026'da Birleşik Krallık ve İrlanda'da sinemalarda yeniden gösterime girecek. Ayrıca, 19 Ekim'de BFI Blu-ray\/DVD olarak piyasaya sürülecek. Filmin dünya prömiyeri ve grup üyeleriyle bir soru-cevap etkinliği 30 Eylül'de BFI Southbank'te gerçekleşecek.",
-          "group" : "Madness film restoration",
-          "id" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
-          "link" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-24T20:41:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BFI",
-              "url" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration"
-            }
-          ],
-          "titleTR" : "Madness'ın hikayesi 'Take It Or Leave It' yeniden sinemalarda"
-        },
-        {
-          "atomID" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
-          "category" : "Culture",
-          "descriptionTR" : "John Waters'ın altı filmi, Criterion Collection tarafından restore edilerek Blu-ray formatında yeniden piyasaya sürülüyor. Bu ay 'Hairspray' ve 'Desperate Living' de bu koleksiyona katılıyor. Waters, restorasyon sürecinde yer aldı ve filmlerin orijinal tadını koruyarak en iyi şekilde görünmelerini sağladı. 'Desperate Living', Waters'ın filmografisinde daha az bilinen bir yapım olarak öne çıkıyor.",
-          "group" : "John Waters restorations",
-          "id" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
-          "link" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm",
-          "newsValue" : 4,
-          "publishedAt" : "2026-07-24T20:41:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "BFI",
-              "url" : "https:\/\/www.bfi.org.uk\/interviews\/john-waters-restoring-hairspray-desperate-living-mistakes-are-part-charm"
-            }
-          ],
-          "titleTR" : "John Waters: 'Hatalar cazibenin bir parçası'"
-        }
-      ],
-      "packetSpot" : "Film restorasyonları ve yeniden gösterimler, klasik filmleri izleyiciyle buluşturma çabalarını öne çıkarıyor. Hem BFI'nin Madness grubunun hikayesini anlatan 'Take It Or Leave It' filminin 4K restorasyonu hem de John Waters'ın 'Hairspray' ve 'Desperate Living' filmlerinin Criterion Collection tarafından restore edilmesi, bu çabaların örnekleri arasında yer alıyor. Bu projeler, filmlerin teknik ve kültürel açıdan yeniden değerlendirilmesini sağlıyor.",
-      "packetTitle" : "Klasik filmler yeniden hayat buluyor",
-      "publishedAt" : "2026-07-24T20:41:59Z",
-      "sessionID" : "publish-draft",
-      "slot" : 1
-    },
-    {
-      "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
-          "category" : "Law",
-          "descriptionTR" : "New York'taki bir federal temyiz mahkemesi, Jeff Koons'un 'Made in Heaven' serisiyle ilgili yıllardır süren bir telif hakkı ihlali davasında Koons'un lehine karar verdi. Mahkeme, sanatçı Michael A. Hayden'in iddiasının zaman aşımına uğradığını belirtti. Hayden, Koons'un eserlerini 2019'da keşfettiğini iddia etmişti, ancak mahkeme, Koons'un eserlerinin daha önce fark edilmesi gerektiğini vurguladı.",
-          "group" : "Jeff Koons copyright case",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-24T20:41:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/23\/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden"
-            }
-          ],
-          "titleTR" : "Jeff Koons'un 'Made in Heaven' davasında temyiz mahkemesi lehine karar verdi"
-        },
-        {
-          "atomID" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
-          "category" : "Law",
-          "descriptionTR" : "AB Adalet Divanı, Alman müzik yapımcısı Moses Pelham'ın Kraftwerk'in bir şarkısını izinsiz örneklemesiyle ilgili davada 'pastiche' kavramını tanımladı. Karara göre, bir eserin 'pastiche' olarak kabul edilebilmesi için, alıntılanan eserle sanatsal veya yaratıcı bir diyalog içinde olması gerekiyor. Bu karar, AB genelinde sanat uygulamaları üzerinde etkili olabilir.",
-          "group" : "",
-          "id" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
-          "link" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-24T20:41:59Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "The Art Newspaper",
-              "url" : "https:\/\/www.theartnewspaper.com\/2026\/07\/21\/when-is-appropriation-pastiche-or-copyright-infringement"
-            }
-          ],
-          "titleTR" : "AB Adalet Divanı 'pastiche' kavramını tanımladı: Sanatsal diyalog şartı"
-        }
-      ],
-      "packetSpot" : "Sanatta telif hakkı ihlalleri üzerine iki önemli yargı kararı öne çıkıyor. Biri, Jeff Koons'un 'Made in Heaven' serisiyle ilgili bir davada zaman aşımı nedeniyle lehine sonuçlanan karar; diğeri ise Kraftwerk'in müziğinin örneklenmesiyle ilgili AB Adalet Divanı'nın 'pastiche' kavramını tanımlayan kararı.",
-      "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
-      "publishedAt" : "2026-07-24T20:41:59Z",
-      "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 18
     },
     {
       "items" : [
@@ -2144,7 +2144,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış ABD finansal göstergelerini etkiliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 19
     },
     {
       "items" : [
@@ -2207,7 +2207,7 @@
       "packetTitle" : "Orta Doğu'daki çatışmalar petrol fiyatlarını ve gerilimleri artırıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 20
     },
     {
       "items" : [
@@ -2270,7 +2270,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış piyasaları sarsıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 21
     },
     {
       "items" : [
@@ -2333,25 +2333,7 @@
       "packetTitle" : "Büyük teknoloji şirketlerinin AI harcamaları borsa tepkilerini tetikliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
-    }
-  ],
-  "superPackets" : [
-    {
-      "slots" : [
-        2,
-        7
-      ],
-      "spot" : "ABD ve İran arasındaki gerilim Körfez'de artıyor; tehditler ve saldırılar bölgesel güvenlik açıklarına odaklanıyor.",
-      "title" : "Körfez'de ABD-İran gerilimi tırmanıyor"
-    },
-    {
-      "slots" : [
-        1,
-        3
-      ],
-      "spot" : "Ortadoğu'da stratejik anlaşmalar yoğunlaşıyor; kaynaklar nükleer işbirliği ve toprak çerçeveleri üzerinde birleşiyor.",
-      "title" : "Ortadoğu'da stratejik anlaşmalar"
+      "slot" : 22
     }
   ],
   "week" : "2026-W30"
