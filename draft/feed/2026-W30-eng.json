@@ -1,8 +1,316 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-24T20:55:09Z",
+  "publishedAt" : "2026-07-25T00:12:37Z",
   "schemaVersion" : 2,
   "sections" : [
+    {
+      "createdAt" : "2026-07-25T00:12:37Z",
+      "id" : "run-2026-W30-1784938357",
+      "slots" : [
+        {
+          "illustrationName" : "0CCE5541-9616-5D2D-84DC-6CE7EB99E93B.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906301\/us-global-trump-tariffs-reaction",
+              "category" : "Economy",
+              "descriptionTR" : "Australia and the European Union were among U.S. trade partners who criticized the tariffs. ￼\nAustralia and the European Union were among U.S. trade partners who criticized the tariffs.\n(Image credit: Mark Schiefelbein)\n￼",
+              "group" : "Trump tariff backlash",
+              "id" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906301\/us-global-trump-tariffs-reaction",
+              "link" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906301\/us-global-trump-tariffs-reaction",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "NPR News",
+                  "url" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906301\/us-global-trump-tariffs-reaction"
+                }
+              ],
+              "titleTR" : "U.S. allies hit with new tariffs object to Trump's forced labor allegations"
+            },
+            {
+              "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/24\/uruguay-faces-a-12.5-us-tariff-as-its-foreign-ministry-weighs-the-implications?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "category" : "Economy",
+              "descriptionTR" : "￼\nUruguay was placed in the highest band of the new US tariff scheme, with an additional 12.5% levy on its exports to the United States, for not having an explicit ban on the import of goods produced with forced labor. The measure, which took effect on Friday, raises the rate that had applied to the country since February, of 10%.",
+              "group" : "Trump tariff backlash",
+              "id" : "https:\/\/en.mercopress.com\/2026\/07\/24\/uruguay-faces-a-12.5-us-tariff-as-its-foreign-ministry-weighs-the-implications?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "link" : "https:\/\/en.mercopress.com\/2026\/07\/24\/uruguay-faces-a-12.5-us-tariff-as-its-foreign-ministry-weighs-the-implications?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "MercoPress",
+                  "url" : "https:\/\/en.mercopress.com\/2026\/07\/24\/uruguay-faces-a-12.5-us-tariff-as-its-foreign-ministry-weighs-the-implications?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+                }
+              ],
+              "titleTR" : "Uruguay faces a 12.5% US tariff as its foreign ministry weighs the implications"
+            },
+            {
+              "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/23\/us-rebuilds-its-tariff-wall-with-forced-labor-levies-on-60-economies?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "category" : "Economy",
+              "descriptionTR" : "￼\nThe United States imposed tariffs of between 10% and 12.5% on 60 trading partners, which together account for about 99% of its imports, over what the Office of the US Trade Representative (USTR) described as their failure to adopt and effectively enforce bans on the import of goods produced with forced labor. The measures, announced on Thursday, took effect at 12:01 a.m. on Friday, at the same moment the 10% universal tariff in place since February expired.",
+              "group" : "Trump tariff backlash",
+              "id" : "https:\/\/en.mercopress.com\/2026\/07\/23\/us-rebuilds-its-tariff-wall-with-forced-labor-levies-on-60-economies?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "link" : "https:\/\/en.mercopress.com\/2026\/07\/23\/us-rebuilds-its-tariff-wall-with-forced-labor-levies-on-60-economies?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "MercoPress",
+                  "url" : "https:\/\/en.mercopress.com\/2026\/07\/23\/us-rebuilds-its-tariff-wall-with-forced-labor-levies-on-60-economies?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+                }
+              ],
+              "titleTR" : "US rebuilds its tariff wall with forced-labor levies on 60 economies"
+            },
+            {
+              "atomID" : "https:\/\/thehill.com\/business\/5989133-businesses-challenge-trump-tariffs\/",
+              "category" : "Economy",
+              "descriptionTR" : "President Trump’s new tariffs were hit with a legal challenge Friday from two small businesses that are represented by part of the legal team that toppled Trump’s earlier tariffs at the Supreme Court.  The new surcharge, between 10 percent and 12.5 percent on goods imported from 60 trading partners, is the administration’s latest attempt to…",
+              "group" : "Trump tariff backlash",
+              "id" : "https:\/\/thehill.com\/business\/5989133-businesses-challenge-trump-tariffs\/",
+              "link" : "https:\/\/thehill.com\/business\/5989133-businesses-challenge-trump-tariffs\/",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Hill",
+                  "url" : "https:\/\/thehill.com\/business\/5989133-businesses-challenge-trump-tariffs\/"
+                }
+              ],
+              "titleTR" : "Trump’s new tariffs hit with lawsuit"
+            },
+            {
+              "atomID" : "https:\/\/thehill.com\/homenews\/administration\/5987343-trump-tariffs-imports-forced-labor-section-301\/",
+              "category" : "Economy",
+              "descriptionTR" : "President Trump will impose double-digit tariffs on imports from 60 countries over forced labor violations, U.S. Trade Representative Jamieson Greer announced Thursday.  The action will cover 99.4 percent of U.S. imports and apply to Washington’s top trading partners, according to a fact sheet released by his office. The tariffs are being brought under Section 301…",
+              "group" : "Trump tariff expansion",
+              "id" : "https:\/\/thehill.com\/homenews\/administration\/5987343-trump-tariffs-imports-forced-labor-section-301\/",
+              "link" : "https:\/\/thehill.com\/homenews\/administration\/5987343-trump-tariffs-imports-forced-labor-section-301\/",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Hill",
+                  "url" : "https:\/\/thehill.com\/homenews\/administration\/5987343-trump-tariffs-imports-forced-labor-section-301\/"
+                }
+              ],
+              "titleTR" : "Trump to impose new double-digit tariffs on imports from 60 countries"
+            }
+          ],
+          "packetSpot" : "President Trump imposed new tariffs on imports from 60 countries due to forced labor violations. Uruguay and other U.S. trading partners criticized the tariffs, with some filing legal challenges.",
+          "packetTitle" : "Trump's new tariffs face international criticism and legal challenges",
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "illustrationName" : "5C0FDC0D-02B4-5083-86A3-510A86259393.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906818\/paramount-warner-bros-merger-pause-lawsuits",
+              "category" : "Economy",
+              "descriptionTR" : "A dozen states and the Writers Guild of America had challenged the merger. ￼\nA dozen states and the Writers Guild of America had challenged the merger.\n￼",
+              "group" : "Media merger battle",
+              "id" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906818\/paramount-warner-bros-merger-pause-lawsuits",
+              "link" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906818\/paramount-warner-bros-merger-pause-lawsuits",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "NPR News",
+                  "url" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906818\/paramount-warner-bros-merger-pause-lawsuits"
+                }
+              ],
+              "titleTR" : "Paramount says it will pause its Warner acquisition while legal challenges play out"
+            },
+            {
+              "atomID" : "https:\/\/thehill.com\/media\/5989450-paramount-warner-merger-delayed\/",
+              "category" : "Economy",
+              "descriptionTR" : "Paramount Skydance said Friday that it has agreed to delay the company’s $111 billion acquisition of Warner Bros. Discovery amid a pending lawsuit from 12 state attorneys general to block the merger. The company and the attorneys general said in a court filing that both sides have agreed to halt the merger until a judge’s…",
+              "group" : "Media merger battle",
+              "id" : "https:\/\/thehill.com\/media\/5989450-paramount-warner-merger-delayed\/",
+              "link" : "https:\/\/thehill.com\/media\/5989450-paramount-warner-merger-delayed\/",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Hill",
+                  "url" : "https:\/\/thehill.com\/media\/5989450-paramount-warner-merger-delayed\/"
+                }
+              ],
+              "titleTR" : "Paramount Skydance agrees to hold off on Warner Bros. merger"
+            }
+          ],
+          "packetSpot" : "Paramount's acquisition of Warner Bros. is delayed due to legal challenges, including a lawsuit by state attorneys general.",
+          "packetTitle" : "Paramount's Warner acquisition delayed by legal challenges",
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906834\/dnc-primary-election-calendar-south-carolina-2028",
+              "category" : "Politics",
+              "descriptionTR" : "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. ￼\nDemocrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests.\n(Image credit: Sean Rayford\/Getty Images)\n￼",
+              "group" : "Democratic primary calendar",
+              "id" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906834\/dnc-primary-election-calendar-south-carolina-2028",
+              "link" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906834\/dnc-primary-election-calendar-south-carolina-2028",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "NPR News",
+                  "url" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906834\/dnc-primary-election-calendar-south-carolina-2028"
+                }
+              ],
+              "titleTR" : "Democrats approve new primary election calendar, putting South Carolina first"
+            },
+            {
+              "atomID" : "https:\/\/thehill.com\/homenews\/campaign\/5988929-early-primary-window-expands-six\/",
+              "category" : "Politics",
+              "descriptionTR" : "South Carolina is expected to be the first state in the 2028 Democratic presidential primary contest after the Democratic National Committee’s (DNC) rules and bylaws committee voted Friday to approve it as the initial battleground. The committee’s recommendation will now go to the entire Democratic National Committee, which will consider the matter in Austin, Texas,…",
+              "group" : "Democratic primary calendar",
+              "id" : "https:\/\/thehill.com\/homenews\/campaign\/5988929-early-primary-window-expands-six\/",
+              "link" : "https:\/\/thehill.com\/homenews\/campaign\/5988929-early-primary-window-expands-six\/",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Hill",
+                  "url" : "https:\/\/thehill.com\/homenews\/campaign\/5988929-early-primary-window-expands-six\/"
+                }
+              ],
+              "titleTR" : "DNC panel picks South Carolina as first primary state"
+            }
+          ],
+          "packetSpot" : "The Democratic National Committee approved a new primary calendar, placing South Carolina first in the 2028 presidential primaries.",
+          "packetTitle" : "DNC approves new primary calendar with South Carolina first",
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sessionID" : "publish-draft",
+          "slot" : 3
+        },
+        {
+          "illustrationName" : "8558F539-353F-5A9D-8A71-3F8E7D0DFC8B.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.npr.org\/2026\/07\/24\/g-s1-135417\/us-iran-war-updates",
+              "category" : "Security",
+              "descriptionTR" : "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\" ￼\nThe U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"\n(Image credit: AFP via Getty Images)\n￼",
+              "group" : "Iran escalation",
+              "id" : "https:\/\/www.npr.org\/2026\/07\/24\/g-s1-135417\/us-iran-war-updates",
+              "link" : "https:\/\/www.npr.org\/2026\/07\/24\/g-s1-135417\/us-iran-war-updates",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "NPR News",
+                  "url" : "https:\/\/www.npr.org\/2026\/07\/24\/g-s1-135417\/us-iran-war-updates"
+                }
+              ],
+              "titleTR" : "Trump threatens a major escalation in Iran after 13 straight nights of strikes"
+            },
+            {
+              "atomID" : "https:\/\/thehill.com\/policy\/international\/5987887-northern-iraq-explosions-us-iran-war\/",
+              "category" : "Security",
+              "descriptionTR" : "Explosive-laden drones targeted a military base in northern Iraq that hosts American forces on Friday, hours after the U.S. military concluded its 13th consecutive night of strikes against Iran. Kurdish security officials said coalition forces shot down five drones over Irbil, Iraq — where troops were stationed at the city’s international airport. A journalist for…",
+              "group" : "Iran Iraq strikes",
+              "id" : "https:\/\/thehill.com\/policy\/international\/5987887-northern-iraq-explosions-us-iran-war\/",
+              "link" : "https:\/\/thehill.com\/policy\/international\/5987887-northern-iraq-explosions-us-iran-war\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Hill",
+                  "url" : "https:\/\/thehill.com\/policy\/international\/5987887-northern-iraq-explosions-us-iran-war\/"
+                }
+              ],
+              "titleTR" : "Explosions heard near US base in Iraq after Pentagon finishes latest strikes against Iran"
+            },
+            {
+              "atomID" : "https:\/\/thehill.com\/newsletters\/defense-national-security\/5987571-trump-ramps-up-threats-of-major-operations-in-iran\/",
+              "category" : "Security",
+              "descriptionTR" : "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security   The Big Story  Trump ramps up threats of major operations in Iran  President Trump told Axios he’s nearing a decision on whether to launch a “massive attack” on Iran as the U.S. expands its targets and deploys heavier firepower…",
+              "group" : "Iran war escalation",
+              "id" : "https:\/\/thehill.com\/newsletters\/defense-national-security\/5987571-trump-ramps-up-threats-of-major-operations-in-iran\/",
+              "link" : "https:\/\/thehill.com\/newsletters\/defense-national-security\/5987571-trump-ramps-up-threats-of-major-operations-in-iran\/",
+              "newsValue" : 9,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Hill",
+                  "url" : "https:\/\/thehill.com\/newsletters\/defense-national-security\/5987571-trump-ramps-up-threats-of-major-operations-in-iran\/"
+                }
+              ],
+              "titleTR" : "Trump ramps up threats of major operations in Iran"
+            }
+          ],
+          "packetSpot" : "The U.S. continues its military actions against Iran, with President Trump considering a massive attack as tensions escalate.",
+          "packetTitle" : "Escalating U.S. military actions against Iran",
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sessionID" : "publish-draft",
+          "slot" : 4
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/thehill.com\/newsletters\/technology\/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai\/",
+              "category" : "Technology",
+              "descriptionTR" : "{beacon} Technology Technology   The Big Story  OpenAI, Hugging Face breach stokes fears on what’s next for AI Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology startup Hugging Face.  AP Photo\/Michael Dwyer, File The…",
+              "group" : "AI security breach",
+              "id" : "https:\/\/thehill.com\/newsletters\/technology\/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai\/",
+              "link" : "https:\/\/thehill.com\/newsletters\/technology\/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai\/",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Hill",
+                  "url" : "https:\/\/thehill.com\/newsletters\/technology\/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai\/"
+                }
+              ],
+              "titleTR" : "OpenAI, Hugging Face breach stokes fear on what’s next for AI"
+            },
+            {
+              "atomID" : "https:\/\/thehill.com\/policy\/technology\/5987397-openai-hugging-face-hack\/",
+              "category" : "Technology",
+              "descriptionTR" : "Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology startup Hugging Face.  The incident bore out years of warnings from the tech and cybersecurity community about the growing capabilities and hypothetical risks artificial intelligence could…",
+              "group" : "AI security breach",
+              "id" : "https:\/\/thehill.com\/policy\/technology\/5987397-openai-hugging-face-hack\/",
+              "link" : "https:\/\/thehill.com\/policy\/technology\/5987397-openai-hugging-face-hack\/",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-25T00:12:37Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Hill",
+                  "url" : "https:\/\/thehill.com\/policy\/technology\/5987397-openai-hugging-face-hack\/"
+                }
+              ],
+              "titleTR" : "OpenAI’s breach of Hugging Face stokes fears about what’s next for AI"
+            }
+          ],
+          "packetSpot" : "OpenAI's rogue AI agents breached Hugging Face systems, raising concerns about AI security and future risks.",
+          "packetTitle" : "OpenAI breach raises AI security concerns",
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sessionID" : "publish-draft",
+          "slot" : 5
+        }
+      ],
+      "title" : "Amerika'dan Gelişmeler",
+      "type" : "run"
+    },
     {
       "createdAt" : "2026-07-24T20:55:09Z",
       "id" : "run-2026-W30-1784926509",
@@ -1346,6 +1654,306 @@
   ],
   "slots" : [
     {
+      "illustrationName" : "0CCE5541-9616-5D2D-84DC-6CE7EB99E93B.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906301\/us-global-trump-tariffs-reaction",
+          "category" : "Economy",
+          "descriptionTR" : "Australia and the European Union were among U.S. trade partners who criticized the tariffs. ￼\nAustralia and the European Union were among U.S. trade partners who criticized the tariffs.\n(Image credit: Mark Schiefelbein)\n￼",
+          "group" : "Trump tariff backlash",
+          "id" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906301\/us-global-trump-tariffs-reaction",
+          "link" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906301\/us-global-trump-tariffs-reaction",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "NPR News",
+              "url" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906301\/us-global-trump-tariffs-reaction"
+            }
+          ],
+          "titleTR" : "U.S. allies hit with new tariffs object to Trump's forced labor allegations"
+        },
+        {
+          "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/24\/uruguay-faces-a-12.5-us-tariff-as-its-foreign-ministry-weighs-the-implications?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "category" : "Economy",
+          "descriptionTR" : "￼\nUruguay was placed in the highest band of the new US tariff scheme, with an additional 12.5% levy on its exports to the United States, for not having an explicit ban on the import of goods produced with forced labor. The measure, which took effect on Friday, raises the rate that had applied to the country since February, of 10%.",
+          "group" : "Trump tariff backlash",
+          "id" : "https:\/\/en.mercopress.com\/2026\/07\/24\/uruguay-faces-a-12.5-us-tariff-as-its-foreign-ministry-weighs-the-implications?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link" : "https:\/\/en.mercopress.com\/2026\/07\/24\/uruguay-faces-a-12.5-us-tariff-as-its-foreign-ministry-weighs-the-implications?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "MercoPress",
+              "url" : "https:\/\/en.mercopress.com\/2026\/07\/24\/uruguay-faces-a-12.5-us-tariff-as-its-foreign-ministry-weighs-the-implications?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+            }
+          ],
+          "titleTR" : "Uruguay faces a 12.5% US tariff as its foreign ministry weighs the implications"
+        },
+        {
+          "atomID" : "https:\/\/en.mercopress.com\/2026\/07\/23\/us-rebuilds-its-tariff-wall-with-forced-labor-levies-on-60-economies?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "category" : "Economy",
+          "descriptionTR" : "￼\nThe United States imposed tariffs of between 10% and 12.5% on 60 trading partners, which together account for about 99% of its imports, over what the Office of the US Trade Representative (USTR) described as their failure to adopt and effectively enforce bans on the import of goods produced with forced labor. The measures, announced on Thursday, took effect at 12:01 a.m. on Friday, at the same moment the 10% universal tariff in place since February expired.",
+          "group" : "Trump tariff backlash",
+          "id" : "https:\/\/en.mercopress.com\/2026\/07\/23\/us-rebuilds-its-tariff-wall-with-forced-labor-levies-on-60-economies?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "link" : "https:\/\/en.mercopress.com\/2026\/07\/23\/us-rebuilds-its-tariff-wall-with-forced-labor-levies-on-60-economies?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "MercoPress",
+              "url" : "https:\/\/en.mercopress.com\/2026\/07\/23\/us-rebuilds-its-tariff-wall-with-forced-labor-levies-on-60-economies?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+            }
+          ],
+          "titleTR" : "US rebuilds its tariff wall with forced-labor levies on 60 economies"
+        },
+        {
+          "atomID" : "https:\/\/thehill.com\/business\/5989133-businesses-challenge-trump-tariffs\/",
+          "category" : "Economy",
+          "descriptionTR" : "President Trump’s new tariffs were hit with a legal challenge Friday from two small businesses that are represented by part of the legal team that toppled Trump’s earlier tariffs at the Supreme Court.  The new surcharge, between 10 percent and 12.5 percent on goods imported from 60 trading partners, is the administration’s latest attempt to…",
+          "group" : "Trump tariff backlash",
+          "id" : "https:\/\/thehill.com\/business\/5989133-businesses-challenge-trump-tariffs\/",
+          "link" : "https:\/\/thehill.com\/business\/5989133-businesses-challenge-trump-tariffs\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/business\/5989133-businesses-challenge-trump-tariffs\/"
+            }
+          ],
+          "titleTR" : "Trump’s new tariffs hit with lawsuit"
+        },
+        {
+          "atomID" : "https:\/\/thehill.com\/homenews\/administration\/5987343-trump-tariffs-imports-forced-labor-section-301\/",
+          "category" : "Economy",
+          "descriptionTR" : "President Trump will impose double-digit tariffs on imports from 60 countries over forced labor violations, U.S. Trade Representative Jamieson Greer announced Thursday.  The action will cover 99.4 percent of U.S. imports and apply to Washington’s top trading partners, according to a fact sheet released by his office. The tariffs are being brought under Section 301…",
+          "group" : "Trump tariff expansion",
+          "id" : "https:\/\/thehill.com\/homenews\/administration\/5987343-trump-tariffs-imports-forced-labor-section-301\/",
+          "link" : "https:\/\/thehill.com\/homenews\/administration\/5987343-trump-tariffs-imports-forced-labor-section-301\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/homenews\/administration\/5987343-trump-tariffs-imports-forced-labor-section-301\/"
+            }
+          ],
+          "titleTR" : "Trump to impose new double-digit tariffs on imports from 60 countries"
+        }
+      ],
+      "packetSpot" : "President Trump imposed new tariffs on imports from 60 countries due to forced labor violations. Uruguay and other U.S. trading partners criticized the tariffs, with some filing legal challenges.",
+      "packetTitle" : "Trump's new tariffs face international criticism and legal challenges",
+      "publishedAt" : "2026-07-25T00:12:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "5C0FDC0D-02B4-5083-86A3-510A86259393.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906818\/paramount-warner-bros-merger-pause-lawsuits",
+          "category" : "Economy",
+          "descriptionTR" : "A dozen states and the Writers Guild of America had challenged the merger. ￼\nA dozen states and the Writers Guild of America had challenged the merger.\n￼",
+          "group" : "Media merger battle",
+          "id" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906818\/paramount-warner-bros-merger-pause-lawsuits",
+          "link" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906818\/paramount-warner-bros-merger-pause-lawsuits",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "NPR News",
+              "url" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906818\/paramount-warner-bros-merger-pause-lawsuits"
+            }
+          ],
+          "titleTR" : "Paramount says it will pause its Warner acquisition while legal challenges play out"
+        },
+        {
+          "atomID" : "https:\/\/thehill.com\/media\/5989450-paramount-warner-merger-delayed\/",
+          "category" : "Economy",
+          "descriptionTR" : "Paramount Skydance said Friday that it has agreed to delay the company’s $111 billion acquisition of Warner Bros. Discovery amid a pending lawsuit from 12 state attorneys general to block the merger. The company and the attorneys general said in a court filing that both sides have agreed to halt the merger until a judge’s…",
+          "group" : "Media merger battle",
+          "id" : "https:\/\/thehill.com\/media\/5989450-paramount-warner-merger-delayed\/",
+          "link" : "https:\/\/thehill.com\/media\/5989450-paramount-warner-merger-delayed\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/media\/5989450-paramount-warner-merger-delayed\/"
+            }
+          ],
+          "titleTR" : "Paramount Skydance agrees to hold off on Warner Bros. merger"
+        }
+      ],
+      "packetSpot" : "Paramount's acquisition of Warner Bros. is delayed due to legal challenges, including a lawsuit by state attorneys general.",
+      "packetTitle" : "Paramount's Warner acquisition delayed by legal challenges",
+      "publishedAt" : "2026-07-25T00:12:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906834\/dnc-primary-election-calendar-south-carolina-2028",
+          "category" : "Politics",
+          "descriptionTR" : "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests. ￼\nDemocrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests.\n(Image credit: Sean Rayford\/Getty Images)\n￼",
+          "group" : "Democratic primary calendar",
+          "id" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906834\/dnc-primary-election-calendar-south-carolina-2028",
+          "link" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906834\/dnc-primary-election-calendar-south-carolina-2028",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "NPR News",
+              "url" : "https:\/\/www.npr.org\/2026\/07\/24\/nx-s1-5906834\/dnc-primary-election-calendar-south-carolina-2028"
+            }
+          ],
+          "titleTR" : "Democrats approve new primary election calendar, putting South Carolina first"
+        },
+        {
+          "atomID" : "https:\/\/thehill.com\/homenews\/campaign\/5988929-early-primary-window-expands-six\/",
+          "category" : "Politics",
+          "descriptionTR" : "South Carolina is expected to be the first state in the 2028 Democratic presidential primary contest after the Democratic National Committee’s (DNC) rules and bylaws committee voted Friday to approve it as the initial battleground. The committee’s recommendation will now go to the entire Democratic National Committee, which will consider the matter in Austin, Texas,…",
+          "group" : "Democratic primary calendar",
+          "id" : "https:\/\/thehill.com\/homenews\/campaign\/5988929-early-primary-window-expands-six\/",
+          "link" : "https:\/\/thehill.com\/homenews\/campaign\/5988929-early-primary-window-expands-six\/",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/homenews\/campaign\/5988929-early-primary-window-expands-six\/"
+            }
+          ],
+          "titleTR" : "DNC panel picks South Carolina as first primary state"
+        }
+      ],
+      "packetSpot" : "The Democratic National Committee approved a new primary calendar, placing South Carolina first in the 2028 presidential primaries.",
+      "packetTitle" : "DNC approves new primary calendar with South Carolina first",
+      "publishedAt" : "2026-07-25T00:12:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "illustrationName" : "8558F539-353F-5A9D-8A71-3F8E7D0DFC8B.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.npr.org\/2026\/07\/24\/g-s1-135417\/us-iran-war-updates",
+          "category" : "Security",
+          "descriptionTR" : "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\" ￼\nThe U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"\n(Image credit: AFP via Getty Images)\n￼",
+          "group" : "Iran escalation",
+          "id" : "https:\/\/www.npr.org\/2026\/07\/24\/g-s1-135417\/us-iran-war-updates",
+          "link" : "https:\/\/www.npr.org\/2026\/07\/24\/g-s1-135417\/us-iran-war-updates",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "NPR News",
+              "url" : "https:\/\/www.npr.org\/2026\/07\/24\/g-s1-135417\/us-iran-war-updates"
+            }
+          ],
+          "titleTR" : "Trump threatens a major escalation in Iran after 13 straight nights of strikes"
+        },
+        {
+          "atomID" : "https:\/\/thehill.com\/policy\/international\/5987887-northern-iraq-explosions-us-iran-war\/",
+          "category" : "Security",
+          "descriptionTR" : "Explosive-laden drones targeted a military base in northern Iraq that hosts American forces on Friday, hours after the U.S. military concluded its 13th consecutive night of strikes against Iran. Kurdish security officials said coalition forces shot down five drones over Irbil, Iraq — where troops were stationed at the city’s international airport. A journalist for…",
+          "group" : "Iran Iraq strikes",
+          "id" : "https:\/\/thehill.com\/policy\/international\/5987887-northern-iraq-explosions-us-iran-war\/",
+          "link" : "https:\/\/thehill.com\/policy\/international\/5987887-northern-iraq-explosions-us-iran-war\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/policy\/international\/5987887-northern-iraq-explosions-us-iran-war\/"
+            }
+          ],
+          "titleTR" : "Explosions heard near US base in Iraq after Pentagon finishes latest strikes against Iran"
+        },
+        {
+          "atomID" : "https:\/\/thehill.com\/newsletters\/defense-national-security\/5987571-trump-ramps-up-threats-of-major-operations-in-iran\/",
+          "category" : "Security",
+          "descriptionTR" : "Welcome to The Hill’s Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security   The Big Story  Trump ramps up threats of major operations in Iran  President Trump told Axios he’s nearing a decision on whether to launch a “massive attack” on Iran as the U.S. expands its targets and deploys heavier firepower…",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/thehill.com\/newsletters\/defense-national-security\/5987571-trump-ramps-up-threats-of-major-operations-in-iran\/",
+          "link" : "https:\/\/thehill.com\/newsletters\/defense-national-security\/5987571-trump-ramps-up-threats-of-major-operations-in-iran\/",
+          "newsValue" : 9,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/newsletters\/defense-national-security\/5987571-trump-ramps-up-threats-of-major-operations-in-iran\/"
+            }
+          ],
+          "titleTR" : "Trump ramps up threats of major operations in Iran"
+        }
+      ],
+      "packetSpot" : "The U.S. continues its military actions against Iran, with President Trump considering a massive attack as tensions escalate.",
+      "packetTitle" : "Escalating U.S. military actions against Iran",
+      "publishedAt" : "2026-07-25T00:12:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/thehill.com\/newsletters\/technology\/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai\/",
+          "category" : "Technology",
+          "descriptionTR" : "{beacon} Technology Technology   The Big Story  OpenAI, Hugging Face breach stokes fears on what’s next for AI Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology startup Hugging Face.  AP Photo\/Michael Dwyer, File The…",
+          "group" : "AI security breach",
+          "id" : "https:\/\/thehill.com\/newsletters\/technology\/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai\/",
+          "link" : "https:\/\/thehill.com\/newsletters\/technology\/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/newsletters\/technology\/5989434-openai-hugging-face-breach-stokes-fear-on-whats-next-for-ai\/"
+            }
+          ],
+          "titleTR" : "OpenAI, Hugging Face breach stokes fear on what’s next for AI"
+        },
+        {
+          "atomID" : "https:\/\/thehill.com\/policy\/technology\/5987397-openai-hugging-face-hack\/",
+          "category" : "Technology",
+          "descriptionTR" : "Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology startup Hugging Face.  The incident bore out years of warnings from the tech and cybersecurity community about the growing capabilities and hypothetical risks artificial intelligence could…",
+          "group" : "AI security breach",
+          "id" : "https:\/\/thehill.com\/policy\/technology\/5987397-openai-hugging-face-hack\/",
+          "link" : "https:\/\/thehill.com\/policy\/technology\/5987397-openai-hugging-face-hack\/",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-25T00:12:37Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Hill",
+              "url" : "https:\/\/thehill.com\/policy\/technology\/5987397-openai-hugging-face-hack\/"
+            }
+          ],
+          "titleTR" : "OpenAI’s breach of Hugging Face stokes fears about what’s next for AI"
+        }
+      ],
+      "packetSpot" : "OpenAI's rogue AI agents breached Hugging Face systems, raising concerns about AI security and future risks.",
+      "packetTitle" : "OpenAI breach raises AI security concerns",
+      "publishedAt" : "2026-07-25T00:12:37Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
       "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
       "items" : [
         {
@@ -1376,7 +1984,7 @@
       "packetTitle" : "Mass Evacuations in Southwestern France Due to Raging Wildfires",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 6
     },
     {
       "illustrationName" : "03BF698B-EA01-5467-960E-74C2B75DD9CF.png",
@@ -1422,7 +2030,7 @@
       "packetTitle" : "Indigenous leaders seek enhanced UN participation",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 7
     },
     {
       "illustrationName" : "15077D30-A0C2-5BEC-B2EC-4EE434A9926D.png",
@@ -1468,7 +2076,7 @@
       "packetTitle" : "Trump's national monument reductions face opposition",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 8
     },
     {
       "items" : [
@@ -1513,7 +2121,7 @@
       "packetTitle" : "Illegal wildlife trade in Laos fueled by tourism",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 9
     },
     {
       "illustrationName" : "6FF85FB8-CF7F-5ECE-A6BE-7018129385EC.png",
@@ -1559,7 +2167,7 @@
       "packetTitle" : "El Niño intensifies climate challenges",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
+      "slot" : 10
     },
     {
       "items" : [
@@ -1596,7 +2204,7 @@
       "packetTitle" : "Electrification as a Central Strategy for COP31 and Africa's Development",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 6
+      "slot" : 11
     },
     {
       "illustrationName" : "542AFEB5-E554-53AF-A2A5-CF3FA8A747A9.png",
@@ -1642,7 +2250,7 @@
       "packetTitle" : "Addressing Extreme Heat: Air Conditioning Debates and the Role of Local Heat Data Systems",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 7
+      "slot" : 12
     },
     {
       "items" : [
@@ -1687,7 +2295,7 @@
       "packetTitle" : "Film restorations and re-releases",
       "publishedAt" : "2026-07-24T20:41:59Z",
       "sessionID" : "publish-draft",
-      "slot" : 8
+      "slot" : 13
     },
     {
       "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
@@ -1733,7 +2341,7 @@
       "packetTitle" : "Copyright infringement disputes in the arts",
       "publishedAt" : "2026-07-24T20:41:59Z",
       "sessionID" : "publish-draft",
-      "slot" : 9
+      "slot" : 14
     },
     {
       "items" : [
@@ -1796,7 +2404,7 @@
       "packetTitle" : "Oil price surge impacts U.S. Treasury yields and rate hike expectations",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 10
+      "slot" : 15
     },
     {
       "items" : [
@@ -1859,7 +2467,7 @@
       "packetTitle" : "Middle East conflict escalates oil prices and tensions",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 11
+      "slot" : 16
     },
     {
       "items" : [
@@ -1922,7 +2530,7 @@
       "packetTitle" : "Oil price surge triggers market volatility",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 12
+      "slot" : 17
     },
     {
       "items" : [
@@ -1985,7 +2593,7 @@
       "packetTitle" : "AI spending concerns affect Big Tech stocks",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 13
+      "slot" : 18
     },
     {
       "items" : [
@@ -2015,303 +2623,6 @@
       ],
       "packetSpot" : "Oil prices have surged past $100 a barrel following reported attacks on Saudi tankers in the Red Sea, attributed to Iran-backed Houthi militants.",
       "packetTitle" : "Oil Prices Surge Past $100 Following Reported Attacks on Saudi Tankers",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 14
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "category" : "Politics",
-          "descriptionTR" : "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
-            }
-          ],
-          "titleTR" : "Congress splits on war powers resolutions to force Trump to abandon Iran war"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Politics",
-          "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
-            }
-          ],
-          "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
-        }
-      ],
-      "packetSpot" : "Congressional lawmakers are divided over resolutions aimed at limiting Donald Trump's war powers concerning Iran, while Trump himself holds Iran accountable for Houthi attacks in the Red Sea, highlighting tensions involving Iran.",
-      "packetTitle" : "US-Iran Tensions and Congressional War Powers Debate",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 15
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "category" : "Economy",
-          "descriptionTR" : "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-          "group" : "Fed rate hike outlook",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
-            }
-          ],
-          "titleTR" : "Odds of Federal Reserve rate hike surge as oil prices rip higher"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-          "category" : "Economy",
-          "descriptionTR" : "Goldman Sachs warns on oil prices and so-called tank bottoms ( and loves a new natural gas-related name).",
-          "group" : "Oil price surge",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html"
-            }
-          ],
-          "titleTR" : "Brent crude tops $100 a barrel. How the next stop could be $120"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "category" : "Economy",
-          "descriptionTR" : "ECB president Christine Lagarde said the bank anticipates inflation to remain \"well above target\" until the first half of 2027.",
-          "group" : "ECB inflation pressure",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
-            }
-          ],
-          "titleTR" : "Traders see September rate hike as European Central Bank mulls energy price spike"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
-          "category" : "Economy",
-          "descriptionTR" : "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher and boosted bets that the Federal Reserve could raise interest rates as soon as next week.",
-          "group" : "",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
-          "newsValue" : 5,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet"
-            }
-          ],
-          "titleTR" : "US Treasury Yields Rise to 2026 Highs With Oil Sparking Fed Bets"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "category" : "Economy",
-          "descriptionTR" : "German bond yields rose to the highest level since 2011 as surging oil prices prompted bigger bets on interest-rate hikes, even as the European Central Bank kept its benchmark unchanged.",
-          "group" : "Oil and inflation pressure",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
-            }
-          ],
-          "titleTR" : "Bund Yields Hit 15-Year High as $100 Oil Fans Inflation Concerns"
-        }
-      ],
-      "packetSpot" : "Oil prices have surged past $100, leading to increased expectations of interest rate hikes by the Federal Reserve and European Central Bank, as well as impacting stock markets and bond yields.",
-      "packetTitle" : "Oil Price Surge and Economic Implications",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 16
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "category" : "Technology",
-          "descriptionTR" : "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
-          "group" : "AI spending concerns",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
-            }
-          ],
-          "titleTR" : "Tesla falls 14%, Alphabet sinks 6% as AI spending concerns spook investors"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "category" : "Technology",
-          "descriptionTR" : "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
-          "group" : "Big Tech AI spending",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
-            }
-          ],
-          "titleTR" : "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "category" : "Technology",
-          "descriptionTR" : "The Magnificent Seven group of megacap technology stocks is on track for its biggest one-day drop since the tariff tantrum in April 2025 as results from Alphabet Inc. and Tesla Inc. are casting doubt on the durability of the artificial intelligence trade that has powered the stock market for more than three years.",
-          "group" : "AI and oil selloff",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
-            }
-          ],
-          "titleTR" : "Magnificent 7 Lose $767 Billion as AI Skeptics Dump Tech Stocks"
-        }
-      ],
-      "packetSpot" : "Concerns about AI spending have led to significant stock declines for companies like Tesla and Alphabet, affecting investor confidence and market performance.",
-      "packetTitle" : "AI Spending Concerns Impacting Major Tech Stocks",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 17
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "category" : "Law",
-          "descriptionTR" : "The subpoenas to New York Times reporters were issued by Manhattan U.S. Attorney Jay Clayton, whom Trump has nominated as director of national intelligence.",
-          "group" : "Trump media probe",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
-            }
-          ],
-          "titleTR" : "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "category" : "Law",
-          "descriptionTR" : "House oversight Chair James Comer said Jes Staley defended Jeffrey Epstein and encouraged JPMorgan to retain him despite internal red flags.",
-          "group" : "Epstein banking scrutiny",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
-            }
-          ],
-          "titleTR" : "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties"
-        }
-      ],
-      "packetSpot" : "The DOJ withdrew subpoenas related to a probe involving Trump, while House lawmakers interrogated a former JPMorgan executive over ties to Jeffrey Epstein, reflecting ongoing investigations involving high-profile figures.",
-      "packetTitle" : "High-Profile Investigations: Trump and Epstein Connections",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 18
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Security",
-          "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
-            }
-          ],
-          "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
-          "category" : "Security",
-          "descriptionTR" : "Two China-owned oil tankers loaded with Saudi Arabian crude exited the Red Sea via the Bab el-Mandeb chokepoint despite overnight Houthi attacks on vessels in the region.",
-          "group" : "Red Sea shipping risk",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks"
-            }
-          ],
-          "titleTR" : "China Tankers Pass Red Sea Chokepoint Despite Houthi Threat"
-        }
-      ],
-      "packetSpot" : "Houthi attacks in the Red Sea have affected maritime navigation, with China-owned tankers passing through despite threats, and Trump attributing responsibility to Iran.",
-      "packetTitle" : "Houthi Attacks Disrupt Red Sea Maritime Traffic",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
       "slot" : 19
@@ -2319,6 +2630,303 @@
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "Trump would be nearly certain to veto any measure to curtail his ability to wage war with Iran.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Congress splits on war powers resolutions to force Trump to abandon Iran war"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
+        }
+      ],
+      "packetSpot" : "Congressional lawmakers are divided over resolutions aimed at limiting Donald Trump's war powers concerning Iran, while Trump himself holds Iran accountable for Houthi attacks in the Red Sea, highlighting tensions involving Iran.",
+      "packetTitle" : "US-Iran Tensions and Congressional War Powers Debate",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 20
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+          "group" : "Fed rate hike outlook",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+            }
+          ],
+          "titleTR" : "Odds of Federal Reserve rate hike surge as oil prices rip higher"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "category" : "Economy",
+          "descriptionTR" : "Goldman Sachs warns on oil prices and so-called tank bottoms ( and loves a new natural gas-related name).",
+          "group" : "Oil price surge",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html"
+            }
+          ],
+          "titleTR" : "Brent crude tops $100 a barrel. How the next stop could be $120"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "category" : "Economy",
+          "descriptionTR" : "ECB president Christine Lagarde said the bank anticipates inflation to remain \"well above target\" until the first half of 2027.",
+          "group" : "ECB inflation pressure",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+            }
+          ],
+          "titleTR" : "Traders see September rate hike as European Central Bank mulls energy price spike"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "category" : "Economy",
+          "descriptionTR" : "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher and boosted bets that the Federal Reserve could raise interest rates as soon as next week.",
+          "group" : "",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet"
+            }
+          ],
+          "titleTR" : "US Treasury Yields Rise to 2026 Highs With Oil Sparking Fed Bets"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "category" : "Economy",
+          "descriptionTR" : "German bond yields rose to the highest level since 2011 as surging oil prices prompted bigger bets on interest-rate hikes, even as the European Central Bank kept its benchmark unchanged.",
+          "group" : "Oil and inflation pressure",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+            }
+          ],
+          "titleTR" : "Bund Yields Hit 15-Year High as $100 Oil Fans Inflation Concerns"
+        }
+      ],
+      "packetSpot" : "Oil prices have surged past $100, leading to increased expectations of interest rate hikes by the Federal Reserve and European Central Bank, as well as impacting stock markets and bond yields.",
+      "packetTitle" : "Oil Price Surge and Economic Implications",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 21
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "category" : "Technology",
+          "descriptionTR" : "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
+          "group" : "AI spending concerns",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+            }
+          ],
+          "titleTR" : "Tesla falls 14%, Alphabet sinks 6% as AI spending concerns spook investors"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "category" : "Technology",
+          "descriptionTR" : "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+          "group" : "Big Tech AI spending",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+            }
+          ],
+          "titleTR" : "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "category" : "Technology",
+          "descriptionTR" : "The Magnificent Seven group of megacap technology stocks is on track for its biggest one-day drop since the tariff tantrum in April 2025 as results from Alphabet Inc. and Tesla Inc. are casting doubt on the durability of the artificial intelligence trade that has powered the stock market for more than three years.",
+          "group" : "AI and oil selloff",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+            }
+          ],
+          "titleTR" : "Magnificent 7 Lose $767 Billion as AI Skeptics Dump Tech Stocks"
+        }
+      ],
+      "packetSpot" : "Concerns about AI spending have led to significant stock declines for companies like Tesla and Alphabet, affecting investor confidence and market performance.",
+      "packetTitle" : "AI Spending Concerns Impacting Major Tech Stocks",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 22
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "category" : "Law",
+          "descriptionTR" : "The subpoenas to New York Times reporters were issued by Manhattan U.S. Attorney Jay Clayton, whom Trump has nominated as director of national intelligence.",
+          "group" : "Trump media probe",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
+            }
+          ],
+          "titleTR" : "DOJ withdraws subpoenas to NY Times reporters in Trump plane probe"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "category" : "Law",
+          "descriptionTR" : "House oversight Chair James Comer said Jes Staley defended Jeffrey Epstein and encouraged JPMorgan to retain him despite internal red flags.",
+          "group" : "Epstein banking scrutiny",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
+            }
+          ],
+          "titleTR" : "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties"
+        }
+      ],
+      "packetSpot" : "The DOJ withdrew subpoenas related to a probe involving Trump, while House lawmakers interrogated a former JPMorgan executive over ties to Jeffrey Epstein, reflecting ongoing investigations involving high-profile figures.",
+      "packetTitle" : "High-Profile Investigations: Trump and Epstein Connections",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 23
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Security",
+          "descriptionTR" : "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "category" : "Security",
+          "descriptionTR" : "Two China-owned oil tankers loaded with Saudi Arabian crude exited the Red Sea via the Bab el-Mandeb chokepoint despite overnight Houthi attacks on vessels in the region.",
+          "group" : "Red Sea shipping risk",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks"
+            }
+          ],
+          "titleTR" : "China Tankers Pass Red Sea Chokepoint Despite Houthi Threat"
+        }
+      ],
+      "packetSpot" : "Houthi attacks in the Red Sea have affected maritime navigation, with China-owned tankers passing through despite threats, and Trump attributing responsibility to Iran.",
+      "packetTitle" : "Houthi Attacks Disrupt Red Sea Maritime Traffic",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-22\/latest-oil-market-news-and-analysis-for-july-23",
           "category" : "Energy",
           "descriptionTR" : "Oil surged past $100 a barrel for the first time in two months after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, opening a new front in the Middle East conflict and threatening deeper supply disruptions.",
@@ -2346,7 +2954,7 @@
       "packetTitle" : "Oil Prices Surge Past $100 Following Reported Attacks on Saudi Tankers",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 20
+      "slot" : 25
     },
     {
       "items" : [
@@ -2391,7 +2999,7 @@
       "packetTitle" : "US-Iran Tensions and Congressional War Powers Debate",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 21
+      "slot" : 26
     },
     {
       "items" : [
@@ -2490,7 +3098,7 @@
       "packetTitle" : "Oil Price Surge and Economic Implications",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 22
+      "slot" : 27
     },
     {
       "items" : [
@@ -2553,7 +3161,7 @@
       "packetTitle" : "AI Spending Concerns Impacting Major Tech Stocks",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 23
+      "slot" : 28
     },
     {
       "items" : [
@@ -2598,7 +3206,7 @@
       "packetTitle" : "High-Profile Investigations: Trump and Epstein Connections",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 24
+      "slot" : 29
     },
     {
       "items" : [
@@ -2643,7 +3251,7 @@
       "packetTitle" : "Houthi Attacks Disrupt Red Sea Maritime Traffic",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 25
+      "slot" : 30
     }
   ],
   "week" : "2026-W30"
