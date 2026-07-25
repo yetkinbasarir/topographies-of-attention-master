@@ -1,8 +1,218 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-25T00:12:37Z",
+  "publishedAt" : "2026-07-25T01:16:43Z",
   "schemaVersion" : 2,
   "sections" : [
+    {
+      "createdAt" : "2026-07-25T01:16:43Z",
+      "id" : "run-2026-W30-1784942203",
+      "slots" : [
+        {
+          "illustrationName" : "B09D7B51-08B2-51E8-99BC-D7760743280C.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/trump-smithsonian-signs\/688069\/?utm_source=feed",
+              "category" : "Politics",
+              "descriptionTR" : "Donald Trump, Smithsonian Enstitüsü'nün Amerikan tarihini sunum şekline yönelik eleştirilerini artırarak, Ulusal Amerikan Tarihi Müzesi'nin önüne uyarı levhaları konulmasını önerdi. Bu levhalar, müzenin ideolojik olarak ele geçirildiğini iddia eden bir raporun bulgularını içerecek. Trump, müzenin Amerikan tarihini daha vatansever bir şekilde sunması gerektiğini savunuyor.",
+              "group" : "smithsonian history fight",
+              "id" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/trump-smithsonian-signs\/688069\/?utm_source=feed",
+              "link" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/trump-smithsonian-signs\/688069\/?utm_source=feed",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Atlantic",
+                  "url" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/trump-smithsonian-signs\/688069\/?utm_source=feed"
+                }
+              ],
+              "titleTR" : "Trump'ın Smithsonian üzerindeki etkisi"
+            },
+            {
+              "atomID" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/saudi-arabia-trump-nuclear-deal\/688064\/?utm_source=feed",
+              "category" : "Politics",
+              "descriptionTR" : "ABD Enerji Bakanı Chris Wright ve Suudi mevkidaşı, Suudi Arabistan ile ABD arasında sivil bir nükleer ortaklık anlaşması imzaladı. Anlaşma, Amerikan şirketlerinin Suudi Arabistan'da ticari nükleer santraller geliştirmesine izin veriyor. Ancak, Trump'ın anlaşmaya sonradan eklediği koşullar, Suudi Arabistan'ın İsrail ile ilişkilerini normalleştirmesi gerektiğini öne sürüyor.",
+              "group" : "saudi nuclear deal",
+              "id" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/saudi-arabia-trump-nuclear-deal\/688064\/?utm_source=feed",
+              "link" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/saudi-arabia-trump-nuclear-deal\/688064\/?utm_source=feed",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Atlantic",
+                  "url" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/saudi-arabia-trump-nuclear-deal\/688064\/?utm_source=feed"
+                }
+              ],
+              "titleTR" : "Trump'ın Suudi Arabistan ile nükleer anlaşması"
+            },
+            {
+              "atomID" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-saudi-arabia-nuclear-energy-deal\/688040\/?utm_source=feed",
+              "category" : "Politics",
+              "descriptionTR" : "Trump yönetimi, Suudi Arabistan ile Amerikan teknolojisi kullanılarak bir sivil nükleer program geliştirilmesi için anlaşma imzaladı. Anlaşma, Suudi Arabistan'ın uranyum zenginleştirmesine olanak tanıyabilir. Ancak Trump, anlaşmanın İsrail ile ilişkilerin normalleşmesine bağlı olduğunu belirtti. Bu durum, anlaşmanın geleceği konusunda belirsizlik yaratıyor.",
+              "group" : "saudi nuclear deal",
+              "id" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-saudi-arabia-nuclear-energy-deal\/688040\/?utm_source=feed",
+              "link" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-saudi-arabia-nuclear-energy-deal\/688040\/?utm_source=feed",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Atlantic",
+                  "url" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-saudi-arabia-nuclear-energy-deal\/688040\/?utm_source=feed"
+                }
+              ],
+              "titleTR" : "Trump'ın Suudi Arabistan'a verdiği tavizler"
+            }
+          ],
+          "packetSpot" : "",
+          "packetTitle" : "Trump'ın uluslararası anlaşmalar ve politikalar üzerindeki etkisi",
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "illustrationName" : "C1458EEA-0D38-50DD-9846-EA3CA27D9F3A.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/war-strategy-shift-isolation\/688061\/?utm_source=feed",
+              "category" : "Security",
+              "descriptionTR" : "ABD'nin İran ile olan savaşında stratejik değişiklikler dikkat çekiyor. Trump yönetiminin İran'a yönelik saldırılarının ardından, ABD'nin askeri üslerini daha az savunmasız olan Ürdün, Kuveyt ve Bahreyn'e taşıdığı bildiriliyor. İran'ın ise misilleme yaparak Amerikan askeri hedeflerine saldırdığı iddia ediliyor.",
+              "group" : "iran war strategy",
+              "id" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/war-strategy-shift-isolation\/688061\/?utm_source=feed",
+              "link" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/war-strategy-shift-isolation\/688061\/?utm_source=feed",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Atlantic",
+                  "url" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/war-strategy-shift-isolation\/688061\/?utm_source=feed"
+                }
+              ],
+              "titleTR" : "ABD'nin İran stratejisinde ince değişiklikler"
+            },
+            {
+              "atomID" : "https:\/\/www.theatlantic.com\/international\/2026\/07\/iran-defeat-cost-oil-drones\/688034\/?utm_source=feed",
+              "category" : "Security",
+              "descriptionTR" : "ABD'nin İran ile olan savaşını kaybettiği iddia ediliyor ve bu durumun küresel ekonomiyi tehdit ettiği öne sürülüyor. Savunma Bakanı Pete Hegseth, Senato'da ABD'nin savaşta ne başardığını açıklamaya çalıştı. ABD'nin, İran'ın petrol akışını engelleme çabalarına karşı yeni stratejiler geliştirmesi gerektiği belirtiliyor.",
+              "group" : "iran war aftermath",
+              "id" : "https:\/\/www.theatlantic.com\/international\/2026\/07\/iran-defeat-cost-oil-drones\/688034\/?utm_source=feed",
+              "link" : "https:\/\/www.theatlantic.com\/international\/2026\/07\/iran-defeat-cost-oil-drones\/688034\/?utm_source=feed",
+              "newsValue" : 9,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Atlantic",
+                  "url" : "https:\/\/www.theatlantic.com\/international\/2026\/07\/iran-defeat-cost-oil-drones\/688034\/?utm_source=feed"
+                }
+              ],
+              "titleTR" : "Savaş kaybedildi mi? Şimdi kırılanı onarın."
+            }
+          ],
+          "packetSpot" : "ABD'nin İran'a yönelik stratejisinde önemli değişiklikler öne çıkıyor. Askeri operasyonların İran'ı saldırgan olarak göstermeye yönelik değiştiği bildiriliyor. Ayrıca, ABD'nin İran ile olan savaşını kaybettiği ve caydırıcılığı yeniden inşa etmesi gerektiği iddia ediliyor.",
+          "packetTitle" : "ABD'nin İran stratejisindeki değişimler",
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        },
+        {
+          "illustrationName" : "F718CA46-B6F5-5C45-A4FE-58D5EA28F1DF.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/aeon.co\/videos\/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
+              "category" : "Human Rights",
+              "descriptionTR" : "Meksika'da kadın cinayetlerine karşı mücadele eden farklı gruplar, bu şiddet türüne karşı birleşiyor ve protesto ediyor.",
+              "group" : "gender violence protest",
+              "id" : "https:\/\/aeon.co\/videos\/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
+              "link" : "https:\/\/aeon.co\/videos\/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
+              "newsValue" : 5,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Aeon Essays",
+                  "url" : "https:\/\/aeon.co\/videos\/on-the-ground-with-the-voices-fighting-femicide-in-mexico"
+                }
+              ],
+              "titleTR" : "Meksika'da kadın cinayetlerine karşı direniş"
+            },
+            {
+              "atomID" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-kushner-flamingo-revolution-albania\/688030\/?utm_source=feed",
+              "category" : "Human Rights",
+              "descriptionTR" : "Ivanka Trump ve Jared Kushner'ın Arnavutluk'ta planladığı lüks tatil köyü projesi, ülkede geniş çaplı protestoları tetikledi. Bu proje, çevresel etkiler ve siyasi şeffaflık konularında endişeleri artırdı. Protestolar, Arnavutluk'un demokratik kurumlarına duyulan memnuniyetsizliği yansıtıyor.",
+              "group" : "trump family albania",
+              "id" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-kushner-flamingo-revolution-albania\/688030\/?utm_source=feed",
+              "link" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-kushner-flamingo-revolution-albania\/688030\/?utm_source=feed",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Atlantic",
+                  "url" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-kushner-flamingo-revolution-albania\/688030\/?utm_source=feed"
+                }
+              ],
+              "titleTR" : "Trump ailesi Arnavutluk'ta protestolara yol açtı"
+            }
+          ],
+          "packetSpot" : "Farklı konulara tepki olarak ortaya çıkan protestolar dikkat çekiyor. Meksika'da kadın cinayetlerine karşı direniş öne çıkarken, Arnavutluk'ta Trump ailesiyle bağlantılı planlanan tatil köyü protestoların odağında.",
+          "packetTitle" : "Toplumsal ve siyasi sorunların tetiklediği protestolar",
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sessionID" : "publish-draft",
+          "slot" : 3
+        },
+        {
+          "illustrationName" : "D6E30540-AC98-5DE6-9C96-11571AA4D440.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.theatlantic.com\/technology\/2026\/07\/what-aqi-readings-really-mean\/688048\/?utm_source=feed",
+              "category" : "Environment",
+              "descriptionTR" : "Bu yaz hava kalitesi oldukça kötü. Orman yangınlarından kaynaklanan duman, birçok evin üzerine yayılıyor ve gökyüzünü sarartıyor. Chicago, Detroit, Milwaukee ve Toledo gibi şehirlerde son yirmi yılın en yüksek partikül kirliliği seviyelerine ulaşıldı. ABD'nin birçok bölgesinde hava kalitesi endeksi (AQI) sistemi, bu tür olaylar sırasında halkı doğru bilgilendirmekte yetersiz kalıyor. NYU Marron Enstitüsü'nden Kevin Cromar, AQI'nin etkinliğini eleştiriyor ve iyileştirilmesi gerektiğini belirtiyor.",
+              "group" : "wildfire smoke health",
+              "id" : "https:\/\/www.theatlantic.com\/technology\/2026\/07\/what-aqi-readings-really-mean\/688048\/?utm_source=feed",
+              "link" : "https:\/\/www.theatlantic.com\/technology\/2026\/07\/what-aqi-readings-really-mean\/688048\/?utm_source=feed",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Atlantic",
+                  "url" : "https:\/\/www.theatlantic.com\/technology\/2026\/07\/what-aqi-readings-really-mean\/688048\/?utm_source=feed"
+                }
+              ],
+              "titleTR" : "ABD'de dumanlı gökyüzü geri dönüyor"
+            },
+            {
+              "atomID" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/iolta-north-carolina-legislature-funding-cut\/688044\/?utm_source=feed",
+              "category" : "Environment",
+              "descriptionTR" : "Kuzey Carolina'da IOLTA fonlarındaki kesintiler, düşük gelirli vatandaşlar için hukuki yardıma erişimi azaltıyor. Pisgah Legal Services'ten Jaclyn Kiger ve Legal Aid of North Carolina'dan Ashley Campbell, bu kesintilerin etkilerini değerlendiriyor. Eyalet Meclis Başkanı Destin Hall, fonların siyasi projelere harcanmaması gerektiğini savunuyor. Ancak, bu kesintilerin hukuki yardıma erişimi zorlaştırdığı belirtiliyor.",
+              "group" : "civil legal aid cuts",
+              "id" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/iolta-north-carolina-legislature-funding-cut\/688044\/?utm_source=feed",
+              "link" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/iolta-north-carolina-legislature-funding-cut\/688044\/?utm_source=feed",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T01:16:43Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Atlantic",
+                  "url" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/iolta-north-carolina-legislature-funding-cut\/688044\/?utm_source=feed"
+                }
+              ],
+              "titleTR" : "Kuzey Carolina'da hukuki yardım tehdidi"
+            }
+          ],
+          "packetSpot" : "Çevresel ve politik değişimlerin kamu hizmetlerinde yarattığı zorluklar dikkat çekiyor. ABD'de orman yangınlarının hava kalitesi üzerindeki etkisi, hava kalitesi endeksindeki eksiklikleri ortaya çıkarırken, Kuzey Carolina'da IOLTA fonlarındaki kesintiler nedeniyle hukuki yardıma erişim azalıyor.",
+          "packetTitle" : "Çevresel ve politik değişimlerin kamu hizmetlerine etkisi",
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sessionID" : "publish-draft",
+          "slot" : 4
+        }
+      ],
+      "title" : "Politika",
+      "type" : "run"
+    },
     {
       "createdAt" : "2026-07-25T00:12:37Z",
       "id" : "run-2026-W30-1784938357",
@@ -1582,6 +1792,208 @@
   ],
   "slots" : [
     {
+      "illustrationName" : "B09D7B51-08B2-51E8-99BC-D7760743280C.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/trump-smithsonian-signs\/688069\/?utm_source=feed",
+          "category" : "Politics",
+          "descriptionTR" : "Donald Trump, Smithsonian Enstitüsü'nün Amerikan tarihini sunum şekline yönelik eleştirilerini artırarak, Ulusal Amerikan Tarihi Müzesi'nin önüne uyarı levhaları konulmasını önerdi. Bu levhalar, müzenin ideolojik olarak ele geçirildiğini iddia eden bir raporun bulgularını içerecek. Trump, müzenin Amerikan tarihini daha vatansever bir şekilde sunması gerektiğini savunuyor.",
+          "group" : "smithsonian history fight",
+          "id" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/trump-smithsonian-signs\/688069\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/trump-smithsonian-signs\/688069\/?utm_source=feed",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/culture\/2026\/07\/trump-smithsonian-signs\/688069\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "Trump'ın Smithsonian üzerindeki etkisi"
+        },
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/saudi-arabia-trump-nuclear-deal\/688064\/?utm_source=feed",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Enerji Bakanı Chris Wright ve Suudi mevkidaşı, Suudi Arabistan ile ABD arasında sivil bir nükleer ortaklık anlaşması imzaladı. Anlaşma, Amerikan şirketlerinin Suudi Arabistan'da ticari nükleer santraller geliştirmesine izin veriyor. Ancak, Trump'ın anlaşmaya sonradan eklediği koşullar, Suudi Arabistan'ın İsrail ile ilişkilerini normalleştirmesi gerektiğini öne sürüyor.",
+          "group" : "saudi nuclear deal",
+          "id" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/saudi-arabia-trump-nuclear-deal\/688064\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/saudi-arabia-trump-nuclear-deal\/688064\/?utm_source=feed",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/saudi-arabia-trump-nuclear-deal\/688064\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "Trump'ın Suudi Arabistan ile nükleer anlaşması"
+        },
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-saudi-arabia-nuclear-energy-deal\/688040\/?utm_source=feed",
+          "category" : "Politics",
+          "descriptionTR" : "Trump yönetimi, Suudi Arabistan ile Amerikan teknolojisi kullanılarak bir sivil nükleer program geliştirilmesi için anlaşma imzaladı. Anlaşma, Suudi Arabistan'ın uranyum zenginleştirmesine olanak tanıyabilir. Ancak Trump, anlaşmanın İsrail ile ilişkilerin normalleşmesine bağlı olduğunu belirtti. Bu durum, anlaşmanın geleceği konusunda belirsizlik yaratıyor.",
+          "group" : "saudi nuclear deal",
+          "id" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-saudi-arabia-nuclear-energy-deal\/688040\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-saudi-arabia-nuclear-energy-deal\/688040\/?utm_source=feed",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/national-security\/2026\/07\/trump-saudi-arabia-nuclear-energy-deal\/688040\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "Trump'ın Suudi Arabistan'a verdiği tavizler"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Trump'ın uluslararası anlaşmalar ve politikalar üzerindeki etkisi",
+      "publishedAt" : "2026-07-25T01:16:43Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "illustrationName" : "C1458EEA-0D38-50DD-9846-EA3CA27D9F3A.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/war-strategy-shift-isolation\/688061\/?utm_source=feed",
+          "category" : "Security",
+          "descriptionTR" : "ABD'nin İran ile olan savaşında stratejik değişiklikler dikkat çekiyor. Trump yönetiminin İran'a yönelik saldırılarının ardından, ABD'nin askeri üslerini daha az savunmasız olan Ürdün, Kuveyt ve Bahreyn'e taşıdığı bildiriliyor. İran'ın ise misilleme yaparak Amerikan askeri hedeflerine saldırdığı iddia ediliyor.",
+          "group" : "iran war strategy",
+          "id" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/war-strategy-shift-isolation\/688061\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/war-strategy-shift-isolation\/688061\/?utm_source=feed",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/ideas\/2026\/07\/war-strategy-shift-isolation\/688061\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "ABD'nin İran stratejisinde ince değişiklikler"
+        },
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/international\/2026\/07\/iran-defeat-cost-oil-drones\/688034\/?utm_source=feed",
+          "category" : "Security",
+          "descriptionTR" : "ABD'nin İran ile olan savaşını kaybettiği iddia ediliyor ve bu durumun küresel ekonomiyi tehdit ettiği öne sürülüyor. Savunma Bakanı Pete Hegseth, Senato'da ABD'nin savaşta ne başardığını açıklamaya çalıştı. ABD'nin, İran'ın petrol akışını engelleme çabalarına karşı yeni stratejiler geliştirmesi gerektiği belirtiliyor.",
+          "group" : "iran war aftermath",
+          "id" : "https:\/\/www.theatlantic.com\/international\/2026\/07\/iran-defeat-cost-oil-drones\/688034\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/international\/2026\/07\/iran-defeat-cost-oil-drones\/688034\/?utm_source=feed",
+          "newsValue" : 9,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/international\/2026\/07\/iran-defeat-cost-oil-drones\/688034\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "Savaş kaybedildi mi? Şimdi kırılanı onarın."
+        }
+      ],
+      "packetSpot" : "ABD'nin İran'a yönelik stratejisinde önemli değişiklikler öne çıkıyor. Askeri operasyonların İran'ı saldırgan olarak göstermeye yönelik değiştiği bildiriliyor. Ayrıca, ABD'nin İran ile olan savaşını kaybettiği ve caydırıcılığı yeniden inşa etmesi gerektiği iddia ediliyor.",
+      "packetTitle" : "ABD'nin İran stratejisindeki değişimler",
+      "publishedAt" : "2026-07-25T01:16:43Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "illustrationName" : "F718CA46-B6F5-5C45-A4FE-58D5EA28F1DF.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/aeon.co\/videos\/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
+          "category" : "Human Rights",
+          "descriptionTR" : "Meksika'da kadın cinayetlerine karşı mücadele eden farklı gruplar, bu şiddet türüne karşı birleşiyor ve protesto ediyor.",
+          "group" : "gender violence protest",
+          "id" : "https:\/\/aeon.co\/videos\/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
+          "link" : "https:\/\/aeon.co\/videos\/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
+          "newsValue" : 5,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Aeon Essays",
+              "url" : "https:\/\/aeon.co\/videos\/on-the-ground-with-the-voices-fighting-femicide-in-mexico"
+            }
+          ],
+          "titleTR" : "Meksika'da kadın cinayetlerine karşı direniş"
+        },
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-kushner-flamingo-revolution-albania\/688030\/?utm_source=feed",
+          "category" : "Human Rights",
+          "descriptionTR" : "Ivanka Trump ve Jared Kushner'ın Arnavutluk'ta planladığı lüks tatil köyü projesi, ülkede geniş çaplı protestoları tetikledi. Bu proje, çevresel etkiler ve siyasi şeffaflık konularında endişeleri artırdı. Protestolar, Arnavutluk'un demokratik kurumlarına duyulan memnuniyetsizliği yansıtıyor.",
+          "group" : "trump family albania",
+          "id" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-kushner-flamingo-revolution-albania\/688030\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-kushner-flamingo-revolution-albania\/688030\/?utm_source=feed",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/politics\/2026\/07\/trump-kushner-flamingo-revolution-albania\/688030\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "Trump ailesi Arnavutluk'ta protestolara yol açtı"
+        }
+      ],
+      "packetSpot" : "Farklı konulara tepki olarak ortaya çıkan protestolar dikkat çekiyor. Meksika'da kadın cinayetlerine karşı direniş öne çıkarken, Arnavutluk'ta Trump ailesiyle bağlantılı planlanan tatil köyü protestoların odağında.",
+      "packetTitle" : "Toplumsal ve siyasi sorunların tetiklediği protestolar",
+      "publishedAt" : "2026-07-25T01:16:43Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "illustrationName" : "D6E30540-AC98-5DE6-9C96-11571AA4D440.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/technology\/2026\/07\/what-aqi-readings-really-mean\/688048\/?utm_source=feed",
+          "category" : "Environment",
+          "descriptionTR" : "Bu yaz hava kalitesi oldukça kötü. Orman yangınlarından kaynaklanan duman, birçok evin üzerine yayılıyor ve gökyüzünü sarartıyor. Chicago, Detroit, Milwaukee ve Toledo gibi şehirlerde son yirmi yılın en yüksek partikül kirliliği seviyelerine ulaşıldı. ABD'nin birçok bölgesinde hava kalitesi endeksi (AQI) sistemi, bu tür olaylar sırasında halkı doğru bilgilendirmekte yetersiz kalıyor. NYU Marron Enstitüsü'nden Kevin Cromar, AQI'nin etkinliğini eleştiriyor ve iyileştirilmesi gerektiğini belirtiyor.",
+          "group" : "wildfire smoke health",
+          "id" : "https:\/\/www.theatlantic.com\/technology\/2026\/07\/what-aqi-readings-really-mean\/688048\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/technology\/2026\/07\/what-aqi-readings-really-mean\/688048\/?utm_source=feed",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/technology\/2026\/07\/what-aqi-readings-really-mean\/688048\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "ABD'de dumanlı gökyüzü geri dönüyor"
+        },
+        {
+          "atomID" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/iolta-north-carolina-legislature-funding-cut\/688044\/?utm_source=feed",
+          "category" : "Environment",
+          "descriptionTR" : "Kuzey Carolina'da IOLTA fonlarındaki kesintiler, düşük gelirli vatandaşlar için hukuki yardıma erişimi azaltıyor. Pisgah Legal Services'ten Jaclyn Kiger ve Legal Aid of North Carolina'dan Ashley Campbell, bu kesintilerin etkilerini değerlendiriyor. Eyalet Meclis Başkanı Destin Hall, fonların siyasi projelere harcanmaması gerektiğini savunuyor. Ancak, bu kesintilerin hukuki yardıma erişimi zorlaştırdığı belirtiliyor.",
+          "group" : "civil legal aid cuts",
+          "id" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/iolta-north-carolina-legislature-funding-cut\/688044\/?utm_source=feed",
+          "link" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/iolta-north-carolina-legislature-funding-cut\/688044\/?utm_source=feed",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T01:16:43Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Atlantic",
+              "url" : "https:\/\/www.theatlantic.com\/newsletters\/2026\/07\/iolta-north-carolina-legislature-funding-cut\/688044\/?utm_source=feed"
+            }
+          ],
+          "titleTR" : "Kuzey Carolina'da hukuki yardım tehdidi"
+        }
+      ],
+      "packetSpot" : "Çevresel ve politik değişimlerin kamu hizmetlerinde yarattığı zorluklar dikkat çekiyor. ABD'de orman yangınlarının hava kalitesi üzerindeki etkisi, hava kalitesi endeksindeki eksiklikleri ortaya çıkarırken, Kuzey Carolina'da IOLTA fonlarındaki kesintiler nedeniyle hukuki yardıma erişim azalıyor.",
+      "packetTitle" : "Çevresel ve politik değişimlerin kamu hizmetlerine etkisi",
+      "publishedAt" : "2026-07-25T01:16:43Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
       "illustrationName" : "0CCE5541-9616-5D2D-84DC-6CE7EB99E93B.png",
       "items" : [
         {
@@ -1679,7 +2091,7 @@
       "packetTitle" : "Trump'ın yeni tarifeleri uluslararası eleştiri ve hukuki itirazlarla karşı karşıya",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 5
     },
     {
       "illustrationName" : "5C0FDC0D-02B4-5083-86A3-510A86259393.png",
@@ -1725,7 +2137,7 @@
       "packetTitle" : "Paramount'un Warner Bros. satın alımı hukuki engellerle karşı karşıya",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 6
     },
     {
       "items" : [
@@ -1770,7 +2182,7 @@
       "packetTitle" : "DNC'nin yeni ön seçim takvimi: Güney Carolina ilk sırada",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 7
     },
     {
       "illustrationName" : "8558F539-353F-5A9D-8A71-3F8E7D0DFC8B.png",
@@ -1834,7 +2246,7 @@
       "packetTitle" : "ABD'nin İran'a karşı askeri hamleleri tırmanıyor",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 8
     },
     {
       "items" : [
@@ -1879,7 +2291,7 @@
       "packetTitle" : "OpenAI'nin ihlali yapay zeka güvenliğini sorgulatıyor",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
+      "slot" : 9
     },
     {
       "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
@@ -1912,7 +2324,7 @@
       "packetTitle" : "Fransa'nın güneybatısında orman yangınları: Tahliyeler ve mücadele",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 6
+      "slot" : 10
     },
     {
       "illustrationName" : "03BF698B-EA01-5467-960E-74C2B75DD9CF.png",
@@ -1958,7 +2370,7 @@
       "packetTitle" : "İklim ve sömürgecilik karşısında yerli liderlerin BM'de daha fazla katılım talebi",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 7
+      "slot" : 11
     },
     {
       "illustrationName" : "15077D30-A0C2-5BEC-B2EC-4EE434A9926D.png",
@@ -2004,7 +2416,7 @@
       "packetTitle" : "Trump'ın anıt alanları küçültme kararı tartışma yaratıyor",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 8
+      "slot" : 12
     },
     {
       "items" : [
@@ -2049,7 +2461,7 @@
       "packetTitle" : "Laos'ta turizmle beslenen yaban hayatı ticareti",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 9
+      "slot" : 13
     },
     {
       "illustrationName" : "6FF85FB8-CF7F-5ECE-A6BE-7018129385EC.png",
@@ -2095,7 +2507,7 @@
       "packetTitle" : "El Niño iklim zorluklarını artırıyor",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 10
+      "slot" : 14
     },
     {
       "items" : [
@@ -2132,7 +2544,7 @@
       "packetTitle" : "COP31 ve Afrika'nın Kalkınmasında Elektrifikasyonun Rolü",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 11
+      "slot" : 15
     },
     {
       "illustrationName" : "542AFEB5-E554-53AF-A2A5-CF3FA8A747A9.png",
@@ -2178,7 +2590,7 @@
       "packetTitle" : "Aşırı sıcaklarla mücadelede klima tartışmaları ve yerel ısı verisi sistemlerinin rolü",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 12
+      "slot" : 16
     },
     {
       "items" : [
@@ -2223,7 +2635,7 @@
       "packetTitle" : "Klasik filmler yeniden hayat buluyor",
       "publishedAt" : "2026-07-24T20:41:59Z",
       "sessionID" : "publish-draft",
-      "slot" : 13
+      "slot" : 17
     },
     {
       "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
@@ -2269,7 +2681,7 @@
       "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
       "publishedAt" : "2026-07-24T20:41:59Z",
       "sessionID" : "publish-draft",
-      "slot" : 14
+      "slot" : 18
     },
     {
       "items" : [
@@ -2332,7 +2744,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış ABD finansal göstergelerini etkiliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 15
+      "slot" : 19
     },
     {
       "items" : [
@@ -2395,7 +2807,7 @@
       "packetTitle" : "Orta Doğu'daki çatışmalar petrol fiyatlarını ve gerilimleri artırıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 16
+      "slot" : 20
     },
     {
       "items" : [
@@ -2458,7 +2870,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış piyasaları sarsıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 17
+      "slot" : 21
     },
     {
       "items" : [
@@ -2521,7 +2933,7 @@
       "packetTitle" : "Büyük teknoloji şirketlerinin AI harcamaları borsa tepkilerini tetikliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 18
+      "slot" : 22
     },
     {
       "items" : [
@@ -2551,222 +2963,6 @@
       ],
       "packetSpot" : "Kızıldeniz'deki Suudi tankerlerine yönelik bildirilen saldırıların ardından petrol fiyatları varil başına 100 doları aştı. Saldırılar, İran destekli Husi militanlarına atfediliyor.",
       "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 19
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "category" : "Politics",
-          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
-          "group" : "Iran war escalation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
-            }
-          ],
-          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "category" : "Politics",
-          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
-          "group" : "Iran Houthi retaliation",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
-            }
-          ],
-          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
-        }
-      ],
-      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
-      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 20
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "category" : "Economy",
-          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
-          "group" : "Fed rate hike outlook",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
-            }
-          ],
-          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "category" : "Economy",
-          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
-          "group" : "ECB inflation pressure",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
-            }
-          ],
-          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "category" : "Economy",
-          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
-          "group" : "Oil and inflation pressure",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
-            }
-          ],
-          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
-        }
-      ],
-      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
-      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 21
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "category" : "Technology",
-          "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, her iki şirketin de yapay zeka harcamalarını artırma sinyali vermesi üzerine Perşembe günü düştü. Tesla'nın hisseleri %14, Alphabet'in ise %6'dan fazla değer kaybetti. Her iki şirket de ikinci çeyrek için negatif serbest nakit akışı bildirdi. Alphabet, bu yılki sermaye harcaması tahminini 195-205 milyar dolar aralığına yükseltti. Tesla ise sermaye harcamalarının yıllık bazda %142 artarak 5.79 milyar dolara ulaştığını açıkladı. Şirket yöneticileri, yatırımcı endişelerini yatıştırmaya çalıştı. Tesla CEO'su Elon Musk, yatırımların gelecekte büyük getiriler sağlayacağına inandığını belirtti.",
-          "group" : "AI spending concerns",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
-            }
-          ],
-          "titleTR" : "Tesla %14, Alphabet %6 değer kaybetti; yapay zeka harcamaları yatırımcıları korkuttu"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "category" : "Technology",
-          "descriptionTR" : "Alphabet ve Tesla, çarşamba günü teknoloji kazanç sezonunu başlattıklarında, yapay zeka harcamalarının dikkatle izlendiği bir tema ortaya çıktı. Her iki şirket de negatif serbest nakit akışı bildirdi ve yatırımcıları daha yüksek sermaye harcamalarına hazırlıklı olmaları konusunda uyardı. Tesla'nın hisseleri %4, Alphabet'in ise %3'ten fazla değer kaybetti. Bu durum, teknoloji sektörünün diğer büyük şirketleri için potansiyel olarak karamsar bir işaret olabilir. Alphabet ve Tesla'nın agresif büyüme planları, nakit rezervlerine büyük bir darbe vuruyor.",
-          "group" : "Big Tech AI spending",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-          "newsValue" : 7,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
-            }
-          ],
-          "titleTR" : "Alphabet ve Tesla'nın yapay zeka harcamaları Wall Street'in sabrını zorluyor"
-        },
-        {
-          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "category" : "Technology",
-          "descriptionTR" : "Alphabet ve Tesla'nın sonuçları, üç yılı aşkın süredir borsa performansını yönlendiren yapay zeka ticaretinin dayanıklılığına dair şüpheler uyandırıyor. Bloomberg Magnificent 7 Endeksi, Perşembe günü %4.8 düşerek yaklaşık 767 milyar dolarlık piyasa değerini sildi. Düşüşler, Çarşamba günü kazanç raporlarıyla Wall Street'i korkutan Tesla ve Alphabet tarafından yönetildi.",
-          "group" : "AI and oil selloff",
-          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-          "newsValue" : 8,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "Bloomberg Markets",
-              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
-            }
-          ],
-          "titleTR" : "Magnificent 7, yapay zeka şüphecileri teknoloji hisselerini satarken 767 milyar dolar kaybetti"
-        }
-      ],
-      "packetSpot" : "Yapay zeka harcamalarına dair endişeler, Tesla ve Alphabet gibi şirketlerin hisselerinde önemli düşüşlere yol açarak yatırımcı güvenini ve piyasa performansını etkiliyor.",
-      "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
-      "publishedAt" : "2026-07-23T20:11:27Z",
-      "sessionID" : "publish-draft",
-      "slot" : 22
-    },
-    {
-      "items" : [
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "category" : "Law",
-          "descriptionTR" : "Adalet Bakanlığı, Başkan Donald Trump'ın yeni Air Force One uçağı hakkında bir makaleye dahil olan New York Times muhabirleri için aldığı celpleri geri çekiyor. Bu hamle, Manhattan'daki ABD Bölge Mahkemesi'nde, Times'ın gazetecilerini hedef alan celpleri iptal etme talebini değerlendiren Yargıç Arun Subramanian önünde gerçekleşti. Celpler, Trump tarafından ulusal istihbarat direktörü olarak aday gösterilen Manhattan ABD Savcısı Jay Clayton tarafından çıkarılmıştı. Times, DOJ'un üçüncü taraf telefon hizmeti sağlayıcılarına gazetecilerin telefon ve mesaj kayıtlarını talep eden celpler gönderdiğini bildirdi.",
-          "group" : "Trump media probe",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
-            }
-          ],
-          "titleTR" : "Adalet Bakanlığı, Trump uçağı soruşturmasında NY Times muhabirlerine yönelik celpleri geri çekti"
-        },
-        {
-          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "category" : "Law",
-          "descriptionTR" : "Temsilciler Meclisi Denetim Komitesi Başkanı James Comer, eski JPMorgan Chase yatırım bankacılığı şefi Jes Staley'nin, cinsel suçlu Jeffrey Epstein'ı müşteri olarak tutmaya teşvik ettiğini söyledi. Staley, JPMorgan'daki üç on yılı aşkın kariyeri boyunca Epstein'ın özel bankacısı olarak görev yaptı ve onunla yakın bir kişisel ilişki sürdürdü. İngiltere düzenleyicileri, Staley'nin Epstein ile olan ilişkisini yanlış tanıttığı için İngiltere finans sektöründen men edilmesine karar verdi. JPMorgan, Epstein'ın mağdurlarıyla ilgili davaları 290 milyon dolara ve ABD Virgin Adaları tarafından açılan ayrı bir davayı 75 milyon dolara çözmek için anlaşmaya vardı.",
-          "group" : "Epstein banking scrutiny",
-          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-          "newsValue" : 6,
-          "publishedAt" : "2026-07-23T20:11:27Z",
-          "sources" : [
-            {
-              "originalLanguage" : "en",
-              "sourceName" : "CNBC International",
-              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
-            }
-          ],
-          "titleTR" : "Temsilciler Meclisi üyeleri, Epstein bağlantıları nedeniyle Jes Staley'i sorguladı"
-        }
-      ],
-      "packetSpot" : "Adalet Bakanlığı, Trump'la ilgili bir soruşturma kapsamında New York Times muhabirlerine yönelik celpleri geri çekti. Aynı zamanda, Temsilciler Meclisi üyeleri, Jeffrey Epstein ile bağlantıları nedeniyle eski JPMorgan yöneticisi Jes Staley'i sorguladı. Bu gelişmeler, yüksek profilli figürlerin dahil olduğu devam eden soruşturmaları yansıtıyor.",
-      "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
       "slot" : 23
@@ -2774,6 +2970,222 @@
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "category" : "Politics",
+          "descriptionTR" : "ABD Kongresi'nde Perşembe günü, Başkan Donald Trump'ı İran'la savaştan vazgeçmeye zorlamayı amaçlayan savaş yetkileri kararları üzerinde bölünme yaşandı. Senato, Trump'ı İran'la düşmanlıkları sona erdirmeye zorlayacak bir ortak kararı 47'ye karşı 49 oyla reddetti. Ancak Temsilciler Meclisi, benzer bir kararı onayladı. Bu kararlar bağlayıcı değil ve Trump'ın masasına gitmeyecek, ancak Kongre'nin hoşnutsuzluğunu ifade ediyor. Savaşın yeniden alevlenmesi, petrol fiyatlarını yükseltti ve ABD'de benzin fiyatları ortalama 4,09 dolara ulaştı.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/congress-pushes-war-powers-resolutions-tells-trump-to-abandon-iran-war.html"
+            }
+          ],
+          "titleTR" : "Kongre, Trump'ı İran savaşından vazgeçirmeye yönelik savaş yetkileri kararlarında bölündü"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "category" : "Politics",
+          "descriptionTR" : "Başkan Donald Trump, Kızıldeniz'de iki Suudi petrol tankerine saldırı düzenleyen Husi militanlarının eylemlerinden İran'ı sorumlu tutacağını söyledi. Trump, Husilerin İran'ın vekili olduğunu belirterek, bu tür saldırıların tekrarlanması halinde İran'a büyük askeri yaptırımlar uygulanacağını ifade etti. ABD Merkez Komutanlığı, İran'a yönelik askeri hedeflere saldırılar düzenlediğini açıkladı. Petrol fiyatları, ABD ve İran arasındaki gerilimlerin artmasıyla yükseldi.",
+          "group" : "Iran Houthi retaliation",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html"
+            }
+          ],
+          "titleTR" : "Trump, Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutacağını söyledi"
+        }
+      ],
+      "packetSpot" : "ABD Kongresi'nde, Donald Trump'ın İran'a karşı savaş yetkilerini sınırlamaya yönelik kararlar üzerinde bölünmeler yaşanıyor. Trump ise Kızıldeniz'deki Husi saldırılarından İran'ı sorumlu tutarak, İran'la ilgili gerilimleri öne çıkarıyor.",
+      "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 24
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "category" : "Economy",
+          "descriptionTR" : "Yatırımcılar, petrol fiyatlarının yükselmesiyle ABD Merkez Bankası'nın faiz artıracağına dair hazırlık yapıyor. Fed fon vadeli işlemleri, Eylül toplantısında faiz artışı olasılığını %82 olarak fiyatlıyor. Brent petrolü, ABD ve İran arasındaki gerginliklerin etkisiyle varil başına 100 dolara ulaştı.",
+          "group" : "Fed rate hike outlook",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/fed-interest-rate-odds-oil-jobless-claims.html"
+            }
+          ],
+          "titleTR" : "Petrol fiyatlarının yükselmesiyle Fed'in faiz artışı ihtimali artıyor"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "category" : "Economy",
+          "descriptionTR" : "Avrupa Merkez Bankası, faiz oranını %2.25'te sabit tuttu ancak Eylül'de artış bekleniyor. Başkan Christine Lagarde, Orta Doğu'daki gerginliklerin euro bölgesi enflasyonunu artırabileceğini belirtti.",
+          "group" : "ECB inflation pressure",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/interest-rate-hike-iran-european-central-bank.html"
+            }
+          ],
+          "titleTR" : "Tüccarlar Eylül'de faiz artışı bekliyor, ECB enerji fiyatlarındaki artışı değerlendiriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "category" : "Economy",
+          "descriptionTR" : "Alman tahvil getirileri, petrol fiyatlarının artmasıyla faiz artışı beklentilerinin güçlenmesi sonucu 2011'den bu yana en yüksek seviyesine ulaştı.",
+          "group" : "Oil and inflation pressure",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb"
+            }
+          ],
+          "titleTR" : "Alman tahvil getirileri, petrol fiyatlarının enflasyon endişelerini artırmasıyla 15 yılın en yüksek seviyesine çıktı"
+        }
+      ],
+      "packetSpot" : "Petrol fiyatlarının varil başına 100 doları aşması, ABD Merkez Bankası ve Avrupa Merkez Bankası'nın faiz artış beklentilerini artırırken, borsa ve tahvil getirilerini de etkiliyor.",
+      "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 25
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla'nın hisseleri, her iki şirketin de yapay zeka harcamalarını artırma sinyali vermesi üzerine Perşembe günü düştü. Tesla'nın hisseleri %14, Alphabet'in ise %6'dan fazla değer kaybetti. Her iki şirket de ikinci çeyrek için negatif serbest nakit akışı bildirdi. Alphabet, bu yılki sermaye harcaması tahminini 195-205 milyar dolar aralığına yükseltti. Tesla ise sermaye harcamalarının yıllık bazda %142 artarak 5.79 milyar dolara ulaştığını açıkladı. Şirket yöneticileri, yatırımcı endişelerini yatıştırmaya çalıştı. Tesla CEO'su Elon Musk, yatırımların gelecekte büyük getiriler sağlayacağına inandığını belirtti.",
+          "group" : "AI spending concerns",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/tesla-tsla-alphabet-googl-stock-today.html"
+            }
+          ],
+          "titleTR" : "Tesla %14, Alphabet %6 değer kaybetti; yapay zeka harcamaları yatırımcıları korkuttu"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla, çarşamba günü teknoloji kazanç sezonunu başlattıklarında, yapay zeka harcamalarının dikkatle izlendiği bir tema ortaya çıktı. Her iki şirket de negatif serbest nakit akışı bildirdi ve yatırımcıları daha yüksek sermaye harcamalarına hazırlıklı olmaları konusunda uyardı. Tesla'nın hisseleri %4, Alphabet'in ise %3'ten fazla değer kaybetti. Bu durum, teknoloji sektörünün diğer büyük şirketleri için potansiyel olarak karamsar bir işaret olabilir. Alphabet ve Tesla'nın agresif büyüme planları, nakit rezervlerine büyük bir darbe vuruyor.",
+          "group" : "Big Tech AI spending",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/22\/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+            }
+          ],
+          "titleTR" : "Alphabet ve Tesla'nın yapay zeka harcamaları Wall Street'in sabrını zorluyor"
+        },
+        {
+          "atomID" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "category" : "Technology",
+          "descriptionTR" : "Alphabet ve Tesla'nın sonuçları, üç yılı aşkın süredir borsa performansını yönlendiren yapay zeka ticaretinin dayanıklılığına dair şüpheler uyandırıyor. Bloomberg Magnificent 7 Endeksi, Perşembe günü %4.8 düşerek yaklaşık 767 milyar dolarlık piyasa değerini sildi. Düşüşler, Çarşamba günü kazanç raporlarıyla Wall Street'i korkutan Tesla ve Alphabet tarafından yönetildi.",
+          "group" : "AI and oil selloff",
+          "id" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "link" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Bloomberg Markets",
+              "url" : "https:\/\/www.bloomberg.com\/news\/articles\/2026-07-23\/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks"
+            }
+          ],
+          "titleTR" : "Magnificent 7, yapay zeka şüphecileri teknoloji hisselerini satarken 767 milyar dolar kaybetti"
+        }
+      ],
+      "packetSpot" : "Yapay zeka harcamalarına dair endişeler, Tesla ve Alphabet gibi şirketlerin hisselerinde önemli düşüşlere yol açarak yatırımcı güvenini ve piyasa performansını etkiliyor.",
+      "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 26
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "category" : "Law",
+          "descriptionTR" : "Adalet Bakanlığı, Başkan Donald Trump'ın yeni Air Force One uçağı hakkında bir makaleye dahil olan New York Times muhabirleri için aldığı celpleri geri çekiyor. Bu hamle, Manhattan'daki ABD Bölge Mahkemesi'nde, Times'ın gazetecilerini hedef alan celpleri iptal etme talebini değerlendiren Yargıç Arun Subramanian önünde gerçekleşti. Celpler, Trump tarafından ulusal istihbarat direktörü olarak aday gösterilen Manhattan ABD Savcısı Jay Clayton tarafından çıkarılmıştı. Times, DOJ'un üçüncü taraf telefon hizmeti sağlayıcılarına gazetecilerin telefon ve mesaj kayıtlarını talep eden celpler gönderdiğini bildirdi.",
+          "group" : "Trump media probe",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/doj-subpoenas-new-york-times-trump-plane.html"
+            }
+          ],
+          "titleTR" : "Adalet Bakanlığı, Trump uçağı soruşturmasında NY Times muhabirlerine yönelik celpleri geri çekti"
+        },
+        {
+          "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "category" : "Law",
+          "descriptionTR" : "Temsilciler Meclisi Denetim Komitesi Başkanı James Comer, eski JPMorgan Chase yatırım bankacılığı şefi Jes Staley'nin, cinsel suçlu Jeffrey Epstein'ı müşteri olarak tutmaya teşvik ettiğini söyledi. Staley, JPMorgan'daki üç on yılı aşkın kariyeri boyunca Epstein'ın özel bankacısı olarak görev yaptı ve onunla yakın bir kişisel ilişki sürdürdü. İngiltere düzenleyicileri, Staley'nin Epstein ile olan ilişkisini yanlış tanıttığı için İngiltere finans sektöründen men edilmesine karar verdi. JPMorgan, Epstein'ın mağdurlarıyla ilgili davaları 290 milyon dolara ve ABD Virgin Adaları tarafından açılan ayrı bir davayı 75 milyon dolara çözmek için anlaşmaya vardı.",
+          "group" : "Epstein banking scrutiny",
+          "id" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "link" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-23T20:11:27Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNBC International",
+              "url" : "https:\/\/www.cnbc.com\/2026\/07\/23\/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html"
+            }
+          ],
+          "titleTR" : "Temsilciler Meclisi üyeleri, Epstein bağlantıları nedeniyle Jes Staley'i sorguladı"
+        }
+      ],
+      "packetSpot" : "Adalet Bakanlığı, Trump'la ilgili bir soruşturma kapsamında New York Times muhabirlerine yönelik celpleri geri çekti. Aynı zamanda, Temsilciler Meclisi üyeleri, Jeffrey Epstein ile bağlantıları nedeniyle eski JPMorgan yöneticisi Jes Staley'i sorguladı. Bu gelişmeler, yüksek profilli figürlerin dahil olduğu devam eden soruşturmaları yansıtıyor.",
+      "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
+      "publishedAt" : "2026-07-23T20:11:27Z",
+      "sessionID" : "publish-draft",
+      "slot" : 27
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.cnbc.com\/2026\/07\/23\/iran-war-us-trump-houthis-red-sea-oil.html",
           "category" : "Security",
           "descriptionTR" : "Yemenli Husiler, deniz ablukasını ihlal ettiği iddiasıyla iki Suudi petrol tankerini insansız hava araçları ve füzelerle hedef aldıklarını açıkladı.",
@@ -2814,7 +3226,7 @@
       "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
       "publishedAt" : "2026-07-23T20:11:27Z",
       "sessionID" : "publish-draft",
-      "slot" : 24
+      "slot" : 28
     },
     {
       "items" : [
@@ -2846,7 +3258,7 @@
       "packetTitle" : "Kızıldeniz'deki tanker saldırıları petrol fiyatlarını yükseltiyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 25
+      "slot" : 29
     },
     {
       "items" : [
@@ -2891,7 +3303,7 @@
       "packetTitle" : "ABD-İran gerilimi ve Kongre'de savaş yetkileri tartışması",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 26
+      "slot" : 30
     },
     {
       "items" : [
@@ -2954,7 +3366,7 @@
       "packetTitle" : "Petrol fiyatları yükseliyor, faiz artışı beklentileri artıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 27
+      "slot" : 31
     },
     {
       "items" : [
@@ -3017,7 +3429,7 @@
       "packetTitle" : "Yapay zeka harcamaları büyük teknoloji hisselerini sarsıyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 28
+      "slot" : 32
     },
     {
       "items" : [
@@ -3062,7 +3474,7 @@
       "packetTitle" : "Trump ve Epstein bağlantıları: Yüksek profilli soruşturmalar",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 29
+      "slot" : 33
     },
     {
       "items" : [
@@ -3107,7 +3519,7 @@
       "packetTitle" : "Kızıldeniz'de Husi saldırıları deniz trafiğini etkiliyor",
       "publishedAt" : "2026-07-23T20:09:28Z",
       "sessionID" : "publish-draft",
-      "slot" : 30
+      "slot" : 34
     }
   ],
   "week" : "2026-W30"
