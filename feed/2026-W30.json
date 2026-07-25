@@ -1,8 +1,337 @@
 {
   "label" : "20-26 TEMMUZ",
-  "publishedAt" : "2026-07-25T01:16:43Z",
+  "publishedAt" : "2026-07-25T23:20:06Z",
   "schemaVersion" : 2,
   "sections" : [
+    {
+      "createdAt" : "2026-07-25T23:20:06Z",
+      "id" : "7BC6D229-1B7F-4FAB-A047-A009671AFD00",
+      "slots" : [
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say",
+              "category" : "Security",
+              "descriptionTR" : "BERLİN, 25 Temmuz - Berlin Onur Yürüyüşü yakınlarında bir aracın kalabalığa dalması sonucu bir kişi hayatını kaybetti, 15 kişi yaralandı. Yaralılardan bazılarının hayati tehlikesi bulunuyor. Olay, şehrin polis kaynakları tarafından bildirildi.",
+              "group" : "Berlin Pride attack",
+              "id" : "https:\/\/www.straitstimes.com\/world\/europe\/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say",
+              "link" : "https:\/\/www.straitstimes.com\/world\/europe\/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Straits Times World",
+                  "url" : "https:\/\/www.straitstimes.com\/world\/europe\/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNA",
+                  "url" : "https:\/\/www.channelnewsasia.com\/world\/berlin-pride-car-crowd-one-killed-6278451"
+                }
+              ],
+              "titleTR" : "Berlin Onur Yürüyüşü'nde araç kalabalığa daldı, bir kişi öldü"
+            }
+          ],
+          "packetSpot" : "Berlin Onur Yürüyüşü yakınlarında bir aracın kalabalığa dalması sonucu bir kişi hayatını kaybetti, 15 kişi yaralandı. Olay, polisin bildirdiğine göre, Cumartesi akşamı Tiergarten bölgesinde gerçekleşti. Yaralılardan bazılarının durumunun kritik olduğu belirtiliyor.",
+          "packetTitle" : "Berlin Onur Yürüyüşü'nde ölümcül araç kazası",
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sessionID" : "publish-draft",
+          "slot" : 1
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/asiatimes.com\/2026\/07\/trumps-new-tariffs-to-cost-americans-100-billion-per-year\/",
+              "category" : "Economy",
+              "descriptionTR" : "ABD Başkanı Donald Trump, Perşembe günü, ABD ithalatının %99'undan fazlasını kapsayan 60 ülkeyi hedef alan yeni bir tarife paketi açıkladı. Eğer mahkemelerce onaylanırsa, bu tarifelerin Amerikalılara yılda yaklaşık 100 milyar dolara mal olabileceği tahmin ediliyor. %10 ila %12,5 arasında değişen bu tarifeler, başkanın tekrar eden mahkeme kararlarını aşma çabasının bir parçası olarak duyuruldu.",
+              "group" : "Trump tariff fallout",
+              "id" : "https:\/\/asiatimes.com\/2026\/07\/trumps-new-tariffs-to-cost-americans-100-billion-per-year\/",
+              "link" : "https:\/\/asiatimes.com\/2026\/07\/trumps-new-tariffs-to-cost-americans-100-billion-per-year\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Asia Times",
+                  "url" : "https:\/\/asiatimes.com\/2026\/07\/trumps-new-tariffs-to-cost-americans-100-billion-per-year\/"
+                }
+              ],
+              "titleTR" : "Trump'ın yeni tarifeleri Amerikalılara yılda 100 milyar dolara mal olabilir"
+            },
+            {
+              "atomID" : "https:\/\/asiatimes.com\/2026\/07\/biillions-in-trump-tariff-refunds-wont-unwind-the-damage-done\/",
+              "category" : "Economy",
+              "descriptionTR" : "Avustralyalı giyim şirketi Nashie, ABD ithalatına ödediği tarifeler için ABD hükümetinden altı haneli bir iade aldı ve bu iadeye %6 faiz eklendi. Bu, Başkan Donald Trump'ın \"Kurtuluş Günü\" olarak adlandırdığı dönemde tarifeleri geri alan binlerce işletmeden sadece biri. İade edilmesi gereken yaklaşık 166 milyar doların, 85 milyar dolardan fazlası zaten iade edilmiş durumda.",
+              "group" : "Trump tariff fallout",
+              "id" : "https:\/\/asiatimes.com\/2026\/07\/biillions-in-trump-tariff-refunds-wont-unwind-the-damage-done\/",
+              "link" : "https:\/\/asiatimes.com\/2026\/07\/biillions-in-trump-tariff-refunds-wont-unwind-the-damage-done\/",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Asia Times",
+                  "url" : "https:\/\/asiatimes.com\/2026\/07\/biillions-in-trump-tariff-refunds-wont-unwind-the-damage-done\/"
+                }
+              ],
+              "titleTR" : "Trump tarifeleri için milyarlarca dolarlık iade, zararı telafi etmeyecek"
+            }
+          ],
+          "packetSpot" : "Donald Trump'ın uyguladığı tarifelerin ekonomik etkisi, Amerikalılar üzerindeki mali yük ve tarifelerin geri ödenmesi süreciyle gündemde. ABD Başkanı'nın 60 ülkeye yönelik tarifeleri, mahkemelerce onaylandığı takdirde Amerikalılara yılda 100 milyar dolara mal olabilir. Avustralyalı Nashie gibi uluslararası şirketler de dahil olmak üzere birçok işletme, tarifelerden kaynaklanan zararlarını telafi etmeye çalışıyor. ABD hükümetinin 166 milyar dolarlık iadenin bir kısmını tamamladığı belirtiliyor.",
+          "packetTitle" : "Trump'ın tarifeleri ve ekonomik etkileri",
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sessionID" : "publish-draft",
+          "slot" : 2
+        },
+        {
+          "illustrationName" : "63B07842-FEC9-5F31-8673-6B2456878CFC.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/asiatimes.com\/2026\/07\/politicians-vs-generals-ukraines-long-hidden-war-within\/",
+              "category" : "Politics",
+              "descriptionTR" : "Ukrayna Devlet Başkanı Volodymyr Zelensky, ülkenin genelkurmay başkanı Oleksandr Syrskyi'yi görevden aldı. Bu karar, savunma bakanı Mykhailo Fedorov'un da görevden alınmasının ardından geldi. Fedorov'un, Ukrayna'nın başarılı drone stratejisinin arkasındaki isim olarak görülmesi, binlerce kişinin sokaklara dökülmesine neden oldu.",
+              "group" : "Ukraine military purge",
+              "id" : "https:\/\/asiatimes.com\/2026\/07\/politicians-vs-generals-ukraines-long-hidden-war-within\/",
+              "link" : "https:\/\/asiatimes.com\/2026\/07\/politicians-vs-generals-ukraines-long-hidden-war-within\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Asia Times",
+                  "url" : "https:\/\/asiatimes.com\/2026\/07\/politicians-vs-generals-ukraines-long-hidden-war-within\/"
+                }
+              ],
+              "titleTR" : "Politikacılar ve generaller: Ukrayna'nın uzun süredir gizli iç savaşı"
+            }
+          ],
+          "packetSpot" : "Ukrayna Devlet Başkanı Volodymyr Zelensky'nin son askeri kararları, ülkenin komutanı Oleksandr Syrskyi ve savunma bakanı Mykhailo Fedorov'un görevden alınmasıyla dikkat çekiyor. Bu görevden almalar, Ukrayna'da kamuoyunda protestolara yol açtı ve tartışmalara neden oldu. Fedorov'un, Ukrayna'nın Rusya'ya karşı yürüttüğü savaşta drone stratejisi ve teknolojik yeniliklerdeki rolü öne çıkıyor. Kaynaklara göre, Ukrayna'da politikacılar ile askeri generaller arasında gerilimler yaşanıyor.",
+          "packetTitle" : "Zelensky'nin tartışmalı askeri kararları",
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sessionID" : "publish-draft",
+          "slot" : 3
+        },
+        {
+          "illustrationName" : "FAA77F51-92E6-5195-9163-5FB4B943FB1B.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.channelnewsasia.com\/world\/france-spain-wildfires-evacuations-267000-flee-6278096",
+              "category" : "Environment",
+              "descriptionTR" : "Fransa, Bordeaux çevresindeki bölgelerden - bu mevsimde kalabalık olan tatil yerleri dahil - 197,000 kişiyi tahliye etti. Fransız İçişleri Bakanı, bunun muhtemelen ülkenin barış zamanındaki en büyük tahliyesi olduğunu söyledi.",
+              "group" : "Europe wildfire evacuations",
+              "id" : "https:\/\/www.channelnewsasia.com\/world\/france-spain-wildfires-evacuations-267000-flee-6278096",
+              "link" : "https:\/\/www.channelnewsasia.com\/world\/france-spain-wildfires-evacuations-267000-flee-6278096",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNA",
+                  "url" : "https:\/\/www.channelnewsasia.com\/world\/france-spain-wildfires-evacuations-267000-flee-6278096"
+                }
+              ],
+              "titleTR" : "Fransa ve İspanya'da yıkıcı orman yangınları 267,000 kişiyi kaçırdı"
+            },
+            {
+              "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires",
+              "category" : "Environment",
+              "descriptionTR" : "BORDEAUX, 25 Temmuz - Güneybatı Fransa'da Mohammed Laabar'ın memleketini tehdit eden şiddetli orman yangınları Cuma günü başladığında, o ve eşi üç yaşındaki oğullarını alarak önceden hazırladıkları hayatta kalma kitini kapıp Bordeaux'ya kaçtı.",
+              "group" : "France Spain wildfires",
+              "id" : "https:\/\/www.straitstimes.com\/world\/europe\/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires",
+              "link" : "https:\/\/www.straitstimes.com\/world\/europe\/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Straits Times World",
+                  "url" : "https:\/\/www.straitstimes.com\/world\/europe\/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires"
+                }
+              ],
+              "titleTR" : "On binlerce kişi Fransız orman yangınlarından kaçarken hayal kırıklığı ve korku yaşanıyor"
+            }
+          ],
+          "packetSpot" : "",
+          "packetTitle" : "Fransa ve İspanya'da orman yangınları kitlesel tahliyelere yol açıyor",
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sessionID" : "publish-draft",
+          "slot" : 4
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.channelnewsasia.com\/world\/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-in-two-weeks-6278296",
+              "category" : "Security",
+              "descriptionTR" : "Cumartesi günü, İran'ın Körfez komşularına yönelik saldırılarına dair herhangi bir rapor bulunmadı. Bu saldırılar, ABD'nin saldırılarına yanıt olarak günlük olarak gerçekleşiyordu.",
+              "group" : "Red Sea Iran conflict",
+              "id" : "https:\/\/www.channelnewsasia.com\/world\/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-in-two-weeks-6278296",
+              "link" : "https:\/\/www.channelnewsasia.com\/world\/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-in-two-weeks-6278296",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "CNA",
+                  "url" : "https:\/\/www.channelnewsasia.com\/world\/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-in-two-weeks-6278296"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Straits Times World",
+                  "url" : "https:\/\/www.straitstimes.com\/world\/houthis-claim-strike-on-saudi-arabia-as-conflict-deepens"
+                }
+              ],
+              "titleTR" : "Husiler Suudi petrol tesislerini hedef aldı; ABD'nin İran'a saldırısı iki haftadır ilk kez durdu"
+            }
+          ],
+          "packetSpot" : "Husi güçlerinin Suudi Arabistan'daki petrol tesislerine yönelik saldırıları, bölgesel çatışmayı tırmandırıyor. Bildirildiğine göre, son dönemde Husi saldırılarında artış gözlemlendi. Ancak, ABD'nin İran'a yönelik saldırılarının iki haftadır ilk kez durduğu ve İran'ın Körfez komşularına saldırı düzenlemediği belirtiliyor. Bu gelişmeler, bölgedeki gerilimi artırıyor.",
+          "packetTitle" : "Husi saldırıları Suudi petrol tesislerini hedef alıyor, bölgesel çatışma tırmanıyor",
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sessionID" : "publish-draft",
+          "slot" : 5
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/25\/world\/politics\/trump-iran-war-spirals\/",
+              "category" : "Security",
+              "descriptionTR" : "Trump'ın uzun süredir geri çekilme yolunu reddeden bir lider olduğu belirtiliyor. Bir kaynağa göre, şimdi İslam Cumhuriyeti'ne karşı intikam moduna geçtiği ifade ediliyor.",
+              "group" : "Iran war escalation",
+              "id" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/25\/world\/politics\/trump-iran-war-spirals\/",
+              "link" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/25\/world\/politics\/trump-iran-war-spirals\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Japan Times",
+                  "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/25\/world\/politics\/trump-iran-war-spirals\/"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Straits Times World",
+                  "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/trump-weighs-harder-iran-strikes-as-war-widens"
+                }
+              ],
+              "titleTR" : "Trump, İran savaşı yeni bir boyut kazanırken öfkeleniyor"
+            }
+          ],
+          "packetSpot" : "Trump yönetimi, İran'a karşı askeri eylemleri yoğunlaştırıyor. Başkan Trump, önemli askeri cezalandırma vaat ederken, daha saldırgan bir tutum benimsemeye doğru bir kayma yaşanıyor.",
+          "packetTitle" : "Trump yönetimi İran'a karşı askeri eylemleri artırıyor",
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sessionID" : "publish-draft",
+          "slot" : 6
+        },
+        {
+          "items" : [
+            {
+              "atomID" : "https:\/\/asiatimes.com\/2026\/07\/yen-won-flashing-a-currency-risk-markets-havent-priced\/",
+              "category" : "Economy",
+              "descriptionTR" : "Küresel yatırımcılar Orta Doğu'daki krizi izlerken, petrol fiyatlarının artması ve ABD dolarının güçlenmesi bekleniyor. Ancak Japonya ve Kore'de daha tehlikeli bir dinamik gözden kaçıyor. Her iki ülkenin merkez bankaları da faiz oranlarını artırmış durumda.",
+              "group" : "Japan Korea currency risk",
+              "id" : "https:\/\/asiatimes.com\/2026\/07\/yen-won-flashing-a-currency-risk-markets-havent-priced\/",
+              "link" : "https:\/\/asiatimes.com\/2026\/07\/yen-won-flashing-a-currency-risk-markets-havent-priced\/",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Asia Times",
+                  "url" : "https:\/\/asiatimes.com\/2026\/07\/yen-won-flashing-a-currency-risk-markets-havent-priced\/"
+                },
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Asia Times",
+                  "url" : "https:\/\/asiatimes.com\/2026\/07\/japans-fake-fury-over-its-free-falling-yen\/"
+                }
+              ],
+              "titleTR" : "Yen ve won, piyasaların fiyatlamadığı bir döviz riski gösteriyor"
+            },
+            {
+              "atomID" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/25\/markets\/yen-worst-week-165\/",
+              "category" : "Economy",
+              "descriptionTR" : "Japonya'nın para birimi, perşembe günü 163.99 yen ile 40 yılın en düşük seviyesine ulaştıktan sonra dolar karşısında 165 yen seviyesine yaklaşıyor.",
+              "group" : "Yen currency slump",
+              "id" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/25\/markets\/yen-worst-week-165\/",
+              "link" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/25\/markets\/yen-worst-week-165\/",
+              "newsValue" : 8,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Japan Times",
+                  "url" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/25\/markets\/yen-worst-week-165\/"
+                }
+              ],
+              "titleTR" : "Yen, Mayıs'tan bu yana en kötü haftasını geçiriyor: Dolar karşısında 165 yen seviyesine yaklaşıyor"
+            }
+          ],
+          "packetSpot" : "Japon yeni, dolar karşısında 40 yılın en düşük seviyesine yaklaşırken, Asya'daki daha geniş ekonomik endişeler ve piyasa dinamikleri arasında artan bir baskı altında. Küresel yatırımcılar, Orta Doğu'daki kriz nedeniyle petrol fiyatlarının artması ve ABD dolarının güçlenmesi gibi faktörlere odaklanırken, Japonya ve Kore'deki farklı ve potansiyel olarak daha tehlikeli bir dinamik gözden kaçıyor. Her iki ülkenin merkez bankaları da faiz oranlarını artırmış durumda. Japonya'nın para birimi, perşembe günü 163.99 yen ile 40 yılın en düşük seviyesine ulaştıktan sonra dolar karşısında 165 yen seviyesine yaklaşıyor.",
+          "packetTitle" : "Japon yeni 40 yılın en düşük seviyesine yaklaşıyor",
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sessionID" : "publish-draft",
+          "slot" : 7
+        },
+        {
+          "illustrationName" : "59CC5FE5-7665-5FE4-A8EF-DC597ED90454.png",
+          "items" : [
+            {
+              "atomID" : "https:\/\/www.straitstimes.com\/world\/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming",
+              "category" : "Economy",
+              "descriptionTR" : "ABD Başkanı Donald Trump, geçen yıl göreve döndüğünde uzun süren tarife soruşturmalarına vakit ayırmadı ve ticaret ortaklarını hemen sıkıştırarak tavizler koparmak istedi.",
+              "group" : "Trump tariff escalation",
+              "id" : "https:\/\/www.straitstimes.com\/world\/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming",
+              "link" : "https:\/\/www.straitstimes.com\/world\/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming",
+              "newsValue" : 7,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "The Straits Times World",
+                  "url" : "https:\/\/www.straitstimes.com\/world\/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming"
+                }
+              ],
+              "titleTR" : "Trump'ın tarifeleri kalıcı olabilir; yenileri yolda"
+            },
+            {
+              "atomID" : "https:\/\/www.koreaherald.com\/article\/10819629",
+              "category" : "Economy",
+              "descriptionTR" : "Güney Koreli otomobil üreticisi Kia, ABD otomobil tarifeleri ve artan satış teşviklerinin etkisiyle ikinci çeyrekte işletme kârının %4,9 düştüğünü açıkladı. Hibrit ve elektrikli modellere olan talebin artmasıyla rekor gelir ve araç satışlarına rağmen, işletme kârı geçen yılın aynı dönemine göre 2,63 trilyon won'a geriledi. Gelir %12,6 artarak 33,04 trilyon won ile en yüksek çeyrek rakamına ulaştı, net kâr ise %2,6 arttı.",
+              "group" : "Kia tariff pressure",
+              "id" : "https:\/\/www.koreaherald.com\/article\/10819629",
+              "link" : "https:\/\/www.koreaherald.com\/article\/10819629",
+              "newsValue" : 6,
+              "publishedAt" : "2026-07-25T23:20:06Z",
+              "sources" : [
+                {
+                  "originalLanguage" : "en",
+                  "sourceName" : "Korea Herald",
+                  "url" : "https:\/\/www.koreaherald.com\/article\/10819629"
+                }
+              ],
+              "titleTR" : "Kia'nın ikinci çeyrek kârı rekor satışlara rağmen düştü"
+            }
+          ],
+          "packetSpot" : "Trump yönetimindeki ABD tarifeleri, ticaret politikalarını şekillendiriyor ve şirket kârlarını etkiliyor. Kia'nın rekor satışlarına rağmen işletme kârının düşmesi, bu etkinin somut bir örneği.",
+          "packetTitle" : "Trump'ın tarifeleri ticaret politikalarını ve şirket kârlarını etkiliyor",
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sessionID" : "publish-draft",
+          "slot" : 8
+        }
+      ],
+      "superPackets" : [
+        {
+          "slots" : [
+            5,
+            6
+          ],
+          "spot" : "Orta Doğu'da artan gerginlikler, Husi saldırıları ve ABD-İran çatışmalarıyla daha da derinleşiyor. Husi güçleri, Suudi Arabistan'ın petrol altyapısını hedef alırken, ABD'nin İran'a yönelik saldırılarının iki hafta sonra ilk kez durduğu bildiriliyor. Bu gelişmeler, bölgesel krizin derinleştiğine ve önemli jeopolitik sonuçlar doğurabileceğine işaret ediyor. Eski Başkan Trump'ın İran'a karşı 'intikam moduna' geçtiği iddiaları, çatışmanın çözümden uzaklaştığını gösteriyor.",
+          "title" : "Orta Doğu'da artan gerginlikler: Husi saldırıları ve ABD-İran çatışmaları"
+        }
+      ],
+      "title" : "Koşu 26 Tem",
+      "type" : "run"
+    },
     {
       "createdAt" : "2026-07-24T20:41:59Z",
       "id" : "run-2026-W30-1784925719",
@@ -1193,6 +1522,317 @@
     {
       "items" : [
         {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say",
+          "category" : "Security",
+          "descriptionTR" : "BERLİN, 25 Temmuz - Berlin Onur Yürüyüşü yakınlarında bir aracın kalabalığa dalması sonucu bir kişi hayatını kaybetti, 15 kişi yaralandı. Yaralılardan bazılarının hayati tehlikesi bulunuyor. Olay, şehrin polis kaynakları tarafından bildirildi.",
+          "group" : "Berlin Pride attack",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/vehicle-drives-into-crowd-at-berlin-pride-festival-causing-injuries-police-say"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNA",
+              "url" : "https:\/\/www.channelnewsasia.com\/world\/berlin-pride-car-crowd-one-killed-6278451"
+            }
+          ],
+          "titleTR" : "Berlin Onur Yürüyüşü'nde araç kalabalığa daldı, bir kişi öldü"
+        }
+      ],
+      "packetSpot" : "Berlin Onur Yürüyüşü yakınlarında bir aracın kalabalığa dalması sonucu bir kişi hayatını kaybetti, 15 kişi yaralandı. Olay, polisin bildirdiğine göre, Cumartesi akşamı Tiergarten bölgesinde gerçekleşti. Yaralılardan bazılarının durumunun kritik olduğu belirtiliyor.",
+      "packetTitle" : "Berlin Onur Yürüyüşü'nde ölümcül araç kazası",
+      "publishedAt" : "2026-07-25T23:20:06Z",
+      "sessionID" : "publish-draft",
+      "slot" : 1
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/asiatimes.com\/2026\/07\/trumps-new-tariffs-to-cost-americans-100-billion-per-year\/",
+          "category" : "Economy",
+          "descriptionTR" : "ABD Başkanı Donald Trump, Perşembe günü, ABD ithalatının %99'undan fazlasını kapsayan 60 ülkeyi hedef alan yeni bir tarife paketi açıkladı. Eğer mahkemelerce onaylanırsa, bu tarifelerin Amerikalılara yılda yaklaşık 100 milyar dolara mal olabileceği tahmin ediliyor. %10 ila %12,5 arasında değişen bu tarifeler, başkanın tekrar eden mahkeme kararlarını aşma çabasının bir parçası olarak duyuruldu.",
+          "group" : "Trump tariff fallout",
+          "id" : "https:\/\/asiatimes.com\/2026\/07\/trumps-new-tariffs-to-cost-americans-100-billion-per-year\/",
+          "link" : "https:\/\/asiatimes.com\/2026\/07\/trumps-new-tariffs-to-cost-americans-100-billion-per-year\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Asia Times",
+              "url" : "https:\/\/asiatimes.com\/2026\/07\/trumps-new-tariffs-to-cost-americans-100-billion-per-year\/"
+            }
+          ],
+          "titleTR" : "Trump'ın yeni tarifeleri Amerikalılara yılda 100 milyar dolara mal olabilir"
+        },
+        {
+          "atomID" : "https:\/\/asiatimes.com\/2026\/07\/biillions-in-trump-tariff-refunds-wont-unwind-the-damage-done\/",
+          "category" : "Economy",
+          "descriptionTR" : "Avustralyalı giyim şirketi Nashie, ABD ithalatına ödediği tarifeler için ABD hükümetinden altı haneli bir iade aldı ve bu iadeye %6 faiz eklendi. Bu, Başkan Donald Trump'ın \"Kurtuluş Günü\" olarak adlandırdığı dönemde tarifeleri geri alan binlerce işletmeden sadece biri. İade edilmesi gereken yaklaşık 166 milyar doların, 85 milyar dolardan fazlası zaten iade edilmiş durumda.",
+          "group" : "Trump tariff fallout",
+          "id" : "https:\/\/asiatimes.com\/2026\/07\/biillions-in-trump-tariff-refunds-wont-unwind-the-damage-done\/",
+          "link" : "https:\/\/asiatimes.com\/2026\/07\/biillions-in-trump-tariff-refunds-wont-unwind-the-damage-done\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Asia Times",
+              "url" : "https:\/\/asiatimes.com\/2026\/07\/biillions-in-trump-tariff-refunds-wont-unwind-the-damage-done\/"
+            }
+          ],
+          "titleTR" : "Trump tarifeleri için milyarlarca dolarlık iade, zararı telafi etmeyecek"
+        }
+      ],
+      "packetSpot" : "Donald Trump'ın uyguladığı tarifelerin ekonomik etkisi, Amerikalılar üzerindeki mali yük ve tarifelerin geri ödenmesi süreciyle gündemde. ABD Başkanı'nın 60 ülkeye yönelik tarifeleri, mahkemelerce onaylandığı takdirde Amerikalılara yılda 100 milyar dolara mal olabilir. Avustralyalı Nashie gibi uluslararası şirketler de dahil olmak üzere birçok işletme, tarifelerden kaynaklanan zararlarını telafi etmeye çalışıyor. ABD hükümetinin 166 milyar dolarlık iadenin bir kısmını tamamladığı belirtiliyor.",
+      "packetTitle" : "Trump'ın tarifeleri ve ekonomik etkileri",
+      "publishedAt" : "2026-07-25T23:20:06Z",
+      "sessionID" : "publish-draft",
+      "slot" : 2
+    },
+    {
+      "illustrationName" : "63B07842-FEC9-5F31-8673-6B2456878CFC.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/asiatimes.com\/2026\/07\/politicians-vs-generals-ukraines-long-hidden-war-within\/",
+          "category" : "Politics",
+          "descriptionTR" : "Ukrayna Devlet Başkanı Volodymyr Zelensky, ülkenin genelkurmay başkanı Oleksandr Syrskyi'yi görevden aldı. Bu karar, savunma bakanı Mykhailo Fedorov'un da görevden alınmasının ardından geldi. Fedorov'un, Ukrayna'nın başarılı drone stratejisinin arkasındaki isim olarak görülmesi, binlerce kişinin sokaklara dökülmesine neden oldu.",
+          "group" : "Ukraine military purge",
+          "id" : "https:\/\/asiatimes.com\/2026\/07\/politicians-vs-generals-ukraines-long-hidden-war-within\/",
+          "link" : "https:\/\/asiatimes.com\/2026\/07\/politicians-vs-generals-ukraines-long-hidden-war-within\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Asia Times",
+              "url" : "https:\/\/asiatimes.com\/2026\/07\/politicians-vs-generals-ukraines-long-hidden-war-within\/"
+            }
+          ],
+          "titleTR" : "Politikacılar ve generaller: Ukrayna'nın uzun süredir gizli iç savaşı"
+        }
+      ],
+      "packetSpot" : "Ukrayna Devlet Başkanı Volodymyr Zelensky'nin son askeri kararları, ülkenin komutanı Oleksandr Syrskyi ve savunma bakanı Mykhailo Fedorov'un görevden alınmasıyla dikkat çekiyor. Bu görevden almalar, Ukrayna'da kamuoyunda protestolara yol açtı ve tartışmalara neden oldu. Fedorov'un, Ukrayna'nın Rusya'ya karşı yürüttüğü savaşta drone stratejisi ve teknolojik yeniliklerdeki rolü öne çıkıyor. Kaynaklara göre, Ukrayna'da politikacılar ile askeri generaller arasında gerilimler yaşanıyor.",
+      "packetTitle" : "Zelensky'nin tartışmalı askeri kararları",
+      "publishedAt" : "2026-07-25T23:20:06Z",
+      "sessionID" : "publish-draft",
+      "slot" : 3
+    },
+    {
+      "illustrationName" : "FAA77F51-92E6-5195-9163-5FB4B943FB1B.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.channelnewsasia.com\/world\/france-spain-wildfires-evacuations-267000-flee-6278096",
+          "category" : "Environment",
+          "descriptionTR" : "Fransa, Bordeaux çevresindeki bölgelerden - bu mevsimde kalabalık olan tatil yerleri dahil - 197,000 kişiyi tahliye etti. Fransız İçişleri Bakanı, bunun muhtemelen ülkenin barış zamanındaki en büyük tahliyesi olduğunu söyledi.",
+          "group" : "Europe wildfire evacuations",
+          "id" : "https:\/\/www.channelnewsasia.com\/world\/france-spain-wildfires-evacuations-267000-flee-6278096",
+          "link" : "https:\/\/www.channelnewsasia.com\/world\/france-spain-wildfires-evacuations-267000-flee-6278096",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNA",
+              "url" : "https:\/\/www.channelnewsasia.com\/world\/france-spain-wildfires-evacuations-267000-flee-6278096"
+            }
+          ],
+          "titleTR" : "Fransa ve İspanya'da yıkıcı orman yangınları 267,000 kişiyi kaçırdı"
+        },
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/europe\/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires",
+          "category" : "Environment",
+          "descriptionTR" : "BORDEAUX, 25 Temmuz - Güneybatı Fransa'da Mohammed Laabar'ın memleketini tehdit eden şiddetli orman yangınları Cuma günü başladığında, o ve eşi üç yaşındaki oğullarını alarak önceden hazırladıkları hayatta kalma kitini kapıp Bordeaux'ya kaçtı.",
+          "group" : "France Spain wildfires",
+          "id" : "https:\/\/www.straitstimes.com\/world\/europe\/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires",
+          "link" : "https:\/\/www.straitstimes.com\/world\/europe\/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/europe\/disappointment-and-fear-as-tens-of-thousands-people-evacuate-french-wildfires"
+            }
+          ],
+          "titleTR" : "On binlerce kişi Fransız orman yangınlarından kaçarken hayal kırıklığı ve korku yaşanıyor"
+        }
+      ],
+      "packetSpot" : "",
+      "packetTitle" : "Fransa ve İspanya'da orman yangınları kitlesel tahliyelere yol açıyor",
+      "publishedAt" : "2026-07-25T23:20:06Z",
+      "sessionID" : "publish-draft",
+      "slot" : 4
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.channelnewsasia.com\/world\/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-in-two-weeks-6278296",
+          "category" : "Security",
+          "descriptionTR" : "Cumartesi günü, İran'ın Körfez komşularına yönelik saldırılarına dair herhangi bir rapor bulunmadı. Bu saldırılar, ABD'nin saldırılarına yanıt olarak günlük olarak gerçekleşiyordu.",
+          "group" : "Red Sea Iran conflict",
+          "id" : "https:\/\/www.channelnewsasia.com\/world\/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-in-two-weeks-6278296",
+          "link" : "https:\/\/www.channelnewsasia.com\/world\/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-in-two-weeks-6278296",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "CNA",
+              "url" : "https:\/\/www.channelnewsasia.com\/world\/houthis-fire-saudi-oil-sites-no-us-strike-iran-first-time-in-two-weeks-6278296"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/houthis-claim-strike-on-saudi-arabia-as-conflict-deepens"
+            }
+          ],
+          "titleTR" : "Husiler Suudi petrol tesislerini hedef aldı; ABD'nin İran'a saldırısı iki haftadır ilk kez durdu"
+        }
+      ],
+      "packetSpot" : "Husi güçlerinin Suudi Arabistan'daki petrol tesislerine yönelik saldırıları, bölgesel çatışmayı tırmandırıyor. Bildirildiğine göre, son dönemde Husi saldırılarında artış gözlemlendi. Ancak, ABD'nin İran'a yönelik saldırılarının iki haftadır ilk kez durduğu ve İran'ın Körfez komşularına saldırı düzenlemediği belirtiliyor. Bu gelişmeler, bölgedeki gerilimi artırıyor.",
+      "packetTitle" : "Husi saldırıları Suudi petrol tesislerini hedef alıyor, bölgesel çatışma tırmanıyor",
+      "publishedAt" : "2026-07-25T23:20:06Z",
+      "sessionID" : "publish-draft",
+      "slot" : 5
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/25\/world\/politics\/trump-iran-war-spirals\/",
+          "category" : "Security",
+          "descriptionTR" : "Trump'ın uzun süredir geri çekilme yolunu reddeden bir lider olduğu belirtiliyor. Bir kaynağa göre, şimdi İslam Cumhuriyeti'ne karşı intikam moduna geçtiği ifade ediliyor.",
+          "group" : "Iran war escalation",
+          "id" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/25\/world\/politics\/trump-iran-war-spirals\/",
+          "link" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/25\/world\/politics\/trump-iran-war-spirals\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/news\/2026\/07\/25\/world\/politics\/trump-iran-war-spirals\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/middle-east\/trump-weighs-harder-iran-strikes-as-war-widens"
+            }
+          ],
+          "titleTR" : "Trump, İran savaşı yeni bir boyut kazanırken öfkeleniyor"
+        }
+      ],
+      "packetSpot" : "Trump yönetimi, İran'a karşı askeri eylemleri yoğunlaştırıyor. Başkan Trump, önemli askeri cezalandırma vaat ederken, daha saldırgan bir tutum benimsemeye doğru bir kayma yaşanıyor.",
+      "packetTitle" : "Trump yönetimi İran'a karşı askeri eylemleri artırıyor",
+      "publishedAt" : "2026-07-25T23:20:06Z",
+      "sessionID" : "publish-draft",
+      "slot" : 6
+    },
+    {
+      "items" : [
+        {
+          "atomID" : "https:\/\/asiatimes.com\/2026\/07\/yen-won-flashing-a-currency-risk-markets-havent-priced\/",
+          "category" : "Economy",
+          "descriptionTR" : "Küresel yatırımcılar Orta Doğu'daki krizi izlerken, petrol fiyatlarının artması ve ABD dolarının güçlenmesi bekleniyor. Ancak Japonya ve Kore'de daha tehlikeli bir dinamik gözden kaçıyor. Her iki ülkenin merkez bankaları da faiz oranlarını artırmış durumda.",
+          "group" : "Japan Korea currency risk",
+          "id" : "https:\/\/asiatimes.com\/2026\/07\/yen-won-flashing-a-currency-risk-markets-havent-priced\/",
+          "link" : "https:\/\/asiatimes.com\/2026\/07\/yen-won-flashing-a-currency-risk-markets-havent-priced\/",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Asia Times",
+              "url" : "https:\/\/asiatimes.com\/2026\/07\/yen-won-flashing-a-currency-risk-markets-havent-priced\/"
+            },
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Asia Times",
+              "url" : "https:\/\/asiatimes.com\/2026\/07\/japans-fake-fury-over-its-free-falling-yen\/"
+            }
+          ],
+          "titleTR" : "Yen ve won, piyasaların fiyatlamadığı bir döviz riski gösteriyor"
+        },
+        {
+          "atomID" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/25\/markets\/yen-worst-week-165\/",
+          "category" : "Economy",
+          "descriptionTR" : "Japonya'nın para birimi, perşembe günü 163.99 yen ile 40 yılın en düşük seviyesine ulaştıktan sonra dolar karşısında 165 yen seviyesine yaklaşıyor.",
+          "group" : "Yen currency slump",
+          "id" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/25\/markets\/yen-worst-week-165\/",
+          "link" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/25\/markets\/yen-worst-week-165\/",
+          "newsValue" : 8,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Japan Times",
+              "url" : "https:\/\/www.japantimes.co.jp\/business\/2026\/07\/25\/markets\/yen-worst-week-165\/"
+            }
+          ],
+          "titleTR" : "Yen, Mayıs'tan bu yana en kötü haftasını geçiriyor: Dolar karşısında 165 yen seviyesine yaklaşıyor"
+        }
+      ],
+      "packetSpot" : "Japon yeni, dolar karşısında 40 yılın en düşük seviyesine yaklaşırken, Asya'daki daha geniş ekonomik endişeler ve piyasa dinamikleri arasında artan bir baskı altında. Küresel yatırımcılar, Orta Doğu'daki kriz nedeniyle petrol fiyatlarının artması ve ABD dolarının güçlenmesi gibi faktörlere odaklanırken, Japonya ve Kore'deki farklı ve potansiyel olarak daha tehlikeli bir dinamik gözden kaçıyor. Her iki ülkenin merkez bankaları da faiz oranlarını artırmış durumda. Japonya'nın para birimi, perşembe günü 163.99 yen ile 40 yılın en düşük seviyesine ulaştıktan sonra dolar karşısında 165 yen seviyesine yaklaşıyor.",
+      "packetTitle" : "Japon yeni 40 yılın en düşük seviyesine yaklaşıyor",
+      "publishedAt" : "2026-07-25T23:20:06Z",
+      "sessionID" : "publish-draft",
+      "slot" : 7
+    },
+    {
+      "illustrationName" : "59CC5FE5-7665-5FE4-A8EF-DC597ED90454.png",
+      "items" : [
+        {
+          "atomID" : "https:\/\/www.straitstimes.com\/world\/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming",
+          "category" : "Economy",
+          "descriptionTR" : "ABD Başkanı Donald Trump, geçen yıl göreve döndüğünde uzun süren tarife soruşturmalarına vakit ayırmadı ve ticaret ortaklarını hemen sıkıştırarak tavizler koparmak istedi.",
+          "group" : "Trump tariff escalation",
+          "id" : "https:\/\/www.straitstimes.com\/world\/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming",
+          "link" : "https:\/\/www.straitstimes.com\/world\/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming",
+          "newsValue" : 7,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "The Straits Times World",
+              "url" : "https:\/\/www.straitstimes.com\/world\/this-wave-of-trump-tariffs-is-likely-here-to-stay-more-are-coming"
+            }
+          ],
+          "titleTR" : "Trump'ın tarifeleri kalıcı olabilir; yenileri yolda"
+        },
+        {
+          "atomID" : "https:\/\/www.koreaherald.com\/article\/10819629",
+          "category" : "Economy",
+          "descriptionTR" : "Güney Koreli otomobil üreticisi Kia, ABD otomobil tarifeleri ve artan satış teşviklerinin etkisiyle ikinci çeyrekte işletme kârının %4,9 düştüğünü açıkladı. Hibrit ve elektrikli modellere olan talebin artmasıyla rekor gelir ve araç satışlarına rağmen, işletme kârı geçen yılın aynı dönemine göre 2,63 trilyon won'a geriledi. Gelir %12,6 artarak 33,04 trilyon won ile en yüksek çeyrek rakamına ulaştı, net kâr ise %2,6 arttı.",
+          "group" : "Kia tariff pressure",
+          "id" : "https:\/\/www.koreaherald.com\/article\/10819629",
+          "link" : "https:\/\/www.koreaherald.com\/article\/10819629",
+          "newsValue" : 6,
+          "publishedAt" : "2026-07-25T23:20:06Z",
+          "sources" : [
+            {
+              "originalLanguage" : "en",
+              "sourceName" : "Korea Herald",
+              "url" : "https:\/\/www.koreaherald.com\/article\/10819629"
+            }
+          ],
+          "titleTR" : "Kia'nın ikinci çeyrek kârı rekor satışlara rağmen düştü"
+        }
+      ],
+      "packetSpot" : "Trump yönetimindeki ABD tarifeleri, ticaret politikalarını şekillendiriyor ve şirket kârlarını etkiliyor. Kia'nın rekor satışlarına rağmen işletme kârının düşmesi, bu etkinin somut bir örneği.",
+      "packetTitle" : "Trump'ın tarifeleri ticaret politikalarını ve şirket kârlarını etkiliyor",
+      "publishedAt" : "2026-07-25T23:20:06Z",
+      "sessionID" : "publish-draft",
+      "slot" : 8
+    },
+    {
+      "items" : [
+        {
           "atomID" : "https:\/\/www.bfi.org.uk\/news\/take-it-or-leave-it-starring-madness-coming-back-cinemas-new-restoration",
           "category" : "Culture",
           "descriptionTR" : "1981 yılında ilk kez gösterime giren 'Take It Or Leave It', ünlü İngiliz grubu Madness'ın nasıl bir araya geldiğini anlatıyor. BFI tarafından 4K olarak restore edilen film, 2 Ekim 2026'da Birleşik Krallık ve İrlanda'da sinemalarda yeniden gösterime girecek. Ayrıca, 19 Ekim'de BFI Blu-ray\/DVD olarak piyasaya sürülecek. Filmin dünya prömiyeri ve grup üyeleriyle bir soru-cevap etkinliği 30 Eylül'de BFI Southbank'te gerçekleşecek.",
@@ -1233,7 +1873,7 @@
       "packetTitle" : "Klasik filmler yeniden hayat buluyor",
       "publishedAt" : "2026-07-24T20:41:59Z",
       "sessionID" : "publish-draft",
-      "slot" : 1
+      "slot" : 9
     },
     {
       "illustrationName" : "467B3482-8AC7-54CD-945E-5D2A0F57CAC5.png",
@@ -1279,7 +1919,7 @@
       "packetTitle" : "Sanatta telif hakkı ihlalleri üzerine yargı kararları",
       "publishedAt" : "2026-07-24T20:41:59Z",
       "sessionID" : "publish-draft",
-      "slot" : 2
+      "slot" : 10
     },
     {
       "caption" : "Donald Trump",
@@ -1380,7 +2020,7 @@
       "packetTitle" : "Trump'ın yeni tarifeleri uluslararası eleştiri ve hukuki itirazlarla karşı karşıya",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 3
+      "slot" : 11
     },
     {
       "illustrationName" : "5C0FDC0D-02B4-5083-86A3-510A86259393.png",
@@ -1426,7 +2066,7 @@
       "packetTitle" : "Paramount'un Warner Bros. satın alımı hukuki engellerle karşı karşıya",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 4
+      "slot" : 12
     },
     {
       "items" : [
@@ -1471,7 +2111,7 @@
       "packetTitle" : "DNC'nin yeni ön seçim takvimi: Güney Carolina ilk sırada",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 5
+      "slot" : 13
     },
     {
       "illustrationName" : "8558F539-353F-5A9D-8A71-3F8E7D0DFC8B.png",
@@ -1535,7 +2175,7 @@
       "packetTitle" : "ABD'nin İran'a karşı askeri hamleleri tırmanıyor",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 6
+      "slot" : 14
     },
     {
       "items" : [
@@ -1580,7 +2220,7 @@
       "packetTitle" : "OpenAI'nin ihlali yapay zeka güvenliğini sorgulatıyor",
       "publishedAt" : "2026-07-25T00:12:37Z",
       "sessionID" : "publish-draft",
-      "slot" : 7
+      "slot" : 15
     },
     {
       "illustrationName" : "15077D30-A0C2-5BEC-B2EC-4EE434A9926D.png",
@@ -1626,7 +2266,7 @@
       "packetTitle" : "Trump'ın anıt alanları küçültme kararı tartışma yaratıyor",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 8
+      "slot" : 16
     },
     {
       "illustrationName" : "03BF698B-EA01-5467-960E-74C2B75DD9CF.png",
@@ -1672,7 +2312,7 @@
       "packetTitle" : "İklim ve sömürgecilik karşısında yerli liderlerin BM'de daha fazla katılım talebi",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 9
+      "slot" : 17
     },
     {
       "illustrationName" : "07EE3D24-85D3-5903-83CB-B6542BA965D5.png",
@@ -1705,7 +2345,7 @@
       "packetTitle" : "Fransa'nın güneybatısında orman yangınları: Tahliyeler ve mücadele",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 10
+      "slot" : 18
     },
     {
       "items" : [
@@ -1750,7 +2390,7 @@
       "packetTitle" : "Laos'ta turizmle beslenen yaban hayatı ticareti",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 11
+      "slot" : 19
     },
     {
       "items" : [
@@ -1787,7 +2427,7 @@
       "packetTitle" : "COP31 ve Afrika'nın Kalkınmasında Elektrifikasyonun Rolü",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 12
+      "slot" : 20
     },
     {
       "illustrationName" : "6FF85FB8-CF7F-5ECE-A6BE-7018129385EC.png",
@@ -1833,7 +2473,7 @@
       "packetTitle" : "El Niño iklim zorluklarını artırıyor",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 13
+      "slot" : 21
     },
     {
       "illustrationName" : "542AFEB5-E554-53AF-A2A5-CF3FA8A747A9.png",
@@ -1879,7 +2519,7 @@
       "packetTitle" : "Aşırı sıcaklarla mücadelede klima tartışmaları ve yerel ısı verisi sistemlerinin rolü",
       "publishedAt" : "2026-07-24T20:55:09Z",
       "sessionID" : "publish-draft",
-      "slot" : 14
+      "slot" : 22
     },
     {
       "illustrationName" : "AD308FF5-70B0-44D5-A5AE-B2A26B89246B.png",
@@ -1943,7 +2583,7 @@
       "packetTitle" : "Trump'ın uluslararası anlaşmalar ve politikalar üzerindeki etkisi",
       "publishedAt" : "2026-07-25T01:16:43Z",
       "sessionID" : "publish-draft",
-      "slot" : 15
+      "slot" : 23
     },
     {
       "illustrationName" : "C1458EEA-0D38-50DD-9846-EA3CA27D9F3A.png",
@@ -1989,7 +2629,7 @@
       "packetTitle" : "ABD'nin İran stratejisindeki değişimler",
       "publishedAt" : "2026-07-25T01:16:43Z",
       "sessionID" : "publish-draft",
-      "slot" : 16
+      "slot" : 24
     },
     {
       "illustrationName" : "F718CA46-B6F5-5C45-A4FE-58D5EA28F1DF.png",
@@ -2035,7 +2675,7 @@
       "packetTitle" : "Toplumsal ve siyasi sorunların tetiklediği protestolar",
       "publishedAt" : "2026-07-25T01:16:43Z",
       "sessionID" : "publish-draft",
-      "slot" : 17
+      "slot" : 25
     },
     {
       "illustrationName" : "D6E30540-AC98-5DE6-9C96-11571AA4D440.png",
@@ -2081,7 +2721,7 @@
       "packetTitle" : "Çevresel ve politik değişimlerin kamu hizmetlerine etkisi",
       "publishedAt" : "2026-07-25T01:16:43Z",
       "sessionID" : "publish-draft",
-      "slot" : 18
+      "slot" : 26
     },
     {
       "items" : [
@@ -2144,7 +2784,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış ABD finansal göstergelerini etkiliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 19
+      "slot" : 27
     },
     {
       "items" : [
@@ -2207,7 +2847,7 @@
       "packetTitle" : "Orta Doğu'daki çatışmalar petrol fiyatlarını ve gerilimleri artırıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 20
+      "slot" : 28
     },
     {
       "items" : [
@@ -2270,7 +2910,7 @@
       "packetTitle" : "Petrol fiyatlarındaki artış piyasaları sarsıyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 21
+      "slot" : 29
     },
     {
       "items" : [
@@ -2333,7 +2973,17 @@
       "packetTitle" : "Büyük teknoloji şirketlerinin AI harcamaları borsa tepkilerini tetikliyor",
       "publishedAt" : "2026-07-23T21:54:18Z",
       "sessionID" : "publish-draft",
-      "slot" : 22
+      "slot" : 30
+    }
+  ],
+  "superPackets" : [
+    {
+      "slots" : [
+        5,
+        6
+      ],
+      "spot" : "Orta Doğu'da artan gerginlikler, Husi saldırıları ve ABD-İran çatışmalarıyla daha da derinleşiyor. Husi güçleri, Suudi Arabistan'ın petrol altyapısını hedef alırken, ABD'nin İran'a yönelik saldırılarının iki hafta sonra ilk kez durduğu bildiriliyor. Bu gelişmeler, bölgesel krizin derinleştiğine ve önemli jeopolitik sonuçlar doğurabileceğine işaret ediyor. Eski Başkan Trump'ın İran'a karşı 'intikam moduna' geçtiği iddiaları, çatışmanın çözümden uzaklaştığını gösteriyor.",
+      "title" : "Orta Doğu'da artan gerginlikler: Husi saldırıları ve ABD-İran çatışmaları"
     }
   ],
   "week" : "2026-W30"
