@@ -1,7 +1,14 @@
 {
-  "currentWeek" : "2026-W26",
+  "currentWeek" : "2026-W33",
   "feedVersion" : "1.0",
   "weeks" : [
+    {
+      "label" : "10–16 AĞUSTOS",
+      "packetCount" : 50,
+      "publishedAt" : "2026-08-14T17:34:16Z",
+      "url" : "2026-W33.json",
+      "week" : "2026-W33"
+    },
     {
       "label" : "15–21 HAZİRAN",
       "packetCount" : 35,
