@@ -1,0 +1,1555 @@
+{
+  "books" : [
+    {
+      "author" : "Figen Çalıkuşu",
+      "captured_at" : "2026-08-14T17:32:50Z",
+      "confidence" : "high",
+      "description" : "Bir siyasi iktidarın kendi ülkesinde “terminatör” gibi davranarak devletin temeli olan hukuku ve yargıyı paramparça etmesi çok sık rastlanan bir durum değildir. Hukuk ve yargı düzeni paramparça edilince, gün gelir herkes hukuksuzluk ve şiddette eşitlenerek bundan nasibini alır. Üstünlerin hukukuna göre cezasız kalan şiddet, zamanla toplumun üzerine çöker ve yaygınlaşır. Hukuksuzluk ve yaydığı şiddet ise tıpkı bir taşın suya atılması gibi, dalga dalga yayılarak toplumsal çürümeye yol açar. Türkiye’de yaşanan budur.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar etiketi ve sayfa metni: Figen Çalıkuşu",
+          "source_url" : "https://zoekitap.com/kitap/101-soruda-15-temmuz-yargisi/"
+        },
+        "description" : {
+          "evidence_text" : "Ürün sayfasındaki resmi açıklama paragrafı",
+          "source_url" : "https://zoekitap.com/kitap/101-soruda-15-temmuz-yargisi/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün sayfası başlığı: 101 Soruda 15 Temmuz Yargısı",
+          "source_url" : "https://zoekitap.com/kitap/101-soruda-15-temmuz-yargisi/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://zoekitap.com/kitap/101-soruda-15-temmuz-yargisi/"
+        }
+      },
+      "publisher_id" : "zoe",
+      "publisher_name" : "Zoe",
+      "publisher_url" : "https://www.zoekitap.com/",
+      "source_url" : "https://zoekitap.com/kitap/101-soruda-15-temmuz-yargisi/",
+      "title" : "101 Soruda 15 Temmuz Yargısı",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Stratis MİRİVİLİS",
+      "captured_at" : "2026-08-14T17:31:42Z",
+      "confidence" : "high",
+      "description" : "Birinci Dünya Savaşı’nın Makedonya cephesinde, siperler arasında geçen günler... Ölümün sıradanlaştığı, bombardımanların, açlığın, hastalıkların ve bekleyişin insan ruhunu adım adım aşındırdığı bir savaşın içinden yükselen çarpıcı bir tanıklık. Stratis Mirivilis, otobiyografik ögeler de barındıran romanı Mezarda Hayat’ta, savaşın kahramanlık destanını yazmaz, yıkıcılığını anlatır. Cephedeki askerlerin korkularını, dostluklarını, özlemlerini ve yaşama tutunma çabalarını içtenlikle kâğıda dökerken, savaşın hayatlarını geride bırakıp gelen sıradan insanları nasıl tükettiğini de tüm çıplaklığıyla gözler önüne serer. Hamasi söylemlerin yerine, ölümle iç içe geçmiş gündelik yaşamı; milliyetçi coşkunun yerine, insanlığın ortak acısını koyar. Ama şunu da göstermekten geri durmaz: Ölümün kıyısında bile yaşam, bellek, dostluk ve umut varlığını sürdürmektedir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve ürün sayfası içeriği",
+          "source_url" : "https://www.yordamkitap.com/mezarda-hayat"
+        },
+        "description" : {
+          "evidence_text" : "Ürün sayfasındaki tanıtım metni",
+          "source_url" : "https://www.yordamkitap.com/mezarda-hayat"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün sayfası içeriği",
+          "source_url" : "https://www.yordamkitap.com/mezarda-hayat"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi sayfada yok",
+          "source_url" : "https://www.yordamkitap.com/mezarda-hayat"
+        }
+      },
+      "publisher_id" : "yordam",
+      "publisher_name" : "Yordam",
+      "publisher_url" : "https://www.yordamkitap.com/",
+      "source_url" : "https://www.yordamkitap.com/mezarda-hayat",
+      "title" : "MEZARDA HAYAT",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Bilgehan Tuğrul",
+      "captured_at" : "2026-08-14T17:31:08Z",
+      "confidence" : "high",
+      "description" : "2025 Yaşar Nabi Nayır Şiir Ödülüne değer görülen Bilgehan Tuğrul'un şiir kitabı. Yazarın şiirleri çeşitli dergi ve platformlarda yayımlanmıştır. Marmara Üniversitesi Güzel Sanatlar Fakültesi Film Tasarımı ve Yönetimi bölümünde okumaktadır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa metni: 'Bilgehan Tuğrul 2003'te İstanbul'da doğdu...'",
+          "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa açıklaması: '2025 Yaşar Nabi Nayır Şiir Ödülüne değer görülen Bilgehan Tuğrul, 2003'te İstanbul'da doğdu...'",
+          "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: 'Aşk Şiirlerinin Unutulmaz Yönetmeni - Kitaplar - Varlık Yayınları, Varlık Dergisi, Varlık Yayınevi'",
+          "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni"
+        }
+      },
+      "publisher_id" : "varlik",
+      "publisher_name" : "Varlık",
+      "publisher_url" : "https://www.varlik.com.tr/",
+      "source_url" : "https://www.varlik.com.tr/kitap/693/ask-siirlerinin-unutulmaz-yonetmeni",
+      "title" : "Aşk Şiirlerinin Unutulmaz Yönetmeni",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "M. Fatih Köksal",
+      "captured_at" : "2026-08-14T17:30:34Z",
+      "confidence" : "high",
+      "description" : "Ahilik, Anadolu'nun ruhunu şekillendiren; emeği ahlakla, ticareti adaletle, üretimi insan terbiyesiyle buluşturan büyük bir medeniyet tasavvurudur. M. Fatih Köksal, bu eserinde Ahiliği tarihî kaynaklar ışığında yeniden ele alıyor. Kitap, Ahiliğin öncü şahsiyeti Ahi Evran'ın hayatı ve Türk kültür tarihindeki yerini araştırırken, ahlak anlayışı, eğitim sistemi ve teşkilat yapısını kapsamlı bir şekilde değerlendiriyor. Ahilik, çağları aşan bir ahlak ve hayat anlayışı olarak ele alınıyor ve Türk kültürünü anlamak isteyenler için önemli bir başvuru kaynağıdır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: M. Fatih Köksal",
+          "source_url" : "https://www.vbky.com.tr/kitap/ahilik-esyaya-teslim-olmayan-ahlak"
+        },
+        "description" : {
+          "evidence_text" : "Arka Kapak Yazısı: Ahilik denildiğinde çoğu zaman akla yalnızca esnaf teşkilatı gelir. Oysa Ahilik, Anadolu’nun ruhunu şekillendiren; emeği ahlakla, ticareti adaletle, üretimi insan terbiyesiyle buluşturan büyük bir medeniyet tasavvurudur. M. Fatih Köksal, bu eserinde Ahiliği efsanelerin ve tekrar edilen kabullerin ötesine taşıyarak tarihî kaynaklar ışığında yeniden ele alıyor. Kitabın ilk bölümünde Ahiliğin öncü şahsiyeti Ahi Evran’ın hayatı, kişiliği ve Türk kültür tarihindeki yeri titiz bir araştırmayla incelenirken; ikinci bölümde Ahiliğin fikrî temelleri, ahlak anlayışı, eğitim sistemi, teşkilat yapısı ve Anadolu toplumunu şekillendiren yönleri kapsamlı bir bakışla değerlendiriliyor. Ahilik, bu kitapta yalnızca geçmişte kalmış bir teşkilat olarak değil; İslami ve tasavvufi kaynaklardan beslenen, dürüstlüğü, adaleti, liyakati, paylaşmayı ve insanı merkeze alan değerleriyle çağları aşan bir ahlak ve hayat anlayışı olarak ele alınıyor. Tarihî bir mirasın ötesinde, bugünün dünyasına da ışık tutan elinizdeki bu kitap; Türk kültürünü, medeniyetini ve insan tasavvurunu anlamak isteyen okurlar için önemli bir başvuru kaynağı niteliği taşıyor.",
+          "source_url" : "https://www.vbky.com.tr/kitap/ahilik-esyaya-teslim-olmayan-ahlak"
+        },
+        "title" : {
+          "evidence_text" : "Ahilik denildiğinde çoğu zaman akla yalnızca esnaf teşkilatı gelir. Oysa Ahilik, Anadolu’nun ruhunu şekillendiren; emeği ahlakla, ticareti adaletle, üretimi insan terbiyesiyle buluşturan büyük bir medeniyet tasavvurudur. M. Fatih Köksal, bu eserinde Ahiliği efsanelerin ve tekrar edilen kabullerin ötesine taşıyarak tarihî kaynaklar ışığında yeniden ele alıyor. Kitabın ilk bölümünde Ahiliğin öncü şahsiyeti Ahi Evran’ın hayatı, kişiliği ve Türk kültür tarihindeki yeri titiz bir araştırmayla incelenirken; ikinci bölümde Ahiliğin fikrî temelleri, ahlak anlayışı, eğitim sistemi, teşkilat yapısı ve Anadolu toplumunu şekillendiren yönleri kapsamlı bir bakışla değerlendiriliyor. Ahilik, bu kitapta yalnızca geçmişte kalmış bir teşkilat olarak değil; İslami ve tasavvufi kaynaklardan beslenen, dürüstlüğü, adaleti, liyakati, paylaşmayı ve insanı merkeze alan değerleriyle çağları aşan bir ahlak ve hayat anlayışı olarak ele alınıyor. Tarihî bir mirasın ötesinde, bugünün dünyasına da ışık tutan elinizdeki bu kitap; Türk kültürünü, medeniyetini ve insan tasavvurunu anlamak isteyen okurlar için önemli bir başvuru kaynağı niteliği taşıyor.",
+          "source_url" : "https://www.vbky.com.tr/kitap/ahilik-esyaya-teslim-olmayan-ahlak"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://www.vbky.com.tr/kitap/ahilik-esyaya-teslim-olmayan-ahlak"
+        }
+      },
+      "publisher_id" : "vakifbank-kultur-yayinlari",
+      "publisher_name" : "VakıfBank Kültür Yayınları",
+      "publisher_url" : "https://www.vbky.com.tr/",
+      "source_url" : "https://www.vbky.com.tr/kitap/ahilik-esyaya-teslim-olmayan-ahlak",
+      "title" : "Ahilik: Eşyaya Teslim Olmayan Ahlak",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Hiroko Oyamada",
+      "captured_at" : "2026-08-14T17:29:21Z",
+      "confidence" : "high",
+      "description" : "Günümüz Japon edebiyatının öne çıkan kalemlerinden Hiroko Oyamada, dünya çapında dikkat çekmesini sağlayan kısa romanı Fabrika’da çalışma yaşamının boğuculuğunu ele alıyor ve kanıksanmış bazı kuralların, ilişkilerin, statülerin gerçekte ne kadar anlamsız, hatta absürd olduğunu üç ana karakterin izinde gözler önüne seriyor. İşyeri, doğası gereği çalışanları kendi tekinsiz, kasvetli yaşam alanına hapsederken hayatlara el koyup kendi döngüsüne katıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Künye bölümünde Yazar: Hiroko Oyamada",
+          "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika"
+        },
+        "description" : {
+          "evidence_text" : "Açıklama bölümünden alınmıştır",
+          "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve künye bölümündeki kitap adı",
+          "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika"
+        },
+        "translator" : {
+          "evidence_text" : "Çeviren Hüseyin Can Erkin",
+          "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika"
+        }
+      },
+      "publisher_id" : "siren",
+      "publisher_name" : "Siren",
+      "publisher_url" : "https://www.sirenyayinlari.com/",
+      "source_url" : "https://www.sirenyayinlari.com/kitaplar/fabrika",
+      "title" : "Fabrika",
+      "translator" : "Hüseyin Can Erkin",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Ahmet Birsen",
+      "captured_at" : "2026-08-14T17:28:55Z",
+      "confidence" : "high",
+      "description" : "Şehrin Köpeklerine Müjdeler, iyiliğe, dostluğa ve sevgiye dair içtenlikle yazılmış eşsiz bir roman.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Ahmet Birsen Genel Yayın Yönetmeni: Bilge Sancı Editör: Bilge Sancı Yayına Hazır",
+          "source_url" : "https://www.selyayincilik.com/kitap/sehrin-kopeklerine-mujdeler-2040"
+        },
+        "description" : {
+          "evidence_text" : "Şehrin Köpeklerine Müjdeler, iyiliğe, dostluğa ve sevgiye dair içtenlikle yazılmış eşsiz bir roman.",
+          "source_url" : "https://www.selyayincilik.com/kitap/sehrin-kopeklerine-mujdeler-2040"
+        },
+        "title" : {
+          "evidence_text" : "Şehrin Köpeklerine Müjdeler, iyiliğe, dostluğa ve sevgiye dair içtenlikle yazılmış eşsiz bir roman.",
+          "source_url" : "https://www.selyayincilik.com/kitap/sehrin-kopeklerine-mujdeler-2040"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://www.selyayincilik.com/kitap/sehrin-kopeklerine-mujdeler-2040"
+        }
+      },
+      "publisher_id" : "sel",
+      "publisher_name" : "Sel",
+      "publisher_url" : "https://www.selyayincilik.com/",
+      "source_url" : "https://www.selyayincilik.com/kitap/sehrin-kopeklerine-mujdeler-2040",
+      "title" : "Şehrin Köpeklerine Müjdeler",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "",
+      "captured_at" : "2026-08-14T17:27:28Z",
+      "confidence" : "medium",
+      "description" : "Deleuze ve Guattari, arzunun felsefenin uzun tarihi boyunca, özellikle psikanalizle birlikte bir eksiklik olarak kavranışında ona yönelen hınç, zorbalık ve bürokrasiye karşı dururlar. Arzuyu yaşamın kendini olumlama kuvveti olarak yeniden değerlendirirler. Arzu, direniş ve özgürleşme için stratejik bir kaynaktır ve etik ile politika da arzunun bu yaratıcı toplumsal üretiminden doğar.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfada yazar bilgisi bulunmamaktadır",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/48447733"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması metni",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/48447733"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün açıklaması",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/48447733"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/48447733"
+        }
+      },
+      "publisher_id" : "otonom",
+      "publisher_name" : "Otonom",
+      "publisher_url" : "https://www.otonomyayincilik.com/",
+      "source_url" : "https://www.shopier.com/OtonomYayincilik/48447733",
+      "title" : "Arzu Politikası: Deleuze ve Guattari Etkisi",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Suphi Varım",
+      "captured_at" : "2026-08-14T17:27:08Z",
+      "confidence" : "high",
+      "description" : "Savaşın ardından dünyanın dengeleri yeniden kurulurken, görünmeyen cephelerde ölümcül bir mücadele sürmektedir. Gizli örgütler, çift taraflı çalışan ajanlar, acımasız sorgular, çalınan belgeler ve ihanetler... İngiliz ve Amerikalı istihbaratçılar, Kızıl Ordu ve Türk istihbaratı aynı hedefin peşindedir. Ancak av mı, avcı mı olduklarını kimse kesin olarak bilemez. Suphi Varım, soluk soluğa ilerleyen kurgusu, tarihsel arka planı ve sürprizlerle dolu olay örgüsüyle okuru Soğuk Savaş’ın gölgesinde nefes kesen bir maceraya davet ediyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Boğazda Son Oyun Suphi Varım Suphi Varım Tüm Kitapları Boğazda Son Oyun ...",
+          "source_url" : "https://www.oglak.com/kitap/3694/Maceraperest-Kitaplar/Bogazda-Son-Oyun/"
+        },
+        "description" : {
+          "evidence_text" : "Savaşın ardından dünyanın dengeleri yeniden kurulurken, görünmeyen cephelerde ölümcül bir mücadele sürmektedir. Gizli örgütler, çift taraflı çalışan ajanlar, acımasız sorgular, çalınan belgeler ve ihanetler... İngiliz ve Amerikalı istihbaratçılar, Kızıl Ordu ve Türk istihbaratı aynı hedefin peşindedir. Ancak av mı, avcı mı olduklarını kimse kesin olarak bilemez. Suphi Varım, soluk soluğa ilerleyen kurgusu, tarihsel arka planı ve sürprizlerle dolu olay örgüsüyle okuru Soğuk Savaş’ın gölgesinde nefes kesen bir maceraya davet ediyor.",
+          "source_url" : "https://www.oglak.com/kitap/3694/Maceraperest-Kitaplar/Bogazda-Son-Oyun/"
+        },
+        "title" : {
+          "evidence_text" : "Boğazda Son Oyun Giriş Üye Ol Sepetim Kitapçı Başvuru Ana Sayfa Kitaplar Maceraperest Kitaplar Diğerleri Boğazda Son Oyun Suphi Varım Suphi Varım Tüm Kitapları Boğazda Son Oyun ... Kadın cevap vermeyince namluyu daha da bastırdı ve soruyu yineledi, yine cevap alamadı. Kadın, debelenip kurtulmak istiyordu. Daha fazla vakit kaybedemezdi Matt. Tetiği çekti. Kadın, bir süre çırpındıktan sonra hareketsiz kaldı. Ajan, kadını yüzüstü çevirdi, mantosunun düğmelerini açtı, ceplerini kurcalamaya koyuldu. İçcebinde bir pasaport bulunca aldı ve Oldsmobil’e koştu. Motoru çalıştırıp lambayı yaktı ve Bulgaristan Halk Cumhuriyeti’nin mührünü taşıyan pasaporta baktı. Kadının ismi ... Pasaportu cebine soktu ve gaza bastı. Savaşın ardından dünyanın dengeleri yeniden kurulurken, görünmeyen cephelerde ölümcül bir mücadele sürmektedir. Gizli örgütler, çift taraflı çalışan ajanlar, acımasız sorgular, çalınan belgeler ve ihanetler... İngiliz ve Amerikalı istihbaratçılar, Kızıl Ordu ve Türk istihbaratı aynı hedefin peşindedir. Ancak av mı, avcı mı olduklarını kimse kesin olarak bilemez. Suphi Varım, soluk soluğa ilerleyen kurgusu, tarihsel arka planı ve sürprizlerle dolu olay örgüsüyle okuru Soğuk Savaş’ın gölgesinde nefes kesen bir maceraya davet ediyor. Oğlak Yayınları, polisiye edebiyatın usta yazarı Suphi Varım’ın, elinizden bırakamayacağınız yeni casus macerası, Boğaz’da Son Oyun ’u Maceraperest Kitaplar arasında yayımlamaktan gurur duyar.",
+          "source_url" : "https://www.oglak.com/kitap/3694/Maceraperest-Kitaplar/Bogazda-Son-Oyun/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://www.oglak.com/kitap/3694/Maceraperest-Kitaplar/Bogazda-Son-Oyun/"
+        }
+      },
+      "publisher_id" : "oglak",
+      "publisher_name" : "Oğlak",
+      "publisher_url" : "https://www.oglak.com/",
+      "source_url" : "https://www.oglak.com/kitap/3694/Maceraperest-Kitaplar/Bogazda-Son-Oyun/",
+      "title" : "Boğazda Son Oyun",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Eser Kuru",
+      "captured_at" : "2026-08-14T17:26:41Z",
+      "confidence" : "high",
+      "description" : "“Bir yeri eksik olan, dünyayı oradan sızan ışıkla görür.” Uzaktan Baktım Halimize ilişkilerdeki incelikli çatlakların, sessizce bastırılan arzuların, insan ilişkilerinde hemen görülmeyen ayrıntıların izini süren bir öykü kitabı. Engelli bir kadının arzu ve görünürlük arasındaki mücadelesinden intiharı bir hizmet olarak sunan distopik bir danışmanlığa uzanan öyküler… Terk edilmiş balkonlarda, sahil kasabalarında ve yüksek apartman dairelerinde varlıkla yokluk arasında salınan karakterler… Eser Kuru’nun Olasılıklar Kıyısı’ndan sonraki ikinci kitabı, bastırılmış olanın, eksik kalanın, görmezden gelinenin panoramasını sunuyor. İncelikli olduğu kadar sert, kırılgan olduğu kadar dirençli bir dille.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve yazar adı: Eser Kuru",
+          "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize/"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa açıklaması",
+          "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve açıklama: “Bir yeri eksik olan, dünyayı oradan sızan ışıkla görür.” Uzaktan Baktım Halimize ilişkilerdeki incelikli çatlakların, sessizce bastırılan arzuların, insan ilişkilerinde hemen görülmeyen ayrıntıların izini süren bir öykü kitabı.",
+          "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize/"
+        }
+      },
+      "publisher_id" : "notos",
+      "publisher_name" : "Notos",
+      "publisher_url" : "https://www.notoskitap.com/",
+      "source_url" : "https://notoskitap.com/kitap/eser-kuru-uzaktan-baktim-halimize/",
+      "title" : "Uzaktan Baktım Halimize",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Renata Salecl",
+      "captured_at" : "2026-08-14T17:25:25Z",
+      "confidence" : "high",
+      "description" : "Toplumsal sarsıntılar karşısında bile kabuğundan sıyrılamayan, başkalarıyla kader ortağı olduğunu unutmuş insan, hissizliğe gömüldüğü kış uykusundan uyanıp başkalarıyla empati kurarak demokrasiyi baştan filizlendirebilir mi? Neoliberalizm kıskacında, iyisiyle kötüsüyle yaşadığı her şeyin tek sorumlusu ilan edilen birey, mükemmeliyetçilik beklentisi ile yetersizlik hisleri arasında sıkışmış durumda. “Her koyun kendi bacağından asılır” şiarıyla girdiği yarışta bir yandan kendini pazarlarken diğer yandan başkalarının celladına dönüşüyor. Ne var ki içini kemiren o “yeri doldurulabilir olma” hissinden kurtulamıyor. Renata Salecl acımasızlığı huy edinmiş, kabalığın meziyet sayıldığı günümüz dünyasını masaya yatırıyor; önündeki dev aynasından ötesini göremez, “ben” demeden iki kelam edemez hale gelmiş, ölçüsüz hırsları, sabırsızlığı, kibri gurur nişanesi gibi taşıyan insanın düştüğü açmazları gözler önüne seriyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Kabalık Çağı, Renata Salecl, Metis Yayınları",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37550"
+        },
+        "description" : {
+          "evidence_text" : "Renata Salecl acımasızlığı huy edinmiş, kabalığın meziyet sayıldığı günümüz dünyasını masaya yatırıyor; önündeki dev aynasından ötesini göremez, “ben” demeden iki kelam edemez hale gelmiş, ölçüsüz hırsları, sabırsızlığı, kibri gurur nişanesi gibi taşıyan insanın düştüğü açmazları gözler önüne seriyor.",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37550"
+        },
+        "title" : {
+          "evidence_text" : "Kabalık Çağı, Renata Salecl, Metis Yayınları ... Renata Salecl acımasızlığı huy edinmiş, kabalığın meziyet sayıldığı günümüz dünyasını masaya yatırıyor...",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37550"
+        },
+        "translator" : {
+          "evidence_text" : "Çeviri: Bülent Kale",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37550"
+        }
+      },
+      "publisher_id" : "metis",
+      "publisher_name" : "Metis",
+      "publisher_url" : "https://www.metiskitap.com/",
+      "source_url" : "https://www.metiskitap.com/catalog/book/37550",
+      "title" : "Kabalık Çağı",
+      "translator" : "Bülent Kale",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Garth Greenwell",
+      "captured_at" : "2026-08-14T17:25:15Z",
+      "confidence" : "high",
+      "description" : "Yenilenme, Sofya'da İngilizce öğretmenliği yapan Amerikalı G. ile aşkın, cinselliğin ve arzunun yoğunluklarına dair sarsıcı bir yolculuğu anlatıyor. Kitap, aşkın ve cinselliğin, şefkat ile şiddetin uçları arasında bedenin hem teselli hem yıkım sahnesi olduğunu gösterirken, çağdaş edebiyatın kalıcı sorularını yeni bir derinlikte yeniden düşünmeye çağırıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa metni: Yazar Adı: Garth Greenwell",
+          "source_url" : "https://www.liverayayinevi.com/tr/urun/yenilenme"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa metni: Yenilenme Garth GREENWELL ... aşkın, cinselliğin ve arzunun yoğunluklarına dair sarsıcı bir yolculuğa çıkıyoruz... Greenwell mahrem ve politik olanın kesişiminde arzuya dair ahlaki bir sorgulama yaparken, okuru cinsel yönelim, aidiyet, kimlik gibi çağdaş edebiyatın kalıcı sorularını yeni bir derinlikte yeniden düşünmeye çağırır.",
+          "source_url" : "https://www.liverayayinevi.com/tr/urun/yenilenme"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: Yenilenme",
+          "source_url" : "https://www.liverayayinevi.com/tr/urun/yenilenme"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfa metni: Çeviren: Sarp Kaya",
+          "source_url" : "https://www.liverayayinevi.com/tr/urun/yenilenme"
+        }
+      },
+      "publisher_id" : "livera",
+      "publisher_name" : "Livera",
+      "publisher_url" : "https://www.liverayayinevi.com/",
+      "source_url" : "https://www.liverayayinevi.com/tr/urun/yenilenme",
+      "title" : "Yenilenme",
+      "translator" : "Sarp Kaya",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Arno Gruen",
+      "captured_at" : "2026-08-14T17:24:18Z",
+      "confidence" : "high",
+      "description" : "Özerklik kavramını bireysel güç ve üstünlüğün bir göstergesi olarak görmek, modern başarı odaklı toplumun ürettiği ve ağır sonuçlar doğuran bir yanılgıdır. Çünkü gerçek özerklik, psikanalist Arno Gruen’in bu kitapta açıkça gösterdiği gibi, kişinin kendi duygu ve ihtiyaçlarıyla tam bir uyum içinde olmasıdır. Başarı ve verimlilik odaklı zihniyet, pek çok insanın kendisiyle bağ kurmasını engeller. Eğitim ve toplumsal baskıların dayattığı boyun eğme canlılığı, yaratıcılığı ve sevme yetisini köreltir. Bu kayıp insanları hem bağımlı hem de itaatkâr kılan bir kişilik yapısına sürükler ve bu da kendine ihanetle sonuçlanır. Kitap, daha insancıl bir dünyanın mümkün olduğuna inananları güçlendirmek umuduyla yazılmıştır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "YAZAR: ARNO GRUEN Psikolog ve psikanalist Dr. Arno Gruen, 26 Mayıs 1923’te Berlin, Almanya’da doğmuştur.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/kendine-ihanet-arno-gruen"
+        },
+        "description" : {
+          "evidence_text" : "description alanı: Kendine İhanetErkek ve Kadında Özerklik KorkusuArno Gruen Özerklik kavramını bireysel güç ve üstünlüğün bir göstergesi olarak görmek, modern başarı odaklı toplumun ürettiği ve ağır sonuçlar doğuran bir yanılgıdır...",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/kendine-ihanet-arno-gruen"
+        },
+        "title" : {
+          "evidence_text" : "Kendine İhanetErkek ve Kadında Özerklik KorkusuArno Gruen Özerklik kavramını bireysel güç ve üstünlüğün bir göstergesi olarak görmek, modern başarı odaklı toplumun ürettiği ve ağır sonuçlar doğuran bir yanılgıdır. Çünkü gerçek özerklik, psikanalist Arno Gruen’in bu kitapta açıkça gösterdiği gibi, kişinin kendi duygu ve ihtiyaçlarıyla tam bir uyum içinde olmasıdır.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/kendine-ihanet-arno-gruen"
+        },
+        "translator" : {
+          "evidence_text" : "detected_labels içinde Çevirmen: Reva Akkuş",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/kendine-ihanet-arno-gruen"
+        }
+      },
+      "publisher_id" : "kolektif",
+      "publisher_name" : "Kolektif",
+      "publisher_url" : "https://www.kolektifkitap.com/",
+      "source_url" : "https://www.kolektifkitap.com/kitaplar/kendine-ihanet-arno-gruen",
+      "title" : "Kendine İhanet",
+      "translator" : "Reva Akkuş",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Oğuz Benlioğlu",
+      "captured_at" : "2026-08-14T17:23:56Z",
+      "confidence" : "high",
+      "description" : "Türkiye’de mikro ifadeler alanının öncü kitabı, ilk yayımlanışının onuncu yılında gözden geçirilmiş ve genişletilmiş, tamamı renkli yeni baskısıyla okurla buluşuyor. Oğuz Benlioğlu bu baskıda güncel bilimsel araştırmaların yanına yeni bölümler ekledi: Sesin ve kelimelerin ele verdikleri, flörtün sözsüz şifreleri… Ve tabii ki çağımızın sorusu: Makine yüzünüzü okuyabilir mi? Yedi temel duygunun yüzdeki izlerinden yalan sinyalleri okunabilir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa metni ve yazar linki: OĞUZ BENLİOĞLU",
+          "source_url" : "https://kronikkitap.com/kitap/mikro-ifadeler/"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa görünür metni: Türkiye’de mikro ifadeler alanının öncü kitabı, ilk yayımlanışının onuncu yılında gözden geçirilmiş ve genişletilmiş, tamamı renkli yeni baskısıyla okurla buluşuyor...",
+          "source_url" : "https://kronikkitap.com/kitap/mikro-ifadeler/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: Mikro İfadeler",
+          "source_url" : "https://kronikkitap.com/kitap/mikro-ifadeler/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://kronikkitap.com/kitap/mikro-ifadeler/"
+        }
+      },
+      "publisher_id" : "kronik",
+      "publisher_name" : "Kronik",
+      "publisher_url" : "https://www.kronikkitap.com/",
+      "source_url" : "https://kronikkitap.com/kitap/mikro-ifadeler/",
+      "title" : "Mikro İfadeler",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Metin Alper",
+      "captured_at" : "2026-08-14T17:23:38Z",
+      "confidence" : "medium",
+      "description" : null,
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa görünür metin ve detected_labels'da Yazar: Metin Alper",
+          "source_url" : "https://www.kirmizikedi.com/andimiz-p-7368"
+        },
+        "description" : {
+          "evidence_text" : "Sayfada açıklama metni bulunmamaktadır",
+          "source_url" : "https://www.kirmizikedi.com/andimiz-p-7368"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld name alanı",
+          "source_url" : "https://www.kirmizikedi.com/andimiz-p-7368"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.kirmizikedi.com/andimiz-p-7368"
+        }
+      },
+      "publisher_id" : "kirmizi-kedi",
+      "publisher_name" : "Kırmızı Kedi",
+      "publisher_url" : "https://www.kirmizikedi.com/",
+      "source_url" : "https://www.kirmizikedi.com/andimiz-p-7368",
+      "title" : "Andımız",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Marjane Satrapi",
+      "captured_at" : "2026-08-14T17:23:07Z",
+      "confidence" : "high",
+      "description" : "KADIN, YAŞAM, ÖZGÜRLÜK İRAN İRAN’DA YİRMİ YAŞINDA OLMAK VE KADIN HAKLARI İÇİN ÖLMEK 16 Eylül 2022’de İran’da Mahsa Amini, başörtüsünü “uygun şekilde” TAKMADIĞI gerekçesiyle ahlak polisi tarafından DÖVÜLEREK hayatını kaybetti. Onun ölümü, ülkenin dört bir yanında protesto dalgalarını tetikledi ve bu dalga kısa sürede, eşi benzeri görülmemiş feminist bir harekete dönüştü. Marjane Satrapi, siyaset bilimci Farid Vahid, usta gazeteci Jean-Pierre Perrin ve tarihçi Abbas Milani ile birlikte, çizgi roman dünyasının en büyük on yedi ismini bir araya getirerek, İran için —ve hepimiz için— büyük önem taşıyan bu tarihi olayı anlatıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Marjane Satrapi",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/kadin-yasam-ozgurluk/"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa açıklaması",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/kadin-yasam-ozgurluk/"
+        },
+        "title" : {
+          "evidence_text" : "Kadın, Yaşam, Özgürlük - Karakarga Yayınları",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/kadin-yasam-ozgurluk/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/kadin-yasam-ozgurluk/"
+        }
+      },
+      "publisher_id" : "karakarga",
+      "publisher_name" : "Karakarga",
+      "publisher_url" : "https://www.karakarga.com/",
+      "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/kadin-yasam-ozgurluk/",
+      "title" : "Kadın, Yaşam, Özgürlük",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Yan Lianke",
+      "captured_at" : "2026-08-14T17:22:42Z",
+      "confidence" : "high",
+      "description" : "Ding Köyü Rüyası, Yan Lianke’nin romanları arasında özel bir yere sahiptir. Yazar gerçek bir olaydan yola çıkar: Çin’in Doğu Henan kırsalında devlet yetkililerinin teşvikiyle bir kan satma seferberliği başlar. Yoksul ova köylerinde binlerce insan sağlıksız ve denetimsiz koşullarda kanını satarak hızla zenginleşir. Ne var ki bu durum uzun sürmez; bölgede bilinmeyen bir “ateşli hastalık” salgını patlak verir ve birçok köy âdeta haritadan silinir. Romanın anlatıcısı Xiao Qiang, on iki yaşında zehirlenerek öldürülmüş bir çocuktur. Babası bölgede başlatılan kan seferberliğini fırsata çeviren ve yaşanan felaketlerde azımsanmayacak payı olan bir “kan taciri”, dedesi ise tüm köylülerin sevip saygı duyduğu biridir. Xiao Qiang bir yandan ailesinin bir yandan da bütün bir köyün ürpertici öyküsünü sakin bir üslup içinde aktarırken, dedesi de olanları ve olacakları rüyalarında görmektedir. Yan Lianke tam üç yıl boyunca antropolog yardımcısı kılığında bölgede çalışmış ve bu süreçte öğrendiği korkunç detayları edebî yeteneğiyle birleştirerek akıllardan çıkmayacak bir roman yazmıştır. Ding Köyü Rüyası, Başak Sürücü Can’ın Çince aslından çevirisiyle…",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar Yan Lianke",
+          "source_url" : "https://jaguarkitap.com/kitaplar/din-koyu-ruyasi/"
+        },
+        "description" : {
+          "evidence_text" : "Ding Köyü Rüyası, Yan Lianke’nin romanları arasında özel bir yere sahiptir. Yazar gerçek bir olaydan yola çıkar: Çin’in Doğu Henan kırsalında devlet yetkililerinin teşvikiyle bir kan satma seferberliği başlar...",
+          "source_url" : "https://jaguarkitap.com/kitaplar/din-koyu-ruyasi/"
+        },
+        "title" : {
+          "evidence_text" : "Kitap Adı Ding Köyü Rüyası",
+          "source_url" : "https://jaguarkitap.com/kitaplar/din-koyu-ruyasi/"
+        },
+        "translator" : {
+          "evidence_text" : "Çeviren Başak Sürücü",
+          "source_url" : "https://jaguarkitap.com/kitaplar/din-koyu-ruyasi/"
+        }
+      },
+      "publisher_id" : "jaguar",
+      "publisher_name" : "Jaguar",
+      "publisher_url" : "https://www.jaguarkitap.com/",
+      "source_url" : "https://jaguarkitap.com/kitaplar/din-koyu-ruyasi/",
+      "title" : "Ding Köyü Rüyası",
+      "translator" : "Başak Sürücü",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "",
+      "captured_at" : "2026-08-14T17:21:52Z",
+      "confidence" : "medium",
+      "description" : "100 Temel Eser, İlköğretim Okullarında okutulacak 100 temel eseri içermektedir ve Türkiye Cumhuriyeti Millî Eğitim Bakanlığı tarafından ilköğretim kurumlarındaki öğrencilere sunulmaktadır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfada yazar bilgisi bulunmamaktadır.",
+          "source_url" : "https://www.iskultur.com.tr/kitap/100-temel-eser"
+        },
+        "description" : {
+          "evidence_text" : "100 Temel Eser,İlköğretim Okullarında Okutulacak 100 Temel Eser, Türkiye Cumhuriyeti Millî Eğitim Bakanlığının ilköğretim kurumlarındaki öğrencilere.",
+          "source_url" : "https://www.iskultur.com.tr/kitap/100-temel-eser"
+        },
+        "title" : {
+          "evidence_text" : "100 Temel Eser,İlköğretim Okullarında Okutulacak 100 Temel Eser, Türkiye Cumhuriyeti Millî Eğitim Bakanlığının ilköğretim kurumlarındaki öğrencilere.",
+          "source_url" : "https://www.iskultur.com.tr/kitap/100-temel-eser"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi bulunmamaktadır.",
+          "source_url" : "https://www.iskultur.com.tr/kitap/100-temel-eser"
+        }
+      },
+      "publisher_id" : "is-bankasi",
+      "publisher_name" : "İş Bankası",
+      "publisher_url" : "https://www.iskultur.com.tr/",
+      "source_url" : "https://www.iskultur.com.tr/kitap/100-temel-eser",
+      "title" : "100 Temel Eser",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Gülhan Davarcı",
+      "captured_at" : "2026-08-14T17:21:12Z",
+      "confidence" : "high",
+      "description" : "Gülhan Davarcı, Kıyısında'da ufak bir çocuğu aradıkları gibi, kendilerini, varoluş sebeplerini, geçmişlerini ve bugünlerini, keskin çizgilerle kurdukları dünyalarındaki amaçlarını da arayan insanların hikâyesini anlatırken, duyguların zamanla, zamanın hayatla yarıştığı unutulmaz üç gün resmediyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld'den yazar adı",
+          "source_url" : "https://iletisim.com.tr/kitap/kiyisinda/10982"
+        },
+        "description" : {
+          "evidence_text" : "RSS yeni çıkanlar metninden alınmıştır",
+          "source_url" : "https://iletisim.com.tr/rss/yeni-cikanlar"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld'den kitap adı",
+          "source_url" : "https://iletisim.com.tr/kitap/kiyisinda/10982"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://iletisim.com.tr/kitap/kiyisinda/10982"
+        }
+      },
+      "publisher_id" : "iletisim",
+      "publisher_name" : "İletişim",
+      "publisher_url" : "https://www.iletisim.com.tr/",
+      "source_url" : "https://iletisim.com.tr/kitap/kiyisinda/10982",
+      "title" : "Kıyısında",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Volkan Yaraşır Hazırlayan: Özcan Özen",
+      "captured_at" : "2026-08-14T17:20:51Z",
+      "confidence" : "high",
+      "description" : "“Komünizm hayaleti”nin Ekim Devrimi ile beden bulmasının ardından derin varoluş korkusuna kapılan kapitalistler için refah devleti, bir zorunluluk, uluslararası sınıfsal devrimden kaçınma umudu olmuştu. Ölümü görüp sıtmaya razı olan kapitalizm, bedenin ruhu terk etmesiyle “serbestiyet” sözcüğünü üzerine “yeni” etiketini yapıştırarak tarihsel vahşetine döndü. İşçi sınıfına karşı, “neoliberal politikalar” söylemiyle yumuşatılan öç alma harekâtı dünya çapında sündürülürken işçilerin uluslararası birliğinin/enternasyonalizmin unutturulması amacıyla “küreselleşme” kavramı allanıp pullandı. İşçi sınıfı, sadece yavaş yavaş budanıp örselenen tarihsel kazanımlarını değil örgütlenmelerini de kaybetti. Refah devleti sömürü devletine evrilirken düşünsel olarak teslim alınan sendikalar neoliberal politikalara uyum gösterdikçe çaptan düştü; iyice bürokratik, korporatist yapılara, meslek örgütü ya da çıkar grubu olarak hareket eden ortalıklara dönüştü. Sınıfın sahip olduğu her şeyin içi boşaltıldı -mücadele ve direniş yeteneği dışında… Ters Dalga “özünde, küresel düzeyde hayata geçirilen neoliberal karşı devrim sürecinde, sarsıcı örgütlenme ve deneyimlerle iz bırakmış; direniş ve karşı duruş hareketine dönüşmüş ve hâlihazırda bir kısmı iç evrim geçirerek devam eden işçi hareketlerini inceliyor. İkinci kuşak kapitalist ülkeler diye tanımlayabileceğimiz bir dizi ülkede, tarihsel birikimlerinin yanında farklı anlarda ve eksenlerde ortaya çıkan, yarattığı zengin deneyimlerle ve aşağıdan örgütlenme yöntemleriyle, sermayenin yanında bürokrat, korporatist, neokorporatist sendikal yapıların sınıf üzerindeki hegemonyasını kıran; sınıfın yeni bileşimine cevap üreterek sınıfın değişik katmanlarında derinliğine örgütlenen; sınıfın yeniden yapılanmasında üstün başarım gösteren bu işçi hareketleri ya da örgütlenmeleri ağırlıkta olağanüstü rejimlere karşı gelişti. Faşist ya da askeri diktatörlüklere karşı sınıfın kolektif duruşunu yaratarak, sınıfsal öfkeyi ve kini açığa çıkardı, hızla kitleselleşti ve ezilen yığınlar nezdinde olağanüstü meşruiyet kazandı. Bu anlamda, çalışma bir karşı tarih çalışması olarak okunabileceği gibi küresel işçi hareketinin yeniden yapılanma sürecinde ortaya çıkmış zengin deneyimler olarak da okunabilir.”",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar etiketi: Volkan Yaraşır Hazırlayan: Özcan Özen",
+          "source_url" : "https://www.h2okitap.com/kitap/ters-dalga/"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması metni",
+          "source_url" : "https://www.h2okitap.com/kitap/ters-dalga/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün açıklaması",
+          "source_url" : "https://www.h2okitap.com/kitap/ters-dalga/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.h2okitap.com/kitap/ters-dalga/"
+        }
+      },
+      "publisher_id" : "h2o",
+      "publisher_name" : "H2O",
+      "publisher_url" : "https://www.h2okitap.com/",
+      "source_url" : "https://www.h2okitap.com/kitap/ters-dalga/",
+      "title" : "Ters Dalga",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Alice Oswald",
+      "captured_at" : "2026-08-14T17:20:19Z",
+      "confidence" : "high",
+      "description" : "Bir sözlü mezarlık: Troya Savaşı’nda yitirilenler için dikilmiş bir abide. Alice Oswald’a 2013 Warwick Yazı Ödülü’nü kazandıran Abide: Bir İlyada Kazısı, yenilikçi yaklaşımı ve şaşırtıcı hayal gücüyle dikkat çeken bir İlyada “çeviri”si. Şimdiye kadarki çevirilerden farkı, destanın hikâyesini değil atmosferini çevirmesi: Matthew Arnold’dan bugüne hemen herkesin yaptığı gibi İlyada’nın “asalet”ini övmüyor, eski çağ eleştirmenleri gibi destanın “enargeia”sını övüyor, tanrılar yeryüzüne kılık değiştirerek değil de kendileri olarak geldiğinde tanık olunan göz alıcı, dayanılmaz gerçekliği. Yapıyı değil de tapılanı hatırlamak için mabedin çatısını söküp alırcasına, şiirin enargeia’sına tekrar kavuşabilmek için, anlatıyı bir kenara bırakıp askerlerin biyografilerine ve ölümlerine odaklanıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Author: Alice Oswald Category: Yeni Kitaplar",
+          "source_url" : "https://www.harfa.com.tr/kitap/abide/"
+        },
+        "description" : {
+          "evidence_text" : "Abide: Bir İlyada Kazısı’nda şair ozanın yerine geçip yas törenini yönetiyor, savaşta yitirdikleri yiğitlere ağıt yakan kadınlara yol gösteriyor.",
+          "source_url" : "https://www.harfa.com.tr/kitap/abide/"
+        },
+        "title" : {
+          "evidence_text" : "Abide - Harfa.com.tr 0 Items - ₺ 0.00 0 Sepette ürün yok. ₺ 80.00 Abide Alice Oswald’a 2013 Warwick Yazı Ödülü’nü kazandıran Abide: Bir İlyada Kazısı, yenilikçi yaklaşımı ve şaşırtıcı hayal gücüyle dikkat çeken bir İlyada “çeviri”si.",
+          "source_url" : "https://www.harfa.com.tr/kitap/abide/"
+        },
+        "translator" : {
+          "evidence_text" : "İngilizceden çeviren Nazım Dikbaş",
+          "source_url" : "https://www.harfa.com.tr/kitap/abide/"
+        }
+      },
+      "publisher_id" : "harfa",
+      "publisher_name" : "Harfa",
+      "publisher_url" : "https://harfa.com.tr/",
+      "source_url" : "https://www.harfa.com.tr/kitap/abide/",
+      "title" : "Abide",
+      "translator" : "Nazım Dikbaş",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Kübra Yeter",
+      "captured_at" : "2026-08-14T17:19:49Z",
+      "confidence" : "high",
+      "description" : "Güneş hiçbir yerde yoktu. Oysa saat tıkır tıkır işliyordu… Neredeydi Güneş? Neden doğmamıştı? Peki, soruların cevabı kimdeydi? Anni ve arkadaşları için bu, büyük bir maceranın başlangıcıydı… Dört kafadar, Güneş’i bulmak için çıktıkları bu cesur yolculukta bir yandan el ele vermenin gücünü bir yandan da sorumluluk almanın dönüştürücü etkisini keşfediyor. Kitap, doğayı sevmeyi, sorunlar karşısında birlikte çözüm üretmenin gücünü çocuklara umut dolu bir hikâyeyle anlatıyor. Güneşi geri getirmek mümkün mü? Haydi, düş bu hikâyenin peşine…",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Düş Peşime Güneşe Kübra Yeter, Zeynep Hakgüder Yılmaz Ginko Çocuk",
+          "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese"
+        },
+        "description" : {
+          "evidence_text" : "Kitap açıklaması sayfa metninden",
+          "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese"
+        },
+        "title" : {
+          "evidence_text" : "Düş Peşime Güneşe Kübra Yeter, Zeynep Hakgüder Yılmaz Ginko Çocuk ... Güneş hiçbir yerde yoktu. Oysa saat tıkır tıkır işliyordu… Neredeydi Güneş? Neden doğmamıştı? Peki, soruların cevabı kimdeydi? Anni ve arkadaşları için bu, büyük bir maceranın başlangıcıydı… Dört kafadar, Güneş’i bulmak için çıktıkları bu cesur yolculukta bir yandan el ele vermenin gücünü bir yandan da sorumluluk almanın dönüştürücü etkisini keşfediyor. Kitap, doğayı sevmeyi, sorunlar karşısında birlikte çözüm üretmenin gücünü çocuklara umut dolu bir hikâyeyle anlatıyor. Güneşi geri getirmek mümkün mü? Haydi, düş bu hikâyenin peşine…",
+          "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese"
+        }
+      },
+      "publisher_id" : "ginko",
+      "publisher_name" : "Ginko",
+      "publisher_url" : "https://www.ginkokitap.com/",
+      "source_url" : "https://www.ginkokitap.com/dus-pesime-gunese",
+      "title" : "Düş Peşime Güneşe",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Matei Vişniec",
+      "captured_at" : "2026-08-14T17:19:23Z",
+      "confidence" : "high",
+      "description" : "Vicdansızlar, yaşayın! Yaşayın!” diye bağırıyordu delirmiş olan ses. “Yaşayın salaklar, yaşayın! Çünkü hiç kimsenin sizi gömecek hali yok!” Matei Vişniec’in Kafka evrenine selam duran bu sarsıcı romanında, özgürlük bir kurtuluş değil, yeni bir bilinmezlik olarak belirir. Belirsiz bir suç nedeniyle yıllarca yeraltındaki labirentimsi bir hapishanede tutulan K., bir sabah ansızın serbest bırakıldığını öğrenir. Fakat neden tahliye edildiği ve dışarıdaki dünyanın kuralları ona açıklanmaz. Özgürlüğün ne anlama geldiğini unutmuş gibidir artık. Hapishane müdürüyle yapacağı, sürekli ertelenen görüşmeyi beklerken koloni çevresinde dolaşmaya başlayan K., kendisini gerçeklikle kâbus arasında salınan tuhaf bir dünyanın içinde bulur. Kafkaesk atmosferi, kara mizah, ironi ve politik hafızayla buluşan bu roman, özgürlüğün anlamını sorguluyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa metni: Matei Vişniec",
+          "source_url" : "https://www.folkitap.com/bay-k-tahliye-ediliyor"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa görünür metni ve ürün açıklaması",
+          "source_url" : "https://www.folkitap.com/bay-k-tahliye-ediliyor"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: Bay K. Tahliye Ediliyor",
+          "source_url" : "https://www.folkitap.com/bay-k-tahliye-ediliyor"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Sunia İliaz Acmambet",
+          "source_url" : "https://www.folkitap.com/bay-k-tahliye-ediliyor"
+        }
+      },
+      "publisher_id" : "fol",
+      "publisher_name" : "Fol",
+      "publisher_url" : "https://www.folkitap.com/",
+      "source_url" : "https://www.folkitap.com/bay-k-tahliye-ediliyor",
+      "title" : "Bay K. Tahliye Ediliyor",
+      "translator" : "Sunia İliaz Acmambet",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Carlos Fuentes",
+      "captured_at" : "2026-08-14T17:18:57Z",
+      "confidence" : "high",
+      "description" : "20. yüzyılın önde gelen yazarlarından Meksikalı Carlos Fuentes’in Terra Nostra isimli başyapıtı, II. Felipe ve inşa ettirdiği El Escorial Sarayı çevresinde şekillenir. Onun hükümdarlığında İspanya İmparatorluğu gücünün zirvesine çıkar; kaleler kentlere, prensler burjuvalara dönüşür. Ansızın, sırtlarında kan kırmızısı haç olan üç delikanlı belirir, aralarından biri “Yeni Dünya”dan gelmiştir ve Kral’a oraların gizlerini ve tılsımını fısıldar. Fuentes kıtalar ve zamanlararası yolculuklarında insan olmanın ne demek olduğunu sorgulamakla kalmıyor, “Eski Dünya”nın kanlı tarihine ve sömürgeciliğine, “Yeni Dünya”nın fırsatlarına ve büyüsüne, “Öbür Dünya”nınsa yeni umutlarına mercek tutuyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve ürün adı",
+          "source_url" : "https://everestyayinlari.com/terra-nostra-carlos-fuentes-kitabi-366782-9786253696405"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması paragrafı",
+          "source_url" : "https://everestyayinlari.com/terra-nostra-carlos-fuentes-kitabi-366782-9786253696405"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün adı",
+          "source_url" : "https://everestyayinlari.com/terra-nostra-carlos-fuentes-kitabi-366782-9786253696405"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://everestyayinlari.com/terra-nostra-carlos-fuentes-kitabi-366782-9786253696405"
+        }
+      },
+      "publisher_id" : "everest",
+      "publisher_name" : "Everest",
+      "publisher_url" : "https://everestyayinlari.com/",
+      "source_url" : "https://everestyayinlari.com/terra-nostra-carlos-fuentes-kitabi-366782-9786253696405",
+      "title" : "Terra Nostra",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Mümine Yıldız",
+      "captured_at" : "2026-08-14T17:18:01Z",
+      "confidence" : "high",
+      "description" : "Modern hayatın hızlı akışı içinde durup gökyüzüne bakmak, bir şarkı mırıldanmak, güzel şeylerin tadını çıkarmak gibi küçük ama değerli anların önemini vurgulayan kişisel gelişim kitabı.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar adı kitap künyesinde ve sayfa başlığında belirtilmiş.",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/7den-77ye-hayat-defteri"
+        },
+        "description" : {
+          "evidence_text" : "Kitap Hakkında bölümünden alınmıştır: “Modern hayat neredeyse ışık hızında akarken bizi durup gökyüzüne bakmaktan... önümüze serilen tüm güzelliklere şükretmekten alıkoyuyor...”",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/7den-77ye-hayat-defteri"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve kitap künyesi: 7’den 77’ye Hayat Defteri - Mümine Yıldız | Doğan Kitap",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/7den-77ye-hayat-defteri"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/7den-77ye-hayat-defteri"
+        }
+      },
+      "publisher_id" : "dogan-kitap",
+      "publisher_name" : "Doğan Kitap",
+      "publisher_url" : "https://www.dogankitap.com.tr/",
+      "source_url" : "https://www.dogankitap.com.tr/kitap/7den-77ye-hayat-defteri",
+      "title" : "7’den 77’ye Hayat Defteri",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Todd McGowan",
+      "captured_at" : "2026-08-14T17:15:29Z",
+      "confidence" : "high",
+      "description" : "Modern dünya bize sürekli aynı vaadi fısıldıyor: “Kendini bul”, “Gerçek özünle tanış”, “Potansiyelini keşfet”. Peki ya hayatımız boyunca peşinden koştuğumuz o “tamlık” ve “aidiyet” hissi aslında bizleri kapitalizmin en sadık dişlisi haline getiren bir yanılsamadan ibaretse? Çağdaş psikanalizin önde gelen yorumcularından Todd McGowan, Neden Kendimizi Bulmaya Çalışmamalıyız’da kişisel gelişim endüstrisinin ve ana akım siyasetin en kutsal mitine meydan okuyor. McGowan’a göre yabancılaşma, kurtulmamız gereken bir hastalık değil, sahici özgürlüğün yegâne kurucu zeminidir. Zira bizden çalındığını sandığımız o “kayıp bütünlük” aslında hiç var olmamıştır. Hegel’den Marx’a, Freud’dan Lacan’a uzanan bir düşünce hattı üzerinde yürüyen McGowan, Shakespeare’in tragedyalarından modern sinema örneklerine, hatta bir halk otobüsünde yaşanan sıradan karşılaşmalara kadar hayatın her alanında yabancılaşmanın izini sürüp radikal bir tezi savunuyor: Bizi biz yapan şey kendimizle örtüşmemiz değil, kendimize olan mesafemizdir. Bu kitap size kim olduğunuzu söylemeyecek. Aksine, kim olmadığınızı fark ettiğinizde başlayacak olan o tekinsiz ama sarsıcı özgürlüğün kapısını aralayacak.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa görünür metni ve json_ld description alanında yazar adı",
+          "source_url" : "https://www.axisyayinlari.com/product-page/neden-kendimizi-bulmaya-çalışmamalıyız"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa görünür metni ve json_ld description alanı",
+          "source_url" : "https://www.axisyayinlari.com/product-page/neden-kendimizi-bulmaya-çalışmamalıyız"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld name alanı",
+          "source_url" : "https://www.axisyayinlari.com/product-page/neden-kendimizi-bulmaya-çalışmamalıyız"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfa görünür metninde 'Çeviren: Erkal Ünal' ifadesi",
+          "source_url" : "https://www.axisyayinlari.com/product-page/neden-kendimizi-bulmaya-çalışmamalıyız"
+        }
+      },
+      "publisher_id" : "axis",
+      "publisher_name" : "Axis",
+      "publisher_url" : "https://www.axisyayinlari.com/",
+      "source_url" : "https://www.axisyayinlari.com/product-page/neden-kendimizi-bulmaya-çalışmamalıyız",
+      "title" : "Neden Kendimizi Bulmaya Çalışmamalıyız?",
+      "translator" : "Erkal Ünal",
+      "vitrin_rank" : 3
+    },
+    {
+      "author" : "Maurizio Gribaudi, Michèle Riot-Sarcey",
+      "captured_at" : "2026-08-14T17:15:00Z",
+      "confidence" : "high",
+      "description" : "Maurizio Gribaudi ve Michèle Riot-Sarcey tarafından kaleme alınmış 1848: Unutulmuş Devrim, Fransa’nın siyasi tarihinde genellikle gölgede kalmış ancak büyük toplumsal dönüşümlere zemin hazırlayan bir dönemi mercek altına alıyor. 1848 Şubat Devrimi’ni ve ardından gelen kanlı Haziran ayaklanmasını tüm boyutlarıyla ele alan kitap, yalnızca bir rejim değişikliğini değil, bir halkın eşitlik, adalet ve demokratik haklar arayışını da gözler önüne seriyor. Eser, köklü monarşinin çöküşünü, halk hareketlerinin doğuşunu ve yeni bir Cumhuriyet’in sancılı başlangıcını anlatırken dönemin tanıklarının mektuplarına, günlüklerine, gazetelere ve resmi belgelere yer veriyor. Bu ifadeler, çeşitli bakış açılarıyla, hem devrimin seyrini hem de halkın ve işçi sınıfının yaşadığı zorlukları ve mücadelesini bugüne taşıyor ve anlamamıza olanak tanıyor. Zenginleştirilmiş tanık ifadeleri, dönemin toplumsal yapısına dair çarpıcı detaylar ve titiz tarihsel analizlerle Gribaudi ve Riot-Sarcey’nin çalışması, devrimi yalnızca tarihsel bir olay olarak değil, toplumsal yapıyı yeniden şekillendiren bir süreç olarak sunarak, eşitlik ve özgürlük mücadelesinin bugüne kadar sürüp gelen etkilerini gözler önüne seriyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazarlar: Maurizio Gribaudi Michèle Riot-Sarcey",
+          "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/"
+        },
+        "description" : {
+          "evidence_text" : "Maurizio Gribaudi ve Michèle Riot-Sarcey tarafından kaleme alınmış 1848: Unutulmuş Devrim, Fransa’nın siyasi tarihinde genellikle gölgede kalmış ancak büyük toplumsal dönüşümlere zemin hazırlayan bir dönemi mercek altına alıyor...",
+          "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/"
+        },
+        "title" : {
+          "evidence_text" : "1848 Unutulmuş Devrim – Ayrıntı Yayın Grubu",
+          "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/"
+        }
+      },
+      "publisher_id" : "ayrinti",
+      "publisher_name" : "Ayrıntı",
+      "publisher_url" : "https://www.ayrintiyayinlari.com.tr/",
+      "source_url" : "https://www.ayrintiyayingrubu.com/kitap/1848-unutulmus-devrim/",
+      "title" : "1848 Unutulmuş Devrim",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Husên Arif",
+      "captured_at" : "2026-08-14T17:14:37Z",
+      "confidence" : "high",
+      "description" : "Xaniyê kevin ê Metê Helîm li Taxa Serşeqamê, di vê romanê de ne tenê avahiyeke ji kerpîç û heriyê ye; ew nexşeya piçûk a civaka kurdan e ku di nîvê sedsala bîstan de di navbera kevneşopî û nûjeniyê de asê maye. Ev der, “şanehengek” e ku tê de çarenûsa bi dehan mirovên bêkes, hejar û baskşikestî bi hev ve girêdayî ne. Di bin baskê “Şahjina Heqanetê” Metê Helîm de, karakterên mîna Sabîrê himal, Heme Eliyê meaşxwer û Xawera nanpêj, hewl didin ku keştiya xwe ya şikestî di nava deryaya bipêl a “Şar” de li ser avê bihêlin.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa içeriği ve ürün detay sayfası yazarı: Husên Arif",
+          "source_url" : "https://www.avestakitap.com/sar"
+        },
+        "description" : {
+          "evidence_text" : "Ürün detay sayfasındaki açıklama metni",
+          "source_url" : "https://www.avestakitap.com/sar"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün detay sayfası başlığı: ŞAR",
+          "source_url" : "https://www.avestakitap.com/sar"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfa içeriğinde Çevirmen olarak belirtilmiş: Şikriya Salih - Firat Kelehkî",
+          "source_url" : "https://www.avestakitap.com/sar"
+        }
+      },
+      "publisher_id" : "avesta",
+      "publisher_name" : "Avesta",
+      "publisher_url" : "https://www.avestakitap.com/",
+      "source_url" : "https://www.avestakitap.com/sar",
+      "title" : "ŞAR",
+      "translator" : "Şikriya Salih - Firat Kelehkî",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Antan Özer",
+      "captured_at" : "2026-08-14T17:14:08Z",
+      "confidence" : "high",
+      "description" : "Modern İstanbul Ermeni Şiiri'nin özgün seslerinden Antan Özer, gündelik hayatın en sıradan anlarında insanın en derin meselelerini görünür kılan şiirleriyle okurla buluşuyor. Yalnızlık, yalınlığın içindeki derinliği, mizahın içindeki hüznü ve hayatın görünmez ayrıntılarını bir araya getiren seçkin bir şiir derlemesi. Özer, konuşma dilinin doğal akışına yaslanan berrak üslubuyla yalnızlığı, yoksulluğu, adaletsizlik karşısındaki vicdanı, insanın varoluş sancılarını ve bütün bunlara rağmen yaşam sevincini anlatıyor. İnce bir mizah, beklenmedik karşıtlıklar ve güçlü gözlem yeteneğiyle kurduğu dizeler, okuru hem gülümsetiyor hem de uzun süre zihninde yankılanacak sorularla baş başa bırakıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve yazar bilgisi",
+          "source_url" : "https://www.arasyayincilik.com/urun/yalnizlik/"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması",
+          "source_url" : "https://www.arasyayincilik.com/urun/yalnizlik/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve açıklama bölümü",
+          "source_url" : "https://www.arasyayincilik.com/urun/yalnizlik/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi: Çevirmen Ohannes Şaşkal",
+          "source_url" : "https://www.arasyayincilik.com/urun/yalnizlik/"
+        }
+      },
+      "publisher_id" : "aras",
+      "publisher_name" : "Aras",
+      "publisher_url" : "https://www.arasyayincilik.com/",
+      "source_url" : "https://www.arasyayincilik.com/urun/yalnizlik/",
+      "title" : "Yalnızlık",
+      "translator" : "Ohannes Şaşkal",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Han Kang",
+      "captured_at" : "2026-08-14T17:13:49Z",
+      "confidence" : "high",
+      "description" : "2024 Nobel Edebiyat Ödülü Han Kang'a layık görüldü. Kang, Nobel kazanan ilk Asyalı kadın yazar. Kitap, denemeler, şiirler, günlükler ve fotoğraflarla örülmüş, evrensel bir çağrı yapıyor. Han Kang'ın metinleri, kadınlar ve toplum üzerindeki baskı ve zulmü konu alıyor. Kitap, Nobel ödül konuşmasıyla başlıyor ve yaratıcı bir ışık ve ip metaforuyla insanları birbirine bağlamayı anlatıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve marka bilgisi: Han Kang",
+          "source_url" : "https://www.aprilyayincilik.com/isik-ve-ip-han-kang"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa açıklaması ve ürün tanıtımı metni",
+          "source_url" : "https://www.aprilyayincilik.com/isik-ve-ip-han-kang"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün adı: Işık ve İp - Han Kang",
+          "source_url" : "https://www.aprilyayincilik.com/isik-ve-ip-han-kang"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Göksel Türközü",
+          "source_url" : "https://www.aprilyayincilik.com/isik-ve-ip-han-kang"
+        }
+      },
+      "publisher_id" : "april",
+      "publisher_name" : "April",
+      "publisher_url" : "https://www.aprilyayincilik.com/",
+      "source_url" : "https://www.aprilyayincilik.com/isik-ve-ip-han-kang",
+      "title" : "Işık ve İp",
+      "translator" : "Göksel Türközü",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Sinan Canan",
+      "captured_at" : "2026-08-14T17:13:22Z",
+      "confidence" : "high",
+      "description" : "\"Yıllardır konuşup yazdıklarımdan sevgili Engin Toprak’ın gözüyle seçilmiş sözlerin bir araya geldiği Deme’ler, bende iz bırakan fikirlerin bazı meyvelerinden, meraklısına naçizane bir ikram olsun diye derlendi. \"Eli görmeyen kişi, yazıyı kalem yazdı sanır. Allah'ın kudretini görmeyen kişi, meyveyi ağaç yaptı sanır.\" demiş ya Mevlana… Buradaki sözlerin de öyle görülmesini dilerim. Bu mütevazı meyvelerin verimli zihinlerin topraklarında münbit tohumlara dönüşmesi dileğiyle…\"",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "detected_labels ve json_ld'den yazar adı",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264912/s/deme-ler-aforizmalar-sinan-canan-kitabi-369107-9786253895143/category/335/"
+        },
+        "description" : {
+          "evidence_text" : "Ürün sayfasındaki açıklama metni",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264912/s/deme-ler-aforizmalar-sinan-canan-kitabi-369107-9786253895143/category/335/"
+        },
+        "title" : {
+          "evidence_text" : "page_title ve json_ld'den kitap başlığı",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264912/s/deme-ler-aforizmalar-sinan-canan-kitabi-369107-9786253895143/category/335/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264912/s/deme-ler-aforizmalar-sinan-canan-kitabi-369107-9786253895143/category/335/"
+        }
+      },
+      "publisher_id" : "alfa",
+      "publisher_name" : "Alfa",
+      "publisher_url" : "https://www.alfakitap.com/",
+      "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264912/s/deme-ler-aforizmalar-sinan-canan-kitabi-369107-9786253895143/category/335/",
+      "title" : "Deme’ler - Aforizmalar",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Claire Vaye Watkins",
+      "captured_at" : "2026-06-20T01:36:04Z",
+      "confidence" : "high",
+      "description" : "Amerikalı yazar Claire Vaye Watkins kitabında kahramanlarının kişisel geçmişiyle bölgenin tarihini iç içe geçirerek Vahşi Batının mitlerini yeniden kuruyor; çölde havai fişek toplayan yaşlı adamlar, hayalet kasabaların zamanla film setlerine dönüştüğü Nevada coğrafyası, kaybolan turistler, Las Vegas’ın ışıltısına kapılan liseli gençler, çöldeki randevuevi sakinleri, hepsi bu mitin bir parçası haline geliyor. Çölde bulduğu adrese yazdığı mektuplarla yalnızlığını azaltmaya çalışan bir adam, kendini terk eden erkeğin eşyalarını saklayarak yas tutan genç bir kadın, çöldeki randevuevinin kırılgan dengesini varlığıyla altüst eden genç bir İtalyan, ölümden kurtardığı genç kız yüzünden münzevi hayatında ince bir yarık açılan bir adam, annelerinin intiharını atlatamayan iki kız kardeş. Üstlerinde geçmişin ağırlığını taşıyan bu insanlar, inatçılıkları, şansları ve az da olsa umutlarıyla hayatlarına tutunmaya çalışıyorlar. Nevada, her bir kelimenin yerini bulduğu, taze soluklu, diken diken, enfes bir kitap.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Claire Vaye Watkins",
+          "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması metni",
+          "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün sayfası içeriği",
+          "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Zeynep Baransel",
+          "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/"
+        }
+      },
+      "publisher_id" : "yuz",
+      "publisher_name" : "Yüz",
+      "publisher_url" : "https://www.yuzkitap.com.tr/",
+      "source_url" : "https://www.yuzkitap.com.tr/urun/nevada/",
+      "title" : "Nevada",
+      "translator" : "Zeynep Baransel",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Vivian French",
+      "captured_at" : "2026-06-20T01:34:54Z",
+      "confidence" : "high",
+      "description" : "Toprak solucanlarıyla tanışmaya hazır olun. Bahçenizde yaşayan bu olağanüstü canlılarla ilgili sıcacık bir hikâye sizleri bekliyor!",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Vivian French",
+          "source_url" : "https://www.vbky.com.tr/kitap/iyyy-solucanlar"
+        },
+        "description" : {
+          "evidence_text" : "Arka Kapak Yazısı: Toprak solucanlarıyla tanışmaya hazır olun. Bahçenizde yaşayan bu olağanüstü canlılarla ilgili sıcacık bir hikâye sizleri bekliyor!",
+          "source_url" : "https://www.vbky.com.tr/kitap/iyyy-solucanlar"
+        },
+        "title" : {
+          "evidence_text" : "Kitap Adı: Iyyy! Solucanlar",
+          "source_url" : "https://www.vbky.com.tr/kitap/iyyy-solucanlar"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Hazal Bozyer",
+          "source_url" : "https://www.vbky.com.tr/kitap/iyyy-solucanlar"
+        }
+      },
+      "publisher_id" : "vakifbank-kultur-yayinlari",
+      "publisher_name" : "VakıfBank Kültür Yayınları",
+      "publisher_url" : "https://www.vbky.com.tr/",
+      "source_url" : "https://www.vbky.com.tr/kitap/iyyy-solucanlar",
+      "title" : "Iyyy! Solucanlar",
+      "translator" : "Hazal Bozyer",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Funda Uçuk Er",
+      "captured_at" : "2026-06-20T01:34:34Z",
+      "confidence" : "high",
+      "description" : "Funda Uçuk Er’den sırlarla örülü bir aile romanı. Modern hayatın telaşı içinde savrulan psikolog Zeynep’in eline geçen gizemli bir günlük, geçmişe açılan bir kapı ve kendi iç dünyasına yolculuğun başlangıcıdır. Aşk, kayıp, inanç ve teslimiyet iç içe geçer; geçmişin izleri bugünün yaralarına dokunur, görünmeyen bağlar ve susulmuş hikâyeler gün yüzüne çıkar. \"Tesadüf\" sandığımız karşılaşmaların ardındaki derin anlam açığa çıkar. Huşu Ağacı’nın devam kitabı olan Asude Bahçe, karakterlerin içsel yolculuğunu derinleştirir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Funda Uçuk Er, okuru yine kalbin en kırılgan, en samimi yerlerinden yakalıyor.",
+          "source_url" : "https://timas.com.tr/asude-bahce-9786050849943"
+        },
+        "description" : {
+          "evidence_text" : "Arka kapak açıklaması ve kitap detayı metni",
+          "source_url" : "https://timas.com.tr/asude-bahce-9786050849943"
+        },
+        "title" : {
+          "evidence_text" : "Asude Bahçe - Timaş Yayınları Yeni Asude Bahçe Funda Uçuk Er Funda Uçuk Er’den sırlarla örülü bir aile romanı",
+          "source_url" : "https://timas.com.tr/asude-bahce-9786050849943"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://timas.com.tr/asude-bahce-9786050849943"
+        }
+      },
+      "publisher_id" : "timas",
+      "publisher_name" : "Timaş",
+      "publisher_url" : "https://www.timas.com.tr/",
+      "source_url" : "https://timas.com.tr/asude-bahce-9786050849943",
+      "title" : "Asude Bahçe",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Sandro Mezzadra ve Brett Neilson",
+      "captured_at" : "2026-06-20T01:33:03Z",
+      "confidence" : "medium",
+      "description" : "Çokkutuplu bir dünyada sermaye ve iktidar ilişkilerini, pandemi, savaş rejimleri, platformlaşma, finansallaşma ve lojistik gibi dinamiklerle ilişkilendirerek, özgürlük ve eşitlik mücadelelerinin imkânlarını sorgulayan bir çalışma.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar bilgisi ürün açıklamasında",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/47820797"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/47820797"
+        },
+        "title" : {
+          "evidence_text" : "Ürün sayfası başlığı ve açıklaması",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/47820797"
+        },
+        "translator" : {
+          "evidence_text" : "Çev. Münevver Çelik ibaresi ürün açıklamasında",
+          "source_url" : "https://www.shopier.com/OtonomYayincilik/47820797"
+        }
+      },
+      "publisher_id" : "otonom",
+      "publisher_name" : "Otonom",
+      "publisher_url" : "https://www.otonomyayincilik.com/",
+      "source_url" : "https://www.shopier.com/OtonomYayincilik/47820797",
+      "title" : "Geri Kalanı ve Batı",
+      "translator" : "Münevver Çelik",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Oğuz Makal",
+      "captured_at" : "2026-06-20T01:32:27Z",
+      "confidence" : "high",
+      "description" : "Sinemada gastronomik temsiller ve kültürel anlamlar üzerine, filmlerle mutfakta bir yolculuk sunan, yemeği merkeze alan ve gastronomi dünyasında keşifler içeren bir kitap.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: Yazar Oğuz Makal",
+          "source_url" : "https://www.oglak.com/kitap/3689/Oglak-Edebiyat/Sevgilim-Sinema-Sevgilim-Yemek/"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa görünür metni: Sinemada Gastronomik Temsiller ve Kültürel Anlamlar, filmlerle mutfakta bir yolculuk, yemeği merkeze alan keşifler",
+          "source_url" : "https://www.oglak.com/kitap/3689/Oglak-Edebiyat/Sevgilim-Sinema-Sevgilim-Yemek/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: Sevgilim Sinema Sevgilim Yemek Sinemada Gastronomik Temsiller ve Kültürel Anlamlar",
+          "source_url" : "https://www.oglak.com/kitap/3689/Oglak-Edebiyat/Sevgilim-Sinema-Sevgilim-Yemek/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.oglak.com/kitap/3689/Oglak-Edebiyat/Sevgilim-Sinema-Sevgilim-Yemek/"
+        }
+      },
+      "publisher_id" : "oglak",
+      "publisher_name" : "Oğlak",
+      "publisher_url" : "https://www.oglak.com/",
+      "source_url" : "https://www.oglak.com/kitap/3689/Oglak-Edebiyat/Sevgilim-Sinema-Sevgilim-Yemek/",
+      "title" : "Sevgilim Sinema Sevgilim Yemek",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "",
+      "captured_at" : "2026-06-20T01:31:50Z",
+      "confidence" : "medium",
+      "description" : "Türkiye’de Kürt sorunu bağlamında kritik bir tarihsel dönemeçten geçiliyor. Bu süreç ile birlikte Öcalan’ın önceki İmralı yaklaşımlarını yeniden formatlayarak ileri sürdüğü ‘tarihsel sosyoloji’ hipotezleri de solda epey yoğun biçimde tartışılıyor. Bu kitap, Öcalan’ın manifesto ve perspektifine Marksist eksenden eleştirilerle bu tartışmalara sistematik ve etkin bir katılım göstermekle kalmıyor, bu tartışmalarda Marksizm açısından kurucu bir rol oynama iddiasını da taşıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfada yazar bilgisi açıkça belirtilmemiştir.",
+          "source_url" : "https://www.notabene.com.tr/urun/ocalan-perspektifine-marksist-elestiriler"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması metni",
+          "source_url" : "https://www.notabene.com.tr/urun/ocalan-perspektifine-marksist-elestiriler"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün sayfası başlığı: Öcalan Perspektifine Marksist Eleştiriler",
+          "source_url" : "https://www.notabene.com.tr/urun/ocalan-perspektifine-marksist-elestiriler"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://www.notabene.com.tr/urun/ocalan-perspektifine-marksist-elestiriler"
+        }
+      },
+      "publisher_id" : "notabene",
+      "publisher_name" : "Notabene",
+      "publisher_url" : "https://www.notabene.com.tr/",
+      "source_url" : "https://www.notabene.com.tr/urun/ocalan-perspektifine-marksist-elestiriler",
+      "title" : "Öcalan Perspektifine Marksist Eleştiriler",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Katharina Linnepe",
+      "captured_at" : "2026-06-20T01:29:45Z",
+      "confidence" : "high",
+      "description" : "İmkânsız Vaka, patriyarkayı terapi koltuğuna yatırarak psikopatik, narsisistik ve makyavelist eğilimler sergileyen bir hasta olarak analiz eden, sosyoloji, psikoloji ve popüler kültür alanlarını kapsayan özgün bir metindir. Kitap, patriyarkanın hayatımıza sinsi taktiklerle yerleşmesini ifşa eder ve kolektif bir sağaltım çağrısı yapar.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "YAZARLAR: KATHARINA LINNEPE Katharina Linnepe, moderatör, konuşmacı, gazeteci ve feminist koç. Siyaset bilimi, sosyoloji ve felsefe alanlarındaki akademik eğitiminin ardından Goethe Üniversitesi'nde “Kitap ve Medya Pratiği” programını tamamlayan Lineppe moderasyon, konuşmacılık ve gazetecilik alanlarında aldığı eğitimlerle çok yönlü bir iletişim pratiği geliştirdi.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe"
+        },
+        "description" : {
+          "evidence_text" : "İmkânsız Vakaİflah Olmaz Erkeklik Terapi OdasındaKatharina Linnepe Patriyarka terapiye ikna olsaydı, teşhisi ne olurdu? Katharina Linnepe, bu çarpıcı ve özgün metinde patriyarkayı terapi koltuğuna yatırarak onu psikopatik, narsisistik ve makyavelist eğilimler sergileyen bir “hasta” olarak analiz ediyor. Seans ilerledikçe, patriyarkanın gündelik hayatımıza, ilişkilerimize ve hatta kendi iç sesimize nasıl sinsi taktiklerle yerleştiği ifşa oluyor. Tam da bu noktada Linnepe, okuru pasif bir gözlemci olmaktan çıkarıp ezber bozan bir soru soruyor: Günlük hayatta boğuştuğumuz o tükenmişlik, suçluluk ve yetersizlik hissi... Ya tüm bunlar sandığımız kadar kişisel değilse? Ya hepsi kusursuz işleyen bu hasta düzenin üzerimizde bıraktığı izlerse? İmkânsız Vaka, sosyolojiden psikolojiye, popüler kültürden dijital dünyaya uzanan geniş bir alanı incelerken sadece teşhis koymuyor, bu düzeni nasıl içselleştirdiğimizi sorgulatarak kolektifbir sağaltım çağrısı yapıyor. Çünkü bu terapide değişmesi gereken tek şey “hasta” değil.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe"
+        },
+        "title" : {
+          "evidence_text" : "İmkânsız Vaka //Katharina Linnepe | Kolektif Kitap top of page YAZ BOYUNCA TÜM KİTAPLARDA %40 İNDİRİM! // KARGO ÜCRETİ 75 TL ​ Üyelik Search İmkânsız Vaka //Katharina Linnepe Stok kodu: 9786256896468 İmkânsız Vaka İflah Olmaz Erkeklik Terapi Odasında Katharina Linnepe Patriyarka terapiye ikna olsaydı, teşhisi ne olurdu? Katharina Linnepe, bu çarpıcı ve özgün metinde patriyarkayı terapi koltuğuna yatırarak onu psikopatik, narsisistik ve makyavelist eğilimler sergileyen bir “hasta” olarak analiz ediyor. Seans ilerledikçe, patriyarkanın gündelik hayatımıza, ilişkilerimize ve hatta kendi iç sesimize nasıl sinsi taktiklerle yerleştiği ifşa oluyor. Tam da bu noktada Linnepe, okuru pasif bir gözlemci olmaktan çıkarıp ezber bozan bir soru soruyor: Günlük hayatta boğuştuğumuz o tükenmişlik, suçluluk ve yetersizlik hissi... Ya tüm bunlar sandığımız kadar kişisel değilse? Ya hepsi kusursuz işleyen bu hasta düzenin üzerimizde bıraktığı izlerse? İmkânsız Vaka, sosyolojiden psikolojiye, popüler kültürden dijital dünyaya uzanan geniş bir alanı incelerken sadece teşhis koymuyor, bu düzeni nasıl içselleştirdiğimizi sorgulatarak kolektifbir sağaltım çağrısı yapıyor. Çünkü bu terapide değişmesi gereken tek şey “hasta” değil.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok.",
+          "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe"
+        }
+      },
+      "publisher_id" : "kolektif",
+      "publisher_name" : "Kolektif",
+      "publisher_url" : "https://www.kolektifkitap.com/",
+      "source_url" : "https://www.kolektifkitap.com/kitaplar/imkânsız-vaka-katharina-linnepe",
+      "title" : "İmkânsız Vaka",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Sultan Abdülaziz",
+      "captured_at" : "2026-06-20T01:29:18Z",
+      "confidence" : "high",
+      "description" : "Sultan Abdülaziz Han’ın Hikmet ve Mantık Bahislerine Dair Bir Şerhi. Yaygın tarih yazımı onu olumsuz damgalasa da, Sultan Abdülaziz önemli reformlar yapmış ve Avrupa’yı ziyaret eden ilk Osmanlı padişahıdır. Ölümü ardında intihar mı cinayet mi sorusunu bırakmıştır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa görünür metni: Sultan Abdülaziz Han’ın Hikmet ve Mantık Bahislerine Dair Bir Şerhi",
+          "source_url" : "https://kronikkitap.com/kitap/bir-felsefe-risalesi/"
+        },
+        "description" : {
+          "evidence_text" : "Sayfa görünür metni: \"Sultan Abdülaziz Han’ın Hikmet ve Mantık Bahislerine Dair Bir Şerhi ... İntihar mı, cinayet mi?\"",
+          "source_url" : "https://kronikkitap.com/kitap/bir-felsefe-risalesi/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve görünür metin: Kitap · Bir Felsefe Risalesi",
+          "source_url" : "https://kronikkitap.com/kitap/bir-felsefe-risalesi/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://kronikkitap.com/kitap/bir-felsefe-risalesi/"
+        }
+      },
+      "publisher_id" : "kronik",
+      "publisher_name" : "Kronik",
+      "publisher_url" : "https://www.kronikkitap.com/",
+      "source_url" : "https://kronikkitap.com/kitap/bir-felsefe-risalesi/",
+      "title" : "Bir Felsefe Risalesi",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Yaşar Aksoy",
+      "captured_at" : "2026-06-20T01:29:02Z",
+      "confidence" : "medium",
+      "description" : null,
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfadaki 'Yazar' etiketi",
+          "source_url" : "https://www.kirmizikedi.com/dario-moreno-akdeniz-ask-sarkicilari-p-7454"
+        },
+        "description" : {
+          "evidence_text" : "Sayfada açıklama yok",
+          "source_url" : "https://www.kirmizikedi.com/dario-moreno-akdeniz-ask-sarkicilari-p-7454"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld name alanı",
+          "source_url" : "https://www.kirmizikedi.com/dario-moreno-akdeniz-ask-sarkicilari-p-7454"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://www.kirmizikedi.com/dario-moreno-akdeniz-ask-sarkicilari-p-7454"
+        }
+      },
+      "publisher_id" : "kirmizi-kedi",
+      "publisher_name" : "Kırmızı Kedi",
+      "publisher_url" : "https://www.kirmizikedi.com/",
+      "source_url" : "https://www.kirmizikedi.com/dario-moreno-akdeniz-ask-sarkicilari-p-7454",
+      "title" : "Dario Moreno – Akdeniz Aşk Şarkıcıları",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "James Taynion",
+      "captured_at" : "2026-06-20T01:28:15Z",
+      "confidence" : "high",
+      "description" : "“Göl Kenarındaki Hoş Ev’in dramını, gizemini ve cazibesini sevgi ile zulüm, dostluk ve ihanet arasındaki gerilim oluşturuyor. Bu hikâyeyi 2022’nin en muhteşem çizgi romanlarından biri yapan da tam olarak bu.” —Polygon “Fazlasıyla tatmin eden bir devam cildi… Bugüne kadar yayımlanan en iyi Black Label serilerinden biri.” —ComicBook.com “Bir şaheser… Tynion, Bueno ve Bellaire gerçekten çok özel bir şey yaratıyor ve ilk panelden beri çizgilerini hiç bozmadılar.” —AIPT ARKADAŞLARINIZI NE KADAR İYİ TANIYORSUNUZ? Bir grup genç arkadaş lüks, tenha bir göl evinde buluşurken dünyada gizemli bir felaket başlayalı birkaç gün oldu. (Yoksa daha mı fazla?) Ama neyse ki hepsinin ortak arkadaşı Walter, bilgeliği ve onlara olan derin sevgisiyle hepsini korumaya geldi. (Amacı gerçekten bu mu?) Korkularını, sorularını ve çözemedikleri şüphelerini bir kenara bırakırlarsa hepsi bu tehlikeli ve sinir bozucu durumdan sağ çıkabilecek. (Ama öyle olmayacak.) Gizem dolu popüler korku hikâyesinin ikinci cildinde Göl Kenarındaki Hoş Ev’in karakterleri, Walter’ın hayatlarını değiştiren seyahat davetini kabul ettikten sonra yaşadıkları felaketle ilgili gerçeğe biraz daha yaklaşıyorlar. Bu gerçek ise kalplerindeki son ümit kırıntılarını yok edecek. Çizgi roman sektörünün prestijli Eisner töreninde iki ödül kazandıktan sonra korku ustası James Tynion IV (Batman, Something Is Killing the Children, The Department of Truth) ve senelerdir beraber çalıştığı çizer ortağı Álvaro Martínez Bueno (Detective Comics, Justice League Dark), kozmik korku efsanelerini şok edici bir sonla bitiriyorlar. Ancak Hoş Ev’in kapılarını daha da ürkütücü bir gelecek için açık bırakmayı ihmal etmiyorlar. Göl Kenarındaki Hoş Ev #7-12’nin bir araya getirilmiş halidir.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "detected_labels: James Taynion SATIN AL İlgili ürünler",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/"
+        },
+        "description" : {
+          "evidence_text" : "description alanı sayfa gövdesinden alındı",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/"
+        },
+        "title" : {
+          "evidence_text" : "page_title: Göl Kenarındaki Hoş Ev 2 - Karakarga Yayınları",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/"
+        },
+        "translator" : {
+          "evidence_text" : "sayfada çevirmen bilgisi yok",
+          "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/"
+        }
+      },
+      "publisher_id" : "karakarga",
+      "publisher_name" : "Karakarga",
+      "publisher_url" : "https://www.karakarga.com/",
+      "source_url" : "https://karakarga.com/urun/yayinlar/edebiyat-inceleme/gol-kenarindaki-hos-ev-2/",
+      "title" : "Göl Kenarındaki Hoş Ev 2",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Will Heinrich",
+      "captured_at" : "2026-06-20T01:27:50Z",
+      "confidence" : "high",
+      "description" : "Joseph Malderoyce çok genç yaşta resme başlar ama Mondrian’ın resimleriyle tanışınca asla onun kadar iyi bir ressam olamayacağını anlayıp vazgeçer. Tüberküloza takıntılı şekilde merak duyan, felsefi görüşlü biridir Joseph. Ailesinden yüklü bir miras kalınca, çalıştığı hukuk firmasından istifa eder ve ülkenin en kuzeyinde küçük bir kasabaya yerleşir. Orman kenarındaki evinde münzevi bir hayat sürerken bir sabah verandasında uyuyan, fena halde dövülmüş bir çocuk bulur. Kimsesiz ve yardıma muhtaç olduğu anlaşılan Abel, böylece Joseph’ın hayatına girer ve çok geçmeden onun en yakını olur. Ama ilişkileri ilerledikçe, şeytani bir zekâya sahip Abel’ın davranışları tuhaflaşmaya başlar. Sonunda Joseph, evinde kendi eliyle beslediği bu sorunla yüzleşmek zorunda kalır. Son derece titizlikle işlenmiş, tüyler ürpertici bu çağdaş roman, insan ruhunun kötücül doğasını ve karanlık köşelerini keşfe çıkıyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar adı sayfa başlığı ve içerikte 'Will Heinrich' olarak belirtilmiştir.",
+          "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/"
+        },
+        "description" : {
+          "evidence_text" : "Sayfadaki resmi açıklama metni.",
+          "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve kitap adı olarak 'Kralın Laneti' geçmektedir.",
+          "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada 'Çeviren Zeynep Enez' ifadesi yer almaktadır.",
+          "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/"
+        }
+      },
+      "publisher_id" : "jaguar",
+      "publisher_name" : "Jaguar",
+      "publisher_url" : "https://www.jaguarkitap.com/",
+      "source_url" : "https://jaguarkitap.com/kitaplar/kralin-laneti-2/",
+      "title" : "Kralın Laneti",
+      "translator" : "Zeynep Enez",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Volker Kutscher",
+      "captured_at" : "2026-06-20T01:26:58Z",
+      "confidence" : "high",
+      "description" : "Öldü bilinen komiser Gereon Rath, gizlice Almanya’ya döner. Hem ölüm döşeğindeki babasını görmek için, hem büyük aşkı, karısı Charly’yle yeniden buluşmak için, hem de intikam için. Üstelik, Rath’la Charly’nin eski evlatlıklarının da başı beladadır… Volker Kutscher’in tarihî siyasi polisiye dizisinin onuncu ve son romanı Rath, okura soluk kesici bir final sunuyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld'de yazar olarak belirtilmiş.",
+          "source_url" : "https://iletisim.com.tr/kitap/rath/10958"
+        },
+        "description" : {
+          "evidence_text" : "Yeni çıkanlar RSS metninden alınmıştır.",
+          "source_url" : "https://iletisim.com.tr/rss/yeni-cikanlar"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld'de kitap adı olarak geçiyor.",
+          "source_url" : "https://iletisim.com.tr/kitap/rath/10958"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi bulunmamaktadır.",
+          "source_url" : "https://iletisim.com.tr/kitap/rath/10958"
+        }
+      },
+      "publisher_id" : "iletisim",
+      "publisher_name" : "İletişim",
+      "publisher_url" : "https://www.iletisim.com.tr/",
+      "source_url" : "https://iletisim.com.tr/kitap/rath/10958",
+      "title" : "Rath",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Prof. Dr. Ahmet Karacalar Hazırlayan: Özcan Özen",
+      "captured_at" : "2026-06-20T01:26:37Z",
+      "confidence" : "high",
+      "description" : "Lipödem, sıklıkla obezite ile karışan bir sendromdur. Lipödem, beslenmeden kaynaklanmaz. Bu nedenle diyetlerden fazla etkilenmez ve lipödem tedavisi için özel bir diyet yoktur. Çoğunlukla gözden kaçırılan fakat giderek artan bu sağlık sorunu, Batı toplumunda kadın nüfusunun yüzde 10’unu etkiler. Kitap, evrimsel geçmişimizin lipödeme katkısını ve evrimsel kuramla açıklamasını ele alıyor. Anadolu’da tarım devrimi ile başlayan lipödem olguları, modern hastalıkların evrimsel kökenlerine ışık tutuyor. Prof. Dr. Ahmet Karacalar, avcı-toplayıcı yaşam tarzının modern uyarlanmasını savunuyor ve hasta odaklı tedavi yöntemini sunuyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar etiketi sayfada 'Yazar: Prof. Dr. Ahmet Karacalar Hazırlayan: Özcan Özen' olarak geçiyor",
+          "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/"
+        },
+        "description" : {
+          "evidence_text" : "Ürün açıklaması metni",
+          "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve ürün açıklaması",
+          "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/"
+        }
+      },
+      "publisher_id" : "h2o",
+      "publisher_name" : "H2O",
+      "publisher_url" : "https://www.h2okitap.com/",
+      "source_url" : "https://www.h2okitap.com/kitap/lipodem-sendromu/",
+      "title" : "Lipödem Sendromu",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Şermin Yaşar",
+      "captured_at" : "2026-06-20T01:22:57Z",
+      "confidence" : "high",
+      "description" : "Selime Teyze’nin hikâyesi, çocuklarının dünyasında yer bulamayan ve onların gözünde yok gibi var olmayı reddeden bir annenin hikâyesidir. Selime, meşguliyet ve bekleyiş içinde hayatını sürdürür. Kitap, onun yaşamına ve duygularına odaklanır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld'den yazar adı: Şermin Yaşar",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli"
+        },
+        "description" : {
+          "evidence_text" : "Sayfadaki 'Kitap Hakkında' bölümünden özet",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli"
+        },
+        "title" : {
+          "evidence_text" : "Sayfa başlığı ve json_ld'den kitap adı: Altı Harfli Bir Tatlı",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli"
+        },
+        "translator" : {
+          "evidence_text" : "Sayfada çevirmen bilgisi yok",
+          "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli"
+        }
+      },
+      "publisher_id" : "dogan-kitap",
+      "publisher_name" : "Doğan Kitap",
+      "publisher_url" : "https://www.dogankitap.com.tr/",
+      "source_url" : "https://www.dogankitap.com.tr/kitap/alti-harfli-bir-tatli",
+      "title" : "Altı Harfli Bir Tatlı",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Suna Yılmaz",
+      "captured_at" : "2026-06-20T01:22:28Z",
+      "confidence" : "high",
+      "description" : "Diyarbakır’ın kentleşme deneyiminin yok sayılması, bilim ile iktidar arasındaki ilişkiyi ele veren göstergedir. Kitap, kapitalizm ile etnik politikaların ilişkiselliğine vurgu yaparak savaş koşullarının Kürt coğrafyasında nasıl bir kentleşme deneyimi oluşturduğunu irdeliyor. Diyarbakır’ın kentleşme deneyimini odağına alan kitap, bu yönüyle alandaki çok önemli bir eksiği telafi ediyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Diyarbakır’da Kentleşme El Koyarak Birikim Suna Yılmaz",
+          "source_url" : "https://www.dipnotkitap.com/kitap/diyarbakirda-kentlesme/464"
+        },
+        "description" : {
+          "evidence_text" : "Diyarbakır’ın kentleşme deneyiminin yok sayılması, bilim ile iktidar arasındaki ilişkiyi ele veren gös-tergedir. Dolayısıyla, elinizdeki çalışma bu eksikliğin telafisinde her şeyden önce iktidara ve onun akademideki tahakküm örüntülerine karşı bir müdahaledir. ... Kitap, kapitalizm ile etnik politikaların ilişkiselliğine vurgu yaparak savaş koşullarının Kürt coğrafyasında nasıl bir kentleşme deneyimi oluşturduğunu irdeliyor.",
+          "source_url" : "https://www.dipnotkitap.com/kitap/diyarbakirda-kentlesme/464"
+        },
+        "title" : {
+          "evidence_text" : "Diyarbakır’da Kentleşme El Koyarak Birikim Suna Yılmaz 9786256742536 416 sayfa % 35 377,00 TL 580,00 TL #diyarbakır , #kenleşme , #kent mekanı , #kürt sorunu Diyarbakır’ın kentleşme deneyiminin yok sayılması, bilim ile iktidar arasındaki ilişkiyi ele veren gös-tergedir. Dolayısıyla, elinizdeki çalışma bu eksikliğin telafisinde her şeyden önce iktidara ve onun akademideki tahakküm örüntülerine karşı bir müdahaledir.",
+          "source_url" : "https://www.dipnotkitap.com/kitap/diyarbakirda-kentlesme/464"
+        },
+        "translator" : {
+          "evidence_text" : "",
+          "source_url" : "https://www.dipnotkitap.com/kitap/diyarbakirda-kentlesme/464"
+        }
+      },
+      "publisher_id" : "dipnot",
+      "publisher_name" : "Dipnot",
+      "publisher_url" : "https://www.dipnotkitap.com/",
+      "source_url" : "https://www.dipnotkitap.com/kitap/diyarbakirda-kentlesme/464",
+      "title" : "Diyarbakır’da Kentleşme",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "İnci Aydın",
+      "captured_at" : "2026-06-20T01:19:20Z",
+      "confidence" : "high",
+      "description" : "Aras Yayıncılık, sanat tarihçisi İnci Aydın’ın uzun yıllara yayılan titiz araştırmalarının ürünü olan Renklerin Diyojen’i Ressam Agop Arad kitabını okurla buluşturuyor. Eser, ressam, gazeteci ve yazar Agop Arad’ın (1913–1990) yaşamını ve sanatını, dönemin kültürel ve entelektüel atmosferiyle birlikte ele alarak 1940’lar Türkiyesine çok katmanlı bir bakış sunuyor. Kitapta, dönemin önde gelen isimleriyle Agop Arad’ın kesişen yolları, dostlukları ve ortak üretimleri ayrıntılı biçimde inceleniyor. Sanatçının toplumcu gerçekçi sanat anlayışı bağlamında değerlendirilmesiyle dönemin estetik ve düşünsel iklimine ışık tutuluyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "İnci Aydın",
+          "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/"
+        },
+        "description" : {
+          "evidence_text" : "Aras Yayıncılık, sanat tarihçisi İnci Aydın’ın uzun yıllara yayılan titiz araştırmalarının ürünü olan Renklerin Diyojen’i Ressam Agop Arad kitabını okurla buluşturuyor! Eser ressam, gazeteci ve yazar Agop Arad’ın (1913–1990) yaşamını ve sanatını, dönemin kültürel ve entelektüel atmosferiyle birlikte ele alarak 1940’lar Türkiyesine çok katmanlı bir bakış sunuyor. Aydın’ın doktora yıllarında filizlenen merakı, Beyazıt Devlet Kütüphanesi’nin gazete arşivlerinden özel koleksiyonlara uzanan kapsamlı bir araştırmaya dönüşüyor. Kitapta, Sait Faik Abasıyanık’tan Orhan Veli Kanık’a, Sabahattin Ali’den Yaşar Kemal’e; Fikret Adil, Melih Cevdet Anday, İlhan Selçuk ve Bedri Rahmi Eyüboğlu gibi dönemin önde gelen isimleriyle Agop Arad’ın kesişen yolları, dostlukları ve ortak üretimleri ayrıntılı biçimde inceleniyor. Yeniler Grubu’nun manifestosundan Babıâli’nin gazetecilik ortamına, Paris’teki sanat çevrelerinden İstanbul’un gündelik yaşamına uzanan anlatı, 1940 kuşağının kültürel haritasını yeniden kuruyor. Yazar Yervant Gobelyan’ın “Renklerin Diyojen’i” olarak adlandırdığı Agop Arad, yalın çizgileri ve güçlü renk kullanımıyla İstanbul’un sıradan insanlarını resmin merkezine taşır. Balıkçılar, seyyar satıcılar, ayakkabı boyacıları ve gündelik hayatın görünmez emekçileri, Arad’ın tuvalinde dikkatle ve içtenlikle yer bulur. Kitap, sanatçının bu yaklaşımını toplumcu gerçekçi sanat anlayışı bağlamında değerlendirerek dönemin estetik ve düşünsel iklimine ışık tutuyor.",
+          "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/"
+        },
+        "title" : {
+          "evidence_text" : "Renklerin Diyojeni: Ressam Agop Arad – Aras Yayıncılık Türkçe English ... Aras Yayıncılık, sanat tarihçisi İnci Aydın’ın uzun yıllara yayılan titiz araştırmalarının ürünü olan Renklerin Diyojen’i Ressam Agop Arad kitabını okurla buluşturuyor! Eser ressam, gazeteci ve yazar Agop Arad’ın (1913–1990) yaşamını ve sanatını, dönemin kültürel ve entelektüel atmosferiyle birlikte ele alarak 1940’lar Türkiyesine çok katmanlı bir bakış sunuyor.",
+          "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen bilgisi yok",
+          "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/"
+        }
+      },
+      "publisher_id" : "aras",
+      "publisher_name" : "Aras",
+      "publisher_url" : "https://www.arasyayincilik.com/",
+      "source_url" : "https://www.arasyayincilik.com/urun/renklerin-diyojeni-ressam-agop-arad/",
+      "title" : "Renklerin Diyojeni: Ressam Agop Arad",
+      "translator" : null,
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Tony Crilly",
+      "captured_at" : "2026-06-20T01:18:12Z",
+      "confidence" : "high",
+      "description" : "Matematik, hepimizin hakkında bilgi sahibi olması gereken bir konudur. Okul müfredatı bir yana matematik her zaman okul müfredatından –ki pek heyecan verici olduğu söylenemez– daha fazlasını sunar. Bilimsel uygulamaların sessiz bir ortağı olmasının yanı sıra, sanatla da temel bağlantıları vardır. İnsanlığın mirasının bir parçası olan matematik, canlıdır sınırları “Büyük Sorular”la sürekli genişletilmektedir. Bu kitapta Tony Crilly, 20 temel soruyu yanıtlıyor: Matematik ne için vardır? Sayılar nereden gelir? Neden asal sayılar matematiğin atomlarıdır? En garip sayılar hangileridir? Sanal sayılar gerçek midir? Sonsuzluk ne kadar büyüktür? Paralel çizgiler nerede kesişir? Evrenin matematiği nedir? İstatistikler yalan mıdır? Matematik zenginliği garanti edebilir mi? Her şey için bir formül var mı? Neden üç boyut yeterli değil? Bir kelebeğin kanatları gerçekten bir kasırgaya neden olabilir mi? Kırılmaz bir şifre oluşturabilir miyiz? Matematik güzellik midir? Matematik geleceği tahmin edebilir mi? Evrenin şekli nedir? Simetri nedir? Matematik doğru mudur? Çözülmesi gereken başka bir şey kaldı mı?",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Tony Crilly",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264738/s/buyuk-sorular-matematik-tony-crilly-kitabi-367386-9786253894702/category/335/"
+        },
+        "description" : {
+          "evidence_text" : "Matematik, hepimizin hakkında bilgi sahibi olması gereken bir konudur. Okul müfredatı bir yana matematik her zaman okul müfredatından –ki pek heyecan verici olduğu söylenemez– daha fazlasını sunar. Bilimsel uygulamaların sessiz bir ortağı olmasının yanı sıra, sanatla da temel bağlantıları vardır. İnsanlığın mirasının bir parçası olan matematik, canlıdır sınırları “Büyük Sorular”la sürekli genişletilmektedir. Bu kitapta Tony Crilly, 20 temel soruyu yanıtlıyor: Matematik ne için vardır? Sayılar nereden gelir? Neden asal sayılar matematiğin atomlarıdır? En garip sayılar hangileridir? Sanal sayılar gerçek midir? Sonsuzluk ne kadar büyüktür? Paralel çizgiler nerede kesişir? Evrenin matematiği nedir? İstatistikler yalan mıdır? Matematik zenginliği garanti edebilir mi? Her şey için bir formül var mı? Neden üç boyut yeterli değil? Bir kelebeğin kanatları gerçekten bir kasırgaya neden olabilir mi? Kırılmaz bir şifre oluşturabilir miyiz? Matematik güzellik midir? Matematik geleceği tahmin edebilir mi? Evrenin şekli nedir? Simetri nedir? Matematik doğru mudur? Çözülmesi gereken başka bir şey kaldı mı?",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264738/s/buyuk-sorular-matematik-tony-crilly-kitabi-367386-9786253894702/category/335/"
+        },
+        "title" : {
+          "evidence_text" : "Büyük Sorular - Matematik - Tony Crilly Kitap Fiyatı & Satın Al | AlfaKitap",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264738/s/buyuk-sorular-matematik-tony-crilly-kitabi-367386-9786253894702/category/335/"
+        },
+        "translator" : {
+          "evidence_text" : "Çevirmen: Mehmet Kur",
+          "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264738/s/buyuk-sorular-matematik-tony-crilly-kitabi-367386-9786253894702/category/335/"
+        }
+      },
+      "publisher_id" : "alfa",
+      "publisher_name" : "Alfa",
+      "publisher_url" : "https://www.alfakitap.com/",
+      "source_url" : "https://www.alfakitap.com/catalog/product/view/id/264738/s/buyuk-sorular-matematik-tony-crilly-kitabi-367386-9786253894702/category/335/",
+      "title" : "Büyük Sorular - Matematik",
+      "translator" : "Mehmet Kur",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Robin George Collingwood",
+      "captured_at" : "2026-06-20T01:17:38Z",
+      "confidence" : "high",
+      "description" : "Collingwood bu son derece kişisel entelektüel vasiyetinde, tarihler ve olayların sıralandığı alışılmış anı geleneğini reddeder. Bir Otobiyografi, oluşum hâlindeki bir zihnin geçmişin hayaletleriyle sürdürdüğü amansız diyaloğun sürükleyici öyküsüdür. Collingwood, zamanının hâkim “realist” felsefesinin yalnızca akademik bir hata değil, bir nesli silahsızlandırarak onu faşizmin irrasyonel güçlerine karşı savunmasız bırakan tehlikeli bir yanılsama olduğunu tutkuyla savunur. Gerçek bilginin pasif bir gözlem değil, geçmiş düşüncenin aktif bir yeniden canlandırılması olduğunu gösterir; kendi geliştirdiği soru-cevap mantığını da bu eserde en berrak biçimiyle ortaya koyar. Bir Otobiyografi; aklın ateşli bir savunması, felsefenin amacına dair derin bir düşünme ve entelektüellerin zamanlarının acil krizleriyle yüzleşmesi için güçlü bir çağrıdır.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Yazar: Robin George Collingwood Başlık: Bir Otobiyografi Kitabın Özgün Adı: An Autobiography",
+          "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/"
+        },
+        "description" : {
+          "evidence_text" : "Bir Otobiyografi - Akademim Yayınları İçeriğe atla ... Collingwood bu son derece kişisel entelektüel vasiyetinde, tarihler ve olayların sıralandığı alışılmış anı geleneğini reddeder. Bir Otobiyografi, oluşum hâlindeki bir zihnin geçmişin hayaletleriyle sürdürdüğü amansız diyaloğun sürükleyici öyküsüdür.",
+          "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/"
+        },
+        "title" : {
+          "evidence_text" : "Bir Otobiyografi - Akademim Yayınları İçeriğe atla ... Collingwood bu son derece kişisel entelektüel vasiyetinde, tarihler ve olayların sıralandığı alışılmış anı geleneğini reddeder. Bir Otobiyografi, oluşum hâlindeki bir zihnin geçmişin hayaletleriyle sürdürdüğü amansız diyaloğun sürükleyici öyküsüdür.",
+          "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/"
+        },
+        "translator" : {
+          "evidence_text" : "İngilizce Aslından Çeviren: M. Murtaza Özeren",
+          "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/"
+        }
+      },
+      "publisher_id" : "akademim",
+      "publisher_name" : "Akademim",
+      "publisher_url" : "https://akademimkitapligi.com/",
+      "source_url" : "https://akademimkitapligi.com/kitap/bir-otobiyografi/",
+      "title" : "Bir Otobiyografi",
+      "translator" : "M. Murtaza Özeren",
+      "vitrin_rank" : 1
+    },
+    {
+      "author" : "Mai Thi Nguyen-Kim",
+      "captured_at" : "2026-06-04T12:15:26Z",
+      "confidence" : "high",
+      "description" : "Kimya dendiğinde birçoğumuzun gözünde laboratuvarda deney yapan beyaz önlüklü biliminsanları canlanır. Kimyanın hayattan kopuk bir bilim olduğunu, “kimyasalların” da çoğunlukla bize zarar verdiğini düşünürüz. Ödüllü bilim iletişimcisi ve kimyager Mai Thi Nguyen-Kim bu önyargıları yıkarak kimyanın aslında her daim hayatın içinde olan heyecan verici bir bilim olduğunu görmemizi sağlıyor. Tipik bir gününü anlatarak, gündelik hayata kimyanın merceğinden bakmanın aslında ne kadar aydınlatıcı olduğunu, en temel meselelere dair bilgimizdeki boşlukları doldurup dünyayı daha iyi anlamamızı sağladığını gösteriyor.",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Kahvaltıda Kimya, Mai Thi Nguyen-Kim, Metis Yayınları",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37545"
+        },
+        "description" : {
+          "evidence_text" : "Kimya dendiğinde birçoğumuzun gözünde laboratuvarda deney yapan beyaz önlüklü biliminsanları canlanır.",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37545"
+        },
+        "title" : {
+          "evidence_text" : "Kahvaltıda Kimya, Mai Thi Nguyen-Kim, Metis Yayınları ... Kimya dendiğinde birçoğumuzun gözünde laboratuvarda deney yapan beyaz önlüklü biliminsanları canlanır.",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37545"
+        },
+        "translator" : {
+          "evidence_text" : "Çeviri: Duygu Dölek",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37545"
+        }
+      },
+      "publisher_id" : "metis",
+      "publisher_name" : "Metis",
+      "publisher_url" : "https://www.metiskitap.com/",
+      "source_url" : "https://www.metiskitap.com/catalog/book/37545",
+      "title" : "Kahvaltıda Kimya",
+      "translator" : "Duygu Dölek",
+      "vitrin_rank" : 2
+    },
+    {
+      "author" : "Victoria Rowe Holbrook",
+      "captured_at" : "2026-06-04T12:15:26Z",
+      "confidence" : "high",
+      "description" : "“Hayatım, yaşadıkça çoğalan ve bir dizi geri dönüşle birbirine bağlanan eşmerkezli çemberlere benziyor. En içteki çember çocukluk, müzik, ‘Sokrat amcam’ ve gençliğin başıboşluğu; Arapça bir başka çemberdi, müzikle felsefeyi birbirine bağladı, Farsça ve Osmanlıca bu bağları derinleştirdi; modern Türk şiiri, post-şu post-bu teorilerle birlikte, 60’lardaki modernist okumalarımla birleşti; Hindistan’a dair şeyler Padma ile, Budizm ise beat kuşağıyla birleşti, şimdi de bugünkü çemberimin kenarında durmuş, hep yenilenen bir zihinle geriye göz atıyor ama hep ileriye bakıyorum.”",
+      "evidence" : {
+        "author" : {
+          "evidence_text" : "Amcam Sokrat, Victoria Rowe Holbrook, Metis Yayınları",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37541"
+        },
+        "description" : {
+          "evidence_text" : "“Hayatım, yaşadıkça çoğalan ve bir dizi geri dönüşle birbirine bağlanan eşmerkezli çemberlere benziyor.",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37541"
+        },
+        "title" : {
+          "evidence_text" : "Amcam Sokrat, Victoria Rowe Holbrook, Metis Yayınları ... “Hayatım, yaşadıkça çoğalan ve bir dizi geri dönüşle birbirine bağlanan eşmerkezli çemberlere benziyor.",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37541"
+        },
+        "translator" : {
+          "evidence_text" : "Çeviri: Derya Kırlangıç",
+          "source_url" : "https://www.metiskitap.com/catalog/book/37541"
+        }
+      },
+      "publisher_id" : "metis",
+      "publisher_name" : "Metis",
+      "publisher_url" : "https://www.metiskitap.com/",
+      "source_url" : "https://www.metiskitap.com/catalog/book/37541",
+      "title" : "Amcam Sokrat",
+      "translator" : "Derya Kırlangıç",
+      "vitrin_rank" : 3
+    }
+  ],
+  "generated_at" : "2026-08-14T17:13:14Z"
+}
