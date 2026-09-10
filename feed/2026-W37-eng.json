@@ -19932,7 +19932,7 @@
                 {
                   "agirlik" : 6,
                   "sag" : "ÜRÜN LANSMANI",
-                  "sagEN" : "product release",
+                  "sagEN" : "product launch",
                   "sol" : "Ternus’un ilk sahnesinde katlanan iPhone",
                   "solEN" : "Apple unveils its first foldable iPhone as John Ternus makes his debut as CEO"
                 },
@@ -19946,7 +19946,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "ÜRÜN LANSMANI",
-                  "sagEN" : "product release",
+                  "sagEN" : "product launch",
                   "sol" : "Apple’ın katlanan iPhone’u",
                   "solEN" : "Apple unveils its first foldable iPhone, the Duo"
                 },
@@ -19972,7 +19972,7 @@
                 {
                   "agirlik" : 6,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Ternus’un ilk sahnesinde katlanan iPhone",
                   "solEN" : "Apple unveils its first foldable iPhone as John Ternus makes his debut as CEO"
                 },
@@ -19991,28 +19991,28 @@
                 {
                   "agirlik" : 5,
                   "sag" : "ÜRÜN LANSMANI",
-                  "sagEN" : "product release",
+                  "sagEN" : "product launch",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ATAMA",
                   "sagEN" : "appointment",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DUYURU",
                   "sagEN" : "announcement",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÜRÜN LANSMANI",
-                  "sagEN" : "product release",
+                  "sagEN" : "product launch",
                   "sol" : "ARJANTİN",
                   "solEN" : "Argentina"
                 }
@@ -20105,7 +20105,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20119,7 +20119,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "UYARI",
-                  "sagEN" : "Warnung",
+                  "sagEN" : "warning",
                   "sol" : "Yerleşim ticaretine çizilen çizgi",
                   "solEN" : "UK settlement-trade sanctions prompt public debate over the government's ban"
                 },
@@ -20133,13 +20133,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "KAPANMA",
-                  "sagEN" : "shutdown",
+                  "sagEN" : "closure",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20160,7 +20161,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "UYARI",
-                  "sagEN" : "Warnung",
+                  "sagEN" : "warning",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20193,7 +20194,7 @@
                 {
                   "agirlik" : 10,
                   "sag" : "BİRLEŞİK KRALLIK",
-                  "sagEN" : "GB",
+                  "sagEN" : "United Kingdom",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20214,7 +20215,7 @@
                 {
                   "agirlik" : 8,
                   "sag" : "FRANSA",
-                  "sagEN" : "Frankreich",
+                  "sagEN" : "France",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20242,14 +20243,14 @@
                 {
                   "agirlik" : 4,
                   "sag" : "İSPANYA",
-                  "sagEN" : "España",
+                  "sagEN" : "Spain",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
                 {
                   "agirlik" : 3,
                   "sag" : "BİRLEŞİK KRALLIK",
-                  "sagEN" : "GB",
+                  "sagEN" : "United Kingdom",
                   "sol" : "Yerleşim ticaretine çizilen çizgi",
                   "solEN" : "UK settlement-trade sanctions prompt public debate over the government's ban"
                 },
@@ -20270,7 +20271,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20284,7 +20285,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "FİNLANDİYA",
-                  "sagEN" : "Finnland",
+                  "sagEN" : "Finland",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20298,7 +20299,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "NORVEÇ",
-                  "sagEN" : "Norwegen",
+                  "sagEN" : "Norway",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20333,7 +20334,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "İZLANDA",
-                  "sagEN" : "Island",
+                  "sagEN" : "Iceland",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20403,14 +20404,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SUUDİ ARABİSTAN",
-                  "sagEN" : "Saudi-Arabien",
+                  "sagEN" : "Saudi Arabia",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TÜRKİYE",
-                  "sagEN" : "Türkei",
+                  "sagEN" : "Turkey",
                   "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
                   "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
                 },
@@ -20497,7 +20498,7 @@
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 9,
@@ -20518,7 +20519,7 @@
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 5,
@@ -20546,14 +20547,14 @@
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "İSPANYA",
-                  "solEN" : "España"
+                  "solEN" : "Spain"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 2,
@@ -20565,30 +20566,30 @@
                 {
                   "agirlik" : 2,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "TİCARET YASAĞI",
                   "sagEN" : "trade ban",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "UYARI",
-                  "sagEN" : "Warnung",
+                  "sagEN" : "warning",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "YASAK",
                   "sagEN" : "ban",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 2,
@@ -20602,7 +20603,7 @@
                   "sag" : "TİCARET YASAĞI",
                   "sagEN" : "trade ban",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 2,
@@ -20614,7 +20615,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "UYARI",
-                  "sagEN" : "Warnung",
+                  "sagEN" : "warning",
                   "sol" : "FİLİSTİN",
                   "solEN" : "Palestine"
                 },
@@ -20623,12 +20624,12 @@
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "FİNLANDİYA",
-                  "solEN" : "Finnland"
+                  "solEN" : "Finland"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "KANADA",
                   "solEN" : "Canada"
                 },
@@ -20644,7 +20645,7 @@
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "NORVEÇ",
-                  "solEN" : "Norwegen"
+                  "solEN" : "Norway"
                 },
                 {
                   "agirlik" : 2,
@@ -20672,12 +20673,12 @@
                   "sag" : "TİCARET YASAĞI",
                   "sagEN" : "trade ban",
                   "sol" : "İSPANYA",
-                  "solEN" : "España"
+                  "solEN" : "Spain"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "İSRAİL",
                   "solEN" : "Israel"
                 },
@@ -20691,7 +20692,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "UYARI",
-                  "sagEN" : "Warnung",
+                  "sagEN" : "warning",
                   "sol" : "İSRAİL",
                   "solEN" : "Israel"
                 },
@@ -20714,28 +20715,28 @@
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "İZLANDA",
-                  "solEN" : "Island"
+                  "solEN" : "Iceland"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SEÇİM",
                   "sagEN" : "election",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TİCARET YASAĞI",
                   "sagEN" : "trade ban",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
@@ -20754,27 +20755,28 @@
                 {
                   "agirlik" : 1,
                   "sag" : "UYARI",
-                  "sagEN" : "Warnung",
+                  "sagEN" : "warning",
                   "sol" : "AVUSTRALYA",
                   "solEN" : "Australia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "BATI ŞERİA",
                   "solEN" : "West Bank"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "KAPANMA",
-                  "sagEN" : "shutdown",
+                  "sagEN" : "closure",
                   "sol" : "BATI ŞERİA",
                   "solEN" : "West Bank"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "BATI ŞERİA",
                   "solEN" : "West Bank"
                 },
@@ -20802,6 +20804,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "BİRLEŞİK ARAP EMİRLİKLERİ",
                   "solEN" : "United Arab Emirates"
                 },
@@ -20815,53 +20818,56 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "KAPANMA",
-                  "sagEN" : "shutdown",
+                  "sagEN" : "closure",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SEÇİM",
                   "sagEN" : "election",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YERLEŞİM İNŞAATI",
                   "sagEN" : "settlement construction",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YERİNDEN EDİLME",
                   "sagEN" : "displacement",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "DANİMARKA",
                   "solEN" : "Denmark"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "ENDONEZYA",
                   "solEN" : "Indonesia"
                 },
@@ -20875,62 +20881,63 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SEÇİM",
                   "sagEN" : "election",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "UYARI",
-                  "sagEN" : "Warnung",
+                  "sagEN" : "warning",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YASAK",
                   "sagEN" : "ban",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YERLEŞİM İNŞAATI",
                   "sagEN" : "settlement construction",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YERİNDEN EDİLME",
                   "sagEN" : "displacement",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "FİLİSTİN",
                   "solEN" : "Palestine"
                 },
@@ -20958,6 +20965,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "FİLİSTİN TOPRAĞI",
                   "solEN" : "Palestinian territory"
                 },
@@ -20971,19 +20979,21 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "FİNLANDİYA",
-                  "solEN" : "Finnland"
+                  "solEN" : "Finland"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "KANADA",
                   "solEN" : "Canada"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "KAPANMA",
-                  "sagEN" : "shutdown",
+                  "sagEN" : "closure",
                   "sol" : "KANADA",
                   "solEN" : "Canada"
                 },
@@ -21004,7 +21014,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "UYARI",
-                  "sagEN" : "Warnung",
+                  "sagEN" : "warning",
                   "sol" : "KANADA",
                   "solEN" : "Canada"
                 },
@@ -21032,6 +21042,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "KATAR",
                   "solEN" : "Qatar"
                 },
@@ -21045,6 +21056,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "MISIR",
                   "solEN" : "Egypt"
                 },
@@ -21079,12 +21091,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "NORVEÇ",
-                  "solEN" : "Norwegen"
+                  "solEN" : "Norway"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "PAKİSTAN",
                   "solEN" : "Pakistan"
                 },
@@ -21098,12 +21112,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "POLONYA",
                   "solEN" : "Poland"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "PORTEKİZ",
                   "solEN" : "Portugal"
                 },
@@ -21131,28 +21147,30 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "TÜRKİYE",
-                  "solEN" : "Türkei"
+                  "solEN" : "Turkey"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "TÜRKİYE",
-                  "solEN" : "Türkei"
+                  "solEN" : "Turkey"
                 },
                 {
                   "agirlik" : 1,
@@ -21178,6 +21196,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "ÜRDÜN",
                   "solEN" : "Jordan"
                 },
@@ -21233,6 +21252,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "İRLANDA",
                   "solEN" : "Ireland"
                 },
@@ -21253,33 +21273,35 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "İSPANYA",
-                  "solEN" : "España"
+                  "solEN" : "Spain"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YERLEŞİM İNŞAATI",
                   "sagEN" : "settlement construction",
                   "sol" : "İSPANYA",
-                  "solEN" : "España"
+                  "solEN" : "Spain"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YERİNDEN EDİLME",
                   "sagEN" : "displacement",
                   "sol" : "İSPANYA",
-                  "solEN" : "España"
+                  "solEN" : "Spain"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "İSRAİL",
                   "solEN" : "Israel"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "KAPANMA",
-                  "sagEN" : "shutdown",
+                  "sagEN" : "closure",
                   "sol" : "İSRAİL",
                   "solEN" : "Israel"
                 },
@@ -21314,14 +21336,16 @@
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "İSVEÇ",
                   "solEN" : "Sweden"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DİPLOMATİK TIRMANIŞ",
+                  "sagEN" : "diplomatic escalation",
                   "sol" : "İZLANDA",
-                  "solEN" : "Island"
+                  "solEN" : "Iceland"
                 }
               ],
               "tip" : "ulkeOlgu"
@@ -21401,21 +21425,21 @@
                 {
                   "agirlik" : 2,
                   "sag" : "ARAMA KURTARMA",
-                  "sagEN" : "search-and-rescue",
+                  "sagEN" : "search and rescue",
                   "sol" : "June Aster'ın ardından",
                   "solEN" : "The aftermath of the deadly June Aster ferry fire off Palawan"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÖLÜM",
-                  "sagEN" : "Tod",
+                  "sagEN" : "death",
                   "sol" : "June Aster'ın ardından",
                   "solEN" : "The aftermath of the deadly June Aster ferry fire off Palawan"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TAHLİYE",
-                  "sagEN" : "eviction",
+                  "sagEN" : "evacuation",
                   "sol" : "Qingdao'da yük gemisindeki yangının ağır bilançosu",
                   "solEN" : "Deadly fire aboard foreign cargo ship at Qingdao leaves many dead and missing"
                 }
@@ -21512,21 +21536,21 @@
                 {
                   "agirlik" : 2,
                   "sag" : "ARAMA KURTARMA",
-                  "sagEN" : "search-and-rescue",
+                  "sagEN" : "search and rescue",
                   "sol" : "FİLİPİNLER",
                   "solEN" : "Philippines"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÖLÜM",
-                  "sagEN" : "Tod",
+                  "sagEN" : "death",
                   "sol" : "FİLİPİNLER",
                   "solEN" : "Philippines"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TAHLİYE",
-                  "sagEN" : "eviction",
+                  "sagEN" : "evacuation",
                   "sol" : "ÇİN",
                   "solEN" : "China"
                 }
@@ -21661,7 +21685,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "MAÇ",
-                  "sagEN" : "match",
+                  "sagEN" : "game",
                   "sol" : "Gauff'un Flushing Meadows kaçışı",
                   "solEN" : "Coco Gauff survives Mirra Andreeva to reach the US Open semi-finals"
                 },
@@ -21682,7 +21706,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "MAÇ",
-                  "sagEN" : "match",
+                  "sagEN" : "game",
                   "sol" : "Kadınlarda düzen, erkeklerde açıklık",
                   "solEN" : "US Open semifinals take shape as the women’s top four hold and the men’s field stays open"
                 },
@@ -21696,6 +21720,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "TENİS YARI FİNALİ",
+                  "sagEN" : "tennis semi-final",
                   "sol" : "Kadınlarda düzen, erkeklerde açıklık",
                   "solEN" : "US Open semifinals take shape as the women’s top four hold and the men’s field stays open"
                 },
@@ -21709,7 +21734,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "MAÇ",
-                  "sagEN" : "match",
+                  "sagEN" : "game",
                   "sol" : "Sabaha karşı gelen yarı final",
                   "solEN" : "Shelton’s five-set US Open upset of Alcaraz ends at 3:33 a.m., setting a tournament record"
                 },
@@ -21728,35 +21753,35 @@
                 {
                   "agirlik" : 7,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Sabaha karşı gelen yarı final",
                   "solEN" : "Shelton’s five-set US Open upset of Alcaraz ends at 3:33 a.m., setting a tournament record"
                 },
                 {
                   "agirlik" : 4,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Kadınlarda düzen, erkeklerde açıklık",
                   "solEN" : "US Open semifinals take shape as the women’s top four hold and the men’s field stays open"
                 },
                 {
                   "agirlik" : 3,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Gauff'un Flushing Meadows kaçışı",
                   "solEN" : "Coco Gauff survives Mirra Andreeva to reach the US Open semi-finals"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Dört seri başı, son dörtte",
                   "solEN" : "US Open singles advances through the draw as the quarterfinals give way to a historic women’s semifinal lineup"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Geceyi izleyip yarı finale çıktı",
                   "solEN" : "Zverev reaches the US Open semi-finals after a dominant win despite a late night"
                 },
@@ -21805,14 +21830,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "İSPANYA",
-                  "sagEN" : "España",
+                  "sagEN" : "Spain",
                   "sol" : "Sabaha karşı gelen yarı final",
                   "solEN" : "Shelton’s five-set US Open upset of Alcaraz ends at 3:33 a.m., setting a tournament record"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "İTALYA",
-                  "sagEN" : "Italie",
+                  "sagEN" : "Italy",
                   "sol" : "Sabaha karşı gelen yarı final",
                   "solEN" : "Shelton’s five-set US Open upset of Alcaraz ends at 3:33 a.m., setting a tournament record"
                 }
@@ -21920,39 +21945,40 @@
                   "sag" : "TENİS MAÇI",
                   "sagEN" : "tennis match",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 6,
                   "sag" : "TENİS TURNUVASI",
                   "sagEN" : "tennis tournament",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "TURNUVA",
                   "sagEN" : "tournament",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SPOR MÜSABAKASI",
                   "sagEN" : "sporting competition",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TENİS YARI FİNALİ",
+                  "sagEN" : "tennis semi-final",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "MAÇ",
-                  "sagEN" : "match",
+                  "sagEN" : "game",
                   "sol" : "ALMANYA",
                   "solEN" : "Germany"
                 },
@@ -21980,7 +22006,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "MAÇ",
-                  "sagEN" : "match",
+                  "sagEN" : "game",
                   "sol" : "RUSYA",
                   "solEN" : "Russia"
                 },
@@ -21996,28 +22022,28 @@
                   "sag" : "TENİS MAÇI",
                   "sagEN" : "tennis match",
                   "sol" : "İSPANYA",
-                  "solEN" : "España"
+                  "solEN" : "Spain"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TURNUVA",
                   "sagEN" : "tournament",
                   "sol" : "İSPANYA",
-                  "solEN" : "España"
+                  "solEN" : "Spain"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TENİS MAÇI",
                   "sagEN" : "tennis match",
                   "sol" : "İTALYA",
-                  "solEN" : "Italie"
+                  "solEN" : "Italy"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TURNUVA",
                   "sagEN" : "tournament",
                   "sol" : "İTALYA",
-                  "solEN" : "Italie"
+                  "solEN" : "Italy"
                 }
               ],
               "tip" : "ulkeOlgu"
@@ -22143,7 +22169,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
                   "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
                 },
@@ -22178,27 +22204,28 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "11 Eylül'ün uzayan gölgesi",
                   "solEN" : "Post-9\/11 wars continue to shape US strategy"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "11 Eylül'ün uzayan gölgesi",
                   "solEN" : "Post-9\/11 wars continue to shape US strategy"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DENETİM",
-                  "sagEN" : "inspection",
+                  "sagEN" : "audit",
                   "sol" : "Denetimin kapandığı yerde",
                   "solEN" : "IAEA says Iran is denying nuclear inspectors access amid escalating regional tensions"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DENETİM ANLAŞMAZLIĞI",
+                  "sagEN" : "inspection dispute",
                   "sol" : "Denetimin kapandığı yerde",
                   "solEN" : "IAEA says Iran is denying nuclear inspectors access amid escalating regional tensions"
                 },
@@ -22212,14 +22239,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ SALDIRI",
-                  "sagEN" : "military offensive",
+                  "sagEN" : "military strikes",
                   "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
                   "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
                   "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
                 },
@@ -22233,6 +22260,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
                   "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
                 },
@@ -22246,21 +22274,21 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
                   "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "Seçim takvimine bağlanan savaş",
                   "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "Seçim takvimine bağlanan savaş",
                   "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
                 },
@@ -22281,14 +22309,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "Seçim takvimine bağlanan savaş",
                   "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "KINAMA",
-                  "sagEN" : "rebuke",
+                  "sagEN" : "condemnation",
                   "sol" : "İran’ın nükleer dosyasında Konsey eşiği",
                   "solEN" : "U.N. Nuclear Watchdog Refers Iran’s Nuclear File to the Security Council After Censure Vote"
                 },
@@ -22302,13 +22330,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SEVK",
+                  "sagEN" : "referral",
                   "sol" : "İran’ın nükleer dosyasında Konsey eşiği",
                   "solEN" : "U.N. Nuclear Watchdog Refers Iran’s Nuclear File to the Security Council After Censure Vote"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SORUŞTURMA",
-                  "sagEN" : "Ermittlung",
+                  "sagEN" : "investigation",
                   "sol" : "İran’ın nükleer dosyasında Konsey eşiği",
                   "solEN" : "U.N. Nuclear Watchdog Refers Iran’s Nuclear File to the Security Council After Censure Vote"
                 }
@@ -22327,7 +22356,7 @@
                 {
                   "agirlik" : 4,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "11 Eylül'ün uzayan gölgesi",
                   "solEN" : "Post-9\/11 wars continue to shape US strategy"
                 },
@@ -22341,7 +22370,7 @@
                 {
                   "agirlik" : 4,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
                   "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
                 },
@@ -22355,7 +22384,7 @@
                 {
                   "agirlik" : 4,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Seçim takvimine bağlanan savaş",
                   "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
                 },
@@ -22404,7 +22433,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "SUUDİ ARABİSTAN",
-                  "sagEN" : "Saudi-Arabien",
+                  "sagEN" : "Saudi Arabia",
                   "sol" : "11 Eylül'ün uzayan gölgesi",
                   "solEN" : "Post-9\/11 wars continue to shape US strategy"
                 },
@@ -22425,7 +22454,7 @@
                 {
                   "agirlik" : 2,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "Denetimin kapandığı yerde",
                   "solEN" : "IAEA says Iran is denying nuclear inspectors access amid escalating regional tensions"
                 },
@@ -22488,7 +22517,6 @@
                 {
                   "agirlik" : 1,
                   "sag" : "GAZZE ŞERİDİ",
-                  "sagEN" : "Gazastreifen",
                   "sol" : "11 Eylül'ün uzayan gölgesi",
                   "solEN" : "Post-9\/11 wars continue to shape US strategy"
                 },
@@ -22551,7 +22579,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "BİRLEŞİK KRALLIK",
-                  "sagEN" : "GB",
+                  "sagEN" : "United Kingdom",
                   "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
                   "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
                 },
@@ -22579,7 +22607,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "İTALYA",
-                  "sagEN" : "Italie",
+                  "sagEN" : "Italy",
                   "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
                   "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
                 },
@@ -22593,14 +22621,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SUUDİ ARABİSTAN",
-                  "sagEN" : "Saudi-Arabien",
+                  "sagEN" : "Saudi Arabia",
                   "sol" : "Seçim takvimine bağlanan savaş",
                   "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TÜRKİYE",
-                  "sagEN" : "Türkei",
+                  "sagEN" : "Turkey",
                   "sol" : "Seçim takvimine bağlanan savaş",
                   "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
                 },
@@ -22628,7 +22656,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ABD",
-                  "sagEN" : "the U.S.",
+                  "sagEN" : "United States",
                   "sol" : "İran’ın nükleer dosyasında Konsey eşiği",
                   "solEN" : "U.N. Nuclear Watchdog Refers Iran’s Nuclear File to the Security Council After Censure Vote"
                 }
@@ -22750,14 +22778,14 @@
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 4,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 4,
@@ -22769,7 +22797,7 @@
                 {
                   "agirlik" : 4,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
@@ -22783,9 +22811,9 @@
                 {
                   "agirlik" : 3,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 3,
@@ -22806,7 +22834,7 @@
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 3,
@@ -22818,7 +22846,7 @@
                 {
                   "agirlik" : 3,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
@@ -22827,14 +22855,14 @@
                   "sag" : "TERÖR SALDIRISI",
                   "sagEN" : "terrorist attack",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 2,
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 2,
@@ -22946,89 +22974,91 @@
                   "sag" : "ABLUKA",
                   "sagEN" : "blockade",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ KONUŞLANMA",
                   "sagEN" : "military deployment",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ MÜDAHALE",
                   "sagEN" : "military intervention",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ SALDIRI",
-                  "sagEN" : "military offensive",
+                  "sagEN" : "military strikes",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DENETİM",
-                  "sagEN" : "inspection",
+                  "sagEN" : "audit",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DENETİM ANLAŞMAZLIĞI",
+                  "sagEN" : "inspection dispute",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "GÖRÜŞME",
                   "sagEN" : "talks",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "KINAMA",
-                  "sagEN" : "rebuke",
+                  "sagEN" : "condemnation",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "OYLAMA",
                   "sagEN" : "vote",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TEHDİT",
                   "sagEN" : "threat",
                   "sol" : "ABD",
-                  "solEN" : "the U.S."
+                  "solEN" : "United States"
                 },
                 {
                   "agirlik" : 1,
@@ -23054,14 +23084,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "AFGANİSTAN",
                   "solEN" : "Afghanistan"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "AFGANİSTAN",
                   "solEN" : "Afghanistan"
                 },
@@ -23075,7 +23105,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "AVUSTRALYA",
                   "solEN" : "Australia"
                 },
@@ -23096,14 +23126,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ SALDIRI",
-                  "sagEN" : "military offensive",
+                  "sagEN" : "military strikes",
                   "sol" : "BAHREYN",
                   "solEN" : "Bahrain"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "BAHREYN",
                   "solEN" : "Bahrain"
                 },
@@ -23117,13 +23147,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "BAHREYN",
                   "solEN" : "Bahrain"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "BAHREYN",
                   "solEN" : "Bahrain"
                 },
@@ -23151,7 +23182,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "BATI ŞERİA",
                   "solEN" : "West Bank"
                 },
@@ -23172,7 +23203,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "BİRLEŞİK ARAP EMİRLİKLERİ",
                   "solEN" : "United Arab Emirates"
                 },
@@ -23186,36 +23217,37 @@
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "GÖRÜŞME",
                   "sagEN" : "talks",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "BİRLEŞİK KRALLIK",
-                  "solEN" : "GB"
+                  "solEN" : "United Kingdom"
                 },
                 {
                   "agirlik" : 1,
@@ -23234,7 +23266,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "ENDONEZYA",
                   "solEN" : "Indonesia"
                 },
@@ -23262,7 +23294,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "FİLİPİNLER",
                   "solEN" : "Philippines"
                 },
@@ -23277,22 +23309,19 @@
                   "agirlik" : 1,
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
-                  "sol" : "GAZZE ŞERİDİ",
-                  "solEN" : "Gazastreifen"
+                  "sol" : "GAZZE ŞERİDİ"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TERÖR SALDIRISI",
                   "sagEN" : "terrorist attack",
-                  "sol" : "GAZZE ŞERİDİ",
-                  "solEN" : "Gazastreifen"
+                  "sol" : "GAZZE ŞERİDİ"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
-                  "sol" : "GAZZE ŞERİDİ",
-                  "solEN" : "Gazastreifen"
+                  "sagEN" : "conflict",
+                  "sol" : "GAZZE ŞERİDİ"
                 },
                 {
                   "agirlik" : 1,
@@ -23318,21 +23347,21 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ SALDIRI",
-                  "sagEN" : "military offensive",
+                  "sagEN" : "military strikes",
                   "sol" : "IRAK",
                   "solEN" : "Iraq"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "IRAK",
                   "solEN" : "Iraq"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "IRAK",
                   "solEN" : "Iraq"
                 },
@@ -23360,7 +23389,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "JAPONYA",
                   "solEN" : "Japan"
                 },
@@ -23395,14 +23424,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ SALDIRI",
-                  "sagEN" : "military offensive",
+                  "sagEN" : "military strikes",
                   "sol" : "KUVEYT",
                   "solEN" : "Kuwait"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "KUVEYT",
                   "solEN" : "Kuwait"
                 },
@@ -23416,6 +23445,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "KUVEYT",
                   "solEN" : "Kuwait"
                 },
@@ -23429,7 +23459,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "LÜBNAN",
                   "solEN" : "Lebanon"
                 },
@@ -23443,6 +23473,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "LÜBNAN",
                   "solEN" : "Lebanon"
                 },
@@ -23463,7 +23494,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "LÜBNAN",
                   "solEN" : "Lebanon"
                 },
@@ -23484,14 +23515,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "MISIR",
                   "solEN" : "Egypt"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "PAKİSTAN",
                   "solEN" : "Pakistan"
                 },
@@ -23535,49 +23566,49 @@
                   "sag" : "ABLUKA",
                   "sagEN" : "blockade",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ KONUŞLANMA",
                   "sagEN" : "military deployment",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TERÖR SALDIRISI",
                   "sagEN" : "terrorist attack",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "SUUDİ ARABİSTAN",
-                  "solEN" : "Saudi-Arabien"
+                  "solEN" : "Saudi Arabia"
                 },
                 {
                   "agirlik" : 1,
@@ -23617,7 +23648,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "TAYLAND",
                   "solEN" : "Thailand"
                 },
@@ -23652,23 +23683,23 @@
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "TÜRKİYE",
-                  "solEN" : "Türkei"
+                  "solEN" : "Turkey"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
                   "sol" : "TÜRKİYE",
-                  "solEN" : "Türkei"
+                  "solEN" : "Turkey"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "TÜRKİYE",
-                  "solEN" : "Türkei"
+                  "solEN" : "Turkey"
                 },
                 {
                   "agirlik" : 1,
@@ -23687,14 +23718,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "YEMEN",
                   "solEN" : "Yemen"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "YEMEN",
                   "solEN" : "Yemen"
                 },
@@ -23729,7 +23760,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "ÇİN",
                   "solEN" : "China"
                 },
@@ -23743,14 +23774,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ SALDIRI",
-                  "sagEN" : "military offensive",
+                  "sagEN" : "military strikes",
                   "sol" : "ÜRDÜN",
                   "solEN" : "Jordan"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "ÜRDÜN",
                   "solEN" : "Jordan"
                 },
@@ -23764,27 +23795,28 @@
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "ÜRDÜN",
                   "solEN" : "Jordan"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SALDIRI",
-                  "sagEN" : "assault",
+                  "sagEN" : "attack",
                   "sol" : "ÜRDÜN",
                   "solEN" : "Jordan"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "ÜRDÜN",
                   "solEN" : "Jordan"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "ÜRDÜN",
                   "solEN" : "Jordan"
                 },
@@ -23812,27 +23844,28 @@
                 {
                   "agirlik" : 1,
                   "sag" : "ASKERÎ SALDIRI",
-                  "sagEN" : "military offensive",
+                  "sagEN" : "military strikes",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DENETİM",
-                  "sagEN" : "inspection",
+                  "sagEN" : "audit",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "DENETİM ANLAŞMAZLIĞI",
+                  "sagEN" : "inspection dispute",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
@@ -23846,14 +23879,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "KINAMA",
-                  "sagEN" : "rebuke",
+                  "sagEN" : "condemnation",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
@@ -23867,6 +23900,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SEVK",
+                  "sagEN" : "referral",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
@@ -23880,13 +23914,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SORUŞTURMA",
-                  "sagEN" : "Ermittlung",
+                  "sagEN" : "investigation",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "İRAN",
                   "solEN" : "Iran"
                 },
@@ -23907,7 +23942,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "İSRAİL",
                   "solEN" : "Israel"
                 },
@@ -23921,56 +23956,58 @@
                 {
                   "agirlik" : 1,
                   "sag" : "HAVA SALDIRISI",
-                  "sagEN" : "air raids",
+                  "sagEN" : "airstrike",
                   "sol" : "İSRAİL",
                   "solEN" : "Israel"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "İSRAİL",
                   "solEN" : "Israel"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
-                  "sagEN" : "shootout",
+                  "sagEN" : "conflict",
                   "sol" : "İSRAİL",
                   "solEN" : "Israel"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "FÜZE SALDIRISI",
-                  "sagEN" : "missile strikes",
+                  "sagEN" : "missile attack",
                   "sol" : "İTALYA",
-                  "solEN" : "Italie"
+                  "solEN" : "Italy"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "GÖRÜŞME",
                   "sagEN" : "talks",
                   "sol" : "İTALYA",
-                  "solEN" : "Italie"
+                  "solEN" : "Italy"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
                   "sol" : "İTALYA",
-                  "solEN" : "Italie"
+                  "solEN" : "Italy"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TANKER SALDIRISI",
+                  "sagEN" : "tanker attack",
                   "sol" : "İTALYA",
-                  "solEN" : "Italie"
+                  "solEN" : "Italy"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "YAPTIRIM",
                   "sagEN" : "sanctions",
                   "sol" : "İTALYA",
-                  "solEN" : "Italie"
+                  "solEN" : "Italy"
                 }
               ],
               "tip" : "ulkeOlgu"
@@ -24056,13 +24093,14 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SİYASİ AÇIKLAMA",
+                  "sagEN" : "political statement",
                   "sol" : "Merz'in AfD'ye çektiği çizgi",
                   "solEN" : "Merz confronts the AfD in parliament after its regional election breakthrough"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TARTIŞMA",
-                  "sagEN" : "discussion",
+                  "sagEN" : "debate",
                   "sol" : "Merz'in AfD'ye çektiği çizgi",
                   "solEN" : "Merz confronts the AfD in parliament after its regional election breakthrough"
                 },
@@ -24102,7 +24140,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "FRANSA",
-                  "sagEN" : "Frankreich",
+                  "sagEN" : "France",
                   "sol" : "Saksonya-Anhalt’tan yayılan sarsıntı",
                   "solEN" : "The AfD’s Saxony-Anhalt breakthrough is testing Germany’s political order and reverberating beyond its borders"
                 },
@@ -24180,6 +24218,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "SİYASİ AÇIKLAMA",
+                  "sagEN" : "political statement",
                   "sol" : "ALMANYA",
                   "solEN" : "Germany"
                 },
@@ -24193,7 +24232,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "TARTIŞMA",
-                  "sagEN" : "discussion",
+                  "sagEN" : "debate",
                   "sol" : "ALMANYA",
                   "solEN" : "Germany"
                 },
@@ -24209,7 +24248,7 @@
                   "sag" : "SEÇİM",
                   "sagEN" : "election",
                   "sol" : "FRANSA",
-                  "solEN" : "Frankreich"
+                  "solEN" : "France"
                 },
                 {
                   "agirlik" : 1,
@@ -44048,7 +44087,7 @@
             {
               "agirlik" : 6,
               "sag" : "ÜRÜN LANSMANI",
-              "sagEN" : "product release",
+              "sagEN" : "product launch",
               "sol" : "Ternus’un ilk sahnesinde katlanan iPhone",
               "solEN" : "Apple unveils its first foldable iPhone as John Ternus makes his debut as CEO"
             },
@@ -44062,7 +44101,7 @@
             {
               "agirlik" : 2,
               "sag" : "ÜRÜN LANSMANI",
-              "sagEN" : "product release",
+              "sagEN" : "product launch",
               "sol" : "Apple’ın katlanan iPhone’u",
               "solEN" : "Apple unveils its first foldable iPhone, the Duo"
             },
@@ -44088,7 +44127,7 @@
             {
               "agirlik" : 6,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Ternus’un ilk sahnesinde katlanan iPhone",
               "solEN" : "Apple unveils its first foldable iPhone as John Ternus makes his debut as CEO"
             },
@@ -44107,28 +44146,28 @@
             {
               "agirlik" : 5,
               "sag" : "ÜRÜN LANSMANI",
-              "sagEN" : "product release",
+              "sagEN" : "product launch",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "ATAMA",
               "sagEN" : "appointment",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "DUYURU",
               "sagEN" : "announcement",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "ÜRÜN LANSMANI",
-              "sagEN" : "product release",
+              "sagEN" : "product launch",
               "sol" : "ARJANTİN",
               "solEN" : "Argentina"
             }
@@ -44218,7 +44257,7 @@
             {
               "agirlik" : 2,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44232,7 +44271,7 @@
             {
               "agirlik" : 1,
               "sag" : "UYARI",
-              "sagEN" : "Warnung",
+              "sagEN" : "warning",
               "sol" : "Yerleşim ticaretine çizilen çizgi",
               "solEN" : "UK settlement-trade sanctions prompt public debate over the government's ban"
             },
@@ -44246,13 +44285,14 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
             {
               "agirlik" : 1,
               "sag" : "KAPANMA",
-              "sagEN" : "shutdown",
+              "sagEN" : "closure",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44273,7 +44313,7 @@
             {
               "agirlik" : 1,
               "sag" : "UYARI",
-              "sagEN" : "Warnung",
+              "sagEN" : "warning",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44306,7 +44346,7 @@
             {
               "agirlik" : 10,
               "sag" : "BİRLEŞİK KRALLIK",
-              "sagEN" : "GB",
+              "sagEN" : "United Kingdom",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44327,7 +44367,7 @@
             {
               "agirlik" : 8,
               "sag" : "FRANSA",
-              "sagEN" : "Frankreich",
+              "sagEN" : "France",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44355,14 +44395,14 @@
             {
               "agirlik" : 4,
               "sag" : "İSPANYA",
-              "sagEN" : "España",
+              "sagEN" : "Spain",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
             {
               "agirlik" : 3,
               "sag" : "BİRLEŞİK KRALLIK",
-              "sagEN" : "GB",
+              "sagEN" : "United Kingdom",
               "sol" : "Yerleşim ticaretine çizilen çizgi",
               "solEN" : "UK settlement-trade sanctions prompt public debate over the government's ban"
             },
@@ -44383,7 +44423,7 @@
             {
               "agirlik" : 2,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44397,7 +44437,7 @@
             {
               "agirlik" : 2,
               "sag" : "FİNLANDİYA",
-              "sagEN" : "Finnland",
+              "sagEN" : "Finland",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44411,7 +44451,7 @@
             {
               "agirlik" : 2,
               "sag" : "NORVEÇ",
-              "sagEN" : "Norwegen",
+              "sagEN" : "Norway",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44446,7 +44486,7 @@
             {
               "agirlik" : 2,
               "sag" : "İZLANDA",
-              "sagEN" : "Island",
+              "sagEN" : "Iceland",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44516,14 +44556,14 @@
             {
               "agirlik" : 1,
               "sag" : "SUUDİ ARABİSTAN",
-              "sagEN" : "Saudi-Arabien",
+              "sagEN" : "Saudi Arabia",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
             {
               "agirlik" : 1,
               "sag" : "TÜRKİYE",
-              "sagEN" : "Türkei",
+              "sagEN" : "Turkey",
               "sol" : "Yerleşimlere baskı, müttefikleri ayırıyor",
               "solEN" : "International pressure over Israeli West Bank settlements widens into a dispute over sanctions and allied responses"
             },
@@ -44610,7 +44650,7 @@
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 9,
@@ -44631,7 +44671,7 @@
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 5,
@@ -44659,14 +44699,14 @@
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "İSPANYA",
-              "solEN" : "España"
+              "solEN" : "Spain"
             },
             {
               "agirlik" : 2,
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 2,
@@ -44678,30 +44718,30 @@
             {
               "agirlik" : 2,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 2,
               "sag" : "TİCARET YASAĞI",
               "sagEN" : "trade ban",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 2,
               "sag" : "UYARI",
-              "sagEN" : "Warnung",
+              "sagEN" : "warning",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 2,
               "sag" : "YASAK",
               "sagEN" : "ban",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 2,
@@ -44715,7 +44755,7 @@
               "sag" : "TİCARET YASAĞI",
               "sagEN" : "trade ban",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 2,
@@ -44727,7 +44767,7 @@
             {
               "agirlik" : 2,
               "sag" : "UYARI",
-              "sagEN" : "Warnung",
+              "sagEN" : "warning",
               "sol" : "FİLİSTİN",
               "solEN" : "Palestine"
             },
@@ -44736,12 +44776,12 @@
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "FİNLANDİYA",
-              "solEN" : "Finnland"
+              "solEN" : "Finland"
             },
             {
               "agirlik" : 2,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "KANADA",
               "solEN" : "Canada"
             },
@@ -44757,7 +44797,7 @@
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "NORVEÇ",
-              "solEN" : "Norwegen"
+              "solEN" : "Norway"
             },
             {
               "agirlik" : 2,
@@ -44785,12 +44825,12 @@
               "sag" : "TİCARET YASAĞI",
               "sagEN" : "trade ban",
               "sol" : "İSPANYA",
-              "solEN" : "España"
+              "solEN" : "Spain"
             },
             {
               "agirlik" : 2,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "İSRAİL",
               "solEN" : "Israel"
             },
@@ -44804,7 +44844,7 @@
             {
               "agirlik" : 2,
               "sag" : "UYARI",
-              "sagEN" : "Warnung",
+              "sagEN" : "warning",
               "sol" : "İSRAİL",
               "solEN" : "Israel"
             },
@@ -44827,28 +44867,28 @@
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "İZLANDA",
-              "solEN" : "Island"
+              "solEN" : "Iceland"
             },
             {
               "agirlik" : 1,
               "sag" : "SAVAŞ",
               "sagEN" : "war",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "SEÇİM",
               "sagEN" : "election",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "TİCARET YASAĞI",
               "sagEN" : "trade ban",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
@@ -44867,27 +44907,28 @@
             {
               "agirlik" : 1,
               "sag" : "UYARI",
-              "sagEN" : "Warnung",
+              "sagEN" : "warning",
               "sol" : "AVUSTRALYA",
               "solEN" : "Australia"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "BATI ŞERİA",
               "solEN" : "West Bank"
             },
             {
               "agirlik" : 1,
               "sag" : "KAPANMA",
-              "sagEN" : "shutdown",
+              "sagEN" : "closure",
               "sol" : "BATI ŞERİA",
               "solEN" : "West Bank"
             },
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "BATI ŞERİA",
               "solEN" : "West Bank"
             },
@@ -44915,6 +44956,7 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "BİRLEŞİK ARAP EMİRLİKLERİ",
               "solEN" : "United Arab Emirates"
             },
@@ -44928,53 +44970,56 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "KAPANMA",
-              "sagEN" : "shutdown",
+              "sagEN" : "closure",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "SAVAŞ",
               "sagEN" : "war",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "SEÇİM",
               "sagEN" : "election",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "YERLEŞİM İNŞAATI",
               "sagEN" : "settlement construction",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "YERİNDEN EDİLME",
               "sagEN" : "displacement",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "DANİMARKA",
               "solEN" : "Denmark"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "ENDONEZYA",
               "solEN" : "Indonesia"
             },
@@ -44988,62 +45033,63 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
               "sag" : "SAVAŞ",
               "sagEN" : "war",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
               "sag" : "SEÇİM",
               "sagEN" : "election",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
               "sag" : "UYARI",
-              "sagEN" : "Warnung",
+              "sagEN" : "warning",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
               "sag" : "YASAK",
               "sagEN" : "ban",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
               "sag" : "YERLEŞİM İNŞAATI",
               "sagEN" : "settlement construction",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
               "sag" : "YERİNDEN EDİLME",
               "sagEN" : "displacement",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "FİLİSTİN",
               "solEN" : "Palestine"
             },
@@ -45071,6 +45117,7 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "FİLİSTİN TOPRAĞI",
               "solEN" : "Palestinian territory"
             },
@@ -45084,19 +45131,21 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "FİNLANDİYA",
-              "solEN" : "Finnland"
+              "solEN" : "Finland"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "KANADA",
               "solEN" : "Canada"
             },
             {
               "agirlik" : 1,
               "sag" : "KAPANMA",
-              "sagEN" : "shutdown",
+              "sagEN" : "closure",
               "sol" : "KANADA",
               "solEN" : "Canada"
             },
@@ -45117,7 +45166,7 @@
             {
               "agirlik" : 1,
               "sag" : "UYARI",
-              "sagEN" : "Warnung",
+              "sagEN" : "warning",
               "sol" : "KANADA",
               "solEN" : "Canada"
             },
@@ -45145,6 +45194,7 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "KATAR",
               "solEN" : "Qatar"
             },
@@ -45158,6 +45208,7 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "MISIR",
               "solEN" : "Egypt"
             },
@@ -45192,12 +45243,14 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "NORVEÇ",
-              "solEN" : "Norwegen"
+              "solEN" : "Norway"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "PAKİSTAN",
               "solEN" : "Pakistan"
             },
@@ -45211,12 +45264,14 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "POLONYA",
               "solEN" : "Poland"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "PORTEKİZ",
               "solEN" : "Portugal"
             },
@@ -45244,28 +45299,30 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "TÜRKİYE",
-              "solEN" : "Türkei"
+              "solEN" : "Turkey"
             },
             {
               "agirlik" : 1,
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "TÜRKİYE",
-              "solEN" : "Türkei"
+              "solEN" : "Turkey"
             },
             {
               "agirlik" : 1,
@@ -45291,6 +45348,7 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "ÜRDÜN",
               "solEN" : "Jordan"
             },
@@ -45346,6 +45404,7 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "İRLANDA",
               "solEN" : "Ireland"
             },
@@ -45366,33 +45425,35 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "İSPANYA",
-              "solEN" : "España"
+              "solEN" : "Spain"
             },
             {
               "agirlik" : 1,
               "sag" : "YERLEŞİM İNŞAATI",
               "sagEN" : "settlement construction",
               "sol" : "İSPANYA",
-              "solEN" : "España"
+              "solEN" : "Spain"
             },
             {
               "agirlik" : 1,
               "sag" : "YERİNDEN EDİLME",
               "sagEN" : "displacement",
               "sol" : "İSPANYA",
-              "solEN" : "España"
+              "solEN" : "Spain"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "İSRAİL",
               "solEN" : "Israel"
             },
             {
               "agirlik" : 1,
               "sag" : "KAPANMA",
-              "sagEN" : "shutdown",
+              "sagEN" : "closure",
               "sol" : "İSRAİL",
               "solEN" : "Israel"
             },
@@ -45427,14 +45488,16 @@
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "İSVEÇ",
               "solEN" : "Sweden"
             },
             {
               "agirlik" : 1,
               "sag" : "DİPLOMATİK TIRMANIŞ",
+              "sagEN" : "diplomatic escalation",
               "sol" : "İZLANDA",
-              "solEN" : "Island"
+              "solEN" : "Iceland"
             }
           ],
           "tip" : "ulkeOlgu"
@@ -45511,21 +45574,21 @@
             {
               "agirlik" : 2,
               "sag" : "ARAMA KURTARMA",
-              "sagEN" : "search-and-rescue",
+              "sagEN" : "search and rescue",
               "sol" : "June Aster'ın ardından",
               "solEN" : "The aftermath of the deadly June Aster ferry fire off Palawan"
             },
             {
               "agirlik" : 1,
               "sag" : "ÖLÜM",
-              "sagEN" : "Tod",
+              "sagEN" : "death",
               "sol" : "June Aster'ın ardından",
               "solEN" : "The aftermath of the deadly June Aster ferry fire off Palawan"
             },
             {
               "agirlik" : 1,
               "sag" : "TAHLİYE",
-              "sagEN" : "eviction",
+              "sagEN" : "evacuation",
               "sol" : "Qingdao'da yük gemisindeki yangının ağır bilançosu",
               "solEN" : "Deadly fire aboard foreign cargo ship at Qingdao leaves many dead and missing"
             }
@@ -45622,21 +45685,21 @@
             {
               "agirlik" : 2,
               "sag" : "ARAMA KURTARMA",
-              "sagEN" : "search-and-rescue",
+              "sagEN" : "search and rescue",
               "sol" : "FİLİPİNLER",
               "solEN" : "Philippines"
             },
             {
               "agirlik" : 1,
               "sag" : "ÖLÜM",
-              "sagEN" : "Tod",
+              "sagEN" : "death",
               "sol" : "FİLİPİNLER",
               "solEN" : "Philippines"
             },
             {
               "agirlik" : 1,
               "sag" : "TAHLİYE",
-              "sagEN" : "eviction",
+              "sagEN" : "evacuation",
               "sol" : "ÇİN",
               "solEN" : "China"
             }
@@ -45768,7 +45831,7 @@
             {
               "agirlik" : 1,
               "sag" : "MAÇ",
-              "sagEN" : "match",
+              "sagEN" : "game",
               "sol" : "Gauff'un Flushing Meadows kaçışı",
               "solEN" : "Coco Gauff survives Mirra Andreeva to reach the US Open semi-finals"
             },
@@ -45789,7 +45852,7 @@
             {
               "agirlik" : 1,
               "sag" : "MAÇ",
-              "sagEN" : "match",
+              "sagEN" : "game",
               "sol" : "Kadınlarda düzen, erkeklerde açıklık",
               "solEN" : "US Open semifinals take shape as the women’s top four hold and the men’s field stays open"
             },
@@ -45803,6 +45866,7 @@
             {
               "agirlik" : 1,
               "sag" : "TENİS YARI FİNALİ",
+              "sagEN" : "tennis semi-final",
               "sol" : "Kadınlarda düzen, erkeklerde açıklık",
               "solEN" : "US Open semifinals take shape as the women’s top four hold and the men’s field stays open"
             },
@@ -45816,7 +45880,7 @@
             {
               "agirlik" : 1,
               "sag" : "MAÇ",
-              "sagEN" : "match",
+              "sagEN" : "game",
               "sol" : "Sabaha karşı gelen yarı final",
               "solEN" : "Shelton’s five-set US Open upset of Alcaraz ends at 3:33 a.m., setting a tournament record"
             },
@@ -45835,35 +45899,35 @@
             {
               "agirlik" : 7,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Sabaha karşı gelen yarı final",
               "solEN" : "Shelton’s five-set US Open upset of Alcaraz ends at 3:33 a.m., setting a tournament record"
             },
             {
               "agirlik" : 4,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Kadınlarda düzen, erkeklerde açıklık",
               "solEN" : "US Open semifinals take shape as the women’s top four hold and the men’s field stays open"
             },
             {
               "agirlik" : 3,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Gauff'un Flushing Meadows kaçışı",
               "solEN" : "Coco Gauff survives Mirra Andreeva to reach the US Open semi-finals"
             },
             {
               "agirlik" : 2,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Dört seri başı, son dörtte",
               "solEN" : "US Open singles advances through the draw as the quarterfinals give way to a historic women’s semifinal lineup"
             },
             {
               "agirlik" : 2,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Geceyi izleyip yarı finale çıktı",
               "solEN" : "Zverev reaches the US Open semi-finals after a dominant win despite a late night"
             },
@@ -45912,14 +45976,14 @@
             {
               "agirlik" : 1,
               "sag" : "İSPANYA",
-              "sagEN" : "España",
+              "sagEN" : "Spain",
               "sol" : "Sabaha karşı gelen yarı final",
               "solEN" : "Shelton’s five-set US Open upset of Alcaraz ends at 3:33 a.m., setting a tournament record"
             },
             {
               "agirlik" : 1,
               "sag" : "İTALYA",
-              "sagEN" : "Italie",
+              "sagEN" : "Italy",
               "sol" : "Sabaha karşı gelen yarı final",
               "solEN" : "Shelton’s five-set US Open upset of Alcaraz ends at 3:33 a.m., setting a tournament record"
             }
@@ -46027,39 +46091,40 @@
               "sag" : "TENİS MAÇI",
               "sagEN" : "tennis match",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 6,
               "sag" : "TENİS TURNUVASI",
               "sagEN" : "tennis tournament",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 2,
               "sag" : "TURNUVA",
               "sagEN" : "tournament",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "SPOR MÜSABAKASI",
               "sagEN" : "sporting competition",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "TENİS YARI FİNALİ",
+              "sagEN" : "tennis semi-final",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "MAÇ",
-              "sagEN" : "match",
+              "sagEN" : "game",
               "sol" : "ALMANYA",
               "solEN" : "Germany"
             },
@@ -46087,7 +46152,7 @@
             {
               "agirlik" : 1,
               "sag" : "MAÇ",
-              "sagEN" : "match",
+              "sagEN" : "game",
               "sol" : "RUSYA",
               "solEN" : "Russia"
             },
@@ -46103,28 +46168,28 @@
               "sag" : "TENİS MAÇI",
               "sagEN" : "tennis match",
               "sol" : "İSPANYA",
-              "solEN" : "España"
+              "solEN" : "Spain"
             },
             {
               "agirlik" : 1,
               "sag" : "TURNUVA",
               "sagEN" : "tournament",
               "sol" : "İSPANYA",
-              "solEN" : "España"
+              "solEN" : "Spain"
             },
             {
               "agirlik" : 1,
               "sag" : "TENİS MAÇI",
               "sagEN" : "tennis match",
               "sol" : "İTALYA",
-              "solEN" : "Italie"
+              "solEN" : "Italy"
             },
             {
               "agirlik" : 1,
               "sag" : "TURNUVA",
               "sagEN" : "tournament",
               "sol" : "İTALYA",
-              "solEN" : "Italie"
+              "solEN" : "Italy"
             }
           ],
           "tip" : "ulkeOlgu"
@@ -46245,7 +46310,7 @@
             {
               "agirlik" : 2,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
               "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
             },
@@ -46280,27 +46345,28 @@
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "11 Eylül'ün uzayan gölgesi",
               "solEN" : "Post-9\/11 wars continue to shape US strategy"
             },
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "11 Eylül'ün uzayan gölgesi",
               "solEN" : "Post-9\/11 wars continue to shape US strategy"
             },
             {
               "agirlik" : 1,
               "sag" : "DENETİM",
-              "sagEN" : "inspection",
+              "sagEN" : "audit",
               "sol" : "Denetimin kapandığı yerde",
               "solEN" : "IAEA says Iran is denying nuclear inspectors access amid escalating regional tensions"
             },
             {
               "agirlik" : 1,
               "sag" : "DENETİM ANLAŞMAZLIĞI",
+              "sagEN" : "inspection dispute",
               "sol" : "Denetimin kapandığı yerde",
               "solEN" : "IAEA says Iran is denying nuclear inspectors access amid escalating regional tensions"
             },
@@ -46314,14 +46380,14 @@
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ SALDIRI",
-              "sagEN" : "military offensive",
+              "sagEN" : "military strikes",
               "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
               "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
             },
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
               "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
             },
@@ -46335,6 +46401,7 @@
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
               "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
             },
@@ -46348,21 +46415,21 @@
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
               "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
             },
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "Seçim takvimine bağlanan savaş",
               "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
             },
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "Seçim takvimine bağlanan savaş",
               "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
             },
@@ -46383,14 +46450,14 @@
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "Seçim takvimine bağlanan savaş",
               "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
             },
             {
               "agirlik" : 1,
               "sag" : "KINAMA",
-              "sagEN" : "rebuke",
+              "sagEN" : "condemnation",
               "sol" : "İran’ın nükleer dosyasında Konsey eşiği",
               "solEN" : "U.N. Nuclear Watchdog Refers Iran’s Nuclear File to the Security Council After Censure Vote"
             },
@@ -46404,13 +46471,14 @@
             {
               "agirlik" : 1,
               "sag" : "SEVK",
+              "sagEN" : "referral",
               "sol" : "İran’ın nükleer dosyasında Konsey eşiği",
               "solEN" : "U.N. Nuclear Watchdog Refers Iran’s Nuclear File to the Security Council After Censure Vote"
             },
             {
               "agirlik" : 1,
               "sag" : "SORUŞTURMA",
-              "sagEN" : "Ermittlung",
+              "sagEN" : "investigation",
               "sol" : "İran’ın nükleer dosyasında Konsey eşiği",
               "solEN" : "U.N. Nuclear Watchdog Refers Iran’s Nuclear File to the Security Council After Censure Vote"
             }
@@ -46429,7 +46497,7 @@
             {
               "agirlik" : 4,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "11 Eylül'ün uzayan gölgesi",
               "solEN" : "Post-9\/11 wars continue to shape US strategy"
             },
@@ -46443,7 +46511,7 @@
             {
               "agirlik" : 4,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
               "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
             },
@@ -46457,7 +46525,7 @@
             {
               "agirlik" : 4,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Seçim takvimine bağlanan savaş",
               "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
             },
@@ -46506,7 +46574,7 @@
             {
               "agirlik" : 2,
               "sag" : "SUUDİ ARABİSTAN",
-              "sagEN" : "Saudi-Arabien",
+              "sagEN" : "Saudi Arabia",
               "sol" : "11 Eylül'ün uzayan gölgesi",
               "solEN" : "Post-9\/11 wars continue to shape US strategy"
             },
@@ -46527,7 +46595,7 @@
             {
               "agirlik" : 2,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "Denetimin kapandığı yerde",
               "solEN" : "IAEA says Iran is denying nuclear inspectors access amid escalating regional tensions"
             },
@@ -46590,7 +46658,6 @@
             {
               "agirlik" : 1,
               "sag" : "GAZZE ŞERİDİ",
-              "sagEN" : "Gazastreifen",
               "sol" : "11 Eylül'ün uzayan gölgesi",
               "solEN" : "Post-9\/11 wars continue to shape US strategy"
             },
@@ -46653,7 +46720,7 @@
             {
               "agirlik" : 1,
               "sag" : "BİRLEŞİK KRALLIK",
-              "sagEN" : "GB",
+              "sagEN" : "United Kingdom",
               "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
               "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
             },
@@ -46681,7 +46748,7 @@
             {
               "agirlik" : 1,
               "sag" : "İTALYA",
-              "sagEN" : "Italie",
+              "sagEN" : "Italy",
               "sol" : "Körfez'de deniz trafiği savaşın yeni hattı",
               "solEN" : "US-Iran tit-for-tat attacks on tankers and vessels deepen the Gulf maritime conflict"
             },
@@ -46695,14 +46762,14 @@
             {
               "agirlik" : 1,
               "sag" : "SUUDİ ARABİSTAN",
-              "sagEN" : "Saudi-Arabien",
+              "sagEN" : "Saudi Arabia",
               "sol" : "Seçim takvimine bağlanan savaş",
               "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
             },
             {
               "agirlik" : 1,
               "sag" : "TÜRKİYE",
-              "sagEN" : "Türkei",
+              "sagEN" : "Turkey",
               "sol" : "Seçim takvimine bağlanan savaş",
               "solEN" : "Trump predicts the Iran war will continue through the U.S. midterms and end immediately afterward"
             },
@@ -46730,7 +46797,7 @@
             {
               "agirlik" : 1,
               "sag" : "ABD",
-              "sagEN" : "the U.S.",
+              "sagEN" : "United States",
               "sol" : "İran’ın nükleer dosyasında Konsey eşiği",
               "solEN" : "U.N. Nuclear Watchdog Refers Iran’s Nuclear File to the Security Council After Censure Vote"
             }
@@ -46852,14 +46919,14 @@
               "sag" : "SAVAŞ",
               "sagEN" : "war",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 4,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 4,
@@ -46871,7 +46938,7 @@
             {
               "agirlik" : 4,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
@@ -46885,9 +46952,9 @@
             {
               "agirlik" : 3,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 3,
@@ -46908,7 +46975,7 @@
               "sag" : "SAVAŞ",
               "sagEN" : "war",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 3,
@@ -46920,7 +46987,7 @@
             {
               "agirlik" : 3,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
@@ -46929,14 +46996,14 @@
               "sag" : "TERÖR SALDIRISI",
               "sagEN" : "terrorist attack",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 2,
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 2,
@@ -47048,89 +47115,91 @@
               "sag" : "ABLUKA",
               "sagEN" : "blockade",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ KONUŞLANMA",
               "sagEN" : "military deployment",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ MÜDAHALE",
               "sagEN" : "military intervention",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ SALDIRI",
-              "sagEN" : "military offensive",
+              "sagEN" : "military strikes",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "DENETİM",
-              "sagEN" : "inspection",
+              "sagEN" : "audit",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "DENETİM ANLAŞMAZLIĞI",
+              "sagEN" : "inspection dispute",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "GÖRÜŞME",
               "sagEN" : "talks",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "KINAMA",
-              "sagEN" : "rebuke",
+              "sagEN" : "condemnation",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "OYLAMA",
               "sagEN" : "vote",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
               "sag" : "TEHDİT",
               "sagEN" : "threat",
               "sol" : "ABD",
-              "solEN" : "the U.S."
+              "solEN" : "United States"
             },
             {
               "agirlik" : 1,
@@ -47156,14 +47225,14 @@
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "AFGANİSTAN",
               "solEN" : "Afghanistan"
             },
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "AFGANİSTAN",
               "solEN" : "Afghanistan"
             },
@@ -47177,7 +47246,7 @@
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "AVUSTRALYA",
               "solEN" : "Australia"
             },
@@ -47198,14 +47267,14 @@
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ SALDIRI",
-              "sagEN" : "military offensive",
+              "sagEN" : "military strikes",
               "sol" : "BAHREYN",
               "solEN" : "Bahrain"
             },
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "BAHREYN",
               "solEN" : "Bahrain"
             },
@@ -47219,13 +47288,14 @@
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "BAHREYN",
               "solEN" : "Bahrain"
             },
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "BAHREYN",
               "solEN" : "Bahrain"
             },
@@ -47253,7 +47323,7 @@
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "BATI ŞERİA",
               "solEN" : "West Bank"
             },
@@ -47274,7 +47344,7 @@
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "BİRLEŞİK ARAP EMİRLİKLERİ",
               "solEN" : "United Arab Emirates"
             },
@@ -47288,36 +47358,37 @@
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "GÖRÜŞME",
               "sagEN" : "talks",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "SAVAŞ",
               "sagEN" : "war",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "BİRLEŞİK KRALLIK",
-              "solEN" : "GB"
+              "solEN" : "United Kingdom"
             },
             {
               "agirlik" : 1,
@@ -47336,7 +47407,7 @@
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "ENDONEZYA",
               "solEN" : "Indonesia"
             },
@@ -47364,7 +47435,7 @@
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "FİLİPİNLER",
               "solEN" : "Philippines"
             },
@@ -47379,22 +47450,19 @@
               "agirlik" : 1,
               "sag" : "SAVAŞ",
               "sagEN" : "war",
-              "sol" : "GAZZE ŞERİDİ",
-              "solEN" : "Gazastreifen"
+              "sol" : "GAZZE ŞERİDİ"
             },
             {
               "agirlik" : 1,
               "sag" : "TERÖR SALDIRISI",
               "sagEN" : "terrorist attack",
-              "sol" : "GAZZE ŞERİDİ",
-              "solEN" : "Gazastreifen"
+              "sol" : "GAZZE ŞERİDİ"
             },
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
-              "sol" : "GAZZE ŞERİDİ",
-              "solEN" : "Gazastreifen"
+              "sagEN" : "conflict",
+              "sol" : "GAZZE ŞERİDİ"
             },
             {
               "agirlik" : 1,
@@ -47420,21 +47488,21 @@
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ SALDIRI",
-              "sagEN" : "military offensive",
+              "sagEN" : "military strikes",
               "sol" : "IRAK",
               "solEN" : "Iraq"
             },
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "IRAK",
               "solEN" : "Iraq"
             },
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "IRAK",
               "solEN" : "Iraq"
             },
@@ -47462,7 +47530,7 @@
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "JAPONYA",
               "solEN" : "Japan"
             },
@@ -47497,14 +47565,14 @@
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ SALDIRI",
-              "sagEN" : "military offensive",
+              "sagEN" : "military strikes",
               "sol" : "KUVEYT",
               "solEN" : "Kuwait"
             },
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "KUVEYT",
               "solEN" : "Kuwait"
             },
@@ -47518,6 +47586,7 @@
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "KUVEYT",
               "solEN" : "Kuwait"
             },
@@ -47531,7 +47600,7 @@
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "LÜBNAN",
               "solEN" : "Lebanon"
             },
@@ -47545,6 +47614,7 @@
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "LÜBNAN",
               "solEN" : "Lebanon"
             },
@@ -47565,7 +47635,7 @@
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "LÜBNAN",
               "solEN" : "Lebanon"
             },
@@ -47586,14 +47656,14 @@
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "MISIR",
               "solEN" : "Egypt"
             },
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "PAKİSTAN",
               "solEN" : "Pakistan"
             },
@@ -47637,49 +47707,49 @@
               "sag" : "ABLUKA",
               "sagEN" : "blockade",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ KONUŞLANMA",
               "sagEN" : "military deployment",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
               "sag" : "TERÖR SALDIRISI",
               "sagEN" : "terrorist attack",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "SUUDİ ARABİSTAN",
-              "solEN" : "Saudi-Arabien"
+              "solEN" : "Saudi Arabia"
             },
             {
               "agirlik" : 1,
@@ -47719,7 +47789,7 @@
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "TAYLAND",
               "solEN" : "Thailand"
             },
@@ -47754,23 +47824,23 @@
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "TÜRKİYE",
-              "solEN" : "Türkei"
+              "solEN" : "Turkey"
             },
             {
               "agirlik" : 1,
               "sag" : "SAVAŞ",
               "sagEN" : "war",
               "sol" : "TÜRKİYE",
-              "solEN" : "Türkei"
+              "solEN" : "Turkey"
             },
             {
               "agirlik" : 1,
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "TÜRKİYE",
-              "solEN" : "Türkei"
+              "solEN" : "Turkey"
             },
             {
               "agirlik" : 1,
@@ -47789,14 +47859,14 @@
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "YEMEN",
               "solEN" : "Yemen"
             },
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "YEMEN",
               "solEN" : "Yemen"
             },
@@ -47831,7 +47901,7 @@
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "ÇİN",
               "solEN" : "China"
             },
@@ -47845,14 +47915,14 @@
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ SALDIRI",
-              "sagEN" : "military offensive",
+              "sagEN" : "military strikes",
               "sol" : "ÜRDÜN",
               "solEN" : "Jordan"
             },
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "ÜRDÜN",
               "solEN" : "Jordan"
             },
@@ -47866,27 +47936,28 @@
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "ÜRDÜN",
               "solEN" : "Jordan"
             },
             {
               "agirlik" : 1,
               "sag" : "SALDIRI",
-              "sagEN" : "assault",
+              "sagEN" : "attack",
               "sol" : "ÜRDÜN",
               "solEN" : "Jordan"
             },
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "ÜRDÜN",
               "solEN" : "Jordan"
             },
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "ÜRDÜN",
               "solEN" : "Jordan"
             },
@@ -47914,27 +47985,28 @@
             {
               "agirlik" : 1,
               "sag" : "ASKERÎ SALDIRI",
-              "sagEN" : "military offensive",
+              "sagEN" : "military strikes",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
             {
               "agirlik" : 1,
               "sag" : "DENETİM",
-              "sagEN" : "inspection",
+              "sagEN" : "audit",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
             {
               "agirlik" : 1,
               "sag" : "DENETİM ANLAŞMAZLIĞI",
+              "sagEN" : "inspection dispute",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
@@ -47948,14 +48020,14 @@
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
             {
               "agirlik" : 1,
               "sag" : "KINAMA",
-              "sagEN" : "rebuke",
+              "sagEN" : "condemnation",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
@@ -47969,6 +48041,7 @@
             {
               "agirlik" : 1,
               "sag" : "SEVK",
+              "sagEN" : "referral",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
@@ -47982,13 +48055,14 @@
             {
               "agirlik" : 1,
               "sag" : "SORUŞTURMA",
-              "sagEN" : "Ermittlung",
+              "sagEN" : "investigation",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "İRAN",
               "solEN" : "Iran"
             },
@@ -48009,7 +48083,7 @@
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "İSRAİL",
               "solEN" : "Israel"
             },
@@ -48023,56 +48097,58 @@
             {
               "agirlik" : 1,
               "sag" : "HAVA SALDIRISI",
-              "sagEN" : "air raids",
+              "sagEN" : "airstrike",
               "sol" : "İSRAİL",
               "solEN" : "Israel"
             },
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "İSRAİL",
               "solEN" : "Israel"
             },
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
-              "sagEN" : "shootout",
+              "sagEN" : "conflict",
               "sol" : "İSRAİL",
               "solEN" : "Israel"
             },
             {
               "agirlik" : 1,
               "sag" : "FÜZE SALDIRISI",
-              "sagEN" : "missile strikes",
+              "sagEN" : "missile attack",
               "sol" : "İTALYA",
-              "solEN" : "Italie"
+              "solEN" : "Italy"
             },
             {
               "agirlik" : 1,
               "sag" : "GÖRÜŞME",
               "sagEN" : "talks",
               "sol" : "İTALYA",
-              "solEN" : "Italie"
+              "solEN" : "Italy"
             },
             {
               "agirlik" : 1,
               "sag" : "SAVAŞ",
               "sagEN" : "war",
               "sol" : "İTALYA",
-              "solEN" : "Italie"
+              "solEN" : "Italy"
             },
             {
               "agirlik" : 1,
               "sag" : "TANKER SALDIRISI",
+              "sagEN" : "tanker attack",
               "sol" : "İTALYA",
-              "solEN" : "Italie"
+              "solEN" : "Italy"
             },
             {
               "agirlik" : 1,
               "sag" : "YAPTIRIM",
               "sagEN" : "sanctions",
               "sol" : "İTALYA",
-              "solEN" : "Italie"
+              "solEN" : "Italy"
             }
           ],
           "tip" : "ulkeOlgu"
@@ -48155,13 +48231,14 @@
             {
               "agirlik" : 1,
               "sag" : "SİYASİ AÇIKLAMA",
+              "sagEN" : "political statement",
               "sol" : "Merz'in AfD'ye çektiği çizgi",
               "solEN" : "Merz confronts the AfD in parliament after its regional election breakthrough"
             },
             {
               "agirlik" : 1,
               "sag" : "TARTIŞMA",
-              "sagEN" : "discussion",
+              "sagEN" : "debate",
               "sol" : "Merz'in AfD'ye çektiği çizgi",
               "solEN" : "Merz confronts the AfD in parliament after its regional election breakthrough"
             },
@@ -48201,7 +48278,7 @@
             {
               "agirlik" : 1,
               "sag" : "FRANSA",
-              "sagEN" : "Frankreich",
+              "sagEN" : "France",
               "sol" : "Saksonya-Anhalt’tan yayılan sarsıntı",
               "solEN" : "The AfD’s Saxony-Anhalt breakthrough is testing Germany’s political order and reverberating beyond its borders"
             },
@@ -48279,6 +48356,7 @@
             {
               "agirlik" : 1,
               "sag" : "SİYASİ AÇIKLAMA",
+              "sagEN" : "political statement",
               "sol" : "ALMANYA",
               "solEN" : "Germany"
             },
@@ -48292,7 +48370,7 @@
             {
               "agirlik" : 1,
               "sag" : "TARTIŞMA",
-              "sagEN" : "discussion",
+              "sagEN" : "debate",
               "sol" : "ALMANYA",
               "solEN" : "Germany"
             },
@@ -48308,7 +48386,7 @@
               "sag" : "SEÇİM",
               "sagEN" : "election",
               "sol" : "FRANSA",
-              "solEN" : "Frankreich"
+              "solEN" : "France"
             },
             {
               "agirlik" : 1,
