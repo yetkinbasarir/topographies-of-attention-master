@@ -22521,6 +22521,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "GAZZE ŞERİDİ",
+                  "sagEN" : "Gaza Strip",
                   "sol" : "11 Eylül'ün uzayan gölgesi",
                   "solEN" : "The long shadow of 9\/11"
                 },
@@ -23313,19 +23314,22 @@
                   "agirlik" : 1,
                   "sag" : "SAVAŞ",
                   "sagEN" : "war",
-                  "sol" : "GAZZE ŞERİDİ"
+                  "sol" : "GAZZE ŞERİDİ",
+                  "solEN" : "Gaza Strip"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "TERÖR SALDIRISI",
                   "sagEN" : "terrorist attack",
-                  "sol" : "GAZZE ŞERİDİ"
+                  "sol" : "GAZZE ŞERİDİ",
+                  "solEN" : "Gaza Strip"
                 },
                 {
                   "agirlik" : 1,
                   "sag" : "ÇATIŞMA",
                   "sagEN" : "conflict",
-                  "sol" : "GAZZE ŞERİDİ"
+                  "sol" : "GAZZE ŞERİDİ",
+                  "solEN" : "Gaza Strip"
                 },
                 {
                   "agirlik" : 1,
@@ -46666,6 +46670,7 @@
             {
               "agirlik" : 1,
               "sag" : "GAZZE ŞERİDİ",
+              "sagEN" : "Gaza Strip",
               "sol" : "11 Eylül'ün uzayan gölgesi",
               "solEN" : "The long shadow of 9\/11"
             },
@@ -47458,19 +47463,22 @@
               "agirlik" : 1,
               "sag" : "SAVAŞ",
               "sagEN" : "war",
-              "sol" : "GAZZE ŞERİDİ"
+              "sol" : "GAZZE ŞERİDİ",
+              "solEN" : "Gaza Strip"
             },
             {
               "agirlik" : 1,
               "sag" : "TERÖR SALDIRISI",
               "sagEN" : "terrorist attack",
-              "sol" : "GAZZE ŞERİDİ"
+              "sol" : "GAZZE ŞERİDİ",
+              "solEN" : "Gaza Strip"
             },
             {
               "agirlik" : 1,
               "sag" : "ÇATIŞMA",
               "sagEN" : "conflict",
-              "sol" : "GAZZE ŞERİDİ"
+              "sol" : "GAZZE ŞERİDİ",
+              "solEN" : "Gaza Strip"
             },
             {
               "agirlik" : 1,
