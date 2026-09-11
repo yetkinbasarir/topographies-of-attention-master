@@ -19903,7 +19903,8 @@
                   "agirlik" : 1,
                   "sag" : "Apple’ın yeni yüzü, katlanan iPhone",
                   "sagEN" : "A foldable phone for Apple’s next chapter",
-                  "sol" : "Apple’da devir teslimin ilk sahnesi"
+                  "sol" : "Apple’da devir teslimin ilk sahnesi",
+                  "solEN" : "The opening scene of Apple’s handover"
                 }
               ],
               "tip" : "neredenGeldi"
@@ -20062,7 +20063,8 @@
                   "agirlik" : 1,
                   "sag" : "Batı Şeria yerleşimlerine karşı genişleyen baskı",
                   "sagEN" : "When trade becomes the line over the West Bank",
-                  "sol" : "Londra'nın yerleşim hattında yeni eşiği"
+                  "sol" : "Londra'nın yerleşim hattında yeni eşiği",
+                  "solEN" : "London draws a new line on settlements"
                 }
               ],
               "tip" : "neredenGeldi"
@@ -21600,7 +21602,8 @@
                   "agirlik" : 1,
                   "sag" : "New York'ta son dört",
                   "sagEN" : "The US Open's final four take shape",
-                  "sol" : "Açılan tabloda yeni yollar"
+                  "sol" : "Açılan tabloda yeni yollar",
+                  "solEN" : "New paths through an opening draw"
                 }
               ],
               "tip" : "neredenGeldi"
@@ -22098,7 +22101,8 @@
                   "agirlik" : 1,
                   "sag" : "Hürmüz’de savaş, Viyana’da denetim",
                   "sagEN" : "Where the strait becomes the front line",
-                  "sol" : "Boğazdaki düğüm"
+                  "sol" : "Boğazdaki düğüm",
+                  "solEN" : "The knot in the strait"
                 }
               ],
               "tip" : "neredenGeldi"
@@ -44058,7 +44062,8 @@
               "agirlik" : 1,
               "sag" : "Apple’ın yeni yüzü, katlanan iPhone",
               "sagEN" : "A foldable phone for Apple’s next chapter",
-              "sol" : "Apple’da devir teslimin ilk sahnesi"
+              "sol" : "Apple’da devir teslimin ilk sahnesi",
+              "solEN" : "The opening scene of Apple’s handover"
             }
           ],
           "tip" : "neredenGeldi"
@@ -44214,7 +44219,8 @@
               "agirlik" : 1,
               "sag" : "Batı Şeria yerleşimlerine karşı genişleyen baskı",
               "sagEN" : "When trade becomes the line over the West Bank",
-              "sol" : "Londra'nın yerleşim hattında yeni eşiği"
+              "sol" : "Londra'nın yerleşim hattında yeni eşiği",
+              "solEN" : "London draws a new line on settlements"
             }
           ],
           "tip" : "neredenGeldi"
@@ -45746,7 +45752,8 @@
               "agirlik" : 1,
               "sag" : "New York'ta son dört",
               "sagEN" : "The US Open's final four take shape",
-              "sol" : "Açılan tabloda yeni yollar"
+              "sol" : "Açılan tabloda yeni yollar",
+              "solEN" : "New paths through an opening draw"
             }
           ],
           "tip" : "neredenGeldi"
@@ -46239,7 +46246,8 @@
               "agirlik" : 1,
               "sag" : "Hürmüz’de savaş, Viyana’da denetim",
               "sagEN" : "Where the strait becomes the front line",
-              "sol" : "Boğazdaki düğüm"
+              "sol" : "Boğazdaki düğüm",
+              "solEN" : "The knot in the strait"
             }
           ],
           "tip" : "neredenGeldi"
