@@ -18145,6 +18145,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "HÜRMÜZ BOĞAZI",
+                  "sagEN" : "Strait of Hormuz",
                   "sol" : "İran’ın enerjide iki ucu sıkışıyor",
                   "solEN" : "Iran squeezed at both ends of energy"
                 }
@@ -18881,7 +18882,8 @@
                   "agirlik" : 1,
                   "sag" : "ABLUKA",
                   "sagEN" : "blockade",
-                  "sol" : "HÜRMÜZ BOĞAZI"
+                  "sol" : "HÜRMÜZ BOĞAZI",
+                  "solEN" : "Strait of Hormuz"
                 },
                 {
                   "agirlik" : 1,
@@ -40569,6 +40571,7 @@
             {
               "agirlik" : 1,
               "sag" : "HÜRMÜZ BOĞAZI",
+              "sagEN" : "Strait of Hormuz",
               "sol" : "İran’ın enerjide iki ucu sıkışıyor",
               "solEN" : "Iran squeezed at both ends of energy"
             }
@@ -41305,7 +41308,8 @@
               "agirlik" : 1,
               "sag" : "ABLUKA",
               "sagEN" : "blockade",
-              "sol" : "HÜRMÜZ BOĞAZI"
+              "sol" : "HÜRMÜZ BOĞAZI",
+              "solEN" : "Strait of Hormuz"
             },
             {
               "agirlik" : 1,
