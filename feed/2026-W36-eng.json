@@ -21695,6 +21695,7 @@
                 {
                   "agirlik" : 1,
                   "sag" : "GALÁPAGOS",
+                  "sagEN" : "Galápagos Islands",
                   "sol" : "Isınan dünyanın El Niño işareti",
                   "solEN" : "El Niño's signal in a warming world"
                 },
@@ -22053,7 +22054,8 @@
                   "agirlik" : 1,
                   "sag" : "BULGU",
                   "sagEN" : "finding",
-                  "sol" : "GALÁPAGOS"
+                  "sol" : "GALÁPAGOS",
+                  "solEN" : "Galápagos Islands"
                 },
                 {
                   "agirlik" : 1,
@@ -44117,6 +44119,7 @@
             {
               "agirlik" : 1,
               "sag" : "GALÁPAGOS",
+              "sagEN" : "Galápagos Islands",
               "sol" : "Isınan dünyanın El Niño işareti",
               "solEN" : "El Niño's signal in a warming world"
             },
@@ -44475,7 +44478,8 @@
               "agirlik" : 1,
               "sag" : "BULGU",
               "sagEN" : "finding",
-              "sol" : "GALÁPAGOS"
+              "sol" : "GALÁPAGOS",
+              "solEN" : "Galápagos Islands"
             },
             {
               "agirlik" : 1,
