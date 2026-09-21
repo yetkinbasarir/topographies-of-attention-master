@@ -1,7 +1,14 @@
 {
-  "currentWeek" : "2026-W38",
+  "currentWeek" : "2026-W39",
   "feedVersion" : "1.0",
   "weeks" : [
+    {
+      "label" : "21-27 EYLÜL",
+      "packetCount" : 182,
+      "publishedAt" : "2026-09-21T20:03:57Z",
+      "url" : "feed\/2026-W39.json",
+      "week" : "2026-W39"
+    },
     {
       "label" : "14-20 EYLÜL",
       "packetCount" : 203,
